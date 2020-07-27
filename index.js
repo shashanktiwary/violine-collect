@@ -27,7 +27,7 @@ class violineFiles {
         return ('"' + val + '"');
     }
 
-    parsePage (error, result) {
+    parsePage(error, result) {
         var rows = result.html.body[0].table[0].tr[0].td[1].div[0].table[0].tr;
         var headerRec;
         var bodyRecs = '';
@@ -61,46 +61,46 @@ class violineFiles {
         fs.writeFileSync('./main_pathogens.csv', headerRec + bodyRecs);
     }
 
-    writePathogen (xRes, recId, fName, hostStrm, pathoStrm) {
+    writePathogen(xRes, recId, fName, hostStrm, pathoStrm) {
         let xmlData = '';
         xRes.on('data', function (data) {
             xmlData += data;
         });
-        xRes.on('end', function () {
+        xRes.on('end', () => {
             var scapeXmlData = xmlData.replace(/&(?!(?:apos|quot|[gl]t|amp);|#)/g, '&amp;')
-                                      .replace(/(<)([\s]?[.|\d]+)/g, '&gt;$2');
+                .replace(/(<)([\s]?[.|\d]+)/g, '&gt;$2');
             fs.writeFile('./data/' + fName, scapeXmlData, function (writeError) {
                 if (writeError)
                     console.log(writeError);
             });
-            xml.parseString(scapeXmlData, function(err, vol){
-                if(err){
-                   console.error(recId + '----- VOL ERROR ------' + err)
+            xml.parseString(scapeXmlData, (err, vol) => {
+                if (err) {
+                    console.error(recId + '----- VOL ERROR ------' + err)
                     return;
                 }
                 hostStrm.cork();
                 pathoStrm.cork();
                 // Generate Hosts file
-                for(var hidx = 0; hidx < vol.VIOLIN.host.length; hidx++) {
+                for (var hidx = 0; hidx < vol.VIOLIN.host.length; hidx++) {
                     var host = vol.VIOLIN.host[hidx];
-                    let hostVal = recId 
-                        + "," 
-                        + escape(host.taxon_id[0])
-                        + "," 
-                        + escape(host.common_name[0])
-                        + "," 
-                        + escape(host.scientific_name[0]);
+                    let hostVal = recId
+                        + ","
+                        + this.escape(host.taxon_id[0])
+                        + ","
+                        + this.escape(host.common_name[0])
+                        + ","
+                        + this.escape(host.scientific_name[0]);
                     console.log(hostVal);
-                    hostStrm.write(hostVal+ '\n');
+                    hostStrm.write(hostVal + '\n');
                 }
                 // Generate pathagen file
-                for(hidx = 0; hidx < vol.VIOLIN.pathogen.length; hidx++) {
+                for (hidx = 0; hidx < vol.VIOLIN.pathogen.length; hidx++) {
                     var patho = vol.VIOLIN.pathogen[hidx];
-                    var pathoVal = recId 
-                        + "," 
-                        + escape(patho.$.pathogen_id)
-                        + "," 
-                        + escape(patho.pathogen_name[0]);
+                    var pathoVal = recId
+                        + ","
+                        + this.escape(patho.$.pathogen_id)
+                        + ","
+                        + this.escape(patho.pathogen_name[0]);
                     console.log(pathoVal);
                     pathoStrm.write(pathoVal + '\n');
                 }
