@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen27">
+		<pathogen_name>Hantavirus</pathogen_name>
+		<taxon_id>11598</taxon_id>
+		<pathogenesis refs="reference227">Rodents (primarily deer mice) carry hantaviruses that cause hantavirus pulmonary syndrome in human. Rodents shed the virus in their urine, droppings, and saliva. The virus is mainly transmitted to people when they breathe in air contaminated with the virus. Functional impairment of vascular endothelium is central to the pathogenesis of HPS, and a myocardial depressant may contribute significantly to the mortality of this disease. Hantaviruses can infect endothelial cells,  macrophages and dendritic cells. The mechanism of inflammatory cell recruitment in the lungs of HPS patients may result from specific attraction and adherence of a selective population of inflammatory cells to an activated pulmonary microvascular endothelium (CDC Hantaviruses). </pathogenesis>
+		<disease_name>Hantavirus Pulmonary Syndrome</disease_name>
+		<protective_immunity refs="reference229">Klingström et al. reported that the strong Th2-type of immune response induced by Alum against rDOBV N did not induce protection in mice (Klingstrom et al., 2004).</protective_immunity>
+		<host_range refs="reference227">n the US, primarily deer mice, along with cotton rats and rice rats in the southeastern states and the white-footed mouse in the Northeast, carry hantaviruses that cause hantavirus pulmonary syndrome (CDC Hantaviruses).</host_range>
+		<introduction refs="reference228 reference229 reference227 reference226">Hantaviruses are rodent-borne agents that cause hemorrhagic fever with renal syndrome or hantavirus pulmonary syndrome (HPS) in humans (de et al., 2002). Annually, around 150,000 cases of HFRS are reported worldwide, caused by Hantaan (HTNV) and Seoul (SEOV) hantaviruses in Asia and by Puumala (PUUV), Dobrava (DOBV), and Saaremaa (SAAV) hantaviruses in Europe (Klingstrom et al., 2004). Hantavirus was first identified in the United States in 1993. HPS is a deadly disease from rodents. Although rare, Although rare, the consequences of getting it are serious. Early symptoms include fatigue, fever and muscle aches. There may also be headaches, dizziness, chills, and abdominal problems, such as nausea, vomiting, diarrhea, and abdominal pain. The major HPS symptoms may not appear until the illness becomes life-threatening. Rodent control in and around the home remains the primary strategy for preventing hantavirus infection (CDC Hantaviruses). Hantaviruses can also cause human hemorrhagic fever with renal syndrome (HFRS) (Lednicky, 2003).  
+
+Increased numbers of rodents in the household is the strongest risk factor for infection. Among documented U.S. cases of HPS, patients with potential occupational exposures have included grain farmers, an extension livestock specialist, field biologists, and agricultural, mill, construction, utility and feedlot workers (CDC Hantaviruses).
+
+Hantaviruses contain a three-segmented ssRNA-genome of negative polarity encoding four proteins: the nucleocapsid protein (N), the envelope proteins (G1 and G2), and the RNA dependent RNA polymerase (Klingstrom et al., 2004).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine943">
+		<vaccine_name>Andes virus vaccine using adenovirus viral vector expressing ANDV NP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011561</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Nonreplicating adenovirus (Ad) vectors</vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">Andes virus nucleocapsid protein (ANDVsSgp1)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering427" gene_id="gene494">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1104">Nonreplicating (E1− E3−) Ad vectors expressing ANDV proteins were constructed using the AdMax HI-IQ system (Microbix, Toronto, Canada).  The ANDV GN, GC, GPC, and N open reading frames were PCR amplified from plasmids containing the appropriate cDNAs derived from a Chilean ANDV isolate, strain 9717869.  AdEmpty was constructed using plasmid pDC316(io) containing no ANDV sequences. These pDC316(io)-based ANDV plasmids were cotransfected with plasmid pBHGloxΔE1,3Cre, containing the remainder of the Ad5 genomic plasmid, into 293 IQ cells. Supernatants were collected after 6 to 8 days, and the presence of Ad vectors expressing the ANDV proteins (designated AdN, AdGN, AdGC, and AdGPC) was confirmed by immunoprecipitation. Ad vectors were plaque purified, propagated in large-scale infections in 293 IQ cells, and purified using standard CsCl gradient methods (Safronetz et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response699" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Syrian gold</host_strain>
+			<vaccination_protocol refs="reference1104">Syrian golden hamsters (Mesocricetus auratus) (4- to 6-week-old males; Charles River, Pointe Claire, Canada) were group housed in microisolator units situated in the biosafety level 4 area of the National Microbiology Laboratory, Public Health Agency of Canada. Prior to vaccine experiments, the 50% lethal dose (LD50) for i.p. injections of ANDV in hamsters was established by inoculating anesthetized animals with 0.8 to 80,000 FFU (using 10-fold dilutions) of ANDV. Hamsters were monitored twice daily for clinical signs of illness according to an approved scoring sheet (ruffled fur, lethargy, inappetence, and labored breathing). For vaccination, hamsters were anesthetized with isoflurane, a preimmunization blood sample was collected, and the animals were immunized with the Ad vectors using 108 (293 cell) PFU of each vector diluted in 100 μl phosphate-buffered saline at two sites in the hind-leg musculature (Safronetz et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1104">Nonreplicating adenovirus (Ad) vectors that express Andes hantavirus (ANDV) nucleocapsid protein (AdN, ANDVsSgp1) or glycoproteins (AdG(N) and AdG(C)) were constructed . When administered once, all three Ad vectors, individually or in combination, elicited a robust immune response that protected Syrian hamsters from a lethal ANDV infection that mimics the pulmonary disease seen in humans. No vaccinated animal died, and there were no obvious clinical signs of disease (Safronetz et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1104">After 28 days, a second blood sample was collected and hamsters were challenged with ANDV by i.p. injection of 100 LD50s (equivalent to 154 FFU). Hamsters were examined twice daily for signs of illness. Survivors were monitored for 40 to 45 days and then anesthetized and exsanguinated via cardiac puncture (Safronetz et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine219">
+		<vaccine_name>Chimaeric HBV core particles carrying Puumala virus nucleocapsid protein fragments </vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004120</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference497">Chimaeric hepatitis B virus (HBV) core particles were constructed to carry defined fragments of the Puumala virus nucleocapsid protein. Puumala is a European hantavirus (Ulrich et al., 1998).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference497">The Puumala virus nucleocapsid protein (Ulrich et al., 1998).</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine218">
+		<vaccine_name>DNA vaccine encoding ANDV glycoproteins</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004119</vo_id>
+		<type>DNA vaccine</type>
+		<status></status>
+		<vector>pWRG/HTN-M(x), a customized plasmid built from pWRG7077 [Ref496:Custer et al., 2003]</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference496">An expression plasmid, pWRG/AND-M, was constructed that contains the full-length M genome segment of Andes virus (ANDV), a South American hantavirus (Custer et al., 2003).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference496">Both the G1 and G2 glycoproteins are expressed (Custer et al., 2003).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering148" gene_id="gene147">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference496">The Hantavirus G2 glycoprotein was expressed in the DNA vaccine (Custer et al., 2003). </description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1489" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference496">Rhesus macaques vaccinated by gene gun with pWRG/AND-M developed remarkably high levels of neutralizing antibodies that not only neutralized ANDV (a South American hantavirus) but also cross-neutralized other HPS-associated hantaviruses, including Sin Nombre virus (Custer et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine954">
+		<vaccine_name>Dobrava-Belgrade virus S nucleocapsid protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011512</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">Dobrava-Belgrade virus S nucleocapsid protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering438" gene_id="gene146">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference229">His-tagged rDOBV N and recombinant mouse dihydrofolate reductase (rDHFR) was prepared.  Freund’s complete adjuvant (FCA) or incomplete (FIA) adjuvant (Sigma, St. Louis, MO) or PBS. A total of 50 μg of recombinant protein was mixed with Alum and FCA/FIA, according to the manufacturers’ descriptions, or PBS, in a total volume of 200 μl per dosage (Klingstrom et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response709" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57/BL6</host_strain>
+			<vaccination_protocol refs="reference229">A total of 50 μg of recombinant protein was mixed with Alum and FCA/FIA, according to the manufacturers’ descriptions, or PBS, in a total volume of 200 μl per dosage. All immunizations and boosters were administered subcutaneously. rDOBV N or rDHFR in Alum, FCA or PBS were administered at day 0. At days 21 and 92, mice were boosted with rDOBV N or rDHFR in Alum, FIA or PBS (Klingstrom et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference229">Study compared the immunogenicity and protective efficacy of recombinant DOBV nucleocapsid protein (rDOBV N, S) given with Alum or Freund's as adjuvant, or PBS, in C57/BL6 mice.   Mice receiving rDOBV N with Freund's adjuvant were protected from challenge (75% protected) (Klingstrom et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference229">At day 118, all mice were challenged with 10 mouse ID50 of DOBV and 21 days later, all mice were sacrificed. Serum, plasma, and EDTA-blood were drawn at the time points indicated below (Klingstrom et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response250" gene_id="gene125">
+			    <description refs="reference229">Significantly higher numbers of IL-4 producing cells were found in the groups given rDOBV N with Freund’s adjuvant as compared to rDOBV N with PBS.  These reactions were found in peripheral blood mononuclear cells (PBMCs) 113 days after vaccination (Klingstrom et al., 2004).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response277" gene_id="gene1121">
+			    <description refs="reference229">Significantly higher levels of IL-2 producing cells were found in the group given rDOBV N with Alum as compared to the rDHFR vaccinated groups and PBS vaccinated groups.  These results were found in mice peripheral blood mononuclear cells (PBMCs) 113 days after vaccination (Klingstrom et al., 2004).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3933">
+		<vaccine_name>Hantavirus DNA vaccine pWRG/HTN-M</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004576</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pWRG7077 [Ref2704:Hooper et al., 2001]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1486" gene_id="gene1668">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1580" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2704">All of the hamsters that were vaccinated with pWRG/HTN-M were protected against infection as defined by an absence of a postchallenge N-specific antibody response. In addition, the pre- and postchallenge PRNT titers differed by ≤4-fold. In contrast, all of the negative control hamsters, whether they were vaccinated with pWRG7077 or remained unvaccinated, were infected, as evidenced by the development of N-specific antibodies and neutralizing antibodies postchallenge (Hooper et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine949">
+		<vaccine_name>Puumala virus PUUVsSgp1 (NP) protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011400</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's complete and incomplete adjuvants</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs="">Puumala virus nucleocapsid protein (PUUVsSgp1)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering433" gene_id="gene490">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference228">N proteins from PUUV, TOPV, ANDV, and DOBV, carrying a polyhistidine tag to facilitate protein purification, were produced in Escherichia coli cells. The N ORF of PUUV, TOPV, and DOBV were cloned into the pQE-32 vector (Qiagen, Hilden, Germany), while the N ORF of ANDV was cloned into pRSET (R&amp;D Systems Europe, Oxford, United Kingdom). An irrelevant protein, mouse dihydrofolate reductase (DHFR) (Qiagen), provided by the manufacturer and expressed in the same system, was used as a negative control protein (de et al., 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response705" host_id="host43">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference228">To asses the immunogenicity and protective capacity of the expressed rN proteins, 4- to 10-week-old bank voles, derived from a PUUV-free colony established with animals captured in Sweden, were immunized with purified PUUV, TOPV, ANDV, or DOBV rN or DHFR control protein. Bank voles were immunized three times with 50 μg of protein at intervals of 3 weeks. The animals were injected with protein emulsified in Freund's complete adjuvant, incomplete Freund's adjuvant, and phosphate-buffered saline (PBS), respectively (de et al., 2002).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference228">To investigate the ability of recombinant N (rN, nucleocapsid proteins) from different hantaviruses to elicit cross-protection, we immunized bank voles with rN from Puumala (PUUV), Topografov (TOPV), Andes (ANDV), and Dobrava (DOBV) viruses and subsequently challenged them with PUUV. All animals immunized with PUUV (PUUVsSgp1) and TOPV rN were completely protected (de et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference228">Bank voles were challenged subcutaneously 2 weeks after the last immunization with approximately 20 50% infective doses of wild-type PUUV (strain Kazan) (de et al., 2002).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine140">
+		<vaccine_name>Recombinant DOBV nucleocapsid protein (rDOBV N)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004102</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference229">Dobrava hantavirus (DOBV) causes a severe form of hemorrhagic fever with renal syndrome (HFRS). Currently there is no therapy or vaccine available for HFRS (Klingstrom et al., 2004). </description>
+		<adjuvant refs="reference229">Dobrava hantavirus nucleocapsid protein in Freund's adjuvant (Klingstrom et al., 2004).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">Not virulent</virulence>
+		<preparation refs="reference229">Recombinant DOBV nucleocapsid protein (rDOBV N) given with Alum or Freund's as adjuvant (Klingstrom et al., 2004).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering147" gene_id="gene146">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference229">Dobrava hantavirus nucleocapsid protein was used for the vaccine development (Klingstrom et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response167" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57/BL6 mice</host_strain>
+			<vaccination_protocol refs="reference229">His-tagged rDOBV N and recombinant mouse dihydrofolate reductase (rDHFR) was emulsified with Imject® Alum (Pierce, Rockford, IL), Freund’s complete adjuvant (FCA) or incomplete (FIA) adjuvant (Sigma, St. Louis, MO) or PBS. A total of 50 μg of recombinant protein was mixed with Alum and FCA/FIA, or PBS, in a total volume of 200 μl per dosage. All immunizations and boosters were administered subcutaneously. rDOBV N or rDHFR in Alum, FCA or PBS were administered at day 0. At days 21 and 92, mice were boosted with rDOBV N or rDHFR in Alum, FIA or PBS. At day 118, all mice were challenged with 10 mouse ID50 of DOBV and 21 days later, all mice were sacrificed. Serum, plasma, and EDTA-blood were drawn at the time points indicated below (Klingstrom et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference229">The immunogenicity and protective efficacy of recombinant DOBV nucleocapsid protein (rDOBV N) given with Alum or Freund’s as adjuvant, or PBS, in C57/BL6 mice, were compared. All mice given Alum or Freund’s seroconverted as did 6/8 mice given rDOBV N with PBS. Reciprocal geometric mean total IgG-titers were 5380, 18,100, and 800, respectively, while the mean IgG1/IgG2a ratios were 17.5, 9.25, and 12, respectively. Furthermore, ELIspot assays showed higher levels of IL-4 producing peripheral blood mononuclear cells (PBMCs) in the group given Alum as compared to the other groups. Interestingly, only mice receiving rDOBV N with Freund’s adjuvant were protected from challenge (75% protected), indicating that the strong Th2-type of immune response induced by Alum against rDOBV N did not induce protection in mice (Klingstrom et al., 2004).</protection_efficacy>
+			<side_effects refs="">No side effects.</side_effects>
+			<challenge_protocol refs="reference229">All vaccinated mice were subcutaneously challenged with 10 mouse ID50 DOBV at day 118. The challenge did not kill mice. Three weeks after challenge, the mice were sacrificed and serum tested for the presence of neutralizing antibodies (Klingstrom et al., 2004). </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4142">
+		<vaccine_name>rVSVΔG-ANDV-GPC</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004662</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1776" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3123">Syrian hamsters were immunized with a single injection of VSVΔG/ANDVGPC (Brown et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3123">The hamsters were fully protected against the disease; however, the mechanism of protection seems to differ depending on when the immunization occurs.  Administration of the vaccine at 7 or 3 days before challenge also resulted in full protection but with no specific neutralizing humoral immune response, suggesting a possible role of innate responses in protection against challenge virus replication. Administration of the vaccine 24 h postchallenge was successful in protecting 90% of hamsters and again suggested the induction of a potent antiviral state by the recombinant vector as a potential mechanism (Brown et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3123">After immunization, the hamsters were challenged at 28, 14, 7, or 3 days postimmunization with a lethal dose of ANDV (Brown et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine951">
+		<vaccine_name>Seoul virus vaccine rCAV-2-Gc</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011402</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>replication-competent recombinant canine adenovirus type 2</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Seoul virus Gc glycoprotein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering435" gene_id="gene486">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1100">The Gc protein expressed by rCAV-2-Gc in MDCK cells was evaluated by a SEOV-specific indirect IFA. MDCK cells grown on 15 mm glass coverslips in 12-well culture plates were infected with rCAV-2-Gc or CAV-2 at an m.o.i. of 20. After 48 h infection, the coverslips were rinsed once with PBS (pH 7.4), fixed with acetone for 10 min at room temperature and then reacted with rabbit anti-SEOV polyclonal antiserum and washed three times with PBS. The fixed monolayers were incubated at 37 °C for 30 min in a moist chamber with donkey anti-rabbit IgG labelled with fluorescence isothiocyanate (Amersham). The coverslips were rinsed three times with PBS. Cell monolayers that bound the antibody were covered with glycerine and examined for specific fluorescence under a Zeiss Axioplan fluorescence microscope.  Expression of SEOV Gc in MDCK cells infected with rCAV-2-Gc was identified by Western blotting. rCAV-2-Gc-infected cell lysates were separated by 12 % SDS-PAGE, and the proteins transferred to nitrocellulose membrane (Pall Corporation) and probed with positive serum against SEOV and HRP-labelled goat anti-mouse IgG antibody (Sigma) (Yuan et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response707" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1100">Mice were randomly assigned to four experimental groups (20 mice per group). Group I was intramuscularly inoculated once with 0.1 ml rCAV-2-Gc (108.0 p.f.u. ml–1); group II received 0.1 ml CAV-2 (108.2 p.f.u. ml–1) intramuscularly as a negative control; group III were inoculated intramuscularly with one dose of HFRS bivalent purified vaccine Youerjian (0.5 ml per dose; GuangDong HongMing Biological Science and Technology Co.) as a positive-control; and group IV were injected with 0.1 ml PBS as a negative control (Yuan et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1100">eplication-competent recombinant canine adenovirus type 2 expressing the Gc protein of SEOV (rCAV-2-Gc) in BALB/c mice induced complete protection against a intensive infectious challenge with ~1,000 50% infective doses (ID50) for SEOV strain CC-2 (Yuan et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1100">At the end of the trial, all mice were injected intramuscularly with SEOV strain CC-2 diluted in 0.2 ml PBS. The challenge dose for each virus was 2000 p.f.u. This dose is 1000 50 % infective doses for SEOV. At 14 days after challenge, the mice were sacrificed by CO2 asphyxiation, as approved by the China Small Animal Protection Association. Pre- and post-challenge sera were evaluated for the presence of N-specific antibodies by ELISA and for the presence of neutralizing antibodies by FRNT. Detecting post-challenge N-specific antibody indicated that the mice were infected with the challenge virus (Yuan et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine950">
+		<vaccine_name>Sin Nombre virus DNA vaccine encoding G1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011401</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>CMV expression vector pCMVi (-H3) UBs</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs="">Sin Nombre virus envelope glycoprotein G1</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering434" gene_id="gene487">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1101">Cloned the G1 and G2 glycoprotein genes of SN virus strain CC107 into the CMV expression vector pCMVi (-H3) UBs (Bharadwaj et al., 1999 ). The M segment fragments 3' of the first fragment were prepared in a similar manner, such that each expression construct shared 100 nt of sequence at the 5' end with the 3' end of the fragment that preceded it.  The coordinates of each of the ten glycoprotein fragments, designated M-CMV-A thorough -I. We also cloned the entire SN virus N gene in a single fragment in a separate expression construct. The same viral cDNA fragments were cloned into bacterial expression vectors to allow bacterial synthesis of the cognate antigens as fusion proteins, as described (Bharadwaj et al., 1997 ; Yamada et al., 1995 ) (Bharadwaj et al., 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response706" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1101">We purified plasmid DNA with an endotoxin-free kit (EndoFree, Qiagen), and dissolved DNA to a concentration of 1 mg/ml in 0·9% NaCl. Five to twelve mice were immunized with each construct three times at 4 week intervals, using 50 µg of plasmid into each set of quadriceps muscles for a total of 100 µg. No adjuvants were used (Bharadwaj et al., 2002).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1101">Study used a deer mouse infection model to test the protective efficacy of genetic vaccine candidates for Sin Nombre (SN) virus that were known to provoke immunological responses in BALB/c mice.  Protective epitopes were localized in each of four overlapping cDNA fragments that encoded portions of the SN virus G1 glycoprotein antigen; the nucleocapsid gene also was protective (Bharadwaj et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1101">Challenged the mice in the challenge replicate with 5 ID50 of SN77734 by the i.m. route 2 weeks after the third vaccination, a dose that corresponds roughly to 50–200 focus-forming units (Bharadwaj et al., 2002).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine945">
+		<vaccine_name>Sin Nombre virus DNA vaccine encoding SNVsSgp1 (NP)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011543</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>CMV expression vector pCMVi (-H3) UBs</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs="">Sin nombre virus nucleocapsid protein (SNVsSgp1)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering429" gene_id="gene489">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1101">Cloned the G1 and G2 glycoprotein genes of SN virus strain CC107 into the CMV expression vector pCMVi (-H3) UBs (Bharadwaj et al., 1999 ). The M segment fragments 3' of the first fragment were prepared in a similar manner, such that each expression construct shared 100 nt of sequence at the 5' end with the 3' end of the fragment that preceded it.  The coordinates of each of the ten glycoprotein fragments, designated M-CMV-A thorough -I. We also cloned the entire SN virus N gene in a single fragment in a separate expression construct. The same viral cDNA fragments were cloned into bacterial expression vectors to allow bacterial synthesis of the cognate antigens as fusion proteins (Bharadwaj et al., 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response701" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1101">Five to twelve mice were immunized with each plasmid DNA construct three times at 4 week intervals, using 50 µg of plasmid into each set of quadriceps muscles for a total of 100 µg. No adjuvants were used (Bharadwaj et al., 2002).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1101">Study used a deer mouse infection model to test the protective efficacy of genetic vaccine candidates for Sin Nombre (SN) virus that were known to provoke immunological responses in BALB/c mice. Protective epitopes were localized in each of four overlapping cDNA fragments that encoded portions of the SN virus G1 glycoprotein antigen; the nucleocapsid gene (SNVsSgp1) also was protective (Bharadwaj et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1101">Challenged the mice in the challenge replicate with 5 ID50 of SN77734 by the i.m. route 2 weeks after the third vaccination, a dose that corresponds roughly to 50–200 focus-forming units (Bharadwaj et al., 2002).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine952">
+		<vaccine_name>Topografov virus N protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011403</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's complete and incomplete adjuvants</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs="">Topografov virus Nucleocapsid protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering436" gene_id="gene491">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response708" host_id="host43">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference228">To asses the immunogenicity and protective capacity of the expressed rN proteins, 4- to 10-week-old bank voles, derived from a PUUV-free colony established with animals captured in Sweden, were immunized with purified PUUV, TOPV, ANDV, or DOBV rN or DHFR control protein. Bank voles were immunized three times with 50 μg of protein at intervals of 3 weeks. The animals were injected with protein emulsified in Freund's complete adjuvant, incomplete Freund's adjuvant, and phosphate-buffered saline (PBS), respectively (de et al., 2002).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference228">To investigate the ability of recombinant N (rN, nucleocapsid proteins) from different hantaviruses to elicit cross-protection, we immunized bank voles with rN from Puumala (PUUV), Topografov (TOPV), Andes (ANDV), and Dobrava (DOBV) viruses and subsequently challenged them with PUUV. All animals immunized with PUUV and TOPV rN were completely protected (de et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference228">Bank voles were challenged subcutaneously 2 weeks after the last immunization with approximately 20 50% infective doses of wild-type PUUV (strain Kazan) (de et al., 2002).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine141">
+		<vaccine_name>Truncated Recombinant DoBV Nucleocapsid Proteins (Dob-N rNp)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004103</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference231">Dob-N rNp was emulsifi ed in 2% Alhydrogel (Accurate Chemical &amp; Scientific Corp., Westbury, N.Y., USA). The rNp P40-Dob-N, P40-Dob118 and P40p-Dob118 were administered in sterile PBS (Maes et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">Not virulent</virulence>
+		<preparation refs="reference231">DOBV RNA (strain DOB-90/5) was extracted from infected Vero E6 cells (CRL 1586; ATCC, USA). The genomic RNA of DOBV was reverse-transcribed and PCR amplified in order to generate the entire S-segment, using following oligonucleotide primers: 5'-GCGAATTCGCAACACTAGAGGAACTCCAAAAGG-3' and 5'-CGAAGCTTAGTGGTGGTGGTGGTGGTGAAGTTTGAGCGGCTCC-3'. The amino-terminal part encoding the first 118 amino acids was generated using 5'-CTGGCGCCTAACCGACGTGGTGGTGGTGGTGGTGATTCGAAGC-3' as reverse primer. In all constructs, a histidine (His) tag was introduced at the C-terminal end. PCR fragments were cloned in plasmids pTEX(rP40) or pTEXmp18 respectively with or without the inclusion of the P40 sequence in the construct. Following transformation of the E. coli ICONE 200 strain, the recombinant proteins were produced as intracellular inclusion bodies, recovered, and renatured. The recombinant proteins were purifi ed by metal chelate affinity chromatography using a HisTrap kit (Pharmacia, Puurs, Belgium). Using this protocol, four DOBV rNp constructs were expressed and purified. The complete nucleocapsid protein of DOBV was expressed with or without the addition of the rP40 protein (constructs P40-Dob-N and Dob-N). The amino-terminal part of the DOBV nucleocapsid protein was expressed with the addition of the rP40 protein (construct P40-Dob118) or with the addition of only the periplasmic part of the rP40 protein (construct P40p-Dob118) (Maes et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response168" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">NMRI mice (Elevage Janvier, Le Genest Saint Isle, France)</host_strain>
+			<vaccination_protocol refs="reference231">Groups of ten 6-week-old NMRI mice (Elevage Janvier, Le Genest Saint Isle, France) were immunized three times subcutaneously with three different concentrations (0.2, 2 and 10 ug) of rNp with intervals of 2 weeks. The animals were injected with Dob-N rNp emulsifi ed in 2% Alhydrogel (Accurate Chemical &amp; Scientific Corp., Westbury, N.Y., USA). The rNp P40-Dob-N, P40-Dob118 and P40p-Dob118 were administered in sterile PBS. Blood was drawn 14 days after each immunization (Maes et al., 2006).</vaccination_protocol>
+			<persistence refs="">N/A</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference231">All recombinant proteins were found to be highly immunogenic after three immunizations of rNp. The immunizations resulted in the induction of a strong Np-specific IgG response with a predominance of IgG1 over IgG2b and IgG2a, suggesting a mixed Th1/Th2 cell involvement. A specific IgG3 response could not be detected. Mice immunized with recombinant DOBV rNp without rP40 showed lower nucleocapsid-specific antibody responses in comparison with the rP40-conjugated constructs, but all mice were found to be protected against DOBV challenge. The results indicate that the rNp constructs coupled to rP40, represent promising vaccine candidates (Maes et al., 2006).</protection_efficacy>
+			<side_effects refs="">None.</side_effects>
+			<challenge_protocol refs="reference231">Groups of 10 NMRI mice were immunized three times subcutaneously with 10 ug of the different constructs with intervals of 2 weeks, and were challenged intraperitoneal with DOBV 2 weeks after the last immunization. Three weeks later, all mice were sacrificed and serum samples were collected. Mice immunized three times subcutaneously with 10 ug of rP40 were used as a control group (Maes et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene494">
+        <gene_name>ANDVsSgp1</gene_name>
+        <strain>Andes orthohantavirus</strain>
+        <vo_id>VO_0011092</vo_id>
+        <ncbi_gene_id>991232</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>19744950</ncbi_protein_id>
+        <gene_locus_tag>ANDVsSgp1</gene_locus_tag>
+        <gene_refseq>AF004660</gene_refseq>
+        <protein_refseq>NP_604471</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>1980456</taxonomy_id>
+        <chromosome></chromosome>
+        <segment>Segment S</segment>
+        <plasmid></plasmid>
+        <gene_start>42</gene_start>
+        <gene_end>1328</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>nucleocapsid protein</protein_name>
+        <protein_pi>7.18</protein_pi>
+        <protein_weight>45461.89</protein_weight>
+        <protein_length>428</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_003466.1:42-1328 Andes virus segment S, complete sequence
+AATGAGCACCCTCCAAGAATTGCAGGAAAACATCACAGCACACGAACAACAGCTCGTGACTGCTCGGCAA
+AAGCTTAAGGATGCCGAGAAGGCAGTGGAGGTGGACCCGGATGACGTTAACAAGAGCACACTACAAAGTA
+GACGGGCAGCTGTGTCTACATTGGAGACCAAACTCGGAGAACTTAAGAGGCAACTTGCAGATTTGGTGGC
+AGCTCAAAAATTGGCTACAAAACCAGTTGATCCAACAGGGCTTGAGCCTGATGATCATCTAAAGGAAAAA
+TCATCTCTGAGATATGGGAATGTCCTGGATGTTAATTCAATTGATTTGGAAGAACCGAGTGGACAGACTG
+CTGATTGGAAGGCTATAGGAGCATACATCTTAGGGTTTGCAATTCCGATCATCCTAAAGGCCTTATACAT
+GCTGTCAACCCGTGGGAGACAAACTGTGAAAGACAACAAAGGGACCAGGATAAGGTTTAAGGATGATTCT
+TCCTTTGAAGAAGTCAATGGGATACGTAAACCAAAACACCTTTACGTCTCAATGCCAACTGCACAGTCCA
+CTATGAAGGCTGAAGAAATCACGCCAGGACGATTTAGGACAATTGCTTGTGGCCTTTTTCCAGCACAGGT
+CAAAGCCCGAAATATAATAAGTCCTGTAATGGGAGTAATTGGATTTGGCTTCTTTGTAAAGGATTGGATG
+GATCGGATAGAAGAGTTTCTGGCTGCAGAGTGTCCATTCTTACCTAAGCCAAAGGTCGCCTCAGAAGCCT
+TCATGTCTACCAATAAGATGTATTTTCTGAACAGACAGAGACAAGTCAATGAATCTAAGGTTCAAGATAT
+TATCGATTTGATAGACCATGCTGAGACCGAGTCTGCTACCTTGTTTACAGAGATTGCAACACCCCATTCA
+GTCTGGGTGTTTGCATGTGCACCTGACCGGTGCCCTCCAACTGCATTGTATGTTGCAGGGGTACCGGAAC
+TTGGTGCATTTTTTTCTATCCTTCAGGACATGCGTAATACCATCATGGCATCTAAATCTGTAGGGACTGC
+AGAAGAGAAGCTAAAGAAAAAATCTGCCTTCTACCAATCATACCTAAGAAGGACACAATCTATGGGAATC
+CAACTGGACCAGAAGATCATAATCCTTTACATGCTATCATGGGGTAAAGAAGCTGTGAATCACTTCCATC
+TTGGTGATGATATGGACCCTGAACTCAGGCAGCTAGCACAATCTCTGATCGATACTAAGGTGAAGGAGAT
+CTCCAACCAAGAGCCACTTAAGTTGTA
+
+</dna_sequence>
+        <protein_sequence>>NP_604471.1 nucleocapsid protein [Andes orthohantavirus]
+MSTLQELQENITAHEQQLVTARQKLKDAEKAVEVDPDDVNKSTLQSRRAAVSTLETKLGELKRQLADLVA
+AQKLATKPVDPTGLEPDDHLKEKSSLRYGNVLDVNSIDLEEPSGQTADWKAIGAYILGFAIPIILKALYM
+LSTRGRQTVKDNKGTRIRFKDDSSFEEVNGIRKPKHLYVSMPTAQSTMKAEEITPGRFRTIACGLFPAQV
+KARNIISPVMGVIGFGFFVKDWMDRIEEFLAAECPFLPKPKVASEAFMSTNKMYFLNRQRQVNESKVQDI
+IDLIDHAETESATLFTEIATPHSVWVFACAPDRCPPTALYVAGVPELGAFFSILQDMRNTIMASKSVGTA
+EEKLKKKSAFYQSYLRRTQSMGIQLDQKIIILYMLSWGKEAVNHFHLGDDMDPELRQLAQSLIDTKVKEI
+SNQEPLKL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Nonreplicating adenovirus (Ad) vectors that express Andes hantavirus (ANDV) nucleocapsid protein (AdN, ANDVsSgp1) or glycoproteins (AdG(N) and AdG(C)) were constructed . When administered once, all three Ad vectors, individually or in combination, elicited a robust immune response that protected Syrian hamsters from a lethal ANDV infection that mimics the pulmonary disease seen in humans. No vaccinated animal died, and there were no obvious clinical signs of disease [Ref1104:Safronetz et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene487">
+        <gene_name>G1</gene_name>
+        <strain>Sin Nombre virus</strain>
+        <vo_id>VO_0011086</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1113859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>2K9H</pdb_id>
+        <xrefs>CDD:279853</xrefs>
+        <taxonomy_id>1980491</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>envelope glycoprotein G1</protein_name>
+        <protein_pi>5.59</protein_pi>
+        <protein_weight>9420.59</protein_weight>
+        <protein_length>169</protein_length>
+        <protein_note>SNV</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAC54579.1 envelope glycoprotein G1, partial [Sin Nombre orthohantavirus]
+FLVVLTTATAGLTRNLYELKIECPHTVGLGQGYVTGSVETTPVLFSQVADLKIESSCNFDLHVPATTTQK
+YNQVDWTKKSSTTENTNAGAS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study used a deer mouse infection model to test the protective efficacy of genetic vaccine candidates for Sin Nombre (SN) virus that were known to provoke immunological responses in BALB/c mice.  Protective epitopes were localized in each of four overlapping cDNA fragments that encoded portions of the SN virus G1 glycoprotein antigen; the nucleocapsid gene also was protective [Ref1101:Bharadwaj et al., 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene486">
+        <gene_name>Gc</gene_name>
+        <strain>Seoul virus</strain>
+        <vo_id>VO_0011085</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>284157806</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:144961</xrefs>
+        <taxonomy_id>1980490</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Gc glycoprotein</protein_name>
+        <protein_pi>6.5</protein_pi>
+        <protein_weight>11999.31</protein_weight>
+        <protein_length>170</protein_length>
+        <protein_note>Hantavirus glycoprotein G2; pfam01561</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ADB80030.1 Gc glycoprotein, partial [Seoul orthohantavirus]
+VPLWTDNAHGVGSVPMHTDLELDFSLPSSSKYTYKRHLTNPVNDQQSVSLHIEIESQGIGADVHHLGHWY
+DARLNLKTSFHCYGACTKYQYPWHTAKCHFEKDYEY
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Seoul virus (SEOV) is one of the four known hantaviruses causing hemorrhagic fever with renal syndrome (HFRS).  A replication-competent recombinant canine adenovirus type 2 expressing the Gc protein of SEOV (rCAV-2-Gc) in BALB/c mice induced complete protection against a intensive infectious challenge with ~1,000 50% infective doses (ID50) for SEOV strain CC-2 [Ref1100:Yuan et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1668">
+        <gene_name>GP</gene_name>
+        <strain>Hantaan virus 76-118</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>138339</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279853
+CDD:119058
+CDD:144961</xrefs>
+        <taxonomy_id>11602</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Envelopment polyprotein</protein_name>
+        <protein_pi>7.1</protein_pi>
+        <protein_weight>122560.28</protein_weight>
+        <protein_length>1460</protein_length>
+        <protein_note>Glycoprotein precursor; M polyprotein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|P08668.1|GP_HANTV RecName: Full=Envelopment polyprotein; AltName: Full=Glycoprotein precursor; AltName: Full=M polyprotein; Contains: RecName: Full=Glycoprotein N; Short=Gn; AltName: Full=Glycoprotein G2; Contains: RecName: Full=Glycoprotein C; Short=Gc; AltName: Full=Glycoprotein G1; Flags: Precursor
+MGIWKWLVMASLVWPVLTLRNVYDMKIECPHTVSFGENSVIGYVELPPVPLADTAQMVPESSCNMDNHQS
+LNTITKYTQVSWRGKADQSQSSQNSFETVSTEVDLKGTCVLKHKMVEESYRSRKSVTCYDLSCNSTYCKP
+TLYMIVPIHACNMMKSCLIALGPYRVQVVYERSYCMTGVLIEGKCFVPDQSVVSIIKHGIFDIASVHIVC
+FFVAVKGNTYKIFEQVKKSFESTCNDTENKVQGYYICIVGGNSAPIYVPTLDDFRSMEAFTGIFRSPHGE
+DHDLAGEEIASYSIVGPANAKVPHSASSDTLSLIAYSGIPSYSSLSILTSSTEAKHVFSPGLFPKLNHTN
+CDKSAIPLIWTGMIDLPGYYEAVHPCTVFCVLSGPGASCEAFSEGGIFNITSPMCLVSKQNRFRLTEQQV
+NFVCQRVDMDIVVYCNGQRKVILTKTLVIGQCIYTITSLFSLLPGVAHSIAVELCVPGFHGWATAALLVT
+FCFGWVLIPAITFIILTVLKFIANIFHTSNQENRLKSVLRKIKEEFEKTKGSMVCDVCKYECETYKELKA
+HGVSCPQSQCPYCFTHCEPTEAAFQAHYKVCQVTHRFRDDLKKTVTPQNFTPGCYRTLNLFRYKSRCYIF
+TMWIFLLVLESILWAASASETPLTPVWNDNAHGVGSVPMHTDLELDFSLTSSSKYTYRRKLTNPLEEAQS
+IDLHIEIEEQTIGVDVHALGHWFDGRLNLKTSFHCYGACTKYEYPWHTAKCHYERDYQYETSWGCNPSDC
+PGVGTGCTACGLYLDQLKPVGSAYKIITIRYSRRVCVQFGEENLCKIIDMNDCFVSRHVKVCIIGTVSKF
+SQGDTLLFFGPLEGGGLIFKHWCTSTCQFGDPGDIMSPRDKGFLCPEFPGSFRKKCNFATTPICEYDGNM
+VSGYKKVMATIDSFQSFNTSTMHFTDERIEWKDPDGMLRDHINILVTKDIDFDNLGENPCKIGLQTSSIE
+GAWGSGVGFTLTCLVSLTECPTFLTSIKACDKAICYGAESVTLTRGQNTVKVSGKGGHSGSTFRCCHGED
+CSQIGLHAAAPHLDKVNGISEIENSKVYDDGAPQCGIKCWFVKSGEWISGIFSGNWIVLIVLCVFLLFSL
+VLLSILCPVRKHKKS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene147">
+        <gene_name>Hanta_G2</gene_name>
+        <strain>Andes virus Case T isolate</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>2801763</ncbi_nucleotide_id>
+        <ncbi_protein_id>2801763</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AAB97456</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>Accession:AAB97456;  GI:2801763</xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Andes Hantavirus M segment polyprotein</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|2801762|gb|AF042137.1|AF042137 Andes virus Case T M segment polyprotein gene, partial cds
+AAGGAAATACCATTTCTGGATATAAAAGAATGATGGCAACAAAAGATTCATTCCAATCGTTTAACTTAAC
+AGAACCTCACATCACAGCAAATAAGCTTGAATGGATTGACCCAGATGGAAATACAAGAGACCATGTAAAT
+CTTGTCTTAAATAGAGATGTTTCATTT</dna_sequence>
+        <protein_sequence>>gi|2801763|gb|AAB97456.1| M segment polyprotein [Andes virus]
+GNTISGYKRMMATKDSFQSFNLTEPHITANKLEWIDPDGNTRDHVNLVLNRDVSF</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1121">
+        <gene_name>Il2</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16183</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>7110653</ncbi_protein_id>
+        <gene_locus_tag>DN-144H19.3</gene_locus_tag>
+        <gene_refseq>AF195954</gene_refseq>
+        <protein_refseq>NP_032392</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>3</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>37120712</gene_start>
+        <gene_end>37125953</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>interleukin 2</protein_name>
+        <protein_pi>4.63</protein_pi>
+        <protein_weight>18506.61</protein_weight>
+        <protein_length>169</protein_length>
+        <protein_note>Also known as Il-2</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099107:37120712-37125953 Mus musculus strain C57BL/6J chromosome 3, GRCm38 C57BL/6J
+ATTTTTTTTTAGAGGAGAGCTTTATTTCTTGAAAACACTGATTAACATAGAGTTCACAGGAATAACTGAG
+AAGTTATTTTAGCGCTTACTTTGTGCTGTCCTAAAAATGACAGACATCTGAGCTTATTTATATTTGAATC
+ATCTAAATACTTTTATTAATGAGTCTACCTACACATGATATTTAACAATTCAATATAATAAATAATTTCA
+GATAAATAGTTTAAAACATTTTTGAGCCCTTGGGGCTTACAAAAAGAATCTTTAAAGATCCATATTTATC
+ATCTGAAGACTAGTAGTTACAAAAGATAGTAAACAATACATCCAAAAATAAATTAAAGTTAAATATTTAA
+ATAAATAGAGAGCCTTATGTGTTGTAAGCAGGAGGTACATAGTTATTGAGGGCTTGTTGAGATGATGCTT
+TGACAGAAGGCTATCCATCTCCTCAGAAAGTCCACCACAGTTGCTGACTCATCATCGAATTGGCACTCAA
+ATGTGTTGTCAGAGCCCTAAAAAAGAATATAAAATTGTAGGCTAAGGTAGCTTACTTTGCATATAATTAT
+TCTTCACGGAAGCTTTTAGGCATTTATTTTAACACTGGTTAAATATATTGAACATTCACATTTCTGAAAT
+GATCACAATTATTGGGTTATGTTTTATTATGATATCAAATGGTAAAGCATAAAAAATAAAGCTCTCCAGA
+GTTGATTACCAACGAGCATTTGATGGGAACACTGAACACTTCTGTAGAATTCAGTTGCTTGACCACTTTT
+TCTCTGGTAAGTGTACACAGCTATGCATCAATTTAGGCTTCAGGAATGGAGAAATGATACTTGTTATATG
+TTCTTTGCTAAATCTTAAGAGTCTATTATTCAATTCTTTCCCCCCCAAGTCAGAATGGGAACAACCCAGA
+GTAGGTTAGGACAAGCATCTATTGGGGGAAATTTGGAGAATTTTGTTATAGATATACCTACCCTGATACC
+AGTGTAGATGAATCACAAAGTTTGTACATGTATAAATATTATAAATTTGTTCTGTGGATTAGCTTTTTGA
+AAGCTAACCCTCTTTGCTAAAGGAGATATTTTAATTCTGTTTTTAGGTGACAAGCTGAGAAGGAAATATT
+TTGACAAATTTATGGGATGGCTTTTCCAAATCTGACTAATTCCTTGTAAGTCAAATGAGGCAGATTATTC
+CTTTTAAATAAATACTCCTTTTCAAATAAGCTGCTGTGGTCTTATATACCCTCTTTACATAGCTACTTCA
+ATATTCTAATGTCTTGAATTTTTCATTTTTAAAAATATGTGGCCCTTGAAACATTTTTCTAGTTCTCATG
+TAGCTCTAAAGTTTGTACCATTCATTAGGGGTGAACTTTCTGATGTTGGCCATAGATTTTAGAGCATCCA
+TCTTTGCATACGTAAGTACTCGATTTTAGAGCATCCATCTTAGCATACGTAAGTACTCACACCTTTCAAC
+GTCTAGATGATGTGTATTTCAGCCTGCTTTAAAAACCTCAAATGGAAGCTGGGCAGTGGTGGTGCAGGCC
+TTTAATCCCAGCACTTGGGAGGCAGAGGCAGGCGGATTTCTGAGTTCGAGGCCAGCCTGGTCTACAGAGT
+GAGTTCCAGGACAGCCAGGGCTACACAGAGAAATCCTGTCTCAAAAAAACAAACAAACAAACAAACAAGA
+AACAAACAAACAAAAAAAACAAAAACAAACAAAACAAAACCTCAAATGGAAACAGTGCACTGAAATGTGA
+CTTTGGTTTGGAAAGGACTAGCCCACACCCTCTTGGAGGCTTGCTGCTACTGTCTCACCAGAGTCCATGA
+TTCTTGTGCATTTAAAAACAAAGCTCTGCAGTGGGCTCTCCCCGTCCTGCTCTGTCCATTTTAATGGCTG
+CCATTTTTGGAGAGAAATGTCTGTTTTTCTACCAATACCAGCACAACTTCTCTGGAAAAACTTTTCAGAT
+AATTTTTTCTGATCTGATGAATGTAACACCAGCAAGAGTTGCTTGTTTCTTGTGGAATTCTACTCCGTGC
+TTTCTCTCACATCCAGTTCTATGCTGGTGTGGAGGGAGCAGAGTGTTCATGTTCCCAGTTTCCTTGCAGG
+TGATGGTAGGTGGAAATTCTAGCATCATCCTACAGTGGAAGGATTCACTTGCACAGTGACTTTAAACTTT
+GGCTGACTAAATGCACAGAACCCATCAAAGACCAGAAATGGCAAGCCACTTAAAAATGCATTTCTTCTCT
+ATTTTATTTCCAGATTAGCAAATAAAGCAACACCTTACCTTTAGTTTTACAACAGTTACTCTGATATTGC
+TGATGAAATTCTCAGCATCTTCCAATTGAAAGCTTTTGCTTTGAGTCAAATCCAGAACATGCCGCAGAGG
+TCCAAGTTCATCTTCTAGGCACTGAAGATCTTTCAATTCTGTGGCCTAGAGGAGTAATAAGCTTAACCAT
+CAGCTCAGCTCACCACATACTGAAGAGCCAGAAAGTTAGTCTGCAGTCTCTCTAATCAAGAGAAGGCAGC
+ACATAGCTTTTACCACTCCCTGTCCTCTGTAAAGGGGGACTGAGGTAATCGATGCCATAAATCTAGAAGA
+GCAAGAGCTCACAACCATAAGGGTCACCTTGACTGTTAGGCCACTCTAGTGAGCTCTTCTGGCTTCATTA
+GACTTTGTAAAAAGTCTGTGTTTCTCTACCAATGCATAGCACAAGTTCAGACTATTGTTCCAATCTACAA
+AGAAATCTGCAAGGTTCACATTCTAATATCTAATCGCAGAGTTGAGAATCACAGAAGGGTAAGGGACAGG
+AATCCTTGGATGCCAACTGTCATAGGCCTAAATCTTACAGATTAGGTTATCATGGCCCTGACTGAGGGGT
+GTCAAGATAGCCAGGAAGACACATGTAATATTTTTTAAATTTATACTTCTCTGCAATTACTAAAGATGAG
+TTTTTTAAAAACCCATATGTCAAGCTAGGAAGATGGCTTTTAAGGTAAAGGTACCTGCCACCAAACTTGA
+TGATTTGAGTTCAATTGCAGTGACCCACCCACATTGTGGAAAGAATGGCCCAACTTTCATATTTCGTCTT
+CTGACCTCCACAGTTACACTGTGATACACATGCACCTCCACACATACATACATACATACATACATACATA
+CATACATACATACATACATACATACATAAAATGTAAAATCTATTTGTCCCAATGAAAAAAGTCATAACAT
+TTTGGCAGAACACTTGGGAGAATTTTTCTGATCCATGTATGAAATAATGTTTAAATACATCATGCATACT
+TACATACATATACAGGGAAAAAGGATATTGTCTAGCTCTATAGTACACTATGATTTCCATAAAGTCAGCT
+GCTTTAAGTCTACAGTGAACTGTGTTATCTCCATTTTACCAAGTCTCACAATCAGTGTCTTTCCCACAAC
+CACATGAACGGGGAGCAAGGGTGGCCCGGTCGGTCGGTCGCTCCTTTCATTAACCACAGCCTTTGAATTA
+CATGCTTCTATTGTTTTTAAAATCTTACATACCGAATGCAGGTTAAATGAAAACATCAGCAGAATTTACC
+ACATTACTCTTGTTTTCAATAATTATTTTAAAACTTAGATTTCTAGGAATTTCACCACTCTCTAAATTAA
+CATGATCTCTGTTGTTTCTCTAACAATCCTTAGAGGAAGAGGTTTGACAAGATAACACGTAGTTCCTGAT
+TGGTCTGCTATTGACCTTCCAACTTGTTATGGTGTGTCTTGGGTATTCAGTGTGGAGCTCCTTCCCTCAC
+AGAACTCTCCAGTTTGTTACTGTGGGAGCTGAACATTATGTGACTGTAATTAAGCTGGAAGAGCAACTGG
+GGCCTTTCTTTTTCATCTCCTGTAGAACAGCTAGAGGCAAAGTTCCCCTGACTCAATAGGAATGGGTCAA
+CAGCTGCCTCTTTGTCCCCTTAGATCCCATTTTGCTCTAGGCTTGGATTTACTTGGGACAAGCTCTTTCT
+AGGACCAAAGTTATCCATTCTCTTTTGACTTTCGGGACTAGAGCAAATTTCTACCCTTGCTGGAGTTCTA
+AGAGCTTGTGTAAGCTGTTTTGTATCACACAACATTCTGCCTCCAAAGGAGACCAAAAAACCTTTCAATA
+TTGAGAGATAGTATCATGTAGTAATATTACAGCTCTCTAGTTCCACTAGTTAAAAGAGACTGTATAAATC
+CAAAATTGTTTTATACATCTCGGACTTCTTCTCTAGCACTAATAGTGTGTTTATGTGCTGTTGGCCAGAC
+ACTGTTCTGAAACCTGACAAGTGATAAGCATAGCAATGATCATTTATGTAAGTGGGTGAATGAGCATAGA
+CAACTTCCTGAGGCCATGAGAGCTAGGCCCTAGCAGGGCTGGACTCCACTGCAGATCATTGGCCCTAGAA
+TCTTAACATTGGTTATGCTGCTCCTCAAAAATGCAGTCATAGGAATCATTCTTAAAACAGTAAAGTGTGT
+GTAAAATGAGACCCTCTCAAGTCAATTTTTACATTTAAGAAGCTGAAATAATGCACCTCTCTCAAATATC
+TGTAGGACAAGCATAAAACAGAAATCAACAGTCTTTAAATTATCCCAGCATCAAAATGCAATCATCTTGC
+ATTTTCTTCTCATTCCCTTTCCCAACACATAAATACACAGGAAAAATGTAAAGAAAACCATTTAAAAGAA
+GTACCATTGTCAAGATTTTTTTACAGAGAGATATCAGAGAAACTTATTTTCTTCAGATGAGGTACTATTC
+ATCTGGTCACATGTTATTTACACGTTATACACATGTATGTTACTTTGAATTCATTAGAGCACCAGTTAAA
+CACAGAAACTCACTCACCTGCTTGGGCAAGTAAAATTTGAAGGTGAGCATCCTGGGGAGTTTCAGGTTCC
+TGTAATTCTGAGAAAGCGTAACACATTATTATTAAAGGTTATTAAACACAGCCTTTGGCAAGAAAGCTAA
+AGGTATTGCCTATAGATGGGATGGCTGTGCACTTACCTCCATCCTGCTCAGGAGCTCCTGTAGGTCCATC
+AACAGCTGCTCCAGGTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGTGCTTCCGCTGTAGAGC
+TTGAAGTGGAGCTTGAAGTGGGTGCGCTGTTGACAAGGAGCACAAGTGTCAATGTGACACAGGATGCGAG
+CTGCATGCTGTACATGCCTGCAGGACTTGAGGTCACTGTGAGGAGTGATTAGCAAGGGTGAT</dna_sequence>
+        <protein_sequence>>gi|7110653|ref|NP_032392.1| interleukin-2 precursor [Mus musculus]
+MYSMQLASCVTLTLVLLVNSAPTSSSTSSSTAEAQQQQQQQQQQQQHLEQLLMDLQELLSRMENYRNLKL
+PRMLTFKFYLPKQATELKDLQCLEDELGPLRHVLDLTQSKSFQLEDAENFISNIRVTVVKLKGSDNTFEC
+QFDDESATVVDFLRRWIAFCQSIISTSPQ</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene125">
+        <gene_name>Il4 (interleukin 4)</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16189</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10946584</ncbi_protein_id>
+        <gene_locus_tag>RP23-188H3.4</gene_locus_tag>
+        <gene_refseq>NM_021283.1</gene_refseq>
+        <protein_refseq>NM_021283.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IL-4, Interleukin 4</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|10946583|ref|NM_021283.1| Mus musculus interleukin 4 (Il4), mRNA
+GGATCCCCGGGCAGAGCTGGGGGGGGATTTGTTAGCATCTCTTGATAAACTTAATTGTCTCTCGTCACTG
+ACGGCACAGAGCTATTGATGGGTCTCAACCCCCAGCTAGTTGTCATCCTGCTCTTCTTTCTCGAATGTAC
+CAGGAGCCATATCCACGGATGCGACAAAAATCACTTGAGAGAGATCATCGGCATTTTGAACGAGGTCACA
+GGAGAAGGGACGCCATGCACGGAGATGGATGTGCCAAACGTCCTCACAGCAACGAAGAACACCACAGAGA
+GTGAGCTCGTCTGTAGGGCTTCCAAGGTGCTTCGCATATTTTATTTAAAACATGGGAAAACTCCATGCTT
+GAAGAAGAACTCTAGTGTTCTCATGGAGCTGCAGAGACTCTTTCGGGCTTTTCGATGCCTGGATTCATCG
+ATAAGCTGCACCATGAATGAGTCCAAGTCCACATCACTGAAAGACTTCCTGGAAAGCCTAAAGAGCATCA
+TGCAAATGGATTACTCGTAGTACTGAGCCACCATGCTTTAACTTATGAATTTTTAATGGTTTTATTTTAA
+TATTTATATATTTATAATTCATAAAATAAAATATTTGTATAATGT</dna_sequence>
+        <protein_sequence>>gi|10946584|ref|NP_067258.1| interleukin 4 [Mus musculus]
+MGLNPQLVVILLFFLECTRSHIHGCDKNHLREIIGILNEVTGEGTPCTEMDVPNVLTATKNTTESELVCR
+ASKVLRIFYLKHGKTPCLKKNSSVLMELQRLFRAFRCLDSSISCTMNESKSTSLKDFLESLKSIMQMDYS</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation>IL-4 plays an important role in Th2 immune response.</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene490">
+        <gene_name>PUUVsSgp1</gene_name>
+        <strain>Puumala orthohantavirus</strain>
+        <vo_id>VO_0011088</vo_id>
+        <ncbi_gene_id>2943083</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>38371721</ncbi_protein_id>
+        <gene_locus_tag>PUUVsSgp1</gene_locus_tag>
+        <gene_refseq>HE801633</gene_refseq>
+        <protein_refseq>NP_941984</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>1980486</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>42</gene_start>
+        <gene_end>1343</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>nucleocapsid protein</protein_name>
+        <protein_pi>6.05</protein_pi>
+        <protein_weight>46970.43</protein_weight>
+        <protein_length>433</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_005224.1:42-1343 Puumala virus segment S, complete sequence
+AATGAGTGACTTGACAGATATCCAAGAGGATATAACCCGCCATGAACAGCAACTTATTGTTGCCAGACAA
+AAACTTAAGGATGCAGAGAGAGCAGTGGAAGTGGACCCAGATGACGTTAATAAAAACACACTGCAAGCCA
+GGCAACAAACAGTGTCAGCACTGGAGGACAAACTCGCAGACTACAAGAGAAGGATGGCAGATGCTGTGTC
+CAGGAAAAAAATGGATACTAAACCTACTGACCCGACTGGGATTGAACCTGATGACCACCTCAAGGAGAGA
+TCAAGCCTTAGGTATGGAAATGTCCTTGATGTAAATGCAATTGACATTGAAGAACCAAGTGGCCAAACAG
+CAGATTGGTATACAATTGGAGTGTATGTGATAGGGTTCACACTTCCTATCATCCTTAAAGCTTTATACAT
+GCTCTCAACGCGTGGGAGACAGACTGTAAAGGAAAATAAGGGGACACGTATAAGGTTTAAGGATGATACA
+TCATTTGAAGACATCAATGGCATAAGGAGACCAAAGCATTTATATGTTTCTATGCCTACTGCCCAGTCAA
+CTATGAAAGCAGAAGAACTCACACCTGGCAGATTTCGCACAATAGTATGTGGTCTTTTTCCCACTCAGAT
+CCAGGTTCGTAACATCATGAGTCCAGTTATGGGGGTCATTGGTTTTTCATTCTTTGTGAAGGATTGGTCT
+GAGAGAATCAGAGAGTTCATGGAAAAAGAGTGCCCATTCATAAAGCCTGAAGTAAAACCAGGCACACCAG
+CACAGGAGATTGAGATGTTAAAAAGAAATAAGATCTACTTTATGCAGCGCCAGGATGTGCTTGACAAAAA
+TCATGTGGCAGACATTGACAAGTTAATTGACTATGCAGCCTCTGGAGACCCTACATCACCTGACAACATT
+GATTCGCCTAATGCACCATGGGTCTTTGCATGTGCACCAGACCGATGCCCACCAACATGTATCTATGTTG
+CAGGGATGGCAGAGCTTGGGGCCTTTTTTTCAATATTGCAGGACATGAGAAACACAATAATGGCATCTAA
+GACTGTTGGCACAGCAGAAGAGAAATTAAAGAAAAAGTCTTCCTTTTACCAATCTTACCTGCGTCGAACT
+CAATCAATGGGAATTCAGCTTGATCAAAGAATTATCCTCTTGTTTATGTTGGAATGGGGCAAAGAGATGG
+TAGATCACTTCCATCTTGGTGATGATATGGATCCAGAGCTCAGAGGTCTTGCACAGGCACTGATAGATCA
+AAAGGTCAAGGAAATATCGAACCAGGAACCACTAAAGATATA
+
+</dna_sequence>
+        <protein_sequence>>NP_941984.1 nucleocapsid protein [Puumala orthohantavirus]
+MSDLTDIQEDITRHEQQLIVARQKLKDAERAVEVDPDDVNKNTLQARQQTVSALEDKLADYKRRMADAVS
+RKKMDTKPTDPTGIEPDDHLKERSSLRYGNVLDVNAIDIEEPSGQTADWYTIGVYVIGFTLPIILKALYM
+LSTRGRQTVKENKGTRIRFKDDTSFEDINGIRRPKHLYVSMPTAQSTMKAEELTPGRFRTIVCGLFPTQI
+QVRNIMSPVMGVIGFSFFVKDWSERIREFMEKECPFIKPEVKPGTPAQEIEMLKRNKIYFMQRQDVLDKN
+HVADIDKLIDYAASGDPTSPDNIDSPNAPWVFACAPDRCPPTCIYVAGMAELGAFFSILQDMRNTIMASK
+TVGTAEEKLKKKSSFYQSYLRRTQSMGIQLDQRIILLFMLEWGKEMVDHFHLGDDMDPELRGLAQALIDQ
+KVKEISNQEPLKI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>To investigate the ability of recombinant N (rN, nucleocapsid proteins) from different hantaviruses to elicit cross-protection, we immunized bank voles with rN from Puumala (PUUV), Topografov (TOPV), Andes (ANDV), and Dobrava (DOBV) viruses and subsequently challenged them with PUUV. All animals immunized with PUUV (PUUVsSgp1) and TOPV rN were completely protected [Ref228:de et al., 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene146">
+        <gene_name>S nucleocapsid protein from Dobrava-Belgrade virus</gene_name>
+        <strain>Dobrava-Belgrade orthohantavirus</strain>
+        <vo_id>VO_0010960</vo_id>
+        <ncbi_gene_id>2656266</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>38505524</ncbi_protein_id>
+        <gene_locus_tag>DOBVsSp1</gene_locus_tag>
+        <gene_refseq>AJ410615</gene_refseq>
+        <protein_refseq>NP_942553</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>GI:63030019; Accession:AY961618.1</xrefs>
+        <taxonomy_id>1980467</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>35</gene_start>
+        <gene_end>1324</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>nucleocapsid protein</protein_name>
+        <protein_pi>7.53</protein_pi>
+        <protein_weight>46162.49</protein_weight>
+        <protein_length>429</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_005233.1:35-1324 Dobrava virus complete S segment gene for nucleocapsid protein, strain DOBV/Ano-Poroia/Afl9/1999
+GATGGCAACATTAGAGGAACTCCAAAAAGAAATCAACAACCACGAGGGCCAATTGGTGATAGCCAGGCAG
+AAGGTGAAAGATGCAGAAAAGCAGTATGAAAAGGATCCTGACGACCTGAATAAAAGGGCATTGAGTGACC
+GGGAAAGCATTGCACAATCAATTCAGGGAAAAATAGATGAATTAAGGAGACAGCTGGCTGATCGTGTGGC
+AGCAGGGAAAAACATTGGCAAAGAGAGGGACCCAACTGGACTAGACCCTGGAGATCACCTCAAAGAGAAG
+TCAATGCTCAGTTATGGAAATGTCATTGACCTCAACCATCTTGACATTGATGAACCTACAGGGCAAACCG
+CAGACTGGCTGAGCATTGTGGTCTACCTGACATCATTCGTGGTTCCAATATTGTTGAAGGCTCTTTACAT
+GCTTACCACCAGAGGGAGACAAACTACTAAAGACAATAAGGGAATGAGAATTCGATTTAAGGATGACAGC
+TCTTTTGAAGATGTGAATGGGATTAGAAAGCCAAAGCACCTGTTCTTGTCAATGCCCAATGCACAATCTA
+GCATGAAGGCAGATGAGATTACACCAGGTCGGTTCAGGACTGCAATTTGTGGACTATACCCAGCCCAGGT
+GAAGGCAAGGAACTTAATCAGTCCTGTGATGAGTGTGATTGGGTTTTTAGCCCTTGCAAAGAACTGGACA
+GAGCGGGTTGAGGAATGGCTTGACCTCCCGTGCAAGCTACTATCTGAGCCATCTCCAACGTCTTTGACCA
+AAGGCCCATCCACCAATCGTGACTACTTGAATCAAAGACAAGGAGCGCTTGCAAAAATGGAAACAAAAGA
+AGCTCAGGCTGTGAGGAAACATGCCATAGATGCTGGCTGCAACCTTATCGACCATATAGACTCACCATCA
+TCAATCTGGGTCTTTGCAGGAGCACCCGACAGATGCCCTCCTACCTGCCTGTTCATTGCAGGCATGGCAG
+AGCTAGGTGCATTCTTTGCTGTTCTCCAGGATATGAGGAACACCATCATGGCGTCAAAAACTATCGGAAC
+ATCTGAGGAGAAGCTAAAGAAGAAATCATCTTTTTACCAATCTTACCTACGGAGGACACAATCTATGGGG
+ATACAACTGGACCAGCGCATCATCGTGCTCTTCATGGTTGACTGGGGAAAAGAGGCAGTTGATAGTTTTC
+ATCTTGGTGATGATATGGATCCTGAGCTCCGGGGCCTGGCACAGGCATTAATTGATCAAAAAGTGAAGGA
+AATATCTAATCAGGAACCGCTTAAGCTTTA
+
+</dna_sequence>
+        <protein_sequence>>NP_942553.1 nucleocapsid protein [Dobrava-Belgrade orthohantavirus]
+MATLEELQKEINNHEGQLVIARQKVKDAEKQYEKDPDDLNKRALSDRESIAQSIQGKIDELRRQLADRVA
+AGKNIGKERDPTGLDPGDHLKEKSMLSYGNVIDLNHLDIDEPTGQTADWLSIVVYLTSFVVPILLKALYM
+LTTRGRQTTKDNKGMRIRFKDDSSFEDVNGIRKPKHLFLSMPNAQSSMKADEITPGRFRTAICGLYPAQV
+KARNLISPVMSVIGFLALAKNWTERVEEWLDLPCKLLSEPSPTSLTKGPSTNRDYLNQRQGALAKMETKE
+AQAVRKHAIDAGCNLIDHIDSPSSIWVFAGAPDRCPPTCLFIAGMAELGAFFAVLQDMRNTIMASKTIGT
+SEEKLKKKSSFYQSYLRRTQSMGIQLDQRIIVLFMVDWGKEAVDSFHLGDDMDPELRGLAQALIDQKVKE
+ISNQEPLKL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study compared the immunogenicity and protective efficacy of recombinant DOBV nucleocapsid protein (rDOBV N, S) given with Alum or Freund's as adjuvant, or PBS, in C57/BL6 mice.   Mice receiving rDOBV N with Freund's adjuvant were protected from challenge (75% protected) [Ref229:Klingstrom et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene491">
+        <gene_name>S segment</gene_name>
+        <strain>Topografov virus</strain>
+        <vo_id>VO_0011089</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>4757106</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279218
+GOA:Q9WMG3
+InterPro:IPR002214
+UniProtKB/TrEMBL:Q9WMG3</xrefs>
+        <taxonomy_id>83192</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>N protein</protein_name>
+        <protein_pi>5.8</protein_pi>
+        <protein_weight>47447.65</protein_weight>
+        <protein_length>487</protein_length>
+        <protein_note>Hantavirus nucleocapsid protein; pfam00846</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAB42097.1 N protein [Topografov hantavirus]
+MSNLKDIQDEITRYEQQLIVARQKLRDAEKTVEVDPDDVNKNTLQARRQTVSALEDKLADFKRQLADHVS
+RQKMDEKPSDPTGIEPDDHLKERSSLRYGNVLDVNAIDIEEPSGQTADWFTIGVYIVSFTLPIILKALYM
+LSTRGRQTVKENKGTRIRFKDDSSFEDVNGIRRPKHLYVSMPTAQSTMKAEELTPGRFRTIVCGLFPAQI
+QARNIMSPVMGVIGFSFFVKDWPERIKNFLESKCPFIKPEVKPGAPAGEADFLSRNQIYFMRRQEVLEDN
+HIPDIDKLLEYASSGDPTAPDSIESPYAPWVFACAPDRCPPTCIYIAGMAELGAFFSILQDMRNTIMASK
+TVGTAEEKLKKKSSFYQSYLRRTQSMGIQLDQRIILLYMVEWGKEMVDHFHLGDDMDPDLRNLAQSLIDQ
+KVKEISNQEPLKI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>To investigate the ability of recombinant N (rN, nucleocapsid proteins) from different hantaviruses to elicit cross-protection, we immunized bank voles with rN from Puumala (PUUV), Topografov (TOPV), Andes (ANDV), and Dobrava (DOBV) viruses and subsequently challenged them with PUUV. All animals immunized with PUUV and TOPV rN were completely protected [Ref228:de Carvalho Nicacio et al., 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene489">
+        <gene_name>SNVsSgp1</gene_name>
+        <strain>Sin Nombre orthohantavirus</strain>
+        <vo_id>VO_0011087</vo_id>
+        <ncbi_gene_id>2943142</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>38371726</ncbi_protein_id>
+        <gene_locus_tag>SNVsSgp1</gene_locus_tag>
+        <gene_refseq>JQ690276</gene_refseq>
+        <protein_refseq>NP_941975</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>1980491</taxonomy_id>
+        <chromosome></chromosome>
+        <segment>segment S</segment>
+        <plasmid></plasmid>
+        <gene_start>42</gene_start>
+        <gene_end>1328</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>nucleocapsid protein</protein_name>
+        <protein_pi>6.64</protein_pi>
+        <protein_weight>45894.2</protein_weight>
+        <protein_length>428</protein_length>
+        <protein_note>putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_005216.1:42-1328 Sin Nombre virus segment S, complete sequence
+AATGAGCACCCTCAAAGAAGTGCAAGACAACATCACTCTCCACGAACAACAACTCGTGACTGCCAGGCAG
+AAGCTCAAAGATGCAGAAAGAGCGGTGGAATTGGACCCCGATGATGTTAACAAAAGCACATTACAGAGCA
+GACGGGCAGCTGTGTCTGCATTGGAGACCAAACTCGGAGAACTTAAGCGGGAACTGGCTGATCTTATTGC
+AGCTCAGAAATTGGCTTCAAAACCTGTTGATCCAACAGGGATTGAACCTGATGACCATCTAAAGGAAAAG
+TCATCATTGAGATATGGAAATGTCCTTGATGTAAATTCCATTGACTTAGAAGAGCCAAGTGGGCAAACAG
+CTGATTGGAAATCCATCGGACTCTACATTCTAAGTTTCGCATTACCGATTATTCTTAAAGCCTTGTACAT
+GTTATCTACTAGGGGCCGTCAAACAATCAAAGAAAACAAGGGAACAAGAATTCGATTCAAGGATGATTCA
+TCTTATGAAGAAGTCAATGGGATACGTAAGCCAAGACATCTGTATGTTTCTATGCCAACTGCCCAGTCTA
+CAATGAAAGCAGATGAGATTACTCCCGGGAGGTTCCGTACAATTGCTTGTGGATTATTCCCAGCCCAAGT
+CAAAGCAAGGAATATTATCAGTCCTGTCATGGGTGTGATTGGCTTTAGTTTTTTTGTGAAAGATTGGATG
+GAAAGGATTGATGACTTCCTGGCTGCACGTTGCCCATTTCTGCCTGAGCAGAAAGACCCTAGAGATGCTG
+CATTGGCAACTAATAGAGCCTATTTTATAACACGTCAATTACAGGTTGATGAGTCAAAGGTTAGTGATAT
+TGAGGACCTGATTGCTGATGCAAGGGCTGAGTCTGCCACTATATTCGCAGATATTGCTACTCCTCATTCA
+GTTTGGGTCTTTGCATGTGCTCCAGATCGTTGTCCACCTACAGCATTATATGTGGCCGGGATGCCGGAAC
+TGGGTGCATTTTTTGCTATTCTCCAGGATATGAGGAACACCATAATGGCATCCAAATCTGTGGGGACATC
+TGAAGAGAAATTGAAGAAGAAATCAGCATTCTACCAGTCATACTTAAGACGTACTCAGTCAATGGGAATT
+CAACTGGACCAGAAGATAATCATCTTATACATGAGCCATTGGGGAAGAGAGGCCGTGAATCACTTCCATC
+TTGGAGATGATATGGATCCTGAGCTTAGGGAACTTGCCCAGACCCTTGTAGATATCAAGGTCAGGGAAAT
+CTCTAACCAAGAACCACTTAAACTTTA
+
+</dna_sequence>
+        <protein_sequence>>NP_941975.1 nucleocapsid protein [Sin Nombre orthohantavirus]
+MSTLKEVQDNITLHEQQLVTARQKLKDAERAVELDPDDVNKSTLQSRRAAVSALETKLGELKRELADLIA
+AQKLASKPVDPTGIEPDDHLKEKSSLRYGNVLDVNSIDLEEPSGQTADWKSIGLYILSFALPIILKALYM
+LSTRGRQTIKENKGTRIRFKDDSSYEEVNGIRKPRHLYVSMPTAQSTMKADEITPGRFRTIACGLFPAQV
+KARNIISPVMGVIGFSFFVKDWMERIDDFLAARCPFLPEQKDPRDAALATNRAYFITRQLQVDESKVSDI
+EDLIADARAESATIFADIATPHSVWVFACAPDRCPPTALYVAGMPELGAFFAILQDMRNTIMASKSVGTS
+EEKLKKKSAFYQSYLRRTQSMGIQLDQKIIILYMSHWGREAVNHFHLGDDMDPELRELAQTLVDIKVREI
+SNQEPLKL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study used a deer mouse infection model to test the protective efficacy of genetic vaccine candidates for Sin Nombre (SN) virus that were known to provoke immunological responses in BALB/c mice. Protective epitopes were localized in each of four overlapping cDNA fragments that encoded portions of the SN virus G1 glycoprotein antigen; the nucleocapsid gene (SNVsSgp1) also was protective [Ref1101:Bharadwaj et al., 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1101">
+		<reference_name>Bharadwaj et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bharadwaj M, Mirowsky K, Ye C, Botten J, Masten B, Yee J, Lyons CR, Hjelle B</authors>
+		<title>Genetic vaccines protect against Sin Nombre hantavirus challenge in the deer mouse (Peromyscus maniculatus)</title>
+		<year>2002</year>
+		<volume>83</volume>
+		<issue>Pt 7</issue>
+		<pages>1745-1751</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3123">
+		<reference_name>Brown et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brown KS, Safronetz D, Marzi A, Ebihara H, Feldmann H</authors>
+		<title>Vesicular stomatitis virus-based vaccine protects hamsters against lethal challenge with Andes virus</title>
+		<year>2011</year>
+		<volume>85</volume>
+		<issue>23</issue>
+		<pages>12781-12791</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference227">
+		<reference_name>CDC Hantaviruses</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>CDC Hantaviruses</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://0-www.cdc.gov.mill1.sjlibrary.org/ncidod/diseases/hanta/hps/</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1102">
+		<reference_name>Chu et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chu YK, Jennings GB, Schmaljohn CS</authors>
+		<title>A vaccinia virus-vectored Hantaan virus vaccine protects hamsters from challenge with Hantaan and Seoul viruses but not Puumala virus</title>
+		<year>1995</year>
+		<volume>69</volume>
+		<issue>10</issue>
+		<pages>6417-6423</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference496">
+		<reference_name>Custer et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Custer DM, Thompson E, Schmaljohn CS, Ksiazek TG, Hooper JW</authors>
+		<title>Active and passive vaccination against hantavirus pulmonary syndrome with Andes virus M genome segment-based DNA vaccine</title>
+		<year>2003 Sep</year>
+		<volume>77</volume>
+		<issue>18</issue>
+		<pages>9894-905</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference228">
+		<reference_name>de Carvalho Nicacio et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>de Carvalho Nicacio C, Gonzalez Della Valle M, Padula P, Bjorling E, Plyusnin A, Lundkvist A</authors>
+		<title>Cross-protection against challenge with Puumala virus after immunization with nucleocapsid proteins from different hantaviruses</title>
+		<year>2002 Jul</year>
+		<volume>76</volume>
+		<issue>13</issue>
+		<pages>6669-77</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2704">
+		<reference_name>Hooper et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hooper JW, Custer DM, Thompson E, Schmaljohn CS</authors>
+		<title>DNA vaccination with the Hantaan virus M gene protects Hamsters against three of four HFRS hantaviruses and elicits a high-titer neutralizing antibody response in Rhesus monkeys</title>
+		<year>2001</year>
+		<volume>75</volume>
+		<issue>18</issue>
+		<pages>8469-8477</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference229">
+		<reference_name>Klingstrom et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Klingstrom J, Maljkovic I, Zuber B, Rollman E, Kjerrstrom A, Lundkvist A</authors>
+		<title>Vaccination of C57/BL6 mice with Dobrava hantavirus nucleocapsid protein in Freund's adjuvant induced partial protection against challenge</title>
+		<year>2004 Sep 28</year>
+		<volume>22</volume>
+		<issue>29-30</issue>
+		<pages>4029-34</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference230">
+		<reference_name>Kruger et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kruger DH, Ulrich R, Lundkvist A A</authors>
+		<title>Hantavirus infections and their prevention</title>
+		<year>2001 Nov</year>
+		<volume>3</volume>
+		<issue>13</issue>
+		<pages>1129-44</pages>
+		<journal_book_name>Microbes and infection / Institut Pasteur</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference226">
+		<reference_name>Lednicky, 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lednicky JA</authors>
+		<title>Hantaviruses. a short review</title>
+		<year>2003 Jan</year>
+		<volume>127</volume>
+		<issue>1</issue>
+		<pages>30-5</pages>
+		<journal_book_name>Archives of pathology &amp; laboratory medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference231">
+		<reference_name>Maes et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Maes P, Keyaerts E, Bonnet V, Clement J, Avsic-Zupanc T, Robert A, Van Ranst M</authors>
+		<title>Truncated recombinant Dobrava hantavirus nucleocapsid proteins induce strong, long-lasting immune responses in mice</title>
+		<year>2006</year>
+		<volume>49</volume>
+		<issue>5</issue>
+		<pages>253-60</pages>
+		<journal_book_name>Intervirology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1104">
+		<reference_name>Safronetz et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Safronetz D, Hegde NR, Ebihara H, Denton M, Kobinger GP, St Jeor S, Feldmann H, Johnson DC</authors>
+		<title>Adenovirus vectors expressing hantavirus proteins protect hamsters against lethal challenge with andes virus</title>
+		<year>2009</year>
+		<volume>83</volume>
+		<issue>14</issue>
+		<pages>7285-7295</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference497">
+		<reference_name>Ulrich et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ulrich R, Lundkvist A, Meisel H, Koletzki D, Sjolander KB, Gelderblom HR, Borisova G, Schnitzler P, Darai G, Kruger DH</authors>
+		<title>Chimaeric HBV core particles carrying a defined segment of Puumala hantavirus nucleocapsid protein evoke protective immunity in an animal model</title>
+		<year>1998 Jan-Feb</year>
+		<volume>16</volume>
+		<issue>2-3</issue>
+		<pages>272-80</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1103">
+		<reference_name>Yoshimatsu et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yoshimatsu K, Yoo YC, Yoshida R, Ishihara C, Azuma I, Arikawa J</authors>
+		<title>Protective immunity of Hantaan virus nucleocapsid and envelope protein studied using baculovirus-expressed proteins</title>
+		<year>1993</year>
+		<volume>130</volume>
+		<issue>3-4</issue>
+		<pages>365-376</pages>
+		<journal_book_name>Archives of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1100">
+		<reference_name>Yuan et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yuan ZG, Luo SJ, Xu HJ, Wang XH, Li J, Yuan LG, He LT, Zhang XX</authors>
+		<title>Generation of E3-deleted canine adenovirus type 2 expressing the Gc glycoprotein of Seoul virus by gene insertion of deletion of related terminal region sequences</title>
+		<year>2010</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen32">
+		<pathogen_name>VEE Virus</pathogen_name>
+		<taxon_id>11036</taxon_id>
+		<pathogenesis refs="reference331">In equines and humans, VEEV causes inapparent to acute encephalitis. Enzootic VEE strains in subtypes I-E, II, III, and IV are avirulent for equines and generally produce only low titered viremia and little or no illness. However, at least some of the enzootic viruses can be pathogenic for humans and have caused fatal disease. The incubation period in human VEEV infection is usually 2–5 days. VEE occurs in all human age groups without sex bias. Children are more likely to develop fatal encephalitis than adults. VEEV also causes birth defects, abortions and stillbirths in pregnant women. In experimentally infected equines and rodents, VEEV causes severe myeloid depletion in bone marrow and lymphocyte destruction in lymph, nodes and spleen. Encephalitis is accompanied by a wide range of histopathology, from mild neutrophilic infiltration to neuronal degeneration, necrotizing vasculitis, and Purkinje cell destruction. In mice, VEEV appears to reach the brain via the olfactory nerve, seeded by viremia (Weaver et al., 2004).
+
+VEEV encodes four nonstructural proteins (nsP1–4) and three structural proteins: the capsid and the E1 and E2 envelope glycoproteins. The E2 protein forms spikes on the surface of the virion. The E1 protein lies adjacent to the host cell–derived lipid envelope. VEEV can use the laminin binding protein as a receptor for entry into cells via receptor-mediated endocytosis. After fusion of virions with the membrane of endosomes at low pH via a hydrophobic amino acid sequence in the E1 protein, the genome is translated in the cytoplasm to generate the nonstructural polyprotein.  Viral genome replication occurs on the cytoplasmic surface of endosomes. One molecule of genomic RNA interacts in the cytoplasm with 240 copies of the capsid protein to form a nucleocapsid. The envelope glycoproteins are inserted into the endoplasmic reticulum membrane and interact with nucleocapsids at the plasma membrane to initiate budding of virus particles on the surface of cells (Weaver et al., 2004).
+
+Biological transmission of arthropod-borne VEEV involves initial infection of the mosquito midgut following ingestion of a viremic blood meal. Posterior midgut epithelial cells become infected first, followed by dissemination into the hemocoel and infection of secondary organs and tissues including the salivary glands. Virus maturation (budding) in midgut epithelial cells occurs exclusively on the basal margins adjacent to the basal lamina (Weaver et al., 2004).
+
+The epizootic transmission cycle of VEEV actively involves equines as highly efficient amplification hosts. Although the vertebrate host range of epizootic VEEV strains is wide and includes humans, sheep, dogs, bats, rodents, and some birds, major epidemics in the absence of equine cases have never occurred despite the repeated occurrence of epizootics near major cities such as Maracaibo (Weaver et al., 2004).
+
+Sylvatic rodents in the genera Sigmodon, Oryzomys, Zygodontomys, Heteromys, Peromyscus, and Proechimys are believed to be the principal reservoir hosts of most enzootic VEE complex viruses. They are frequently infected in nature. They also have high rates of immunity and develop moderate to high titered viremia (Weaver et al., 2004).</pathogenesis>
+		<disease_name>Venezuelan equine encephalitis</disease_name>
+		<protective_immunity refs="reference331">Cell-mediated immunity plays a predominant role in protection against VEEV. Immunity resulting from inactivated VEEV vaccines is short-lived and frequent boosters are required to maintain protection. Inactivated VEEV vaccines generate protective neutralizing immunity only after multiple inoculations (Weaver et al., 2004).  </protective_immunity>
+		<host_range refs="reference331">VEE causes encephalitis in a wide range of vertebrate animals including humans, horses, mules, donkeys, sheep, dogs, bats, rodents, and some birds. Rodents have been frequently used in the laboratory for VEEV pathogenesis and vaccine studies. VEEV is also an arthropod-borne virus and can infect and replicate in mosquito (Weaver et al., 2004). </host_range>
+		<introduction refs="reference331">Venezuelan equine encephalitis virus (VEEV) is a naturally emerging disease threat and a highly developed biological weapon. VEEV is the most important human and equine pathogen of the New World alphaviruses (Togaviridae: Alphavirus). VEEV causes periodic outbreaks of febrile and neurological disease. VEE was first recognized as a disease of horses, mules, and donkeys in northern South America during the 1930s. VEEV, was first isolated in 1938 from the brains of fatal equine cases in Yaracuy State, Venezuela. VEEV is a spherical virus 70 nm in diameter and a messenger-sense, single-stranded RNA genome approximately 11,400 nucleotides in length (Weaver et al., 2004).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine183">
+		<vaccine_name>Chimeric SIN/VEE Virus SIN-83</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004111</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference383">The chimeric SIN/VEE viruses contain the replicative machinery from another alphavirus, Sindbis virus (SINV), and the structural genes from VEEV. The prototype chimeric virus SIN83 is capable of replicating in tissue culture and exhibits a safe and highly attenuated phenotype in mice and hamsters but induces a protective immune response against VEEV (Paessler et al., 2003). It is safe and efficacious in adult mice and hamsters and is potentially useful as VEEV vaccin. In addition, immunized animals provide a useful model for studying the mechanisms of the anti-VEEV neuroinflammatory response, leading to the reduction of viral titers in the CNS and survival of animals.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference383">None of the chimeric SIN/VEE viruses caused any detectable disease in adult mice after either intracerebral (i.c.) or subcutaneous (s.c.) inoculation, and all chimeras were more attenuated than the vaccine strain, VEEV TC83, in 6-day-old mice after i.c. infection (Paessler et al., 2003).</virulence>
+		<preparation refs="reference383 reference382">The parental pToto1101 plasmid, encoding the SINV genome, and the pTC-83 plasmid, encoding the genome of VEEV TC-83, were obtained from Charles M. Rice (Rockefeller University, New York, N.Y.) and Richard Kinney (Centers for Disease Control, Fort Collins, Colo.), respectively. Fragments containing the SINV subgenomic promoter and the 5′ untranslated region (UTR) of the VEEV subgenomic RNA were generated by PCR amplification, cloned into the pRS2 plasmid for sequencing, and then used for generating the cDNA clone of the chimeric SIN-83S virus genome. The plasmid construct pSIN83 (Paessler et al., 2003) contained the promoter for SP6 RNA polymerase, followed by nucleotides (nt) 1 to 7601 of the SINV genome, nt 7536 to 11382 of VEEV TC-83 (with an additional C→T mutation of nt 7555), an AGGCCTTGGG sequence, and a 355-nt sequence containing the SINV 3′UTR (starting from nt 11394), poly(A) followed by an XhoI restriction site. Plasmids pZPC and pSH, containing infectious cDNAs of VEEV strains ZPC738 (subtype ID) and SH3 (subtype IC), respectively. The plasmids were purified and linearized. RNAs were synthesized and transfected into BHK-21 cells  (Bredenbeek et al., 1993). Viruses were harvested after development of cytopathic effects, usually at 24 h following electroporation.</preparation>
+		<route refs=""></route>
+		<antigen refs="reference383">All structural proteins derived from VEEV TC-83 (Paessler et al., 2003).</antigen>
+		<host_response host_response_id="host_response213" host_id="host3">
+			<immune_response refs="">After 28 days, VEEV-specific neutralizing antibodies in the sera of SIN-83 and VEE TC-83 immunized groups. However, the titers in VEEV TC-83-immunized animals were higher. This can be explained by the higher replication levels of this virus in cell culture.</immune_response>
+			<host_strain refs="">NIH Swiss</host_strain>
+			<vaccination_protocol refs="reference383">Six-week-old, female NIH Swiss mice (12 per group) were inoculated on day 0 s.c. into the medial thigh with chimeric SIN/VEE viruses SIN-83. The live VEE TC-83 vaccine virus was used as control for comparison. One half of the animals (six per group) received an additional booster on day 28, which was performed in the same way as the initial immunization. All of the animals were bled on days 1, 2, and 3 and at 4 and 8 weeks after immunization. Serum samples from the first 3 days after immunization were tested for the presence of infectious virus by a plaque assay on BHK-21 cells (Paessler et al., 2003). </vaccination_protocol>
+			<persistence refs="reference383">To compare the virulence of the VEE TC-83 and SIN-83 viruses, 6-day-old mice were inoculated i.c. or s.c. with different doses of each virus ranging from 2 × 10^4 to 2 × 10^6 PFU. VEEV TC-83 was virulent for weanling mice regardless of the inoculation route. VEEV TC-83 was less pathogenic for weanling mice after s.c. inoculation (mortality rate, 10 to 20%). However, many of the surviving animals developed clinical disease and/or CNS sequelae. None of the SIN-83-inoculated animals had detectable clinical illness. Animals infected with VEEV TC-83 at the age of 6 days were highly inhibited in their growth compared to those infected with SIN-83 or compared to the noninfected control group of the same age (Paessler et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference383">All vaccinated mice were protected against lethal encephalitis following i.c., s.c., or intranasal (i.n.) challenge with the virulent VEEV ZPC738 strain (ZPC738). In spite of the absence of clinical encephalitis in vaccinated mice challenged with ZPC738 via i.n. or i.c. route, high levels of infectious challenge virus in the central nervous system (CNS) were regularly detected. However, infectious virus was undetectable in the brains of all immunized animals at 28 days after challenge (Paessler et al., 2003). </protection_efficacy>
+			<side_effects refs="">none</side_effects>
+			<challenge_protocol refs="">Challenge studies to determine the protection against clinical encephalitis in the mouse model. Fifteen 6-week-old, female NIH Swiss mice were vaccinated with 5 x 10^5 PFU of each chimeric virus or PBS alone (control) in a total volume of 100 µl. After vaccination, each cohort of 15 animals was maintained for 8 weeks without any manipulation. Immunized animals were then challenged with VEEV subtype ID strain ZPC738 by using three different inoculation methods: (i) s.c. inoculation into the medial thigh with 10^6 PFU (roughly 10^6 50% lethal dose) per animal in 0.1 ml of PBS (five mice per group), (ii) i.c. inoculation into the left brain hemisphere with 2 x 10^5 PFU per animal in 20 µl of PBS (five mice per group), and (iii) intranasal (i.n.) inoculation with 2 x 10^5 PFU per animal in 20 µl of PBS (five mice per group). Mice were observed for clinical illness (for anorexia and/or paralysis) and/or death twice daily for a period of 2 months.
+
+Challenge studies to determine protection against viral replication in the brain following i.c. or i.n. inoculation with ZPC738. After a group of mice was vaccinated, the first challenge with ZPC738 was performed using two different inoculation methods: (i) i.c. inoculation into the left brain hemisphere with 2 x 10^5 PFU in 20 µl of PBS and (ii) i.n. inoculation with 2 x 10^5 PFU in 20 µl of PBS. Two animals per group were euthanized on days 3, 7, and 28 after infection, and lungs, livers, spleens, kidneys, and brains were collected for viral titration or histological examinations. In addition, 10 animals per group were housed for 28 days after i.n. challenge with ZPC738, without any manipulation. On day 28, all animals from this group received the second i.n. dose of 2 x 10^5 PFU of ZPC738. Two animals per group were euthanized on days 3, 7, and 28 postchallenge, and organs were collected as described above.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response214" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">golden hamster</host_strain>
+			<vaccination_protocol refs="">Three 6-week-old female Syrian golden hamsters per viral strain were vaccinated s.c. in the right medial thigh with 5 x 105 PFU of SAAR/TRD, SIN/ZPC, SIN/TRD, or TC83 strain or PBS alone. Blood samples were obtained daily for the first 3 days after infection, and the animals were observed twice daily for 21 days. Serum viremia was determined by using a plaque assay on BHK-21 cells as previously described. The presence of neutralizing antibody in hamster serum samples was determined via a plaque reduction neutralization test, as described for the murine experiments</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">Hamsters vaccinated with chimeric SIN/VEE viruses were also protected against s.c. challenge with ZPC738. </protection_efficacy>
+			<side_effects refs="">none</side_effects>
+			<challenge_protocol refs="">Three weeks after vaccination, the hamsters were challenged s.c. in the medial thigh with ZPC738 at a dose of 106 PFU in a total volume of 100 µl of PBS (roughly 5 x 106 50% lethal dose). The animals were observed for 28 days, and deaths or cases of clinical illness were documented.</challenge_protocol>
+			<description refs="">Six- to 8-week-old female Syrian golden hamsters (Mesocricetus auratus) were purchased from Harlan and acclimatized in the facility for a week prior to infection.</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine197">
+		<vaccine_name>Defective adenovirus expressing VEEV  E2 glycoprotein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004116</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference364">Recombinant defective type 5 adenoviruses, expressing the E3E26K structural genes of VEEV were examined for their ability to protect mice against airborne challenge with virulent virus. After intranasal administration, good protection was achieved against the homologous serogroup 1A/B challenge virus (strain Trinidad donkey). There was less protection against enzootic serogroup II and III viruses, indicating that inclusion of more than one E3E26K sequence in a putative vaccine may be necessary. These studies confirm the potential of recombinant adenoviruses as vaccine vectors for VEEV and will inform the development of a live replicating adenovirus-based VEEV vaccine, deliverable by a mucosal route and suitable for use in humans (Phillpotts et al., 2005).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference512 reference513 reference364">To make recombinant viruses, the core gene, the first three nucleotides at the 5′-end of the VEE E3 gene, the 3′-end of the 6K gene and the E1 gene were removed by restriction digestions. An initiation codon, the three nucleotides deleted from E3, the nucleotides removed from the 3′-end of the 6K gene and a termination codon were all added by ligation of oligonucleotide linkers. The E3–E2–6K fragment was then cloned into plasmid pMV101, derived from pMV100 by the addition of a unique Eco R1 restriction site at an Xba I site located downstream of the promoter sequence, to generate plasmid pVEEV. Plasmid pMV100, which contains the CMV major immediate early promoter and a polyadenylation signal. Three sites within the VEEV E2 glycoprotein were mutated by  site-directed mutagenesis from the sequence found in the attenuated TC-83 strain to the sequence found in the virulent TrD strain. Each of the E3–E2–6K sequences from plasmids pVEEV, pVEEV#2 and pVEEV#3 were inserted into AHuman adenovirus type 5 (Ad5) dl309 to make recombinant adenoviruses. Ad5 dl309 has a deleted E1a gene (Jones et al., 1979) and is replication defective, requiring E1a complementation for replication. The E1a gene product may be supplied in trans by stably transfected 293 cells. A second deletion is found in the E3 region of this virus (Bett et al., 1995). The Ad5 vector is designed to enter mammalian cells and express proteins but it is defective for production of infectious progeny virus. All of the recombinant adenoviruses were purified by three rounds of terminal dilution in 293 cells cultured in 96-well plates. The VEEV inserts in the recombinant adenoviruses were characterised by sequencing (Phillpotts et al., 2005). 
+
+To prepare virulent virus stocks, suckling mice were infected intracerebrally of each supplied virus. Infected brains were harvested, prepared as tissue suspensions and clarified by centrifugation. The titre of each VEEV strain was determined by plaque formation under a carboxymethyl cellulose overlay in Vero cells (Phillpotts et al., 2005).</preparation>
+		<route refs=""></route>
+		<antigen refs="">VEEV  E2 glycoprotein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering152" gene_id="gene151">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference364">Recombinant defective type 5 adenoviruses expressing the E3E26K structural genes of VEEV were prepared and examined (Phillpotts et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response284" host_id="host3">
+			<immune_response refs="">The ability of serum to neutralise VEEV was examined in standard plaque reduction assays. Briefly, dilutions of serum and VEEV suspended in L15MM were mixed and incubated at 4 °C overnight. Residual infectious virus was estimated by plaque assay in Vero cells. A reduction in plaque numbers of equal to or greater than 50% was considered indicative of virus neutralisation.
+
+Immunisation with RAd/VEEV#3 provides cross-protection against other epizootic and enzootic strains</immune_response>
+			<host_strain refs="">Balb/c</host_strain>
+			<vaccination_protocol refs="">Balb/c mice, 6–8 weeks old (Charles River Laboratories, UK) were immunised intranasally under halothane anaesthesia on days 0, 7 and 21 with 107.0 pfu of each recombinant adenovirus in 50 μl PBS. </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">Optimal protection within the VEEV IA/B serogroup depends upon sequence homology</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference335 reference337 reference336">Seven days after the final immunisation, the animals were challenged via the airborne route by exposure for 20 min to a polydisperse aerosol generated by a Collison nebuliser (Phillpotts et al., 1997). Mice were contained loose within a closed box during airborne challenge. The virus dose was calculated by sampling the air in the box and assuming a respiratory minute volume for mice of 1.25 ml/g (Guyton, A.C., 1947). After challenge, mice were observed twice daily for clinical signs of infection (piloerection, hunching, inactivity, excitability and paralysis) by an observer who quantified these and was unaware of the treatment allocations. In accordance with UK Home Office requirements and as previously described, humane endpoints were used (Wright et al., 1998). These experiments therefore record the occurrence of severe disease rather than mortality. Even though it is rare for animals infected with virulent VEEV and showing signs of severe illness to survive, our use of humane endpoints should be considered when interpreting any virus dose expressed here as 50% lethal doses (LD50).</challenge_protocol>
+			<description refs="">Balb/c mice, 6-8 weeks old</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2751">
+		<vaccine_name>Encephalomyelitis Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4865.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id>VO_0002266</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2758">
+		<vaccine_name>Encephalomyelitis Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4865.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002268</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2762">
+		<vaccine_name>Encephalomyelitis Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4867.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002269</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2766">
+		<vaccine_name>Encephalomyelitis Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4867.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002270</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2785">
+		<vaccine_name>Encephalomyelitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4875.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002271</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2789">
+		<vaccine_name>Encephalomyelitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4875.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002272</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2793">
+		<vaccine_name>Encephalomyelitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4875.A0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002273</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2797">
+		<vaccine_name>Encephalomyelitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4875.A1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002274</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2828">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4847.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002258</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2834">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4847.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002259</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2840">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4847.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002260</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2846">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4847.32)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002261</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1727">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine (USDA: 14W5.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002128</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2858">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 48W5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002284</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2871">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 48W5.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002287</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine185">
+		<vaccine_name>Live attenuated V3526 virus</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004113</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="">V3526 is a live-attenuated virus derived by site-directed mutagenesis from a virulent clone of the Venezuelan equine encephalitis virus (VEEV) IA/B Trinidad donkey (TrD) strain. It is intended for human use in protection against Venezuelan equine encephalitis (VEE). Vaccinations with V3526, at doses as low as 102 pfu, were safe and efficacious in protecting horses against a virulent TrD virus challenge. </description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">The V3526 vaccine candidate was propagated by serial passage in MRC-5 cells to generate pilot-scale pre-master and master virus seed banks that were subsequently used to produce a bulk lot of virus vaccine. The VEEV TrD viruses used in the plaque reduction neutralizing antibody titer (PRNT) assays was produced by Southern Research Institute-Frederick (Frederick, MD) from a starting seed 15 passages from the original donkey virus isolate. </preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response246" host_id="host18">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="">Horses were inoculated in the left shoulder with SC injection of V3526 vaccine or PCM administered SC.  Clinical observations were recorded daily throughout the immunization phase and for 14 days PC. Blood and data were collected from all horses throughout the course of the study with Day 0 samples taken pre-vaccination and designated as the day of vaccination. Day 28 PV blood was collected prior to administration of the virus challenge. Blood samples for virus isolation were collected daily on Days 0–10 PV, Days 14 and 21 PV, and daily PC (Days 28–38 PV) (or until euthanasia) and on Day 42 PV for surviving horses.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">None of the horses that received V3526 vaccine or PCM showed clinical signs of disease through the entire pre-challenge period. None of the horses developed a viremia after V3526 inoculation. All 25 horses vaccinated with V3526 vaccine, regardless of dose, survived challenge with either TrD or 64A99. In contrast, all five unvaccinated control horses developed severe disease, including anorexia, fever and malaise, beginning 1–2 days after TrD challenge.</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Horses in all three trials were challenged on Day 28 PV with a 1 mL SC injection in the left shoulder with either 104 pfu TrD or 104 pfu of 64A99, a challenge dose comparable to that used in previous vaccine protection studies in mice [8]. Horses were monitored for signs of disease for 14 days PC.
+
+Blood was evaluated for viremia (via plaque assay) and sera for VEEV neutralizing antibodies. Blood for hematology analysis was collected once daily from Days −1 to 10 PV, and from Days 27 to 38 PV. Blood was analyzed using a QBC-V hematology analyzer (Clay Adams, Inc.) for hematocrit, red blood cells, platelet and total white blood cell (WBC) count, as well as percentage and absolute numbers of granulocytes and mononuclear (lymphocyte and monocyte) cells (PBMCs).</challenge_protocol>
+			<description refs="">These studies utilized 33 mixed breed horses, mostly quarter horse stock, with nearly equal numbers of males and females, and in the age range of 3–14 years (as estimated from dental examination). All horses tested negative for pre-existing virus neutralizing antibodies to EEEV, WEEV and VEEV by plaque reduction neutralization (PRN) assays.</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine168">
+		<vaccine_name>Live attenuated vaccine TC-83</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004105</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference361 reference359">TC-83 has proven safe and effective for immunisation of horses (Eddy et al., 1972), (Walton et al., 1972)and has US Food and Drug Administration Investigational New Drug status for use in Humans (IND No. 142). Vaccination with TC-83 virus produced solid protection against subcutaneous challenge with Venezuelan equine encephalitis (VEEV) viruses from homologous and heterologous serogroups, but breakthrough infection and disease occurred after airborne challenge.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">none</virulence>
+		<preparation refs="">Stocks of TC-83 were prepared by propagation from a vial of vaccine for human use (National Drug Company, Philadelphia PA, Lot 4, run 2). Virulent VEEV strains were prepared as suckling mouse brain suspensions by standard methods. In vitro virus propagation and plaque assays were performed in BHK21 cells, grown in Glasgow minimal essential medium. A hyperimmune rabbit antiserum raised against TC-83 virus was kindly provided by T. Webber, DET, at CBD, Porton Down.</preparation>
+		<route refs=""></route>
+		<antigen refs="">Stocks of TC-83 were prepared by propagation from a vial of vaccine for human use (National Drug Company, Philadelphia PA, Lot 4, run 2). Virulent VEEV strains were prepared as suckling mouse brain suspensions by standard methods. </antigen>
+		<host_response host_response_id="host_response208" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">outbred Porton TO</host_strain>
+			<vaccination_protocol refs="">Subcutaneous (s.c.) inoculations of TC-83 virus in L15 MM, L15 MM alone, or virulent VEEV in L15 MM were delivered into the scruff of the neck in a volume of 100 μl. The number of s.c. LD50/ml was determined by titration using five mice per dilution.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">Vaccination with TC-83 virus produced solid protection against subcutaneous challenge with Venezuelan equine encephalitis (VEEV) viruses from homologous and heterologous serogroups, but breakthrough infection and disease occurred after airborne challenge.</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference335">Infection by the airborne route was achieved using a specially constructed small animal exposure box(Phillpotts et al., 1997). Briefly, mice were exposed loose in a box of 80 l capacity, vented through a HEPA filter, to a virus-containing aerosol produced using a Collison nebuliser (8 l/min). The virus suspending fluid was L15 MM with 2% trehalose and the exposure time was 20 min. The air in the box was sampled with a glass impinger running at 1 l/min and the quantity of virus present in the Collison spray reservoir at the end of each run was determined by back-titration. A titration experiment was performed for each virus (five mice per dilution) in order to calculate the number of LD50 delivered by a given dilution of virus in the spray. As there was a linear relationship between the quantity of virus in the Collison reservoir and the impinger, in subsequent experiments the dose of virus delivered was calculated from titration of the impinger contents. Data for each virus at each time point were from a single exposure.</challenge_protocol>
+			<description refs="reference335">Infection by the airborne route was achieved using a specially constructed small animal exposure box(Phillpotts et al., 1997). </description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine184">
+		<vaccine_name>Live attenuated VEE vaccines </vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004112</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="">Molecular clones of vaccine candidates were constructed by inserting either three independently attenuating mutations or a PE2 cleavage-signal mutation with a second-site resuscitating mutation into full-length cDNA clones. Vaccine candidate viruses were recovered through DNA transcription and RNA transfection of cultured cells, and assessed in rodent and non-human primate models. Based on results from this assessment, one of the PE2 cleavage-signal mutants, V3526, was determined to be the best vaccine candidate for further evaluation for human use.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference387 reference388">The generation of isogenic molecular clones and viral stocks for this study was previously described. Briefly, a full-length cDNA clone of the wild-type Trinidad donkey strain of VEE (TrD), pV3000 (Davis et al., 1989), served as the template. VEEV clones with either single or multiple mutations were constructed for site-directed mutagenesis of a M13 subclone of the glycoprotein genes in pV3000. Infectious VEEV RNA, transcribed in vitro from these clones (e.g. pV3519), was used to produce virus (e.g. termed V3519) by transfection of baby hamster kidney (BHK) cells (Davis et al., 1991). Virus stocks tested in these studies were obtained directly from transfected BHK culture supernatant fluids and were used after appropriate dilution without further passage. Parent V3000 virus was passaged twice in BHK cells after collection from transfection supernatant fluids.</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response221" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6 </host_strain>
+			<vaccination_protocol refs="">Female C57BL/6 mice (8–10 weeks) were inoculated s.c. with 0.2 ml of cell culture medium containing either no virus, or plaque forming units (pfu) of the virulent V3000 virus or one of the mutant viral strains. Groups of animals inoculated with either a single human dose of TC-83 or three human doses of C-84 on days 0, 7 and 28 were used as comparisons. The degree of attenuation of the viral strains was assessed during the 14-day observation period after inoculation. On day 49 after inoculation, surviving mice were bled from the retro-orbital sinus under methoxyflurane (Pitman-Moore, Mundelein, IL) anesthesia. </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">All single mutants tested in mice were fully attenuated and induced protective immune responses (data not shown).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference389">On day 55 after the primary inoculation, animals were challenged with a calculated dose of 105 pfu of V3000 or 104 pfu of TrD by aerosol exposure or by intraperitoneal inoculation. For aerosol challenge, animals were exposed for 10 min to an infectious aerosol generated by a Collison nebulizer within a Plexiglass chamber contained within a Class III biological safety cabinet located in a Biosafety Level 3 laboratory. Viral doses delivered by aerosol were calculated by standard procedures(Hart et al., 1997). Protection was assessed by monitoring animals for 28 days post-infection. Additional groups of animals were inoculated with selected viruses (V3526 or V3528) or TC-83 by aerosol and then challenge by aerosol with V3000 on day 55 post-inoculation to evaluate the ability of these viruses to induce mucosal immunity and protect against aerosol challenge.</challenge_protocol>
+			<description refs="">female 8-10 weeks</description>
+		</host_response>
+		<host_response host_response_id="host_response222" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Syrian</host_strain>
+			<vaccination_protocol refs="">Female Syrian (7–9 weeks) were inoculated s.c. with 0.2 ml of cell culture medium containing either no virus, or plaque forming units (pfu) of the virulent V3000 virus or one of the mutant viral strains. Groups of animals inoculated with either a single human dose of TC-83 or three human doses of C-84 on days 0, 7 and 28 were used as comparisons. The degree of attenuation of the viral strains was assessed during the 14-day observation period after inoculation. On day 49 after inoculation, surviving hamsters were bled by cardiac puncture under tiletamine-zolazepam (50 mg/kg, Aveco Co., Inc., Fort Dodge, IA) anesthesia.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">All single mutants, when tested in hamsters, ranged from fully virulent to partially attenuated. In general, hamsters that survived did generate protective immunity against aerosol challenge.</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">On day 55 after the primary inoculation, animals were challenged with a calculated dose of 105 pfu of V3000 or 104 pfu of TrD by aerosol exposure or by intraperitoneal inoculation. For aerosol challenge, animals were exposed for 10 min to an infectious aerosol generated by a Collison nebulizer within a Plexiglass chamber contained within a Class III biological safety cabinet located in a Biosafety Level 3 laboratory. Viral doses delivered by aerosol were calculated by standard procedures(Hart et al., 1997). Protection was assessed by monitoring animals for 28 days post-infection. Additional groups of animals were inoculated with selected viruses (V3526 or V3528) or TC-83 by aerosol and then challenge by aerosol with V3000 on day 55 post-inoculation to evaluate the ability of these viruses to induce mucosal immunity and protect against aerosol challenge.</challenge_protocol>
+			<description refs="">female 7-9 weeks</description>
+		</host_response>
+		<host_response host_response_id="host_response223" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Macaca fascicularis</host_strain>
+			<vaccination_protocol refs="reference365 reference398">The non-human primate model monkey used to test the safety and efficacy of VEEV vaccines was previously described (Pratt et al., 2003). Briefly, 30 healthy cynomolgus macaques were s.c. implanted with radiotelemetry devices to monitor body temperatures. During the pre-vaccination and pre-challenge periods (day −10 to day 0) and the 21 days after vaccination and challenge, body temperatures were recorded every 15 min. An autoregressive integrated moving average model (BMDP Statistics Software 1992) for each monkey was developed using the averaged hourly body temperature data over a baseline-training period (day −10 to day −3) and was used to forecast normal body temperature values during the vaccination and challenge time periods. Significant temperature elevations were used to compute fever duration (number of hours or days of significant temperature elevation) and fever-hours (sum of the significant temperature elevations).
+
+Monkeys were randomly divided into six groups (N=5) and each monkey received a single s.c. 0.5 ml dose of a vaccine candidate (V3524, V3526 or V3528), TC-83, V3000 or virus-free cell culture medium. On day 35 or 36 after inoculation, bronchial lavage and blood samples were collected for N antibody titrations. </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">Monkeys vaccinated with V3526 or V3528 were well protected against aerosol challenge with few to no signs of fever, lymphopenia, or viremia—similar to the group of monkeys previously inoculated with V3000. The group of monkeys vaccinated with TC-83 was also in this category, but one monkey that did not have pre-challenge N antibody titers did develop fever responses similar to the mock-inoculated monkeys. Unlike the groups of monkeys inoculated with V3526, V3528, TC-83, or V3000, the group of monkeys inoculated with V3524 was not as well protected against aerosol challenge with V3000 and was in a distinct fever grouping. It suggested a higher degree of infection and viral replication in these monkeys. Additionally, viremia was present in one V3524-inoculated monkey.</protection_efficacy>
+			<side_effects refs="">fever for V3524, V3526, V3528, TC-83. Four days of significant fever for wild type V3000</side_effects>
+			<challenge_protocol refs="">On days 42 or 43, monkeys were anaesthetized and exposed for to an infectious aerosol of V3000. Monkeys were bled daily for 6 days after both immunization and challenge to monitor viremias and lymphocyte counts. On day 14 post-challenge, serum was collected for N antibody titrations. Virus dosages, viremias, and N antibody titers were determined in similar manner to those for the rodent studies. Statistical evaluation of the groups of monkeys was made using analysis of variance followed by multiple comparisons using the Tukey studentized range test (SAS ver. 6.10, Cary, NC).</challenge_protocol>
+			<description refs="">30 healthy cynomolgus macaques (Macaca fascicularis, 4.2–6.7 kg), screened negative by ELISA for previous exposure to alphaviruses</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3094">
+		<vaccine_name>live TC-83 VEE Vaccine with DHEA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004261</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response923" host_id="host3">
+			<immune_response refs="reference2029">In mice treated with a single dose of DHEA, a significant increase (p&lt;0.01) of antibody titers (Control = 1:1.680 vs. DHEA treated group = 1:4.320) was detected at week 2 after vaccination with TC-83 virus (Negrette et al., 2001).</immune_response>
+			<host_strain refs="">NMRI-IVIC</host_strain>
+			<vaccination_protocol refs="reference2029">Mice were immunized intraperitoneally (i.p.) with 0.05 mL of live TC-83 VEE virus suspension, containing 1.7 x 106 PFU/mL, in 0.4% BABS. Virus stock from IVIC was replicated in VERO cell culture and contained 106.78 LD50. DHEA (Sigma Chemical Co., St. Louis, MO, U.S.A.) was dissolved in 50% ethanol. Mice were injected with DHEA (10 mg/Kg), in 0.3 mL, subcutaneously (s.c.), 4 hours before vaccination. Control mice were injected with the diluent (Negrette et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2029">MIce immunized with the TC-83 virus and DHEA had reduced viremia in the blood and brain after challenge (Negrette et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2029">Live VEE virus (10 LD50) was injected in mice treated with DHEA, 21 days after immunization, and 2 to 5 days later they were sacrificed to determine viral titers in serum and brain (Negrette et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine181">
+		<vaccine_name>Recombinant RNA replicons from attenuated VEE virus</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004109</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="">RNA replicons derived from an attenuated strain of Venezuelan equine encephalitis virus (VEE), an alphavirus, were configured as candidate vaccines for Ebola hemorrhagic fever. The Ebola nucleoprotein (NP) or glycoprotein (GP) genes were introduced into the VEE RNA downstream from the VEE 26S promoter in place of the VEE structural protein genes. The resulting recombinant replicons, expressing the NP or GP genes, were packaged into VEE replicon particles (NP–VRP and GP–VRP, respectively). The immunogenicity of NP–VRP and GP–VRP and their ability to protect against lethal Ebola infection were evaluated in BALB/c mice and in two strains of guinea pigs. The GP–VRP alone, or in combination with NP–VRP, protected both strains of guinea pigs and BALB/c mice, while immunization with NP–VRP alone protected BALB/c mice, but neither strain of guinea pig. Passive transfer of sera from VRP-immunized animals did not confer protection against lethal challenge. However, the complete protection achieved with active immunization with VRP, as well as the unique characteristics of the VEE replicon vector, warrant further testing of the safety and efficacy of NP–VRP and GP–VRP in primates as candidate vaccines against Ebola hemorrhagic fever.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference372 reference373 reference380 reference379 reference374 reference381">A plasmid encoding the VEE replicon vector was described previously (Davis et al., 1996)(Pushko et al., 1997). The Ebola NP and GP genes from the Mayinga strain of Ebola virus were derived from pSP64- and pGEM3Zf(ÿ)-based plasmids (Sanchez et al., 1993)(Sanchez et al., 1989). The fragments containing the NP and GP genes, respectively, were subcloned into a shuttle vector(Davis et al., 1996)(Grieder et al., 1995). From the shuttle vector, NP or GP genes were transferred the replicon clone, resulting in plasmids encoding the NP or GP gene in place of the VEE structural protein genes.
+
+Transcripts of the replicon were pooled and cotransfected as described previously (Pushko et al., 1997). Transfected cells were incubated and harvested. Culture supernatants were clarified by centrifugation and VRP particles were concentrated and partially purified by centrifugation. VRP titers were determined as immunofluorescent foci after infection of BHK cells in eight-well chamber slides as previously described (Pushko et al., 1997)(Pifat et al., 1988). Positive cells were counted, and the titers of the VRP preparations were calculated. Production and titration of Lassa N±VRP were described previously (Pushko et al., 1997). For expression assays, BHK cells were infected with NP- or GP±VRP, or cotransfected with replicon and helper RNAs. Cells were incubated before harvesting. Polypeptides were separated and Western blotting was carried out. VEE proteins in western blots were detected with sera from guinea pigs immunized with the live-attenuated TC-83 vaccine. </preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response209" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="">VRP were diluted and administered to BALB/c mice. Groups of mice were inoculated subcutaneously (s.c.). </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">The GP-VRP alone, or in combination with NP-VRP, protected BALB/c mice. Immunization with NP-VRP alone protected BALB/c mice. Passive transfer of sera from VRP-immunized animals did not confer protection against lethal challenge. </protection_efficacy>
+			<side_effects refs="">none</side_effects>
+			<challenge_protocol refs="">Challenge was carried out 4 weeks after final immunization with VRP. Mice were challeged i.p. with mouse-adapted Ebola virus. Animals wre observed daily for 60 days and morbidity and survival were recorded. </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response210" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">strain 2 or strain 13</host_strain>
+			<vaccination_protocol refs=""> VRP were diluted and administered to BALB/c mice. Groups of guinea pigs were inoculated subcutaneously (s.c.).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">The GP-VRP alone, or in combination with NP-VRP, protected both strains of guinea pigs. Immunization with NP-VRP alone protected neither strain of guinea pigs. Passive transfer of sera from VRP-immunized animals did not confer protection against lethal challenge.</protection_efficacy>
+			<side_effects refs="">none</side_effects>
+			<challenge_protocol refs="">Challenge was carried out 4 weeks after final immunization with VRP. Guinea pigs were challeged s.c. with guinea pig-adapted Ebola virus. Animals wre observed daily for 60 days and morbidity and survival were recorded.
+</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine167">
+		<vaccine_name>VEE virus complex-specific monoclonal antibody</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004104</vo_id>
+		<type>Monoclonal antibody</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference333">Using a murine model to study monoclonal antibody (MAB) a VEEV complex-specific, glycoprotein E2-binding MAB was identified, able to protect against disease induced by exposure to aerosolised VEEV from serogroups I, II and IIIA (mouse-virulent strains). There was no synergy in protection between anti-E1 and anti-E2 MAB. Assays of MAB virus neutralising activity in a homologous (mouse fibroblast) cell line suggested that neutralisation played a significant role in protection in addition to the previously reported mechanism of Fc receptor-binding [Mathews et al., 1985. J. Virol. 55, 594–600]. Development of an analogous human MAB with identical VEEV epitope specificity may be informed and monitored by reference to these properties (Phillpotts, 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">Not virulent</virulence>
+		<preparation refs="reference334">The monoclonal antibodies (MAB) are: (1). the VEEV surface glycoprotein E2-specific monoclonal antibodies 1A4A-1; (2). the VEEV surface glycoprotein E2-specific monoclonal antibodies 1A3B-7; (3) the glycoprotein E1-specific MAB 3B2A-9; (4) 4. the E1-specific MAB MH2. All MAB were produced and purified by protein G affinity chromatography as previously described (Phillpotts et al., 2002).
+
+Strains of VEEV from serogroups IA/B (Trinidad donkey; TrD), IC (P676), ID (3880), IE (Menall), IF (78v-3531), II (Fe37c), IIIA (Mucambo BeAn8), IV (Pixuna BeAn356445), V (Cabassou CaAr508) and IV (AG80-663) are used.
+For the preparation of virus stocks, suckling mice were infected intracerebrally with a 1/1000 dilution of each virus. Infected brains were harvested at 24 h, prepared as 10% tissue suspensions in L15MM and clarified by centrifugation at 10,000 × g for 15 min. Alternatively viruses were propagated in Vero cell monolayers inoculated with an m.o.i. of 0.01 and harvested when 50–75% of the cell sheet showed evidence of virus cytopathic effect (CPE). The titre of each VEEV strain was determined by plaque formation under a carboxymethyl cellulose overlay in BHK21 cells. </preparation>
+		<route refs=""></route>
+		<antigen refs="">No VEE virus antigens were used for this vaccination approach. The monoclonal antibodies are specifically designed against VEEV surface glycoproteins E1 and E2.</antigen>
+		<host_response host_response_id="host_response196" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Balb/c mice</host_strain>
+			<vaccination_protocol refs="">Balb/c mice, 3–4 (s.c. challenge) or 6–8 (airborne challenge) weeks old (Charles River Laboratories, UK) were passively immunized intraperitoneally (i.p.) 24 h before exposure to virulent virus with MAB diluted in PBS.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">MAB MH2, 3B2A-9 and 1A3B-7 may be broadly reactive and potentially able to protect against a range of VEEV strains. There was also the possibility that the combination of E1- and E2-specific MAB could lead to synergy in protection. MAB 1A4A-1 while not broadly reactive, was able to bind strongly to, neutralise and protect against challenge with some VEEV strains. It was therefore included in these experiments as a positive control.</protection_efficacy>
+			<side_effects refs="">No side effect</side_effects>
+			<challenge_protocol refs="reference335 reference337 reference334 reference336">The challenge route was either s.c. (100 μl virus-containing suspension in PBS) or via the airborne route, by exposure for 20 min to a poly disperse aerosol generated by a Collison nebuliser (Phillpotts et al., 1997). Mice were contained loose within a closed box during airborne challenge. The virus dose was calculated by sampling the air in the box and assuming a respiratory minute volume for mice of 1.25 ml/g (Guyton, A.C., 1947). After challenge, mice were observed twice daily for clinical signs of infection (piloerection, hunching, inactivity, excitability and paralysis) by an observer who quantified these and was unaware of the treatment allocations. These clinical signs are typical of VEEV infection and occurred in all mice challenged with VEEV.
+In previous studies (Phillpotts et al., 2002) their association with VEEV infection as the cause of death has been confirmed by the isolation of virus from brain and other internal organs. In accordance with UK Home Office requirements and as previously described, humane endpoints were used (Wright et al., 1998). These experiments therefore record the occurrence of severe disease rather than mortality. Even though it is rare for animals infected with virulent VEEV and showing signs of severe illness to survive, our use of humane endpoints should be considered when interpreting any virus dose expressed here as 50% lethal doses (LD50).</challenge_protocol>
+			<description refs="">The challenge route was either s.c. (100 μl virus-containing suspension in PBS) or via the airborne route, by exposure for 2</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3822">
+		<vaccine_name>VEE virus DNA vaccine encoding 26S</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004488</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pWRG7077 [Ref2426:Riemenschneider et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1359" gene_id="gene593">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2426">Vector pWRG7077 expressed VEEV 26S gene (Riemenschneider et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1236" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2426">DNA vaccines to four dissimilar pathogens that are known biowarfare agents, Bacillus anthracis, Ebola (EBOV), Marburg (MARV), and Venezuelan equine encephalitis virus (VEEV), can elicit protective immunity in relevant animal models. In addition, a combination of all four vaccines is shown to be equally as effective as the individual vaccines for eliciting immune responses in a single animal species (Riemenschneider et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3829">
+		<vaccine_name>VEE virus DNA vaccine pSTU-TRDF encoding VEEV E3–E2–6K</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004490</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pJW4304 prime, adenovirus-based vector boost [Ref2427:Perkins et al., 2006]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1618" gene_id="gene1736">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1244" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2427">Particle-mediated epidermal delivery of a DNA vaccine encoding the E2 glycoprotein of VEEV can be boosted with a mucosally-delivered Ad-based vaccine encoding the same E2 glycoprotein, resulting in a significant increase in protection against airborne VEEV (Perkins et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3689">
+		<vaccine_name>VEE virus DNA vaccine VEEV IA/B parent encoding structural genes</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004421</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pES [Ref1192:Dupuy et al., 2009]</vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs="reference1192">VEEV subtype IA/B capsid protein (C) and envelope glycoproteins (E1 and E2)  (Dupuy et al., 2009)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1619" gene_id="gene727">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1620" gene_id="gene725">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1238" host_id="host3">
+			<immune_response refs="reference1192">The vaccine was able to induce increased total anti-VEEV IA/B antibody responses and increased neutralizing antibody responses (Dupuy et al., 2009).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1192">The VEEV IA/B parent construct protected 80% of the mice from the lethal challenge, which is the same level of protection elicited by this DNA vaccine in a previous study. As in the previous study, mice vaccinated with the VEEV IA/B parent displayed signs of illness after challenge including ruffled fur, loss of appetite, and inactivity; however, the surviving mice completely recovered before the end of the 28 day post-challenge observation period (Dupuy et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3143">
+		<vaccine_name>VEE Virus PE2/E1 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering655" gene_id="gene727">
+			<type>Gene mutation</type>
+			<description refs="reference2060">This PE2/E1 mutant is from Venezuelan equine encephalitis virus (Davis et al., 1995).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering656" gene_id="gene1077">
+			<type>Gene mutation</type>
+			<description refs="reference2060">This PE2/E1 mutant is from Venezuelan equine encephalitis virus (Davis et al., 1995).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response967" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2060">A PE2/E1 mutant is highly attenuated in mice (Davis et al., 1995).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2060">A PE2/E1 mutant induces complete protection in mice from challenge with wild type VEE virus (Davis et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3690">
+		<vaccine_name>VEE virus recombinant vector vaccine RAd/VEEV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004422</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>recombinant adenovirus [Ref364:Phillpotts et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference364">E3–E2–6K from VEEV strain TC-83 (Phillpotts et al., 2005)</antigen>
+		<host_response host_response_id="host_response1452" host_id="host3">
+			<immune_response refs="reference364">Intranasal immunisation of mice with this recombinant virus produced a vigorous antibody response, with local IgA also detectable in respiratory secretions accompanied by highly significant protection against airborne VEEV challenge (Phillpotts et al., 2005).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference364">This vaccine provided protection against low dose challenge (73 LD50); 4 out of 6 challenged mice survived (Phillpotts et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3691">
+		<vaccine_name>VEE virus recombinant vector vaccine RAd/VEEV#2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004423</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>recombinant adenovirus [Ref364:Phillpotts et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference364">E3-E2-6K from VEEV TC-83 with two mutations in the major neutralisation site of E2  (Phillpotts et al., 2005)</antigen>
+		<host_response host_response_id="host_response1453" host_id="host3">
+			<immune_response refs="reference364">Intranasal immunisation of mice with this recombinant virus produced a vigorous antibody response, with local IgA also detectable in respiratory secretions accompanied by highly significant protection against airborne VEEV challenge (Phillpotts et al., 2005).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference364">This vaccine provided protection against low dose challenge (73 LD50); 4 out of 6 challenged mice survived (Phillpotts et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3692">
+		<vaccine_name>VEE virus recombinant vector vaccine RAd/VEEV#3 encoding TC-83</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004424</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>recombinant adenovirus [Ref364:Phillpotts et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference364">E3-E2-6K from VEEV TC-83 with two mutations in the major neutralisation site of E2 and an additional mutation at the N-terminus of E2 (Phillpotts et al., 2005)</antigen>
+		<host_response host_response_id="host_response1454" host_id="host3">
+			<immune_response refs="reference364">Intranasal immunisation of mice with this recombinant virus produced a vigorous antibody response, with local IgA also detectable in respiratory secretions accompanied by highly significant protection against airborne VEEV challenge (Phillpotts et al., 2005).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference364">This vaccine provided protection against low and intermediate dose challenge (73 LD50 and 640 LD50, respectively); 5 out of 6 mice survived low dose challenge and 3 out of 5 mice survived intermediate dose challenge (Phillpotts et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene593">
+        <gene_name>26S mRNA</gene_name>
+        <strain>Venezuelan equine encephalitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2652924</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9626528</ncbi_protein_id>
+        <gene_locus_tag>VEEVgp3</gene_locus_tag>
+        <gene_refseq>AY973944</gene_refseq>
+        <protein_refseq>NP_040824</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11036</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>7531</gene_start>
+        <gene_end>11443</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>8.88</protein_pi>
+        <protein_weight>129183.21</protein_weight>
+        <protein_length>1255</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001449.1:7531-11443 Venezuelan equine encephalitis virus, complete genome
+AATGGACTACGACATAGTCTAGTCCGCCAAGATGTTCCCGTTCCAACCAATGTATCCGATGCAGCCAATG
+CCCTATCGTAACCCGTTCGCGGCCCCGCGCAGGCCCTGGTTCCCCAGAACCGACCCTTTTCTGGCGATGC
+AGGTGCAGGAATTAACCCGCTCGATGGCTAACCTGACGTTCAAGCAACGCCGGGACGCGCCACCTGAGGG
+GCCACCTGCTAAGAAACCTAAGAGGGAGGCCCCGCAAAAGCAAAAAGGGGGAGGCCAAGGGAAGAAGAAG
+AAGAACCAGGGGAAGAAGAAGGCCAAGACGGGGCCGCCTAATCCGAAGGCACAGAGTGGAAACAAGAAGA
+AGCCCAACAAGAAACCAGGCAAGAGACAGCGCATGGTCATGAAATTGGAATCTGACAAGACATTCCCAAT
+TATGCTGGAAGGGAAGATTAACGGCTACGCTTGCGTGGTCGGAGGGAAGTTATTCAGGCCGATGCACGTG
+GAAGGCAAGATCGACAACGACGTTCTGGCCGCACTTAAGACGAAGAAAGCATCCAAATATGATCTTGAGT
+ATGCAGATGTGCCACAGAACATGCGGGCCGATACATTCAAGTACACCCATGAGAAGCCCCAAGGCTATTA
+CAGCTGGCATCATGGAGCAGTCCAATATGAAAATGGGCGTTTCACGGTGCCAAAAGGAGTTGGGGCCAAG
+GGAGACAGCGGAAGACCCATTCTGGATAATCAGGGACGGGTGGTCGCTATTGTGCTGGGAGGTGTGAATG
+AAGGATCTAGGACAGCCCTTTCAGTCGTCATGTGGAACGAGAAGGGAGTAACTGTGAAGTATACTCCGGA
+GAACTGCGAGCAATGGTCACTAGTGACCACTATGTGCCTGCTCGCCAATGTGACGTTCCCATGTGCCGAA
+CCACCAATTTGCTACGACAGAAAACCAGCAGAGACTTTGGCCATGCTCAGCGTTAACGTTGACAACCCGG
+GCTACGATGAGCTGCTGGAAGCAGCTGTTAAGTGCCCCGGAAGAAAAAGGAGATCTACCGAGGAGCTGTT
+TAAGGAGTATAAGCTAACGCGCCCTTACATGGCCAGATGCATCAGATGTGCCGTTGGGAGCTGCCATAGT
+CCAATAGCAATTGAGGCAGTGAAGAGCGACGGGCACGACGGCTATGTTAGACTTCAGACTTCCTCGCAGT
+ATGGCCTGGATTCCTCTGGCAACTTAAAGGGAAGGACTATGCGGTATGATATGCACGGGACCATTGAAGA
+GATACCACTACATCAAGTGTCACTCCACACATCTCGCCCGTGTCACATTGTGGATGGGCATGGTTATTTT
+CTGCTTGCTAGGTGCCCGGCAGGGGACTCCATCACCATGGAATTTAAGAAAGGTTCAGTCACACACTCCT
+GCTCAGTGCCGTATGAAGTGAAATTTAATCCTGTAGGCAGAGAACTCTACACTCATCCACCAGAACACGG
+AGCAGAGCAAGCGTGCCAAGTCTACGCGCACGATGCACAGAACAGAGGAGCTTATGTCGAGATGCACCTC
+CCGGGCTCAGAAGTGGACAGCAGTTTGATTTCCTTGAGCGGCAGTTCAGTCACCGTGACACCTCCTGTCG
+GGACTAGCGCCTTGGTGAAATGCAAGTGCGGCGGCACAAAGATCTCCGAAACCATCAACAAGGCAAAACA
+GTTCAGCCAGTGCACAAAGAAGGAGCAGTGCAGAGCATATCGACTGCAGAATGACAAGTGGGTGTATAAT
+TCTGACAAACTGCCCAAAGCAGCGGGAGCCACCCTAAAAGGAAAACTACACGTCCCGTTCTTGCTGGCAG
+ACGGCAAATGCACCGTGCCTCTAGCACCGGAACCTATGATAACCTTCGGTTTCCGATCAGTGTCACTGAA
+ACTGCACCCTAAGAATCCCACATATCTGACCACTCGCCAACTTGCTGATGAGCCTCATTACACGCACGAG
+CTCATATCTGAACCAGCTGTTAGGAATTTTACCGTCACTGAAAAGGGGTGGGAGTTTGTATGGGGAAACC
+ATCCGCCGAAAAGGTTTTGGGCACAGGAAACAGCACCCGGAAATCCACATGGGCTGCCACATGAGGTGAT
+AACTCATTATTACCACAGATACCCTATGTCCACCATCCTGGGTTTGTCAATTTGCGCCGCCATTGTAACC
+GTTTCCGTTGCAGCGTCCACCTGGCTGTTTTGCAAATCCAGAGTTTCGTGCCTAACTCCTTACCGGCTAA
+CACCTAACGCCAGGATGCCGCTTTGCCTGGCCGTGCTTTGCTGCGCCCGCACTGCCCGGGCCGAGACCAC
+CTGGGAGTCCTTGGATCACCTATGGAACAATAACCAACAGATGTTCTGGATTCAATTGCTGATCCCTCTG
+GCCGCCTTGATTGTAGTGACTCGCCTGCTCAAGTGCGTGTGCTGTGTAGTGCCTTTTTTAGTCGTGGCCG
+GCGCCGCAGGCGCCGGCGCCTACGAGCACGCGACCACGATGCCGAGCCAAGCGGGAATCTCGTATAACAC
+CATAGTCAACAGAGCAGGCTACGCGCCACTCCCTATCAGCATAACACCAACAAAGATCAAGCTGATACCC
+ACAGTGAACTTGGAGTACGTCACCTGCCACTACAAAACAGGAATGGATTCACCAGCCATCAAATGCTGCG
+GATCTCAGGAATGTACTCCAACTAACAGGCCTGATGAACAGTGCAAAGTCTTCACAGGGGTTTACCCGTT
+CATGTGGGGAGGTGCATATTGCTTTTGCGACACTGAGAATACTCAGGTCAGCAAGGCCTACGTAATGAAA
+TCTGACGACTGCCTTGCGGATCATGCTGAAGCATACAAAGCGCACACAGCCTCAGTGCAGGCGTTCCTCA
+ACATCACAGTGGGGGAACACTCTATTGTGACCACCGTGTATGTGAATGGAGAAACTCCTGTGAACTTCAA
+TGGGGTCAAACTAACTGCAGGTCCACTTTCCACAGCTTGGACACCCTTTGACAGAAAAATCGTGCAGTAT
+GCCGGGGAGATCTATAATTACGATTTTCCTGAGTATGGGGCAGGACAACCAGGAGCATTTGGAGACATAC
+AATCCAGAACAGTCTCAAGCTCAGATCTGTATGCCAATACCAACCTAGTGCTGCAGAGACCCAAAGCAGG
+AGCGATCCATGTGCCATACACTCAGGCACCATCGGGTTTTGAGCAATGGAAGAAAGATAAAGCTCCGTCA
+TTGAAATTCACCGCCCCTTTCGGATGCGAAATATATACAAACCCCATTCGCGCCGAAAATTGTGCTGTAG
+GGTCAATTCCATTAGCCTTTGACATTCCCGACGCCTTGTTCACCAGGGTGTCAGAAACACCGACACTTTC
+AGCGGCCGAATGCACTCTTAACGAGTGCGTGTATTCATCCGACTTTGGCGGGATCGCCACGGTCAAGTAT
+TCGGCCAGCAAGTCAGGCAAGTGCGCAGTCCATGTGCCATCAGGGACTGCTACCCTAAAAGAAGCAGCAG
+TCGAGCTAACCGAGCAAGGGTCGGCGACCATTCATTTCTCGACCGCAAATATCCACCCGGAGTTCAGGCT
+CCAAATATGCACATCATATGTCACGTGCAAAGGTGATTGTCACCCCCCGAAAGACCACATTGTGACACAC
+CCCCAGTATCACGCCCAAACATTTACAGCCGCGGTGTCAAAAACCGCGTGGACGTGGTTAACATCCCTGC
+TGGGAGGATCGGCCGTAATTATTATAATTGGCTTAGTGCTGGCTACTATTGTGGCCATGTACGTGCTGAC
+CAACCAGAAACATAATTGAACATAGCAGCAATTGGCAAGCTGCTTATATAGAACTTGCGGCGATTGGCAT
+GCCGCTTTAAAATTTTATTTTATTTTCTTTTCTTTTCCGAATCGGATTTTGTTTTTAATATTT
+
+</dna_sequence>
+        <protein_sequence>>NP_040824.1 structural polyprotein precursor [Venezuelan equine encephalitis virus]
+MFPFQPMYPMQPMPYRNPFAAPRRPWFPRTDPFLAMQVQELTRSMANLTFKQRRDAPPEGPPAKKPKREA
+PQKQKGGGQGKKKKNQGKKKAKTGPPNPKAQSGNKKKPNKKPGKRQRMVMKLESDKTFPIMLEGKINGYA
+CVVGGKLFRPMHVEGKIDNDVLAALKTKKASKYDLEYADVPQNMRADTFKYTHEKPQGYYSWHHGAVQYE
+NGRFTVPKGVGAKGDSGRPILDNQGRVVAIVLGGVNEGSRTALSVVMWNEKGVTVKYTPENCEQWSLVTT
+MCLLANVTFPCAEPPICYDRKPAETLAMLSVNVDNPGYDELLEAAVKCPGRKRRSTEELFKEYKLTRPYM
+ARCIRCAVGSCHSPIAIEAVKSDGHDGYVRLQTSSQYGLDSSGNLKGRTMRYDMHGTIEEIPLHQVSLHT
+SRPCHIVDGHGYFLLARCPAGDSITMEFKKGSVTHSCSVPYEVKFNPVGRELYTHPPEHGAEQACQVYAH
+DAQNRGAYVEMHLPGSEVDSSLISLSGSSVTVTPPVGTSALVKCKCGGTKISETINKAKQFSQCTKKEQC
+RAYRLQNDKWVYNSDKLPKAAGATLKGKLHVPFLLADGKCTVPLAPEPMITFGFRSVSLKLHPKNPTYLT
+TRQLADEPHYTHELISEPAVRNFTVTEKGWEFVWGNHPPKRFWAQETAPGNPHGLPHEVITHYYHRYPMS
+TILGLSICAAIVTVSVAASTWLFCKSRVSCLTPYRLTPNARMPLCLAVLCCARTARAETTWESLDHLWNN
+NQQMFWIQLLIPLAALIVVTRLLKCVCCVVPFLVVAGAAGAGAYEHATTMPSQAGISYNTIVNRAGYAPL
+PISITPTKIKLIPTVNLEYVTCHYKTGMDSPAIKCCGSQECTPTNRPDEQCKVFTGVYPFMWGGAYCFCD
+TENTQVSKAYVMKSDDCLADHAEAYKAHTASVQAFLNITVGEHSIVTTVYVNGETPVNFNGVKLTAGPLS
+TAWTPFDRKIVQYAGEIYNYDFPEYGAGQPGAFGDIQSRTVSSSDLYANTNLVLQRPKAGAIHVPYTQAP
+SGFEQWKKDKAPSLKFTAPFGCEIYTNPIRAENCAVGSIPLAFDIPDALFTRVSETPTLSAAECTLNECV
+YSSDFGGIATVKYSASKSGKCAVHVPSGTATLKEAAVELTEQGSATIHFSTANIHPEFRLQICTSYVTCK
+GDCHPPKDHIVTHPQYHAQTFTAAVSKTAWTWLTSLLGGSAVIIIIGLVLATIVAMYVLTNQKHN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Representative variants from a library in which the E1 gene from VEEV IA/B was held constant and only the E2 genes of the five parent viruses were recombined elicited significantly increased neutralizing antibody titers to VEEV IA/B compared to the parent DNA vaccine and provided improved protection against aerosol VEEV IA/B challenge in BALB/c mice [Ref1192:Dupuy et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1736">
+        <gene_name>C-E3-E2-E1-6K</gene_name>
+        <strain>Venezuelan equine encephalitis virus (strain TC-83)</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>130559</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279312
+CDD:279849
+CDD:279311
+CDD:279870</xrefs>
+        <taxonomy_id>11037</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Structural polyprotein</protein_name>
+        <protein_pi>8.56</protein_pi>
+        <protein_weight>137728.43</protein_weight>
+        <protein_length>1776</protein_length>
+        <protein_note>p130</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|P05674.1|POLS_EEVV8 RecName: Full=Structural polyprotein; AltName: Full=p130; Contains: RecName: Full=Capsid protein; AltName: Full=Coat protein; Short=C; Contains: RecName: Full=Precursor of protein E3/E2; AltName: Full=p62; AltName: Full=pE2; Contains: RecName: Full=Assembly protein E3; Contains: RecName: Full=Spike glycoprotein E2; AltName: Full=E2 envelope glycoprotein; Contains: RecName: Full=6K protein; Contains: RecName: Full=Spike glycoprotein E1; AltName: Full=E1 envelope glycoprotein
+MFPFQPMYPMQPMPYRNPFAAPRRPWFPRTDPFLAMQVQELTRSMANLTFKQRRDAPPEGPSAKKPKKEA
+SQKQKGGGQGKKKKNQGKKKAKTGPPNPKAQNGNKKKTNKKPGKRQRMVMKLESDKTFPIMLEGKINGYA
+CVVGGKLFRPMHVEGKIDNDVLAALKTKKASKYDLEYADVPQNMRADTFKYTHEKPQGYYSWHHGAVQYE
+NGRFTVPKGVGAKGDSGRPILDNQGRVVAIVLGGVNEGSRTALSVVMWNEKGVTVKYTPENCEQWSLVTT
+MCLLANVTFPCAQPPICYDRKPAETLAMLSVNVDNPGYDELLEAAVKCPGRKRRSTEELFNEYKLTRPYM
+ARCIRCAVGSCHSPIAIEAVKSDGHDGYVRLQTSSQYGLDSSGNLKGRTMRYDMHGTIKEIPLHQVSLYT
+SRPCHIVDGHGYFLLARCPAGDSITMEFKKDSVRHSCSVPYEVKFNPVGRELYTHPPEHGVEQACQVYAH
+DAQNRGAYVEMHLPGSEVDSSLVSLSGSSVTVTPPDGTSALVECECGGTKISETINKTKQFSQCTKKEQC
+RAYRLQNDKWVYNSDKLPKAAGATLKGKLHVPFLLADGKCTVPLAPEPMITFGFRSVSLKLHPKNPTYLI
+TRQLADEPHYTHELISEPAVRNFTVTEKGWEFVWGNHPPKRFWAQETAPGNPHGLPHEVITHYYHRYPMS
+TILGLSICAAIATVSVAASTWLFCRSRVACLTPYRLTPNARIPFCLAVLCCARTARAETTWESLDHLWNN
+NQQMFWIQLLIPLAALIVVTRLLRCVCCVVPFLVMAGAAAPAYEHATTMPSQAGISYNTIVNRAGYAPLP
+ISITPTKIKLIPTVNLEYVTCHYKTGMDSPAIKCCGSQECTPTYRPDEQCKVFTGVYPFMWGGAYCFCDT
+ENTQVSKAYVMKSDDCLADHAEAYKAHTASVQAFLNITVGEHSIVTTVYVNGETPVNFNGVKITAGPLST
+AWTPFDRKIVQYAGEIYNYDFPEYGAGQPGAFGDIQSRTVSSSDLYANTNLVLQRPKAGAIHVPYTQAPS
+GFEQWKKDKAPSLKFTAPFGCEIYTNPIRAENCAVGSIPLAFDIPDALFTRVSETPTLSAAECTLNECVY
+SSDFGGIATVKYSASKSGKCAVHVPSGTATLKEAAVELTEQGSATIHFSTANIHPEFRLQICTSYVTCKG
+DCHPPKDHIVTHPQYHAQTFTAAVSKTAWTWLTSLLGGSAVIIIIGLVLATIVAMYVLTNQKHN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene727">
+        <gene_name>E1 glycoprotein</gene_name>
+        <strain>Venezuelan equine encephalitis virus</strain>
+        <vo_id>VO_0011267</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>798795</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:201874</xrefs>
+        <taxonomy_id>11036</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>E1 glycoprotein</protein_name>
+        <protein_pi>7.54</protein_pi>
+        <protein_weight>3856.25</protein_weight>
+        <protein_length>114</protein_length>
+        <protein_note>Alphavirus E1 glycoprotein; pfam01589</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA65907.1 E1 glycoprotein, partial [Venezuelan equine encephalitis virus]
+WTWLTSLLGGSAVIIIIGLVLATIVAMYVLTNQKHN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The monoclonal antibody against E1 glycoprotein protect outbred albino mice from lethal infection caused by the virulent strain Trd of the VEE virus [Ref1324:Agapov et al., 1994].</phi_annotation>
+        <phi_function2>Virmugen</phi_function2>
+        <phi_annotation2>A VEE mutant with a PE2 cleavage signal mutation and a suppressor mutation in E1 is highly attenuated in mice and provides complete protection against challenge with wild type VEE [Ref2060:Davis et al., 1995].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene725">
+        <gene_name>E2 envelope protein</gene_name>
+        <strain>Venezuelan equine encephalitis virus</strain>
+        <vo_id>VO_0011265</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>25140296</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279311</xrefs>
+        <taxonomy_id>11036</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>E2 envelope protein</protein_name>
+        <protein_pi>8.59</protein_pi>
+        <protein_weight>44311.99</protein_weight>
+        <protein_length>503</protein_length>
+        <protein_note>putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>NP_741966.1 E2 envelope protein [Venezuelan equine encephalitis virus]
+STEELFKEYKLTRPYMARCIRCAVGSCHSPIAIEAVKSDGHDGYVRLQTSSQYGLDSSGNLKGRTMRYDM
+HGTIEEIPLHQVSLHTSRPCHIVDGHGYFLLARCPAGDSITMEFKKGSVTHSCSVPYEVKFNPVGRELYT
+HPPEHGAEQACQVYAHDAQNRGAYVEMHLPGSEVDSSLISLSGSSVTVTPPVGTSALVKCKCGGTKISET
+INKAKQFSQCTKKEQCRAYRLQNDKWVYNSDKLPKAAGATLKGKLHVPFLLADGKCTVPLAPEPMITFGF
+RSVSLKLHPKNPTYLTTRQLADEPHYTHELISEPAVRNFTVTEKGWEFVWGNHPPKRFWAQETAPGNPHG
+LPHEVITHYYHRYPMSTILGLSICAAIVTVSVAASTWLFCKSRVSCLTPYRLTPNARMPLCLAVLCCART
+ARA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Since the E2 amino-terminal sequence for all VEE subtype viruses is conserved, we tested the protective capacity in mice of passively transferred mAb 1A2B-10 and found it to protect from both epizootic and enzootic VEE virus challenge. Since horses are an important natural host for VEE virus, pep1-19 was used to immunize horses and was found to be immunogenic and to elicit virus-reactive antibody [Ref1322:Hunt and Roehrig, 1995].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1077">
+        <gene_name>PE2</gene_name>
+        <strain>Venezuelan equine encephalitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>229558446</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:190039
+CDD:109978</xrefs>
+        <taxonomy_id>11036</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>PE2</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>272</protein_length>
+        <protein_note>Alphavirus E3 glycoprotein; pfam01563</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|229558446|gb|ACQ76875.1| PE2 [Venezuelan equine encephalitis virus]
+LVTTMCLLANVTFPCAQPPICYDRKPAETLAMLSVNVDNPGYDELLEAAVKCPGRKRRSTEELFKEYKLT
+RPYMARCIRCAVGSCHSPIAIEAVKSDGHDGYVRLQTSSQYGLDSSGNLKGRTMRYDMHGTIEEIPLHQV
+SLHTSRPCHIVDGHGYFLLARCPAGDSITMEFKKDSVTHSCSVPYEVKFNPVGRELYTHPPEHGAEQACQ
+VYAHDAQNRGAYVEMHLPGSEVDSSLVSLSGSSVTVTPPAGTSALVECECGGTKISETINTA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A VEE mutant with a PE2 cleavage signal mutation and a suppressor mutation in E1 is highly attenuated in mice and provides complete protection against challenge with wild type VEE [Ref2060:Davis et al., 1995].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene151">
+        <gene_name>POLS_EEVVT Structural polyprotein (p130)</gene_name>
+        <strain>Venezuelan equine encephalitis virus (strain Trinidad donkey)</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>109940317</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>GI:109940317;Swissprot:POLS_EEVVT; Swissprot:P09592;</xrefs>
+        <taxonomy_id>11038</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Structural polyprotein (p130)</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>1254</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation>Contains: Capsid protein (EC 3.4.21.-) (Coat protein) (C); p62 (E3/E2); E3 protein  (Spike glycoprotein E3); E2 envelope glycoprotein (Spike glycoprotein E2); 6K protein; E1 envelope glycoprotein (Spike glycoprotein E1)</protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|109940317|sp|P09592|POLS_EEVVT Structural polyprotein (p130) [Contains: Capsid protein (Coat protein) (C); p62 (E3/E2); E3 protein (Spike glycoprotein E3); E2 envelope glycoprotein (Spike glycoprotein E2); 6K protein; E1 envelope glycoprotein (Spike glycoprotein E1)]
+MFPFQPMYPMQPMPYRNPFAAPRRPWFPRTDPFLAMQVQELTRSMANLTFKQRRDAPPEGPSAKKPKKEA
+SQKQKGGGQGKKKKNQGKKKAKTGPPNPKAQNGNKKKTNKKPGKRQRMVMKLESDKTFPIMLEGKINGYA
+CVVGGKLFRPMHVEGKIDNDVLAALKTKKASKYDLEYADVPQNMRADTFKYTHEKPQGYYSWHHGAVQYE
+NGRFTVPKGVGAKGDSGRPILDNQGRVVAIVLGGVNEGSRTALSVVMWNEKGVTVKYTPENCEQWSLVTT
+MCLLANVTFPCAQPPICYDRKPAETLAMLSVNVDNPGYDELLEAAVKCPGRKRRSTEELFKEYKLTRPYM
+ARCIRCAVGSCHSPIAIEAVKSDGHDGYVRLQTSSQYGLDSSGNLKGRTMRYDMHGTIKEIPLHQVSLHT
+SRPCHIVDGHGYFLLARCPAGDSITMEFKKDSVTHSCSVPYEVKFNPVGRELYTHPPEHGVEQACQVYAH
+DAQNRGAYVEMHLPGSEVDSSLVSLSGSSVTVTPPVGTSALVECECGGTKISETINKTKQFSQCTKKEQC
+RAYRLQNDKWVYNSDKLPKAAGATLKGKLHVPFLLADGKCTVPLAPEPMITFGFRSVSLKLHPKNPTYLT
+TRQLADEPHYTHELISEPAVRNFTVTEKGWEFVWGNHPPKRFWAQETAPGNPHGLPHEVITHYYHRYPMS
+TILGLSICAAIATVSVAASTWLFCRSRVACLTPYRLTPNARIPFCLAVLCCARTARAETTWESLDHLWNN
+NQQMFWIQLLIPLAALIVVTRLLRCVCCVVPFLVMAGAAAGAYEHATTMPSQAGISYNTIVNRAGYAPLP
+ISITPTKIKLIPTVNLEYVTCHYKTGMDSPAIKCCGSQECTPTYRPDEQCKVFTGVYPFMWGGAYCFCDT
+ENTQVSKAYVMKSDDCLADHAEAYKAHTASVQAFLNITVGEHSIVTTVYVNGETPVNFNGVKLTAGPLST
+AWTPFDRKIVQYAGEIYNYDFPEYGAGQPGAFGDIQSRTVSSSDLYANTNLVLQRPKAGAIHVPYTQAPS
+GFEQWKKDKAPSLKFTAPFGCEIYTNPIRAENCAVGSIPLAFDIPDALFTRVSETPTLSAAECTLNECVY
+SSDFGGIATVKYSASKSGKCAVHVPSGTATLKEAAVELTEQGSATIHFSTANIHPEFRLQICTSYVTCKG
+DCHPPKDHIVTHPQYHAQTFTAAVSKTAWTWLTSLLGGSAVIIIIGLVLATIVAMYVLTNQKHN</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1324">
+		<reference_name>Agapov et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Agapov EV, Razumov IA, Frolov IV, Kolykhalov AA, Netesov SV, Loktev VB</authors>
+		<title>Localization of four antigenic sites involved in Venezuelan equine encephalomyelitis virus protection</title>
+		<year>1994</year>
+		<volume>139</volume>
+		<issue>1-2</issue>
+		<pages>173-181</pages>
+		<journal_book_name>Archives of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2425">
+		<reference_name>Bennett et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bennett AM, Phillpotts RJ, Perkins SD, Jacobs SC, Williamson ED</authors>
+		<title>Gene gun mediated vaccination is superior to manual delivery for immunisation with DNA vaccines expressing protective antigens from Yersinia pestis or Venezuelan Equine Encephalitis virus</title>
+		<year>1999</year>
+		<volume>18</volume>
+		<issue>7-8</issue>
+		<pages>588-596</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference366">
+		<reference_name>Bennett et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bennett AM, Elvin SJ, Wright AJ, Jones SM, Phillpotts RJ</authors>
+		<title>An immunological profile of Balb/c mice protected from airborne challenge following vaccination with a live attenuated Venezuelan equine encephalitis virus vaccine</title>
+		<year>2000 Sep 15</year>
+		<volume>19</volume>
+		<issue>2-3</issue>
+		<pages>337-47</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference513">
+		<reference_name>Bett et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bett AJ, Krougliak V, Graham FL</authors>
+		<title>DNA sequence of the deletion/insertion in early region 3 of Ad5 dl309</title>
+		<year>1995 Nov</year>
+		<volume>39</volume>
+		<issue>1</issue>
+		<pages>75-82</pages>
+		<journal_book_name>Virus research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference398">
+		<reference_name>BMDP Statistics Software 1992</reference_name>
+		<reference_type>book</reference_type>
+		<authors></authors>
+		<title>BMDP Statistics Software</title>
+		<year>1992</year>
+		<volume></volume>
+		<issue></issue>
+		<pages>467</pages>
+		<journal_book_name>BMDP Statistics Software Release 7</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference376">
+		<reference_name>Bray et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bray M, Davis K, Geisbert T, Schmaljohn C, Huggins J</authors>
+		<title>A mouse model for evaluation of prophylaxis and therapy of Ebola hemorrhagic fever</title>
+		<year>1999 Feb</year>
+		<volume>179 Suppl 1</volume>
+		<issue></issue>
+		<pages>S248-58</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference382">
+		<reference_name>Bredenbeek et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bredenbeek PJ, Frolov I, Rice CM, Schlesinger S</authors>
+		<title>Sindbis virus expression vectors: packaging of RNA replicons by using defective helper RNAs</title>
+		<year>1993 Nov</year>
+		<volume>67</volume>
+		<issue>11</issue>
+		<pages>6439-46</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference375">
+		<reference_name>Connolly et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Connolly BM, Steele KE, Davis KJ, Geisbert TW, Kell WM, Jaax NK, Jahrling PB</authors>
+		<title>Pathogenesis of experimental Ebola virus infection in guinea pigs</title>
+		<year>1999 Feb</year>
+		<volume>179 Suppl 1</volume>
+		<issue></issue>
+		<pages>S203-17</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference387">
+		<reference_name>Davis et al., 1989</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Davis NL, Willis LV, Smith JF, Johnston RE</authors>
+		<title>In vitro synthesis of infectious venezuelan equine encephalitis virus RNA from a cDNA clone: analysis of a viable deletion mutant</title>
+		<year>1989 Jul</year>
+		<volume>171</volume>
+		<issue>1</issue>
+		<pages>189-204</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference388">
+		<reference_name>Davis et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Davis NL, Powell N, Greenwald GF, Willis LV, Johnson BJ, Smith JF, Johnston RE</authors>
+		<title>Attenuating mutations in the E2 glycoprotein gene of Venezuelan equine encephalitis virus: construction of single and multiple mutants in a full-length cDNA clone</title>
+		<year>1991 Jul</year>
+		<volume>183</volume>
+		<issue>1</issue>
+		<pages>20-31</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2060">
+		<reference_name>Davis et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Davis NL, Brown KW, Greenwald GF, Zajac AJ, Zacny VL, Smith JF, Johnston RE</authors>
+		<title>Attenuated mutants of Venezuelan equine encephalitis virus containing lethal mutations in the PE2 cleavage signal combined with a second-site suppressor mutation in E1</title>
+		<year>1995</year>
+		<volume>212</volume>
+		<issue>1</issue>
+		<pages>102-110</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference372">
+		<reference_name>Davis et al., 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Davis NL, Brown KW, Johnston RE</authors>
+		<title>A viral vaccine vector that expresses foreign genes in lymph nodes and protects against mucosal challenge</title>
+		<year>1996 Jun</year>
+		<volume>70</volume>
+		<issue>6</issue>
+		<pages>3781-7</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1192">
+		<reference_name>Dupuy et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dupuy LC, Locher CP, Paidhungat M, Richards MJ, Lind CM, Bakken R, Parker MD, Whalen RG, Schmaljohn CS</authors>
+		<title>Directed molecular evolution improves the immunogenicity and protective efficacy of a Venezuelan equine encephalitis virus DNA vaccine</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>31</issue>
+		<pages>4152-4160</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference361">
+		<reference_name>Eddy et al., 1972</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Eddy GA, Martin DH, Reeves WC, Johnson KM</authors>
+		<title>Field studies of an attenuated Venezuelan equine encephalomyelitis vaccine (strain TC-83)</title>
+		<year>1972 Feb</year>
+		<volume>5</volume>
+		<issue>2</issue>
+		<pages>160-3</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference362">
+		<reference_name>Fine et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fine DL, Roberts BA, Teehee ML, Terpening SJ, Kelly CL, Raetz JL, Baker DC, Powers AM, Bowen RA</authors>
+		<title>Venezuelan equine encephalitis virus vaccine candidate (V3526) safety, immunogenicity and efficacy in horses</title>
+		<year>2007 Feb 26</year>
+		<volume>25</volume>
+		<issue>10</issue>
+		<pages>1868-76</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference374">
+		<reference_name>Grieder et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Grieder FB, Davis NL, Aronson JF, Charles PC, Sellon DC, Suzuki K, Johnston RE</authors>
+		<title>Specific restrictions in the progression of Venezuelan equine encephalitis virus-induced disease resulting from single amino acid changes in the glycoproteins</title>
+		<year>1995 Feb 1</year>
+		<volume>206</volume>
+		<issue>2</issue>
+		<pages>994-1006</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference337">
+		<reference_name>Guyton, A.C., 1947</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guyton, A.C.</authors>
+		<title>Measurement of the respiratory volume of laboratory animals</title>
+		<year>1947</year>
+		<volume>150</volume>
+		<issue></issue>
+		<pages>10-11</pages>
+		<journal_book_name>Am. J. Physiol.</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference389">
+		<reference_name>Hart et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hart MK, Pratt W, Panelo F, Tammariello R, Dertzbaugh M</authors>
+		<title>Venezuelan equine encephalitis virus vaccines induce mucosal IgA responses and protection from airborne infection in BALB/c, but not C3H/HeN mice</title>
+		<year>1997 Mar</year>
+		<volume>15</volume>
+		<issue>4</issue>
+		<pages>363-9</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference377">
+		<reference_name>Hevey et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hevey M, Negley D, Geisbert J, Jahrling P, Schmaljohn A</authors>
+		<title>Antigenicity and vaccine potential of Marburg virus glycoprotein expressed by baculovirus recombinants</title>
+		<year>1997 Dec 8</year>
+		<volume>239</volume>
+		<issue>1</issue>
+		<pages>206-16</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1322">
+		<reference_name>Hunt and Roehrig, 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hunt AR, Roehrig JT</authors>
+		<title>Localization of a protective epitope on a Venezuelan equine encephalomyelitis (VEE) virus peptide that protects mice from both epizootic and enzootic VEE virus challenge and is immunogenic in horses</title>
+		<year>1995</year>
+		<volume>13</volume>
+		<issue>3</issue>
+		<pages>281-288</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference512">
+		<reference_name>Jones et al., 1979</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jones N, Shenk T</authors>
+		<title>Isolation of adenovirus type 5 host range deletion mutants defective for transformation of rat embryo cells</title>
+		<year>1979 Jul</year>
+		<volume>17</volume>
+		<issue>3</issue>
+		<pages>683-9</pages>
+		<journal_book_name>Cell</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference378">
+		<reference_name>Moe et al., 1981</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Moe JB, Lambert RD, Lupton HW</authors>
+		<title>Plaque assay for Ebola virus</title>
+		<year>1981 Apr</year>
+		<volume>13</volume>
+		<issue>4</issue>
+		<pages>791-3</pages>
+		<journal_book_name>Journal of clinical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2029">
+		<reference_name>Negrette et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Negrette B, Bonilla E, Valero N, Giraldoth D, Medina-Leendertz S, Añez F</authors>
+		<title>In mice the efficiency of immunization with Venezuelan Equine Encephalomyelitis virus TC-83 is transiently increased by dehydroepiandrosterone</title>
+		<year>2001</year>
+		<volume>42</volume>
+		<issue>4</issue>
+		<pages>235-240</pages>
+		<journal_book_name>Investigacion clinica</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference383">
+		<reference_name>Paessler et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Paessler S, Fayzulin RZ, Anishchenko M, Greene IP, Weaver SC, Frolov I</authors>
+		<title>Recombinant sindbis/Venezuelan equine encephalitis virus is highly attenuated and immunogenic</title>
+		<year>2003 Sep</year>
+		<volume>77</volume>
+		<issue>17</issue>
+		<pages>9278-86</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference363">
+		<reference_name>Paessler et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Paessler S, Ni H, Petrakova O, Fayzulin RZ, Yun N, Anishchenko M, Weaver SC, Frolov I</authors>
+		<title>Replication and clearance of Venezuelan equine encephalitis virus from the brains of animals vaccinated with chimeric SIN/VEE viruses</title>
+		<year>2006 Mar</year>
+		<volume>80</volume>
+		<issue>6</issue>
+		<pages>2784-96</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2427">
+		<reference_name>Perkins et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Perkins SD, O'Brien LM, Phillpotts RJ</authors>
+		<title>Boosting with an adenovirus-based vaccine improves protective efficacy against Venezuelan equine encephalitis virus following DNA vaccination</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>17</issue>
+		<pages>3440-3445</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference335">
+		<reference_name>Phillpotts et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Phillpotts RJ, Brooks TJ, Cox CS</authors>
+		<title>A simple device for the exposure of animals to infectious microorganisms by the airborne route</title>
+		<year>1997 Feb</year>
+		<volume>118</volume>
+		<issue>1</issue>
+		<pages>71-5</pages>
+		<journal_book_name>Epidemiology and infection</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference360">
+		<reference_name>Phillpotts et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Phillpotts RJ, Wright AJ</authors>
+		<title>TC-83 vaccine protects against airborne or subcutaneous challenge with heterologous mouse-virulent strains of Venezuelan equine encephalitis virus</title>
+		<year>1999 Feb 26</year>
+		<volume>17</volume>
+		<issue>7-8</issue>
+		<pages>982-8</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference334">
+		<reference_name>Phillpotts et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Phillpotts RJ, Jones LD, Howard SC</authors>
+		<title>Monoclonal antibody protects mice against infection and disease when given either before or up to 24 h after airborne challenge with virulent Venezuelan equine encephalitis virus</title>
+		<year>2002 Feb 22</year>
+		<volume>20</volume>
+		<issue>11-12</issue>
+		<pages>1497-504</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference364">
+		<reference_name>Phillpotts et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Phillpotts RJ, O'brien L, Appleton RE, Carr S, Bennett A</authors>
+		<title>Intranasal immunisation with defective adenovirus serotype 5 expressing the Venezuelan equine encephalitis virus E2 glycoprotein protects against airborne challenge with virulent virus</title>
+		<year>2005 Feb 18</year>
+		<volume>23</volume>
+		<issue>13</issue>
+		<pages>1615-23</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference333">
+		<reference_name>Phillpotts, 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Phillpotts RJ</authors>
+		<title>Venezuelan equine encephalitis virus complex-specific monoclonal antibody provides broad protection, in murine models, against airborne challenge with viruses from serogroups I, II and III</title>
+		<year>2006 Sep</year>
+		<volume>120</volume>
+		<issue>1-2</issue>
+		<pages>107-12</pages>
+		<journal_book_name>Virus research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference381">
+		<reference_name>Pifat et al., 1988</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pifat DY, Osterling MC, Smith JF</authors>
+		<title>Antigenic analysis of Punta Toro virus and identification of protective determinants with monoclonal antibodies</title>
+		<year>1988 Dec</year>
+		<volume>167</volume>
+		<issue>2</issue>
+		<pages>442-50</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference368">
+		<reference_name>Pratt et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pratt WD, Gibbs P, Pitt ML, Schmaljohn AL</authors>
+		<title>Use of telemetry to assess vaccine-induced protection against parenteral and aerosol infections of Venezuelan equine encephalitis virus in non-human primates</title>
+		<year>1998 May-Jun</year>
+		<volume>16</volume>
+		<issue>9-10</issue>
+		<pages>1056-64</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference365">
+		<reference_name>Pratt et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pratt WD, Davis NL, Johnston RE, Smith JF</authors>
+		<title>Genetically engineered, live attenuated vaccines for Venezuelan equine encephalitis: testing in animal models</title>
+		<year>2003 Sep 8</year>
+		<volume>21</volume>
+		<issue>25-26</issue>
+		<pages>3854-62</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference373">
+		<reference_name>Pushko et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pushko P, Parker M, Ludwig GV, Davis NL, Johnston RE, Smith JF</authors>
+		<title>Replicon-helper systems from attenuated Venezuelan equine encephalitis virus: expression of heterologous genes in vitro and immunization against heterologous pathogens in vivo</title>
+		<year>1997 Dec 22</year>
+		<volume>239</volume>
+		<issue>2</issue>
+		<pages>389-401</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference367">
+		<reference_name>Pushko et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pushko P, Bray M, Ludwig GV, Parker M, Schmaljohn A, Sanchez A, Jahrling PB, Smith JF</authors>
+		<title>Recombinant RNA replicons derived from attenuated Venezuelan equine encephalitis virus protect guinea pigs and mice from Ebola hemorrhagic fever virus</title>
+		<year>2000 Aug 15</year>
+		<volume>19</volume>
+		<issue>1</issue>
+		<pages>142-53</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2426">
+		<reference_name>Riemenschneider et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Riemenschneider J, Garrison A, Geisbert J, Jahrling P, Hevey M, Negley D, Schmaljohn A, Lee J, Hart MK, Vanderzanden L, Custer D, Bray M, Ruff A, Ivins B, Bassett A, Rossi C, Schmaljohn C</authors>
+		<title>Comparison of individual and combination DNA vaccines for B. anthracis, Ebola virus, Marburg virus and Venezuelan equine encephalitis virus</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>25-26</issue>
+		<pages>4071-4080</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference379">
+		<reference_name>Sanchez et al., 1989</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sanchez A, Kiley MP, Holloway BP, McCormick JB, Auperin DD</authors>
+		<title>The nucleoprotein gene of Ebola virus: cloning, sequencing, and in vitro expression</title>
+		<year>1989 May</year>
+		<volume>170</volume>
+		<issue>1</issue>
+		<pages>81-91</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference380">
+		<reference_name>Sanchez et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sanchez A, Kiley MP, Holloway BP, Auperin DD</authors>
+		<title>Sequence analysis of the Ebola virus genome: organization, genetic elements, and comparison with the genome of Marburg virus</title>
+		<year>1993 Sep</year>
+		<volume>29</volume>
+		<issue>3</issue>
+		<pages>215-40</pages>
+		<journal_book_name>Virus research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference514">
+		<reference_name>Tollefson et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tollefson AE, Kuppuswamy M, Shashkova EV, Doronin K, Wold WS</authors>
+		<title>Preparation and titration of CsCl-banded adenovirus stocks</title>
+		<year>2007</year>
+		<volume>130</volume>
+		<issue></issue>
+		<pages>223-35</pages>
+		<journal_book_name>Methods in molecular medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference359">
+		<reference_name>Walton et al., 1972</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Walton TE, Alvarez O Jr, Buckwalter RM, Johnson KM</authors>
+		<title>Experimental infection of horses with an attenuated Venezuelan equine encephalomyelitis vaccine (strain TC-83)</title>
+		<year>1972 May</year>
+		<volume>5</volume>
+		<issue>5</issue>
+		<pages>750-6</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference338">
+		<reference_name>Walton et al., 1973</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Walton TE, Alvarez O Jr, Buckwalter RM, Johnson KM</authors>
+		<title>Experimental infection of horses with enzootic and epizootic strains of Venezuelan equine encephalomyelitis virus</title>
+		<year>1973 Sep</year>
+		<volume>128</volume>
+		<issue>3</issue>
+		<pages>271-82</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference331">
+		<reference_name>Weaver et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Weaver SC, Ferro C, Barrera R, Boshell J, Navarro JC</authors>
+		<title>Venezuelan equine encephalitis</title>
+		<year>2004</year>
+		<volume>49</volume>
+		<issue></issue>
+		<pages>141-74</pages>
+		<journal_book_name>Annual review of entomology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference336">
+		<reference_name>Wright et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wright AJ, Phillpotts RJ</authors>
+		<title>Humane endpoints are an objective measure of morbidity in Venezuelan encephalomyelitis virus infection of mice</title>
+		<year>1998</year>
+		<volume>143</volume>
+		<issue>6</issue>
+		<pages>1155-62</pages>
+		<journal_book_name>Archives of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

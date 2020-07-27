@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen154">
+		<pathogen_name>Feline immunodeficiency virus</pathogen_name>
+		<taxon_id>11673</taxon_id>
+		<pathogenesis refs="reference1580">FIV can attack the immune system of cats, much like the human immunodeficiency virus (HIV) can attack the immune system of human beings. FIV infects many cell types in its host, including CD4+ and CD8+ T lymphocytes, B lymphocytes, and macrophages. FIV can be tolerated well by cats, but can eventually lead to debilitation of the immune system in its feline hosts by the infection and exhaustion of T-helper (CD4+) cells (Wiki: Feline Immunodeficincy Virus).</pathogenesis>
+		<disease_name>Feline AIDS</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="">Felines</host_range>
+		<introduction refs="reference1580">Feline immunodeficiency virus (FIV) is a lentivirus that affects domesticated housecats worldwide and is the causative agent of feline AIDS. From 2.5% up to 4.4% of cats worldwide, and about 2.5% of cats in the USA, are infected with FIV. FIV differs taxonomically from two other feline retroviruses, feline leukemia virus (FeLV) and feline foamy virus (FFV), and is more closely related to human immunodeficiency virus HIV. Within FIV, five subtypes have been identified based on nucleotide sequence differences coding for the viral envelope (env) or polymerase (pol). FIV is the only non-primate lentivirus to cause an AIDS-like syndrome, but FIV is not typically fatal for cats, as they can live relatively healthily as carriers and transmitters of the disease for many years. A vaccine is available although its efficacy remains uncertain, and cats will test positive for FIV antibodies after vaccination. FIV was first discovered in 1986 in a colony of cats that had a high prevalence of opportunistic infections and degenerative conditions, and has since been identified as an endemic disease in domestic cat populations worldwide (Wiki: Feline Immunodeficincy Virus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1767">
+		<vaccine_name>Feline Immunodeficiency Virus Killed Virus Vaccine (USDA: 15A5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001542</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1768">
+		<vaccine_name>Feline Immunodeficiency Virus Killed Virus Vaccine (USDA: 15A5.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001543</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3245">
+		<vaccine_name>Feline immunodeficiency virus ORF-A mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002959</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering787" gene_id="gene932">
+			<type>Gene mutation</type>
+			<description refs="reference1790">This ORF-A mutant is from Feline immunodeficiency virus (Pistello et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1073" host_id="host37">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1790">An ORF-A is attenuated in cats (Pistello et al., 2005).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1790">An ORF-A mutant induces protection from challenge with wild type FIV (Pistello et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3906">
+		<vaccine_name>Feline immunodeficiency virus recombinant vector vaccine FIVΔRT</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004550</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>replication-defective FIV [Ref2671:Hosie et al., 1998]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2671">IFN-gamma (Hosie et al., 1998)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1547" host_id="host37">
+			<immune_response refs="reference2671">The bias toward CTL induction rather than antibody production in response to inoculation with FIVΔRT suggested that intramuscular administration of the FIVΔRT DNA generated primarily a Th1-type immune response (Hosie et al., 1998).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2671">Kittens, which were 12 weeks old, were randomized into groups of five for immunization. DNA was administered at four sites in the gastrocnemius and quadriceps muscles (100 μg of each DNA in a total of 200 μl of PBS at each site) (Hosie et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2671">At 6, 9, and 12 weeks postchallenge, one of five FIVΔRT vaccinates and three of five FIVΔRT-plus-IFN-γ vaccinates remained virus free. In contrast, virus was isolated consistently from all of the control cats (IFN-γ alone and no-DNA control groups) at 6, 9, and 12 weeks postchallenge (Hosie et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2671">The cats were challenged with the homologous F-14 molecular clone of the FIV-PET isolate that had been subjected to titer determination by intraperitoneal inoculation of age-matched cats to calculate the 50% infectious dose (Hosie et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3246">
+		<vaccine_name>Feline immunodeficiency virus vif mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002960</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering788" gene_id="gene1051">
+			<type>Gene mutation</type>
+			<description refs="reference1987">This vif mutant is from feline immunodeficiency virus (Lockridge et al., 2000).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1074" host_id="host37">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1987">A vif mutant is attenuated in cats (Lockridge et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1987">A vif mutant induces significant protection in cats from challenge with wild type FIV (Lockridge et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1769">
+		<vaccine_name>Feline Immunodeficiency-Leukemia Virus Killed Virus Vaccine (USDA: 15D5.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001841</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene932">
+        <gene_name>ORF-A</gene_name>
+        <strain>Feline immunodeficiency virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1724707</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9626705</ncbi_protein_id>
+        <gene_locus_tag>FIVgp4</gene_locus_tag>
+        <gene_refseq>M25381</gene_refseq>
+        <protein_refseq>NP_040975</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11673</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>5991</gene_start>
+        <gene_end>6227</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>hypothetical protein</protein_name>
+        <protein_pi>9.29</protein_pi>
+        <protein_weight>9252.28</protein_weight>
+        <protein_length>78</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|9626701:5991-6227 Feline immunodeficiency virus, complete genome
+AATGGAAGACATAATAGTATTATTCAATAGGGTCACTGAGAAACTAGAAAAAGAATTAGCTATCAGAATA
+TTTGTATTAGCACATCAATTAGAAAGGGACAAAGCTATTAGATTACTACAAGGATTATTTTGGAGATATA
+GATTTAAGAAACCCCGAGTAGATTATTGTTTATGTTGGTGGTGTTGCAAATTCTATTATTGGCAGTTGCA
+ATCTACATTATCAATAACTACTGCTTA</dna_sequence>
+        <protein_sequence>>gi|9626705|ref|NP_040975.1| hypothetical protein FIVgp4 [Feline immunodeficiency virus]
+MEDIIVLFNRVTEKLEKELAIRIFVLAHQLERDKAIRLLQGLFWRYRFKKPRVDYCLCWWCCKFYYWQLQ
+STLSITTA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>Feline immunodeficiency virus (FIV) made defective in the accessory gene ORF-A were previously shown to be greatly attenuated in its ability to replicate in lymphocytes but to grow normally or near normally in other cell types. 3/9 vaccinees (cats) showed no evidence of the challenge virus over a 15-month observation period. In the other vaccinees, the challenge virus was predominant for various periods of time, but pre-existing viral loads and CD4 lymphocyte counts were either unaffected or altered only marginally and transiently [Ref1790:Pistello et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1051">
+        <gene_name>vif</gene_name>
+        <strain>Feline immunodeficiency virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1724709</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9626704</ncbi_protein_id>
+        <gene_locus_tag>FIVgp3</gene_locus_tag>
+        <gene_refseq>M25381</gene_refseq>
+        <protein_refseq>NP_040974</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11673</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>5235</gene_start>
+        <gene_end>5990</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>hypothetical protein</protein_name>
+        <protein_pi>9.76</protein_pi>
+        <protein_weight>27946.34</protein_weight>
+        <protein_length>251</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|9626701:5235-5990 Feline immunodeficiency virus, complete genome
+GATGAGTGAAGAAGATTGGCAGGTAAGTAGAAGACTCTTTGCAGTGCTCCAAGGAGGAGTAAATAGCGCT
+ATGCTATACATATCTAGGCTACCTCCGGATGAAAGAGAAAAGTATAAAAAAGACTTCAAGAAAAGACTTT
+TTGACACAGAAACAGGATTTATAAAGAGACTACGGAAAGCTGAAGGAATAAAATGGAGCTTTCATACTAG
+AGATTATTACATAGGATATGTCAGAGAAATGGTGGCAGGATCCACTACATCATTAAGTCTAAGGATGTAT
+ATATATATAAGTAACCCACTATGGCATTCTCAGTATCGTCCAGGTTTGAAAAATTTCAATAAGGAATGGC
+CTTTTGTAAATATGTGGATAAAAACAGGATTTATGTGGGATGATATTGAAAAACAAAATATTTGTATAGG
+AGGAGAAGTTTCACCAGGATGGGGACCAGGGATGGTAGGTATAGCAATAAAAGCTTTTAGTTGTGGCGAA
+AGAAAGATTGAGGCTACTCCTGTAATGATTATAAGAGGAGAAATAGATCCAAAAAAATGGTGCGGAGATT
+GTTGGAATTTAATGTGTCTTAGAAACTCACCTCCAAAGACTTTACAAAGACTCGCTATGTTGGCGTGTGG
+CGTGCCGGCTAAGAAGTGGCGAGGATGCTGTAATCAACGCTTTGTTTCTCCTTACAGAACGCCTGCTGAT
+TTAGAGGTCATTCAATCCAAGCCCAGCTGGAACCTGTTATGGTCGGGAGAATTATG</dna_sequence>
+        <protein_sequence>>gi|9626704|ref|NP_040974.1| hypothetical protein FIVgp3 [Feline immunodeficiency virus]
+MSEEDWQVSRRLFAVLQGGVNSAMLYISRLPPDEREKYKKDFKKRLFDTETGFIKRLRKAEGIKWSFHTR
+DYYIGYVREMVAGSTTSLSLRMYIYISNPLWHSQYRPGLKNFNKEWPFVNMWIKTGFMWDDIEKQNICIG
+GEVSPGWGPGMVGIAIKAFSCGERKIEATPVMIIRGEIDPKKWCGDCWNLMCLRNSPPKTLQRLAMLACG
+VPAKKWRGCCNQRFVSPYRTPADLEVIQSKPSWNLLWSGEL</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A vif mutant in feline immunodeficiency virus  was attenuated and FIV-pPPRΔvif proviral DNA protected cats against challenge with the homologous FIV-PPR biological isolate. [Ref1987:Lockridge et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1987">
+		<reference_name>Lockridge et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lockridge KM, Chien M, Dean GA, Stefano Cole K, Montelaro RC, Luciw PA, Sparger EE</authors>
+		<title>Protective immunity against feline immunodeficiency virus induced by inoculation with vif-deleted proviral DNA</title>
+		<year>2000</year>
+		<volume>273</volume>
+		<issue>1</issue>
+		<pages>67-79</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1790">
+		<reference_name>Pistello et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pistello M, Bonci F, Isola P, Mazzetti P, Merico A, Zaccaro L, Matteucci D, Bendinelli M</authors>
+		<title>Evaluation of feline immunodeficiency virus ORF-A mutants as candidate attenuated vaccine</title>
+		<year>2005</year>
+		<volume>332</volume>
+		<issue>2</issue>
+		<pages>676-690</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1580">
+		<reference_name>Wiki: Feline Immunodeficincy Virus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Feline Immunodeficincy Virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Feline_immunodeficiency_virus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,2029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen97">
+		<pathogen_name>Leishmania donovani</pathogen_name>
+		<taxon_id>5661</taxon_id>
+		<pathogenesis refs="reference1438">The intracellular amastigote form multiplies in macrophages and produces a reticuloendothelial hyperplasia grossly affecting the spleen and liver, with other lymphoid tissues being involved as well, resulting in severe hepatosplenomegaly, which usually is fatal if untreated (WD: Leishmania donovani).</pathogenesis>
+		<disease_name>Visceral leishmaniasis</disease_name>
+		<protective_immunity refs="reference1165">A Strong Th1 response of cell mediated immunity is necessary for protection against L. donovani (Mizbani et al., 2009).</protective_immunity>
+		<host_range refs="reference1548">Vector sand flies are infected by biting infected humans or animals. Animal reservoirs vary with the Leishmania sp and location and include canines, rodents, and other animals. In the Indian subcontinent, humans are the reservoir for L. donovani (Merck Manual: Leishmaniasis).</host_range>
+		<introduction refs="reference1438">Leishmania donovani is a species that is the causal agent of visceral leishmaniasis in Mediterranean and adjacent countries, the south central section of western Asia, eastern India, northern China, Kenya, Ethiopia, and the Sudan; also found in Brazil, Argentina, Colombia, and Venezuela; in the Old World, it is transmitted by various species of Phlebotomus; New World vectors are species of Lutzomyia; dogs and other carnivores are known as reservoir hosts in some areas (WD: Leishmania donovani).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine5712">
+		<vaccine_name>ChAd63-KH</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0003961</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5095">KH, a self-cleaving polyprotein comprising L. donovani HASPB and KMP-11 Proteins (Osman et al., 2017)</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1031">
+		<vaccine_name>L. donovani Beta-tubulin Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004023</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1166">Cationic liposomes (Bhowmick and Ali, 2009).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering518" gene_id="gene565">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response785" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1166">Mice were immunized by intraperitoneal injections of 2.5 µg purified proteins in PBS or incorporated in liposome in a total volume of 200 µl. Animals receiving PBS or empty liposomes served as controls. Mice were boosted two times at 2-week intervals (Bhowmick and Ali, 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1166">Results demonstrated that liposomal LD51 (beta-tubulin) reduced parasite burden by 72%-75%  (Bhowmick and Ali, 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1166">Ten days after the final immunization the mice were challenged with 2.5×10^7 freshly transformed stationary-phase promastigotes in 200 µl PBS injected intravenously via the tail vein (Bhowmick and Ali, 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1025">
+		<vaccine_name>L. donovani DNA Vaccine encoding KMP-11</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011530</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMV-LIC [Ref1167:Bhaumik et al., 2009].</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering512" gene_id="gene567">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1167">KMP-11was cloned into a pCMV-LIC vector for DNA vaccine candidate in mice (Bhaumik et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response780" host_id="host3">
+			<immune_response refs="reference1167">KMP-11 DNA immunization alone effectively caused a significant increase in frequency of both IFN-γ producing CD4+ T and CD8+ T cells in mice challenged with either LM or LD (Bhaumik et al., 2009).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1167">BALB/c mice were either immunized with KMP-11 containing pCMV-LIC mammalian expression vector (pCMV-LIC KMP-11) or with blank-vector construct not harboring KMP-11 gene (pCMV-LIC). rmIL-12 (1 μg/injection) was used as an adjuvant and injected through s.c. route. 7 and 15 days before parasite challenge with LD or LM, 100 μg of endotoxin-free plasmid DNA construct (pCMV-LIC, and pCMV-LIC KMP-11) dissolved in saline and injected i.m. in the hind leg thigh muscle was used for immunization of BALB/c mice using 28-gauge needle (Bhaumik et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1167">KMP-11 DNA vaccination alone in an experimental BALB/c mice model showed significant potential in terms of resolution of splenic and hepatic parasite burden against virulent LD challenge. KMP-11 DNA immunization significantly protects against L. donovani infection (Bhaumik et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1167">6-weeks-old BALB/c mice were injected with 2 × 10^6 LD second-passage promastigotes suspended in saline through intracardiac route and 2 × 10^6 LM second-passage promastigotes through subcutaneous route in the hind footpad using a 28-gauge needle (Bhaumik et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1020">
+		<vaccine_name>L. donovani DNA Vaccine encoding NH36 Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011542</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VR1012 [Ref1171:Aguilar-Be et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering507" gene_id="gene571">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response774" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1171">Mice were immunized via intramuscular with 100 μg of VR1012-NH36 plasmid DNA in 100 μl of saline solution and boosted 2 weeks later by a second injection. Control groups included the empty VR1012 vector and saline solution (Aguilar-Be et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1171">Experimental infection of immunized BALB/c mice demonstrated that the VR1012-NH36 DNA vaccine derived from the nucleoside hydrolase gene (NH) of L. donovani induced an 88% reduction in L. chagasi parasite load and a 65% reduction in L. mexicana lesion size (Aguilar-Be et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1171">At 2 weeks after immunization, animals were challenged by intravenous injection of 2 × 10^8 amastigotes of L. chagasi (MHOM/BR/72/BH46), another group of mice were challenged 2 weeks after the last immunization with 106 stationary-phase promastigotes of L. mexicana (MNYC/BZ/62/379) by s.c. injection in the hind footpad (Aguilar-Be et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1022">
+		<vaccine_name>L. donovani gp63 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011532</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1168">Cationic distearoyl phosphatidylcholine (DSPC) liposomes (Bhowmick et al., 2008).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering509" gene_id="gene568">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response776" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1168">BALB/c mice were immunized by three intraperitoneal (i.p.) injections at 2-week intervals with graded doses (0.6 to 10 μg) or 2.5 μg of gp63 free in phosphate-buffered saline (PBS) or entrapped in liposomes (200 μl). Animals receiving only PBS or empty liposomes served as controls (Bhowmick et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1168">gp63 used without adjuvant elicited partial protection but in association with liposomes exhibited marked resistance in both the livers and spleens of the mice challenged 10 days after the last vaccination (Bhowmick et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1168">At 10 days or 12 weeks postimmunization, groups of mice were either sacrificed for immunological assays or challenged intravenously with 2.5 × 10^7 freshly transformed L. donovani promastigotes (Bhowmick et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1029">
+		<vaccine_name>L. donovani GRP-78 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004022</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1164">recombinant IL-12 (Nagill and Kaur, 2010).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering516" gene_id="gene561">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response783" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1164">Ten microgram of 78 kDa antigen along with different concentrations of adjuvants was used to immunize animals. Subcutaneous route was used for immunization of mice in all the groups. Twenty-five BALB/c mice were used for each immunization group and the control group (immunized with PBS only).The animals who received only PBS as vaccine candidate served as controls. Two booster doses with the same respective vaccine combination were given to all immunized groups at an interval of 2 weeks each (Nagill and Kaur, 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1164">Maximum protection was conferred by 78 kDa antigen + rIL-12 vaccine (with parasite load reduction of 71–94.8% on 30–90 p.c.d.) (Nagill and Kaur, 2010)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1164">Two weeks after last booster dose, mice of control and immunized groups were challenged with 1 × 10^7 promastigotes (Nagill and Kaur, 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1028">
+		<vaccine_name>L. donovani HASPB1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004067</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="reference1172">Recombinant hydrophilic acylated surface protein B1 (HASPB1) (Stäger et al., 2000).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering515" gene_id="gene572">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response782" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1172">In the first two vaccination experiments, BALB/c mice received s.c. immunization with either 1) 10 µg rHASPB1 with 1 µg murine rIL-12; 2) 10 µg rHASPB1 in saline; 3) 10 µg SLA plus 1 µg rmIL-12; 4) 1 µg rmIL-12; and 5) saline. Three weeks later, mice were boosted with the same schedule, but the IL-12 dose was reduced to 0.5 µg. After an additional 3 wk, a final boost was given omitting IL-12. In the third vaccination experiment, mice  were immunized three times at 3-wk intervals with 10 µg rHASPB1 or OVA (Sigma) (Stäger et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1172">rHASPB1 provided significant protection against challenge with L. donovani (Stäger et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1172">All mice were challenged 3 wk after the last boost with 2 x 10^7 amastigotes, given i.v. in the lateral tail vein (Stäger et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1109">
+		<vaccine_name>L. donovani Hsp70 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004033</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector>Liposomes</vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">LD72 (Hsp70) protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering599" gene_id="gene566">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response866" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1166">Mice were immunized by intraperitoneal injections of 2.5 µg purified proteins in PBS or incorporated in liposome in a total volume of 200 µl. Animals receiving PBS or empty liposomes served as controls. Mice were boosted two times at 2-week intervals (Bhowmick and Ali, 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1166">Mice immunized with liposomal LD72 (Hsp70) had a reduced parasite burden of  65%-67% (Bhowmick and Ali, 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1166">Ten days after the final immunization rest of the mice were challenged with 2.5×10^7 freshly transformed stationary-phase promastigotes in 200 µl PBS injected intravenously via the tail vein (Bhowmick and Ali, 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1030">
+		<vaccine_name>L. donovani LD31 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004179</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1166">Cationic liposomes (Bhowmick and Ali, 2009).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering517" gene_id="gene564">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response784" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1166">Mice were immunized by intraperitoneal injections of 2.5 µg purified proteins in PBS or incorporated in liposome in a total volume of 200 µl. Animals receiving PBS or empty liposomes served as controls. Mice were boosted two times at 2-week intervals (Bhowmick and Ali, 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1166">Liposomal LD31 (ATP synthase alpha chain) reduced parasite burden by 74%-77% (Bhowmick and Ali, 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1166">Ten days after the final immunization the mice were challenged with 2.5×10^7 freshly transformed stationary-phase promastigotes in 200 µl PBS injected intravenously via the tail vein (Bhowmick and Ali, 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1017">
+		<vaccine_name>L. donovani ORFF Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011539</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1169">An expression plasmid encoding both p35 and p40 subunits of IL-12 was used as an adjuvant (Tewary et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering504" gene_id="gene569">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response771" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1169">Injections were given at midpoint of left thigh muscle. For the vaccination studies, cell proliferation, cytokine production and antibody response BALB/c mice were immunized intramuscularly with either alum alone diluted in phosphate buffered saline (PBS) final volume 100 or 50 μg of rORFF adsorbed on alum or 100 μg of IL-12 plasmid DNA diluted in PBS or 50 μg of rORFF adsorbed on alum in combination with IL-12 DNA. Three weeks later mice were immunized with the same schedule (Tewary et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1169">An expression plasmid encoding both p35 and p40 subunits of IL-12 when co-administered with a recombinant open-reading frame (rORFF) gene from the LD1 locus of Leishmania donovani induces significant protection with around 82% protection in both liver and spleen of BALB/c mice when challenged with L. donovani (Tewary et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1169">1 × 10^8 stationary phase promastigotes of L. donovani were injected intravenously via the tail vein in 100 μl of PBS per mouse (Tewary et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3070">
+		<vaccine_name>L. donovani Recombinant LdγGCS in NIV system Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004241</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs="reference1896">Recombinant Leishmania donovani gamma-glutamyl cysteine synthetase protein (LdγGCS)  (Henriquez et al., 2010).</antigen>
+		<host_response host_response_id="host_response900" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1896">The day of infection was day 0 so that vaccination occurred pre-infection on day −28 and day −14. Animals (n  =  5/treatment) were immunized with either LPS (10 ng/ml equivalent to 5 EU/ml, 1 ng/dose), LdγGCS (2 or 50 µg, used as prepared or processed to remove endotoxin), or LdγGCS incorporated into NIV (50 µg) on days −28 and −14 (Henriquez et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1896">Incorporating LdγGCS into a NIV formulation was more effective than immunization with LdγGCS alone based on its ability to induce specific antibody pre- and post-infection. However, the vesicular formulation gave a similar level of protection as immunization with LdγGCS alone (Henriquez et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1896">On day 0 immunized mice and a control group (n  =  4–10/treatment) were infected by intravenous injection (tail vein, no anaesthetic) with 1–2 × 10^7 L. donovani strain 200016 amastigotes harvested from the spleen of an infected hamster (Henriquez et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3099">
+		<vaccine_name>LEISH-F1+MPL-SE vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004266</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference2038">Recombinant Leishmania polyprotein LEISH-F1 (formerly known as Leish-111f) antigen. The antigen component of the vaccine includes three proteins derived from L. major and conserved across various Leishmania species, including L. donovani; L. chagasi, which causes New World VL; and L. braziliensis, which causes both CL and mucosal leishmaniasis (ML) in the New World. The three proteins are: Leishmania elongation initiation factor (LeIF), thiol-specific antioxidant (TSA), and Leishmania major stress-inducible protein 1 (LmSTI1) (Chakravarty et al., 2011).</antigen>
+		<host_response host_response_id="host_response928" host_id="host2">
+			<immune_response refs="reference2038">There were statistically significant increases in median cytokine concentrations at day 84 compared to day 0 for all measured cytokines except IL-4 in the DAT-positives and IL-10 in both DAT-negatives and DAT-positives, although in some cases the differences were quite small (Chakravarty et al., 2011).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2038">The subjects in this trial were healthy male and female adults ≥18 years and &lt;55 years of age from the village near Varanasi that had experienced an outbreak of VL approximately 15 years prior to the start of the trial. Eligible subjects were enrolled into the trial in three sequential cohorts (Fig. 1a). The vaccine consisted of LEISH-F1 antigen (5 μg in Cohort 1, 10 μg in Cohort 2, and 20 μg in Cohort 3) + MPL-SE adjuvant (25 μg), and was administered subcutaneously in the upper arm in a volume of 0.5 mL on days 0, 28, and 56. Subjects were followed through day 168 (Chakravarty et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference2038">Malaise was the predominant solicited systemic reaction, followed by myalgia, pyrexia, and headache. All local injection-site and systemic reactions were of mild or moderate severity (Chakravarty et al., 2011).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference2038">The LEISH-F1 + MPL-SE vaccine was safe and well-tolerated in this population of DAT-negative and DAT-positive subjects (Chakravarty et al., 2011).</description>
+		</host_response>
+		<host_response host_response_id="host_response929" host_id="host2">
+			<immune_response refs="reference2038">There were statistically significant increases in median cytokine concentrations at day 84 compared to day 0 for all measured cytokines except IL-4 in the DAT-positives and IL-10 in both DAT-negatives and DAT-positives, although in some cases the differences were quite small (Chakravarty et al., 2011).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2038">The subjects in this trial were healthy male and female adults ≥18 years and &lt;55 years of age from the village near Varanasi that had experienced an outbreak of VL approximately 15 years prior to the start of the trial. Eligible subjects were enrolled into the trial in three sequential cohorts (Fig. 1a). The vaccine consisted of LEISH-F1 antigen (5 μg in Cohort 1, 10 μg in Cohort 2, and 20 μg in Cohort 3) + MPL-SE adjuvant (25 μg), and was administered subcutaneously in the upper arm in a volume of 0.5 mL on days 0, 28, and 56. Subjects were followed through day 168 (Chakravarty et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference2038">Malaise was the predominant solicited systemic reaction, followed by myalgia, pyrexia, and headache. All local injection-site and systemic reactions were of mild or moderate severity (Chakravarty et al., 2011).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference2038">The LEISH-F1 + MPL-SE vaccine was safe and well-tolerated in this population of DAT-negative and DAT-positive subjects (Chakravarty et al., 2011).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3216">
+		<vaccine_name>Leishmania donovani cen1 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0003005</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering755" gene_id="gene923">
+			<type>Gene mutation</type>
+			<description refs="reference1775">This cen1 mutant is from Leishmania donovani (Selvapandiyan et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1041" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1775">A cen1 mutant is attenuated in hamsters (Selvapandiyan et al., 2009).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1775">A cen1 mutant induces significant protection in hamsters from challenge with wild type L. donovani (Selvapandiyan et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response1042" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1775">A cen1 mutant is attenuated in mice (Selvapandiyan et al., 2009).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1775">A cen1 mutant induces significant protection in mice from challenge with wild type L. donovani (Selvapandiyan et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response196" gene_id="gene1">
+			    <description refs="reference1775">The results thus indicate an increased IFN-γ secretion coinciding with reduced IL-10 production among the immunized mice.  In the restimulated CD4+ T cells from the spleen, the IFN-γ/IL-10 ratio was significantly higher in the immunized mice both at the time of challenge (5 weeks after immunization) and after challenge (5 weeks after immunization plus 10 weeks after challenge) compared with either naive or naive-challenged controls.  We also observed an absolute requirement for IFN-γ in LdCen1−/−-induced immunity. IFN-γ knockout mice immunized with LdCen1−/− for 5 wk followed by challenge were not protected (Selvapandiyan et al., 2009).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response198" gene_id="gene1137">
+			    <description refs="reference1775">The number of T cells producing TNF-alpha increased significantly as compared to naive mice 5 weeks after immunization in CD8+ cells as well as 5 weeks after immunization plus 10 weeks after challenge in both CD4+ and CD8+ cells (Selvapandiyan et al., 2009).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response199" gene_id="gene1121">
+			    <description refs="reference1775">The number of T cells producing IL-2 increased significantly as compared to naive mice 5 weeks after immunization in CD4+ and CD8+ cells as well as 5 weeks after immunization plus 10 weeks after challenge in both CD4+ and CD8+ cells (Selvapandiyan et al., 2009).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response202" gene_id="gene1106">
+			    <description refs="reference1775">Sera from BALB/c mice taken 10 wk post challenge after 5, 12, or 16 immunization weeks were measured for Leishmania-specific IgG2a responses. Results indicated a significantly higher level of IgG2a populations in the immune-challenged groups compared with the naive challenged groups (Selvapandiyan et al., 2009).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1032">
+		<vaccine_name>Leishmania vaccine using recombinant L. tarentolae strain expressing A2 antigen</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004180</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector>Leishmania tarentolae, a non-pathogenic member of the genus Leishmania [Ref1165:Mizbani et al., 2009].</vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering519" gene_id="gene563">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response786" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1165">In the case of i.p. immunization, total number of 5 × 10^6 stationary-phase promastigotes were used. Mice were immunized with L. tarentolae expressing the GFP only as a control and another group were immunized with recombinant L. tarentolae-A2 (Mizbani et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1165">Study results show that a single intraperitoneal administration of the A2-recombinant L. tarentolae strain expressing the Leishmania donovani A2 antigen protects BALB/c mice against L. infantum challenge and that protective immunity is associated with high levels of IFN-gamma production prior and after challenge (Mizbani et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1165">Six weeks after immunization, animals were challenged with 10^7 virulent stationary-phase L. infantum promastigotes through the lateral tail vein (Mizbani et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine435">
+		<vaccine_name>Leishmune</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Leishmune</brand_name>
+		<manufacturer>Fort Dodge</manufacturer>
+		<vo_id>VO_0001200</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference853">Native fucose-mannose-ligand antigen complex(Borja-Cabrera et al., 2002)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3106">
+		<vaccine_name>pVAX-P1 DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004272</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 [Ref2053:Arora et al., 2011]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference2053">pVAX-P1 DNA vaccine, given in prime-boost mode is protective against L. donovani (Arora et al., 2011).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2053">P1 gene of Leishmania donovani (Arora et al., 2011).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering615" gene_id="gene1073">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2053">The purified full-length ORF cloned non-directionally in pGEMT-Easy vector was digested out and then directionally sub-cloned in pVAX1 vector (Invitrogen, USA). The purified plasmid DNA containing full-length ORF was confirmed by DNA sequencing also. The plasmid DNA was made endotoxin-free by using Endofree Plasmid DNA Mega Purification Kit (Qiagen, Hilden, Germany) according to the manufacturer’s instructions. The endotoxin free plasmid DNA (termed pVAX-P1) was used for the immunization of animals as DNA vaccine (Arora et al., 2011).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response935" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Syrian golden</host_strain>
+			<vaccination_protocol refs="reference2053">Six weeks old Syrian golden hamsters (Mesocricetus auratus) were immunized in the following groups, with 6 hamsters per group. Group I: Naïve animals (Unimmunized – uninfected) were given PBS only and not challenged, group II: Animals were immunized with recombinant protein vaccine, rLdP1 (50 μg) along with Complete Freund’s adjuvant and two booster doses of same amount of antigen given with Incomplete Freund’s adjuvant, group III: Hamsters immunized with plasmid DNA vaccine alone, pVAX1-P1 single dose, group IV: Hamsters immunized with pVAX-P1 and given a prime-boost dose after 15 days, group V: Hamsters immunized with pVAX1-vector only and group VI: Unimmunized – were given PBS only (Arora et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2053">Prime-boost immunization with pVAX-21 DNA vaccine resisted the increase in spleen parasite burden by 75.68% (Arora et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2053">All the animals except group I, were challenged with 1 × 10^7 promastigotes (from late log-phase axenic cultures) intracardially (i.c.) on day 28. The hamsters were observed for 6–8 weeks post challenge (p.c.). At the end of 10 weeks post infection, the surviving animals were euthanized and parasitological and immunological parameters were studied (Arora et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4154">
+		<vaccine_name>SL3261-L. donovani</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004672</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3133">Five chosen antigens were differentially expressed on the surface or in the cytosol of Salmonella typhimurium SL3261. A two-step procedure was developed to select optimal Salmonella vaccine strains for each antigen, based on bacterial fitness and antigen expression levels (Schroeder et al., 2011).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1736" gene_id="gene567">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3133">The sequence encoding cholera toxin B subunit signal peptide was followed by SpeI/BglII sites for in frame directional cloning of ORF of interest fused with downstream sequences coding for a hemagglutinin epitope (HA)-tag and the transporter domain of AIDA (Schroeder et al., 2011)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1826" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3133">Mice were vaccinated with a single dose of Salmonella vaccine strains, the carrier control SL3261 or treated with PBS (Schroeder et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3133">The vaccine strains of Salmonella expressing the novel Leishmania antigens LinJ08.1190 and LinJ23.0410 significantly reduced visceralisation of L. major and enhanced systemic resistance against L. donovani in susceptible BALB/c mice. The results show that Salmonella are valid vaccine carriers for inducing resistance against visceral leishmaniasis but that their use may not be suitable for all antigens (Schroeder et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3133">Mice were subsequently challenged with 2×10^6 late-stationary phase L. major promastigotes into the left hind footpad (Schroeder et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene563">
+        <gene_name>A2</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011153</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>30385439</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5671</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>stage-specific S antigen-like protein</protein_name>
+        <protein_pi>4.19</protein_pi>
+        <protein_weight>9285.64</protein_weight>
+        <protein_length>194</protein_length>
+        <protein_note>zymodeme MON-29</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAP21105.1 stage-specific S antigen-like protein [Leishmania infantum]
+MKIRSVRPLVVLLVCVAAVLALSASAEPHKAAVDAGPLSVDVGPLSVDVGPLSVGPQSVGPLSVGPQSVD
+PLSVDVGPLSVGPQSVGPLSVDVGPLSVGPQSVGPLSVGLQAVDVSPVS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study results show that a single intraperitoneal administration of the A2-recombinant L. tarentolae strain expressing the Leishmania donovani A2 antigen protects BALB/c mice against L. infantum challenge and that protective immunity is associated with high levels of IFN-gamma production prior and after challenge [Ref1165:Mizbani et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene565">
+        <gene_name>Beta-tubulin</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011155</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>262233287</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:276956
+CDD:240228</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>beta tubulin</protein_name>
+        <protein_pi>6.31</protein_pi>
+        <protein_weight>37694.97</protein_weight>
+        <protein_length>416</protein_length>
+        <protein_note>The beta-tubulin family; cd02187</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACY38664.1 beta tubulin, partial [Leishmania donovani]
+ESAGGRYVPRAVLMDLEPGTMDSVRAGPYGQLFRPDNFIFGQSGAGNNWAKGHYTEGAELIDSVLDVCRK
+EAESCDCLQGFQLSHSLGGGTGSGMGTLLISKLREEYPDRIMMTFSVIPSPRVSDTVVEPYNTTLSVHQL
+VENSDESMCIDNEALYDICFRTLKLTTPTFGDLNHLVAAVMSGVTCCLRFPGQLNSDLRKLAVNLVPFPR
+LHFFMMGFAPLTSRGSHQYPGLSVAELTQQMFDAKNMMQAADPRHGRYLTASALFRGRMSTKEVDEQMLN
+VQNKNSSYFIEWIPNNIKSSICDIPPKGLKMSVTFIGNNTCIQEMFRRVGEQFTGMFRRKACLHWYTGEG
+MDE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study compared the vaccine efficacy of various L. donovani antigens encapsulated in cationic liposomes in BALB/c mice against challenge infection with L. donovani. Results demonstrated that liposomal LD51 (beta-tubulin) reduced parasite burden by 72%-75% [Ref1166:Bhowmick and Ali, 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene923">
+        <gene_name>cen1</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15488542</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:185503
+CDD:28933</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>centrin</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>149</protein_length>
+        <protein_note>centrin; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|15488542|gb|AAL01153.1|AF406767_1 centrin [Leishmania donovani]
+MAALTDEQIREAFNLFDADGSGAIDAEEMALAMKGLGFGDLSRDEVERIIRSMHTDSNGLVAYGEFEAMV
+KSRMAQKDSPEEILKAFQLFDLDKKGKISFANLKEVAKLLGENPGDDVLKEMIAEADEDGDGEVSFEEFK
+SVMLHMRGK</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A cen1 mutant is attenuated in mice and hamsters and induces significant protection from challenge with wild type L. donovani [Ref1775:Selvapandiyan et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene564">
+        <gene_name>F1-ATPase</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011154</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>722242</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:304359
+CDD:238540
+CDD:278722</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>F1-ATPase beta subunit</protein_name>
+        <protein_pi>4.18</protein_pi>
+        <protein_weight>20953.9</protein_weight>
+        <protein_length>292</protein_length>
+        <protein_note>promastigotes of Leishmania donovani Sudan 1S maintained in liquid culture as a suspension</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA73465.1 F1-ATPase beta subunit, partial (mitochondrion) [Leishmania donovani]
+KVALVYGQMNEPPGARAGVAESAVTMAEYFRDVEGQNVLLFIDNIFRFTQANSEVSALLGRIPAAVGYQP
+TLAEDLGMLQERITSTTKGSITSVQAVYVPADDITDPAPATTFSHLDATTVLDRAVAESGIYPAVNPLEC
+ASRIMDPDVIDVDHYNVAQDIVQMLTKYKELQDIIAVLGIDELSEEDKVVVDRARKVTRFLSQPFQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study compared the vaccine efficacy of various L. donovani antigens encapsulated in cationic liposomes in BALB/c mice against challenge infection with L. donovani.  Results demonstrated that liposomal LD31 (ATP synthase alpha chain) reduced parasite burden by 74%-77% [Ref1166:Bhowmick and Ali, 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene561">
+        <gene_name>GRP-78</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011152</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>16797868</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:240227
+CDD:212681</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glucose-regulated protein 78</protein_name>
+        <protein_pi>4.92</protein_pi>
+        <protein_weight>63125.03</protein_weight>
+        <protein_length>710</protein_length>
+        <protein_note>heat shock 70 kDa protein; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAL29192.1 glucose-regulated protein 78, partial [Leishmania donovani]
+GKVEAPCVGVDLGTTYSVAGVWQKGEVHIVTNEMGNRITPSVVAFTDAERLVGDGAKNQLPQNPENTIYA
+IKRLIGRKYVDPTVQNDKKLLSYHIVADKTGKPLVQVTVKGQQKRFTPEEVSAMVLQKMKEISETFLGEK
+VKNAVVTVPAYFNDAQRQATKDSGKIAGLNVVRIINEPTAAAIAYGLNKAGEKNILVFDLGGGTFDVSLA
+DNRRGFFEVVATNGDTHLGGEDFDNNMMKFFVDGLKRKQNVDISNDQKALARLRKACEAAKRQLSSHPEA
+RVEVDSLVEGYDFSEKITRAKFEELNMALFKNTLVPVQKVLEDAKLKKSDIDEIVLVGGSTRIPKVQQLI
+KDFFSGKEPNKGINPDEAVAYGAAVQAAVLTGESEVGGKVVLVDVIPLSLGIETVGGVMTKLIERNTQIP
+TKKSQIFSTYQDNQPSVLIQVFEGERGMTKDNRLLGKFDLSGIPPAPRGVPQIEVAFDVDENSILQVTAS
+DKSSGKREEITITNDKGRLSEEEIERMVREAAEFEDEDRKVRERVEAKNSLESIAYSLRNQINDKDKLGD
+KLAADDKKAIEEAVKDALDFVDENPNADREEFEAARTKLQSVTNPIIQKVYQGTAGSGAEEADAMDDL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB/c mice were immunized with a vaccine expressing the 78kDa (GRP-78) antigen of Leishmania donovani. Challenge infection was given intracardially after 2 weeks of second booster. A significant decrease in parasite burden was seen in vaccinees over the infected controls on all post challenge days and was found that maximum protection was provided by 78kDa+rIL-12 vaccine.  It was highly immunogenic as depicted by the reduction in parasite load (71-94.8%) [Ref1164:Nagill and Kaur, 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene572">
+        <gene_name>HASPB1</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011162</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>51847753</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:273344</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>cell surface protein B1</protein_name>
+        <protein_pi>4.46</protein_pi>
+        <protein_weight>15792.04</protein_weight>
+        <protein_length>217</protein_length>
+        <protein_note>K+-dependent Na+/Ca+ exchanger; TIGR00927</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAU10514.1 cell surface protein B1, partial [Leishmania donovani]
+PKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDG
+PKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDAPKEDGRTQRNDGDG
+PKEDGH
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study demonstrated for the first time that a recombinant stage-specific hydrophilic surface protein of Leishmania donovani, recombinant hydrophilic acylated surface protein B1 (HASPB1), is able to confer protection against experimental challenge with L. donovani in BALB/c mice [Ref1172:Stäger et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene566">
+        <gene_name>hsp70</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011156</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>281426606</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:302596
+GOA:D2EAU9
+InterPro:IPR001023
+InterPro:IPR013126
+InterPro:IPR018181
+UniProtKB/TrEMBL:D2EAU9</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>heat shock protein 70</protein_name>
+        <protein_pi>5.03</protein_pi>
+        <protein_weight>47979.15</protein_weight>
+        <protein_length>532</protein_length>
+        <protein_note>Nucleotide-Binding Domain of the sugar kinase/HSP70/actin superfamily; cl17037</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAZ04896.1 heat shock protein 70, partial [Leishmania donovani]
+DSQRQATKDAGTIAGLEVLRIINEPTAAAIAYGLDKGDDGKERNVLIFDLGGGTFDVTLLTIDGGIFEVK
+ATNGDTHLGGEDFDNRLVTFFTEEFKRKNKGKNLASSHRALRRLRTACERAKRTLSSATQATIEIDALFE
+NVDFQATITRARFEELCGDLFRSTIQPVERVLQDAKMDKRSVHDVVLVGGSTRIPKVQSLVSDFFGGKEL
+NKSINPDEAVAYGAAVQAFILTGGKSKQTEGLLLLDVTPLTLGIETAGGVMTALIKRNTTIPTKKSQIFS
+TYADNQPGVHIQVFEGERAMTKDCHLLGTFDLSGIPPAPRGVPQIEVTFDLDANGILNVSAEEKGTGKRN
+QITITNDKGRLSKDEIERMVNDAMKYEADDRAQRDRVEAKNGLENYAYSMKNTLGDSNVSGKLDDSDKAT
+LNKEIDVTLEWLSSNQEATKEEYEHKQKELESVCNPIMT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study compared the vaccine efficacy of various L. donovani antigens encapsulated in cationic liposomes in BALB/c mice against challenge infection with L. donovani. Results demonstrated that liposomal LD72 (Hsp70) reduced parasite burden by 65%-67% [Ref1166:Bhowmick and Ali, 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene1106">
+        <gene_name>Ighv1-9</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>668478</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC073561</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>114583568</gene_start>
+        <gene_end>114583861</gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>immunoglobulin heavy variable V1-9</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as Igg2a; Gm16697</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099098:114583568-114583861 Mus musculus strain C57BL/6J chromosome 12, GRCm38 C57BL/6J
+GTCTTGCACAGTAATAGATGGCAGAGTCCTCAGTTGTCAGGCTGCTGAGTTGCATGTAGGCTGTGTTGGA
+GGATGTATCTGCAGTGAATGTGGCCTTGCCCTTGAACTTCTCATTGTAGTTAGTACTACCACTTCCAGGT
+AAAATCTCTCCAATCCACTCAAGGCCATGTCCAGGCCTCTGCTTTACCCACTCTATCCAGTAGCCAGTGA
+ATGTGTAGCCAGTAGCCTTGCAGGAAAGCTTCACTGAGGCCCCAGGCTTCATCAGCTCAGCTCCAGACTG
+CTGCAGCTGAACCT</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1121">
+        <gene_name>Il2</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16183</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>7110653</ncbi_protein_id>
+        <gene_locus_tag>DN-144H19.3</gene_locus_tag>
+        <gene_refseq>AF195954</gene_refseq>
+        <protein_refseq>NP_032392</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>3</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>37120712</gene_start>
+        <gene_end>37125953</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>interleukin 2</protein_name>
+        <protein_pi>4.63</protein_pi>
+        <protein_weight>18506.61</protein_weight>
+        <protein_length>169</protein_length>
+        <protein_note>Also known as Il-2</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099107:37120712-37125953 Mus musculus strain C57BL/6J chromosome 3, GRCm38 C57BL/6J
+ATTTTTTTTTAGAGGAGAGCTTTATTTCTTGAAAACACTGATTAACATAGAGTTCACAGGAATAACTGAG
+AAGTTATTTTAGCGCTTACTTTGTGCTGTCCTAAAAATGACAGACATCTGAGCTTATTTATATTTGAATC
+ATCTAAATACTTTTATTAATGAGTCTACCTACACATGATATTTAACAATTCAATATAATAAATAATTTCA
+GATAAATAGTTTAAAACATTTTTGAGCCCTTGGGGCTTACAAAAAGAATCTTTAAAGATCCATATTTATC
+ATCTGAAGACTAGTAGTTACAAAAGATAGTAAACAATACATCCAAAAATAAATTAAAGTTAAATATTTAA
+ATAAATAGAGAGCCTTATGTGTTGTAAGCAGGAGGTACATAGTTATTGAGGGCTTGTTGAGATGATGCTT
+TGACAGAAGGCTATCCATCTCCTCAGAAAGTCCACCACAGTTGCTGACTCATCATCGAATTGGCACTCAA
+ATGTGTTGTCAGAGCCCTAAAAAAGAATATAAAATTGTAGGCTAAGGTAGCTTACTTTGCATATAATTAT
+TCTTCACGGAAGCTTTTAGGCATTTATTTTAACACTGGTTAAATATATTGAACATTCACATTTCTGAAAT
+GATCACAATTATTGGGTTATGTTTTATTATGATATCAAATGGTAAAGCATAAAAAATAAAGCTCTCCAGA
+GTTGATTACCAACGAGCATTTGATGGGAACACTGAACACTTCTGTAGAATTCAGTTGCTTGACCACTTTT
+TCTCTGGTAAGTGTACACAGCTATGCATCAATTTAGGCTTCAGGAATGGAGAAATGATACTTGTTATATG
+TTCTTTGCTAAATCTTAAGAGTCTATTATTCAATTCTTTCCCCCCCAAGTCAGAATGGGAACAACCCAGA
+GTAGGTTAGGACAAGCATCTATTGGGGGAAATTTGGAGAATTTTGTTATAGATATACCTACCCTGATACC
+AGTGTAGATGAATCACAAAGTTTGTACATGTATAAATATTATAAATTTGTTCTGTGGATTAGCTTTTTGA
+AAGCTAACCCTCTTTGCTAAAGGAGATATTTTAATTCTGTTTTTAGGTGACAAGCTGAGAAGGAAATATT
+TTGACAAATTTATGGGATGGCTTTTCCAAATCTGACTAATTCCTTGTAAGTCAAATGAGGCAGATTATTC
+CTTTTAAATAAATACTCCTTTTCAAATAAGCTGCTGTGGTCTTATATACCCTCTTTACATAGCTACTTCA
+ATATTCTAATGTCTTGAATTTTTCATTTTTAAAAATATGTGGCCCTTGAAACATTTTTCTAGTTCTCATG
+TAGCTCTAAAGTTTGTACCATTCATTAGGGGTGAACTTTCTGATGTTGGCCATAGATTTTAGAGCATCCA
+TCTTTGCATACGTAAGTACTCGATTTTAGAGCATCCATCTTAGCATACGTAAGTACTCACACCTTTCAAC
+GTCTAGATGATGTGTATTTCAGCCTGCTTTAAAAACCTCAAATGGAAGCTGGGCAGTGGTGGTGCAGGCC
+TTTAATCCCAGCACTTGGGAGGCAGAGGCAGGCGGATTTCTGAGTTCGAGGCCAGCCTGGTCTACAGAGT
+GAGTTCCAGGACAGCCAGGGCTACACAGAGAAATCCTGTCTCAAAAAAACAAACAAACAAACAAACAAGA
+AACAAACAAACAAAAAAAACAAAAACAAACAAAACAAAACCTCAAATGGAAACAGTGCACTGAAATGTGA
+CTTTGGTTTGGAAAGGACTAGCCCACACCCTCTTGGAGGCTTGCTGCTACTGTCTCACCAGAGTCCATGA
+TTCTTGTGCATTTAAAAACAAAGCTCTGCAGTGGGCTCTCCCCGTCCTGCTCTGTCCATTTTAATGGCTG
+CCATTTTTGGAGAGAAATGTCTGTTTTTCTACCAATACCAGCACAACTTCTCTGGAAAAACTTTTCAGAT
+AATTTTTTCTGATCTGATGAATGTAACACCAGCAAGAGTTGCTTGTTTCTTGTGGAATTCTACTCCGTGC
+TTTCTCTCACATCCAGTTCTATGCTGGTGTGGAGGGAGCAGAGTGTTCATGTTCCCAGTTTCCTTGCAGG
+TGATGGTAGGTGGAAATTCTAGCATCATCCTACAGTGGAAGGATTCACTTGCACAGTGACTTTAAACTTT
+GGCTGACTAAATGCACAGAACCCATCAAAGACCAGAAATGGCAAGCCACTTAAAAATGCATTTCTTCTCT
+ATTTTATTTCCAGATTAGCAAATAAAGCAACACCTTACCTTTAGTTTTACAACAGTTACTCTGATATTGC
+TGATGAAATTCTCAGCATCTTCCAATTGAAAGCTTTTGCTTTGAGTCAAATCCAGAACATGCCGCAGAGG
+TCCAAGTTCATCTTCTAGGCACTGAAGATCTTTCAATTCTGTGGCCTAGAGGAGTAATAAGCTTAACCAT
+CAGCTCAGCTCACCACATACTGAAGAGCCAGAAAGTTAGTCTGCAGTCTCTCTAATCAAGAGAAGGCAGC
+ACATAGCTTTTACCACTCCCTGTCCTCTGTAAAGGGGGACTGAGGTAATCGATGCCATAAATCTAGAAGA
+GCAAGAGCTCACAACCATAAGGGTCACCTTGACTGTTAGGCCACTCTAGTGAGCTCTTCTGGCTTCATTA
+GACTTTGTAAAAAGTCTGTGTTTCTCTACCAATGCATAGCACAAGTTCAGACTATTGTTCCAATCTACAA
+AGAAATCTGCAAGGTTCACATTCTAATATCTAATCGCAGAGTTGAGAATCACAGAAGGGTAAGGGACAGG
+AATCCTTGGATGCCAACTGTCATAGGCCTAAATCTTACAGATTAGGTTATCATGGCCCTGACTGAGGGGT
+GTCAAGATAGCCAGGAAGACACATGTAATATTTTTTAAATTTATACTTCTCTGCAATTACTAAAGATGAG
+TTTTTTAAAAACCCATATGTCAAGCTAGGAAGATGGCTTTTAAGGTAAAGGTACCTGCCACCAAACTTGA
+TGATTTGAGTTCAATTGCAGTGACCCACCCACATTGTGGAAAGAATGGCCCAACTTTCATATTTCGTCTT
+CTGACCTCCACAGTTACACTGTGATACACATGCACCTCCACACATACATACATACATACATACATACATA
+CATACATACATACATACATACATACATAAAATGTAAAATCTATTTGTCCCAATGAAAAAAGTCATAACAT
+TTTGGCAGAACACTTGGGAGAATTTTTCTGATCCATGTATGAAATAATGTTTAAATACATCATGCATACT
+TACATACATATACAGGGAAAAAGGATATTGTCTAGCTCTATAGTACACTATGATTTCCATAAAGTCAGCT
+GCTTTAAGTCTACAGTGAACTGTGTTATCTCCATTTTACCAAGTCTCACAATCAGTGTCTTTCCCACAAC
+CACATGAACGGGGAGCAAGGGTGGCCCGGTCGGTCGGTCGCTCCTTTCATTAACCACAGCCTTTGAATTA
+CATGCTTCTATTGTTTTTAAAATCTTACATACCGAATGCAGGTTAAATGAAAACATCAGCAGAATTTACC
+ACATTACTCTTGTTTTCAATAATTATTTTAAAACTTAGATTTCTAGGAATTTCACCACTCTCTAAATTAA
+CATGATCTCTGTTGTTTCTCTAACAATCCTTAGAGGAAGAGGTTTGACAAGATAACACGTAGTTCCTGAT
+TGGTCTGCTATTGACCTTCCAACTTGTTATGGTGTGTCTTGGGTATTCAGTGTGGAGCTCCTTCCCTCAC
+AGAACTCTCCAGTTTGTTACTGTGGGAGCTGAACATTATGTGACTGTAATTAAGCTGGAAGAGCAACTGG
+GGCCTTTCTTTTTCATCTCCTGTAGAACAGCTAGAGGCAAAGTTCCCCTGACTCAATAGGAATGGGTCAA
+CAGCTGCCTCTTTGTCCCCTTAGATCCCATTTTGCTCTAGGCTTGGATTTACTTGGGACAAGCTCTTTCT
+AGGACCAAAGTTATCCATTCTCTTTTGACTTTCGGGACTAGAGCAAATTTCTACCCTTGCTGGAGTTCTA
+AGAGCTTGTGTAAGCTGTTTTGTATCACACAACATTCTGCCTCCAAAGGAGACCAAAAAACCTTTCAATA
+TTGAGAGATAGTATCATGTAGTAATATTACAGCTCTCTAGTTCCACTAGTTAAAAGAGACTGTATAAATC
+CAAAATTGTTTTATACATCTCGGACTTCTTCTCTAGCACTAATAGTGTGTTTATGTGCTGTTGGCCAGAC
+ACTGTTCTGAAACCTGACAAGTGATAAGCATAGCAATGATCATTTATGTAAGTGGGTGAATGAGCATAGA
+CAACTTCCTGAGGCCATGAGAGCTAGGCCCTAGCAGGGCTGGACTCCACTGCAGATCATTGGCCCTAGAA
+TCTTAACATTGGTTATGCTGCTCCTCAAAAATGCAGTCATAGGAATCATTCTTAAAACAGTAAAGTGTGT
+GTAAAATGAGACCCTCTCAAGTCAATTTTTACATTTAAGAAGCTGAAATAATGCACCTCTCTCAAATATC
+TGTAGGACAAGCATAAAACAGAAATCAACAGTCTTTAAATTATCCCAGCATCAAAATGCAATCATCTTGC
+ATTTTCTTCTCATTCCCTTTCCCAACACATAAATACACAGGAAAAATGTAAAGAAAACCATTTAAAAGAA
+GTACCATTGTCAAGATTTTTTTACAGAGAGATATCAGAGAAACTTATTTTCTTCAGATGAGGTACTATTC
+ATCTGGTCACATGTTATTTACACGTTATACACATGTATGTTACTTTGAATTCATTAGAGCACCAGTTAAA
+CACAGAAACTCACTCACCTGCTTGGGCAAGTAAAATTTGAAGGTGAGCATCCTGGGGAGTTTCAGGTTCC
+TGTAATTCTGAGAAAGCGTAACACATTATTATTAAAGGTTATTAAACACAGCCTTTGGCAAGAAAGCTAA
+AGGTATTGCCTATAGATGGGATGGCTGTGCACTTACCTCCATCCTGCTCAGGAGCTCCTGTAGGTCCATC
+AACAGCTGCTCCAGGTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGTGCTTCCGCTGTAGAGC
+TTGAAGTGGAGCTTGAAGTGGGTGCGCTGTTGACAAGGAGCACAAGTGTCAATGTGACACAGGATGCGAG
+CTGCATGCTGTACATGCCTGCAGGACTTGAGGTCACTGTGAGGAGTGATTAGCAAGGGTGAT</dna_sequence>
+        <protein_sequence>>gi|7110653|ref|NP_032392.1| interleukin-2 precursor [Mus musculus]
+MYSMQLASCVTLTLVLLVNSAPTSSSTSSSTAEAQQQQQQQQQQQQHLEQLLMDLQELLSRMENYRNLKL
+PRMLTFKFYLPKQATELKDLQCLEDELGPLRHVLDLTQSKSFQLEDAENFISNIRVTVVKLKGSDNTFEC
+QFDDESATVVDFLRRWIAFCQSIISTSPQ</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene567">
+        <gene_name>KMP-11</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011157</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>7579896</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:281087</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>KMP-11</protein_name>
+        <protein_pi>7.09</protein_pi>
+        <protein_weight>11872.82</protein_weight>
+        <protein_length>150</protein_length>
+        <protein_note>Kinetoplastid membrane protein 11; pfam03037</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB33127.2 KMP-11 (kinetoplast) [Leishmania donovani]
+MATTYEEFSAKLDRLDQEFNRKMQEQNAKFFADKPDESTLSPEMREHYEKFERMIKEHTEKFNKKMHEHS
+EHFKQKFAELLEQQKAAQYPSK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>KMP-11 DNA vaccination alone in an experimental BALB/c mice model showed significant potential in terms of resolution of splenic and hepatic parasite burden against virulent LD challenge.  KMP-11 DNA immunization significantly protects against L. donovani infection [Ref1167:Bhaumik et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene568">
+        <gene_name>mspC</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011158</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>21954466</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:302875
+GOA:Q8MM48
+HSSP:1LML
+InterPro:IPR001577
+UniProtKB/TrEMBL:Q8MM48</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>GP63</protein_name>
+        <protein_pi>6.49</protein_pi>
+        <protein_weight>63738.41</protein_weight>
+        <protein_length>691</protein_length>
+        <protein_note>Leishmanolysin; cl19482</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAD42816.1 GP63 [Leishmania donovani]
+MSVDSSSTHRHRSVAARLVRLAAAGAAVIAAVGTAAAWAHAGAVQHRCIHDAMHPRVRQSVARHHTAPGA
+VSAVGLPYVTLDTAAAADRRPGSAPTVVRAANWGALRIAVSTEDLTDPAYHCARVGQRVNNHAGAIATCT
+ADDILTDEKRDILVKYLIPQALQLHTERLKVRQVQDKWKVTDMVDEICGDFKVPPAHITDGLSNTDFVMY
+VASVPSEEGVLAWATTCQVFSDGHPAVGVINIPAANIASRYDQLVTRVVTHEMAHALGFSGTFFTEILVV
+TQMMNIRGKDFNVSVINSSTAVAKAREQYGCGTLEYLEIEDQGGAGSAGSHIKMRNAKDELMAPAAAAGY
+YSALTMAIFQDLGFYQADFSKAEEMPWGRNAGCAFLSEKCMEQNITKWPAMFCNVSVDVVRCPTSRLMLG
+TCGIRGYSTPFSPYWQYFTNISLGGYSPFLDYCPFVIGYGDGSCNQDASLATGFFGAFNVFSDAARCIDG
+AFRPKNRTAADGYYAGLCANVRCDTATRTYSVQVCGSMDYVNCTPGLRVELSTVSSAFEEGGYITCPPYV
+EVCQANVKGAKDFAGDSDSSSSAGDAADRAAMQRWNDRMAGLATAAMVLLGMVLSLMALVVVWLLLLTCP
+WWCCKFGGLPT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study showed that cationic distearoyl phosphatidylcholine (DSPC) liposomes, when used as vaccine adjuvant with the immunodominant 63-kDa glycoprotein (gp63, mspC) of Leishmania donovani promastigotes, induced significant protection against progressive visceral leishmaniasis in susceptible BALB/c mice. gp63 used without adjuvant elicited partial protection but in association with liposomes exhibited marked resistance in both the livers and spleens of the mice challenged 10 days after the last vaccination [Ref1168:Bhowmick et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene571">
+        <gene_name>NH</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011161</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>19697561</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:239117</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>nucleoside hydrolase</protein_name>
+        <protein_pi>6.51</protein_pi>
+        <protein_weight>30583.64</protein_weight>
+        <protein_length>375</protein_length>
+        <protein_note>nuc_hydro_IU_UC_XIUA: inosine-uridine preferring, xanthosine-inosine-uridine-adenosine-preferring and, uridine-cytidine preferring nucleoside hydrolases. Nucleoside hydrolases cleave the N-glycosidic bond in nucleosides generating ribose and the...; cd02651</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAG02281.1 nucleoside hydrolase [Leishmania donovani]
+MPRKIILDCDPGIDDAVAIFLAHGNPEVELLAITTVVGNQTLEKVTRNARLVADVAGIVGVPVAAGCTKP
+LVRGVRNASQIHGETGMGNVSYPPEFKTKLDGRHAVQLIIDLIMSHEPKTITLVPTGGLTNIAMAVRLEP
+RIVDRVKEVVLMGGGYHTGNASPVAEFNVFVDPEAAHIVFNESWNVTMVGLDLTHQALATPAVQKRVKEV
+GTKPAAFMLQILDFYTKVYEKERNTYATVHDPCAVAYVIDPTVMTTEQVPVDIELNGALTTGMTVADFRY
+PRPKHCHTQVAVKLDFDKFWCLVIDALKRIGDPQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Experimental infection of immunized BALB/c mice demonstrated that the VR1012-NH36 DNA vaccine derived from the nucleoside hydrolase gene (NH) of L. donovani induced an 88% reduction in L. chagasi parasite load and a 65% reduction in L. mexicana lesion size [Ref1171:Aguilar-Be et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene569">
+        <gene_name>ORFF</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id>VO_0011159</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>703122</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>unknown</protein_name>
+        <protein_pi>5.32</protein_pi>
+        <protein_weight>29594.74</protein_weight>
+        <protein_length>334</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA96728.1 unknown [Leishmania donovani]
+MQSDARELNPGRADFWEHFYGQEDGRLQQKELHHRKAREIVERGSLMNHYEWFMQYPMYEAALKACLRAV
+PTVLSKDGATRILHTGCGNSDFCDHVEGLLSDLNPAPSSSSRTCEVLNVDICENIVTHLALHFPSRLYAV
+GDCCDLHVSSSPSMPFSSNAAWYSRDTALRLRTVLQSSVDVVFDKGTADALLSSFAGVCNPNMEAYVGEA
+LKVLRPGGLLFLISINSEDVLSPYVLSAGDGLKSFQLAYADVIELCAQDLRHLRVETLGSRYSCYGYAVV
+ASAVAE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>An expression plasmid encoding both p35 and p40 subunits of IL-12 when co-administered with a recombinant open-reading frame (rORFF) gene from the LD1 locus of Leishmania donovani induces significant protection with around 82% protection in both liver and spleen of BALB/c mice when challenged with L. donovani [Ref1169:Tewary et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1073">
+        <gene_name>P1</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>27465165</ncbi_nucleotide_id>
+        <ncbi_protein_id>27465166</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAN60108.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:100109</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ribosomal protein P1-like protein</protein_name>
+        <protein_pi>4.09</protein_pi>
+        <protein_weight>11317.016</protein_weight>
+        <protein_length>182</protein_length>
+        <protein_note>Ribosomal protein P1. This subfamily represents the eukaryotic large ribosomal protein P1. Eukaryotic P1 and P2 are functionally equivalent to the bacterial protein L7/L12, but are not homologous to L7/L12. P1 is located in the L12 stalk, with proteins...; cd05831</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|27465165|gb|AY161269.1| Leishmania donovani ribosomal protein P1-like protein mRNA, complete cds
+AATTCGTGTACTTTATTAGCACGTCATCACAGAGAACACCTTCCTTACGCACTGTCCATCATCGCCATGT
+CCGCTGAGACCCTCGCGTGCACGTACGCCGCGCTCATGCTGAGTGACGCCGGCCTGCCCACCTCGGCCGA
+GAACATCGCCGCGGCGGTGAAGGCGGCCGGCGTCGAGATGCGCCCCACCCTGCCCATCATCTTTGCCCGC
+TTCCTGGAGAAGAAGTCCGTGGAGACGCTGATGGCGGCCGCCGCCGCGCAGGCCCCGACGGCCGCGTNCG
+CCCCGTCTCCGGCGGCGGGCGCCGCCTCCGCTGCANCGGNCGGCGGCAAGGTGGAGGACAAGAAGAAGGA
+CGAGCCTGAGGAAGAGGGCGACGACGACATGGGTTTTGGTCTGTTCGACTGAGCGCCCCGCATGATGACC
+GGCATATGCGAGCACATGGTTGTTTGGCCTCATGTTCTGCAACACCCGAGCATGCCGTGAGCGCTGCCTC
+TCTGCGTGCACATATATATATATGTGTGTGTGTGTGTGTGCGTGTGTTTCGCTGCTCTCTTTTTCTTTTC
+GATTTTATTTACGTGTGCGTTACTCCTTCCTCCTGCGAAAAAAAAAAAAAAAAAAAA</dna_sequence>
+        <protein_sequence>>AAN60108.1 ribosomal protein P1-like protein [Leishmania donovani]
+MSAETLACTYAALMLSDAGLPTSAENIAAAVKAAGVEMRPTLPIIFARFLEKKSVETLMAAAAAQAPTAA
+XAPSPAAGAASAAXXGGKVEDKKKDEPEEEGDDDMGFGLFD
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>DNA vaccine pVAX-P1 in a prime-boost mode was able to induce protection with reduced mortality, a significant (75.68%) decrease in splenic parasite burden and increased expression of Th1 type cytokines in immunized hamsters [Ref2053:Arora et al., 2011].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1137">
+        <gene_name>TNF-alpha</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>21926</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>7305585</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AB039224</gene_refseq>
+        <protein_refseq>NP_038721</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>17</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>35199389</gene_start>
+        <gene_end>35201995</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>tumor necrosis factor</protein_name>
+        <protein_pi>4.75</protein_pi>
+        <protein_weight>24010.47</protein_weight>
+        <protein_length>235</protein_length>
+        <protein_note>Also known as DIF; Tnfa; TNFSF2; Tnfsf1a; TNFalpha; TNF-alpha; MGC151434</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099093:35199389-35201995 Mus musculus strain C57BL/6J chromosome 17, GRCm38 C57BL/6J
+CTTTATTTCTCTCAATGACCCGTAGGGCGATTACAGTCACGGCTCCCGTGGGGAGCAGAGGTTCAGTGAT
+GTAGCGACAGCCTGGTCACCAAATCAGCGTTATTAAGACAATTGGGTTAGATAAATATTTTGTTTTAAAC
+ATAAGCAAAAGAGGAGGCAACAAGGTAGAGAGGCCAGGTGGGGACAGCTCAGCTCCGTTTTCACAGAAAA
+CATGTCTGTCTGAAGACAGCTTCCCACACTGGGTCCTCCAGGACACCCCGGCCTTCCAAATAAATACATT
+CATAAGCAAATAAATAAATAATAAATAAATAATAAATAATAAGTGCAAATATAAATAGAGGGGGGCTGGC
+TCTGTGAGGAAGGCTGTGCATTGCACCTCAGGGAAGAATCTGGAAAGGTCTGAAGGTAGGAAGGCCTGAG
+ATCTTATCCAGCCTCATTCTGAGACAGAGGCAACCTGACCACTCTCCCTTTGCAGAACTCAGGAATGGAC
+ATTCGAGGCTCCAGTGAATTCGGAAAGCCCATTTGAGTCCTTGATGGTGGTGCATGAGAGGCCCACAGTC
+CAGGTCACTGTCCCAGCATCTTGTGTTTCTGAGTAGTTGTTGAAAGCTCTGAGCACAGAGTTGGACCCTG
+AGCCATAATCCCCTTTCTAAGTTAGAAGGATACAGACTGGGGGCTCTGAGGAGTAGACAATAAAGGGGTC
+AGAGTAAAGGGGTCAGAGTGGGGGCTGGGTAGAGAATGGATGAACACCCATTCCCTTCACAGAGCAATGA
+CTCCAAAGTAGACCTGCCCGGACTCCGCAAAGTCTAAGTACTTGGGCAGATTGACCTCAGCGCTGAGTTG
+GTCCCCCTTCTCCAGCTGGAAGACTCCTCCCAGGTATATGGGCTCATACCAGGGTTTGAGCTCAGCCCCC
+TCAGGGGTGTCCTTGGGGCAGGGGCTCTTGACGGCAGAGAGGAGGTTGACTTTCTCCTGGTATGAGATAG
+CAAATCGGCTGACGGTGTGGGTGAGGAGCACGTAGTCGGGGCAGCCTTGTCCCTTGAAGAGAACCTGGGA
+GTAGACAAGGTACAACCCATCGGCTGGCACCACTAGTTGGTTGTCTTTGAGATCCATGCCGTTGGCCAGG
+AGGGCGTTGGCGCGCTGGCTCAGCCACTCCAGCTGCTCCTCCACTTGGTGGTTTGCTGAGGGGGGGGGGG
+AGGATTGAGTCAGTGTCACCCTCTTAGTTCACACTCCACATCCTGAGCCTCAGCAGCTACCCACACTTCA
+CTTCCGGTTCCTGCACCCTCTGTCTTTCCACATCCCATTGGCTATGAGGTCCCGGGTGGCCCCCTGATGC
+CTTGCTTTTGAGTCACTGCTCTGACTCTCACGTGCTGTCTCTAAGAGCTCTGTCTTTTCTCAGCCTGGCT
+CGACACCCCTCAACCCGCCCCCCAAAATCATGCCCCTTCATTCTCAAGGCACATGTAAAGAAATCTTACC
+TACGACGTGGGCTACAGGCTTGTCACTCGAATTTTGAGAAGATGATCCTGGAGGGGAAGAGACAAAGGCA
+AGGATGAGCCTTTTAGGCTTCCCAGCAAGCATCTATGCACTTAGACCCCTTTCCTCCCAAACCAAAGCTT
+TAAGTTCTCCCCCCACCCCATCTCATCCCATGCCTAACTGCCCTTCCTCCATCTTAAATTAAGAGAGAGG
+TGTGGGAACACTTACTGAGTGTGAGGGTCTGGGCCATAGAACTGATGAGAGGGAGGCCATTTGGGAACTT
+CTGTGTAGGAAAAGGAGGTTAGTTAAGACAGACTCACCCCAAAGGAGAAGCCTCCCGGCTGATTGCCCCG
+CTTACAGTTCCTCTTTGCCCCACCCCACCCCCCAGCTTTGTGTTTTTCTTCTTCATTCATTCATCTGTCC
+AACCCACGGCTTCTTTCTGCGGTGCCCTCTGTGCTTGATCTCCCGTTATCTCCCCTTCATCTTCCTCCTT
+ATCTCTCATGCCTCTCTCATTTCTGTCTCTGAGTTTTATCTCTTGCTTATCCCCTCTTCCCCTGGCCACA
+TCTTTCCAGATCTCTCCACGTGTGAACACACTTGTTCGTTCATTCATCTCTCTGTGCATCCGACGAAGGA
+TGTTTAGTCAGCTGGACGCATGGGTCCGAGGTCCTGACTCTGTCCCCTCCACACTCTCCTCCACCTTGCC
+CTGCCCATTAGCCCACTTCTTTCCCTCACACTGTCCTTCTTGCCCTCCTAACCCGTTTTGCTTGTGAGCG
+AGAATAAGGGTTGCCCAGACACTCACCTCATCCCTTTGGGGACCGATCACCCCGAAGTTCAGTAGACAGA
+AGAGCGTGGTGGCCCCTGCCACAAGCAGGAATGAGAAGAGGCTGAGACATAGGCACCGCCTGGAGTTCTG
+GAAGCCCCCCATCTTTTGGGGGAGTGCCTCTTCTGCCAGTTCCACGTCGCGGATCATGCTTTCTGTGCTC
+ATGGTGTCTTTTCTGGAGGGAGATGTGGCGCCTTGGGCCAGTGAGTGAAAGGGACAGAACCTGCCTGGTT
+GGCTGCTTGCTTTTCTGGGAGCTATTTCCAAGATGTTCTGGAGTTTCTGTTCTCCCTCCTGGCTAGTCCC
+TTGCTGTCCTCGCTGAG</dna_sequence>
+        <protein_sequence>>gi|7305585|ref|NP_038721.1| tumor necrosis factor [Mus musculus]
+MSTESMIRDVELAEEALPQKMGGFQNSRRCLCLSLFSFLLVAGATTLFCLLNFGVIGPQRDEKFPNGLPL
+ISSMAQTLTLRSSSQNSSDKPVAHVVANHQVEEQLEWLSQRANALLANGMDLKDNQLVVPADGLYLVYSQ
+VLFKGQGCPDYVLLTHTVSRFAISYQEKVNLLSAVKSPCPKDTPEGAELKPWYEPIYLGGVFQLEKGDQL
+SAEVNLPKYLDFAESGQVYFGVIAL</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1171">
+		<reference_name>Aguilar-Be et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Aguilar-Be I, da Silva Zardo R, Paraguai de Souza E, Borja-Cabrera GP, Rosado-Vallado M, Mut-Martin M, García-Miss Mdel R, Palatnik de Sousa CB, Dumonteil E</authors>
+		<title>Cross-protective efficacy of a prophylactic Leishmania donovani DNA vaccine against visceral and cutaneous murine leishmaniasis</title>
+		<year>2005</year>
+		<volume>73</volume>
+		<issue>2</issue>
+		<pages>812-819</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2053">
+		<reference_name>Arora et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Arora SK, Masih S, Vasishta RK</authors>
+		<title>Efficacy of Leishmania donovani ribosomal P1 gene as DNA vaccine in experimental visceral leishmaniasis</title>
+		<year>2011</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Experimental parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1167">
+		<reference_name>Bhaumik et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bhaumik S, Basu R, Sen S, Naskar K, Roy S</authors>
+		<title>KMP-11 DNA immunization significantly protects against L. donovani infection but requires exogenous IL-12 as an adjuvant for comparable protection against L. major</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>9</issue>
+		<pages>1306-1316</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1166">
+		<reference_name>Bhowmick and Ali, 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bhowmick S, Ali N</authors>
+		<title>Identification of novel Leishmania donovani antigens that help define correlates of vaccine-mediated protection in visceral leishmaniasis</title>
+		<year>2009</year>
+		<volume>4</volume>
+		<issue>6</issue>
+		<pages>e5820</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1168">
+		<reference_name>Bhowmick et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bhowmick S, Ravindran R, Ali N</authors>
+		<title>gp63 in stable cationic liposomes confers sustained vaccine immunity to susceptible BALB/c mice infected with Leishmania donovani</title>
+		<year>2008</year>
+		<volume>76</volume>
+		<issue>3</issue>
+		<pages>1003-1015</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference853">
+		<reference_name>Borja-Cabrera et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Borja-Cabrera GP, Correia Pontes NN, da Silva VO, Paraguai de Souza E, Santos WR, Gomes EM, Luz KG, Palatnik M, Palatnik de Sousa CB</authors>
+		<title>Long lasting protection against canine kala-azar using the FML-QuilA saponin vaccine in an endemic area of Brazil (São Gonçalo do Amarante, RN)</title>
+		<year>2002</year>
+		<volume>20</volume>
+		<issue>27-28</issue>
+		<pages>3277-3284</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2038">
+		<reference_name>Chakravarty et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chakravarty J, Kumar S, Trivedi S, Rai VK, Singh A, Ashman JA, Laughlin EM, Coler RN, Kahn SJ, Beckmann AM, Cowgill KD, Reed SG, Sundar S, Piazza FM</authors>
+		<title>A clinical trial to evaluate the safety and immunogenicity of the LEISH-F1+MPL-SE vaccine for use in the prevention of visceral leishmaniasis</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>19</issue>
+		<pages>3531-3537</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1896">
+		<reference_name>Henriquez et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Henriquez FL, Campbell SA, Roberts CW, Mullen AB, Burchmore R, Carter KC</authors>
+		<title>Vaccination with recombinant Leishmania donovani gamma-glutamylcysteine synthetase fusion protein protects against L. donovani infection</title>
+		<year>2010</year>
+		<volume>96</volume>
+		<issue>5</issue>
+		<pages>929-936</pages>
+		<journal_book_name>The Journal of parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5044">
+		<reference_name>Kumar et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kumar M, Ranjan K, Singh V, Pathak C, Pappachan A, Singh DD</authors>
+		<title>Hydrophilic Acylated Surface Protein A (HASPA) of Leishmania donovani: Expression, Purification and Biophysico-Chemical Characterization</title>
+		<year>2017</year>
+		<volume>36</volume>
+		<issue>4</issue>
+		<pages>343-351</pages>
+		<journal_book_name>The protein journal</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5066">
+		<reference_name>McAtee et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McAtee CP, Seid CA, Hammond M, Hudspeth E, Keegan BP, Liu Z, Wei J, Zhan B, Arjona-Sabido R, Cruz-Chan V, Dumonteil E, Hotez PJ, Bottazzi ME</authors>
+		<title>Expression, purification, immunogenicity and protective efficacy of a recombinant nucleoside hydrolase from Leishmania donovani, a vaccine candidate for preventing cutaneous leishmaniasis</title>
+		<year>2017</year>
+		<volume>130</volume>
+		<issue></issue>
+		<pages>129-136</pages>
+		<journal_book_name>Protein expression and purification</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1548">
+		<reference_name>Merck Manual: Leishmaniasis</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Leishmaniasis</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.merck.com/mmpe/sec14/ch186/ch186f.html</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1165">
+		<reference_name>Mizbani et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mizbani A, Taheri T, Zahedifard F, Taslimi Y, Azizi H, Azadmanesh K, Papadopoulou B, Rafati S</authors>
+		<title>Recombinant Leishmania tarentolae expressing the A2 virulence gene as a novel candidate vaccine against visceral leishmaniasis</title>
+		<year>2009</year>
+		<volume>28</volume>
+		<issue>1</issue>
+		<pages>53-62</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1164">
+		<reference_name>Nagill and Kaur, 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nagill R, Kaur S</authors>
+		<title>Enhanced efficacy and immunogenicity of 78kDa antigen formulated in various adjuvants against murine visceral leishmaniasis</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>23</issue>
+		<pages>4002-4012</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5095">
+		<reference_name>Osman et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Osman M, Mistry A, Keding A, Gabe R, Cook E, Forrester S, Wiggins R, Di Marco S, Colloca S, Siani L, Cortese R, Smith DF, Aebischer T, Kaye PM, Lacey CJ</authors>
+		<title>A third generation vaccine for human visceral leishmaniasis and post kala azar dermal leishmaniasis: First-in-human trial of ChAd63-KH</title>
+		<year>2017</year>
+		<volume>11</volume>
+		<issue>5</issue>
+		<pages>e0005527</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3133">
+		<reference_name>Schroeder et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schroeder J, Brown N, Kaye P, Aebischer T</authors>
+		<title>Single dose novel Salmonella vaccine enhances resistance against visceralizing L. major and L. donovani infection in susceptible BALB/c mice</title>
+		<year>2011</year>
+		<volume>5</volume>
+		<issue>12</issue>
+		<pages>e1406</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1775">
+		<reference_name>Selvapandiyan et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Selvapandiyan A, Dey R, Nylen S, Duncan R, Sacks D, Nakhasi HL</authors>
+		<title>Intracellular replication-deficient Leishmania donovani induces long lasting protective immunity against visceral leishmaniasis</title>
+		<year>2009</year>
+		<volume>183</volume>
+		<issue>3</issue>
+		<pages>1813-1820</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5035">
+		<reference_name>Singh et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Singh MK, Jamal F, Dubey AK, Shivam P, Kumari S, Pushpanjali, Ahmed G, Dikhit MR, Narayan S, Das VNR, Pandey K, Sinha KK, Das P, Singh SK</authors>
+		<title>Co-factor-independent phosphoglycerate mutase of Leishmania donovani modulates macrophage signalling and promotes T-cell repertoires bearing epitopes for both MHC-I and MHC-II</title>
+		<year>2018</year>
+		<volume>145</volume>
+		<issue>3</issue>
+		<pages>292-306</pages>
+		<journal_book_name>Parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1172">
+		<reference_name>Stäger et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Stäger S, Smith DF, Kaye PM</authors>
+		<title>Immunization with a recombinant stage-regulated surface protein from Leishmania donovani induces protection against visceral leishmaniasis</title>
+		<year>2000</year>
+		<volume>165</volume>
+		<issue>12</issue>
+		<pages>7064-7071</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1170">
+		<reference_name>Sukumaran and Madhubala, 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sukumaran B, Madhubala R</authors>
+		<title>Leishmaniasis: current status of vaccine development</title>
+		<year>2004</year>
+		<volume>4</volume>
+		<issue>6</issue>
+		<pages>667-679</pages>
+		<journal_book_name>Current molecular medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1169">
+		<reference_name>Tewary et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tewary P, Saxena S, Madhubala R</authors>
+		<title>Co-administration of IL-12 DNA with rORFF antigen confers long-term protective immunity against experimental visceral leishmaniaisis</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>13</issue>
+		<pages>2409-2416</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1438">
+		<reference_name>WD:  Leishmania donovani</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Leishmania donovani</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.wrongdiagnosis.com/medical/leishmania_donovani.htm</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

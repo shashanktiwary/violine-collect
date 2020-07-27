@@ -1,0 +1,1696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen118">
+		<pathogen_name>Trypanosoma cruzi</pathogen_name>
+		<taxon_id>5693</taxon_id>
+		<pathogenesis refs="reference1356">Organ and tissue damage during acute T cruzi infection is caused by the parasite itself and by the host's acute immunoinflammatory response, which is elicited by the presence of the parasite. Findings from several studies in experimental models of T cruzi infection have suggested that a strong T-helper-1 immune response with both CD4 and CD8 cells, and characterised by the production of some specific cytokines—such as interferon γ, tumour necrosis factor α, and interleukin 12—is important in the control of parasitism. By comparison, production of interleukin 10 and transforming growth factor β is related to parasite replication by inhibition of macrophage trypanocidal activity. The T-helper-1 immune response has a protective role mainly through the synthesis of nitric oxide, which exerts a potent trypanocidal action. During chronic infection, the balance between immune-mediated parasite containment and damaging inflammation of the host tissues probably determines the course of disease. If the immunological response is inefficient, or paradoxically leads to tissue damage, both parasite load and immune-mediated inflammation increase. By contrast, a well executed immune response, in which parasite burden is lowered and inflammatory consequences are kept to a minimum, results in reduced tissue damage (Rassi et al., 2010).</pathogenesis>
+		<disease_name>Chagas disease</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1356">Chagas disease is transmitted to human beings and to more than 150 species of domestic animals (eg, dogs, cats, and guineapigs) and wild mammals (eg, rodents, marsupials, and armadillos) mainly by large, blood-sucking reduviid bugs of the subfamily Triatominae, within three overlapping cycles: domestic, peridomestic, and sylvatic.  Although more than 130 species of triatomine bugs have been identified, only a handful are competent vectors for T cruzi. Triatoma infestans, Rhodnius prolixus, and Triatoma dimidiata are the three most important vector species in the transmission of T cruzi to man (Rassi et al., 2010).</host_range>
+		<introduction refs="reference1356">Chagas disease is a chronic, systemic, parasitic infection caused by the protozoan Trypanosoma cruzi, and was discovered in 1909. The disease affects about 8 million people in Latin America, of whom 30-40% either have or will develop cardiomyopathy, digestive megasyndromes, or both. In the past three decades, the control and management of Chagas disease has undergone several improvements. Large-scale vector control programmes and screening of blood donors have reduced disease incidence and prevalence. Although more effective trypanocidal drugs are needed, treatment with benznidazole (or nifurtimox) is reasonably safe and effective, and is now recommended for a widened range of patients. Improved models for risk stratification are available, and certain guided treatments could halt or reverse disease progression (Rassi et al., 2010).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3559">
+		<vaccine_name>T. cruzi DNA vaccine encoding ASP-2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004375</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pGEX-3X [Ref2271:AraÃºjo et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1099" gene_id="gene752">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2271">Vector pGEX-3X expressed amastigote surface protein 2 (ASP-2 ) (AraÃºjo et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1400" host_id="host3">
+			<immune_response refs="reference2271">Vaccination with a plasmid expressing amastigote surface protein 2 (ASP-2) generates specific CD4+ Th1 and CD8+ Tc1 immune responses (AraÃºjo et al., 2005).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2271">DNA vaccination with the gene encoding amastigote surface protein 2 (ASP-2) protects approximately 65% of highly susceptible A/Sn mice against the lethal Trypanosoma cruzi infection (AraÃºjo et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine803">
+		<vaccine_name>T. cruzi DNA Vaccine encoding CRP-10 Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pBC12BI [Ref1354:Sepulveda et al., 2000]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering268" gene_id="gene760">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response562" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c and C3H/HeJ</host_strain>
+			<vaccination_protocol refs="reference1354">100 μg of pBC12BI.crp-daf DNA or vector DNA was dissolved in 50 μl of PBS and injected intramuscularly in the tibialis anterior muscles of mice that had been briefly anesthetized by metaphane inhalation (Sepulveda et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1354">Mice immunized with the crp DNA plasmid produced antibodies capable of lysing the parasites in the presence of complement and were protected against a lethal challenge with T. cruzi trypomastigotes (Sepulveda et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1354">BALB/c mice immunized with DNA were challenged intravenously (i.v.) 2 weeks after the last boost with 2 × 10^6 T. cruzi strain Y trypomastigotes (Sepulveda et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine807">
+		<vaccine_name>T. cruzi DNA Vaccine encoding G2 Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCDNA3</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering272" gene_id="gene762">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response566" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1355">C57BL/6 mice were injected in the quadriceps muscle thrice at 2-week intervals with antigen-encoding plasmid (pCDNA3.TcG2 25 μg per DNA/mouse) and cytokine-encoding plasmids (pcDNA3.msp35, pcDNA3.msp40 [IL-12], and pCMVI.GM-CSF; 25 μg per plasmid DNA/mouse) (Bhatia and Garg, 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1355">The dominant IgG2b/IgG1 antibody response was maintained after a challenge infection and was associated with 50% control of the acute-phase tissue parasite burden and an almost undetectable level of tissue parasites during the chronic phase (Bhatia and Garg, 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1355">Two weeks after the last immunization, mice were challenged with culture-derived T. cruzi trypomastigotes (2.5 × 10^4/mouse, intraperitoneally) and sacrificed at days 30, 75, and 120 postinfection (p.i.), corresponding to the acute phase of peak parasitemia, the intermediate phase of immune control of parasites, and the chronic phase of disease development, respectively (Bhatia and Garg, 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine809">
+		<vaccine_name>T. cruzi DNA Vaccine encoding G4 Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCDNA3</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering273" gene_id="gene761">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response567" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1355">C57BL/6 mice were injected in the quadriceps muscle thrice at 2-week intervals with antigen-encoding plasmid (pCDNA3.TcG4 25 μg per DNA/mouse) and cytokine-encoding plasmids (pcDNA3.msp35, pcDNA3.msp40 [IL-12], and pCMVI.GM-CSF; 25 μg per plasmid DNA/mouse) (Bhatia and Garg, 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1355">The dominant IgG2b/IgG1 antibody response was maintained after a challenge infection and was associated with 50% control of the acute-phase tissue parasite burden and an almost undetectable level of tissue parasites during the chronic phase (Bhatia and Garg, 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1355">Two weeks after the last immunization, mice were challenged with culture-derived T. cruzi trypomastigotes (2.5 × 10^4/mouse, intraperitoneally) and sacrificed at days 30, 75, and 120 postinfection (p.i.), corresponding to the acute phase of peak parasitemia, the intermediate phase of immune control of parasites, and the chronic phase of disease development, respectively (Bhatia and Garg, 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3886">
+		<vaccine_name>T. cruzi DNA vaccine encoding TSA-1 and Tc24</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004532</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref2650:Quijano-HernÃ¡ndez et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1434" gene_id="gene1292">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1435" gene_id="gene759">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1528" host_id="host36">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2650">Both preventive and therapeutic vaccination significantly reduced parasitemia, cardiac inflammation and cardiac parasite burden, and tended to reduce the development of cardiac arrhythmias (Quijano-HernÃ¡ndez et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine812">
+		<vaccine_name>T. cruzi DNA Vaccine encoding TSA-1 protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VR1012 (Vical Inc., San Diego, Calif.)</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering277" gene_id="gene759">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response571" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">B6 and BALB/c</host_strain>
+			<vaccination_protocol refs="reference1352">Groups of B6 and BALB/c mice were injected intramuscularly into each tibialis anterior muscle with 50 μg of VR1012 TSA1.7, VR1012 TSA2.1, or control VR1012 suspended in 50 μl of PBS by using a 27-gauge needle. Mice were boosted 4 weeks later with an identical dose of plasmid (100 μg total) given by the same bilateral intramuscular injection (Wizel et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1352">When TSA-1 DNA-vaccinated animals were challenged with T. cruzi, 14 of 22 (64%) H-2(b) and 16 of 18 (89%) H-2(d) mice survived the infection (Wizel et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1352">Two weeks after the second dose, animals were infected by intraperitoneal injection of 10^5 (B6) or 10^3 (BALB/c) T. cruzi BFT. Parasitemias were monitored periodically by hemacytometer counts of 10 μl of tail vein blood in an ammonium chloride solution (Wizel et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3558">
+		<vaccine_name>T. cruzi DNA vaccine encoding TSA-1,  ASP-1,  ASP-2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004374</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMVI.UBF3/2 [Ref2270:Garg and Tarleton, 2002]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2270">IL-12, GM-CSF (Garg and Tarleton, 2002)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1097" gene_id="gene759">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2270">Vector pCMVI.UBF3/2 expressed TSA-1 (Garg and Tarleton, 2002).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1098" gene_id="gene752">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2270">Vector pCMVI.UBF3/2 expressed ASP-2 cDNA (Garg and Tarleton, 2002).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1405" gene_id="gene1604">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2270">Vector pCMVI.UBF3/2 expressed ASP-1 cDNA (Garg and Tarleton, 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1399" host_id="host3">
+			<immune_response refs="reference2270">Immunization of mice with plasmids encoding ASP-1, ASP-2, or TSA-1 elicited poor antigen-specific cytotoxic-T-lymphocyte (CTL) activity and T. cruzi-specific antibody responses. Codelivery of interleukin-12 and granulocyte-macrophage colony-stimulating factor plasmids with antigen-encoding plasmids resulted in a substantial increase in CTL activity and antibody production and in increased resistance to T. cruzi infection (Garg and Tarleton, 2002).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2270">Immunization with this mixture of ts-encoding plasmids elicited moderate parasite-specific antibody responses and substantial CTL activity and subsequently provided significant resistance to T. cruzi infection.  In conclusion, genetic vaccines composed of ASP-1, ASP-2, and TSA-1 provide partial protection from lethal T. cruzi infection (Garg and Tarleton, 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine811">
+		<vaccine_name>T. cruzi DNA Vaccine pGFP-TSA1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0001390</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pGFP plasmid (Clontech, Palo Alto, CA)</vector>
+		<route>Gene Gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene Gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering276" gene_id="gene757">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response570" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1350">B6 mice were immunized four times at two-week intervals with 6 μg of each plasmid using a Helios Gene Gun (BioRad, NY, USA) (Chou et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1350">C57BL/6 mice vaccinated with this plasmid showed suppressed parasitemia and prolonged survival. Vaccination with pGFP-TSA1 enhanced epitope-specific cytotoxicity and IFN-gamma secretion by CD8(+)T cells (Chou et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1350">Two weeks after the last vaccination, mice were infected with 1000 blood-derived T. cruzi trypomastigotes by s.c. injection at the base of the tail. Parasitemia levels were evaluated by counting the number of parasites in 5 μl of blood from the tail vein (Chou et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3561">
+		<vaccine_name>T. cruzi DNA vaccine pTS encoding T. cruzi antigens</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004377</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1  [Ref2273:Eickhoff et al., 2011]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2273">IL-15 (Eickhoff et al., 2011)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1101" gene_id="gene757">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2273">Vector pcDNA3  expressed T. cruzi antigens, including trans-sialidase (TS) (Eickhoff et al., 2011).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1402" host_id="host3">
+			<immune_response refs="reference2273">Vaccination of mice with pTS alone or pTS + pIL-15 elicited strong TS-specific T cell responses as detected 3 months after vaccination. In addition to enhancing TS-specific CD8+ T cell responses, the pIL-15 adjuvant enhanced TS-specific CD4+ T cell responses induced by pTS vaccination (Eickhoff et al., 2011).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2273">We challenged 5 mice per group with a lethal dose of T. cruzi BFT (5,000 BFT s.c.) 30 days following the final immunization, and followed survival for &gt;2 months. All mice vaccinated with pTS (with or without pIL-15 co-immunization) survived lethal T. cruzi challenge, whereas all mice vaccinated with pIL-15 alone died (Eickhoff et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3560">
+		<vaccine_name>T. cruzi DNA vaccine pUB-ASP-2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004376</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1  [Ref2272:Chou et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1100" gene_id="gene752">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2272">Vector pcDNA3.1  expressed amastigote surface protein 2 (ASP-2 ) (Chou et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1401" host_id="host3">
+			<immune_response refs="reference2272">The absolute number of both IFN-γ+CD8+ T cells and GZM-b+CD8+ T cells in the spleen was significantly higher in pUB-ASP-2 immunized mice. Immunization with pUB-ASP-2 promotes CD8+ T cell activation, and enhances the expression level of IFN-γ and GZM-b in CD8+ T cells (Chou et al., 2010).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2272">After being challenged with T. cruzi, mice immunized with pUB-ASP-2 developed a lower parasitemia than control pcDNA immunized groups; survival was also prolonged by immunization with pUB-ASP-2. Six out of seven pUB-ASP-2 immunized mice survived until the end of the experiment (Chou et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine806">
+		<vaccine_name>T. cruzi PAR1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0001391</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous Injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Alum</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous Injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering271" gene_id="gene764">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response564" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1357">Six-to-eight-week-old female C57BL/6 mice were immunized by subcutaneous (s.c.) injection of 40 μg of pPFR or rPFR proteins co-adsorbed to alum with 0.5 μg recombinant murine IL-12 and were boosted twice at 2-week intervals with 20 μg protein co-adsorbed to alum with 0.5 μg rIL-12 (Luhrs et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1357">rPFR-1 immunized animals were able to successfully resolve parasitemia by day 30 p.i., with the peak parasitemia occurring between days 17 and 21 p.i. (Luhrs et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1357">Two weeks after the last injection, mice were challenged with s.c. injection of 10^2 bloodstream Peru strain trypomastigotes (Luhrs et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine810">
+		<vaccine_name>T. cruzi PAR2 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0001392</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous Injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Alum</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous Injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering275" gene_id="gene763">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response568" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1357">Six-to-eight-week-old female C57BL/6 mice were immunized by subcutaneous (s.c.) injection of 40 μg of pPFR or rPFR proteins co-adsorbed to alum with 0.5 μg recombinant murine IL-12 and were boosted twice at 2-week intervals with 20 μg protein co-adsorbed to alum with 0.5 μg rIL-12 (Luhrs et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1357">rPFR-2 immunized animals were able to successfully resolve parasitemia by day 30 p.i., with the peak parasitemia occurring between days 17 and 21 p.i. (Luhrs et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1357">Two weeks after the last injection, mice were challenged with s.c. injection of 10^2 bloodstream Peru strain trypomastigotes (Luhrs et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine804">
+		<vaccine_name>T. cruzi vaccine using attenuated Salmonella expressing T. cruzi Cruzipain</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0001393</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>χ4550 attenuated Salmonella enterica serovar Typhimurium strain</vector>
+		<route>Intranasally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">IL-12</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasally</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering269" gene_id="gene756">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response563" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1349">Mice were vaccinated four times intranasally with control and cruzipain-expressing salmonella cells. The mice were lightly anesthetized with ketamine-xylazine given intraperitoneally, and salmonella vaccines were administered in 10-μl volumes of PBS. A total of 2 × 10^6 CFU of salmonella was given for primary vaccinations, and 2 × 10^7 CFU of salmonella was given for booster vaccinations. The second vaccinations were given 4 weeks after the priming doses, and the three booster vaccinations were given at 2-week intervals (Schnapp et al., 2002).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1349">As early as 15 days after immunization, the parasitemias detected in the cruzipain-immunized group were significantly lower than those in the phage10-immunized and unimmunized groups. Significantly reduced parasitemias persisted in the cruzipain-immunized group throughout the remainder of the first month postchallenge (Schnapp et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1349">One month after the final vaccinations, the mice were challenged orally with 2,000 T. cruzi IMT (Schnapp et al., 2002).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine802">
+		<vaccine_name>T. cruzi vaccine using Sendai virus vector expressing amastigote surface protein-2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0001394</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>recombinant Sendai virus vector rSeV/dF</vector>
+		<route>Intranasally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasally</route>
+		<antigen refs="reference1345">Parasite antigen amastigote surface protein-2 (ASP2) (Duan et al., 2009).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering267" gene_id="gene752">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response561" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1345">B6 mice were administrated intranasally with 5 × 10^6 CIU SeV-GFP or SeV-ASP2 (Duan et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1345">C57BL/6 mice immunized intranasally with rSeV/dF expressing ASP2 showed significantly suppressed parasitemia and could be protected from lethal T. cruzi challenge (Duan et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1345">For challenge infections, mice were inoculated with 1000 blood-derived trypomastigotes at the base of the tail 2 weeks after immunization (Duan et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene752">
+        <gene_name>amastigote surface protein-2</gene_name>
+        <strain></strain>
+        <vo_id>VO_0011289</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>284180153</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:240366
+CDD:271234</xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>amastigote surface protein-2</protein_name>
+        <protein_pi>6.84</protein_pi>
+        <protein_weight>70196.77</protein_weight>
+        <protein_length>785</protein_length>
+        <protein_note>ASP-2</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ADB82626.1 amastigote surface protein-2, partial [Trypanosoma cruzi]
+MLSRVAAVKAPRTHNRHRVTGSSGRRREGRESEPQRPDMSWRAFTSAVLLLLLVIICCGSGAADAVEGKS
+GAVQLPKWVDIFVPEKTHVLPKEGSESGVKKAFAAPSLVSAGGVMVAFAEGLFGHNVHGYDLFGIRPYEI
+LAGYIKAAESWPSIVAEVNASTWRAHTVIGSRNGNDRLCFLYRPTAVARENKVFLLVGSDTVGYDSDDDM
+WVKDGWDIQLVEGVATQSTDGKPSKTINWGEPKSLLKQVPKHTQDQLRDVVTAGGSGIVMQNNTFVFPLV
+VNGKNYPFSSITYSTDNGNNWVFPESISPVGCLDPRITEWETGQILMIVDCGNGQSVYESRDMGKTWTEA
+IGTLSGVWVKSRSGFRWDEGLRVDALITATIEGRKVMLYTQRGCASGEKEANALYLWVTDNNRTFHVGPV
+AMDSAVNETLSNALLYSDGNLHLLKQRANEKGSALSLARLTEELKEIDSVLSTWARLDASFSASSTPTAG
+LVGFLSNTSSGGDTWNDEYRCVDASVTKASKVKNGIKFTGPGSMATWLVNSREDNRQYGFVNHSFTLVAT
+VTIHQVAKGSTPLLGAGLDAPVSTNFIGLSYSMDKRWETVFYGKKTTSNTTWELGKEYQVALMLQDGNKG
+SVYVDGVIVGSPENITKLGALGHEIAHFYFGGDEGYINSSVTVTNVFLYNRPLSVGELKMVRKSDDKKGN
+GGD
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>To examine the efficacy of a new mode of recombinant viral vaccine, a vaccine was constructed of two non-transmissible Sendai viruses (rSeV/dF) encoding the full-length parasite antigen amastigote surface protein-2 (ASP2) or ASP2 fused with a mono-ubiquitin on its N-terminus (UASP2). C57BL/6 mice immunized intranasally with rSeV/dF expressing either ASP2 or UASP2 showed significantly suppressed parasitemia and could be protected from lethal T. cruzi challenge [Ref1345:Duan et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1604">
+        <gene_name>ASP1</gene_name>
+        <strain>Trypanosoma cruzi strain Sylvio X-10/4</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>1658194</ncbi_nucleotide_id>
+        <ncbi_protein_id>1658195</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAB18265.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:271234
+CDD:304605</xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>surface protein-1</protein_name>
+        <protein_pi>6.46</protein_pi>
+        <protein_weight>67801.84</protein_weight>
+        <protein_length>739</protein_length>
+        <protein_note>Non-viral sialidases; cd15482</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|1658194|gb|U74494.1|TCU74494 Trypanosoma cruzi surface protein-1 mRNA, complete cds
+GGCACGAGCGGATCCAGCGGAAGGAGGAGGGAAGGAAGAGAGAGTGAGCCGCAGAGGTTCAACATGTCCC
+GACATCACTTCTATTCCGCGGTGCTGCTTCTTGTCGTGATGATGTGCTGTGGATTTGGAGCTGCACACGC
+TGTGGAAAGTAATTTGAGGGATGCGCAGATGCCGCAATGGGTTGATATTTTTGTCTCGGGTAAGACGCGG
+GTGCTGGCAAAGGATGGGACTGAAGTCGGAGCGAGCGATTCGTTTGGCGCAGGCTCTCCTGTCATTGCTG
+GCGGAGTGATGGCTGTGGTTACTACCGGCAATTTTTTACGTGATCCTGTAATATTCCTTTCTCAATCTGA
+TGTTGTTGGGGGGTATTTCAACCCTGCGTGGGATTGGTCGTTCCTTGTCGCTAAGGTCAGTGAGGATACA
+TGGAGAGCACACACTGTGTTTCATACAGCGAATGAAACGGAACTTGTGGGTGTTGCGCGCCTTCCGACAA
+CCATTGGGAAGGGCAATAAGGTGTATCTCCTTGTGGAAAGCTATGAAAAGAAGTATGACGGCGCCGCGAA
+GAAATGGACGACGGATGGCAAGGATATCAAACTGATTGTGGGTGACGCCAGGCCGTCCACGGGCAGAAGG
+GAGAGTGGAACAATCATCTGGGGCGATCCCACATCGCTGTTACAACAGCTCACCCCAGAGACTCAAACTG
+AGTTGAAGAAGCTTGCTCCCTTTGGTGGCGCTGGTGTTCTGATGGAGAATGGCACTCTCGTGTTTCCTTT
+GTCGGGGACTAATGAACAGCGTGGGCATTCCAACAGGATCACTTACTCGACGGACGACGGCACAAACTGG
+GTGTTTCCGGCGGGTACGCCCCCTGCGGAATGTGTTGGAATCAGCATCACCGAATGGGAGACGGGACAAA
+TTCTCATGGTTACTGGATGCACGATTGGTCGCAAGGTGTACGAGTCGCGTGACATGGGGACAACGTGGAC
+GGAGGCTGTCGGGACACTCCCAGGCGTGTGGGTCAACGCACGATCAGGAACTCGTTGGACTGTTGATTTG
+TCTGTGGGATCTCTCATCACCGCGACCATTGAGGGAGTGAAGGTCATGCTGTACACTCATAAAAGATACC
+GCACTTTGGGAGAAAAAGGAGAAGGCGCTCTATCTTTGTGTCACGGACAACAGCCGCATGTTTTGGGCTT
+GGACCGATTTATGTGGAGAGTCTTTTGGAGTGAGACAGTTTCCAACAACCTGCTGCACTCGGATGGTGCG
+TTGCACATTACAAGATTAACGTATACAGGAGCCGGCACAGTCATTTCACTTGCCCGGCTAACAAGGGAAC
+TGGAGACAATCAAGTCCACCCTCAGTAATTGGAAAAAGCTGGACGCCTCCTTCTCCAAGTCGTCCACACC
+CACAGCCGGTCTGGTTGGATTTTTGTCCAACGCGGCCAGTGATGACACGTGGCTTGACGATTACGGCTGC
+GTGAATGCAAACGTGACGAGAGCAACGAAGGTTCACAACGGTTTTAAATTTATGGGGGCTGGATCCAAGG
+CAGTGTGGCCCGTGAACACCTGGGAGGAAAATACTTACTACGGCTTTGTGAACCACGATTTCACTGTTGT
+GGCGACGGTGGTCATCCACAAGGCTCCGAGTGAGAGCACTCCTCTGCTGGGTGCGGGTCTGGGAGACAAT
+GACGGCACTAAGTTTATTGGGCTGTCGTACGATGCGAACCGTAATTGGGAGACAGTGTTCAGCGCCAAAA
+AAACAGCATCGGGCAGCACTTGGGAGCCGGGGAAAGAATACCAAGTGGCGCTCATGCTGCAGGGCGCCAA
+CAAGGGCTCAGTGTACGTGGATGCCAAGCTCGTGGGGAGCCCGGAGACGTTACCAACACCTGAGACGCGG
+GGGGCTGAAATCACACATTTCTACATTGGGGGAGACGAGGGAGACAGCGGAAGCGATCTGACGGTGACGA
+ATTCCTTTCTGTACAACCGCCCACTGAGTGAAGATGAACTAAAAATGGTCAAGAAGAAAGAGGACTCCGT
+GCGTGGAGACGTGTCTCGGGTGCTCCCGCTGCTTCTGCTGGGGCTGTGGGGCCTTACGGGCCTTTACTGA</dna_sequence>
+        <protein_sequence>>AAB18265.1 surface protein-1 [Trypanosoma cruzi]
+MSRHHFYSAVLLLVVMMCCGFGAAHAVESNLRDAQMPQWVDIFVSGKTRVLAKDGTEVGASDSFGAGSPV
+IAGGVMAVVTTGNFLRDPVIFLSQSDVVGGYFNPAWDWSFLVAKVSEDTWRAHTVFHTANETELVGVARL
+PTTIGKGNKVYLLVESYEKKYDGAAKKWTTDGKDIKLIVGDARPSTGRRESGTIIWGDPTSLLQQLTPET
+QTELKKLAPFGGAGVLMENGTLVFPLSGTNEQRGHSNRITYSTDDGTNWVFPAGTPPAECVGISITEWET
+GQILMVTGCTIGRKVYESRDMGTTWTEAVGTLPGVWVNARSGTRWTVDLSVGSLITATIEGVKVMLYTHK
+RYRTLGEKGEGALSLCHGQQPHVLGLDRFMWRVFWSETVSNNLLHSDGALHITRLTYTGAGTVISLARLT
+RELETIKSTLSNWKKLDASFSKSSTPTAGLVGFLSNAASDDTWLDDYGCVNANVTRATKVHNGFKFMGAG
+SKAVWPVNTWEENTYYGFVNHDFTVVATVVIHKAPSESTPLLGAGLGDNDGTKFIGLSYDANRNWETVFS
+AKKTASGSTWEPGKEYQVALMLQGANKGSVYVDAKLVGSPETLPTPETRGAEITHFYIGGDEGDSGSDLT
+VTNSFLYNRPLSEDELKMVKKKEDSVRGDVSRVLPLLLLGLWGLTGLY
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene760">
+        <gene_name>CRP-10</gene_name>
+        <strain></strain>
+        <vo_id>VO_0011297</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1389837</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:271234
+CDD:290570</xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>complement regulatory protein</protein_name>
+        <protein_pi>4.6</protein_pi>
+        <protein_weight>102041.41</protein_weight>
+        <protein_length>1081</protein_length>
+        <protein_note>Non-viral sialidases; cd15482</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB49414.1 complement regulatory protein [Trypanosoma cruzi]
+MSRHVFASAVLLLVVVMTSCSSEATYGKEGNSRNGIIFEGGDSFSDPETENLLQAFDSFRAPSLAYVNGV
+VVATVEAHYTNSTDNKSCVSLAARSMESSGGEWTNGTAIVFDHYDVKIDRLLSPTTFVDERDGATNALVG
+GYGTSTTPLTEVTGDGKYWAPRIAAGSLIPYDDEEKKEFKWNQVASTSGVPHDLWESERTNPKRFKQFLG
+GGGACIKMEDDGRYVLPIQALKDDGKVVSLVILAKKTSYGWEFSNGTSDEGCIQPAVLEWKEKELIMMTS
+CDDGSRRVYRSSTMGNLWTEEYDTLSRVWGNSRTRVGHGAQGGFVSAMIDGQKVILVSRPVYSEKDKKET
+GRLHLWLTDMQRIYDVGPISAVGENVAASTLLYATVEAQPLKEEEPKEEKKLYCPYEVAAEDGKYNIAFV
+GLTEKLEDMRKVLAAWKEKDAQIAKEYRCGNEKNNWRSGCDARELTKGLVGLLSNKSTKNTWSDEYLCVN
+ATVHGEVESAPDGGLTFKGPGAGAKWPVGDMGQTVPYHFANDKFTLVATVSIDKAPETGSSPIPLMGVRM
+NDAQGTVLFGLSYTHDKEWRIIFNGSRLPLPAHYENVEWEANKKYHLALQMDCDDGLFVYVNGKRICDTE
+DYEDEDYEGYKSFSHKLRKLLSSHSISHFYIGGDGKSSSGNIHVTVSNALLYNRLLQDDELNPLMKTKAV
+AASEAEVSAPEGAPQNSHLGQASEKDTTPSTQNQGLSPEKSKNEKYSAGSGQTTSADFTGSSTSAAEGEV
+EEVASSSVGSASSLTPTAGEGSPQKAPETDFPATEDHFEREQEHSSLSVVRPMTEQAEEAVVATPQRKTT
+EDRPQHSTLSDASEDMEESSSHSATLTSDEQTVEPEERKDTNPHTAVGASSGPDSSHSTEVAPMDGATAA
+HEPSTDPATAQGHDEVLDGGDAAKDYLRTTPGETKIPSESNATIPLDPVILLEHGHLSDLASMALIGDST
+VHGCVSRVLLLLLLGLWGTAVLC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A complement regulatory protein (CRP) of Trypanosoma cruzi was evaluated as a vaccine candidate in a murine model of experimental T. cruzi infection. Recombinant CRP derived from an Escherichia coli expression system and a plasmid encoding the full-length crp structural gene under the control of a eukaryotic promoter were used to immunize BALB/c mice. Immunization with both protein and DNA vaccines resulted in a Th1-type T-cell response, comparable antibody titers, and similar immunoglobulin G isotype profiles. Only mice immunized with the crp DNA plasmid produced antibodies capable of lysing the parasites in the presence of complement and were protected against a lethal challenge with T. cruzi trypomastigotes [Ref1354:Sepulveda et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene756">
+        <gene_name>Cruzipain</gene_name>
+        <strain>Trypanosoma cruzi</strain>
+        <vo_id>VO_0011293</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1136308</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:185513
+CDD:214853
+CDD:278538
+CDD:239068
+CDD:288946</xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>cruzipain</protein_name>
+        <protein_pi>5.89</protein_pi>
+        <protein_weight>45513.51</protein_weight>
+        <protein_length>517</protein_length>
+        <protein_note>internal copy from a tandem array</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB41119.1 cruzipain [Trypanosoma cruzi]
+MSGWARALSLAAVLVVMACLVPAATASLHAEETLASQFAEFKQKHGRVYGSAAEEAFRLSVFRENLFLAR
+LHAAANPHATFGVTAFSDLTREEFRSRYHNGAAHFAAAQERARVPVNVEVVGAPAAVDWRARGAVTAVKD
+QGQCGSCWAFSAIGNVECQWFLAGHPLTNLSEQMLVSCDKTDSGCGGGLMNNAFEWIVQENNGAVYTEDS
+YPYASGEGISPPCTTSGHTVGATITGHVELPQDEAQIAAWLAVNGPVAVAVDASSWMTYTGGVMTSCVSE
+QLDHGVLLVGYNDSAAVPYWVIKNSWTTQWGEDGYIRIAKGSNQCLVKEEASSAVVGGPGPTPEPTTTTT
+TSAPGPSPSYFVQMSCTDAACIVGCENVTLPTGQCLLTTSGVSAIVTCGAETLTEEVFLTSTHCSGPSVR
+SSVPLNKCNRLLRGSVEFFCGSSSSGRLADVDRQRRYQPYHSRHRRL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>To study the protective effects in vivo of cruzipain-specific Th1 responses against systemic T. cruzi challenges, mice  were immunized with recombinant cruzipain plus interleukin 12 (IL-12) and a neutralizing anti-IL-4 MAb. These immunized mice developed potent cruzipain-specific memory Th1 cell responses and were significantly protected against normally lethal systemic T. cruzi challenges. To study whether cruzipain could induce mucosal immune responses relevant for vaccine development, recombinant attenuated Salmonella enterica serovar Typhimurium vaccines expressing cruzipain were prepared. BALB/c mice immunized with salmonella expressing cruzipain were significantly protected against T. cruzi mucosal infection [Ref1349:Schnapp et al., 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene762">
+        <gene_name>G2</gene_name>
+        <strain>Trypanosoma cruzi</strain>
+        <vo_id>VO_0011299</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>205278890</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>protein G2</protein_name>
+        <protein_pi>6.93</protein_pi>
+        <protein_weight>22692.17</protein_weight>
+        <protein_length>275</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACI02320.1 protein G2, partial [Trypanosoma cruzi]
+MSLSFIESGFVPSDGMCRGVEAADTSAAAELLHLAVPPLMEAGGKTRVCVAFYEAAQCPFDSRCEHAHHF
+SELNGYTQNKLLETVPVESIPKHFMAPRNSNSSSGNNKNDRTFYATDGNAANYTATAAVDGGVAHRSLGG
+GHGEKEKTSSNRRSKRTARLYDISGSNANLCDNSLSSLASSTDTLLLLGSVHDSKDVSPQKGTRRDEGME
+AFRIRLPP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The vaccine efficacy of a putative candidate antigen against T. cruzi infection and disease in a mouse model. C57BL/6 mice vaccinated with a T. cruzi G2-encoding plasmid and cytokine (interleukin-12 and granulocyte-macrophage colony-stimulating factor) expression plasmids elicited a strong Th1-type antibody response dominated by immunoglobulin G2b (IgG2b)/IgG1 isotypes. The dominant IgG2b/IgG1 antibody response was maintained after a challenge infection and was associated with 50% control of the acute-phase tissue parasite burden and an almost undetectable level of tissue parasites during the chronic phase, as determined by a sensitive T. cruzi 18S rRNA gene-specific real-time PCR approach [Ref1355:Bhatia and Garg, 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene764">
+        <gene_name>par1</gene_name>
+        <strain></strain>
+        <vo_id>VO_0011301</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>2209137</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:282940</xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>paraflagellar rod component</protein_name>
+        <protein_pi>4.95</protein_pi>
+        <protein_weight>64852.11</protein_weight>
+        <protein_length>665</protein_length>
+        <protein_note>Paraflagellar rod protein; pfam05149</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAC32021.1 paraflagellar rod component [Trypanosoma cruzi]
+MTVYHEQFALVPPQYPRRAVQEAENHRALAALYELVENAIATAENYVAYTEGRLVPLSSRGSELLAASKE
+LRERYRHEAPCGWTEQKVMQHCEQEVTVEEMAELLLRPPLDVAGIRSILRTLQETRTQLPRGRFLLMRDN
+LSALKPHQPPDLARDLSDVCGALYEIQYVDLMAELRAELSELDGERDKVQEKLKDAIHLYERAVAKGDVV
+EVERAHRQLIAARYEFVNACAKLMHQILGEDMASQESGFAAEMEALRRDAADSISRFAEALHERRQAFRN
+DLHNCDKKRLEEDGNHQKCLEVYNAEERETAAQIGQIVEQKKKLVEELRQKARELRDITLKQKEMVEAQV
+RAKRAEEERVTAYNEFVNMEEQQKHRLLRCLAYFDGMEELTADLRSYVDEMVTRIPQQNLRQVLDQLNDI
+EAEVFMNAYGGFVSCCGELTVKKMHRLDTLERQARLLEHNRDSAMESLDPNMSNYRLELDDIIEQMKGVS
+GVINALNATQDAGEQLFQSVEKGVLAKYERSGTPFVHPLQEYGIKSVEERNRFVDRSMHYVENEERKVLE
+KRNVLNRMRQAVEEDEAATESAIRNLNEEPAAPEY
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>C57BL/6 mice were immunized s.c. with recombinant PFR-1 (PAR1) protein co-adsorbed to alum with rIL-12. rPFR-1 immunized animals were able to successfully resolve parasitemia by day 30 p.i., with the peak parasitemia occurring between days 17 and 21 p.i. [Ref1357:Luhrs et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene761">
+        <gene_name>protein G4</gene_name>
+        <strain>Trypanosoma cruzi</strain>
+        <vo_id>VO_0011298</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>52424038</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>protein G4</protein_name>
+        <protein_pi>10.06</protein_pi>
+        <protein_weight>10324.13</protein_weight>
+        <protein_length>137</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAU47268.1 protein G4 [Trypanosoma cruzi]
+MSAKAPPKTLHQVRNVAYIFAAWAGLQKGFAEKSANDKMWVEHQRRLRQENAKRQHAAHALEELKQDEEL
+ERSIPTIVPKELHELVKALEK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The vaccine efficacy of a  putative candidate antigen against T. cruzi infection and disease in a mouse model. C57BL/6 mice vaccinated with a T. cruzi G4-encoding plasmid and cytokine (interleukin-12 and granulocyte-macrophage colony-stimulating factor) expression plasmids elicited a strong Th1-type antibody response dominated by immunoglobulin G2b (IgG2b)/IgG1 isotypes. The dominant IgG2b/IgG1 antibody response was maintained after a challenge infection and was associated with 90% control of the acute-phase tissue parasite burden and an almost undetectable level of tissue parasites during the chronic phase, as determined by a sensitive T. cruzi 18S rRNA gene-specific real-time PCR approach [Ref1355:Bhatia and Garg, 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene763">
+        <gene_name>Tc00.1047053434931.10</gene_name>
+        <strain>Trypanosoma cruzi strain CL Brener</strain>
+        <vo_id>VO_0011300</vo_id>
+        <ncbi_gene_id>3532027</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>71398801</ncbi_protein_id>
+        <gene_locus_tag>Tc00.1047053434931.1</gene_locus_tag>
+        <gene_refseq>AAHK01004051</gene_refseq>
+        <protein_refseq>XP_802646</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>353153</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>93194</gene_start>
+        <gene_end>93988</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>paraxonemal rod protein PAR2</protein_name>
+        <protein_pi>6.21</protein_pi>
+        <protein_weight>29966.04</protein_weight>
+        <protein_length>264</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NW_001849495.1:93194-93988 Trypanosoma cruzi strain CL Brener 1047053517073 genomic scaffold, whole genome shotgun sequence
+NCAGGACGAGGCGTGGCGCCGCATCCAGGAGCTCGAGCGTGTCCTGCAGCGTCTGGGGACGGAGCGATTT
+GAGGAGGTGAAGCGCCGCATTGAGGAGAACGACCGCGAGGAGAAGCGCAAGGTGGAGTACCAGCAGTTCC
+TGGATGTATGTGGGCAGCACAAGAAGCTGCTGGAGCTGTCGGTGTACAACTGCGACCTGGCGATGCGATG
+CATCGGGATGATGGAGGAGCTGGTGGCGGAGGGCTGCAGCGCAATCAAGTCGCGCCACGACAAGACGAAC
+GAGGAGCTGGGGGACCTGCGGCTGCAGGTGCATCAGGAGTACCTGGAGGCGTTCCGCCGCCTGTACAAGA
+CGCTGGGCCAGCTGGTGTACAAGAAGGAGAAGCGCCTGGAGGAGATTGACCGCAACATCCGCACGACGCA
+CATTCAGCTGGAGTTTGCCATCGAGACGTTTGACCCGAACGCGAAGAAGCACTCGGACGCCAAGAAGGAG
+CTGTACAAGCTCCGCGCGCAGGTGGAGGAGGAGCTGGAGATGCTGAAGGACAAGATGGCGCAGGCGCTGG
+AGATGTTTGGCCCGACCGAGGACGCGCTGAACCAGGCCGGCATTGAGTTTGTGCATCCCGCCGAGGAGGT
+GGAGGACGGCAACCTGACCCGCCGCAGCAAGATGGTCGAGTACCGTGCCCACCTGGCGAAGCAGGAGGAG
+GTGAAGATTGCGGCGGAGCGCGAGGAACTGAAGCGCTCCAAGACACTGCAGAGCCAGCAGTACCGCGGCA
+AGACGGTGCAGCAGATCACACAGTA
+
+</dna_sequence>
+        <protein_sequence>>XP_802646.1 paraxonemal rod protein PAR2, partial [Trypanosoma cruzi strain CL Brener]
+QDEAWRRIQELERVLQRLGTERFEEVKRRIEENDREEKRKVEYQQFLDVCGQHKKLLELSVYNCDLAMRC
+IGMMEELVAEGCSAIKSRHDKTNEELGDLRLQVHQEYLEAFRRLYKTLGQLVYKKEKRLEEIDRNIRTTH
+IQLEFAIETFDPNAKKHSDAKKELYKLRAQVEEELEMLKDKMAQALEMFGPTEDALNQAGIEFVHPAEEV
+EDGNLTRRSKMVEYRAHLAKQEEVKIAAEREELKRSKTLQSQQYRGKTVQQITQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>C57BL/6 mice were immunized s.c. with recombinant PFR-2 (PAR2)  protein co-adsorbed to alum with rIL-12. rPFR-2 immunized animals were able to successfully resolve parasitemia by day 30 p.i., with the peak parasitemia occurring between days 17 and 21 p.i. [Ref1357:Luhrs et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1292">
+        <gene_name>Tc24 from Trypanosoma cruzi</gene_name>
+        <strain>Trypanosoma cruzi</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>77167273</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:238008
+CDD:290234</xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Tc24 protein</protein_name>
+        <protein_pi>4.82</protein_pi>
+        <protein_weight>18914.11</protein_weight>
+        <protein_length>239</protein_length>
+        <protein_note>EF-hand, calcium binding motif; A diverse superfamily of calcium sensors and calcium signal modulators; most examples in this alignment model have 2 active canonical EF hands. Ca2+ binding induces a conformational change in the EF-hand motif, leading to...; cd00051</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABA62611.1 Tc24 protein, partial (kinetoplast) [Trypanosoma cruzi]
+RKEAWERIRQAIPREKTAEAKQRRIELFKKFDKNETGKLCYDEVHSGCLEVLKLDEFTPRVRDITKRAFD
+KARALGSKLENKGSEDFVEFLEFRLMLCYIYDFFELTVMFDEIDASGNMLVDEEEFKRAVPKLEAWGAKV
+EDPAALFKELDKNGTGSVTFDEFAAWA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene757">
+        <gene_name>TS</gene_name>
+        <strain>Trypanosoma cruzi</strain>
+        <vo_id>VO_0011294</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>258547365</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:271234
+CDD:304605</xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>trans-sialidase</protein_name>
+        <protein_pi>7.26</protein_pi>
+        <protein_weight>32935.95</protein_weight>
+        <protein_length>385</protein_length>
+        <protein_note>Non-viral sialidases; cd15482</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACV74334.1 trans-sialidase, partial [Trypanosoma cruzi]
+THPLNFKGRWLRDRLNLWLTDNQRIYNVGQVSIGDENSAYSSVLYKDDKLYCLHEINTNEVYSLVFARLV
+GELRIIKSVLQSWKNWDSHLSSICTPADPAASSSERGCGPAVTTVGLVGFLSGNASQNVWEDAYRCVNAS
+TANAERVPNGLKFAGVGGGALWPVSQQGQNQRYRFANHAFTLVASVTIHEVPSVASPLLGASLDSSGGKK
+LLGLSYDEKHQWQPIYGSTPVTPTGSWETGKRYHVVLTMANKMGSVYIDGEPLEGSGQTVAPDERTPDIS
+HFYVGGYKRSDMPTISHVTVNNVLLYNRQLNAEEIRTLFLSQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>To develop a vaccine strategy taking advantage of activated CD8(+)T cells,a DNA vaccine, designated pGFP-TSA1, encoding a fusion protein linking GFP to a single CTL epitope of TSA1(TS), a leading candidate for vaccine against T. cruzi was constructed. C57BL/6 mice vaccinated with this plasmid showed suppressed parasitemia and prolonged survival. Vaccination with pGFP-TSA1 enhanced epitope-specific cytotoxicity and IFN-gamma secretion by CD8(+)T cells [Ref1350:Chou et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene759">
+        <gene_name>TSA-1</gene_name>
+        <strain></strain>
+        <vo_id>VO_0011296</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>162315</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:271234
+CDD:290570
+CDD:304605
+CDD:281915</xrefs>
+        <taxonomy_id>5693</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>trypomastigote surface glycoprotein</protein_name>
+        <protein_pi>4.51</protein_pi>
+        <protein_weight>84400.87</protein_weight>
+        <protein_length>916</protein_length>
+        <protein_note>Non-viral sialidases; cd15482</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA30259.1 trypomastigote surface glycoprotein [Trypanosoma cruzi]
+MSRRHFYSAVLLLLLVVMVCGGSGAAHAVERNSGDLQLPQEIAMLVPNKTQVVPKSGGEGKVKDIFASPA
+LVRAGGVMIAFVEGRTKNKLFPEVIDLSSSDIVAGYIKAPETWQSLVAEVTKEYWQAHTVLESANNSNHR
+VGVARLPTGITRGNKVFLLVGSYEERREIDDYIWKAEAWNIKVIEGEATQSTEVQPTQPINWSEPKPLFQ
+TDSPNNKGDLKEFLGGGGSGIVMGNGTLVFPLTAKDESNKVFSLITYSTDDGQKWEIPGGVSSVACRSPR
+VTEWEEGTLLMVTYCEDGRKVFESRDMGKTWTEAFGTLPGVWLKSGPELPEVSLRVDALITATIEGRKVM
+LYTQKVRHFLEVDEPNALHLWVTDNNRTFHLGPFSVDCAENKTFANTLLYSDDALHLLQAKGDHESTAVS
+LARLTEELNTINSVLSTWVQLDASFSESSIPTAGLVGFLSNTTSSGDTWIDGYRCMNATVTKAAKVENGF
+KFTGPGSRATWPVNSRWDIKQYGFVDYNFTIVAMATIHQVPSESTPLLGASLRGNKRTKLIGLSYGAGGK
+WETVYDGTKTVQGGTWEPGREYQVALMLQDGNKGFVYVDGVLVGNPAMLPTPEERWTEFSHFYFGGDEGD
+SGSDATLTDVFLYNRPLSVGELKMIKEVEDKKEKGSGDSEDKKESGDSEDKKESGDSEDKKGSGDSEDKK
+ESGDSEDKKESGDSEDKKGSGDGAFTPAVSNATTHTAEEETVNQSASGTFSITDSTEGDVSSDENGETTG
+GADGQEEDIQPQDGEANAAALGLALKSSLGTSSQWDGSVAGTMRESRVLLPSLFLLLGLWGFAAL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Following the intramuscular immunization of H-2(b) and H-2(d) mice with a plasmid DNA encoding an N-terminally truncated TSA-1 lacking or containing the C-terminal nonapeptide tandem repeats, the antibody level, CTL response, and protection against challenge with T. cruzi were assessed. In H-2(b) mice, antiparasite antibodies were induced only by immunization with the DNA construct encoding TSA-1 containing the C-terminal repeats. However, both DNA constructs were efficient in eliciting long-lasting CTL responses against the protective H-2Kb-restricted TSA-1515-522 epitope. In H-2(d) mice, inoculation with either of the two TSA-1-expressing vectors effectively generated antiparasite antibodies and primed CTLs that lysed T. cruzi-infected cells in an antigen-specific, MHC class I-restricted, and CD8(+)-T-cell-dependent manner. When TSA-1 DNA-vaccinated animals were challenged with T. cruzi, 14 of 22 (64%) H-2(b) and 16 of 18 (89%) H-2(d) mice survived the infection [Ref1352:Wizel et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2271">
+		<reference_name>AraÃºjo et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>AraÃºjo AF, de Alencar BC, Vasconcelos JR, Hiyane MI, Marinho CR, Penido ML, Boscardin SB, Hoft DF, Gazzinelli RT, Rodrigues MM</authors>
+		<title>CD8+-T-cell-dependent control of Trypanosoma cruzi infection in a highly susceptible mouse strain after immunization with recombinant proteins based on amastigote surface protein 2</title>
+		<year>2005</year>
+		<volume>73</volume>
+		<issue>9</issue>
+		<pages>6017-6025</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5052">
+		<reference_name>Barry et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Barry MA, Wang Q, Jones KM, Heffernan MJ, Buhaya MH, Beaumier CM, Keegan BP, Zhan B, Dumonteil E, Bottazzi ME, Hotez PJ</authors>
+		<title>A therapeutic nanoparticle vaccine against Trypanosoma cruzi in a BALB/c mouse model of Chagas disease</title>
+		<year>2016</year>
+		<volume>12</volume>
+		<issue>4</issue>
+		<pages>976-987</pages>
+		<journal_book_name>Human vaccines &amp; immunotherapeutics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1355">
+		<reference_name>Bhatia and Garg, 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bhatia V, Garg NJ</authors>
+		<title>Previously unrecognized vaccine candidates control Trypanosoma cruzi infection and immunopathology in mice</title>
+		<year>2008</year>
+		<volume>15</volume>
+		<issue>8</issue>
+		<pages>1158-1164</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2042">
+		<reference_name>Carabarin-Lima A, et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Carabarin-Lima A, González-Vázquez MC, Baylon-Pacheco L, Tsutsumi V, Talamas-Rohana P, Rosales-Encina JL</authors>
+		<title>Immunization with the recombinant surface protein rTcSP2 alone or fused to the CHP or ATPase domain of TcHSP70 induces protection against acute Trypanosoma cruzi infection</title>
+		<year>2011</year>
+		<volume>1</volume>
+		<issue>3</issue>
+		<pages></pages>
+		<journal_book_name>journal of vaccines and vaccination</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.omicsonline.org/2157-7560/2157-7560-1-110.php</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1350">
+		<reference_name>Chou et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chou B, Hisaeda H, Shen J, Duan X, Imai T, Tu L, Murata S, Tanaka K, Himeno K</authors>
+		<title>Critical contribution of immunoproteasomes in the induction of protective immunity against Trypanosoma cruzi in mice vaccinated with a plasmid encoding a CTL epitope fused to green fluorescence protein</title>
+		<year>2008</year>
+		<volume>10</volume>
+		<issue>3</issue>
+		<pages>241-250</pages>
+		<journal_book_name>Microbes and infection / Institut Pasteur</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2272">
+		<reference_name>Chou et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chou B, Hiromatsu K, Hisaeda H, Duan X, Imai T, Murata S, Tanaka K, Himeno K</authors>
+		<title>Genetic immunization based on the ubiquitin-fusion degradation pathway against Trypanosoma cruzi</title>
+		<year>2010</year>
+		<volume>392</volume>
+		<issue>3</issue>
+		<pages>277-282</pages>
+		<journal_book_name>Biochemical and biophysical research communications</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1345">
+		<reference_name>Duan et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Duan X, Yonemitsu Y, Chou B, Yoshida K, Tanaka S, Hasegawa M, Tetsutani K, Ishida H, Himeno K, Hisaeda H</authors>
+		<title>Efficient protective immunity against Trypanosoma cruzi infection after nasal vaccination with recombinant Sendai virus vector expressing amastigote surface protein-2</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>44</issue>
+		<pages>6154-6159</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5049">
+		<reference_name>Egui et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Egui A, Thomas MC, Morell M, Mara��n C, Carrilero B, Segovia M, Puerta CJ, Pinazo MJ, Rosas F, Gasc�n J, L�pez MC</authors>
+		<title>Trypanosoma cruzi paraflagellar rod proteins 2 and 3 contain immunodominant CD8(+) T-cell epitopes that are recognized by cytotoxic T cells from Chagas disease patients</title>
+		<year>2012</year>
+		<volume>52</volume>
+		<issue>3-4</issue>
+		<pages>289-298</pages>
+		<journal_book_name>Molecular immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2273">
+		<reference_name>Eickhoff et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Eickhoff CS, Vasconcelos JR, Sullivan NL, Blazevic A, Bruna-Romero O, Rodrigues MM, Hoft DF</authors>
+		<title>Co-administration of a plasmid DNA encoding IL-15 improves long-term protection of a genetic vaccine against Trypanosoma cruzi</title>
+		<year>2011</year>
+		<volume>5</volume>
+		<issue>3</issue>
+		<pages>e983</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2270">
+		<reference_name>Garg and Tarleton, 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Garg N, Tarleton RL</authors>
+		<title>Genetic immunization elicits antigen-specific protective immune responses and decreases disease severity in Trypanosoma cruzi infection</title>
+		<year>2002</year>
+		<volume>70</volume>
+		<issue>10</issue>
+		<pages>5547-5555</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5037">
+		<reference_name>Knight et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Knight JM, Zingales B, Bottazzi ME, Hotez P, Zhan B</authors>
+		<title>Limited antigenic variation in the Trypanosoma cruzi candidate vaccine antigen TSA-1</title>
+		<year>2014</year>
+		<volume>36</volume>
+		<issue>12</issue>
+		<pages>708-712</pages>
+		<journal_book_name>Parasite immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2274">
+		<reference_name>Limon-Flores et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Limon-Flores AY, Cervera-Cetina R, Tzec-Arjona JL, Ek-Macias L, SÃ¡nchez-Burgos G, Ramirez-Sierra MJ, Cruz-Chan JV, VanWynsberghe NR, Dumonteil E</authors>
+		<title>Effect of a combination DNA vaccine for the prevention and therapy of Trypanosoma cruzi infection in mice: role of CD4+ and CD8+ T cells</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>46</issue>
+		<pages>7414-7419</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1357">
+		<reference_name>Luhrs et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Luhrs KA, Fouts DL, Manning JE</authors>
+		<title>Immunization with recombinant paraflagellar rod protein induces protective immunity against Trypanosoma cruzi infection</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>21-22</issue>
+		<pages>3058-3069</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2650">
+		<reference_name>Quijano-HernÃ¡ndez et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Quijano-HernÃ¡ndez IA, Castro-Barcena A, VÃ¡zquez-ChagoyÃ¡n JC, Bolio-GonzÃ¡lez ME, Ortega-LÃ³pez J, Dumonteil E</authors>
+		<title>Preventive and therapeutic DNA vaccination partially protect dogs against an infectious challenge with Trypanosoma cruzi</title>
+		<year>2013</year>
+		<volume>31</volume>
+		<issue>18</issue>
+		<pages>2246-2252</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1356">
+		<reference_name>Rassi et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rassi A Jr, Rassi A, Marin-Neto JA</authors>
+		<title>Chagas disease</title>
+		<year>2010</year>
+		<volume>375</volume>
+		<issue>9723</issue>
+		<pages>1388-1402</pages>
+		<journal_book_name>Lancet</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3347">
+		<reference_name>Rudd et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rudd BD, Schaller MA, Smit JJ, Kunkel SL, Neupane R, Kelley L, Berlin AA, Lukacs NW</authors>
+		<title>MyD88-mediated instructive signals in dendritic cells regulate pulmonary immune responses during respiratory virus infection</title>
+		<year>2007</year>
+		<volume>178</volume>
+		<issue>9</issue>
+		<pages>5820-5827</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2275">
+		<reference_name>Sanchez-Burgos et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sanchez-Burgos G, Mezquita-Vega RG, Escobedo-Ortegon J, Ramirez-Sierra MJ, Arjona-Torres A, Ouaissi A, Rodrigues MM, Dumonteil E</authors>
+		<title>Comparative evaluation of therapeutic DNA vaccines against Trypanosoma cruzi in mice</title>
+		<year>2007</year>
+		<volume>50</volume>
+		<issue>3</issue>
+		<pages>333-341</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1349">
+		<reference_name>Schnapp et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schnapp AR, Eickhoff CS, Sizemore D, Curtiss R 3rd, Hoft DF</authors>
+		<title>Cruzipain induces both mucosal and systemic protection against Trypanosoma cruzi in mice</title>
+		<year>2002</year>
+		<volume>70</volume>
+		<issue>9</issue>
+		<pages>5065-5074</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1354">
+		<reference_name>Sepulveda et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sepulveda P, Hontebeyrie M, Liegeard P, Mascilli A, Norris KA</authors>
+		<title>DNA-Based immunization with Trypanosoma cruzi complement regulatory protein elicits complement lytic antibodies and confers protection against Trypanosoma cruzi infection</title>
+		<year>2000</year>
+		<volume>68</volume>
+		<issue>9</issue>
+		<pages>4986-4991</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2513">
+		<reference_name>Vasconcelos et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vasconcelos JR, Hiyane MI, Marinho CR, Claser C, Machado AM, Gazzinelli RT, BruÃ±a-Romero O, Alvarez JM, Boscardin SB, Rodrigues MM</authors>
+		<title>Protective immunity against trypanosoma cruzi infection in a highly susceptible mouse strain after vaccination with genes encoding the amastigote surface protein-2 and trans-sialidase</title>
+		<year>2004</year>
+		<volume>15</volume>
+		<issue>9</issue>
+		<pages>878-886</pages>
+		<journal_book_name>Human gene therapy</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1352">
+		<reference_name>Wizel et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wizel B, Garg N, Tarleton RL</authors>
+		<title>Vaccination with trypomastigote surface antigen 1-encoding plasmid DNA confers protection against lethal Trypanosoma cruzi infection</title>
+		<year>1998</year>
+		<volume>66</volume>
+		<issue>11</issue>
+		<pages>5073-5081</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

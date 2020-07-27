@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen49">
+		<pathogen_name>Hepatitis B virus</pathogen_name>
+		<taxon_id>10407</taxon_id>
+		<pathogenesis refs="reference718">HBV primarily interferes with the functions of the liver by replicating in hepatocytes. HBV virions bind to the host cell via the preS domain of the viral surface antigen, leading to subsequent internalization through endocytosis. HBV-preS specific receptors are primarily expressed on hepatocytes. During HBV infection, the host immune response causes both hepatocellular damage and viral clearance. The innate immune response does not play a significant role in these processes. The adaptive immune response, particularly virus-specific cytotoxic T lymphocytes (CTLs), contributes to most of the liver injury associated with HBV infection. Liver damage is initiated and mediated by the CTLs. Antigen-nonspecific inflammatory cells can worsen CTL-induced immunopathology (Wiki: Hepatitis B).</pathogenesis>
+		<disease_name>Hepatitis B</disease_name>
+		<protective_immunity refs="reference718">During HBV infection, the host immune response causes both hepatocellular damage and viral clearance. Although the innate immune response does not play a significant role in these processes, the adaptive immune response, particularly virus-specific cytotoxic T lymphocytes (CTLs), contributes to most of the liver injury associated with HBV infection. By killing infected cells and by producing antiviral cytokines capable of purging HBV from viable hepatocytes, CTLs eliminate the virus. Although liver damage is initiated and mediated by the CTLs, antigen-nonspecific inflammatory cells can worsen CTL-induced immunopathology, and platelets activated at the site of infection may facilitate the accumulation of CTLs in the liver (Wiki: Hepatitis B).</protective_immunity>
+		<host_range refs="reference718">Hepatitis B virus infects the liver of apes including humans (Wiki: Hepatitis B).</host_range>
+		<introduction refs="reference718">Hepatitis B virus is a DNA virus that infects the liver of hominoidae (including humans) and causes hepatitis. It has caused epidemics in parts of Asia and Africa. About a third of the world's population, more than 2 billion people, have been infected with the hepatitis B virus. The acute illness causes liver inflammation, vomiting, jaundice and - rarely - death. Chronic hepatitis B may eventually cause liver cirrhosis and liver cancer. This disease is preventable by vaccination (Wiki: Hepatitis B).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3180">
+		<vaccine_name>COMVAX</vaccine_name>
+		<proper_name>Haemophilus b Conjugate (Meningococcal Protein Conjugate) and Hepatitis B (Recombinant) Vaccine</proper_name>
+		<brand_name>COMVAX</brand_name>
+		<manufacturer>Merck &amp; Co., Inc</manufacturer>
+		<vo_id>VO_0000028</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="reference2511">Store vaccine at 2-8°C (36-46*F). Storage above or belew the recommended temperature may reduce potency. DO NOT FREEZE since freezing destroys potency (FDA COMVAX).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3516">
+		<vaccine_name>Duck hepatitis B DNA vaccine pcDNA I-S  encoding small S proteins</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004353</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA I/Amp [Ref2246:Triyatni et al., 1998]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2246">S protein from DHBV Australian strain (Triyatni et al., 1998)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1547" gene_id="gene1702">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1361" host_id="host9">
+			<immune_response refs="reference2246">The S-DNA vaccine was able to elicit humoral immune responses against DHBV surface proteins in ducks. In addition, The S-DNA vaccine induced high titers of anti-DHBs antibodies, and anti-S antibodies induced by the S-DNA construct were highly effective in neutralizing virus infectivity. (Triyatni et al., 1998).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2246">Vaccination of ducks with S DNA vaccines prevented the development of viremia following virus challenge. All ducks were challenged with a high-titer dose of DHBV virus. Preincubation of the virus with 5, 10, or, 20 μl of anti-S serum at 37°C for 1 hour prior to i.v. inoculation into 1-day-old ducklings completely prevented the development of viremia during a 4-week observation period in all of the ducks (Triyatni et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine323">
+		<vaccine_name>Engerix-B</vaccine_name>
+		<proper_name>Hepatitis B Vaccine (Recombinant)</proper_name>
+		<brand_name>Engerix-B</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0010711</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA (License #1617)</location_licensed>
+		<description refs="reference761">ENGERIX-B is a sterile suspension of noninfectious hepatitis B virus surface antigen (HBsAg) for intramuscular administration. It is manufactured by GlaxoSmithKline Biologicals. It is licensed for human use in USA (FDA: ENGERIX-B).</description>
+		<adjuvant refs="">aluminum hydroxide</adjuvant>
+		<storage refs="">Store refrigerated between 2° and 8°C (36° and 46°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference761">ENGERIX-B contains purified surface antigen of the virus obtained by culturing genetically engineered Saccharomyces cerevisiae cells, which carry the surface antigen gene of the hepatitis B virus. The surface antigen expressed in Saccharomyces cerevisiae cells is purified by several physicochemical steps and formulated as a suspension of the antigen adsorbed on aluminum hydroxide. Each 0.5-mL dose contains 10 mcg of hepatitis B surface antigen adsorbed on 0.25 mg aluminum as aluminum hydroxide (FDA: ENGERIX-B).</preparation>
+		<route refs=""></route>
+		<antigen refs="">Hepatitis B surface antigen</antigen>
+		<host_response host_response_id="host_response418" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="">Many clinical trials were conducted on subjects ranging in ages from 6 months old to 65 years.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side Effects of vaccination with ENGERIX-B include: redness, swelling and pain of the injection site, fever, headache and dizziness</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3068">
+		<vaccine_name>HBsAg Liposomal MTP-PE Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004239</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference1893">HBsAg (Jain et al., 2009).</antigen>
+		<host_response host_response_id="host_response898" host_id="host3">
+			<immune_response refs="reference1893">The incorporation of MTP-PE on the liposomal HBsAg increased the stimulation index (SI) four to five times as compared to plain HBsAg solution, and it also induced significantly higher Th1 cellular immune response with a predominant IFN-γ level (Jain et al., 2009).</immune_response>
+			<host_strain refs="">Swiss</host_strain>
+			<vaccination_protocol refs="reference1893">Alum-adsorbed antigen, liposomes (with or without MTP-PE and with or without MDP-GDP) with HBsAg antigen or liposomes (with or without MTP-PE and with or without MDP-GDP) without HBsAg antigen, in a dose equivalent to 10 μg HBsAg were injected intramuscularly and recombinant pure HBsAg was used as control. The immunomodulator doses given with each injection were 20 μg of MTP-PE and 10 μg of MDP-GDP. Secondary immunization was done after 4 weeks with the same formulations (Jain et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3528">
+		<vaccine_name>Hepatitis B DNA vaccine pCEA/HBsAg encoding CEA and HBsAg</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004359</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 [Ref2253:Conry et al., 2002]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1076" gene_id="gene1284">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2253">Vector pcDNA3 expressed carcinoembryonic antigen (CEA) and hepatitis B surface antigen (HBsAg) (Conry et al., 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1371" host_id="host2">
+			<immune_response refs="reference2253">CEA-specific antibody and lymphoproliferative responses have been reported after vaccination with an anti-idiotype monoclonal antibody mimicking a portion of the CEA molecule in patients with colorectal carcinoma (Conry et al., 2002).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2253">Repetitive dosing of pCEA/HBsAg induced HBsAg antibodies in 6 of 8 patients, with protective antibody levels achieved in 4 of these patients.  (Conry et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3525">
+		<vaccine_name>Hepatitis B DNA vaccine pCMV-HBs encoding HBsAg</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004358</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMV [Ref2251:Davis et al., 1993]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1073" gene_id="gene1284">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2251">Vector pCMV expressed HBV surface antigen (HBsAg) (Davis et al., 1993).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1368" host_id="host3">
+			<immune_response refs="reference2251">The serum concentration of secreted HBsAg after a one-time injection of DNA was sufficient to induce the production of anti-HBsAg 10 days after injection, and the antibody levels continued to increase for up to at least 60 days. Direct intramuscular injection of the plasmid vector encoding the HBsAg leads to secretion of the viral surface protein into the circulation, in the form of empty particles (Davis et al., 1993).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2251">A level of 10 mlU/ml of anti-HBsAg antibody is recognized as being sufficient in humans to confer protection against natural Hepatitis B virus infection. This level of antibody response was achieved in 68% of mice vaccinated with the vaccine candidate at two weeks after vaccination. By 8 wks, all mice had &gt;100 mIU anti-HBsAg in their sera, suggesting sufficient vaccine efficacy (Davis et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3533">
+		<vaccine_name>Hepatitis B DNA vaccine pCMV-S2.S encoding the HBV(ayw Strain) envelope protein.</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004360</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 [Ref2256:Davis et al., 1996]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1548" gene_id="gene1703">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1549" gene_id="gene1704">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1382" host_id="host42">
+			<immune_response refs="reference2256">Immunization of chimpanzees with HBsAg-expressing plasmid DNA induced specific anti-HBs antibodies. The higher dose of DNA (2 mg) induced significant titers (&gt;100 mIU/ml) of anti-HBs after the initial injection of DNA. These titers never went below the 10 mIU/ml level considered adequate to confer protection (Davis et al., 1996).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2256">The outcome of challenge with live HBV of the ayw strain was strongly correlated with the anti-HBs titers. Of the eight chimpanzees with a titer &gt;10 mIU/ml, all were protected from infection except for one, which had the lowest anti-HBs titer at 12 mIU/ml. These findings agree closely with the critical protective level of 10 mIU/ml determined for humans by the Centers for Disease Control (Davis et al., 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3510">
+		<vaccine_name>Hepatitis B DNA vaccine PLGA–CTAB–DNA encoding the small envelope gene</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004352</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX(S), derived from pVAX1 [Ref2244:He et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2244">PLG/PLGA, CTAB (He et al., 2005)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1060" gene_id="gene1279">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2244">Vector pVAX(S) expressed the small envelope gene of HBV (He et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1355" host_id="host3">
+			<immune_response refs="reference2244">PLGA–CTAB–DNA optimizes two key features during antigen presentation, controlled release and targeted delivery, which might be involved in the mechanisms of its augmented immunogenicity and enhanced immunoprotection (He et al., 2005)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2244">Mice immunized with PLGA–CTAB–pVAX(S) (20 μg per mouse) or naked pVAX(S) (100 μg per mouse) after a challenge of transplanted HBsAg-expressing tumor cells showed weak protection efficacy, resulting in a final survival rate of 10% or 20% at week 15. However, mice immunized with PLGA–CTAB–pVAX(S) at the dose of 100 μg per mouse displayed a strong inhibition on tumor formation and a remarkable improvement in final survival rate (60%) (He et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2244">Challenge with transplanted HBsAg-expressing tumor cells (He et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3519">
+		<vaccine_name>Hepatitis B DNA vaccine pRc/CMV-HBs(S) encoding HBsAg</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004354</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMV-S [Ref2248:Khatri et al., 2008]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2248">Chitosan (Khatri et al., 2008)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1067" gene_id="gene1284">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2248">This DNA vaccine expressed the HBV surface antigen (HBsAg) (Khatri et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1363" host_id="host3">
+			<immune_response refs="reference2248">When mice are immunized with recombinant HBsAg, the main type of immune response generated is the antibody response. However, a Th1/CTL response was also elicited, which is important to facilitate eradication of HBV infection and can be utilized for therapeutic immunization of HBV chronic carriers (Khatri et al., 2008).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2248">Nasal administration of nanoparticles resulted in serum anti-HBsAg titre that was less compared to that elicited by naked DNA and alum adsorbed HBsAg, but the mice were seroprotective within 2 weeks and the immunoglobulin level was above the clinically protective level (&gt;10 mIU/ml) suggesting successful generation of systemic immunity. Levels of 1 and 10 mIU/ml are well-established standards for anti-HBs antibody levels in mice and humans, respectively and are considered sufficient to confer protection against the disease (Khatri et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3524">
+		<vaccine_name>Hepatitis B DNA vaccine pS encoding major envelope proteins</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004357</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 [Ref2250:Chow et al., 1998]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2250">IL-2 (Chow et al., 1998)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1072" gene_id="gene1287">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2250">Vector pcDNA3 expressed HBV major envelope proteins (Chow et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1367" host_id="host3">
+			<immune_response refs="reference2250">Coexpression of IL-2 and hepatitis B virus HBV^3 envelope protein within the same plasmid vector resulted in a dramatic increase in its ability to induce humoral and cellular immune responses to HBsAg. Also, the IL-2 adjuvant activity helps the HBV DNA vaccine elicit high anti-HBs titers in animals that usually fail to respond to rHBsAg vaccination (Chow et al., 1998)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2250">Four of five mice immunized with pS + pcDNA3 and challenged with CT26/S showed an inhibition of tumor growth. The protective efficacy was dramatically increased when the IL-12 gene was coinjected with plasmid pS because tumor growth was significantly suppressed, and two of five mice remained tumor free up to 60 days following tumor challenge (Chow et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3093">
+		<vaccine_name>Hepatitis B surface antigen (HBsAg) with JVRS-1000</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004260</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2024">Hepatitis B surface antigen (HBsAg) (Morrey et al., 2011).</antigen>
+		<host_response host_response_id="host_response922" host_id="host3">
+			<immune_response refs="reference2024">JVRS-100 combined with hepatitis B surface antigen (HBsAg) broke tolerance by stimulating significant B and T cell responses. The combination of HBsAg + JVRS-100 elicited a T cell response as indicated by increased levels of IFN-γ in splenocyte cell-culture supernatant (Morrey et al., 2011).</immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference2024">HBV transgenic mice were vaccinated with  HBsAg (i.m., 5 μg), or HBsAg plus JVRS-100 (i.v., 10 μg) in female C57BL/6 mice (&gt;6 weeks). Animals were treated on days 1, 22, and 43 (Morrey et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine965">
+		<vaccine_name>Hepatitis B virus DNA vaccine encoding HBVgp2 pre-S1/pre-S2/S</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011411</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI expression vector (Promega, Charbonières, France)</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Hepatitis B virus HBVgp2 pre-S1/pre-S2/S</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering449" gene_id="gene1705">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1107">The pCI expression vector (Promega, Charbonières, France) was used to clone the entire DHBV large envelope gene into Not I polylinker site leading to the pCI-preS/S plasmid [5] and the DHBV core gene leading to pCI-C plasmid (Thermet, submitted). The pCI-preS/S, pCI-C and the native pCI plasmids were purified by Endotoxin Free Giga prep (Qiagen, Hilden, Germany) (Thermet et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response722" host_id="host9">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Pekin</host_strain>
+			<vaccination_protocol refs="reference1107">Four-week-old ducks received intramuscular (i.m.) injections of 100–300 μg of plasmid DNA diluted in NaCl 0.9%. The birds were injected in three sites (anterior quadriceps of both legs and breast), and booster doses were given 3 weeks later at the same sites (Thermet et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1107">Immunisation with a plasmid encoding the DHBV large (L) envelope protein (HBVgp2 pre-S1/pre-S2/S) induced a strong, specific, highly neutralising and long-lasting anti-preS humoral response in uninfected ducks. Importantly, maternal antibodies elicited by such DNA immunisation were vertically transmitted and protected progeny against viral challenge (Thermet et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1107">Progeny ducklings received a high titre DHBV challenge and the viremia was followed by quantitative dot blot hybridisation for each animal during 17 days (Thermet et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine968">
+		<vaccine_name>Hepatitis B virus DNA vaccine pVAX-PS</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011404</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>Plasmid vector pVAX1</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Hepatitis B virus preS2 middle surface protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering451" gene_id="gene496">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1106">pVAXPS was constructed by inserting the gene encoding the middle (pre-S2 plus S) envelope protein of HBV into a plasmid vector pVAX1 (Zhou et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response724" host_id="host44">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1106">Sixty adult tree shrews purchased from the Kunming Animal Institute were randomly divided into four groups and immunized twice at 2-week intervals with the DNA vaccine by i.m. injection of 100 mg of pVAX-PS or pVAX1 in a volume of 100 ml in bilateral quadriceps (Zhou et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1106">The immunological protection of pVAX-PS, a DNA vaccine, was assessed in the tree shrews model. pVAX-PS was constructed by inserting the gene encoding the middle (pre-S2 plus S) envelope protein of HBV into a plasmid vector pVAX1.  Results indicated that pVAX-PS immunization could induce remarkable humoral immune response and prevent the experimental tree shrews from infection of HBV (Zhou et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1106">Two weeks after the second DNA immunization, tree shrews in two groups (immunized with pVAX-PS and pVAX1, respectively) were challenged through the caudal vein with 0.8 ml of the patient’s serum positive for the HBV marker (Zhou et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3227">
+		<vaccine_name>Hepatitis B virus X protein mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002969</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intrahepatic immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intrahepatic immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering766" gene_id="gene498">
+			<type>Gene mutation</type>
+			<description refs="reference1307">.This X protein is from Hepatitis B virus (Zhang et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1056" host_id="host57">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1307">An X protein mutant is attenuated in woodchucks (Zhang et al., 2001).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1307">An X protein mutant induces significant protection in woodchucks from challenge with wild type Hepatitis B virus (Zhang et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine581">
+		<vaccine_name>Infanrix-hexa</vaccine_name>
+		<proper_name>Combined diphtheria and tetanus toxoids, acellular pertussis, hepatitis B (recombinant), inactivated poliomyelitis and adsorbed conjugated Haemophilus influenzae type b vaccine</proper_name>
+		<brand_name>Infanrix-hexa</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010719</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed viruses + conjugate. Other components: Yeast protein Formaldehyde, Lactose, Polysorbate 20 and 80.</description>
+		<adjuvant refs="">Aluminum phosphate and aluminum hydroxide</adjuvant>
+		<storage refs="">Should be stored at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine610">
+		<vaccine_name>Pediarix</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Hepatitis B (Recombinant) and Inactivated Poliovirus Vaccine Combined</proper_name>
+		<brand_name>Pediarix</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0000082</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617), Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Yeast protein Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum Hydroxide</adjuvant>
+		<storage refs="">The vaccine should be refrigerated between 2º and 8ºC (36º and 46ºF). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3082">
+		<vaccine_name>recombinant S gene Hepatitis B Vaccine with rIFN-gamma</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004251</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference1943">Recombinant S gene of hepatitis B (Quiroga et al., 1990).</antigen>
+		<host_response host_response_id="host_response912" host_id="host2">
+			<immune_response refs="reference1943">The titers of anti-HBs achieved among patients who received vaccine and rIFN-gamma were higher than among those receiving the vaccine alone (Quiroga et al., 1990).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1943">81 adult white hemodialysis patients (46 men, 35 women aged  19-65 yrs) with no serological evidence of immunity to hepatitis B were used in the study. Patients were randomly allocated to one of two groups. Group I comprised 41 patients who recieved 40&amp;mu;g of recombinant (S gene) hepatitis B vaccine by i.m. injection and 0,1, and 6 months. Group II comprised 40 patients who received 40 &amp;mu;g of  recombinant (S gene) hepatitis B vaccine given intramuscularly with 2 million units (MU) of rIFN-gamma/m^2 body surface given subcutaneously at 0,1, and 6 months (Quiroga et al., 1990).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine322">
+		<vaccine_name>Recombivax HB</vaccine_name>
+		<proper_name>Hepatitis B Vaccine (Recombinant)</proper_name>
+		<brand_name>Recombivax HB</brand_name>
+		<manufacturer>Merck &amp; Co, Inc</manufacturer>
+		<vo_id>VO_0010737</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store vials and syringes at 2-8°C (36-46°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference748">RECOMBIVAX HB is a sterile suspension for intramuscular injection. It is a non-infectious subunit viral vaccine derived from hepatitis B surface antigen (HBsAg) produced in yeast cells. A portion of the hepatitis B virus gene, coding for HBsAg, is cloned into yeast, and the vaccine for hepatitis B is produced from cultures of this recombinant yeast strain according to methods developed in the Merck Research Laboratories. The antigen is harvested and purified from fermentation cultures of a recombinant strain of the yeast Saccharomyces cerevisiae containing the gene for the adw subtype of HBsAg (Merck: Recombivax HB).</preparation>
+		<route refs=""></route>
+		<antigen refs="">Hepatitis B surface antigen (HBsAg) produced in yeast cells.</antigen>
+		<host_response host_response_id="host_response419" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects included: pain, redness and swelling of the injection site, fatigue, fever, headache and nausea.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine350">
+		<vaccine_name>Twinrix</vaccine_name>
+		<proper_name>Hepatitis A Inactivated &amp; Hepatitis B (Recombinant) Vaccine</proper_name>
+		<brand_name>Twinrix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000113</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617), Canada</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">TWINRIX should be refrigerated between 2° and 8° C (36° and 46° F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">TWINRIX is a sterile suspension of inactivated hepatitis A virus (strain HM175) propagated in MRC-5 cells, and combined with purified surface antigen of the hepatitis B virus.</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response424" host_id="host2">
+			<immune_response refs="reference764">In clinical trials, it has been found that combining the hepatitis A antigen with the hepatitis B surface antigen in TWINRIX resulted in comparable anti-HAV or anti-HBsAg titers, relative to vaccination with the individual monovalent vaccines or the concomitant administration of each vaccine in opposite arms (FDA: TWINRIX).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects of immunization included: redness, itching and swelling of the injection site, headache and fatigue. Severe adverse effects were limited and resolved in a timely matter.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine637">
+		<vaccine_name>Twinrix Junior</vaccine_name>
+		<proper_name>Combined hepatitis A and hepatitis B vaccine</proper_name>
+		<brand_name>Twinrix Junior</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010743</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Recombinant protein + killed virus. Other components: Yeast protein Formaldehyde, Polysorbate 20.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">between 2° and 8° C (36° and 46° F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene496">
+        <gene_name>envelope</gene_name>
+        <strain>Hepatitis B virus</strain>
+        <vo_id>VO_0011094</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>113207330</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279085
+GOA:Q0KG42
+InterPro:IPR000349
+UniProtKB/TrEMBL:Q0KG42</xrefs>
+        <taxonomy_id>10407</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>preS2 middle surface protein</protein_name>
+        <protein_pi>8.04</protein_pi>
+        <protein_weight>30292.77</protein_weight>
+        <protein_length>348</protein_length>
+        <protein_note>sub-genotype: A3</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAJ75787.1 preS2 middle surface protein [Hepatitis B virus]
+MQWNSTAFHQALQDPRVRGLYFPAGGSSSGTVSPVPNIASHISSISSRTGDPAPTMENITSGFLGPLLVL
+QAGFFLLTRILTIPQSLDSWWTSLNFLGGSPVCLGQNSQSPTSNHSPTSCPPICPGYRWMCLRRFIIFLF
+ILLLCLIFLLVLLDYQGMLPVCPLIPGSTTTSTGPCRTCTTPAQGNSMFPSCCCTKPTDGNCTCIPIPSS
+WAFAKYLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSAIWMMWYWGPSLYNILSPFIPLLPIFFCLWVY
+I
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The immunological protection of pVAX-PS, a DNA vaccine, was assessed in the tree shrews model. pVAX-PS was constructed by inserting the gene encoding the middle (pre-S2 plus S) envelope protein of HBV into a plasmid vector pVAX1.  Results indicated that pVAX-PS immunization could induce remarkable humoral immune response and prevent the experimental tree shrews from infection of HBV [Ref1106:Zhou et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1284">
+        <gene_name>HbS</gene_name>
+        <strain>Hepatitis B virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15384573</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:109739</xrefs>
+        <taxonomy_id>10407</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>HBs antigen</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>159</protein_length>
+        <protein_note>isolated from serum</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|15384573|gb|AAK96425.1|AF360978_1 HBs antigen [Hepatitis B virus]
+GTTVCLGQNSQSPTSNHSPTSCPPTCPGYRWMCLRRFIIFLFILLLCLIFLLVLLDYQGMLPVCPLIPGS
+STTSTGPCRTCTTPAQGTSMYPSCCCTKPSDGNCTCIPIPSSWAFGKFLWEWASARFSWLSLLVPFVQWF
+VGLSPTVWLSVIWMMWYWG</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene498">
+        <gene_name>HBVgp3 X protein</gene_name>
+        <strain>Hepatitis B virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>944566</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>21326587</ncbi_protein_id>
+        <gene_locus_tag>HBVgp3</gene_locus_tag>
+        <gene_refseq>X04615</gene_refseq>
+        <protein_refseq>NP_647606</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10407</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1373</gene_start>
+        <gene_end>1837</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>X protein</protein_name>
+        <protein_pi>8.34</protein_pi>
+        <protein_weight>15417.45</protein_weight>
+        <protein_length>154</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|21326584:1373-1837 Hepatitis B virus, complete genome
+CATGGCTGCTAGGCTGTGCTGCCAACTGGATCCTGCGCGGGACGTCCTTTGTCTACGTCCCGTCGGCGCT
+GAATCCCGCGGACGACCCGTCTCGGGGCCGTTTGGGCCTCTACCGTCCCCTTCTTCATCTGCCGTTCCGG
+CCGACCACGGGGCGCACCTCTCTTTACGCGGTCTCCCCGTCTGTGCCTTCTCATCTGCCGGACCGTGTGC
+ACTTCGCTTCACCTCTGCACGTAGCATGGAGACCACCGTGAACGCCCACCAGGTCTTGCCCAAGGTCTTA
+CACAAGAGGACTCTTGGACTCTCAGCAATGTCAACGACCGACCTTGAGGCATACTTCAAAGACTGTTTGT
+TTAAAGACTGGGAGGAGTTGGGGGAGGAGATTAGGTTAAAGGTCTTTGTACTAGGAGGCTGTAGGCATAA
+ATTGGTCTGTTCACCAGCACCATGCAACTTTTTCCCCTCTGCCTA</dna_sequence>
+        <protein_sequence>>gi|21326587|ref|NP_647606.1| X protein [Hepatitis B virus]
+MAARLCCQLDPARDVLCLRPVGAESRGRPVSGPFGPLPSPSSSAVPADHGAHLSLRGLPVCAFSSAGPCA
+LRFTSARSMETTVNAHQVLPKVLHKRTLGLSAMSTTDLEAYFKDCLFKDWEELGEEIRLKVFVLGGCRHK
+LVCSPAPCNFFPSA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>Researchers generated a series of woodchuck hepatitis virus (WHV) X mutants.  Woodchucks inoculated with X mutants, including those with no serologic evidence of infection, were protected from later challenge with infectious Woodchuck Hepatitis Virus, suggesting previous infection with resulting protective immunity [Ref1307:Zhang et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1703">
+        <gene_name>PreS2+S (Middle protein)</gene_name>
+        <strain>Hepatitis B virus strain ayw</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>71794216</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279085</xrefs>
+        <taxonomy_id>10407</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>8.03</protein_pi>
+        <protein_weight>30302.9</protein_weight>
+        <protein_length>343</protein_length>
+        <protein_note>Major surface antigen from hepadnavirus; pfam00695</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAJ21096.1 unnamed protein product [Hepatitis B virus]
+MQWNSTTFHQTLQDPRVRGLYFPAGGSSSGTVNPVLTTASPLSSIFSRIGDPALNMENITSGFLGPLLVL
+QAGFFLLTRILTIPQSLDSWWTSLNFLGGTTVCLGQNSQSPTSNHSPTSCPPTCPGYRWMCLRRFIIFLF
+ILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCMTTAQGTSMYPSCCCTKPSDGNCTCIPIPSS
+WAFGKFLWEWASARFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYSILSPFLPLLPIFFCLWVY
+I
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1279">
+        <gene_name>S</gene_name>
+        <strain>Hepatitis B virus subtype adr</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>267364</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279085</xrefs>
+        <taxonomy_id>31513</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Small envelope protein</protein_name>
+        <protein_pi>8.05</protein_pi>
+        <protein_weight>27882.11</protein_weight>
+        <protein_length>425</protein_length>
+        <protein_note>S glycoprotein; S-HBsAg; Small S protein; Small surface protein; SHB</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|P30019.1|HBSAG_HBVC6 RecName: Full=Small envelope protein; AltName: Full=S glycoprotein; AltName: Full=S-HBsAg; Short=SHB; AltName: Full=Small S protein; AltName: Full=Small surface protein
+MENTASGFLGPLLVLQAGFFLLTRILTIPQSLDSWWTSLNFLGGAPTCPGQNSQSPTSNHSPTSCPPICP
+GYRWMCLRRFIIFLFILLLCLIFLLVLLDYHGMLPVCPLLPGTSTTSTGPCKTCTIPAQGTSMFPSCCCT
+KPSDGNCTCIPIPSSWAFARFLWEWASVRFSWLSLLVPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILS
+PFLPLLPIFFCLWVYI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1702">
+        <gene_name>S</gene_name>
+        <strain>Duck hepatitis B virus strain GD3</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>44829150</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279085</xrefs>
+        <taxonomy_id>12639</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>S protein</protein_name>
+        <protein_pi>8.85</protein_pi>
+        <protein_weight>18126.11</protein_weight>
+        <protein_length>218</protein_length>
+        <protein_note>Major surface antigen from hepadnavirus; pfam00695</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAS47829.1 S protein [Duck hepatitis B virus]
+MSGTFGGILAGLIGLLVSFFLLIKILEILRRLDWWWISLSSPKGKMQCAFQETGAQTSPHYVGSCPWGCP
+GFLWTYLRLFIIFLLILLVAAGLLYLTDNGSTILGKLQWASVSALFSSISSLLPSDQKSLVALMFGLLLI
+WMTSSSATQTLVTLTQLATLSALFYKS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1704">
+        <gene_name>S</gene_name>
+        <strain>Hepatitis B virus strain ayw</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>461940451</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279085</xrefs>
+        <taxonomy_id>10407</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>small S protein</protein_name>
+        <protein_pi>7.86</protein_pi>
+        <protein_weight>24765.13</protein_weight>
+        <protein_length>279</protein_length>
+        <protein_note>genotype: B</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AGH20418.1 small S protein [Hepatitis B virus]
+MENISSGLLGPLLVLQAGFFLLTKILTIPQSLDSWWTSLNFLGGTPVCLGQNSQSQISSHSPTCCPPTCP
+GYRWMCLRRFIIFLCILLLCLIFLLVLLDYQGMLPVCPLIPGSSTTSTGPCRTCTTPAQGTSLFPSCCCT
+KPTDGNCTCIPIPSSWAFAKYLWEWASVRFSWLSLLVPFVQWFVGHSPTVWLSVIWMMWFWGPSLYNILS
+PFIPLLPIFFCLWVYI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1705">
+        <gene_name>S</gene_name>
+        <strain>Duck hepatitis B virus isolate CH6</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>169116569</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279085</xrefs>
+        <taxonomy_id>12639</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>large S protein</protein_name>
+        <protein_pi>8.31</protein_pi>
+        <protein_weight>39801.32</protein_weight>
+        <protein_length>427</protein_length>
+        <protein_note>Major surface antigen from hepadnavirus; pfam00695</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACA42588.1 large S protein [Duck hepatitis B virus]
+MKQESFISGYLNIWSHLKVSLIIGNSNTLSINITFMMGQHPAKSMDVRRIEGGEILLNQLAGRMIPKGTL
+TWSGKFPTLDHVLDHVQTMEEINTLQNQGAWPAGAGRRVGLSNPTPQEIPQPQWTPEEDQKAREAFRRYQ
+EERPPETTTIPPSSPPQWKLQPGDDPLLGNQSLLETHPLYQYTEPEPAVPVIKTPPLKKKMSGTFGGILA
+GLIGLLVSFFLLIKILEILRRLDWWWISLSSPKGKMQCAFQDTGAQISPHYVGSCPWGCPGFLWTYLRLF
+IIFLLILLVAAGLLYLTDNGSTILGKLQWASVSALFSSISSLLPSDPKSLVALTFGLSLIWMTSSSATQT
+LVTLTQLVTLSALFYKS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2257">
+		<reference_name>Chen et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen JH, Yu YS, Liu HH, Chen XH, Xi M, Zang GQ, Tang ZH</authors>
+		<title>Ubiquitin conjugation of hepatitis B virus core antigen DNA vaccine leads to enhanced cell-mediated immune response in BALB/c mice</title>
+		<year>2011</year>
+		<volume>11</volume>
+		<issue>8</issue>
+		<pages>620-628</pages>
+		<journal_book_name>Hepatitis monthly</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2250">
+		<reference_name>Chow et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chow YH, Chiang BL, Lee YL, Chi WK, Lin WC, Chen YT, Tao MH</authors>
+		<title>Development of Th1 and Th2 populations and the nature of immune responses to hepatitis B virus DNA vaccines can be modulated by codelivery of various cytokine genes</title>
+		<year>1998</year>
+		<volume>160</volume>
+		<issue>3</issue>
+		<pages>1320-1329</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2253">
+		<reference_name>Conry et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Conry RM, Curiel DT, Strong TV, Moore SE, Allen KO, Barlow DL, Shaw DR, LoBuglio AF</authors>
+		<title>Safety and immunogenicity of a DNA vaccine encoding carcinoembryonic antigen and hepatitis B surface antigen in colorectal carcinoma patients</title>
+		<year>2002</year>
+		<volume>8</volume>
+		<issue>9</issue>
+		<pages>2782-2787</pages>
+		<journal_book_name>Clinical cancer research : an official journal of the American Association for Cancer Research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2251">
+		<reference_name>Davis et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Davis HL, Michel ML, Whalen RG</authors>
+		<title>DNA-based immunization induces continuous secretion of hepatitis B surface antigen and high levels of circulating antibody</title>
+		<year>1993</year>
+		<volume>2</volume>
+		<issue>11</issue>
+		<pages>1847-1851</pages>
+		<journal_book_name>Human molecular genetics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2256">
+		<reference_name>Davis et al., 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Davis HL, McCluskie MJ, Gerin JL, Purcell RH</authors>
+		<title>DNA vaccine for hepatitis B: evidence for immunogenicity in chimpanzees and comparison with other vaccines</title>
+		<year>1996</year>
+		<volume>93</volume>
+		<issue>14</issue>
+		<pages>7213-7218</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2511">
+		<reference_name>FDA COMVAX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA COMVAX package insert information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM109869.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2074">
+		<reference_name>FDA: COMVAX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: COMVAX</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm174757.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference761">
+		<reference_name>FDA: ENGERIX-B</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: ENGERIX-B I</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm110102.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference934">
+		<reference_name>FDA: Pediarix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Pediarix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm146759.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference762">
+		<reference_name>FDA: RECOMBIVAX HB</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: RECOMBIVAX HB</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm110098.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference764">
+		<reference_name>FDA: TWINRIX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: TWINRIX</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094035.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1108">
+		<reference_name>Hwang et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hwang YK, Kim NK, Park JM, Lee K, Han WK, Kim HI, Cheong HS</authors>
+		<title>HLA-A2 1 restricted peptides from the HBx antigen induce specific CTL responses in vitro and in vivo</title>
+		<year>2002</year>
+		<volume>20</volume>
+		<issue>31-32</issue>
+		<pages>3770-3777</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1893">
+		<reference_name>Jain et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jain V, Vyas SP, Kohli DV</authors>
+		<title>Well-defined and potent liposomal hepatitis B vaccines adjuvanted with lipophilic MDP derivatives</title>
+		<year>2009</year>
+		<volume>5</volume>
+		<issue>3</issue>
+		<pages>334-344</pages>
+		<journal_book_name>Nanomedicine : nanotechnology, biology, and medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2248">
+		<reference_name>Khatri et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Khatri K, Goyal AK, Gupta PN, Mishra N, Vyas SP</authors>
+		<title>Plasmid DNA loaded chitosan nanoparticles for nasal mucosal immunization against hepatitis B</title>
+		<year>2008</year>
+		<volume>354</volume>
+		<issue>1-2</issue>
+		<pages>235-241</pages>
+		<journal_book_name>International journal of pharmaceutics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2245">
+		<reference_name>KuhrÃ¶ber et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>KuhrÃ¶ber A, Wild J, Pudollek HP, Chisari FV, Reimann J</authors>
+		<title>DNA vaccination with plasmids encoding the intracellular (HBcAg) or secreted (HBeAg) form of the core protein of hepatitis B virus primes T cell responses to two overlapping Kb- and Kd-restricted epitopes</title>
+		<year>1997</year>
+		<volume>9</volume>
+		<issue>8</issue>
+		<pages>1203-1212</pages>
+		<journal_book_name>International immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2242">
+		<reference_name>Kwissa et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kwissa M, KrÃ¶ger A, Hauser H, Reimann J, Schirmbeck R</authors>
+		<title>Cytokine-facilitated priming of CD8+ T cell responses by DNA vaccination</title>
+		<year>2003</year>
+		<volume>81</volume>
+		<issue>2</issue>
+		<pages>91-9101</pages>
+		<journal_book_name>Journal of molecular medicine (Berlin, Germany)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference748">
+		<reference_name>Merck:  Recombivax HB</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Merck: Recombivax HB vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.merck.com/product/usa/pi_circulars/r/recombivax_hb/recombivax_pi.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2024">
+		<reference_name>Morrey et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Morrey JD, Motter NE, Chang S, Fairman J</authors>
+		<title>Breaking B and T cell tolerance using cationic lipid-DNA complexes (CLDC) as a vaccine adjuvant with hepatitis B virus (HBV) surface antigen in transgenic mice expressing HBV</title>
+		<year>2011</year>
+		<volume>90</volume>
+		<issue>3</issue>
+		<pages>227-230</pages>
+		<journal_book_name>Antiviral research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1105">
+		<reference_name>Payette et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Payette PJ, Ma X, Weeratna RD, McCluskie MJ, Shapiro M, Engle RE, Davis HL, Purcell RH</authors>
+		<title>Testing of CpG-optimized protein and DNA vaccines against the hepatitis B virus in chimpanzees for immunogenicity and protection from challenge</title>
+		<year>2006</year>
+		<volume>49</volume>
+		<issue>3</issue>
+		<pages>144-151</pages>
+		<journal_book_name>Intervirology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2243">
+		<reference_name>Qing et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Qing Y, Chen M, Zhao J, Hu H, Xu H, Ling N, Peng M, Ren H</authors>
+		<title>Construction of an HBV DNA vaccine by fusion of the GM-CSF gene to the HBV-S gene and examination of its immune effects in normal and HBV-transgenic mice</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>26</issue>
+		<pages>4301-4307</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1943">
+		<reference_name>Quiroga et al., 1990</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Quiroga JA, Castillo I, Porres JC, Casado S, Sáez F, Gracia Martínez M, Gómez M, Inglada L, Sánchez-Sicilia L, Mora A</authors>
+		<title>Recombinant gamma-interferon as adjuvant to hepatitis B vaccine in hemodialysis patients</title>
+		<year>1990</year>
+		<volume>12</volume>
+		<issue>4 Pt 1</issue>
+		<pages>661-663</pages>
+		<journal_book_name>Hepatology (Baltimore, Md.)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2384">
+		<reference_name>Schirmbeck et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schirmbeck R, BÃ¶hm W, Ando K, Chisari FV, Reimann J</authors>
+		<title>Nucleic acid vaccination primes hepatitis B virus surface antigen-specific cytotoxic T lymphocytes in nonresponder mice</title>
+		<year>1995</year>
+		<volume>69</volume>
+		<issue>10</issue>
+		<pages>5929-5934</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2252">
+		<reference_name>Tacket et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tacket CO, Roy MJ, Widera G, Swain WF, Broome S, Edelman R</authors>
+		<title>Phase 1 safety and immune response studies of a DNA vaccine encoding hepatitis B surface antigen delivered by a gene delivery device</title>
+		<year>1999</year>
+		<volume>17</volume>
+		<issue>22</issue>
+		<pages>2826-2829</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1107">
+		<reference_name>Thermet et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Thermet A, Rollier C, Zoulim F, Trepo C, Cova L</authors>
+		<title>Progress in DNA vaccine for prophylaxis and therapy of hepatitis B</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>7-8</issue>
+		<pages>659-662</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2246">
+		<reference_name>Triyatni et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Triyatni M, Jilbert AR, Qiao M, Miller DS, Burrell CJ</authors>
+		<title>Protective efficacy of DNA vaccines against duck hepatitis B virus infection</title>
+		<year>1998</year>
+		<volume>72</volume>
+		<issue>1</issue>
+		<pages>84-94</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1901">
+		<reference_name>Wang et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang S, Liu X, Fisher K, Smith JG, Chen F, Tobery TW, Ulmer JB, Evans RK, Caulfield MJ</authors>
+		<title>Enhanced type I immune response to a hepatitis B DNA vaccine by formulation with calcium- or aluminum phosphate</title>
+		<year>2000</year>
+		<volume>18</volume>
+		<issue>13</issue>
+		<pages>1227-1235</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference718">
+		<reference_name>Wiki: Hepatitis B</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Hepatitis B virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Hepatitis_B</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2255">
+		<reference_name>Xu et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xu W, Chu Y, Zhang R, Xu H, Wang Y, Xiong S</authors>
+		<title>Endoplasmic reticulum targeting sequence enhances HBV-specific cytotoxic T lymphocytes induced by a CTL epitope-based DNA vaccine</title>
+		<year>2005</year>
+		<volume>334</volume>
+		<issue>2</issue>
+		<pages>255-263</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1307">
+		<reference_name>Zhang et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang Z, Torii N, Hu Z, Jacob J, Liang TJ</authors>
+		<title>X-deficient woodchuck hepatitis virus mutants behave like attenuated viruses and induce protective immunity in vivo</title>
+		<year>2001</year>
+		<volume>108</volume>
+		<issue>10</issue>
+		<pages>1523-1531</pages>
+		<journal_book_name>The Journal of clinical investigation</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2241">
+		<reference_name>Zhang et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang W, Dong SF, Sun SH, Wang Y, Li GD, Qu D</authors>
+		<title>Coimmunization with IL-15 plasmid enhances the longevity of CD8 T cells induced by DNA encoding hepatitis B virus core antigen</title>
+		<year>2006</year>
+		<volume>12</volume>
+		<issue>29</issue>
+		<pages>4727-4735</pages>
+		<journal_book_name>World journal of gastroenterology : WJG</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1106">
+		<reference_name>Zhou et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhou FJ, Hu ZL, Dai JX, Chen RW, Shi K, Lin Y, Sun SH</authors>
+		<title>Protection of tree shrews by pVAX-PS DNA vaccine against HBV infection</title>
+		<year>2003</year>
+		<volume>22</volume>
+		<issue>7</issue>
+		<pages>475-478</pages>
+		<journal_book_name>DNA and cell biology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2247">
+		<reference_name>Zhou et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhou X, Zheng L, Liu L, Xiang L, Yuan Z</authors>
+		<title>T helper 2 immunity to hepatitis B surface antigen primed by gene-gun-mediated DNA vaccination can be shifted towards T helper 1 immunity by codelivery of CpG motif-containing oligodeoxynucleotides</title>
+		<year>2003</year>
+		<volume>58</volume>
+		<issue>3</issue>
+		<pages>350-357</pages>
+		<journal_book_name>Scandinavian journal of immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2254">
+		<reference_name>Zinckgraf and Silbart, 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zinckgraf JW, Silbart LK</authors>
+		<title>Modulating gene expression using DNA vaccines with different 3'-UTRs influences antibody titer, seroconversion and cytokine profiles</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>15</issue>
+		<pages>1640-1649</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

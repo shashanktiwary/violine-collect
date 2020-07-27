@@ -1,0 +1,2443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen24">
+		<pathogen_name>Campylobacter jejuni</pathogen_name>
+		<taxon_id>197</taxon_id>
+		<pathogenesis refs="reference201 reference202 reference203">Most Campylobacter infections are mild, self-limiting diarrheal illnesses, but severe infections do occur. The primary risk factors associated with Campylobacter infection are consuming and handling foods of animal origins, especially poultry products. In addition to epidemiological evidence, microbiological evidence supports poultry as the primary source of human Campylobacter infection (Nelson et al., 2007). The majority of Campylobacter-associated infections are thought to be sporadic cases of food poisoning; contaminated drinking water, including that from public water supplies, is the vehicle of large Campylobacter-associated outbreaks. Although Campylobacter spp. are widely distributed in the environment, the epidemiology of many cases of Campylobacter-associated infections remains unclear (Abulreesh et al., 2006). After incubation of approximately three days, abrupt cramping pain in the abdomen is followed by diarrhea. The mechanism of diarrhea induction is a complex and multifactorial process. The diarrheal stage lasts a few days. Complications are rare, but infection may be followed by the development of reactive arthritis or GBS. 
+
+Flagella-mediated motility has been shown to be necessary for Campylobacter to colonize the intestinal tract, and experimental infections in humans and animals, and in vitro analyses of adherence and invasion in cultured human cells have demonstrated that cell invasiveness is necessary in Campylobacter-induced inflammatory diarrhea. Several bacterial components have been shown to have adhesive properties (LPS, flagella, fimbrial filaments, surface-exposed proteins), and a direct role of toxins including of cytolethal distending toxin (CDT) in disease remains to be demonstrated. Host factors are of importance in the pathogenesis of GBS following a Campylobacter infection. It is now clear that specific bacterial genes are crucial for the induction of anti-ganglioside antibodies (Engberg, 2006).</pathogenesis>
+		<disease_name>Campylobacterosis</disease_name>
+		<protective_immunity refs="reference570 reference571">Anti-flagellar serum antibody titres of the dams did not correlate with protection of their young (Dolby et al., 1986). There was a good correlation between high campylobacter-specific IgG response and bactericidal activity. The degree of protection conferred by vaccinated dams on infant mice against colonization by Campylobacter jejuni depended on the bacterial strain, preparation, and route of administration of the vaccine. In some instances of homologous protection, serum bactericidal titres correlated well with protection. However, boiled C. jejuni vaccine, which was non-protective, also elicited a strong bactericidal antibody response. Conversely, bactericidal activity could not be demonstrated against strains capable of cross-protection.  (Abimiku et al., 1989).</protective_immunity>
+		<host_range refs="reference201">The primary risk factors associated with Campylobacter infection are consuming and handling foods of animal origins, especially poultry products. In addition to epidemiological evidence, microbiological evidence supports poultry as the primary source of human Campylobacter infection (Nelson et al., 2007).</host_range>
+		<introduction refs="reference199 reference197 reference198">Campylobacter jejuni is a small gram-negative, microaerophilic, motile, curved-to-spiral rod that has a single polar flagellum. It can be found in the intestinal tract and oral cavity (Smibert, 1978). C. jejuni is among the most frequent causes of bacterial diarrhea worldwide and an important cause of diarrhea in travellers and deployed military personnel. It is also the infectious agent most often associated with Guillain-Barre syndrome (GBS), a postinfectin polyneuropathy, and is increasingly identified as a cause of bacteremia and a variety of systemic and localized infections in immunocompromised hosts. The bacteria is characterized by a lack of understanding of the basic virulence mechanisms and by its antigenic complexity. The LPS cores of many serotypes have been shown to contain structures which resemble human gangliosides and have been implicated in the development of autoantibodies leading to GBS, although the specific structure or structures which enable a given campylobacter strain to cause GBS are not clear (Lee et al., 1999)(Pawelec et al., 2000).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine220">
+		<vaccine_name>Avirulent Salmonella vaccine strain carrying C. jejuni cjaA gene </vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004121</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference499">The constitutive expression of all analysed genes as measured by Western immunoblot technique was independent of the particular host strain. Specific rabbit anti-rCjaA antibody reacted not only with CjaA but also with other solute-binding proteins, components of the ABC transport system (CjaC protein), chosen as the protective antigen for animal experiments. Chickens orally immunized with Salmonella expressing Campylobacter cjaA gene developed serum IgG and mucosal IgA antibody responses against Campylobacter membrane proteins and Salmonella OMPs. Protection experiments show that chicken immunization with avirulent Salmonella carrying Campylobacter cjaA gene greatly reduces ability of heterologous wild type C. jejuni strain to colonize the bird cecum (Wyszynska et al., 2004).</description>
+		<adjuvant refs="reference204">The heat-labile enterotoxin of Escherichia coli as an oral adjuvant ( OA ) has been used (Baqar et al., 1995).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference499"> The vaccine vector is avirulent Salmonella enterica sv. Typhimurium (chi 4550 and chi 3987) strains of two different serotypes (UK-1 and SR) (Wyszynska et al., 2004).</virulence>
+		<preparation refs="reference569">Three gene libraries of Campylobacter jejuni 72Dz/92 DNA were prepared using lambda gt11, pSupercos and pWSK129 cloning vectors. Screening of the libraries revealed several immunoreactive clones (Pawelec et al., 1997).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference499 reference568">Three C jejuni genes [cjaA ( cj0982c ) , cjaC ( cj0734c ) and cjaD ( cj0113 )] encoding highly immunogenic proteins which are conserved among different Campylobacter serotypes have been introduced into avirulent Salmonella enterica sv. Typhimurium (chi 4550 and chi 3987) strains of two different serotypes (UK-1 and SR) (Wyszynska et al., 2004).  C. jejuni 72Dz/92 cjaA gene encodes a highly immunogenic protein which is conserved among different Campylobacter serotypes (Wyszynska et al., 2004). The surface antigen CjaA of Campylobacter jejuni is supported by the presence of an upstream gene with significant homology to ATP binding proteins (Martin et al., 1999).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering132" gene_id="gene133">
+			<type>Recombinant vector construction</type>
+			<description refs="reference499">pUWA10A plasmid carrying CjaA was ligated into the pYA3341 plasmid and then transformed into E. coli χ6097 competent cells. It was later introduced by electroporation into two S. enterica sv. Typhimurium (χ3987 and χ4550) strains (Wyszynska et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response288" host_id="host8">
+			<immune_response refs="reference499">Mucosal anti-Salmonella and anti-Campylobacter IgA antibodies were present in samples taken from chickens inoculated with Salmonella/pUWM251 at every tested time point. In contrast to serum IgG, the kinetics of IgA responses to both antigens were similar. In intestinal secretions the level of the antibodies dropped at week 2 and then peaked 2 weeks after the booster. During the next 2 weeks, IgA titers decreased and maintained at almost the same level during the remainder of the experiment. Since IgA antibodies directed towards both antigens were present in the intestinal fluids of 1-day-old birds, similarly to IgG antibodies, IgA present at 0 week were maternally derived. In intestinal secretions, taken from different parts of chicken gut (rectum and jejunum), levels of IgA antibodies to Campylobacter and Salmonella antigens also peaked 2 weeks after the secondary immunization. Intestinal IgA titers to Campylobacter whole cell lysates followed the similar patterns as those measured with membrane antigens (Wyszynska et al., 2004).</immune_response>
+			<host_strain refs="">Commercial broiler chickens (Gallus gallus)</host_strain>
+			<vaccination_protocol refs="reference499">Commercial broiler chickens were obtained from the local hatchery on the day of hatch. Briefly, chickens deprived of food and water for 4 h were immunized orally with 100 μl of 109 CFU/ml of Salmonella χ3987 carrying pUWM251 (cjaA). Booster doses were administrated 2 weeks after primary immunization. Following vaccination, chickens were observed for the development of diarrhoea and other potential adverse side effects (Wyszynska et al., 2004).</vaccination_protocol>
+			<persistence refs="reference499">There was high anti-Campylobacter IgG titer present at the first time point (week 0), dropping at weeks 2 and 4. A moderate increase of Campylobacter specific IgG level was observed at week 6 followed by significant increase of anti-Campylobacter IgG level at week 8. Serum IgG titers to Campylobacter whole cell lysates followed a similar pattern, as those measured with membrane antigens, with respect to time, although the increase of anti-Campylobacter IgG titer at week 8 was not so significant. The results suggest that high IgG titer observed at the 0 week reflects maternally derived immunity while increasing serum IgG titers at 6 and 8 weeks is a consequence of vaccination (Wyszynska et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference499">Protection experiment showed that chicken immunization with avirulent Salmonella carrying Campylobacter cjaA gene greatly reduced the ability of heterologous wild type C jejuni strain to colonize the bird cecum (Wyszynska et al., 2004). </protection_efficacy>
+			<side_effects refs="reference499">No adverse side effects were observed (Wyszynska et al., 2004).</side_effects>
+			<challenge_protocol refs="reference499">Two weeks after booster, all chicks received a dose containing approximately 2×10^9 CFU/ml of the wild type C. jejuni/pUOA18 strain in 0.1 ml PBS with gelatine. Campylobacter colonization was confirmed on days 3, 6, 9 and 12 after the challenge. In each instance, four chicks were euthanized, the intestine was excised and the C. jejuni present in chicken cecal contents were enumerated by plating (Wyszynska et al., 2004).</challenge_protocol>
+			<description refs="reference499">It is well documented that poultry and poultry products are the major source of human campylobacteriosis and salmonellosis. The avirulent Salmonella vaccine strains expressing Campylobacter antigen can be potentially used as a bivalent chicken vaccine (Wyszynska et al., 2004). </description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine833">
+		<vaccine_name>C. jejuni DNA vaccine pcDNA3.1(+)-cadF</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011545</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1(+) [Ref1038:Zheng et al., 2007]</vector>
+		<route>Intranasal</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasal</route>
+		<antigen refs="">C. jejuni fibronectin binding protein cadF</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering300" gene_id="gene396">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1038">The chitosan-DNA vaccines was prepared by embedding pcDNA3.1(+)-cadF with chitosan (Zheng et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response592" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1038">BALB/c mice were intranasally immunized in a four-dose primary series (7 d intervals) at doses of 60 microg chitosan-DNA vaccines each time (Zheng et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1038">The mice immunized with chitosan-DNA vaccines have generated high levels of IgA and IgG from the sera and IgA from the intestinal secretions and the P/N value went up to 20.58, 30.13 and 6.87 respectively.  Moreover the chitosan-DNA vaccines induced strongest level of protection in BALB/c mice against challenge with C. jejuni HS:19 strain and the protective efficacies was 93.70. The results of this study indicate that the chitosan-DNA vaccines could induce significant protective immunity against C. jejuni challenge in the mice model (Zheng et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1038">Mice were attacked repeatedly through intragastric administration of C. jejuni HS:19 at the 8th week after the immunization and protective efficacy was determined by detecting the degrees of protection afforded against C. jejuni invaded (Zheng et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine844">
+		<vaccine_name>C. jejuni DNA vaccine pcDNA3.1(+)-peblA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011488</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1(+) [Ref1038:Zheng et al., 2007]</vector>
+		<route>Intranasal</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasal</route>
+		<antigen refs="">C. jejuni bifunctional adhesin/ABC transporter aspartate/glutamate-binding protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering314" gene_id="gene397">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1038">The chitosan-DNA vaccine was prepared by embedding pcDNA3.1(+)-peblA with chitosan (Zheng et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response603" host_id="host3">
+			<immune_response refs="reference1038">The mice immunized with chitosan-DNA vaccines have generated high levels of IgA and IgG from the sera and IgA from the intestinal secretions and the P/N value went up to 20.58, 30.13 and 6.87, respectively (Zheng et al., 2007).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1038">BALB/c mice were intranasally immunized in a four-dose primary series (7 d intervals) at doses of 60 microg chitosan-DNA vaccines each time (Zheng et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1038">The chitosan-DNA vaccines induced strongest level of protection in BALB/c mice against challenge with C. jejuni HS:19 strain and the protective efficacies was 93.70 (Zheng et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1038">Mice were attacked repeatedly through intragastric administration of C. jejuni HS:19 at the 8th week after the immunization and protective efficacy was determined by detecting the degrees of protection afforded against C. jejuni invaded (Zheng et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine840">
+		<vaccine_name>C. jejuni FlaC protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011495</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasal</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">LTR192G</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasal</route>
+		<antigen refs="">C. jejuni flagellin subunit protein FlaC</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering310" gene_id="gene400">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1039">The flaC gene from C. jejuni 81-176 was expressed in Escherichia coli as hexahistidine-tagged proteins in pET-19b. Strains of BL21(DE3) containing each clone were grown in Luria broth containing 100 μg/ml ampicillin and proteins were purified by nickel chromatography under native conditions (Baqar et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response599" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1039">Mice were lightly anesthetized with isoflurane, and 30 μl of phosphate-buffered saline (PBS) alone or PBS containing 5 μg (7 to 10 mice per group) or 25 or 100 μg (10 to 18 mice per group) of protein was applied a drop (5 to 6 μl) at a time to the external nares. A total of three vaccinations for each dose level of each protein were delivered at 2-week intervals. To determine efficacy, animals receiving 100 μg of each protein alone or with 1 μg of LTR192G as the adjuvant were challenged with homologous or heterologous strains of C. jejuni. Following vaccination, animals were observed for two consecutive days for the development of vaccine-associated side effects (Baqar et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1039">FlaC provided an 18% protection against disease from C. jejuni 81-176 (Baqar et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1039">Twenty-eight days following the last vaccination, mice were intranasally challenged with 3 × 10^9 CFU of C. jejuni 81-176 or CG8486 (Baqar et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine841">
+		<vaccine_name>C. jejuni FspA1 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011485</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasal</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">LTR192G</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasal</route>
+		<antigen refs="">C. jejuni flagellum-secreted protein FspA1</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering311" gene_id="gene399">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1039">The fspA1 gene from C. jejuni 81-176 was expressed in Escherichia coli as hexahistidine-tagged proteins in pET-19b. Strains of BL21(DE3) containing each clone were grown in Luria broth containing 100 μg/ml ampicillin and proteins were purified by nickel chromatography under native conditions (Baqar et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response600" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1039">Mice were lightly anesthetized with isoflurane, and 30 μl of phosphate-buffered saline (PBS) alone or PBS containing 5 μg (7 to 10 mice per group) or 25 or 100 μg (10 to 18 mice per group) of protein was applied a drop (5 to 6 μl) at a time to the external nares. A total of three vaccinations for each dose level of each protein were delivered at 2-week intervals. To determine efficacy, animals receiving 100 μg of each protein alone or with 1 μg of LTR192G as the adjuvant were challenged with homologous or heterologous strains of C. jejuni. Following vaccination, animals were observed for two consecutive days for the development of vaccine-associated side effects (Baqar et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1039">Immunization with FspA1 resulted in 57.8% protection without adjuvant or 63.8% protection with adjuvant against homologous challenge with 81-176 (Baqar et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1039">Twenty-eight days following the last vaccination, mice were intranasally challenged with 3 × 10^9 CFU of C. jejuni 81-176 or CG8486 (Baqar et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response229" gene_id="gene1161">
+			    <description refs="reference1039">FspA1 induced significantly high levels of serum immunoglobulin G (IgG) in mice 18-20 days after 3rd vaccination.  These results are compared to PBS vaccinated mice (Baqar et al., 2008).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response230" gene_id="gene1160">
+			    <description refs="reference1039">FspA1 induced significantly high levels of fecal IgA in mice 7 days after last vaccination.  These results are compared to PBS vaccinated mice (Baqar et al., 2008).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine843">
+		<vaccine_name>C. jejuni FspA2 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011487</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasal</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">LTR192G</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasal</route>
+		<antigen refs="">C. jejuni flagellum-secreted protein FspA2</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering313" gene_id="gene409">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1039">The fspA2 gene from C. jejuni CG8486 were expressed in Escherichia coli as hexahistidine-tagged proteins in pET-19b. Strains of BL21(DE3) containing each clone were grown in Luria broth containing 100 μg/ml ampicillin and proteins were purified by nickel chromatography under native conditions (Baqar et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response602" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1039">Mice were lightly anesthetized with isoflurane, and 30 μl of phosphate-buffered saline (PBS) alone or PBS containing 5 μg (7 to 10 mice per group) or 25 or 100 μg (10 to 18 mice per group) of protein was applied a drop (5 to 6 μl) at a time to the external nares. A total of three vaccinations for each dose level of each protein were delivered at 2-week intervals. To determine efficacy, animals receiving 100 μg of each protein alone or with 1 μg of LTR192G as the adjuvant were challenged with homologous or heterologous strains of C. jejuni. Following vaccination, animals were observed for two consecutive days for the development of vaccine-associated side effects (Baqar et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1039">Immunization with FspA2 provided 38.4% (without adjuvant) or 47.2% (with adjuvant) protection against disease from homologous challenge with CG8486 (Baqar et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1039">Twenty-eight days following the last vaccination, mice were intranasally challenged with 3 × 10^9 CFU of C. jejuni 81-176 or CG8486 (Baqar et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine838">
+		<vaccine_name>C. jejuni MBP-FlaA protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011493</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasal</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Mutant E. coli heat-labile enterotoxin (LT(R192G))</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasal</route>
+		<antigen refs="">C. jejuni structural flagella protein flaA and maltose-binding protein MBP</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering308" gene_id="gene398">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference197">Purification schemes were essentially as recommended by NEB. DH5α containing the flagellin-MBP fusion was grown overnight in 10 ml of rich medium (10 g of tryptone, 5 g of yeast extract, 5 g of NaCl, and 2 g of glucose/liter) supplemented with 100 μg of ampicillin per ml and used to inoculate a fresh 1-liter culture of the same medium. This culture was grown with shaking at 37°C to an optical density at 600 nm of 0.5, and IPTG (isopropyl-β-d-thiogalactoside; Gibco, Gaithersburg, Md.) was added to a final concentration of 0.3 mM (Lee et al., 1999).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response597" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference197">Mice were anesthetized with methoxyflurane (Metofane; Pitman-Moore, Mundelein, Ill.) and immunized intranasally with 30 to 35 μl of fusion protein by using a micropipette. The doses used were 0, 3, 6, 12, 25, or 50 μg of fusion protein in phosphate-buffered saline (PBS), either alone or in combination with 5 μg of the genetically modified heat-labile enterotoxin of E. coli, designated LTR192G as an adjuvant. A second dose was administered 8 days after the first vaccination (Lee et al., 1999).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference197">The protective efficacies of a 50 microgram of MBP-FlaA plus LT(R192G) dose against disease symptoms and intestinal colonization were 81.1 and 84%, respectively. When mice which had been immunized with 50 microgram of MBP-FlaA plus LT(R192G) intranasally were challenged orally with 8 x 10^10, 8 x 10^9, or 8 x 10^8 cells of strain 81-176, the protective efficacies against intestinal colonization at 7 days postinfection were 71.4, 71.4, and 100%, respectively (Lee et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference197">Mice were intranasally challenged with 2 × 10^9 C. jejuni bacteria/mouse 26 days after the second vaccination, and the animals were monitored for sickness and death for 5 days (Lee et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response231" gene_id="gene1161">
+			    <description refs="reference197">The full range of MBP-FlaA doses were effective in eliciting significant antigen-specific serum immunoglobulin G (IgG) responses, and these responses were enhanced by adjuvant use, except in the highest dosing group.  The results were compared to PBS vaccinated mice 7 days after immunization (Lee et al., 1999).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response232" gene_id="gene1160">
+			    <description refs="reference197">Stimulation of FlaA-specific intestinal secretory IgA (sIgA) responses required immunization with higher doses of MBP-FlaA (&gt;/=25 microgram) or coadministration of lower doses with the adjuvant.  IgA titers were significant 7 days after immunization as compared to PBS-vaccinated mice (Lee et al., 1999).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1120">
+		<vaccine_name>C. jejuni PorA protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004203</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>orally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1640">a modified heat-labile enterotoxin of Escherichia coli toxin, LT R192G (Islam et al., 2010)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">orally</route>
+		<antigen refs="">Recombinant PorA protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering605" gene_id="gene873">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response874" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference571 reference1640">BALB/c mice were orally vaccinated twice at a weekly interval with the purified GST-PorA fusion protein combined with a modified heat-labile enterotoxin of Escherichia coli toxin, LT R192G, as an adjuvant. Mice immunized with LT R192G or PBS (pH 7.2) alone were included as controls. Vaccination was done by using a stainless steel, curved-ball-tip feeding needle (20 gauge, 1.5-in. long; Popper and Sons, Inc., New Hyde Park, NY). Just prior to vaccination, gastric acidity was neutralized with two doses (0.5 ml each) of a 5% sodium bicarbonate (pH 8.5) solution given as an oral gavage at an interval of 15 min. An amount of 300 µg of the GST-PorA fusion protein mixed with 5 µg of LT R192G in a total volume of 300 µl in PBS (pH 7.2) was given to each of nine animals. Another group of mice was each fed with 5 µg of LT R192G and yet another group each fed with 1x PBS (pH 7.2) (Abimiku et al., 1989). (Islam et al., 2010)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1640">The vaccine produced robust antibody responses against both antigens in serum and secretion. Since strain C31 was a poor colonizer, homologous protection could not be studied. The protective efficacies of heterologous strains were 43% (for strain 48, P &lt; 0.001), 29% (for strain 75, P &lt; 0.005), and 42% (for strain 111, P &lt; 0.001) for the 9-day period compared to control mice given phosphate-buffered saline (Islam et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1640">Mice were challenged with bacterial culture 3 weeks after the second vaccine dose, immediately after tail vein blood collection. A 48-h bacterial culture grown on campylobacter agar was suspended in PBS (pH 7.2) to a concentration of 2 x 109 CFU per ml, and 0.5 ml of the suspension was orally fed to the mice immediately after neutralization of the gastric acidity (Islam et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine226">
+		<vaccine_name>deltaphoP/Q S. typhimurium strains expressing PEB1-ss </vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004124</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference582">PEB1, the major cell-binding factor of Campylobacter jejuni, is a homolog of the binding component in Gram-negative nutrient transport systems (Prokhorova et al., 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference558">PEB1 is an adherence factor that is highly immunogenic in humans (Sizemore et al., 2006).</virulence>
+		<preparation refs="reference558">Three live, attenuated deltaphoP/Q Salmonella enteric serovar Typhimurium strains expressing PEB1 minus its signal sequence (PEB1-ss) from three different plasmids were prepared. The three plasmids include a pBR-based asd plasmid, an arabinose-based runaway plasmid, which each expressed PEB1-ss in the bacterial cytosol, and a PEB1::HlyA fusion plasmid that directs secretion of PEB1-ss into the extracellular milieu (Sizemore et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference558">Campylobacter PEB1 is an adherence factor that is highly immunogenic in humans (Sizemore et al., 2006).</antigen>
+		<host_response host_response_id="host_response289" host_id="host3">
+			<immune_response refs="reference558">Serum IgG responses specific for PEB1-ss were induced by pBR-derived and runaway plasmids, with 100 and 90% seroconversion, respectively, at a 1:500 dilution of anti-sera as measured by Western blot analysis, while the PEB1-ss::HlyA fusion plasmid induced serum IgG in only 20% of the mice (Sizemore et al., 2006). </immune_response>
+			<host_strain refs="">Female, BALB/c Mouse Specific Pathogen Free (MSP) 7–9 weeks of age from Taconic</host_strain>
+			<vaccination_protocol refs="reference558">Mice that had been acclimated for 5 days were vaccinated with freshly prepared inocula on days 1 and 12 of the experiment by pipet feeding. The target concentration for this experiment was 1–2.5E8 in 50 μl (Sizemore et al., 2006).</vaccination_protocol>
+			<persistence refs="reference558">MGN4735 was able to colonize the intestine to a high level over the entire test period of 9 days post-inoculation while those mice that survived challenge with 81-176 cleared the infection (Sizemore et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference558">Although significant levels of anti-PEB serum IgG were induced, no protection against oral Campylobacter jejuni challenge was observed (Sizemore et al., 2006).</protection_efficacy>
+			<side_effects refs="">no adverse side effects were observed</side_effects>
+			<challenge_protocol refs="reference205 reference558">Challenge of vaccinated BALB/c mice was based on the model developed by Baqar et al. (Baqar et al., 1995b). C. jejuni strain 81-176 served as the challenge strain in the oral model (Sizemore et al., 2006). </challenge_protocol>
+			<description refs="reference558">Three live attenuated ΔphoP/Q Salmonella enteric serovar Typhimurium strains expressing PEB1 minus its signal sequence (PEB1-ss) from three different plasmids: a pBR-based asd plasmid, an arabinose-based runaway plasmid, which each expressed PEB1-ss in the bacterial cytosol, and a PEB1::HlyA fusion plasmid that directs secretion of PEB1-ss into the extracellular milieu are described above (Sizemore et al., 2006).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine114">
+		<vaccine_name>Inactivated C. jejuni whole-cell (CWC)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004100</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference205">Whole-cell vaccine formulations deserve further evaluation as candidate vaccines and the potential value of mucosal adjuvants, like LT, in enteric vaccine development are not in doubt (Baqar et al., 1995).</description>
+		<adjuvant refs="reference205">25 mg of a mucosal adjuvant, the heat-labile enterotoxin of Escherichia coli (LT) has been used (Baqar et al., 1995b).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference583">Volunteers given the CWC vaccine have similar IgA-ASC and sIgA responses and in vitro induction of IFN to Campylobacter antigens (Walker, 2005).</virulence>
+		<preparation refs="reference205">The CWC vaccine is prepared from the 81-176 strain of C. jejuni and consists of a 1:1 mixture of heat (60 C, 60 min)- and formalin (0.02 M)-inactivated Campylobacter whole cells. Each vaccination group receives oral doses of CWC vaccine containing bacterial cells alone or in combination with 25 mg of LT. Just prior to vaccination, gastric acidity is neutralized by 2 doses of a 5% NaHCO3 solution (pH 8.5) with a 15-min interval (Baqar et al., 1995b).</preparation>
+		<route refs=""></route>
+		<antigen refs="">inactivated whole-cell Campylobacter jejuni (CWC)</antigen>
+		<host_response host_response_id="host_response154" host_id="host3">
+			<immune_response refs="reference205">Campylobacter-specific intestinal IgA responses are dependent on the use of LT, whereas IgA and IgG responses in serum are not. Intestinal lavage fluid collected from sham-immunized animals at 7 d post-vaccination have no detectable levels of Campylobacter- or LT-specific secretory IgA (sIgA) or IgG. When CWC is administered over a 10,000-fold range of doses, only 20% of the mice immunized with the low or intermediate doses mount a significant Campylobacter-specific sIgA response. In contrast, administering the same doses with LT resulted in a substantial enhancement of the sIgA response to vaccine-associated Campylobacter antigens in all vaccination groups (Baqar et al., 1995b).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference205">Mice were orally immunized in a three-dose primary series with CWC vaccine particles alone or in combination with a mucosal adjuvant, the heat-labile enterotoxin of Escherichia coli (LT) (Baqar et al., 1995b).</vaccination_protocol>
+			<persistence refs="reference205">Ninety percent of control animals remain colonized for 9 days post-challenge. A similar colonization pattern is observed in mice vaccinated with LT alone. Clearance of challenge organisms from mice receiving CWC vaccine alone appear to be dependent on the amount of vaccine administered. Although 80% of the mice receiving the highest vaccine dose cleared the infection within 3 days of challenge, the remaining 20% were colonized for the remainder of the study period (Baqar et al., 1995b).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference205">Colonization resistance was induced over a broad range of vaccine doses when LT was included. However, only the highest dose of CWC alone gave comparable levels of protection. Both formulations provided equivalent protection against systemic spread of challenge organisms. These results indicate that both whole-cell vaccine formulations deserve further evaluation as candidate vaccines and also highlight the potential value of mucosal adjuvants, like LT, in enteric vaccine development (Baqar et al., 1995b).</protection_efficacy>
+			<side_effects refs="reference205">Both the CWC and CWC-LT vaccine formulations are well tolerated, with no weight loss or signs consistent with toxicity in immunized animals. Histopathological examination of the intestinal mucosa and other organ systems following vaccination fails to detect evidence of tissue damage or severe inflammation (Baqar et al., 1995b).</side_effects>
+			<challenge_protocol refs="reference205">At ~4 wks post-vaccination, mice were challenged orally with C. jejuni, and duration of colonization was determined by the monitoring of fecal shedding. Efficacy was determined by measuring the degree of protection afforded against intestinal colonization and systemic dissemination of challenge organisms (Baqar et al., 1995b).</challenge_protocol>
+			<description refs="reference205">Inactivated Campylobacter whole-cell vaccines (CWC) must be given orally in large doses to be effective. Drawbacks could be overcome by the coadministration of LT (Baqar et al., 1995b).</description>
+		</host_response>
+		<host_response host_response_id="host_response255" host_id="host19">
+			<immune_response refs="reference197">Antibodies generated during natural infection in ferrets by either strain 81-176 or strain VC167 appeared to react more strongly to glycosylated flagellins isolated from Campylobacter spp . than to unglycosylated , recombinant flagellins isolated from E coli .  (Lee et al., 1999)</immune_response>
+			<host_strain refs="">Mustela putorius furo</host_strain>
+			<vaccination_protocol refs="reference498">Food was withheld prior to challenge. The vaccine dose was administered orally via a pediatric nasogastric tube. After 60 min, animals were administered paragoric i.p. to slow peristalsis.  Drinking water was supplemented with tetracycline for three days prior to rechallenge to decrease the competing intestinal microflora (Burr et al., 2005).</vaccination_protocol>
+			<persistence refs="reference498">An oral regimen delivered on days 0, 3, 5, and 7 provided enhanced protection following oral homologous challenge delivered at Days 0 and 14. The percent protection observed was 100% in previously infected ferrets, 50% in a two-dose CWC group, and 89% in a four-dose CWC group. Protection was afforded through vaccination with sufficient inactivated whole cell vaccine, but protection was obtained regardless of the inclusion of the adjuvant LTR192G (Burr et al., 2005).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference498">Ferrets show some conservation of protection against disease induced by Campylobacter. Upon rechallenge, homologous protection was 67-84%. Heterologous challenge resulted in 67-80% protection. These data indicate that the strain chosen for use in humans protects against disease caused by two of the major serotypes responsible for human disease (Burr et al., 2005).</protection_efficacy>
+			<side_effects refs="reference498">Following infection, animals were monitored three times daily for signs of diarrhea, dehydration, appetite and water consumption. Rectal swabs from each ferret were cultured for C. jejuni by direct plating on C. jejuni selective agar. At the appropriate time, blood samples were obtained by bleeding the animals from the jugular vein while under light anesthesia using acepromazine-ketamine. Collected sera were assayed for specific anti-Campylobacter immunoglobulin levels. At the conclusion of each experiment, animals were lightly anaesthetized with acepromazine-ketamine then euthanized by intracardiac injection of sodium pentobarbital (Burr et al., 2005).</side_effects>
+			<challenge_protocol refs="reference498">Food was withheld prior to challenge. Animals received ketamine plus acepromazine i.m. Following sedation, the vaccine or challenge dose was administered orally. Animals being fed live organisms were administered paragoric i.p. For secondary challenge the procedure was otherwise identical, except that NaHCO3 was delivered prior to challenge. In addition, drinking water was supplemented with tetracycline prior to rechallenge. All challenge doses were monitored by plate counts (Burr et al., 2005).</challenge_protocol>
+			<description refs="reference498">The strong IgG responses seen upon rechallenge of vaccinated or previously challenged animals may not be protective in themselves but could indicate the magnitude of other unmeasured antibody responses following immunization. Whatever the exact nature of the protective immune responses associated with the CWC vaccine, it is clear that the vaccine offers protection which may be relatively conserved among clinically important serotypes of Campylobacter (Burr et al., 2005).</description>
+		</host_response>
+		<host_response host_response_id="host_response256" host_id="host8">
+			<immune_response refs="reference499">Chickens orally immunized developed serum IgG and mucosal IgA responses against Campylobacter membrane proteins, as measured by an ELISA test. Protection experiments show that chicken immunization greatly reduces the ability of heterologous wild type C jejuni strain to colonize the bird cecum (Wyszynska et al., 2004).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference502">A hybrid protein was administered as a vaccine to chickens either orally or i.m. Alimentary secretions were collected , and specific antibodies were assayed by western blot analyses (Khoury et al., 1995).</vaccination_protocol>
+			<persistence refs="reference502">Seventy-two percent of the birds vaccinated orally with 1000 micrograms protein showed detectable antibodies against C jejuni flagellin in the excreta . None of the control birds produced detectable antibody to this antigen (Khoury et al., 1995).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference585">The nature of the antibody response to MOMP during in vivo infection is not well understood. Antibody responses elicited in Campylobacter-colonized chickens demonstrates that proteoliposomes restore reactivity to rabbit antibodies. Sera from naturally or experimentally infected chickens reacts weakly, suggesting that the chicken antibody response is predominantly directed against conformational epitopes. These observations provide direct evidence for conformation-dependent humoral responses induced by Campylobacter infection, demonstrate that C jejuni is immunogenic in its natural host and suggest that proteoliposomes may be potentially used for the evaluation of vaccines (Huang et al., 2007).</protection_efficacy>
+			<side_effects refs="">No adverse side effects have been associated with this vaccine in chickens.</side_effects>
+			<challenge_protocol refs="reference502">For trials to demonstrate clearance of Campylobacter, groups of chickens were vaccinated with the hybrid protein at 2 and 4 wk of age and challenged at 3 wk with an excess of Cjejuni. The number of birds that remained colonized at 5 wk of age was significantly lower among the vaccinated birds than among controls (Khoury et al., 1995).</challenge_protocol>
+			<description refs="reference568">This is a conserved immunodominant protein in this organism and a promising vaccine candidate because the protein is expressed in multiple Campylobacter isolates from both chicken and human hosts (Martin et al., 1999).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine124">
+		<vaccine_name>MBP fused on Campylobacter FlaA (MBP-FlaA)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004101</vo_id>
+		<type>Conjugate vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference586">A mucosal vaccine was used in an effort to elicit serum IgG and intestinal secretory IgA. A genetic hybrid of the Campylobacter jejuni flaA gene with LT-B of Escherichia coli and assessment of the efficacy of the hybrid protein has been developed an oral chicken vaccine  (Wilkinson et al., 2003).</description>
+		<adjuvant refs="reference197">immunization occurs with the mutant E. coli heat-labile enterotoxin (LT( R192G)) as a mucosal adjuvant (Lee et al., 1999)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference197">The full range of MBP-FlaA doses were effective in eliciting antigen-specific serum IgG responses, and these responses were enhanced by adjuvant use. Stimulation of FlaA-specific intestinal secretory IgA (sIgA) responses required immunization with higher doses of MBP-FlaA or coadministration of lower doses with the adjuvant (Lee et al., 1999).</virulence>
+		<preparation refs="reference502">Part of the flaA gene ( 780 base pairs ) was cloned in plasmid pBEB downstream and in frame with the LT-B to allow expression of a hybrid protein . Transformed E coli chi 6097 expressed the hybrid protein ( 43 kdaltons ) in inclusion bodies at mid log phase . The inclusion bodies were isolated , and the identity of the protein was verified by western blot .  (Khoury et al., 1995)</preparation>
+		<route refs=""></route>
+		<antigen refs="reference197">recombinant protein comprising the maltose-binding protein (MBP) of E. coli fused to amino acids 5 to 337 of the FlaA flagellin of Campylobacter coli VC167 (Lee et al., 1999)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering86" gene_id="gene87">
+			<type>flagellin protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response156" host_id="host3">
+			<immune_response refs="reference197">Stimulation of FlaA-specific intestinal secretory IgA (sIgA) responses required immunization with higher doses of MBP-FlaA or co-administration of lower doses with the adjuvant (Lee et al., 1999).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference197">Mice were immunized intranasally with two doses of 3 to 50 mg of MBP-FlaA, given 8 days apart, with or without 5 mg of the mutant E. coli heat-labile enterotoxin (LTR192G) as a mucosal adjuvant (Lee et al., 1999).</vaccination_protocol>
+			<persistence refs="reference197">The results showed that, when challenged with bacteria, there was a reduction in colonization as early as 3 days after infection and that no campylobacter organisms could be detected in stools by 7 days post-feeding (Lee et al., 1999).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference197">The full range of MBP-FlaA doses were effective in eliciting antigen-specific serum IgG responses, and these responses were enhanced by adjuvant use, except in the highest dosing group. When vaccinated mice were challenged intranasally 26 days after immunization, the best protection was seen in animals given 50 mg of MBP-FlaA plus LTR192G. The protective efficacies of this dose against disease symptoms and intestinal colonization were 81.1 and 84%, respectively. When mice which had been immunized intranasally were challenged orally with 8 x 10^10, 8 x 10^9, or 8 x 10^8 cells of strain 81-176, the protective efficacies against intestinal colonization at 7 days postinfection were 71.4, 71.4, and 100%, respectively (Lee et al., 1999).</protection_efficacy>
+			<side_effects refs="reference197">Animals were monitored for sickness and death for 5 days and only minimal adverse side effects were encountered (Lee et al., 1999).</side_effects>
+			<challenge_protocol refs="reference197">Mice were intranasally challenged after the second vaccination. Fecal excretion of C. jejuni was monitored daily for 10-14 days after challenge by culturing fecal homogenates. Putative colonies were confirmed by morphology and oxidase reactions. Mice were challenged orally with 0.5 ml of various doses of C. jejuni. Fecal excretion was monitored as described above for 7-9 days (Lee et al., 1999).</challenge_protocol>
+			<description refs="reference197">It is interesting that antibodies generated during natural infection by either strain 81-176 or strain VC167 appear to react more strongly to glycosylated flagellins isolated from Campylobacter spp. than to unglycosylated, recombinant flagellins isolated from E. coli. Immunization with the recombinant fusion protein lacking post-translational modifications may lead to antibody production against epitopes which are less immunogenic in the native molecule due to differences in folding and/or masking by the carbohydrate moiety but are, nonetheless, capable of eliciting a protective immune response. Further evaluation of this recombinant flagellin is ongoing as a vaccine in a ferret diarrheal disease model (Lee et al., 1999).</description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene396">
+        <gene_name>cadF</gene_name>
+        <strain>Campylobacter jejuni</strain>
+        <vo_id>VO_0011044</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_002851185</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:275358
+CDD:225439
+CDD:143586</xrefs>
+        <taxonomy_id>194</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>fibronectin-binding outer membrane protein CadF</protein_name>
+        <protein_pi>5.71</protein_pi>
+        <protein_weight>36447.78</protein_weight>
+        <protein_length>419</protein_length>
+        <protein_note>outer membrane beta-barrel protein; TIGR04565</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>WP_002851185.1 MULTISPECIES: fibronectin-binding outer membrane protein CadF [Campylobacter]
+MKKIFLCLGLASVLFGADNNVKFEITPTLNYNYFEGNLDMDNRYAPGIRLGYHFDDFWLDQLEFGLEHYS
+DVKYTNTNKTTDITRTYLSAIKGIDVGEKFYFYGLAGGGYEDFSNAAYDNKSGGFGHYGAGVKFRLSDSL
+ALRLETRDQINFNHANHNWVSTLGISFGFGGKKEKAVEEVADTRATPQAKCPVEPREGALLDENGCEKTI
+SLEGHFGFDKTTINPTFQEKIKEIAKVLDENERYDTILEGHTDNIGSRAYNQKLSERRAKSVANELEKYG
+VEKSRIKTVGYGQDNPRSSNDTKEGRADNRRVDAKFILR</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Chitosan-DNA vaccines were prepared by embedding pcDNA3.1(+)-cadF and pcDNA3.1(+)-peblA with chitosan respectively.  The mice immunized with chitosan-DNA vaccines have generated high levels of IgA and IgG from the sera and IgA from the intestinal secretions and the P/N value went up to 20.58, 30.13 and 6.87 respectively.  The chitosan-DNA vaccines induced strongest level of protection in BALB/c mice against challenge with C. jejuni HS:19 strain and the protective efficacies was 93.70 [Ref1038:Zheng et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene133">
+        <gene_name>cjaA</gene_name>
+        <strain>Campylobacter jejuni RM1221</strain>
+        <vo_id>VO_0010955</vo_id>
+        <ncbi_gene_id>3231573</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1813949</ncbi_protein_id>
+        <gene_locus_tag>CJE1064</gene_locus_tag>
+        <gene_refseq>CP000025</gene_refseq>
+        <protein_refseq>YP_179057</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:270412
+GOA:P94643
+InterPro:IPR001638
+UniProtKB/TrEMBL:P94643</xrefs>
+        <taxonomy_id>197</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>993662</gene_start>
+        <gene_end>994501</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>surface antigen, CjaA</protein_name>
+        <protein_pi>4.9</protein_pi>
+        <protein_weight>29158.88</protein_weight>
+        <protein_length>324</protein_length>
+        <protein_note>Substrate binding domain of ABC cysteine transporter; the type 2 periplasmic binding protein fold; cd13694</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_003912.7:993662-994501 Campylobacter jejuni RM1221, complete genome
+ATTAAATTTTTCCACCTTCAATCACTACATCATCAGCCTTAACATCATCTCCAAAATGAGCTTTTAAAGT
+TTCATCATAAGCCTTGTGAAAAAACTGCTCTTGGCCTAGTTTAATGATCAAATTATCGATAAATTCTTTA
+AGTTCTTTATCGCCTTTTTTAACCGCTGGTGCGATAACATCTTTGTTACCTAACTCTTTGATACCCATTT
+TAAAATCAGGATGATCTTTCACCCAAGCAAAAAGCAAGGTATTATCATGACTTAAAGCATCGCCTCTTTT
+ATCCATCAAAGCGGCAAAGGTTTCGGTATTTTGATCATATTTTAAAGTTTTAATATTAGGATAATTTTGC
+GTAAAATAAGCATCTGCTGTTGTACCTTTGTTTAAAAGCAAGGTTTTATCTTTTAAATCTTCTACGCTAG
+TTATATTACTATCCTTTGGTACAGCTACGCCTAAAGCTACCTTCATATAAGGCAAGCAAAAATCAACCTG
+TTCTGCCCTTTGCGGAGTTTGAGTAAAATTAGCCAAAATAATATCTACTTTATTTGATTTTAAAAACTCA
+ACCCTATTTGCAGCTTCAACAAGAACAAATTGCACCTTATTTTCATCGCCAAAAAGTTCTTTTGCTATGC
+GTTTAGCTAAAGCTATATCATAGCCTTGATTGTTTCCTTTTTCATCTACATAACCAAAAGGTGGTTTATC
+GCCAAATACCCCAATCCTAACAACTCCATTTTGCTTGATCTTATCAAGAGAATTTAAAGTTTTAGAGTCA
+GAATTTCCTCCACAAGCAGCCAATACTACTGCAACAAAGGTCGTTAAAACACTTAGAAGTATTTTTTTCA</dna_sequence>
+        <protein_sequence>>CAA71822.1 cjaA [Campylobacter jejuni]
+MKKMLLSIFTTFVAVFLAACGGNSDSGASNSLERIKQDGVVRIGVFGDKPPFGYVDEKGVNQGYDIVLAK
+RIAKELLGDENKVQFVLVEAANRVEFLKSNKVDIILANFTQTPERAEQVDFCLPYMKVALGVAVPQDSNI
+SSIEDLKDKTLLLNKGTTADAYFTKEYPDIKTLKYDQNTETFAALIDQRGDALSHDNTLLFAWVKEHPEF
+KMAIKELGNKDVIAPAVKKGDKELKEFIDNLITKLGEEQFFHKAYDETLKSHFGDDVKADDVVIEGGKI</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A total of 840 Light Sussex chickens were used to evaluate a Salmonella enterica serovar Typhimurium DeltaaroA vaccine  expressing the C. jejuni amino acid binding protein CjaA.  Chickens were given the vaccine at 1-day-old and two weeks later by oral gavage, then challenged after a further two weeks with C. jejuni. Across six biological replicates, statistically significant reductions in caecal C. jejuni of c. 1.4log(10) colony-forming units/g were observed at three and four weeks post-challenge relative to age-matched unvaccinated birds. Protection was associated with the induction of CjaA-specific serum IgY and biliary IgA [Ref1036:Buckley et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene398">
+        <gene_name>FlaA from C. jejuni 81-176</gene_name>
+        <strain>Campylobacter jejuni subsp. jejuni 81-176</strain>
+        <vo_id>VO_0011046</vo_id>
+        <ncbi_gene_id>4682159</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>121612545</ncbi_protein_id>
+        <gene_locus_tag>CJJ81176_1339</gene_locus_tag>
+        <gene_refseq>AY102622</gene_refseq>
+        <protein_refseq>YP_001000997</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>354242</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1255199</gene_start>
+        <gene_end>1256929</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>flagellin</protein_name>
+        <protein_pi>5.37</protein_pi>
+        <protein_weight>56366.68</protein_weight>
+        <protein_length>576</protein_length>
+        <protein_note>FlaA; structural flagella protein; in Helicobacter the flagella are composed of flagellin A and flagellin B; the amounts of each seem to be controlled by environmental conditions</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008787.1:1255199-1256929 Campylobacter jejuni subsp. jejuni 81-176, complete genome
+ACTATTGTAATAATCTTAAAACATTTTGCTGACTAGAATTTGCTTGAGCCATTGCATAAGAACCACTTTG
+GGCTAAGATGTTAGCTTTAGAGTAGTTTGCACTCTCACTTGCAAAGTCTACATCTCTGATTTGCGATTCT
+GCTGCTTTAACATTAACTTGAGTTACAGTAATGTTATTTATAGTTGATGTAACTTGATTTTGTATAGAAC
+CAATATCTGCTCTGATTTGATCTAGATTTGTTATAGCAGTTTCTGCTATATCCATAACCGCCATTGCACC
+TTTAAGAGTGGTTACACCTGCAGTCTCATCAGTTGTATTAGCAGCAGTAGTTTTAAGGGCTGCAAATTGA
+GAATTTCCTGAGCCAGAAGAAAATCCTGAACCTGCTGAAACAACATAAGTATTGCTCATTGAAGCCGCAC
+TTGAAATAATTTGTATTCCTTGACTCAATCCAACAGATAAATTTTTACCACTACCCACAGAAAATCCTGA
+ACCTCTAGAAAATCCTGAACCTTGTGCACTCATAAATGCAGAAATTGAACTTACATTTTGAGTAAAAACA
+AATTTTCCACCACCTTTATAAGAATTAAATCCCATAGCATCGGCATTGGTTGCTGAAATTTGACCTTTTG
+ATTCTCTTAAAGACACTGAAGATTGAGAAATCATATCTGTTGTACCCATACCTATAGCACTAAGATTGGT
+TCCACTTATATTGATATCTCTACCATCATTTTTAACTAAAGATAATCGCCCATAGTTTTCTTTTTGATTT
+GCCAAAATACCAGAACCAACACCTATATCTCCAGTAATTTTAATACCCCTGCCATCAGCCGATGTAAGAA
+CAAGCTTGCCGTTTTCATCTTTAGAAGCTTGAACTCCTGTGGTATCTTTAACCGCATTGATAGCTGAAAT
+CAAAGAGCCGTTACCATCTCCGTCTTTGTATTCAATTTTTCCTATAGTTACTCCATTAATGGCAAATTCT
+TGAGAAGTAGTTCCTTCTTTTATAGCATAAACGCCAGTTGTTTTTACATCGTAAGTTGCGCGAACTCCTG
+TTTTATCAGCGCTTTTATTGATCTCTTCAGCCAAAGCTCCAAGTCCTGTTCCAACTGAAGTTGAAATCAC
+AACATTATCAAATTTAAAATCTTCTATACCATTGTAGTTTTTAATAGTAAGACCAACCACACCTGAAGTA
+AAACTTTGAGCACCGGTTTCAAATCTTGTAACACCGATTTTAGAAGATTGAGTAGCACCGATAGTTGCTT
+TCACAGTTTGGTTTGAACTTGCGCCGATTTGGAATTCTTGATTGGTAAAATTTCCACTTAAAAGTTGCTT
+ACCATTAAATGAAGTAGTATTTGCGATATTATCAAGCTCTTCCATTAATTTATTAATATCTGCTTGAAGC
+ATAGTTCTTGTTTTTAAACTTTGTCCATCTTGAGCTGCTTGAGTAGCTTTAGTCTTGATAGTATCAAGAA
+TTTTTAATTGCTCATCCATAGCTTTATCTGCGGTTTGTAAGATACCTAAAGCATCATTACCATTTGATAT
+AGCTTGACCTAAAGTATTTGCTTGAGATCTTAAGCTATCTGCTATCGCCATCCCTGAAGCATCATCTGCT
+GCTGAGTTAATTCTAAGACCTGAACTAAGTCTGCTTAAAGAAGCATCTAAACTTTTAGCATTAAGATCAG
+AGTTTGCTTTTGCATTCAATGCTGCAACATTTGTGTTAATACGAAATCCCA
+
+</dna_sequence>
+        <protein_sequence>>YP_001000997.1 flagellin [Campylobacter jejuni subsp. jejuni 81-176]
+MGFRINTNVAALNAKANSDLNAKSLDASLSRLSSGLRINSAADDASGMAIADSLRSQANTLGQAISNGND
+ALGILQTADKAMDEQLKILDTIKTKATQAAQDGQSLKTRTMLQADINKLMEELDNIANTTSFNGKQLLSG
+NFTNQEFQIGASSNQTVKATIGATQSSKIGVTRFETGAQSFTSGVVGLTIKNYNGIEDFKFDNVVISTSV
+GTGLGALAEEINKSADKTGVRATYDVKTTGVYAIKEGTTSQEFAINGVTIGKIEYKDGDGNGSLISAINA
+VKDTTGVQASKDENGKLVLTSADGRGIKITGDIGVGSGILANQKENYGRLSLVKNDGRDINISGTNLSAI
+GMGTTDMISQSSVSLRESKGQISATNADAMGFNSYKGGGKFVFTQNVSSISAFMSAQGSGFSRGSGFSVG
+SGKNLSVGLSQGIQIISSAASMSNTYVVSAGSGFSSGSGNSQFAALKTTAANTTDETAGVTTLKGAMAVM
+DIAETAITNLDQIRADIGSIQNQVTSTINNITVTQVNVKAAESQIRDVDFASESANYSKANILAQSGSYA
+MAQANSSQQNVLRLLQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice were immunized intranasally with two doses of 3 to 50 microgram of MBP-FlaA.  The protective efficacies of a 50 microgram of MBP-FlaA plus LT(R192G) dose against disease symptoms and intestinal colonization were 81.1 and 84%, respectively. When mice which had been immunized with 50 microgram of MBP-FlaA plus LT(R192G) intranasally were challenged orally with 8 x 10(10), 8 x 10(9), or 8 x 10(8) cells of strain 81-176, the protective efficacies against intestinal colonization at 7 days postinfection were 71.4, 71.4, and 100%, respectively [Ref197:Lee et al., 1999].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene87">
+        <gene_name>FlaA from C. jejuni NCTC 11168</gene_name>
+        <strain>Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819</strain>
+        <vo_id>VO_0010942</vo_id>
+        <ncbi_gene_id>905631</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>218562948</ncbi_protein_id>
+        <gene_locus_tag>Cj1339c</gene_locus_tag>
+        <gene_refseq>AL111168</gene_refseq>
+        <protein_refseq>YP_002344727</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>BioCyc: CJEJ192222:CJ1339C-MONOMER
+EMBL: AL139078
+InterPro: IPR001029
+InterPro: IPR001492
+InterPro: IPR010810
+KEGG: cje:Cj1339c
+Pfam: PF00669
+Pfam: PF00700
+Pfam: PF07196
+PIR: H81277
+PRINTS: PR00207
+ProDom: PD000316
+UniProt: P56963
+</xrefs>
+        <taxonomy_id>192222</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1269231</gene_start>
+        <gene_end>1270949</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>flagellin A</protein_name>
+        <protein_pi>5.36</protein_pi>
+        <protein_weight>55763.1</protein_weight>
+        <protein_length>572</protein_length>
+        <protein_note>flaA, flagellin A, len: 572 aa; 80.7% identity to FLAA_CAMJE flagellin A (575 aa), fasta scores; opt: 2816 z-score: 2717.6 E(): 0, 80.7% identity in 575 aa overlap. 48.3% identity to HP0601. Also similar to Cj1338c (flaA), Cj0720c flaC (24.5% identity in 220 aa overlap), and Cj0887c flaD (20.2% identity in 560 aa overlap). Contains fam match to entry PF00669 Flagellin_N, Bacterial flagellin N-terminus, and Pfam match to entry PF00700 Flagellin_C, Bacterial flagellin C-terminus. The flaA and flaB genes have a GC content of 37% compared to the overall genome GC content of 30.5%</protein_note>
+        <protein_annotation>FUNCTION: Flagellin is the subunit protein which polymerizes to form the filaments of bacterial flagella (UniProt: P56963)
+
+SUBUNIT: Heteropolymer of flaA and flaB (UniProt: P56963)
+
+SIMILARITY: Belongs to the bacterial flagellin family (UniProt: P56963)</protein_annotation>
+        <dna_sequence>>NC_002163.1:1269231-1270949 Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819 chromosome, complete genome
+ACTACTGTAGTAATCTTAAAACATTTTGTTGAACAGAATTAGCCTGTGCCATGGCATAAGAGCCGCTTTG
+AGCTAAGATATTTGCTTTAGAGTAGTTTGCACTCTCGGCTGCAAAGTCTACATCACGGATTTGCGATTCT
+GCTGCTTTAACGTTTACTTGAGTTACGGTGATGTTGTTTATAGTTGATGTAACTTGATTTTGTACCGAAC
+CAATGTCGGCTCTGATTTGATCAAGATTTGTTATAGCTGTTTCAGCTATATCCATCACAGCCATAGCGCC
+TTTAAGTGTGGTAACACCTGCTGTTTCATCTTTTACTCCAAAAGCAGTTGTTTTCATAGTTGCAAACTGA
+GAAAGTGTTGAACCACTTGAAAAACCTGAGCCTGCAGAAACATTATATACCGTAGAAAGTTGCGAAGCAG
+CTGAAATAGCTATAGCGTTTGCAAAACCTGTGGAATAATTTTTACCGCTACCTACAGAATAACCTGAACC
+TGAAGAAAATCCACTTCCTGCGCTACTCATATAGGCACTAACAGAAGAATAACCACCTAACACAACTCCT
+TTGTTTGCAGAACCAAATCCCATAGCATCAGCGATATTAGCATCAATTTGTCCTTTTGACTCTCTTAAAG
+AAACAGAAGCTTGAGAGATAAATTGAGTTGCACCAAAACCTGCAGAAGAAAGATTGCTACCGCTGATTAA
+AATATCTTTACCATCATTTTTAACTAAAGACAAGCGGCCATAGTTTTCTTTCATATCAGCATTGATAAAG
+GCACCTCCACCTATATTACCATCGATTTTAATCCCTCTACCTTCTCTTGAAGTAAGTAAAAGTTGTCCAT
+TAGCATCGATCGAAGCTTCAACTCCAGTGGTATCTTTAACCGAATTGATTGCAGCAACTAAGGCTCCATT
+AGCATCACCATCTTTGTAATCTACTTTACCGATTTTTACCCCATTGATAGCAAAAGTATCTGAAGTAGCT
+CCTGCTCTAACTGCAGCTATACCTCTAGTTTCTACTGTAAAAGTAGCTCTAACACCTGTTTTATCAGCAT
+TTTTATTGATCTCATCTGCTAAAGCTCCAAGTCCTGTTCCAACTGAAGTTGAAATCACAACTTTTTGAAA
+CTGAAAATCATCTATACCATTGTAATTTTTAAGAGTAAATTGTACTTCGCCACTAGTTGAAATTCTTCCT
+CCTGTTTCAAAGCGTGTTAAACCTATCTTAGAAGATTGAGTTGCTCCTATAGTAGCTTTTACAGTTTGAT
+TTGAACTTGCACCGATTTGAAATTCTTGATTGATAAAATTCCCACTTAAAAGTTGTTTACCGTTAAATGA
+AGTAGTATTTGCAATATTGTCAAGTTCTTCCATTAAACGGTTGATATCTGCTTGAAGCATGGTTCTTGTT
+TTTAAACTTTGTCCATCTTGAGCCGCTTGAGTTGCCTTAGTTTTGATTGTATCTAAGATTTTAAGTTGCT
+CATCCATAGCCTTATCAGCAGTTTGTAAGATACCTAAAGCATCATTACCATTAGATATAGCTTGACCTAA
+AGTATTAGCTTGAGATCTTAAACTATCTGCTATCGCCATCCCTGAAGCATCATCTGCTGCGGAGTTGATT
+CTAAGACCTGAACTAAGTCTGCTTAAAGAAGCATCTAAACTTTTACTATTTAAATCAGCGTTTGCTTTTG
+CATTTAAAGCTGCAACATTGGTGTTAATACGAAATCCCA
+
+</dna_sequence>
+        <protein_sequence>>YP_002344727.1 flagellin A [Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819]
+MGFRINTNVAALNAKANADLNSKSLDASLSRLSSGLRINSAADDASGMAIADSLRSQANTLGQAISNGND
+ALGILQTADKAMDEQLKILDTIKTKATQAAQDGQSLKTRTMLQADINRLMEELDNIANTTSFNGKQLLSG
+NFINQEFQIGASSNQTVKATIGATQSSKIGLTRFETGGRISTSGEVQFTLKNYNGIDDFQFQKVVISTSV
+GTGLGALADEINKNADKTGVRATFTVETRGIAAVRAGATSDTFAINGVKIGKVDYKDGDANGALVAAINS
+VKDTTGVEASIDANGQLLLTSREGRGIKIDGNIGGGAFINADMKENYGRLSLVKNDGKDILISGSNLSSA
+GFGATQFISQASVSLRESKGQIDANIADAMGFGSANKGVVLGGYSSVSAYMSSAGSGFSSGSGYSVGSGK
+NYSTGFANAIAISAASQLSTVYNVSAGSGFSSGSTLSQFATMKTTAFGVKDETAGVTTLKGAMAVMDIAE
+TAITNLDQIRADIGSVQNQVTSTINNITVTQVNVKAAESQIRDVDFAAESANYSKANILAQSGSYAMAQA
+NSVQQNVLRLLQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene400">
+        <gene_name>FlaC</gene_name>
+        <strain>Campylobacter jejuni subsp. jejuni 81-176</strain>
+        <vo_id>VO_0011048</vo_id>
+        <ncbi_gene_id>4682885</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>121612344</ncbi_protein_id>
+        <gene_locus_tag>CJJ81176_0743</gene_locus_tag>
+        <gene_refseq>CP000538</gene_refseq>
+        <protein_refseq>YP_001000416</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>354242</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>671962</gene_start>
+        <gene_end>672711</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>flagellin subunit protein FlaC</protein_name>
+        <protein_pi>4.32</protein_pi>
+        <protein_weight>25481.71</protein_weight>
+        <protein_length>249</protein_length>
+        <protein_note>identified by match to protein family HMM PF00669</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008787.1:671962-672711 Campylobacter jejuni subsp. jejuni 81-176, complete genome
+ATTATTGTAATAAATTAGCAATTTTGCTTTGAAGCTGCATGTTGGATTGCGCAGCAACAAAAGCAGCAGC
+ATTTTCTTTTAGATAATTGGCATTAAAATCATTAACATTTTTTGCCATATCATTATTTAGTAAATTATTT
+TCAGCTGCTTTTGAGTTGATGCTATTTTGAACACTTGCATTAATATTTGATGTAATGGCATTGATACCTG
+AACCTATTTCACTTCTTAAACTTCCAAGTTGATCCATAAAATTTGTAATACTATCTTGATTATCTATGCT
+TAATCCACCTGTTGCTAATGGATTTAAATTTGTAGTTTCAGTTCCGCTACCTACTACAAAATTCATAGTT
+TGAAAGACATTTTTTCCATTATAAGTTGCATTATTAAAAGAATTATTGATGGATTCTTGTATGCGTGTTG
+CTTCTGTTCTTAGCATTCCTTTTTGAGAATCATTAAGTGCAGCATTGTTCATTTTTACTGAAAGTTCATT
+AAGTCTATCTGCGCTTTGAGAGATATTGGTAAGGCTAGCATCTGCAATTTGTAAAACCCCTATAGCATCA
+TAAGCATTTGCGACACCTTGATCTATAGTGCTTGATTGAGATCTTAAAGAATCAGCAATAGCTAAATTAG
+CACTATCAACTCCACTTATTGCGCGAACAGCTGCAATATTTTCTAAAGCTTTATCGCTAGCTTTTTGTGC
+ATTATTTAAATAATAATTTTGTTGCATCATAGTTGCATCAGAGATCATCA
+
+</dna_sequence>
+        <protein_sequence>>YP_001000416.1 flagellin subunit protein FlaC [Campylobacter jejuni subsp. jejuni 81-176]
+MMISDATMMQQNYYLNNAQKASDKALENIAAVRAISGVDSANLAIADSLRSQSSTIDQGVANAYDAIGVL
+QIADASLTNISQSADRLNELSVKMNNAALNDSQKGMLRTEATRIQESINNSFNNATYNGKNVFQTMNFVV
+GSGTETTNLNPLATGGLSIDNQDSITNFMDQLGSLRSEIGSGINAITSNINASVQNSINSKAAENNLLNN
+DMAKNVNDFNANYLKENAAAFVAAQSNMQLQSKIANLLQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunogenicity and protective efficacy of three Campylobacter jejuni flagellum-secreted proteins, FlaC, FspA1, and FspA2, were compared by use of a mouse model.  All three proteins were immunogenic, FlaC provided an 18% protection against disease from C. jejuni 81-176 [Ref1039:Baqar et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene399">
+        <gene_name>fspA1</gene_name>
+        <strain>Campylobacter jejuni</strain>
+        <vo_id>VO_0011047</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>116292649</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:330552</xrefs>
+        <taxonomy_id>197</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>FspA1</protein_name>
+        <protein_pi>4.34</protein_pi>
+        <protein_weight>15410.38</protein_weight>
+        <protein_length>187</protein_length>
+        <protein_note>exonuclease subunit SbcC; Provisional; cl25731</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABJ97640.1 FspA1 [Campylobacter jejuni]
+MQINNSLNSLSQYVKVNSNEENQNSKNQEQNALAQDPAVEVNISKEAKEKSNASNQNNSQAPAQALNAQN
+NTQQDSSSNSEDKLTELTQKLAEIQAKIVELTAKMSKANEDQIKSIESQIATLNAQASTIQAQIQELQSQ
+QA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunogenicity and protective efficacy of three Campylobacter jejuni flagellum-secreted proteins, FlaC, FspA1, and FspA2, were compared by use of a mouse model.  Immunization with FspA1 resulted in 57.8% protection without adjuvant or 63.8% protection with adjuvant against homologous challenge with 81-176 [Ref1039:Baqar et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene409">
+        <gene_name>fspA2</gene_name>
+        <strain>Campylobacter jejuni</strain>
+        <vo_id>VO_0011049</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>116292677</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>197</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>FspA2</protein_name>
+        <protein_pi>5.78</protein_pi>
+        <protein_weight>15654.3</protein_weight>
+        <protein_length>187</protein_length>
+        <protein_note>sigma 28 regulated; Campylobacter jejuni-specific virulence factor that is secreted through the flagella filament</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABJ97654.1 FspA2 [Campylobacter jejuni]
+MKIDTLTKNFSNYQTQINKNNDLASNVHSDNVVKIQISDEARSLSQANSKNEKEYEIKVSQEKIENHKDQ
+NSIQSSKGGGNPALEALIAKLAEILAKIAELTQKMTNANEQMKTTFQKQIDVLISQADVIQAQIQELQSQ
+QA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunogenicity and protective efficacy of three Campylobacter jejuni flagellum-secreted proteins, FlaC, FspA1, and FspA2, were compared by use of a mouse model.  Immunization with FspA2 provided 38.4% (without adjuvant) or 47.2% (with adjuvant) protection against disease from homologous challenge with CG8486 [Ref1039:Baqar et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1160">
+        <gene_name>IgA</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1161">
+        <gene_name>IgG</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16059</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AF010213</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>881411</gene_start>
+        <gene_end>914690</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>immunoglobulin heavy chain (V7183 family)</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as IgG; IgH; VI24H; VH7183; B9-scFv; IgVH1(VSG)</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|94393741:881411-914690 Mus musculus strain 129/SvJ chromosome 12 unlocalized genomic contig, MGSCv37 alternate locus group 129/SvJ
+CATGGACTTTGGGCTCAGCTGTGTTTTCCTTGTCCTCATTTTAAGAGGTAATTTGTAGAAATAAGATCCT
+GCCAGTATTGTGTACAGGAGAAATAGAAAAATTTTTCTTTCCTCTATTTTGTTTTGTTTTGTTAGTGACA
+GTTTACAAATAAGCATTCTCTGTTGTGAGGTGCCCAGTGTGAGGTGAAGATGGTGGAGTCTGTGGGAGGC
+TTAGTGCAGCCTGTAGGGTCATTGAAACCCTCCTGTGCAGCCTCTGGATTCATTCTCACTGACTACTGAA
+TGACCTGGATCCTTCAGGCTTCAAAGAAAAGGATGGAGAGGGTGACAATAAAATTTTTCCCACTCACACC
+CACTTGCTGGCCCTGGCGTTCCCCTGTAATGAGGCACATAAAGTTTGCAAAACCAAGGGGCCTCTCTTCT
+CAATGATGGCTGACTAGGACATCTTCTGATACATATGCAGCTAGAGACATGAGCTCCCGGGATACTGGTT
+ACTTCATATTGTTGTTCCCCCACAACAGTTGCAGACCCTTTTATTTCTGTGGGTACTTTCACTAGCTCCT
+CCATTGGGGGCCCTGTGTTCCATCCAATAGCTGACTGTGAGCATCCACTTCTGTAGTTGCTAGGCCCCGG
+CATAGCCTCACAAGAGACAGCTATATCAGGGTCCTTTCAGCAAAATCTTGCTGGTGTATGCAATGGTGTC
+AGAGTTTGGAGTCTGATTATGGGATGGATCCCCAGGTATGGCAAACTCTAGATGGTCCATCCTTTCCCAA
+CAATAATTTTTAATGGTGGAGATAGCACCTACTATCCAGACACAATGAAGGGCCAATTCACTATCTCTAG
+AGATGATGCCAAAAACACACTTTACCTGAAAATAAACAGTCTGAGGTCTGAGTACACAGCCATGTATACA
+TATATTCCTAAGCTTGAGTAAGTGGACTTAAACTGATTCCATCACAACTTGCATGAGATGGATATTCCCC
+AGTGTTAAGACCTGTCACCATCACTGTCAATCAGAAGACAAAGTTTATGCACAACAAAACAAAAAAACCA
+AAAGCAGAGGCCTCCAATTACAAGTAATAGACCCAGACCCACAGTCTCTGAAAACTGACTGTACAGTTGG
+ATCCAGTCTTTTACTTCTTTTCCCTGGATTTTATATTACTGAGGAAATGAGGAAAGCTCTACAATATCTG
+TTCTCCATAGTGCTCAACACCTCCAAGCACAGGTTACCCATATTCATGCCTGCCTTCTGCTACACTTCTT
+GTCTTGTAGACTACTTCAACCTATTTTGTACTCCAGTTAATGAAACTCAAGTCTAGCAGCCTGTCACTGT
+TTATTCTAAAGTATTATGAACAGGTGACCTCCCATCCTTCCCCAACGCAATAATCATATTTAGGAATTTG
+AGGTTTTATGAGATATGATCTCAGGGTAGAGAGAGAAAGCAAACTACATAGAAATATAGACTGACATAAA
+TCAAGACTTGCATAAGCTAGTCCCCAAGTTCCATGTCCCTAAGTGGCAAGGACTATCTTCTGAGCCTAAT
+GAGATGAGATCCAAATCAAACCTCCTGGGTCTTTTTAGATAAACATGTGAGATCAATAGACTAAATGCTT
+TGGCTGGGCTTCCTTGCAATCCAATTCCCAAACAAAAATGGATCTGGCTCCACAGACACCACAAGAATAG
+TCTTAAATAGTTCTTTAAGTAGAATGTCTGATCACTACGAGCCCAATTCCATCCTAAATACTCTTCTGGA
+TTATACATAAATAAAAATTGAACATAGGGCATGGGGCACTGATCTCCCTGTGCTACATGAATGGGGGCTC
+ATTTACTAAATGTTCCCATTTTTCTTTCTAGCGCTGCACAGTGCAAATCCTACAACTTCCTGTTTATCTA
+CAATGTGAACTCCAAACAGTACAAGAAAAAACGTTCCTTATGTTCCTCTCCAGGTTCTCCAACAAGCACA
+GAGCAACCTTCTGTCACCAGGACGGAAAACTGGAAACCTTGCTCACTGCTTCCTTTTATTCCCTCGGGAA
+CCTCCCCCAATGCAAAGCAGCCCTCAGGCAGAGGATAAAAGCTCACACAAAGACGAGAAGCCCCATCCTC
+TTCTCATAGAGCATCCATCAGAGCATGGCTGTCCTGGGGCTGCTTCTCTGCCTGGTGACTTTCCCAAGCT
+GTAAGTGTTTCAGGGTTTCAGAAGAGGGACTAAGACATGTCAGCTAGAAGATGTGTGACTAATGGTGATG
+TTGCTTGTCCCCAGGTGTCCTGTCCCAGGTGCAGCTGAAGGAGTCAGGACCTGGCCTGGTGGCGCCCTCA
+CAGAGCCTGTCCATCACATGCACCGTCTCAGGGTTCTCATTAACTAGCTATGGTGTACACTGGGTTCGCC
+AGCCTCCAGGAAAGGGTCTGGAGTGGCTGGTAGTGATATGGAGTGATGGAAGCACAACCTATAATTCAGC
+TCTCAAATCCAGACTGAGCATCAGCAAGGACAACTCCAAGAGCCAAGTTTTCTTAAAAATGAACAGTCTC
+CAAACTGATGACACAGCCATGTACTACTGTGCCAGAAACACAGTGTGGGAAGTCCAATGTGAGCCTGCAC
+AAATACTTCTCTGCAGGGATGATCACAACCAGCAGGGGGCGCTGATGACCCAAAGGGACTTCCCAGGATC
+TCTTCTGGAATCTAGGGAGTTCTGGCCTGTGTCTATCAGCATGTGTTTCAATGTTAGAGTTGTGAGTTTT
+CCTTCCAGCAACAGAGATATTTTAGAGCCCACTTTTCATGGTCATTCTACTAAATTTGTTCACATAGTGG
+AAAGATTTGTTAAATGATTCTATAGTCTAATAGGGTCAAACAAAAACAAATAATTGAGTTCATATCTACC
+AAAAAAAAAAAAATTCCCTCAAAGTGGACAACTGTGTAGGTGAGGAAAACCAGGGGGATTTGGGAATAGA
+TTATTTCTCTCCCGACTGTGGTGTTAGTCACCTTTCAGCCATTTACTGTATTTAATTCATGTTTAAAGTT
+AATTGTATTCATCTTCCCTAACATGAAGTTTTCAAACACATGTCCACAATTTAATGATGACACAGTTATC
+ATTGTGAATGATAACTCATAAGATCTCTCTCCATATATGAAACACACGATATTCTGTTATTAGCTATAGC
+CAACAAAGTTACATATCATTATTATTACTGAAATAATTCTTCCCATCTAACTGAATAGTTTTCTCACTCG
+ACACTGCCTATGCTGCGATCAGCCTGCTCTAATTTTACCTTTGCTCAGAGCACTGCTTTCTGTTTCATTT
+GATAAGATGGTGCCTGGTTGTCACTGAAAATGTGTCCTCCAGTTTCACAGTGATTAATGTGATTTTCAGT
+ACATTGAGAACAGAGCCACAGCAAAAATGAGATGGAATGTCATCATTTTTACGCCAGGTGCTGCAGAAAT
+AGCTAGGTGGTTAAGAGAGAATATTGAACTTTGAGGGGTTCAGATTAAATTCCTGATACCCACAATGTGC
+ACCTCATAACCACATGTACATATAGAAAACTCAGTATAAATGTGGCCTCCGTGAGCACCACACTACTCCC
+ACAAACACATATACACATAATTAAAAGTAAAGATTTTAGAAAAATGGCTAATCTAATGATAGGAAGTAGT
+CAAAAAGAGAGTTCTTTTGTCATGTACATATGTGTAGCAGACTTAAATGTTAAACATTCAAGAATACATT
+CCTCGATCCACATTAAAATTTTGCAAAGAGTAGCACAGACGGTGGCAATTGCTAAACTTATATCTAGAAA
+CACAATTATGTGTGGTGATATTTAATTACACATTTATACCAGGACATATGACAATATGGAAACCAAACAT
+GTTGTATCCACATGCTCTAAGGAAAACTAAATGGAGTGTGATAAAACCAAAGAAAATGTGAATATGAAAT
+ATTTTTCCAACTCTGCATCTTAAAACGGTTTCTTTCATGTGTCATATCTGCTATGAGGACTTTCTTCTGC
+CCATGTCCAACTCCAGAGCATGCCACAGCAGGAAGACCTACAGGTATTACTTCTCTGCACCCAGGAAAAC
+CACCTCTGTCCTGACCCTGCAGCTCTCAGAAGAGCCCAGACCTTCATTCTCAGGCCCTCATCCAGTAATC
+AGCACTGAATACAGAGCACTCACCATGGACTTTGGGCTCAGCTTGGTTTTCCTTGTCCTTATTTTAAAAG
+GTAATTCATAGAGATAAGATTCTATCTGTTTTGTGTACATGAGAAACAGAAAAATTGTATTGTTTCTCTA
+TTTTGTTTTGTTTTGTTAGTGACAGTTTCTGACTCAAGATTCTCTGTTTGAAGGTACCCAGTGTGAGGTG
+AAGCTGGTGAAGTCTAAGGGGAGGCATAGTGCAGCCTAGAAGGTCCATGATACTCTACTGTGCAGCCTCG
+GATTCACTGTAAGTGACGACTGGTTTGTCCGTGTTTGCCAGGCTCCAAAGAAGGGGCTGCAGTGGGGGAT
+GGGAATAATTTTTCATGGTTGTGGTAGCCCCTCTTATGCAGACACCTTGAAGAAGTGGGTTGGACGTAAC
+ATATTCAGAATCAATATTTAAAGATTCTAATCCTTGAAGATATCACTTTTGACCAAGTATATATGAACCA
+TGTTACTGAGGTTTATGGAGGTTTGAGTATGTTAGGTCCATGGATAGGGAAAATATTAGGGGATTTTAGG
+AGTAACTGAGGCTTGTTGTAGGAAGGACATCACTGTAGGGGTAGGCTCCGTGTTCCTATCTTCAAGCTCT
+ACCCAGTGCAGAATAGAGCCCTCTTCTGCCGGCAAGTGGAAAGAGTTTCTCTTCCTGGCTGCCTTCAATC
+CAAGTTGTAGAATATCAAATCTCCTAACACTATGACTGCGAGCATGCTGACATGCGTCCCACCATAAAAA
+TAGACTGAACCTCTGAAGCTTTAAGCCAGCCTCTAGTAACTGTATTCTTTAATAAGACTGAACTTGGCTA
+TGGTGTCTTTTCACAGTAAAATGGAAACATAGACAAGGTTCTAACTCTCTGTACTAGAGGACCATCTCTA
+TGTCCTTGGTGTTGTATGTAAATTATTGAACAAATACTATAGACAAGTTGTATGGCCAAAAGTCCATCCC
+CTTCAACAATCTACTATCTGGAACCATATAGATTAGATTCCTTTCCTGCACTCATTTCCCTTACTTGCTG
+AGACATTTTGAAGACATGCTCAGAATCCCTGAACTTCCTGCTGAAAAAAAAATACCCCTCCAATTTGAAG
+ACAGTTCTCTTCCAAAATTCATCATAAATACTGATCCACATGTCCAGGCATATCATGTAGTTTTAAAAAA
+CAAACCAATCAATGCTAAAGTGGGTAAGTGCCTACATCATTGGTTTATGTCTGTTCATAACCTGGTATAT
+AGCTAGAGACCAGGACTGCATGTTTCTCCTAGGCCACACCTCTCCCACAAATGCTGGCTCTGCCTCTCCA
+GAATTCCAAGATCATGGATCTCTGGGTCCCCAAGGAACAATAAGTGTGCACTCTTGCCAGCCTGTACACT
+ACTGCACTAGCTTCTCCCCCTGGAGCTTGGTCATTGCTCAATCTTCCCTTTCCAAAGCCTGGCCAAATTC
+CTCCTACCTTTTGTTCTTTCAGTCAGGCCACCTAAGTCATCTTGAATGAAAAACAACACAAAATCTGAAC
+TTAAAATCAACAAATAATACAAGTGCTGCGCACAAAATCAATCATTCTAAACTCATCAACTATTTTATGA
+TGGAAATCTTCCAACATACAAGCTACCACCAGGTCTAAGAATTACTCATCTACATGTTGCTTCCTCTCAC
+TCACAGCCTAACCATAAAAGGGCTGTTTCTTCCTCCCATGTCCCCTCTTTTGCCTTCAGAAGCAGAAGCT
+CCACCTCCTCCTCTTTGCCCAGCAATTGGCTTCTTGTCGTCTTTATTATCATATTAATTACTTAGGGGAA
+AATCCCGTGTAGTGGCTATTCCTGGTTGTCAACTTGACAATATTTGGAATGAACTACAATCCGGAATTGG
+AAGGCTCACCAGTGACCCTTATCTGGAGGCTTGGAGATCCTTATCTGGATCTTGGTTTGAAGATCTTGAG
+CCATAGGGGCTATGGATTCCAGAAGATTGAATCTCCGAGTTTAAGGAACACACCTTTAATCTGGGCTACG
+CCTTTCATCTGGGATTAAAGGTGTGGCGGAACACACCTTTAATCTGGACTACACCTTCTGCTGGAGACAA
+TATAAGGACATTGAAAGAAGGGAGTCTAGCTCTTGCTCTTGCTCCTTCGCCTGCTTGCTGCGTGAGACTG
+AGTAACTGCTAGATCCTTGGACTTCCATTCACAGCTGCGACTGAACAATTGTTGGGAATTGGGCTGCCGA
+CTCTAAGTCATCAATAAATTCCTTTACTATCTAGAGACTATCCATAGTTCTGTGACTCTAGAGAACCCTG
+ACTAATACAGAAGTTGGTACCAGGAGTGGTTCTAGAGTAACAGAAGTACAAGGATGAATCTTTTAAAATA
+CTGGAATTGGCTTGTTGATCCACCAGCACTTTCAACTATTGAAACCTCTCCAGATTCTCTCCCTCCTGGG
+AGCTCAGAGAATTTTGAAGACCCATGGTTGAAACTATATTCCGAACTTAAAGAAGCAAATGCCCTTGATT
+TTCTTAATGAATTAGGTGATTCAGTGCACAAAGCTTTCTACAAGATGGGGAAAAAATTGGAAAATGATTT
+TACTGGCTGGCTGCTCTTAGTATCTGTGGAAAAAATGATGAATGAAAGGAAGGAGTTGTGTGATAAAATC
+GAAAGGCTCCAGACACAAGTAAACGATCTAAAAGTTGCTAAGTGTGTCCTTGAGGAGAATCTTCTCTCTT
+GTAGCAATAGAGCTCAAGTTGCAGAAAATCAAACAGAAACTCTCATTGTAAGGTTGGCTGAACTACAGCG
+AAAATTCAAGTCTCAGCCTCAGAGTGTGTCAACAGTTAAAGTAAGGGCTCTAATTGGCAAAGAATGGGAT
+CCTACAACATGGGACGGGGATGTGTGGGAAGACCATGTTGAAGCTGAGAATTTTGAATCTTCAGATTCTC
+AAGGGTTTGCCCCACCTGAGGAAGTAGTACCCTCAGCCCCACCCCTTGAAATAATGCCTTCCCCACATGA
+GGAAATTAATTTTGCAGAGTCTGATAAACCAGCAATGATTTTCACTACTGATGTTTCTCAAGGCCCACCA
+ATAGTTTCTTCTAGACCTGTAACCAGACTCAAAGCAAAACAGGCTCCTAGAGGGGAGGTAGAAAGTGTAG
+TCCATGAGGAAATTCGCTACACTACTAAGGAGCTTAATGAGTTTGCTAATTCATTCAAGCAGAAACCTGG
+TGAATATGTGTGGGAATGGATTTTAAGGGTGTGGGATAAGGGTGGAAGGAACATAAGACTAGAGCAGGCT
+GAGTTTATTGACATGGGTCCTCTGAGTAGAGATTCTAGGTTTAATACGGAAGCTCGCATAATTAAAAAAG
+GTGTCAAAAGTTTGTTTGAATGGTTGGCTGAGGTGTTTATCAAAAGATGGCCTACTGGAAATGACTTGGA
+GATGCCTGATATTCCGTGGCTTAGTGTTGATGAAGGGATTTTAAGACTTAGGGAAATTGCAATGCTAGAG
+TGGATATATTGTGTAAAGCATAATTGTCCACAATGGGAAGGTCCAGAAGATATGCCTTTCACTAGCTCTA
+TAAGACGCAAATTGGTGAGAGGGGCACCAGCACATTTGAAGGGTTTTGTTCTTTCCCTTTTCCTTGTACC
+AGATCTTAGCATTGGAGATGCTTCTGCTCAATTAGATGAATTAAATTCACTGGGTTTAGTTGGATTCCGA
+GGTAACAAGGGCCAGGTGGCAGCATTGAATCGCCGGAGACAAGGTGATTCTAGTTATTATAATGGACAGC
+GTAGACAAAAGAATGTTTATAATAACATACCCAGCAATGGTCAGCACAGGAGAGGTGAAATTTATAATGG
+CATGACTCGGTTGGACCTTTGGTACTGGCTAACCAATCATGGTGTTTCCAGGAATGAAATACATAGGAAG
+CCTACTGCATATTTGTTTGATCTGTATAAGCAGAAAAATTCTCAAACAAATGAAAGAAAGGCTACATTAG
+ATCATGGTAAACAGCAATCTCGGCCAGTGAATCAATTTCCAGACTTGAGACAGTTTGCAGATCCAGAACC
+CCTTGAATGAAGGGGTGGCCAGGTTCCGCTGAGGAAGGATCTTGATAAGACACCCAAAGGTTTTGCTGTT
+ACCCTTTCTCCAGTTCTTCCCCAGAGGGACCTAAGGCCTTTTACAAGGGTAACTGTACACTGGGGAAAAG
+GAAATAATCAGACTTTTCAGGGTCTGCTGGATACTGGTTCTGAGTTGACACTGATTCCAGGGGATCCCAA
+GAAACATTGTGGCCCTCCAGTTAAAGTAGAGGCTTATGGAGGGCAGGTGATTAATGGAGTTTTGACTGAT
+GTCCGACTCACAATAGGTCCAGTAGGTCCCCAGACACATCCTGTGGTGATTTCCCCAGTTCCAGAATGTA
+TAATTGGGATAGATATACTCAGAAATTGGCAGAATTCTCATATTGGTTCCCTGAACTGTAGAGTGAGGGC
+TATTATGGTTGGAAAGGCCAAATGGAAACCTTTAGAGTTGCCTCTGCCAAAGAAAATAGTGAATCAAAAA
+CAGTATCGTATTCCTGGAGGCATTGCAGAAATTACTGCCACTATCAAGGACTTGAAAGATGCAGGGGTGG
+TGGTTCCCACCACATCTCCGTTTAACTCTCCTATCTGGCCAGTGCAGAAAACAGATGGATCATGGAGAAT
+GACAGTTGATTATCGAAAACTAAATCAGGTAGTAACTCCAATTGCAGCTGCTGTACCAGATGTAGTTTCA
+TTACTTGAGCAAATTAACACATCTCCTGGCACCTGGTATGCGGCTATTGATCTGGCAAATGCCTTCTTCT
+CAGTACCTGTCCATAAGGACCACCAGAAGCAATTTGCTTTCAGTTGGCAAGGCCAACAGTATACTTTCAC
+AGTTTTGCCTCAAGGATATATTAACTCTCCTGCCCTGTGTCATAATTTAGTTAGAAGGGATCTTGATCGT
+TTGGATCTTCCACAAAATATCACATTGGTGCACTATATTGATGACATTATGCTGATTGGACCAAGTGAGC
+AGGAAGTAGCAACCACTTTGGACTCATTGGTAACACATATGCGTATCAGAGGATGGGAAATAAATCCAAC
+CAAAATTCAAGGACCATCTACCTCAGTGAAATTCTTAGGAGTCCAGTGGTGTGGAGCATGCAGAGATATT
+CCTTCTAAGGTGAAAGATAAGTTATTGCACCTGGCCCCTCCTACAACCAAGAAAGAAGCACAACGTTTAG
+TGGGTCTATTTGGATTCTGGAGACAACACATCCCTCACTTGGGTGTGTTACTTAGGCCTATTTACCAAGT
+GACTCGGAAAGCTGCTAGCTTTGTGTGGGGCCTGGAACAGGAGAAGGCCCTTCAACAGGTCCAGGCTGCT
+GTGCAGGCTGCACTACCACTTGGACCATATGACCCAGCAGACCCGATGGTACTTGAGGTGTCTGTGGCTG
+ATAGAGATGCTGTTTGGAGCCTCTGGCAGGCCCCTGTAGGTGAATCACAGAAAAGACCTTTGGGATTTTG
+GAGCAAAGCTCTACCATCATCTGCAGACAACTATTCTCCCTTTGAAAAACAGCTCTTGGCCTGCTATTGG
+GCCTTAGTGGAAACTGAACGTTTGACAATAGGACACCAAGTTACTATGCGACCTGAACTACCCATCATGA
+GCTGGGTACTATCAGACCCTGCAAGTCATAAAGTGGGACGCGCACAGCAGCAGTCTGTTATCAAATGGAA
+GTGGTATATACGTGATCGGGCCAGAGCAGGTCCTGAAGGCACAAGCAAGTTACATGAAGAAGTTGCTCAA
+ATGCCTATGGTTTCTACTCCTGTTACACTGCCATCTGCTGCCAAACATGTGCCTATAGCCTCATGGGGTG
+TTCCCTATGATCGACTGACCGAAGAGGAAAAGACTAGAGCCTGGTTTACTGATGGCTCTGCACGTTATGC
+AGGCACCACCCAGAAGTGGACAGACAGCTGCAGCATTACAACCCCTTTCTGGGACAACCCTGAAAGACAC
+AGGTGAAGGGAAATCTTCACAGTGGGCAGAACTTCGGGCAGTACACATGGTATTACAGTTTGTTTGCAAG
+AAGAAATGGCCAGATGTACGATTATTCACTGACTCATGGGCTGTAGCCAATGGATTGGCTGGATGGTCAG
+GGACTTGGAAAGATCACAATTGGAAAATTGGTGAGAAAGACATCTGGGGAAGAAGTATGTGGATAGATCT
+CTCCAAATGGGCAAAGGATGTGAAGATATTTGTGTCCCATGTAAATGCTCACCAAAAGGTGACTTCAGCT
+GAGGAGGAGTTCAATAATCAAGTGGATAAGATGACCCGTTCTGTGGACAGTCAGCCTCTCTCCCCAGCCA
+TCCCTGTCATTGCTCAATGGGCACATGAACAAAGTGGCCATGGTGGTCGAGATGGAGGTTATGCTTGGGC
+TCAGCAACACGGGCTTCCACTCACCAAGGCTGACCTGGCTACAGCTGCTGCTGATTGCCAGATCTGCCAA
+CAGCAGAAACCAACACTGAGTCCCAGATATGGCACCATTCCTCGAGGTGACCAGCCAGCAACCTGGTGGC
+AGGTTGACTACATTGGACCACTTCCTTCGTGGAAAGGACAGCGTTTTGTTCTTACTGGAGTAGATACTTA
+TTCTGGTTATGGATTTGCCTTTCCTGTACGTAATGCCTCTGCTAAAACCACCATTAACGGACTGACAGAA
+TGCCTTATCTATCGTCATGGTATTCCACACAGTATTGCTTCTGACCAAGGAACTCATTTCACAGCCAGAG
+AAGTACGACAGTGGGCCCACGATCATGGAATTCACTGGTCTTACCACATTCCCCATCATCCTGAAGCAGC
+TGGTCTGATAGAAAGATGGAATGGCCTTCTGAAGACGCAGTTACAGCGCCAATTAGGTGGTAACAGCTTG
+GAAGGCTGGGGTAGAGTTCTTCAGAAGGCAGTATATGCTTTGAATCAGCGCTCGATATATAGTACAGTTT
+CACCCATAGCCAGGATTCATGGGTCCAGGAATCAAGGGGTGGAAAAAGGAATAGTTCCACTTACTATCAC
+TCCTAGTGACCCTCTAGGAAAATTTTTGCTTCCTGTCCCCATAACTCTAGGTTCTGCTGGCTTAGAAGTT
+TTGGCTCCAGAGAGGGGAGTGCTCCTACCAGGAGCTACAACAAACATTCCATTGAACTGGAAGCTCAGAC
+TTCCCCCTGGTCATTTTGGGCTTCTAATGCCCTTAAACCAACAGGCTAAAAAAGGAGTAACAGTGTTAGG
+AGGGGTGATAGATCCAGATTACCATGGGGAAATTGGATTACCTCTTCACAATGGTGGTAAGCAAGATTAT
+GTCTGGAGTGTAGGAGATCCCTTAGGGCGTCTCTTAGTACTACCATGTCCTGTGATTAAAGTCAATGGGA
+AACTACAACAGCCTAATCCAAGCAGGATGACAAAGGACACAGACCCATCAGGAATGAAGGTATGGGTCAA
+TCCTCCAGGAAAAGAGCCAAGACCTGCTGAGGTGCTGACTGAAGGAGAAGGAAATATAGAATGGGTAGTA
+GAGGAAGGTAGTTATAAATACCAATTAAGGCCACGTAACCAGTTGCAGAAACGAGGATTATAAAGTAATA
+TGAATGCCCATTGTAAATTTACTAATGCGTTTGCGATTGTACGAGGGATAGTTATATCATGTTAGGCGTA
+TTTACAAACTTGTTATTGTTTTATGTGAACATGAGATATTATTTGTGTCAAGTTGACAAGGGGTGGATTG
+TAGTGGCTATTCCTGGTTGTCAACTTGACAATATTTGGAATGAACTACAATCCGGAATTGGAAGGCTCAC
+CAGTGACCCTTATCTGGAGGCTTGGAGATCCTTATCTGGATCTTGGTTTGAAGATCTTGAGCCATAGTGG
+CTATGGATTCCAGAAGATTGAATCTCCGAGTTTAAGGAACACACCTTTAATCTGGGCTACGCCTTTCATC
+TGGGATTAAAGGTGTGGCGGAACACACCTTTAATCTGGACTACACCTTCTGCTGGAGACAATATAAGGAC
+ATTGAAAGAAGGGAGTCTAGCTCTTGCTCTTGCTCCTTCGCCTGCTTGCTGCGTGAGACTGAGTAACTAC
+TAGATCCTTGGACTTCCATTCACAGCTGCGACTGAACAATTGTTGGGAATTGGGCTGCCGACTCTAAGTC
+ATCAATAAATTCCTTTACTATCTAGAGACTATCCATAGTTCTGTGACTCTAGAGAACCCTGACTAATACA
+TCCCTACATACAGGAAACTTGATGTATAAGTAAAGAAAATAGTAAATCTAAAAATTTCCTTATCAAATAC
+ATGCAAGAAATCCAAAATACCATGAAAAGACCTGATCTAAAAATAGTAGGAACTGAAGGTGAAGTGTCCC
+AGCTCTGAAAACTAGAAAATGTTTTCAATATTTTTCCTAACAGTGAAGACATGGATCTAATGAGGCCACC
+TCTTATAGCCATGCAAGACTGACAGTGGAGGGATAAGGACACCAATCCACCCACAAAACTTTTGACCCTA
+AATCAGTTTTATCTAAAAGCAATGCAGGGGCACAAATGGAGCAGAGACTGGAGGAATGGTCAAACAATAA
+CCTGTCATATCTGAGACCCACCTAATTGGCATACACCAGTCACTGACATTATTAATAATGTTCCATTATG
+CTTACAGGCATTTCTCTAGCATTACTATTCTTGGAGAGACTTCACACAGCATCTTATTGAAACAGATGCA
+GACACCCAGAACCAAACATTGGATGGAGATTGGGATCCTTAAAGAAGAGTTGGGAGGATAATTGAGAGAC
+CTCAAAGGAATAGCAACCCCATAGAAAGACACGAACAGGGTCAGTAAACCTGGACCCATGGGGTATCTCA
+GAGACTGATCACCAACCAAAAATCACAGAGGGCCTGGATTGATTCCCCTGGCACACATGTAGCAGAGGTC
+TGCCTTGTCCTTCAGTAGGTGAAGATGAGCCTAAGGCTTCAGAGACTTGATATATCAGCATACAGCAACA
+CCCAAGTGTGTCCCACTATCTCAGAGGTGAAGGGGTGGAGATGGGCAGAAGGGTCCTGATAGGGGACAAC
+TGCAAAGAGGCAATATTTGGGACAGAAAGAAAGGAAGAGAGAGGAAGATAAAGAGAGAGATGAAGGAAGG
+AAACAAACAAACCAAGATGAAGAGAGAGAAAAGGGGGAAAATAGCCTTGAATGGTTCAGGGATTCAAAGG
+GACATACCTAAGCATGGTAAAACAATGCACATAATGGCAGCAAGTAGCTAACACTGAATTAAATAGAAAG
+ACACATAAAGCAGTTCTACTAAAGTAAGAGACAGAGTTGCCCAATCTCACCCTATTTATTCAATAATAAT
+GTACTTGAAGTTCTAGCTAGGGCTGTAAGACAACTCAAGGAGATCGGAGGATACAAATTAGAAAGAAAAA
+TTCAAAGAATTGTAATTGGTAGATGATAGGATAATATACATAAATGACCTCAAAATTCTTCCAGAGAACT
+CTGAAAGCTGATAAATACCTTCAGCAAAGTGGCTAGAAACAAAATTACTTCATAGAATTCAGGAGCTATC
+CTTTATAGAAAAGTTAAAGTGGCTGAGAAAGAAATTAGGAAAATCACATTCTTTGCAATAACCAAAAATA
+ATATGAATTAGCTTGGTGTGACTCTAATCTTGCAAGTGAAAGATGTGTGTGACAAGAGCTTCAGGACCCT
+GAAGAAAGAAATCAAAGAACTCAAAGATGCAAAGTACTCTAATGCTCATGGATAGGCAGAATTAACATAA
+TGAAAATGCCAAATTTAACAATTCAATCTACAGATTCAGTGGAATTCCCATTAAATATCCAACCCAATTT
+ATTACATTCTTGAAAAAGCAAATCTCAACTTCATATAGAAAAACAAGAAATTGAGGGTAGCTAACAAAAT
+CCTGAACAATGAAAACACTTCAGGAGAATTCACCATCCCCTACCTCAAGCTGTATTTTAGAGCAATAGTT
+ATTAAAACTGCATGGTATTTGTATAGAAACAGATATGATGATCAATGTAATTGAATTGAATACACTGACA
+TAAAACCACACTGTTATGGACACTTGATTTTTGACAAAGAACCCAATAATCATAATAAAAATCATAATAA
+GAATGCATCCCCCAACAAATGGTCCTGATCTAAATGCAAATAGATTCATATCTATCATCCTGCACGAAAT
+TCAAATCAAAGTGAATTGCAGACTTCGACCTAATACTGGATTAACTAAATCTAAATGAACAAAAAGTAGA
+GAATAGTTTTGAACTCATTGATGCAGGATTCAATTTCCTGAACAGAACCACAATGGCTCAGGCTCTAGGA
+TCATAAATTGGTAGATAGGATCTCATGAAACTGAAAAACTTCTGTAAGGCAAAGGCAATAAAACAAAATG
+GCAACCTACAGATTGGAAAAAAAATAATCTTCAGTATCCCTAAATCCCATTGAAGGCCAATATGCAAAGT
+ATATAAAGAACTCAAGATGTTATCCTCCACAAAACCAAATAAATCAATTAAAAATGAACTACAGAGCTAA
+CAAGAGAATTCTCAACAGAGGAATCACCAATGACTGAGAATCACTTAAAGAAACATTCAATATTTGTAGT
+CACCAGAGAATTGCAAATCAAAACTACCCTGAGATTCTACTTTATACCAATCATAATGGTCAAGATAAAA
+ATTCAAATGACAGCGCATGTTGGTGAGGATGTGTATACTTTTGCATTGCTGGTGAGGAAAACAATCTGGC
+AGCTCCTCAGAAAATTGTAAATAATTCTACCTGAAGATCCAGCCATACCACTCCTGTGCATATACATAAA
+ATGTGCTCCACCATACCACTAGGAGATATGTGCCACTATGCCCATAGCAGCCTTATTTGTTAATAGCCAA
+AAGATGGATACAACCCTGATGTGCCTCAAACAAAGATTGTATATAGAAAATATGGGTTCCCTTACACAAT
+GGTATTCTACTCAGCAATTAAAACGTGAGAACATCATAAAGTTTTCAGGCAAACTGATCAAATGAAAAAG
+TATAATCTTGAGTGAGGTAACAGAACCAAAATGACCTGCATGGGATGTACTCACTGGTAAGTGAATATTA
+GACTAAAAGTATAGAATATCAATGATGAAAGCCACAGACCATAAAGAGTTTAATAAGATGGAAAGCTCAA
+GTACGGATTCTTCAATCCAATATAGAAAGAGGGACAAAATAATCAGGGGAGGCAGAGGGAGAGAGAGACA
+TTTGGTGGAAATGGGAGAAGAAGGGAGAAAGGCAGAAAGGATCAGGCGTTGGGGAACACTGGAAAGCAGC
+CCAGGGGTCCTGGTAAATGGATTAAATATTCAGCTGAATGGAGGTGGGAGGCAGGGGGAAGCTCTGCAAA
+GTCCAAGAGACCTGGGATGTGAGAGGCTCCCCAGATGATAATCTTAGCCTTCATGCCTAACAGTTGTAGA
+TAAACCCTGAAGAGATCACTTCCAATAGATGCAGAGGGCCCTAAGTGGTTGGATGGAGTCCCCCAACTTA
+CCTCAAAATTGTCAATACTCATAGAAATTAGGACAATGAAAATCAAAACACCCTGAGATTGTATCTTATG
+TCTGTCACAATGGTTAAGACCAAAACCTCAAGTGATGGCTTGTGCTGGCAAAGATTCAGAATAGTAAAAG
+TCTCCCCATGGCTTGTGGGAATGCAAACTCTTACAACCTCTTTGGAAGTATATTTGATTGTTACCTGGTA
+TAAAATGGCAAAAAAAAAAAATGGTTGAAGGGGGACTAAAAAAGGAAGAAAGGGGAGAACTATGGGATGC
+GAAACAAGAAAGTTTGTTGCAAAAGAAATATGTTTCCACTGCAAACCCTGAGTCTCAGACAGAAGGGGAC
+CTGGAATTCTTCAGATACAAAGAATCTCTAAACCCTGAGGACATTCTATCACAAATAAGTAAAATTCAGA
+AAATTCTGAGTGCTCCCATCACGGAGATGAATCTGCTATGAACAGCTCATAGGTGTGACCCTCTACAAAA
+GCCATATTATTGAAAAGCCACATTGTGCCCAGACTTTGGAAAGACTGAGCTCATATCCTGAAATACAGTT
+ATGTGTGGTTCTATTTAATTACACATTTACACTAAGAAAACATGGCAGTATGGGAATGAAGCTTGTTCTG
+TACACATTAACAGAGGGAAACTAAACAAAGTATGGTGAATCCCTAACCAAAAGTAAAAAAAAAAAAAGAA
+AGAAAAGAAAATAAAAGTGAAACTACAATATGTTTCAAATGCTGTAACTGAAATCTGGTTTTTTGATGCT
+TATATCTGGTATCATCAGTGACTTCAGATTTAGTCCAACTCCAGAGCATGGTATAGCAGAAAGACATGCA
+AATAAGCCTTCTCTCTGCCCATGAAAAACACCTCGGCCCTGACCCTGCAGCTCTGACAGAGGAGGCCAGT
+CCTGGATTCGATTCCCAGTTCCTCACATTCAGTGATCAGCACTGAACACGGACCCCTCACCATGAACTTG
+GGGCTCAGCTTGATTTTCCTTGTCCTTGTTTTAAAAGGTAATTTATTGAGAAGAGATGACATCTGTTGTA
+TGCTCATGAGACAGAAAAATTGTTTGTTTTGTTAGTGACAGTTTTCCAACCAGTATTCTCTGTTTGCAGG
+TGTCCAGTGTGAAGTGAAGCTGGTGGAGTCTGGGGGAGGCTTAGTGCAGCCTGGAGGGTCCCTGAAACTC
+TCCTGTGCAACCTCTGGATTCACTTTCAGTGACTATTACATGTATTGGGTTCGCCAGACTCCAGAGAAGA
+GGCTGGAGTGGGTCGCATACATTAGTAATGGTGGTGGTAGCACCTATTATCCAGACACTGTAAAGGGCCG
+ATTCACCATCTCCAGAGACAATGCCAAGAACACCCTGTACCTGCAAATGAGCCGTCTGAAGTCTGAGGAC
+ACAGCCATGTATTACTGTGCAAGACACACAATGAGGAAATGTTACTGTGAGCTCAAACTAAAACCTCCTG
+CAGAGCACCCAGGACCAGCAGGGGGCGCAGAGAGCACATGGAGTTCTGATTCACAGAAGAGTTACAGCCT
+GTACAATTAGACCCAATCTTCAACAAACCGTCAAAATATTCGATCCAAAATTGTTCCTGTCTAAAAGTAA
+TTCAAGGACAAAATGGACCAGAGACTGAAGAAATGGCTGACCTGTGACCCTCCCAACTTTGGATCTATCT
+CATAGGCAGGTACCAAACCTTGACATTTGTCACTGACACTGTATTGTGCTTGCAGACAGGAGCATAGCAT
+GGCTGACCTCTAAGAGGCTCTGCAAGCACCTGAATGAGACAGATGTAAATAGAGTGTACAACTGGATTAA
+GTTTGAAGACTGCAATGGAAGAGTTAGAGGAAGGAATGAAAAATCTGAAGGGGATCACAACCCCAGAAGA
+AGACCAACAGTGCCAATTAAACTGGATGCCTGGGAACTCCCAGAGACTAAGCCACAAACCAAGAATCATG
+CAGGCTGGTCTGAGAATCCTGGCACCCAAGTCTCAAGGAACTGCCTTTTCTTGGCTCAGATGGGAGAAGA
+TGAGCCTAAAGCTTTAGACTTGACGCCCCAGGGATGGGCAATACAAAGTTGAGTTTCTTGGGAAAGTGAA
+GAGGATGGTGGGAGGAGGAATAAATCTGGGAAGTGGGACTGGTTGGGGACAACATATTGGTCCTAAATTT
+ATGAAATAATTATCTAATTGATAAAAAGAGTCCTTGGGGTAATGGAGGGCTAGACTCCTCTGTGCCTAGT
+TTGTAACTCTACAGGGATCCTCTTTAAAAGAATAGGGTGCACATAGAGTATATGTGTGTGACACTAATAC
+AGGGGTAAGTGTTTCTGTAAGAACTTTATGAATAAACTTTATTAAAACATCAAAAAGTATAGGTTGTAGC
+AACCCTTGACCTGTACGAATGTTTATAAAACTTTCTATTTTCCTTAATTATATCTGTTTTGCATTTGTTT
+ATTTATTTATTTACTTACTTACTTATTTATGATTTCACTGTGTCTTTCTGTAGTCCTGTATGTGTTTATT
+TGTCTCTTTATTGCTCTGTTTCTGTTTCTTTCTCTCTGTCTAGTATTGTATCTCTCTGTGTCTCTATGTC
+GCCGATTGTGTCTGTGTGTATGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGCATATTGAAA
+TGAGATCTCTTCTTCTATCAGTGTACATAATGACTTTGAAATAAAGTCCATCACTGGGCTTGGATATCAC
+TATCTTGTTAGAATGGTTGCCCAAAGTGTTCCAACCATCACACTGTTTCTACATATAATAGATGGGTTTA
+TTGATTTACTACCAAAACTACCCCATCTTAAGTTATGGATATTAAACACAGATCCTCATGGTGTGTTAAG
+AACTTGAAGCACAGAGCTATATGTACAGCCCACTAAAAATGACTTAAATATAAGATAAACTCTGGCTTGA
+ACAAAACACAGAGCATCACACGAGGCAGAAGTGAATCTCTATGAGGACCAGGATCACATCCCAAAGAACC
+AAAGAACACTTGAGACTGTGGAACCCTAGAGTCAGGGCTGACACTCAGTAAGATTTACTTCATAGAGCAT
+GATGTGGGATTCAAGAAGAAATCAGGCAGGGCCTGTGACCCATGAACCAGATGACTTCCAGTCTCTCCAT
+CATCCTCACACAAACCATAGGCAACAGCTCAGCACTGACTCACCTGTGATGCTGGTGACAAAATGTGTGC
+AAAGCCTCAGAACTGAGACGTGAGGCCAATGTTGCTACCGACACTCAGTGAGCTTCAATTTGCTGCAAAC
+TGCTCCAAAACAACTCAAAGGGTAACTTCTTCTTTTTCTATTTGTACTTGTGATGCCTTGGTAGATATAG
+TTCCCCAATAATTTAATAGGACAAATCATTTTTCCTTTTAACACATTAATCCCCTTTCCTTCCCCCAAGA
+TTCTAAAATTTTTCTTTAACACTGATGTCTGAGAGATATGGCATAATAGATGTTTGTCTTATTCTGAGTT
+GTTCCTTATCAAAAGAAATCAGCTGTGGCACTTTGAACCTAAATATAACAATATTTCACAAAGGCATTCT
+GGGAATATATAGATGGTATTGCTACAAAAGAATAGGAGGATCTATGGCCATACCACCCTTAATGAACCAG
+ATACTATCTAAAAGATTAGGACAGCTGGGCATGTTGGCACAGGCCTTTAATCCCAGCACTAAGGAGGCAG
+AGGCAGGCAGATTTCTGATTCGAGGCCAGACTGGACTACAAAGTGAGTTCCAAGACAACCAGGGCTATAC
+AGAGAAACCCTGTCTCGAAAAAACAAAACAAAACAAAACAAGAGTAGGAGGGTATTAGATGCGAGGTGAT
+GATGGCCATTCAATCAAACCAGAATGTGACCTGAGAAAAGGTCTAAGTTTGTCAGCTTGTCCTGGAGATG
+TGTTGCCTCTGATAAATGCAGAGCTGGAACTGCAATACATTGGATTCCTGTGAGTTACGGAGAAATAAAA
+GGAATAGCCTCTGTTTCCTTTGGTTCATCAAGTTGGCAGTGAGCTAGAAGATGATACTGGGAACCATCAC
+ATGTACTTCTACAGAGTTATTCTACATTCTACAAGTCAGTCTTGCTTGCTTTCGTTTCTGTGAGGAGCTA
+AATACAGAATGTTTTCAATGTCTCATAATGTTCTGTGCACACCCATGGGTGCCTAGCCAAGGATAGAAAC
+TTGTATCTGATAAGGAAAGAGGATGCTGCAGTGGCCACACTCTGAGATCACCTCCTGCCAAATTATACTA
+GAGTGTTTTACATAGTCTTGAAAACACTAGGTCAAATATGTTGTCATCCAGATATGAAAACTCTGTGCAA
+CAATTCAGAAATACAGTGGTCAGGACAACTGGTATGTAACACTTTAGTTCCAGCCCACATTAATCTCACA
+TCTTTTCTGTGGTTTCAATAAAGAGCACACATGTTTGGAACACCATCTCCACTTTGTATGCTTATCCTTA
+TGCATCAAACTTTTCCTGTAATTTCCTACCCCGCACAGGTTCCTGTCTTGATCTCTTTTTCTAATGAACA
+GCAATACAGAAGTGTTGGCCAAATGAACACTTTCACCCCAAGTTGCTTTGCCATTGTGTTTCATCACAGC
+ATTAGTAACTCCCAGTAAGGCTACTGGTTACCCTGCATCTTCTATGTAGATCTTTTGATGAAGTTCCAGG
+CTTGGGGTCTTTATCTGACTGTTATCCTGGTTAATTCATGTCCACCAATAGAATATTGTTCTCATTTTCA
+ATATCATATGAAGTTACCTGTTTATAGGATCTTCCTAAAGCAGAAAACTATATAAAATGTCTGCTTACTT
+TAAGAAAAGTATGTGTCCTTGGAGGTAAATGGAGGAAAGGGTGGAGGATGTTGAGTAATGGAAGACTGGC
+TAATACAGGAAGGTCACAGAATTGAATGATTTTAAAAATTTTAACTCCTCATCAATGAGGTACTTCAAGT
+TGAGGCAGGAGTCCTTGATGCACAGGTGACCCAAAGGCCCCAGCCTCTGTTTCTTGGTCTGCTCCAGTCT
+CCCGGCTCAGCACAGTTCACTGAGTGACAATCTTTAAGATAGTCTTTCAGGATACAGTTATCACAGTTTT
+CAAACTCTCTTCATTGAAACAATATAATGAGTCAGAGTCCAGTGTGCCATTAATAGGCCCTATGCAATAG
+GATTTTACTTCATCTGTGGAAAGAAACCACCATGGCCTCATCAAGGCCTCATTTGATGATTAGTGTAGAA
+AGCGTCCCCAGAGCTTTGCTGGGATGAAAACCCTGGCAAGATGTTTAGGGCACTCTCCATCTGACAGGAC
+AATTCTATCAAGGGTTGCTTCCATATAGAGAGAAATCTCCACATCTGCAGTATTTCCCGATTTATCAACA
+GTTCTTTACCCCGTGTCATATGCATAAAATCTTTTCTCTGTAGAATTTTCAGTACTAAAAACTAACAAGG
+ATGTTGGTCCTGATATCAGACATAATAAATAAATAAACATCAAATTATACCCTAAACATGTGGAGATGGT
+TTTCTGTTATGAATTTATTGGCTCTCTAAAAAGTGTTAATTAAGCCAGGCGTGATGGCACATGCCTTTAA
+TCCCAGCACTTGTGAGGCAGAGGCAGGCGAATTTCTGAGTTTGAGGCCAAACTGATCTACAGAGTGATTT
+CCAGGACAGCCAGGGTTACACAAAAAAACCCTGTCTCCAAAAAGTAACAAAAAGAAAGTGTTAATTAACA
+TCTACACTTTAAGATAATTTGGTGGCAAAGGTTAATAGTCTGAAATACTAGATATGAAAGTATGACACCT
+AAATTGCATGCAGAGAATAAAGCTGAATTCCAATGAGATTCATGCCTTGTGAATCCATTCCAATCTGATC
+TCAATCTTCAAACATGTTTGTGCATAATTTACATCTTAATCAGTTGCTGGAAATTAAAAGGACATAAGCT
+AAACTTAAAACTCTTTCTATTTAATGTGTCAGAATAGAATATGTGCACTGAAGTTTTCATGTGCATAGGA
+TATCATTGTTACAATGATGGTTCAAATACGCACCAGTAGCACAGGTGATGCTTGACATGAAAAAAACTGT
+GACCAGAGCCCAGACGTTGATGTTGGCTGAAAGAGCCTAGTGTCTCACATTTGATCAAGCAAAGTGTTAT
+TCAGAGAAGCAGTGCCAGATTTGGGATCCTTCTTAATGGATCAAGAACATGAGGAAGATTTGGAAGCCAG
+ATTGATGAGATTACTAGAATCCTGGATCTGAACACACAACACACAATAGTAAGTTGAACTTTTCCACGCA
+ATGCTAAAGATAAAGCATCCAGTATCATGTTATACAGGACCAAGGTGAGGATCAGTCTGTGGGTGAAGTA
+CAATGAACTGGAAATTGTTTGGATTTTAAATGTTGGTTTTTAAATTATATATAAAATATATATATATATA
+TATATATATACATATATATATATATATATATATATATATATATATCGGAACCAACATTTAAAATTTGGAT
+TTTAAATGTTGGTTTTTAAATTATATATAAATTATATATATATATATATATATATATATATATATATATA
+TATATATATATATATCGGAACCAACATTTAAATTCCTAATTCTTAAGGACTTCACTTTTGACCAAAAATA
+TTTGAAATGGGTTATTTAGGTCTGTGGTGGTTTGAATATGCATAGCCTATAGGAAGTGGAAGTATGGCCA
+TTTTGTAGTATGTGTAGCCTTGATGGAGGAAGTACATCACTATATGGTGTTGTGAGAGTTGAGATCCTAT
+GTTCAAGTTCTGCCAAAAACAGAAGAGAGTCCCCTCCTGGATATTTGAAACAGATGCAGAGGCCCAAAGC
+CAAACATTGGGTATATCTCAGGGTTTCTTATGGAAAAGTTGGCTGAAGGATTGAAGGCCTTAAAGGGGAT
+AGGAACTTCACAGGAAAACCAACAGATTCATCTAACCTAGACTCTAGGGGTCTTTCAAAGGTTGAGTCAC
+CATACAAAAAGGACACAATGGCTAGACCTAGGTCCCTGATACATATGTAGCAAATGTGCAGCTTAGACTC
+CATGTGGATTCCCCAACGACTAGAGCAGGTATTGTCCCTGAAGTTATTGCTTGTCTGTAGAATACATTTC
+CCAACATAATTGTCTTGTCTGGCCTCAGTAGGAGAGTATGTTCCAATCCTGGAGAGACTTGATATGCCAG
+GATTGAGAGATTAAGGGTCTCCCACCATCTCAAAGTTCATGGGTATGACAGGGGAGGGGCAGTGCAGGTT
+TTCCCCATCTCTGATTTCCAGCATTTGCACCCCCAATATTGAGGGGGAGGTCTAGCAATTGGAGGGGGGA
+CAAACAGTATGAGAAAGCTAACTTTAGTGGTGTTGTCACAGTGTGGGGTATTGTGGGTGGGAGTGGAGAT
+GAATCCTCCTCCTCCTCAGGAGGCTGTAGCAGGTGCTTGCCCTCTTTTGGGACAGTAGAGCTGTGGTCAG
+TACTGGCCTGTTCCTGACAAATTTATTCTGTGCTGTGACCATTTATTCAAGGGAGGAAGATTTAAGACTT
+GCTATGATAACCTGACGAATCTGGACAAACAAGAGACAGGAGGTAACACCTGAGTTACTCTTTTGCTTGC
+TAGTACAGAAGAGCACTATAATCCACAAATTGGGGTCCCACATATTCTTGAGTGGGATCCAAGGTGCCAT
+AATTTCAGCCACATTCCAAAGTCCCTCAAGGTCTGACAGTTTAGTCTTTAGGCTTCTCCTAACCAAATCA
+TATTTGGAGTTCTTTAACATAAAAGGGTAGTTTCCCCATATCACTGCCAGCAAAACAGGTTGAATTTGGA
+CAGACAAGCAAAACTATCACAAACAAGACAGACTATGTGTGCGATCCAAATGTCTTGTGATTAGAGGGGA
+AGTTCTGCAGCTTATTAGGCTGTGTCCTTATGCCCACAAATGTCTTCAGATAGGAAAGGGCCATTGGGTG
+CCAATCCTTAGTTCTTCTGTTTCCTGGGCTGTCAGTTTTTATGTGGAGAAGACATGAACCAAATGCAAAG
+TCATGTATCCTACAAGAACTGACATACACAGACAAACAAGGAATAACAATGAGCTCTCTCATTCACCTAA
+GGGGGTCTTATAACATAGAACAGAAAGGGGCCAACTTAGCAAGAATTGACCAAAAGGTGGTCACCTAGAC
+CACACCACAATGCAGGAAGGATATCAATGAAGGAAGAACAAAGGAAAGGCCAAATCAAGTTTGTTGGCAC
+ATGACATAAAACAGTGCTCAAAAAACAATAGATGCGAGCAAAATGAAGCATTGGAATCATATCGGGGTAC
+ATAGGGGTCACTCTTACCCCTGTTCAAGTGCCAGATGTTGTTTTAGCCTTAGGCTCCCTGAGTTTGTCTT
+TAGGGGAAATGGGTAAGAATACACAAAAATAATGTCACAGAATCTTAGAGGCAGATGAGAAGTCAAAGCA
+GACTCATTTATTGCTATAGAAAAGAATGCCTTTATACCTTCTGTCCATAACACCTCTGCCCATATATGCT
+CATCTCTGTGAGGCAATGGACTACCTGCAGACAGGCTGGTATCCAGTCAAGCTGAGGTCTGAACCACAAT
+GGTCGTAACTCACCTAAAGGACGTGGTAGGCATGACGCGATAGGCGTTCCCTCATGCTCCTGGAACTCCG
+GCCCCTGCCTAAGGTACCACCTCCCACAGCCCCCACAAGAGAAGCATGGTCAGTAGTCATGTAAGCAATG
+GCCCAAGCTTCTGACCTTCAGCCTAAACTCCTCCCCAGTTACCTAGCAACAGTGAAGACCATAAAATGGG
+ATGTTAGGCCCCCACCTCACTCTCTTACTCCTTTGTTCCTTTACCTCTCACTTCTCTCAATTCTCTCTCC
+TCTTCCCTTTCTTTGTCTTCTTCTTTCCTTGTCTCTCTGTCTTTCTCTTTCTCTCTAGCCTTCTCTGCCT
+CTCTCTCTCTCTCTGTCTCTCTGTCTCTCTCTTCTCTCTTTCCCTTGAATTTCTTTTTTTCTTTTTTCTT
+TTTTTGATGAGCACAGTATAAATAGTTTATTGCATTGTTTCTGAATGTGGCTGTATTCTCTATTGTTCTC
+TTTCTTATTTTTTTTCTTTTTTTGGTTGTTTTTGTTTTTATAGTCTCGCACAGAATTCTACATCTACCAA
+ATCCCCATTGTGTACTTTAGTTTTGTCTTGTATTCAAAGGTTCTTTCAGAAAGAATCTTAAAGATGAAAT
+TTGCCTTCCAACTTTTCAAAAATACATATAAAGATAGATGTTACATAGTTCACGGAATAGACACATATAC
+GGAGATGCAGCAATATCTCCTTTGTGCCTCTTGTATATTCATGTTATTTCCTCAACTAAAAATACATAGC
+CACAAAGACATACAATGAGCACTCCACTTAGGAAAATATGGCCATATTTTTTTACATTTTTATGATTTTA
+TGATTAGGTATATTCTTCATTTACATTTCCAATGCTACCCCAAAAGTCCCCCAACCCTTCCCTCACTCCC
+CTTCCCCACTCCCACTTGTTGGCCCTGGAGTTCCCCTGTACTGAGGCATATAAAGTTTGCAAGACCAATG
+GGCCTCTCTTTCCACTGATGGCCCACAAGGTCATCTTCTGATACATATGCAGCTAGATACATATACATAC
+ACGAGCTCCAGGGGGTACTGGTTAGTTCATATTGTTGTTCCACCTATAGGGTTGCAGATCCCTTCAGCTC
+CTTGGGTACTTTCTCTAGCTCCTCCATTGAGGGCCCTGTGATCCATCCAATAGCTGACTGTGAGCATCCA
+CTTCTGTGTTTGCTAGGCCCCATTATAGCCTTGCAAGACAGCTATATCAGGGTCCTTTCAGCAAAATCTT
+GCTAGTGTGTGCAATGGTGTCAGCATTTGGGGGCTGATTATGGCATGGATCCCCGGATATGGCAGTCTCT
+AGATGGTCCATCCTTTCATCTCAGCTCCAATCTTTGTCTCTGTAACTCTTTCCATGGGTGTTTTGTTCCC
+AATTCTAAGAAGGAGCAAAGTGTCCACACATTTGTATTCATTACTCTTGAGTTTCATGTGTTTCCCTTGC
+ATTTCTATAATAAACCATAAGGAGTCTCTGCTCTACCAAGACCCGCTGCACACTCTGGTCAGTGTTGGGA
+ACTTTTCCCCTATTCCCTCTCTCCTATAACTCCGGGGCTACAGGGTGTCTCCTTTGGGTCCCGGTTGGGA
+GCTGTCTCTTCTCAACCCCCTGACTCATGGGTCAGAGGCCTAAATCTCCACCCAAGGCTGTGTGAAAAGC
+ACCGGGTGGTCTCCCCATATCTCCCTGTCCAGAGCACAGGAACTCTGGCCGGACATGGCATATTTTTCCT
+CCCCAACTTCTTCCCCGGCCTCCTCAGGGCTGTCCCTTCATTTTGTTCCCCACACATCTCCACATGGCTG
+CCACCATCCAATTGGCTGCTGAGGTCACACACTCTGTCTTTGTTCTTCTCTGAGTCTCATGCAGGTTTTG
+TGTTAGTAAATGCAAAAGTGCCTGCTGTGCATGCATGAACCATTACAGGCTGCTAGGCAGAACATGCTGA
+CTTGCTCCTGGATTATAAATCCATCACTGTGATAGCAGGACATATCCAGAAGACATTATTTAACAACACT
+CCTCTTCGTGCTCAACCTCTCATGGTCTTTCTACCTCCTCTTTCTTAGTGTTCTCTGAGCCTACATGAAA
+TGTGAACAAACCTGAAAAAAATCTCTGTGTCAAATACATAGTGTGGATTGGGAAGGAAAAACCCTGCACT
+TGTGTGTGGGCAGGGAAATGCTGGTGCTTTAACAGGACAAGTGCGGTGTGGCTAGAGAAAGTGATGAGAA
+GAAGGGAAGCATGAGAACTGGGTGGGTGGATCCCATGTCTACTGAAAATGCTATGTTGATGTCAAGATAT
+TGTGTCTTGTTACAAAAATTCATTGAGTACCTAGGTTATTCTCAGTATATAAAAGGGGAGGAATGAAACT
+AGAATTAAACACACACACACACACACACACACACACACACAAACACACACACACGAGTAGAGAAAAGAAA
+TAGTCATGAGTTGCCTAGTGAATGAAGAGCGGAAAATGGTGCAGTTAATAGGGATCATAGAAAGAACTGG
+GGGATGCACACGAATGGGTTTCCTGTAATTATGTCTTCATAGTAATCTCTGCTCAATAATCAGACAGTGA
+CAATGTATGCCTCATTTACAAGCCCTGATGGCCTCTCAGAGGAAAGCATCTCTCTGAAATGAATAAAGTT
+CAGAAATGTCCTAAGTGTCCCTGTCACAGGAAAGCAGTGTTGGTAACGTTTCCAGGAAGCTCAGTCTTTG
+TCAAATATCCACAACAAGAAGAAGCCATGTCTAGACAGACAACAGACTGGGAAAGACTGAGCTCATGTAT
+GGAAACACAACTATGTGTCATGCTTTTATTTTCACATTATACTGAGGGGATATGACATTATAGAAACACA
+GTTTGTTCTTTGCATATGCTGAGAGAGGAACTAGATGAAGTGTGCTAATTCTTAGCAATAAAAAGATATA
+CAAAGTGGTACTTTACTGTTTCAATTTTTGTAACTGGCATCATTGTCTTTGATATTTTATATCTTCCTTG
+AGCACTGCCTTCTCTCAAGTGTCCAACTTCAGAGTATGCTATAGCAGGAAGACTACCAAATAAGATTAAT
+TTTTTTGTACCCATGAAAAAATTATGTGCCCTGACCCCTGTTCTCTGAAAGAGGAGCCAAGTTCTGGATT
+CCCAGATCCTCATATTCATTGATCAGCAGTGAACACAGATCATTCACCATGGACATGGGGCTCATCTGGA
+TTCTCCTTATTGTTTTTAAAAAAGGATTTCATTGGGAAAAGCTGCCTCATATTTCTATGACCAGGAGAGG
+AAGATACAGCTAGAGACACAAGCCCCACCATGTAAAATCTGTATGGTACTCTCGTTTTCATTTTACAACA
+TTTTGCTTTTGCATTGCAAAGGAGCAATAAGGGTTCAGCAATCAGCACTGTAACTGTACTTTTAAAATTT
+CCACCTCTACCCTCTGTGTCCTCTATCTAGTGATAGAAAGTGAAATAAGCACATAAAGCATGGGACAAGA
+AGAACACACAGAGGAGCAGAGACTGGCTACAAGTGGCAGCCAGCATGGAGCTGGACAGAATTTAAAAAGA
+TAAAGAGAAATGTCATGGCATGAAGCAGTGACTTTTTCTGTTCACAATGCCTGCAAAAACTTTATGGAGC
+CTACTACTGCTGAGATATGCAGGTTTGGTTCCAGAGAGGATTTTCTGTTTTATTTAATTTGCTTTTAAAT
+TTTTCTTCTTTGTATAGTCTGTATTTTTAAAAAGGGGTTGAATGAATACCTAAGCAGTTGGAAAATTTGT
+GAGTAGAAACCGAGGGCCTGAGAAACAAATAAATCAAAATTTTGAAATGGCAAAAGAAAGGGTTCATTCT
+ATTTTCTCTTTTCAGAAAAGGTTGCAAAGTTGGATGTGCAAATGGAGATGTTATGGGTGGACTTGGAACA
+TCTTGGGAAGGAAGGAACCCAGGAAAAGAAAGAATGAAATGGCTCAGCCTCAATGACTGAGCAAGAGAGT
+TAGAGTCACCCACAGGAGAAAAGAAGAAAATAAACAGCACTGGGGTGAATTTGGGTCAGAGAAAACCTTA
+AAATGCCAGAGGACAATGTGATGAAAGAGACCATTTGAAAGAAAGGGTTAACCTCATTCCATCAGTCATG
+CCAGAGTTAGAGAATGGGCAGTCTGGAGTTACAAGATCACGATTAGCCTTCCCAGTATGTATACAGCATA
+TTCCTGATAATGAGATGAAGCAAAGTTTGACAAGGTAAGATTGTATCCTATAGTAATATATAGATCAAAG
+GCATGTTGCAGTAAATCTCCAACAGAAATAAGCCCGGGCAATGAAAACACAACTCAATTAATATGAATAC
+GTGCTGTGCACCTAGACTGGGCAGATCTACCACTCCACTACCATATGAGAGATCCCTTATAACTTGTGGT
+TTCTCCAGGCCAGCTGCTTCTGCTCTACTTTCCTTCCTCCTCCTCCTATGTCATCCTCTCCCTCACTCTT
+TCTCTCCCAAAACTTTCAGCTGCACCTTCCCCTCTTCATCCCCCAATCAGTGGCTCTAGCCTTTATTTAT
+AAATTAAGGTAGGAAGAAGGTTTATAGGAAATTACCTGAGTGTTGACGTGTTGATAACCCCACACAAGAG
+AACAAAATTAATATCAAATATGATTAGCTCCAGGGTTATATGCAACAAAGGCATGATAAAGTGGTCATGA
+TTTCATATGAGATGTACTGGACTCATGTGAAAAAACGTTTAAATACATGGGCTTACTCAAAATATAGACT
+CATACCCCCAAGATGGGAAGAGACTGGTAACATTTGTACTGGAGGCTGGTCTGCTGTGGCAGCCATTAAC
+ACAGTGGAGGGAAGAGCCTCAAAGAGTGAAATAGAGGAAGGGGAACAAATACAGTAAACCACCAGTTACT
+ACTTAAAGGGCAGTGTTCTGATGTCCTAGGGAGGGCACTCCAAAATACCAATGGCCTTATCCTTAAATTT
+ATTGTTTAATGAGCCTACACTGATCTCAGTGGCCCACTACTAAGGAGAAATGACAGGCACTTGAACAGCT
+GATATGAGAACAGCTGGAGGCACAGTATACAGAAGAGTTTACAAGCCTATGGAACTCCCCTGTATTTTTT
+TATGATGAGGAAATCTGAAAAATGTAAAATGTTGAAAGATTTAAGAGCAGTTATTAGAGTAGATCAACCA
+ATGAGTCTCTTGCAGCCTGGAATTCTTTTATCTTGTTTGTAACAACAATCAGGCTCCATAAATTATAAAC
+TATAAAAATTTACTTTATAAATTATAAATATATATATATGTGTGTCTGTAGATAGATAGATAGATAAATA
+GATAGATAGATAGATAGATAGATAGATAGATATATGGATTTGATGGTTGCAGCAAATTCTAATTGGTTCC
+AACAACCCTACTCACATAATACATTCATACAGGTTTGATAGATGGAGCTAAGTTTTAAATAAATTATTTT
+TCTCCCATGGCTTATATATACACCACCAAAATTCTCAAAAATTAAAATGTGATTGTGTTGTATTTTTCTT
+TTACTGAATGACTATAAAAAGTTACAACATTCTCCATAAATTTACATGAAAAAATATTATGTAGTGCAGG
+TAAAGAAAACAAATTGACCCAAGAATGGTGTATATTCATTACTAAGCAACTTTTTAGATTCACAAAGTGT
+GGGTAAACAAGGTAATTTTTTCAATCAGTTTTTTTTAACTGGCAGGCAGCAATTCAGAGTTACAATGAGA
+AGATTAATAATTTTATTGTGTATTTTAAAATAAATCTTACAAAAATATTAATAGAATCACAAATTTATAC
+CTTTGTATAAAAACAATCAGTCATTTCTACTTTAAGAAACAGAACTCACATCTACTCATCAATCATTTTA
+TTAAGTCATATTACAAAGCTGAGTGCTAACATGGGTATAAGAAAACCATAACCTTATTCACCAGCCCAGC
+GTCAAAAAGAAAAAAACCAGTCATATCAGCTGCTGCTTCAAGAGTTCTTGTTCCTTGACATTAACAAAAT
+CCCTAGCTTAACTATTAAATTTTTTTTCAAAACTTCTAATTGATCCCTTAGATAAATGTTTGTGCTAACC
+ATCGGGACACATCCCATGAGTTCTGAAGCAGTGTGTTGTTCTTCATGCATGGCCCTTTTGTAGAGCTGTG
+AGTGTAGGGGAAGAGGGGGGAGAGAGAGCCCGTGTCCAGCCAGAGATCCTGTGCTCTGGGCAGGCAGACA
+CGGGAGGACAACGGAACACTTTTCACTCGGCCTTTGGTGGGCATCTGGCTGTGTGAAGTTACTGACCCCA
+CATGGTGGGGGATGGACAAGGGGCAGCCCCTGGTACCAGGAGCCCCAGGGCTACACTCTCGGCCCCAGAT
+ATACAAGAAGAGGGCAGAGGGAGAGAGGCTCCCACACAGGCGAGAGTCCTTAGTCTGGTCTGTGGCTGGA
+GCAGGGGAATTCCTTCTGATTGGAGATTAGGCACAGCTGATTAGGGGAAAGCCTACCCCATCATCCAAGC
+ACAATGGACTTTGAGGAACAGAGCCAGTCTAAGCTTTTATAGCTTTATGGTAGAAAGGCAGGGAGAAAGG
+AGAGAATGTGGAGAGAGACAGAGAGAGACTGGCCATGGCCAAGAGGAGGGAAGGGGGAAGAGAGAGAAAC
+AGGAAAAGCTAGAAAGTAAGATAAGAGAAAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGCAAAGTG
+GGGCCAAGCAGCCCCTTTTCTAGTGAGCTTGTCATCTCACAGTTGCTAGGTAACTGGGGAGGAGTTTAGT
+CTGAAGGTCAGAAGCTTGGGACCTTGTGTATGTGACTACTAACCACAGCTTCTCCTGTCGGGACTGTGGG
+AGCAGTAACTTTGACAGGAGACAGGGATCCAGGAGACATGAGGGAACACCTTCTGTCCCACATAGGTGGA
+ATCGGTTGTACCAGGGTTCAGAACTCAACTCCACTGGAGACCAGCCTATGTGTGCATAGCCCATTGCCCT
+ACAGCCTTTGACATTCTACAGAGTTCTGAGACTGGTAGAGATACAAAATAGCTAGGATTACACAGAGAAA
+CACTGGCTTGACAATAAAACTTCCAAAACAAATATAAATGAATAAATACACAAATTGGAGCAAGTGAACT
+TGCACTAAATCCATCAAAACTTGCACAGGATGGCTGTCTCCATAATGTTCAGATCTACTTCTATTAATGT
+CATTAAGAAGACAAAGATTATGCACAAAAAGAAACAAAACAAGAAACCCAAAAGGTAAAGGCTCCAATTG
+TAAGTAATAGACCCACAGTCTCTGAGGCCTGACTGTGCAGGTCCTCACCTTTGGTAATCAGCACTGAATG
+CAGACCACTCCTCATGGACTTTGGGCTCAGGTTTGTTTTCCTTGTCCTTATTTTAAAAGGTAATTCATAG
+AAATGAGATCCTGCCAGTATTGTGTACATGAGAAATAGAAAAATTGGTTTTCTTTGCTCTATTTTGTTTT
+GTTTGGTTAATGACAGTTTCCAAATCAGCATTCTTTGCTTTGAGGTGCCCAGTGTGAGGTGAAGCTGGTA
+GGGTCAGGGCAGCCTGGAGGGTCCCTGAAACACTCCTGTGCAGCCTCTGTAGTCACTGTGAGTGACTACT
+GAATGACCTGGGTCCTTCAGGCTCTAAAGAAGGGGCTGGAGAGGGTGGAAATAATTTTTAATGGTGGAGG
+TAGCACCTATTATCCAGACACCATGAAGGGCTGATTCACCATCTACAGAGATGATGCCAGAAACACACTT
+TACCTGAAAATAAACAGTCTGAGGTCTGAGTACACAGCCATGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+TGTGTGTGTGTGTGTGTGTGTGTGAGTGTGTATTCATATATATATATATAGTGTGTATGTATATTCATAT
+ATATATGTATATTCATAAGGTTGAGTAAATGGACTTAAACTGATTCCATCACAACTTCCATGGGATGGAT
+ATTTCCCAGTGTTAAGACCTGTCAACATCACTGTCATTCAGGAGACAATGATTATGCACAACAAAACAAG
+AAACCCAAAAGCAGAGGACTCCAATTACAATAGACCCAGACCCACAGTCTCTGAAGATTGACTGTACAGT
+TCAACCCAGCCCTGTACTTCTCTTCCCTAGAATTTACATTACTGAGTAACTGAGGAAAGCTCTACAATAT
+CTGTTCTCTATAGTGGTCAACACCTCCAAACACAGGTTACCCATATTCATGCCTGCCTTCTGCTACACTT
+CTTGCCATAATGTAGACTACTTCAGCCTATTTTGTACTCCAGTTAACGAAACTCAAGACTAGCTGCATGT
+TAGTCCTTATTCTGAAATATTATGAACAGGTGACCTCCCATCATTCACCAATGCAATAATCATATTTAGG
+AATATGAGGTTTTATGAGATATAAGCACAAGGGAGAGAAAGTAAGAAAACTACATAGATATATAGACTGA
+CATAAATCAAGACTTGCATGAGCTAGTGCCCAAGTACCATGTCCCTAAGTGGCAAGGAGTATCTTTTGAG
+CCTAGTGAGATGAGGTACAAATCGGACTCTTACATCTTTTTAGATAAACATGTGAGATCAATGGACTAAA
+GGCGTGAGCTGGGCTTCCTTGCAATCCATTTTCCATACAAGATAACAATAGATCTGGCTCCACAGACACG
+ATGAGAATAGTCTTAATTAGTTCTTTAAGTAGAATGACTGATCACTAAGAGCCCAATTCCATACTAAATA
+CTCTTCTGGATTATGCACAGATAAAAATTGCACATAGGGCATGGGGCACTGATCTCCCTGCACTACATGA
+ATGGGGGCTCATTTACTAAATGTTCCCATGTTTCTTCCTAGTGCTGCACAGAGCAAATCCTACAACTTCC
+TGCTTGTCTACAATGTAAACTCCAGACAGTACCAGAAAATCATTCCTTATGTTCCTCTCCAGGTGCTTCA
+ACAAGCACAGTGCAAATTTCTGTCACCCTG</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene397">
+        <gene_name>peb1A</gene_name>
+        <strain>Campylobacter jejuni</strain>
+        <vo_id>VO_0011045</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>112360246</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>2V25</pdb_id>
+        <xrefs>CDD:183381
+EnsemblGenomes-Gn:Cj0921c
+EnsemblGenomes-Tr:CAL35041
+GOA:Q0P9X8
+InterPro:IPR001638
+InterPro:IPR018313
+PDB:2V25</xrefs>
+        <taxonomy_id>192222</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>aspartate/glutamate-binding ABC transporter protein</protein_name>
+        <protein_pi>8.53</protein_pi>
+        <protein_weight>27458.45</protein_weight>
+        <protein_length>390</protein_length>
+        <protein_note>bifunctional adhesin/ABC transporter aspartate/glutamate-binding protein; Reviewed</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAL35041.1 aspartate/glutamate-binding ABC transporter protein [Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819]
+MVFRKSLLKLAVFALGACVAFSNANAAEGKLESIKSKGQLIVGVKNDVPHYALLDQATGEIKGFEVDVAK
+LLAKSILGDDKKIKLVAVNAKTRGPLLDNGSVDAVIATFTITPERKRIYNFSEPYYQDAIGLLVLKEKKY
+KSLADMKGANIGVAQAATTKKAIGEAAKKIGIDVKFSEFPDYPSIKAALDAKRVDAFSVDKSILLGYVDD
+KSEILPDSFEPQSYGIVTKKDDPAFAKYVDDFVKEHKNEIDALAKKWGL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Chitosan-DNA vaccines were prepared by embedding pcDNA3.1(+)-cadF and pcDNA3.1(+)-peblA with chitosan respectively. The mice immunized with chitosan-DNA vaccines have generated high levels of IgA and IgG from the sera and IgA from the intestinal secretions and the P/N value went up to 20.58, 30.13 and 6.87 respectively. The chitosan-DNA vaccines induced strongest level of protection in BALB/c mice against challenge with C. jejuni HS:19 strain and the protective efficacies was 93.70 [Ref1038:Zheng et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene873">
+        <gene_name>PorA</gene_name>
+        <strain>Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>905550</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>218562871</ncbi_protein_id>
+        <gene_locus_tag>Cj1259</gene_locus_tag>
+        <gene_refseq>AL111168</gene_refseq>
+        <protein_refseq>YP_002344650</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>192222</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1189120</gene_start>
+        <gene_end>1190394</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>major outer membrane protein</protein_name>
+        <protein_pi>4.49</protein_pi>
+        <protein_weight>42413</protein_weight>
+        <protein_length>424</protein_length>
+        <protein_note>Original (2000) note: Cj1259, porA, major outer membrane protein (MOMP), len: 424 aa; 94.6% identical to TR:AAC82317 (EMBL:U96452) C. jejuni major outer membrane porin (424 aa), and 98.0% identity to MOMP_CAMJE major outer membrane protein (fragments) (399 aa). No hp match. Also simlar in part to Cj1021c (63 aa, 34.5% identity in 55 aa overlap)~Updated (2006) note: Pfam domain PF05538 Campylobacter major outer membrane protein identified within CDS. Further support given to product function. Characterised within Campylobacter jejuni, so putative not added to product function. Functional classification -Membranes, lipoproteins and porins~PMID:7543469, PMID:9163918</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002163.1:1189120-1190394 Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819 chromosome, complete genome
+CATGAAACTAGTTAAACTTAGTTTAGTTGCAGCTCTTGCTGCAGGTGCTTTTTCAGCAGCTAACGCTACT
+CCACTTGAAGAAGCGATCAAAGATGTTGATGTATCAGGTGTATTAAGATACAGATACGATACAGGTAATT
+TTGATAAAAATTTCGTTAACAACTCAAATTTAAACAACAGCAAACAAGATCACAAATATAGAGCACAAGT
+TAACTTCAGTGCTGCTATAGCTGATAACTTCAAAGCTTTTGTTCAATTTGACTATAATGCTGCTGATGGT
+GGTTATGGTGCTAATGGAATAAAAAATGATCAAAAAGGACTTTTTGTTCGTCAATTATACTTAACTTATA
+CAAATGAAGATGTTGCTACAAGTGTAATCGCTGGTAAACAACAATTAAACCTTATCTGGACGGATAACGC
+TATTGATGGTTTAGTTGGCACAGGTGTTAAAGTAGTAAATAACAGCATCGATGGTTTAACTCTAGCTGCT
+TTTGCTGTAGATAGCTTCATGGCTGCAGAGCAAGGTGCAGATTTATTAGAACATAGTAATATTTCAACAA
+CATCAAATCAAGCTCCTTTTAAAGTAGATTCAGTAGGAAATCTTTACGGTGCTGCTGCTGTAGGTTCTTA
+TGATCTTGCTGGTGGACAATTCAACCCACAATTATGGTTAGCTTATTGGGATCAAGTAGCATTCTTCTAT
+GCTGTAGATGCAGCTTATAGTACAACTATCTTTGATGGAATCAACTGGACACTTGAAGGTGCTTACTTAG
+GAAATAGCCTTGATAGCGAACTTGATGATAAAACACACGCTAATGGCAATTTATTTGCTTTAAAAGGTAG
+CATTGAAGTAAATGGTTGGGATGCTAGCCTTGGTGGTTTATACTACGGTGATAAAGAAAAAGCTTCTACA
+GTTGTAATCGAAGATCAAGGTAATCTTGGTTCTTTACTTGCAGGTGAGGAAATTTTCTATACTACTGGTT
+CAAGACTAAATGGTGATACTGGTAGAAATATCTTCGGTTATGTAACTGGTGGATATACTTTCAACGAAAC
+AGTTCGCGTTGGTGCTGACTTCGTATATGGTGGAACAAAAACAGAAGCTGCTAATCATTTAGGTGGTGGT
+AAAAAACTTGAAGCTGTTGCAAGAGTAGATTACAAATACTCTCCAAAACTTAACTTCTCAGCATTCTATT
+CTTATGTGAACCTAGATCAAGGTGTAAACACTAATGAAAGTGCTGATCATAGCACTGTAAGACTTCAAGC
+TCTTTACAAATTCTA</dna_sequence>
+        <protein_sequence>>YP_002344650.1 major outer membrane protein [Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819]
+MKLVKLSLVAALAAGAFSAANATPLEEAIKDVDVSGVLRYRYDTGNFDKNFVNNSNLNNSKQDHKYRAQV
+NFSAAIADNFKAFVQFDYNAADGGYGANGIKNDQKGLFVRQLYLTYTNEDVATSVIAGKQQLNLIWTDNA
+IDGLVGTGVKVVNNSIDGLTLAAFAVDSFMAAEQGADLLEHSNISTTSNQAPFKVDSVGNLYGAAAVGSY
+DLAGGQFNPQLWLAYWDQVAFFYAVDAAYSTTIFDGINWTLEGAYLGNSLDSELDDKTHANGNLFALKGS
+IEVNGWDASLGGLYYGDKEKASTVVIEDQGNLGSLLAGEEIFYTTGSRLNGDTGRNIFGYVTGGYTFNET
+VRVGADFVYGGTKTEAANHLGGGKKLEAVARVDYKYSPKLNFSAFYSYVNLDQGVNTNESADHSTVRLQA
+LYKF</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Adult BALB/c mice were orally immunized with a recombinant glutathione S-transferase (GST) fused to PorA prepared from Campylobacter jejuni C31 (O:6,7) (GST-PorA) combined with a modified heat-labile enterotoxin of Escherichia coli as an adjuvant and later orally challenged with C31 strain or three heterologous strains: 48 (O:19), 75 (O:3), and 111 (O:1,44). The vaccine produced robust antibody responses against both antigens in serum and secretion. Since strain C31 was a poor colonizer, homologous protection could not be studied. The protective efficacies of heterologous strains were 43% (for strain 48, P &gt; 0.001), 29% (for strain 75, P &gt; 0.005), and 42% (for strain 111, P &gt; 0.001) for the 9-day period compared to control mice given phosphate-buffered saline. Thus, PorA provided appreciable protection against colonization with heterologous serotypes[Ref1640:Islam et al., 2010]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference571">
+		<reference_name>Abimiku et al., 1989</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Abimiku AG, Dolby JM, Borriello SP</authors>
+		<title>Comparison of different vaccines and induced immune response against Campylobacter jejuni colonization in the infant mouse</title>
+		<year>1989 Apr</year>
+		<volume>102</volume>
+		<issue>2</issue>
+		<pages>271-80</pages>
+		<journal_book_name>Epidemiology and infection</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference202">
+		<reference_name>Abulreesh et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Abulreesh HH, Paget TA, Goulder R</authors>
+		<title>Campylobacter in waterfowl and aquatic environments: incidence and methods of detection</title>
+		<year>2006 Dec 1</year>
+		<volume>40</volume>
+		<issue>23</issue>
+		<pages>7122-31</pages>
+		<journal_book_name>Environmental science &amp; technology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference554">
+		<reference_name>Andrews, 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Andrews GP</authors>
+		<title>The enteric Campylobacter: they are everywhere</title>
+		<year>1998 Sep-Oct</year>
+		<volume>11</volume>
+		<issue>5</issue>
+		<pages>305-8</pages>
+		<journal_book_name>Clinical laboratory science : journal of the American Society for Medical Technology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference204">
+		<reference_name>Baqar et al., 1995a</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Baqar S, Bourgeois AL, Schultheiss PJ, Walker RI, Rollins DM, Haberberger RL, Pavlovskis OR</authors>
+		<title>Safety and immunogenicity of a prototype oral whole-cell killed Campylobacter vaccine administered with a mucosal adjuvant in non-human primates</title>
+		<year>1995 Jan</year>
+		<volume>13</volume>
+		<issue>1</issue>
+		<pages>22-8</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference205">
+		<reference_name>Baqar et al., 1995b</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Baqar S, Applebee LA, Bourgeois AL</authors>
+		<title>Immunogenicity and protective efficacy of a prototype Campylobacter killed whole-cell vaccine in mice</title>
+		<year>1995 Sep</year>
+		<volume>63</volume>
+		<issue>9</issue>
+		<pages>3731-5</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1039">
+		<reference_name>Baqar et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Baqar S, Applebee LA, Gilliland TC Jr, Lee LH, Porter CK, Guerry P</authors>
+		<title>Immunogenicity and protective efficacy of recombinant Campylobacter jejuni flagellum-secreted proteins in mice</title>
+		<year>2008</year>
+		<volume>76</volume>
+		<issue>7</issue>
+		<pages>3170-3175</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1036">
+		<reference_name>Buckley et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Buckley AM, Wang J, Hudson DL, Grant AJ, Jones MA, Maskell DJ, Stevens MP</authors>
+		<title>Evaluation of live-attenuated Salmonella vaccines expressing Campylobacter antigens for control of C. jejuni in poultry</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>4</issue>
+		<pages>1094-1105</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference498">
+		<reference_name>Burr et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Burr DH, Rollins D, Lee LH, Pattarini DL, Walz SS, Tian JH, Pace JL, Bourgeois AL, Walker RI</authors>
+		<title>Prevention of disease in ferrets fed an inactivated whole cell Campylobacter jejuni vaccine</title>
+		<year>2005 Jul 29</year>
+		<volume>23</volume>
+		<issue>34</issue>
+		<pages>4315-21</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4925">
+		<reference_name>Chintoan-Uta et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chintoan-Uta C, Cassady-Cain RL, Al-Haideri H, Watson E, Kelly DJ, Smith DG, Sparks NH, Kaiser P, Stevens MP</authors>
+		<title>Superoxide dismutase SodB is a protective antigen against Campylobacter jejuni colonisation in chickens</title>
+		<year>2015</year>
+		<volume>33</volume>
+		<issue>46</issue>
+		<pages>6206-6211</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference570">
+		<reference_name>Dolby et al., 1986</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dolby JM, Newell DG</authors>
+		<title>The protection of infant mice from colonization with Campylobacter jejuni by vaccination of the dams</title>
+		<year>1986 Apr</year>
+		<volume>96</volume>
+		<issue>2</issue>
+		<pages>143-51</pages>
+		<journal_book_name>The Journal of hygiene</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference203">
+		<reference_name>Engberg, 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Engberg J</authors>
+		<title>Contributions to the epidemiology of Campylobacter infections. A review of clinical and microbiological studies</title>
+		<year>2006 Nov</year>
+		<volume>53</volume>
+		<issue>4</issue>
+		<pages>361-89</pages>
+		<journal_book_name>Danish medical bulletin</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4855">
+		<reference_name>Heimesaat et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Heimesaat MM, Alutis M, Grundmann U, Fischer A, Tegtmeyer N, B�hm M, K�hl AA, G�bel UB, Backert S, Bereswill S</authors>
+		<title>The role of serine protease HtrA in acute ulcerative enterocolitis and extra-intestinal immune responses during Campylobacter jejuni infection of gnotobiotic IL-10 deficient mice</title>
+		<year>2014</year>
+		<volume>4</volume>
+		<issue></issue>
+		<pages>77</pages>
+		<journal_book_name>Frontiers in cellular and infection microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference585">
+		<reference_name>Huang et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Huang S, Sahin O, Zhang Q</authors>
+		<title>Infection-induced antibodies against the major outer membrane protein of Campylobacter jejuni mainly recognize conformational epitopes</title>
+		<year>2007 Jul</year>
+		<volume>272</volume>
+		<issue>2</issue>
+		<pages>137-43</pages>
+		<journal_book_name>FEMS microbiology letters</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4708">
+		<reference_name>Huang et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Huang S, Sahin O, Zhang Q</authors>
+		<title>Infection-induced antibodies against the major outer membrane protein of Campylobacter jejuni mainly recognize conformational epitopes</title>
+		<year>2007</year>
+		<volume>272</volume>
+		<issue>2</issue>
+		<pages>137-143</pages>
+		<journal_book_name>FEMS microbiology letters</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1640">
+		<reference_name>Islam et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Islam A, Raghupathy R, Albert MJ</authors>
+		<title>Recombinant PorA, the major outer membrane protein of Campylobacter jejuni, provides heterologous protection in an adult mouse intestinal colonization model</title>
+		<year>2010</year>
+		<volume>17</volume>
+		<issue>11</issue>
+		<pages>1666-1671</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4722">
+		<reference_name>Islam et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Islam A, Raghupathy R, Albert MJ</authors>
+		<title>Recombinant PorA, the major outer membrane protein of Campylobacter jejuni, provides heterologous protection in an adult mouse intestinal colonization model</title>
+		<year>2010</year>
+		<volume>17</volume>
+		<issue>11</issue>
+		<pages>1666-1671</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference552">
+		<reference_name>Jagusztyn-Krynicka et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jagusztyn-Krynicka EK, Wyszynska A, Raczko A</authors>
+		<title>New approaches to development of mucosal vaccine against enteric bacterial pathogens; preventing campylobacteriosis</title>
+		<year>2004</year>
+		<volume>53 Suppl</volume>
+		<issue></issue>
+		<pages>7-15</pages>
+		<journal_book_name>Polish journal of microbiology / Polskie Towarzystwo Mikrobiologow = The Polish Society of Microbiologists</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference502">
+		<reference_name>Khoury et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Khoury CA, Meinersmann RJ</authors>
+		<title>A genetic hybrid of the Campylobacter jejuni flaA gene with LT-B of Escherichia coli and assessment of the efficacy of the hybrid protein as an oral chicken vaccine</title>
+		<year>1995 Oct-Dec</year>
+		<volume>39</volume>
+		<issue>4</issue>
+		<pages>812-20</pages>
+		<journal_book_name>Avian diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference555">
+		<reference_name>Kopecko, 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kopecko DJ</authors>
+		<title>Regulatory considerations for Campylobacter vaccine development</title>
+		<year>1997 Dec</year>
+		<volume>176 Suppl 2</volume>
+		<issue></issue>
+		<pages>S189-91</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference197">
+		<reference_name>Lee et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lee LH, Burg E 3rd, Baqar S, Bourgeois AL, Burr DH, Ewing CP, Trust TJ, Guerry P</authors>
+		<title>Evaluation of a truncated recombinant flagellin subunit vaccine against Campylobacter jejuni</title>
+		<year>1999 Nov</year>
+		<volume>67</volume>
+		<issue>11</issue>
+		<pages>5799-805</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference568">
+		<reference_name>Martin et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Martin PR, Mulks MH</authors>
+		<title>Cloning and characterization of a gene encoding an antigenic membrane protein from Actinobacillus pleuropneumoniae with homology to ABC transporters</title>
+		<year>1999 Aug 15</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<pages>245-54</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference201">
+		<reference_name>Nelson et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nelson JM, Chiller TM, Powers JH, Angulo FJ</authors>
+		<title>Fluoroquinolone-resistant Campylobacter species and the withdrawal of fluoroquinolones from use in poultry: a public health success story</title>
+		<year>2007 Apr 1</year>
+		<volume>44</volume>
+		<issue>7</issue>
+		<pages>977-80</pages>
+		<journal_book_name>Clinical infectious diseases : an official publication of the Infectious Diseases Society of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference569">
+		<reference_name>Pawelec et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pawelec D, Rozynek E, Popowski J, Jagusztyn-Krynicka EK</authors>
+		<title>Cloning and characterization of a Campylobacter jejuni 72Dz/92 gene encoding a 30 kDa immunopositive protein, component of the ABC transport system; expression of the gene in avirulent Salmonella typhimurium</title>
+		<year>1997 Oct</year>
+		<volume>19</volume>
+		<issue>2</issue>
+		<pages>137-50</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference198">
+		<reference_name>Pawelec et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pawelec DP, Korsak D, Wyszynska AK, Rozynek E, Popowski J, Jagusztyn-Krynicka EK</authors>
+		<title>Genetic diversity of the Campylobacter genes coding immunodominant proteins</title>
+		<year>2000 Apr 1</year>
+		<volume>185</volume>
+		<issue>1</issue>
+		<pages>43-9</pages>
+		<journal_book_name>FEMS microbiology letters</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference582">
+		<reference_name>Prokhorova et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Prokhorova TA, Nielsen PN, Petersen J, Kofoed T, Crawford JS, Morsczeck C, Boysen A, Schrotz-King P</authors>
+		<title>Novel surface polypeptides of Campylobacter jejuni as traveller's diarrhoea vaccine candidates discovered by proteomics</title>
+		<year>2006 Sep 29</year>
+		<volume>24</volume>
+		<issue>40-41</issue>
+		<pages>6446-55</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference501">
+		<reference_name>Rice et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rice BE, Rollins DM, Mallinson ET, Carr L, Joseph SW</authors>
+		<title>Campylobacter jejuni in broiler chickens: colonization and humoral immunity following oral vaccination and experimental infection</title>
+		<year>1997 Dec</year>
+		<volume>15</volume>
+		<issue>17-18</issue>
+		<pages>1922-32</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference556">
+		<reference_name>Scott, 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Scott DA</authors>
+		<title>Vaccines against Campylobacter jejuni</title>
+		<year>1997 Dec</year>
+		<volume>176 Suppl 2</volume>
+		<issue></issue>
+		<pages>S183-8</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference558">
+		<reference_name>Sizemore et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sizemore DR, Warner B, Lawrence J, Jones A, Killeen KP</authors>
+		<title>Live, attenuated Salmonella typhimurium vectoring Campylobacter antigens</title>
+		<year>2006 May 1</year>
+		<volume>24</volume>
+		<issue>18</issue>
+		<pages>3793-803</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference199">
+		<reference_name>Smibert, 1978</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Smibert RM</authors>
+		<title>The genus Campylobacter</title>
+		<year>1978</year>
+		<volume>32</volume>
+		<issue></issue>
+		<pages>673-709</pages>
+		<journal_book_name>Annual review of microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4769">
+		<reference_name>Theoret et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Theoret JR, Cooper KK, Zekarias B, Roland KL, Law BF, Curtiss R 3rd, Joens LA</authors>
+		<title>The Campylobacter jejuni Dps homologue is important for in vitro biofilm formation and cecal colonization of poultry and may serve as a protective antigen for vaccination</title>
+		<year>2012</year>
+		<volume>19</volume>
+		<issue>9</issue>
+		<pages>1426-1431</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference583">
+		<reference_name>Walker, 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Walker RI</authors>
+		<title>Considerations for development of whole cell bacterial vaccines to prevent diarrheal diseases in children in developing countries</title>
+		<year>2005 May 16</year>
+		<volume>23</volume>
+		<issue>26</issue>
+		<pages>3369-85</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference553">
+		<reference_name>Wallis, 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wallis TS</authors>
+		<title>Vaccination against salmonella, enterohaemorrhagic E. coli and Campylobacter in food-producing animals</title>
+		<year>2004</year>
+		<volume>119</volume>
+		<issue></issue>
+		<pages>343-50</pages>
+		<journal_book_name>Developments in biologicals</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference557">
+		<reference_name>White et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>White PL, Baker AR, James WO</authors>
+		<title>Strategies to control Salmonella and Campylobacter in raw poultry products</title>
+		<year>1997 Aug</year>
+		<volume>16</volume>
+		<issue>2</issue>
+		<pages>525-41</pages>
+		<journal_book_name>Revue scientifique et technique (International Office of Epizootics)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference586">
+		<reference_name>Wilkinson et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wilkinson J, Rood D, Minior D, Guillard K, Darre M, Silbart LK</authors>
+		<title>Immune response to a mucosally administered aflatoxin B1 vaccine</title>
+		<year>2003 Oct</year>
+		<volume>82</volume>
+		<issue>10</issue>
+		<pages>1565-72</pages>
+		<journal_book_name>Poultry science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference499">
+		<reference_name>Wyszynska et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wyszynska A, Raczko A, Lis M, Jagusztyn-Krynicka EK</authors>
+		<title>Oral immunization of chickens with avirulent Salmonella vaccine strain carrying C. jejuni 72Dz/92 cjaA gene elicits specific humoral immune response associated with protection against challenge with wild-type Campylobacter</title>
+		<year>2004 Mar 29</year>
+		<volume>22</volume>
+		<issue>11-12</issue>
+		<pages>1379-89</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4882">
+		<reference_name>Yeh et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yeh HY, Hiett KL, Line JE</authors>
+		<title>Reactions of chicken sera to recombinant Campylobacter jejuni flagellar proteins</title>
+		<year>2015</year>
+		<volume>197</volume>
+		<issue>2</issue>
+		<pages>353-358</pages>
+		<journal_book_name>Archives of microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1045">
+		<reference_name>Zeng et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zeng X, Xu F, Lin J</authors>
+		<title>Molecular, antigenic, and functional characteristics of ferric enterobactin receptor CfrA in Campylobacter jejuni</title>
+		<year>2009</year>
+		<volume>77</volume>
+		<issue>12</issue>
+		<pages>5437-5448</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1038">
+		<reference_name>Zheng et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zheng H, Cai FC, Zhong M, Deng B, Li X, Zhang XP</authors>
+		<title>[Experimental study on the chitosan-DNA vaccines against campylobacter jejuni invasion]</title>
+		<year>2007</year>
+		<volume>41</volume>
+		<issue>5</issue>
+		<pages>375-379</pages>
+		<journal_book_name>Zhonghua yu fang yi xue za zhi [Chinese journal of preventive medicine]</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

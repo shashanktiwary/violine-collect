@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen87">
+		<pathogen_name>Eimeria spp.</pathogen_name>
+		<taxon_id>5800</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Coccidiosis</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1476">Eimeria is characterized by spore cases that contain four spores, each with two infective sporozoites.  The Eimeria lie within the family Eimeriidae. This genus has ~75% of the species within this family. and it is the most specious of the genera of the Apicomplexia with 1,700 described species.  Symptoms of Eimeria infection include bloody diarrhea due to intestinal epithelium dying off since a large number of oocysts and merozoites burst out of the cells. Necrotic tissue clogs the cecum causing the organ to die.
+
+Medications are available for the parasite; however, drug resistance is common as well as possible drug residues in the meat once the animal is butchered. Vaccines have been developed but one vaccine will only cover one species and not others. So far the best practice is to vaccinate the chicks once they hatch from the egg so they are immune for life (Wiki: Eimeria).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1702">
+		<vaccine_name>Coccidiosis Live Oocysts Vaccine (USDA: 1431.50)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Vetech Labs Of Buffalo, Inc.</manufacturer>
+		<vo_id>VO_0001663</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1703">
+		<vaccine_name>Coccidiosis Live Oocysts Vaccine (USDA: 1431.51)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001664</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1705">
+		<vaccine_name>Coccidiosis Live Oocysts Vaccine (USDA: 1431.56)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Vetech Labs Of Buffalo, Inc.</manufacturer>
+		<vo_id>VO_0001665</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1706">
+		<vaccine_name>Coccidiosis Live Oocysts Vaccine (USDA: 1431.57)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001666</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1707">
+		<vaccine_name>Coccidiosis Live Oocysts Vaccine (USDA: 1431.58)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Novus International, Inc.</manufacturer>
+		<vo_id>VO_0001667</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1708">
+		<vaccine_name>Coccidiosis Live Oocysts Vaccine (USDA: 1431.59)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Novus International, Inc.</manufacturer>
+		<vo_id>VO_0001668</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1709">
+		<vaccine_name>Coccidiosis Live Oocysts Vaccine (USDA: 1431.5C)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001669</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1704">
+		<vaccine_name>Coccidiosis Live Oocysts, Chicken Isolates Vaccine (USDA: 1431.55)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001670</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine424">
+		<vaccine_name>Coccivac, Immucox, Paracox, Advent, Nobilis Cox ATM</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Coccivac, Immucox, Paracox, Advent, Nobilis Cox ATM</brand_name>
+		<manufacturer>Shering-Plough, Vetech Labs, Novus International, Intervet</manufacturer>
+		<vo_id>VO_0001020</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>NA</route>
+		<location_licensed></location_licensed>
+		<description refs="reference843">Sporulated oocysts of several or all of the avian species(Shirley et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">NA</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3681">
+		<vaccine_name>E. acervulina DNA vaccine 3-1E</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004418</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA [Ref2336:Lillehoj et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2336">IL-1, IL-2, IL-15, or IFN-gamma (Lillehoj et al., 2005)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1528" gene_id="gene1689">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1449" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2336">Significantly decreased oocyst shedding was observed following injection of the 25- and 50-ug 3-1E DNA groups compared with the pcDNA vector-only group (P &lt; 0.05). Also, significantly increased weight gains were seen following vaccination with 10, 25, or 50 ug of 3-1E DNA, compared with the pcDNA empty-vector group (P &lt; 0.05). Taken together, these results indicated that in-ovo vaccination with the 3-1E gene induced partial protection against experimental coccidiosis (Lillehoj et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine425">
+		<vaccine_name>Inovocox</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Inovocox</brand_name>
+		<manufacturer>Embrex</manufacturer>
+		<vo_id>VO_0001185</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>NA</route>
+		<location_licensed></location_licensed>
+		<description refs="reference843">In ovo delivery using proprietary platform injection system(Shirley et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">NA</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene1689">
+        <gene_name>3-1E</gene_name>
+        <strain>Eimeria acervulina strain QH</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>51234119</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:294086
+CDD:238085</xrefs>
+        <taxonomy_id>5801</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>3-1E protein</protein_name>
+        <protein_pi>4.02</protein_pi>
+        <protein_weight>17907.15</protein_weight>
+        <protein_length>220</protein_length>
+        <protein_note>Profilin binds actin monomers, membrane polyphosphoinositides such as PI(4,5)P2, and poly-L-proline. Profilin can inhibit actin polymerization into F-actin by binding to monomeric actin (G-actin) and terminal F-actin subunits, but - as a regulator of the...; cl00123</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAT97982.1 3-1E protein [Eimeria acervulina]
+MGEEADTQAWDTSVKEWLVDTGKVYAGGIASIADGCRLFGAAIDNGEDAWSQLVKTGYQIEVLQEDGSST
+QEDCDEAETLRQAIVDGRAPNGVYTRGVKYKLAEVKRDFTYNDQNYDVAILGKNKGGGFLIKTPNDNVVI
+ALYDEEKEQNKADALTTALAFAEYLYQGGF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2336">
+		<reference_name>Lillehoj et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lillehoj HS, Ding X, Quiroz MA, Bevensee E, Lillehoj EP</authors>
+		<title>Resistance to intestinal coccidiosis following DNA immunization with the cloned 3-1E Eimeria gene plus IL-2, IL-15, and IFN-gamma</title>
+		<year>2005</year>
+		<volume>49</volume>
+		<issue>1</issue>
+		<pages>112-117</pages>
+		<journal_book_name>Avian diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1942">
+		<reference_name>Min et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Min W, Lillehoj HS, Burnside J, Weining KC, Staeheli P, Zhu JJ</authors>
+		<title>Adjuvant effects of IL-1beta, IL-2, IL-8, IL-15, IFN-alpha, IFN-gamma TGF-beta4 and lymphotactin on DNA vaccination against Eimeria acervulina</title>
+		<year>2001</year>
+		<volume>20</volume>
+		<issue>1-2</issue>
+		<pages>267-274</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference843">
+		<reference_name>Shirley et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shirley MW, Smith AL, Tomley FM</authors>
+		<title>The biology of avian Eimeria with an emphasis on their control by vaccination</title>
+		<year>2005</year>
+		<volume>60</volume>
+		<issue></issue>
+		<pages>285-330</pages>
+		<journal_book_name>Advances in parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1476">
+		<reference_name>Wiki:  Eimeria</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Eimeria</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Eimeria</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

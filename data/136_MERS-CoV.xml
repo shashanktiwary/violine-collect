@@ -1,0 +1,1447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen319">
+		<pathogen_name>MERS-CoV</pathogen_name>
+		<taxon_id>1335626</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Middle East Respiratory Syndrome (MERS)</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs=""></introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine5760">
+		<vaccine_name>Ad41.MERS-S protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector>adenovirus type 41 [Ref5396:Guo et al., 2015]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5396">Adenovirus type 41 used as vector for MERS-CoV S protein (Guo et al., 2015)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5396">S protein(Guo et al., 2015)</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5719">
+		<vaccine_name>Ad5.MERS-S vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5102">Recombinant adenoviral vector encoding the full-length MERS-CoV S protein (Ad5.MERS-S) (Kim et al., 2014)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5102">S from MERS-CoV(Kim et al., 2014).</antigen>
+		<host_response host_response_id="host_response2386" host_id="host3">
+			<immune_response refs="reference5102">increased titers of neutralizing antibodies, slightly higher specific response than Vaccine 5720 vaccine (Kim et al., 2014)</immune_response>
+			<host_strain refs="reference5102">BALB/C(Kim et al., 2014)</host_strain>
+			<vaccination_protocol refs="">inoculated intramuscularly  with 1e11 viral particles of Vaccine 5719 and boosted intranasally 3 weeks after with 1e11 viral particles of Vaccine 5719</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5720">
+		<vaccine_name>Ad5.MERS-S1 vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5102">Recombinant adenoviral vector encoding the  the S1 extracellular domain of S protein (Ad5.MERS-S1). (Kim et al., 2014)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5102">S1 subunit of S from MERS-CoV (Kim et al., 2014).</antigen>
+		<host_response host_response_id="host_response2387" host_id="host3">
+			<immune_response refs="reference5102">increased titers of neutralizing antibodies (Kim et al., 2014)</immune_response>
+			<host_strain refs="">BALB/C</host_strain>
+			<vaccination_protocol refs="reference5102">inoculated intramuscularly  with 1e11 viral particles of Vaccine 5720 and boosted intranasally 3 weeks after with 1e11 viral particles of Vaccine 5720 (Kim et al., 2014)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5751">
+		<vaccine_name>ChAdOx1-MERS-S vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Clinical trial</status>
+		<vector>chimpanzee adenovirus Oxford 1  [Ref5389:Munster et al., 2017]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5389">Chimpanzee adenovirus Oxford 1 vector expressing S protein from MERS-CoV (Munster et al., 2017)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">S protein</antigen>
+		<host_response host_response_id="host_response2412" host_id="host3">
+			<immune_response refs="reference5389">increased viral neutralizing titer and reduced viral load (Munster et al., 2017)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference5389">1e8 Infectious Units (IU) ChAdOx1 MERS via the intranasal or intramuscular rout(Munster et al., 2017)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5389">complete protection (Munster et al., 2017)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5389">hDPP4 mice were challenged intranasally with 1e4 TCID50 MERS-CoV (strain HCoV-EMC2012) (Munster et al., 2017)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2411" host_id="host2">
+			<immune_response refs="reference5390">Significant increase from baseline in T-cell (p&lt;0·003) and IgG (p&lt;0·0001) responses to the MERS-CoV spike antigen was observed at all doses. Four (44% [95% CI 19-73]) of nine participants had neutralizing antibodies against live MERS-CoV and 19 (79% [58-93]) of 24 participants had antibodies capable of neutralisation in a pseudotyped virus neutralisation assay (Folegatti et al., 2020).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5390">Single intramuscular injection of ChAdOx1 5e9, 2.5e10, 5e10 MERS at (Folegatti et al., 2020)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference5390">92 (74% [95% CI 66-81]) of 124 solicited adverse events were mild, 31 (25% [18-33]) were moderate, and all were self-limiting. One serious adverse event determined to be unrelated to vaccine.5e10 dosage had significantly higher proportion of moderate and severe adverse events to lower doses.(Folegatti et al., 2020)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference5390">Phase I Clinical Results were sufficient to proceed to field phase 1b and phase 2 trails (Folegatti et al., 2020)</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5769">
+		<vaccine_name>GLS-5300 Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5415">MERS-CoV S protein(Modjarrad et al., 2019)</antigen>
+		<host_response host_response_id="host_response2439" host_id="host2">
+			<immune_response refs="reference5415">S1-specific and S-specific antibodies were detectable in most patients between first and third doses. Neutralizing antibodies were not maintained through the end of the study (by most participants). IFN-γ detected in all groups. (Modjarrad et al., 2019)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5415">Patients were immunized with 1mL of 0.67 mg (low dose), 2 mg (middle dose), or 6 mg (high dose) GLS-5300 on day 1, week 4, and week 12 with co-localized intramuscular electroporation afterwards. (Modjarrad et al., 2019)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5721">
+		<vaccine_name>Inactivated whole MERS-CoV (IV) vaccine with CpG and Alum</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5098">inactivated whole MERS-CoV (IV) with a combined adjuvant (alum+CpG) as a vaccine formulation caused protection  (Deng et al., 2018).</description>
+		<adjuvant refs="reference5098">alum+CpG (Deng et al., 2018)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5098">whole virus (Deng et al., 2018)</antigen>
+		<host_response host_response_id="host_response2395" host_id="host3">
+			<immune_response refs="reference5098">anti-S protein and anti-NP IgG response and neutralizing activity. (Deng et al., 2018)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference5098">intramuscularly  injected with 1 μg  IV protein  adjuvant with 100 μL of alum and 10 μg of CpG at weeks 0, 4, and 8 (Deng et al., 2018)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5098">protected (Deng et al., 2018)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5098">9 days of the last immunization, the remaining mice were lightly anesthetized with isoflurane and transduced intranasally with 2.5e8 plaque-forming units (pfu) of Ad5-hDPP443. After 5 days, transduced mice were infected intranasally with MERS-CoV (1e5 pfu) in 50 μL of DMEM (Deng et al., 2018)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5716">
+		<vaccine_name>MERS England S1 subunit protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5099">A DNA vaccine constructed from a  plasmid vaccines that encoded  S1 subunit only. (Wang et al., 2015)</description>
+		<adjuvant refs="reference5099">Ribi adjuvant (Wang et al., 2015)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5099">S1 subunit of S from MERS-CoV. (Wang et al., 2015)</antigen>
+		<host_response host_response_id="host_response2388" host_id="host3">
+			<immune_response refs="reference5099">Induced high level of neutralizing antibodies (IgG1). (Wang et al., 2015)</immune_response>
+			<host_strain refs="reference5099">BALB/cJ (Wang et al., 2015)</host_strain>
+			<vaccination_protocol refs="reference5099">immunized intramuscularly with plasmid DNA at weeks 0 3, and 6 (Wang et al., 2015)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2389" host_id="host39">
+			<immune_response refs="reference5099">Induced high level of neutralizing antibodies (IgG1). Sera from immunized NHPs blocked mAbs targeted to the RBD and non-RBD S1 subunit, but not the S2 subunit. (Wang et al., 2015)</immune_response>
+			<host_strain refs="reference5099">Macaca mulatta (Wang et al., 2015)</host_strain>
+			<vaccination_protocol refs="reference5099">Six NHPs in the protein-only group were injected with 100 μg of MERS-CoV S1 protein and AlPO4 adjuvant at weeks 0 and 8. (Wang et al., 2015)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5099">protected (Wang et al., 2015)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5099">Animals were administered 100 μg of MERS-CoV S1 protein and AlPO4 adjuvant at weeks 0 and 8, then challenged with Jordan N3 strain of MERS-CoV 19 weeks after imunization at 3.1 x 10^6, 3.6 x 10^6, and 3.4 x 10^6 p.f.u. (Wang et al., 2015)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5717">
+		<vaccine_name>MERS England1 S DNA + MERS England1 S protein subunit vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Mixed, DNA vaccine and Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5099">A mixed vaccine using England S1 subunit protein vaccine and England1 S DNA vaccine. VRC8400 plasmid used to construct antigen (Wang et al., 2015)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response2392" host_id="host3">
+			<immune_response refs="reference5099">high titers of neutralizing antibody (Wang et al., 2015)</immune_response>
+			<host_strain refs="">BALB/cJ</host_strain>
+			<vaccination_protocol refs="reference5099">S1 MERS-CoV full-length Spike protein at weeks  and 3 and then injected with  S1 protein plus Ribi adjuvant (Sigma-Aldrich, St. Louis, MO) at week 6 (Wang et al., 2015)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5099">Animals were challenged with JordanN3 strain of MERS-CoV (Wang et al., 2015)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2393" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="reference5099">Macaca mulatta (Wang et al., 2015)</host_strain>
+			<vaccination_protocol refs="reference5099">Six NHPs in the S DNA-S1 protein group were injected with 1 mg of plasmid DNA encoding MERS-CoV full-length Spike at weeks 0 and 4 and boosted with 100 μg of MERS-CoV S1 protein and AlPO4 adjuvant (Brenntag Biosector, Frederikssund, Denmark) at week 8 (Wang et al., 2015)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5099">protected (Wang et al., 2015)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5099">challenged with Jordan N3 strain of MERS-CoV 19 weeks after immunization at 3.1e6, 3.6e6, and 3.4 e6 p.f.u. (Wang et al., 2015)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5715">
+		<vaccine_name>MERS England1 S DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5099">A DNA vaccine constructed from a plasmid vaccines that encoded full-length, membrane-anchored Spike protein. VRC8400 plasmid used to construct antigen (Wang et al., 2015)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5099">S from MERS-CoV (Wang et al., 2015)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1851" gene_id="gene4412">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2390" host_id="host3">
+			<immune_response refs="">high titers of neutralizing antibody (Wang et al., 2015)</immune_response>
+			<host_strain refs="">BALB/cJ</host_strain>
+			<vaccination_protocol refs="">immunized with plasmid DNA at weeks 0, 3, and 6 (Wang et al., 2015)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5718">
+		<vaccine_name>MERS-CoV pcDNA3.1-S1 DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5100">DNA vaccine encoding the first 725 amino acids of S from MERS-CoV  induces antigen-specific humoral and cellular immune responses in mice (Chi et al., 2017)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5100">S from MERS-CoV (Chi et al., 2017)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1850" gene_id="gene4412">
+			<type>DNA vaccine construction</type>
+			<description refs="reference5100">Plasmid created containing first 735 amino acids of S from MERS-CoV (Chi et al., 2017)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2394" host_id="host3">
+			<immune_response refs="reference5100">Anti-antigen IgG response and strong neutralizing activity, production of IFN-γ, production of IL-2, IL-4, IL-10, increase in IFN-γ-producing CD4+ and CD8+ T cells. (Chi et al., 2017)</immune_response>
+			<host_strain refs="reference5100">Balb/c (Chi et al., 2017)</host_strain>
+			<vaccination_protocol refs="reference5100">injected intramuscularly  in the quadriceps muscle with 100 μg recombinant plasmid in 100 μL PBS on week 0, 3, 6 (Chi et al., 2017)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5714">
+		<vaccine_name>MERS-CoV S vaccine adjuvanted with CpG and Alum</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5098">The spike protein of middle east respiratory syndrome coronavirus adjuvanted with CpG and Alum provided protection against infection of MERS-CoV (Deng et al., 2018).</description>
+		<adjuvant refs="reference5098">alum+CpG (Deng et al., 2018)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1849" gene_id="gene4412">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference5098">The S spike protein was conjugated with CpG or Alum as a subunit MERS vaccine (Deng et al., 2018).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2430" host_id="host3">
+			<immune_response refs="reference5098">Induced S-specific neutralizing antibodies after 2 weeks, though titres were lower than in vaccine 5721. S-specific IgG tires were 10^5 at 6 weeks (after second dose), similar to titres of vaccine 5721. S-specific IgG titres did not increase after the third dosage. The IgG2a/IgG1 and IgG2b/IgG1 ratios were ~1.  (Deng et al., 2018)</immune_response>
+			<host_strain refs="">Balb/c</host_strain>
+			<vaccination_protocol refs="reference5098">Mice were given intramuscular immunizations at 4-week intervals of S protein + adjuvant  at a dosage of 1 μg of S protein. (Deng et al., 2018)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5765">
+		<vaccine_name>MERS-CoV VLP vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector>Recombinant baculovirus [Ref5412:Wang et al., 2017]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference5412">Alum adjuvant (Wang et al., 2017)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5412">MERS-CoV S, E, and M proteins (Wang et al., 2017)</antigen>
+		<host_response host_response_id="host_response2435" host_id="host39">
+			<immune_response refs="reference5412">Induced neutralizing antibodies (titres up to 1:40), RBD-Specific IgG (endpoint titres up to  1:1,280),  T-helper 1 cell (Th1)-mediated immunity, production of IFN-γ. (Wang et al., 2017)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5412">Animals were vaccinated intramuscularly (i.m.) in the gastrocnemius muscle with 250 μg of MERS-CoV VLPs and mixed with 250 μg Alum adjuvant. (Wang et al., 2017)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5724">
+		<vaccine_name>MERS-CoV-S rNTD  vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5101">neutralizing monoclonal antibodiesagainst MERS-CoV  which bind to the N-terminal domain (NTD) of the MERS-CoV S1 subunit (Chen et al., 2017)</description>
+		<adjuvant refs="reference5101">Freund’s complete adjuvant (Chen et al., 2017)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5101">Recombinant  N-terminal domain (amino acids 18 - 353) of S1 subunit of S protein. (Chen et al., 2017)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1852" gene_id="gene4412">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference5101">baculovirus-insect cell sf9-derived recombinant MERS-CoV was used to express rNTD (Chen et al., 2017)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2396" host_id="host3">
+			<immune_response refs="">anti-S protein IgG response and neutralizing activity  (Chen et al., 2017)</immune_response>
+			<host_strain refs="reference5101">Balb/c (Chen et al., 2017)</host_strain>
+			<vaccination_protocol refs="">35 μg MERS-CoV rS combined with 150 μL Freund’s complete adjuvant (Sigma, St Louis, CA, USA) via subcutaneous immunization and boosted twice at 2-week intervals beginning three weeks after the initial immunization (Chen et al., 2017)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5723">
+		<vaccine_name>MERS-CoV-S rRBD vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="">monoclonal antibody of MERS-CoV, which mapped to a wide range of regions on the spike (S) protein of the virus. In addition to mAbs with neutralizing epitopes located on the receptor-binding domain</description>
+		<adjuvant refs="reference5101">Freund’s complete adjuvant (Chen et al., 2017)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5101">Recombinant ribosomal binding site of S1 subunit of S from MERS-COV.(Chen et al., 2017)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1853" gene_id="gene4412">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference5101">baculovirus-insect cell sf9-derived recombinant MERS-CoV was used to express rRBD (Chen et al., 2017)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2397" host_id="host3">
+			<immune_response refs="">anti-S protein IgG response and neutralizing activity  (Chen et al., 2017)</immune_response>
+			<host_strain refs="reference5101">Balb/c (Chen et al., 2017)</host_strain>
+			<vaccination_protocol refs="">35 μg MERS-CoV rS combined with 150 μL Freund’s complete adjuvant (Sigma, St Louis, CA, USA) via subcutaneous immunization and boosted twice at 2-week intervals beginning three weeks after the initial immunization (Chen et al., 2017)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5752">
+		<vaccine_name>MVA-MERS-S vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Clinical trial</status>
+		<vector>modified vaccinia virus Ankara (rMVA)[Ref5391:Song et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5392">recombinant modified vaccinia virus Ankara (rMVA) vaccine vector carrying full MERS-CoV spike glycoprotein(Koch et al., 2020)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5391">S protein (Song et al., 2013)</antigen>
+		<host_response host_response_id="host_response2413" host_id="host2">
+			<immune_response refs="reference5392">Following booster immunization, nine (75%) of 12 participants in the low-dose group and 11 (100%) participants in the high-dose group showed seroconversion using a MERS-CoV S1 ELISA at any timepoint during the study which correlated with MERS-CoV-specific neutralising antibodies (Spearman's correlation r=0·86 [95% CI 0·6960-0·9427], p=0·0001). MERS-CoV spike-specific T-cell responses were detected in ten (83%) of 12 immunised participants in the low-dose group and ten (91%) of 11 immunized participants in the high-dose group. (Koch et al., 2020)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5392">1e7 plaque-forming unit or 1e8 PFU  MVA-MERS-S intramuscularly injected at 0 and 28 days (Koch et al., 2020)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference5392">Participants had no severe or serious adverse events. 67 vaccine-related adverse events were reported in ten (71%) of 14 participants in the low-dose group, and 111 were reported in ten (83%) of 12 participants in the high-dose group. Pain (seven at 1e7 vaccinationgroup vs ten 1e8 PFU vaccination group), swelling (two vs eight), induration (one vs nine), fatigue or maliase (ten vs seven) were most common events (Koch et al., 2020)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="">Phase 1 trial results of MVA-MERS-S showed a benign safety profile</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5759">
+		<vaccine_name>MVvac2-CoV-N</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector>live-attenuated measles virus (MV)[Ref5395:Bodmer et al., 2018]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5395">Live-attenuated measles virus (MV) vaccine encoding the MERS-CoV nucleocapsid protein (MERS-N) (Bodmer et al., 2018)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5395">N protein(Bodmer et al., 2018)</antigen>
+		<host_response host_response_id="host_response2431" host_id="host3">
+			<immune_response refs="reference5395">Vaccinated animals exhibited high MV virus neutralizing titers (VNT), production of  IFN-γ producing cells. (Bodmer et al., 2018)</immune_response>
+			<host_strain refs="">IFNAR−/−-CD46Ge</host_strain>
+			<vaccination_protocol refs="reference5395">Mice were inoculated intraperitoneally (i.p.) with 1 × 10^5 TCID50 of recombinant virus on days 0 and either on day 21 or 28. (Bodmer et al., 2018)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5757">
+		<vaccine_name>MVvac2-CoV-S</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>recombinant measles virus (MV) [Ref5394:Malczyk et al., 2015]</vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5394">MVs expressing the spike glycoprotein of MERS-CoV in its full-length cloned into vaccine strain MVvac2 genome and rescued (Malczyk et al., 2015)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference5394">S protein (Malczyk et al., 2015)</antigen>
+		<host_response host_response_id="host_response2417" host_id="host3">
+			<immune_response refs="reference5394">increased viral neutralizing titers, increased CD8+ T cells with low CFSE (Malczyk et al., 2015)</immune_response>
+			<host_strain refs="">IFNAR−/−-CD46Ge</host_strain>
+			<vaccination_protocol refs="reference5394">inoculated intraperitoneally (i.p.) with 1 × 105 TCID50 of recombinant MV(Malczyk et al., 2015)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5394">decreased viral loads, even accounting for fraction of mice where transduction of MERS-CoV failed (~30%) (Malczyk et al., 2015)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5394">immunized mice were transduced intranasally (i.n.) on day 63 with 20 μl of an adenovirus vector encoding human DPP4 and mCherry with a final titer of 2.5e8 PFU per inoculum (AdV-hDPP4; ViraQuest Inc.) and challenged i.n. with 20 μl of MERS-CoV at a final titer of 7e4 TCID50 on day 68.(Malczyk et al., 2015)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5758">
+		<vaccine_name>MVvac2-CoV-solS</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector>recombinant measles virus (MV) (Malczyk et al., 2015)</vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs="">MVs expressing a soluble, truncated version of spike glycoprotein of MERS-CoV in its full-length cloned into vaccine strain MVvac2 genome and rescued (Malczyk et al., 2015)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference5394">truncated soluble S protein (Malczyk et al., 2015)</antigen>
+		<host_response host_response_id="host_response2418" host_id="host3">
+			<immune_response refs="reference5394">Immune Response Description: increased viral neutralizing titers, increased CD8+ T cells with low CFSE (Malczyk et al., 2015)</immune_response>
+			<host_strain refs="">IFNAR−/−-CD46Ge</host_strain>
+			<vaccination_protocol refs="">inoculated intraperitoneally (i.p.) with 1 × 105 TCID50 of recombinant MV(Malczyk et al., 2015)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">decreased viral loads, even accounting for fraction of mice where transduction of MERS-CoV failed (~30%) (Malczyk et al., 2015</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Challenge Protocol: immunized mice were transduced intranasally (i.n.) on day 63 with 20 μl of an adenovirus vector encoding human DPP4 and mCherry with a final titer of 2.5 × 108 PFU per inoculum (AdV-hDPP4; ViraQuest Inc.) and challenged i.n. with 20 μl of MERS-CoV at a final titer of 7 × 104 TCID50 on day 68.(Malczyk et al., 2015)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5756">
+		<vaccine_name>RVΔP-MERS/S1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector>replication-incompetent P-gene-deficient rabies virus (RVΔP) [Ref5385:Kato et al., 2019]</vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5385">Recombinant RVΔP that expresses S1 fused with transmembrane and cytoplasmic domains together with 14 amino acids from the ectodomains of the RV-glycoprotein (RV-G)(Kato et al., 2019)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference5385">S1 subunit of S protein (Kato et al., 2019)</antigen>
+		<host_response host_response_id="host_response2416" host_id="host3">
+			<immune_response refs="reference5385">increased neutralizing antibody titer for MERS-CoV and rabies virus (Kato et al., 2019)</immune_response>
+			<host_strain refs="reference5385">BALB/c (Kato et al., 2019)</host_strain>
+			<vaccination_protocol refs="reference5385">All mice were inoculated intraperitoneally with 100 μL of each virus solution containing 107 FFU/mL or PBS, with the day on which mice were inoculated with viruses defined as day 0. (Kato et al., 2019)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="">Safety profile indicated no deaths when inoculated intracerebrally for three weeks with 107 FFU/mL of RVΔP-MERS/S1.</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5748">
+		<vaccine_name>VRP-MERS-N vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Viral Like Particle Vaccine</type>
+		<status>Research</status>
+		<vector>Venezuelan equine encephalitis replicons [Ref5387:Zhao et al., 2016]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5387">Venezuelan equine encephalitis replicons bearing epitopes of N protein from MERS(Zhao et al., 2016).Identical to VRP-MERS-N vaccine (Vaccine 5754).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5387">N protein (Zhao et al., 2016)</antigen>
+		<host_response host_response_id="host_response2408" host_id="host3">
+			<immune_response refs="reference5387">Reduced viral titre load, Production of N-specific CD4+ T cells, Production of IFN-γ, Production of CD8+ T cells.  (Zhao et al., 2016)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference5387">BALB/c mice vaccinated at 2 μg/ml or 20 μg/ml and boosted with VRP-SARS-N, VRP-SARS-S, or VRP-GFP in the left footpad in 20 μL PBS or intranasally (i.n.) in 50 μL PBS after light anesthesia with isoflurane (Zhao et al., 2016)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5387">protected (Zhao et al., 2016)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5387">Mice were challenged 4-6 weeks after boosting (Zhao et al., 2016)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5755">
+		<vaccine_name>VRP-SARS-N vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector>Venezuelan equine encephalitis replicons (VRP) (Zhao et al., 2016)</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="">Venezuelan equine encephalitis replicons (VRP) encoding a SARS-CoV CD4+ T cell epitope vaccinated intranasally. Does not have same efficacy if vaccinated subcutaneously (Zhao et al., 2016) Identical to VRP-SARS-N vaccine (Vaccine 5759).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="">CD4+ T cell epitope in the nucleocapsid (N) protein of SARS-CoV (N353) (Zhou et al., 2006)</antigen>
+		<host_response host_response_id="host_response2432" host_id="host3">
+			<immune_response refs="reference5387">Decreased viral titre, increase in N-specific CD4+ T cells and IFN-γ in lungs, production of IL-10, increased mobilization of CD8+ cells to infected lung. (Zhao et al., 2016)</immune_response>
+			<host_strain refs="">Balb/c</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5387">Protection at 100 pfu, protected at 500 and 1000 PFU doses (Zhao et al., 2016)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5722">
+		<vaccine_name>VSVΔG-MERS vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>vesicular stomatitis virus [Ref5103:Liu et al., 2018]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5103">Chimeric virus based on the vesicular stomatitis virus (VSV) in which the G gene was replaced by MERS-CoV S gene (VSVΔG-MERS) (Liu et al., 2018)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5103">S from MERS-CoV (Liu et al., 2018)</antigen>
+		<host_response host_response_id="host_response2398" host_id="host39">
+			<immune_response refs="reference5103">recombinant virus induced high level of S protein specific IgG in both groups  (Liu et al., 2018)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5103">intramuscularly immunized with 2e7 FFU VSVΔG-MERS (preparation described below) in 2 ml medium via hind limb muscle injection or intranasally immunized with 2e7 FFU VSVΔG-MERS as via nostril instillation under anesthesia (Liu et al., 2018)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene4412">
+        <gene_name>S from MERS-CoV</gene_name>
+        <strain>Middle East respiratory syndrome-related coronavirus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>14254594</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>667489389</ncbi_protein_id>
+        <gene_locus_tag>G128_gp02</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>YP_009047204</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>1335626</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>21455</gene_start>
+        <gene_end>25516</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>spike glycoprotein</protein_name>
+        <protein_pi>5.92</protein_pi>
+        <protein_weight>139840.56</protein_weight>
+        <protein_length>1353</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_019843.3:21455-25516 Middle East respiratory syndrome coronavirus, complete genome
+AATGATACACTCAGTGTTTCTACTGATGTTCTTGTTAACACCTACAGAAAGTTACGTTGATGTAGGGCCA
+GATTCTGTTAAGTCTGCTTGTATTGAGGTTGATATACAACAGACTTTCTTTGATAAAACTTGGCCTAGGC
+CAATTGATGTTTCTAAGGCTGACGGTATTATATACCCTCAAGGCCGTACATATTCTAACATAACTATCAC
+TTATCAAGGTCTTTTTCCCTATCAGGGAGACCATGGTGATATGTATGTTTACTCTGCAGGACATGCTACA
+GGCACAACTCCACAAAAGTTGTTTGTAGCTAACTATTCTCAGGACGTCAAACAGTTTGCTAATGGGTTTG
+TCGTCCGTATAGGAGCAGCTGCCAATTCCACTGGCACTGTTATTATTAGCCCATCTACCAGCGCTACTAT
+ACGAAAAATTTACCCTGCTTTTATGCTGGGTTCTTCAGTTGGTAATTTCTCAGATGGTAAAATGGGCCGC
+TTCTTCAATCATACTCTAGTTCTTTTGCCCGATGGATGTGGCACTTTACTTAGAGCTTTTTATTGTATTC
+TAGAGCCTCGCTCTGGAAATCATTGTCCTGCTGGCAATTCCTATACTTCTTTTGCCACTTATCACACTCC
+TGCAACAGATTGTTCTGATGGCAATTACAATCGTAATGCCAGTCTGAACTCTTTTAAGGAGTATTTTAAT
+TTACGTAACTGCACCTTTATGTACACTTATAACATTACCGAAGATGAGATTTTAGAGTGGTTTGGCATTA
+CACAAACTGCTCAAGGTGTTCACCTCTTCTCATCTCGGTATGTTGATTTGTACGGCGGCAATATGTTTCA
+ATTTGCCACCTTGCCTGTTTATGATACTATTAAGTATTATTCTATCATTCCTCACAGTATTCGTTCTATC
+CAAAGTGATAGAAAAGCTTGGGCTGCCTTCTACGTATATAAACTTCAACCGTTAACTTTCCTGTTGGATT
+TTTCTGTTGATGGTTATATACGCAGAGCTATAGACTGTGGTTTTAATGATTTGTCACAACTCCACTGCTC
+ATATGAATCCTTCGATGTTGAATCTGGAGTTTATTCAGTTTCGTCTTTCGAAGCAAAACCTTCTGGCTCA
+GTTGTGGAACAGGCTGAAGGTGTTGAATGTGATTTTTCACCTCTTCTGTCTGGCACACCTCCTCAGGTTT
+ATAATTTCAAGCGTTTGGTTTTTACCAATTGCAATTATAATCTTACCAAATTGCTTTCACTTTTTTCTGT
+GAATGATTTTACTTGTAGTCAAATATCTCCAGCAGCAATTGCTAGCAACTGTTATTCTTCACTGATTTTG
+GATTACTTTTCATACCCACTTAGTATGAAATCCGATCTCAGTGTTAGTTCTGCTGGTCCAATATCCCAGT
+TTAATTATAAACAGTCCTTTTCTAATCCCACATGTTTGATTTTAGCGACTGTTCCTCATAACCTTACTAC
+TATTACTAAGCCTCTTAAGTACAGCTATATTAACAAGTGCTCTCGTCTTCTTTCTGATGATCGTACTGAA
+GTACCTCAGTTAGTGAACGCTAATCAATACTCACCCTGTGTATCCATTGTCCCATCCACTGTGTGGGAAG
+ACGGTGATTATTATAGGAAACAACTATCTCCACTTGAAGGTGGTGGCTGGCTTGTTGCTAGTGGCTCAAC
+TGTTGCCATGACTGAGCAATTACAGATGGGCTTTGGTATTACAGTTCAATATGGTACAGACACCAATAGT
+GTTTGCCCCAAGCTTGAATTTGCTAATGACACAAAAATTGCCTCTCAATTAGGCAATTGCGTGGAATATT
+CCCTCTATGGTGTTTCGGGCCGTGGTGTTTTTCAGAATTGCACAGCTGTAGGTGTTCGACAGCAGCGCTT
+TGTTTATGATGCGTACCAGAATTTAGTTGGCTATTATTCTGATGATGGCAACTACTACTGTTTGCGTGCT
+TGTGTTAGTGTTCCTGTTTCTGTCATCTATGATAAAGAAACTAAAACCCACGCTACTCTATTTGGTAGTG
+TTGCATGTGAACACATTTCTTCTACCATGTCTCAATACTCCCGTTCTACGCGATCAATGCTTAAACGGCG
+AGATTCTACATATGGCCCCCTTCAGACACCTGTTGGTTGTGTCCTAGGACTTGTTAATTCCTCTTTGTTC
+GTAGAGGACTGCAAGTTGCCTCTTGGTCAATCTCTCTGTGCTCTTCCTGACACACCTAGTACTCTCACAC
+CTCGCAGTGTGCGCTCTGTTCCAGGTGAAATGCGCTTGGCATCCATTGCTTTTAATCATCCTATTCAGGT
+TGATCAACTTAATAGTAGTTATTTTAAATTAAGTATACCCACTAATTTTTCCTTTGGTGTGACTCAGGAG
+TACATTCAGACAACCATTCAGAAAGTTACTGTTGATTGTAAACAGTACGTTTGCAATGGTTTCCAGAAGT
+GTGAGCAATTACTGCGCGAGTATGGCCAGTTTTGTTCCAAAATAAACCAGGCTCTCCATGGTGCCAATTT
+ACGCCAGGATGATTCTGTACGTAATTTGTTTGCGAGCGTGAAAAGCTCTCAATCATCTCCTATCATACCA
+GGTTTTGGAGGTGACTTTAATTTGACACTTCTAGAACCTGTTTCTATATCTACTGGCAGTCGTAGTGCAC
+GTAGTGCTATTGAGGATTTGCTATTTGACAAAGTCACTATAGCTGATCCTGGTTATATGCAAGGTTACGA
+TGATTGCATGCAGCAAGGTCCAGCATCAGCTCGTGATCTTATTTGTGCTCAATATGTGGCTGGTTACAAA
+GTATTACCTCCTCTTATGGATGTTAATATGGAAGCCGCGTATACTTCATCTTTGCTTGGCAGCATAGCAG
+GTGTTGGCTGGACTGCTGGCTTATCCTCCTTTGCTGCTATTCCATTTGCACAGAGTATCTTTTATAGGTT
+AAACGGTGTTGGCATTACTCAACAGGTTCTTTCAGAGAACCAAAAGCTTATTGCCAATAAGTTTAATCAG
+GCTCTGGGAGCTATGCAAACAGGCTTCACTACAACTAATGAAGCTTTTCAGAAGGTTCAGGATGCTGTGA
+ACAACAATGCACAGGCTCTATCCAAATTAGCTAGCGAGCTATCTAATACTTTTGGTGCTATTTCCGCCTC
+TATTGGAGACATCATACAACGTCTTGATGTTCTCGAACAGGACGCCCAAATAGACAGACTTATTAATGGC
+CGTTTGACAACACTAAATGCTTTTGTTGCACAGCAGCTTGTTCGTTCCGAATCAGCTGCTCTTTCCGCTC
+AATTGGCTAAAGATAAAGTCAATGAGTGTGTCAAGGCACAATCCAAGCGTTCTGGATTTTGCGGTCAAGG
+CACACATATAGTGTCCTTTGTTGTAAATGCCCCTAATGGCCTTTACTTCATGCATGTTGGTTATTACCCT
+AGCAACCACATTGAGGTTGTTTCTGCTTATGGTCTTTGCGATGCAGCTAACCCTACTAATTGTATAGCCC
+CTGTTAATGGCTACTTTATTAAAACTAATAACACTAGGATTGTTGATGAGTGGTCATATACTGGCTCGTC
+CTTCTATGCACCTGAGCCCATTACCTCCCTTAATACTAAGTATGTTGCACCACAGGTGACATACCAAAAC
+ATTTCTACTAACCTCCCTCCTCCTCTTCTCGGCAATTCCACCGGGATTGACTTCCAAGATGAGTTGGATG
+AGTTTTTCAAAAATGTTAGCACCAGTATACCTAATTTTGGTTCCCTAACACAGATTAATACTACATTACT
+CGATCTTACCTACGAGATGTTGTCTCTTCAACAAGTTGTTAAAGCCCTTAATGAGTCTTACATAGACCTT
+AAAGAGCTTGGCAATTATACTTATTACAACAAATGGCCGTGGTACATTTGGCTTGGTTTCATTGCTGGGC
+TTGTTGCCTTAGCTCTATGCGTCTTCTTCATACTGTGCTGCACTGGTTGTGGCACAAACTGTATGGGAAA
+ACTTAAGTGTAATCGTTGTTGTGATAGATACGAGGAATACGACCTCGAGCCGCATAAGGTTCATGTTCAC
+TA</dna_sequence>
+        <protein_sequence>>YP_009047204.1 spike glycoprotein [Middle East respiratory syndrome-related coronavirus]
+MIHSVFLLMFLLTPTESYVDVGPDSVKSACIEVDIQQTFFDKTWPRPIDVSKADGIIYPQGRTYSNITIT
+YQGLFPYQGDHGDMYVYSAGHATGTTPQKLFVANYSQDVKQFANGFVVRIGAAANSTGTVIISPSTSATI
+RKIYPAFMLGSSVGNFSDGKMGRFFNHTLVLLPDGCGTLLRAFYCILEPRSGNHCPAGNSYTSFATYHTP
+ATDCSDGNYNRNASLNSFKEYFNLRNCTFMYTYNITEDEILEWFGITQTAQGVHLFSSRYVDLYGGNMFQ
+FATLPVYDTIKYYSIIPHSIRSIQSDRKAWAAFYVYKLQPLTFLLDFSVDGYIRRAIDCGFNDLSQLHCS
+YESFDVESGVYSVSSFEAKPSGSVVEQAEGVECDFSPLLSGTPPQVYNFKRLVFTNCNYNLTKLLSLFSV
+NDFTCSQISPAAIASNCYSSLILDYFSYPLSMKSDLSVSSAGPISQFNYKQSFSNPTCLILATVPHNLTT
+ITKPLKYSYINKCSRLLSDDRTEVPQLVNANQYSPCVSIVPSTVWEDGDYYRKQLSPLEGGGWLVASGST
+VAMTEQLQMGFGITVQYGTDTNSVCPKLEFANDTKIASQLGNCVEYSLYGVSGRGVFQNCTAVGVRQQRF
+VYDAYQNLVGYYSDDGNYYCLRACVSVPVSVIYDKETKTHATLFGSVACEHISSTMSQYSRSTRSMLKRR
+DSTYGPLQTPVGCVLGLVNSSLFVEDCKLPLGQSLCALPDTPSTLTPRSVRSVPGEMRLASIAFNHPIQV
+DQLNSSYFKLSIPTNFSFGVTQEYIQTTIQKVTVDCKQYVCNGFQKCEQLLREYGQFCSKINQALHGANL
+RQDDSVRNLFASVKSSQSSPIIPGFGGDFNLTLLEPVSISTGSRSARSAIEDLLFDKVTIADPGYMQGYD
+DCMQQGPASARDLICAQYVAGYKVLPPLMDVNMEAAYTSSLLGSIAGVGWTAGLSSFAAIPFAQSIFYRL
+NGVGITQQVLSENQKLIANKFNQALGAMQTGFTTTNEAFQKVQDAVNNNAQALSKLASELSNTFGAISAS
+IGDIIQRLDVLEQDAQIDRLINGRLTTLNAFVAQQLVRSESAALSAQLAKDKVNECVKAQSKRSGFCGQG
+THIVSFVVNAPNGLYFMHVGYYPSNHIEVVSAYGLCDAANPTNCIAPVNGYFIKTNNTRIVDEWSYTGSS
+FYAPEPITSLNTKYVAPQVTYQNISTNLPPPLLGNSTGIDFQDELDEFFKNVSTSIPNFGSLTQINTTLL
+DLTYEMLSLQQVVKALNESYIDLKELGNYTYYNKWPWYIWLGFIAGLVALALCVFFILCCTGCGTNCMGK
+LKCNRCCDRYEEYDLEPHKVHVH</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>MERS-CoV S spike protein is a protective antigen [Ref5098:Deng et al., 2018].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference5395">
+		<reference_name>Bodmer et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bodmer BS, Fiedler AH, Hanauer JRH, Prüfer S, Mühlebach MD</authors>
+		<title>Live-attenuated bivalent measles virus-derived vaccines targeting Middle East respiratory syndrome coronavirus induce robust and multifunctional T cell responses against both viruses in an appropriate mouse model</title>
+		<year>2018</year>
+		<volume>521</volume>
+		<issue></issue>
+		<pages>99-9107</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5101">
+		<reference_name>Chen et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen Y, Lu S, Jia H, Deng Y, Zhou J, Huang B, Yu Y, Lan J, Wang W, Lou Y, Qin K, Tan W</authors>
+		<title>A novel neutralizing monoclonal antibody targeting the N-terminal domain of the MERS-CoV spike protein</title>
+		<year>2017</year>
+		<volume>6</volume>
+		<issue>5</issue>
+		<pages>e37</pages>
+		<journal_book_name>Emerging microbes &amp; infections</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5100">
+		<reference_name>Chi et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chi H, Zheng X, Wang X, Wang C, Wang H, Gai W, Perlman S, Yang S, Zhao J, Xia X</authors>
+		<title>DNA vaccine encoding Middle East respiratory syndrome coronavirus S1 protein induces protective immune responses in mice</title>
+		<year>2017</year>
+		<volume>35</volume>
+		<issue>16</issue>
+		<pages>2069-2075</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5098">
+		<reference_name>Deng et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Deng Y, Lan J, Bao L, Huang B, Ye F, Chen Y, Yao Y, Wang W, Qin C, Tan W</authors>
+		<title>Enhanced protection in mice induced by immunization with inactivated whole viruses compare to spike protein of middle east respiratory syndrome coronavirus</title>
+		<year>2018</year>
+		<volume>7</volume>
+		<issue>1</issue>
+		<pages>60</pages>
+		<journal_book_name>Emerging microbes &amp; infections</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5390">
+		<reference_name>Folegatti et al., 2020</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Folegatti PM, Bittaye M, Flaxman A, Lopez FR, Bellamy D, Kupke A, Mair C, Makinson R, Sheridan J, Rohde C, Halwe S, Jeong Y, Park YS, Kim JO, Song M, Boyd A, Tran N, Silman D, Poulton I, Datoo M, Marshal J, Themistocleous Y, Lawrie A, Roberts R, Berrie E, Becker S, Lambe T, Hill A, Ewer K, Gilbert S</authors>
+		<title>Safety and immunogenicity of a candidate Middle East respiratory syndrome coronavirus viral-vectored vaccine: a dose-escalation, open-label, non-randomised, uncontrolled, phase 1 trial</title>
+		<year>2020</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>The Lancet. Infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5396">
+		<reference_name>Guo et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guo X, Deng Y, Chen H, Lan J, Wang W, Zou X, Hung T, Lu Z, Tan W</authors>
+		<title>Systemic and mucosal immunity in mice elicited by a single immunization with human adenovirus type 5 or 41 vector-based vaccines carrying the spike protein of Middle East respiratory syndrome coronavirus</title>
+		<year>2015</year>
+		<volume>145</volume>
+		<issue>4</issue>
+		<pages>476-484</pages>
+		<journal_book_name>Immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5385">
+		<reference_name>Kato et al., 2019</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kato H, Takayama-Ito M, Iizuka-Shiota I, Fukushi S, Posadas-Herrera G, Horiya M, Satoh M, Yoshikawa T, Yamada S, Harada S, Fujii H, Shibamura M, Inagaki T, Morimoto K, Saijo M, Lim CK</authors>
+		<title>Development of a recombinant replication-deficient rabies virus-based bivalent-vaccine against MERS-CoV and rabies virus and its humoral immunogenicity in mice</title>
+		<year>2019</year>
+		<volume>14</volume>
+		<issue>10</issue>
+		<pages>e0223684</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5102">
+		<reference_name>Kim et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kim E, Okada K, Kenniston T, Raj VS, AlHajri MM, Farag EA, AlHajri F, Osterhaus AD, Haagmans BL, Gambotto A</authors>
+		<title>Immunogenicity of an adenoviral-based Middle East Respiratory Syndrome coronavirus vaccine in BALB/c mice</title>
+		<year>2014</year>
+		<volume>32</volume>
+		<issue>45</issue>
+		<pages>5975-5982</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5392">
+		<reference_name>Koch et al., 2020</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Koch T, Dahlke C, Fathi A, Kupke A, Krähling V, Okba NMA, Halwe S, Rohde C, Eickmann M, Volz A, Hesterkamp T, Jambrecina A, Borregaard S, Ly ML, Zinser ME, Bartels E, Poetsch JSH, Neumann R, Fux R, Schmiedel S, Lohse AW, Haagmans BL, Sutter G, Becker S, Addo MM</authors>
+		<title>Safety and immunogenicity of a modified vaccinia virus Ankara vector vaccine candidate for Middle East respiratory syndrome: an open-label, phase 1 trial</title>
+		<year>2020</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>The Lancet. Infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5103">
+		<reference_name>Liu et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liu R, Wang J, Shao Y, Wang X, Zhang H, Shuai L, Ge J, Wen Z, Bu Z</authors>
+		<title>A recombinant VSV-vectored MERS-CoV vaccine induces neutralizing antibody and T cell responses in rhesus monkeys after single dose immunization</title>
+		<year>2018</year>
+		<volume>150</volume>
+		<issue></issue>
+		<pages>30-38</pages>
+		<journal_book_name>Antiviral research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5394">
+		<reference_name>Malczyk et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Malczyk AH, Kupke A, Prüfer S, Scheuplein VA, Hutzler S, Kreuz D, Beissert T, Bauer S, Hubich-Rau S, Tondera C, Eldin HS, Schmidt J, Vergara-Alert J, Süzer Y, Seifried J, Hanschmann KM, Kalinke U, Herold S, Sahin U, Cichutek K, Waibler Z, Eickmann M, Becker S, Mühlebach MD</authors>
+		<title>A Highly Immunogenic and Protective Middle East Respiratory Syndrome Coronavirus Vaccine Based on a Recombinant Measles Virus Vaccine Platform</title>
+		<year>2015</year>
+		<volume>89</volume>
+		<issue>22</issue>
+		<pages>11654-11667</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5415">
+		<reference_name>Modjarrad et al., 2019</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Modjarrad K, Roberts CC, Mills KT, Castellano AR, Paolino K, Muthumani K, Reuschel EL, Robb ML, Racine T, Oh MD, Lamarre C, Zaidi FI, Boyer J, Kudchodkar SB, Jeong M, Darden JM, Park YK, Scott PT, Remigio C, Parikh AP, Wise MC, Patel A, Duperret EK, Kim KY, Choi H, White S, Bagarazzi M, May JM, Kane D, Lee H, Kobinger G, Michael NL, Weiner DB, Thomas SJ, Maslow JN</authors>
+		<title>Safety and immunogenicity of an anti-Middle East respiratory syndrome coronavirus DNA vaccine: a phase 1, open-label, single-arm, dose-escalation trial</title>
+		<year>2019</year>
+		<volume>19</volume>
+		<issue>9</issue>
+		<pages>1013-1022</pages>
+		<journal_book_name>The Lancet. Infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5389">
+		<reference_name>Munster et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Munster VJ, Wells D, Lambe T, Wright D, Fischer RJ, Bushmaker T, Saturday G, van Doremalen N, Gilbert SC, de Wit E, Warimwe GM</authors>
+		<title>Protective efficacy of a novel simian adenovirus vaccine against lethal MERS-CoV challenge in a transgenic human DPP4 mouse model</title>
+		<year>2017</year>
+		<volume>2</volume>
+		<issue></issue>
+		<pages>28</pages>
+		<journal_book_name>NPJ vaccines</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5386">
+		<reference_name>Ng et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ng OW, Chia A, Tan AT, Jadi RS, Leong HN, Bertoletti A, Tan YJ</authors>
+		<title>Memory T cell responses targeting the SARS coronavirus persist up to 11 years post-infection</title>
+		<year>2016</year>
+		<volume>34</volume>
+		<issue>17</issue>
+		<pages>2008-2014</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5391">
+		<reference_name>Song et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Song F, Fux R, Provacia LB, Volz A, Eickmann M, Becker S, Osterhaus AD, Haagmans BL, Sutter G</authors>
+		<title>Middle East respiratory syndrome coronavirus spike protein delivered by modified vaccinia virus Ankara efficiently induces virus-neutralizing antibodies</title>
+		<year>2013</year>
+		<volume>87</volume>
+		<issue>21</issue>
+		<pages>11950-11954</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5099">
+		<reference_name>Wang et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang L, Shi W, Joyce MG, Modjarrad K, Zhang Y, Leung K, Lees CR, Zhou T, Yassine HM, Kanekiyo M, Yang ZY, Chen X, Becker MM, Freeman M, Vogel L, Johnson JC, Olinger G, Todd JP, Bagci U, Solomon J, Mollura DJ, Hensley L, Jahrling P, Denison MR, Rao SS, Subbarao K, Kwong PD, Mascola JR, Kong WP, Graham BS</authors>
+		<title>Evaluation of candidate vaccine approaches for MERS-CoV</title>
+		<year>2015</year>
+		<volume>6</volume>
+		<issue></issue>
+		<pages>7712</pages>
+		<journal_book_name>Nature communications</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5412">
+		<reference_name>Wang et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang C, Zheng X, Gai W, Zhao Y, Wang H, Wang H, Feng N, Chi H, Qiu B, Li N, Wang T, Gao Y, Yang S, Xia X</authors>
+		<title>MERS-CoV virus-like particles produced in insect cells induce specific humoural and cellular imminity in rhesus macaques</title>
+		<year>2017</year>
+		<volume>8</volume>
+		<issue>8</issue>
+		<pages>12686-12694</pages>
+		<journal_book_name>Oncotarget</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5355045/</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5387">
+		<reference_name>Zhao et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhao J, Zhao J, Mangalam AK, Channappanavar R, Fett C, Meyerholz DK, Agnihothram S, Baric RS, David CS, Perlman S</authors>
+		<title>Airway Memory CD4(+) T Cells Mediate Protective Immunity against Emerging Respiratory Coronaviruses</title>
+		<year>2016</year>
+		<volume>44</volume>
+		<issue>6</issue>
+		<pages>1379-1391</pages>
+		<journal_book_name>Immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

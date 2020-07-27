@@ -1,0 +1,2768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen169">
+		<pathogen_name>Bovine viral diarrhea virus 1</pathogen_name>
+		<taxon_id>11099</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Bovine viral Diarrhea (BVD)</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1602">Bovine viral diarrhea (BVD) is most common in young cattle (6-24 mo old) and generally is accompanied by typical mucosal lesions; it must be distinguished from other viral diseases that produce diarrhea and mucosal lesions. Bovine viral diarrhea virus (BVDV), the causal agent of BVD and mucosal disease complex, is classified in the genus Pestivirus in the family Flaviviridae. Although cattle are the primary host for BVDV, several reports suggest most even-toed ungulates are also susceptible. Isolates of BVDV are separated into noncytopathic and cytopathic biotypes based on cytopathic effects observed in infected cell cultures. Noncytopathic BVDV are the predominant viral biotype in nature. Cytopathic BVDV are relatively rare and arise in cattle that are persistently infected with noncytopathic BVDV. The switch in viral biotype is triggered by mutations that often involve recombination of noncytopathic viral RNA with itself, with heterologous viral RNA, or with host cell RNA. Based on viral RNA sequence, there are at least 2 viral genotypes of BVDV that can be further divided into subgenotypes. The viral genotypes are termed BVDV type 1 and BVDV type 2, and both cytopathic and noncytopathic BVDV are represented in each viral genotype. Although the viral genotypes are antigenically related, serologic assays can separate BVDV type 1 from BVDV type 2. Serologic surveys indicate that BVDV is distributed worldwide. The prevalence of antiviral antibody in cattle varies among countries and may vary between geographic regions within a country. Prevalence of antiviral antibody may be &gt;90% if vaccination is practiced commonly in a geographic region. Although cattle of all ages are susceptible, most cases of overt clinical disease are seen in cattle that are between 6 mo and 2 yr of age.  Cattle that are persistently infected with noncytopathic BVDV serve as a natural reservoir for virus. Persistent infection develops when noncytopathic BVDV is transmitted transplacentally during the first 4 mo of fetal development. The calf is born infected with virus, remains infected for life, and usually is immunotolerant to the resident noncytopathic virus. Transplacental infection that occurs later in gestation results in abortion, congenital malformations, or birth of normal calves that have antibody against BVDV. The prevalence of persistent infection varies among countries and between regions within a country. In some areas, the prevalence of persistent infection in calves may be as high as 1-2% of cattle &lt;1 yr of age. On a given farm, persistently infected cattle are often found in cohorts of animals that are approximately the same age. Persistently infected cattle can shed large amounts of BVDV in their secretions and excretions and readily transmit virus to susceptible herdmates. Clinical disease and reproductive failure often are seen after healthy cattle come in contact with a persistently infected animal. Biting insects, fomites, semen, biologic products, and possibly wild ruminants also can spread BVDV (Merck Vet Manual: Bovine Viral Diarrhea).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1225">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine (USDA: 1155.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation, Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001901</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1227">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine (USDA: 1155.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001902</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2196">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4145.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001903</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2200">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4145.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001904</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2204">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 43S5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0001905</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2209">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida-Salmonella Typhimurium Bacterin-Toxoid (USDA: 43T5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0001906</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2215">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4335.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001907</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2218">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4336.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001908</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1215">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine (USDA: 1151.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001909</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1217">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine (USDA: 1151.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Intervet Inc., Heska Corporation, Merial, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001910</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1219">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine (USDA: 1151.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id>VO_0001911</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1221">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine (USDA: 1151.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001912</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1223">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine (USDA: 1151.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001913</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2192">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4141.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id>VO_0001914</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2221">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4339.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001915</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2224">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Grippotyphosa-Hardjo-Pomona Bacterin (USDA: 4359.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001916</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2227">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Hardjo-Pomona Bacterin (USDA: 4399.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001917</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2230">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4389.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001918</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2233">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4389.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001919</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2236">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4389.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001920</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1253">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Killed Virus Vaccine (USDA: 1175.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001921</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2253">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4435.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001922</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1229">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine (USDA: 1171.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001923</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1232">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine (USDA: 1171.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001924</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1235">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine (USDA: 1171.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001925</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1238">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine (USDA: 1171.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001926</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1241">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine (USDA: 1171.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001927</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1244">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine (USDA: 1171.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001928</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1247">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine (USDA: 1171.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001929</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1250">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine (USDA: 1171.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001930</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2239">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4560.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001931</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2243">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4560.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001932</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2247">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Haemophilus Somnus-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4489.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001933</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2257">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4439.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001934</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2261">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4439.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Heska Corporation, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001935</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2265">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Grippotyphosa-Hardjo-Pomona Bacterin (USDA: 4479.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001936</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2269">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4509.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001937</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2487">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Killed Virus Vaccine-Mannheimia Haemolytica Bacterin (USDA: 44A5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001938</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1256">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001939</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1260">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc., Heska Corporation, Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001940</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1264">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001941</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1268">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001942</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1272">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001943</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1276">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001944</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1280">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001945</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1284">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001946</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1288">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.28)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001947</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1292">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus  Modified Live Virus Vaccine (USDA: 1181.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Heska Corporation</manufacturer>
+		<vo_id>VO_0001948</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1296">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine (USDA: 1185.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Merial, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001949</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1300">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine (USDA: 1185.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001950</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2278">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44M5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001951</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2284">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44M5.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001952</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2314">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001953</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2320">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B6.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001954</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2326">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B6.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001955</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2344">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Haemophilus Somnus Bacterin (USDA: 44C5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001956</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2348">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Haemophilus Somnus Bacterin (USDA: 44C7.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001957</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2368">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Haemophilus Somnus Bacterin (USDA: 44D5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001958</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2376">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D7.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001959</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2381">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D7.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001960</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2406">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica Bacterin (USDA: 4477.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001961</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2427">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4465.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Merial, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001962</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2431">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4465.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001963</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2435">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4465.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001964</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2439">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4466.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001965</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2443">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4466.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001966</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2483">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona-Mannheimia Haemolytica Bacterin (USDA: 4475.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001967</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1304">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine (USDA: 1187.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001968</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1308">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine (USDA: 1187.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Pfizer, Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001969</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1312">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine (USDA: 1187.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0001970</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1316">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine (USDA: 1187.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001971</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1320">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine (USDA: 1189.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001972</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1324">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine (USDA: 1189.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0001973</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1328">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine (USDA: 1189.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001974</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2332">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001975</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2338">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B9.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001976</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2372">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Haemophilus Somnus Bacterin (USDA: 44F9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001977</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2455">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001978</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2459">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001979</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2471">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001980</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2479">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001981</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2290">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id>VO_0001982</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2296">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B1.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001983</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2302">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B1.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001984</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2308">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B1.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001985</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2352">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus Bacterin (USDA: 44C9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001986</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2356">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus Bacterin (USDA: 44C9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001987</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2360">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus Bacterin (USDA: 44C9.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001988</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2364">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus Bacterin (USDA: 44C9.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001989</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2386">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001990</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2391">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001991</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2396">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D9.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001992</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2401">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D9.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001993</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2411">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4461.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Intervet Inc., Heska Corporation</manufacturer>
+		<vo_id>VO_0001994</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2415">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4461.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001995</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2419">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4461.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc.</manufacturer>
+		<vo_id>VO_0001996</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2423">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4461.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001997</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2447">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001998</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2451">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001999</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2463">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002000</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2467">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002001</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2475">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002002</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2273">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Hardjo Bacterin (USDA: 4L49.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002003</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2491">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Mannheimia Haemolytica Toxoid (USDA: 4X49.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002004</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2495">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Mannheimia Haemolytica Toxoid (USDA: 4X49.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002005</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2499">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 45B9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002006</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2504">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 45B9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002007</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1332">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus-Mannheimia Haemolytica-Pasteurella Multocida Modified Live Virus, Avirulent Live Culture Vaccine (USDA: 11A8.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002008</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1347">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Killed Virus Vaccine (USDA: 11A5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002009</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1338">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine (USDA: 11A1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0002010</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1341">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine (USDA: 11A1.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002011</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1344">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine (USDA: 11A1.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0002012</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2509">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4367.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0002013</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2513">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4367.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002014</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2517">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4367.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0002015</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1354">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine (USDA: 1205.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001567</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1355">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine (USDA: 1205.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Heska Corporation</manufacturer>
+		<vo_id>VO_0001568</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1356">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine (USDA: 1205.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Pfizer, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001569</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1357">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine (USDA: 1205.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001570</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1358">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine (USDA: 1205.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001571</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2538">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 45B5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002023</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2541">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 4C95.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0002024</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2545">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4595.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002025</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2547">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4595.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002026</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1351">
+		<vaccine_name>Bovine Virus Diarrhea Modified Live Virus Vaccine (USDA: 1201.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001572</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1352">
+		<vaccine_name>Bovine Virus Diarrhea Modified Live Virus Vaccine (USDA: 1201.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Heska Corporation, Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0001573</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1353">
+		<vaccine_name>Bovine Virus Diarrhea Modified Live Virus Vaccine (USDA: 1201.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001574</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2549">
+		<vaccine_name>Bovine Virus Diarrhea Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4599.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0002027</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3051">
+		<vaccine_name>BVDV Inactivated Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004226</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference1863">BVDV PT810 and BVDV 890 (Beer et al., 2000).</antigen>
+		<host_response host_response_id="host_response882" host_id="host12">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Simmental</host_strain>
+			<vaccination_protocol refs="reference1863">Twenty-one healthy cattle (“Simmental” breeds) seronegative to BVDV and BHV-1 and aged between 8 weeks and 7 months were used. Three groups (n=6) were vaccinated twice intramuscularly (i.m.) 28 days apart. Three calves were used as unvaccinated controls (Beer et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1863">Absence of viraemia (less than 10 TCID50/10^7 leukocytes) was observed in 50% of vaccinated calves (Beer et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1863">Thirty-eight days after the second vaccination (p. vacc.), all animals were challenged intranasally with 10^6 TCID50 BVDV PT810 in 2 ml cell culture medium. Each animal was inoculated with the diluted virus suspension using an aerosol dispenser adapted to a MUTO™ syringe. One millilitre was applied per nostril (Beer et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<reference reference_id="reference1863">
+		<reference_name>Beer et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Beer M, Hehnen HR, Wolfmeyer A, Poll G, Kaaden OR, Wolf G</authors>
+		<title>A new inactivated BVDV genotype I and II vaccine. An immunisation and challenge study with BVDV genotype I</title>
+		<year>2000</year>
+		<volume>77</volume>
+		<issue>1-2</issue>
+		<pages>195-208</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4976">
+		<reference_name>Mahony et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mahony D, Mody KT, Cavallaro AS, Hu Q, Mahony TJ, Qiao S, Mitter N</authors>
+		<title>Immunisation of Sheep with Bovine Viral Diarrhoea Virus, E2 Protein Using a Freeze-Dried Hollow Silica Mesoporous Nanoparticle Formulation</title>
+		<year>2015</year>
+		<volume>10</volume>
+		<issue>11</issue>
+		<pages>e0141870</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1602">
+		<reference_name>Merck Vet Manual: Bovine Viral Diarrhea</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Merck Vet Manual: Bovine Viral Diarrhea and Mucosal Disease Complex</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/22103.htm</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

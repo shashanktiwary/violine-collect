@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen75">
+		<pathogen_name>Infectious Hematopoietic Necrosis Virus</pathogen_name>
+		<taxon_id>11290</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Infectious hematopoietic necrosis</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1435">IHNV causes the disease known as infectious hematopoietic necrosis in salmonid fish like trout and salmon (Wiki: Infectious Hematopoietic Necrosis Virus).</host_range>
+		<introduction refs="reference1435">Infectious hematopoietic necrosis virus (IHNV), is a negative-sense single-stranded RNA virus that is a member of the Rhabdoviridae family, and from the genus Novirhabdovirus. It causes the disease known as infectious hematopoietic necrosis in salmonid fish like trout and salmon. IHNV is commonly found in the Pacific Coast of Canada and the USA, and has also been found in Europe and Japan. The first reported epidemics of IHNV occurred in the United States at the Washington and the Oregon fish hatcheries during the 1950s. IHNV is transmitted following shedding of the virus in the feces, urine, sexual fluids, and external mucus and by direct contact or close contact with surrounding water. The virus gains entry into fish at the base of the fins.
+
+Clinical signs of infection with IHNV include abdominal distension, bulging of the eyes, skin darkening, anemia and fading of the gills. Infected fish commonly hemorrhage in several areas; the mouth and behind the head, the pectoral fins, muscles near the anus, and (in fry) the yolk sac. Diseased fish weaken eventually floating “belly-up” on the surface of the water. Necrosis is common in the kidney and spleen, and sometimes in the liver (Wiki: Infectious Hematopoietic Necrosis Virus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine410">
+		<vaccine_name>Apex-IHN</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Apex-IHN</brand_name>
+		<manufacturer>Novartis (Aqua Health)</manufacturer>
+		<vo_id>VO_0000941</vo_id>
+		<type>DNA vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="">DNA vaccine</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3687">
+		<vaccine_name>IHNV DNA vaccine pCDNA-G encoding G</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004420</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCDNA3.1 [Ref2338:Corbeil et al., 1999]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1222" gene_id="gene513">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2338">Vector pCDNA3.1 expressed the glycoprotein (G) (Corbeil et al., 1999).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1451" host_id="host48">
+			<immune_response refs="reference2338">The G protein expressed by the DNA vaccine construct did confer significant protection in fry up to 80 days post-immunization and induced protective neutralizing antibodies (Corbeil et al., 1999).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2338">Cumulative percent mortality in fish immunized with pCDNA-G ranged from 0 to 2% whereas mortality in fish immunized with DNA vaccines that contained other proteins or were left unhandled ranged from 36 to 76%.  Significant protection was elicited up to 80 days post-immunization, and the vaccine also induced protective neutralizing antibodies (Corbeil et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3369">
+		<vaccine_name>IHNV DNA vaccine pCMV4-G</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004321</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMV4 [Ref2156:Anderson et al., 1996]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering917" gene_id="gene513">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2156">Vector pCMV4 expressed the infectious hematopoietic necrosis virus (IHNV) glycoprotein (Anderson et al., 1996).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1182" host_id="host45">
+			<immune_response refs="reference2156">Fish injected with the glycoprotein-encoding plasmid pCMV4-G, either alone or in combination with the nucleoprotein-encoding plasmid pCMV4-N, generated glycoprotein-specific and virus-neutralizing antibody responses (Anderson et al., 1996).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2156">The vaccinated fish were protected from subsequent IHNV challenge (Anderson et al., 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3370">
+		<vaccine_name>IHNV DNA vaccine pCMV4-N encoding the nucleoprotein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004322</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMV4 [Ref2156:Anderson et al., 1996]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering918" gene_id="gene1226">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2156">Vector pCMV4 expressed the infectious hematopoietic necrosis virus (IHNV) nucleoprotein (Anderson et al., 1996).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1183" host_id="host45">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2156">Fish receiving pCMV4-N and pCMV4-G were protected from subsequent IHNV challenge (Anderson et al., 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3837">
+		<vaccine_name>IHNV DNA vaccine pIHN-G encoding glycoproteins</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004495</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1(+) vector [Ref2434:Lorenzen et al., 2002]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1367" gene_id="gene513">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2434">The pcDNA3.1(+) vector expressed viral glycoproteins (G proteins) (Lorenzen et al., 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1250" host_id="host45">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2434">Challenge experiments revealed that immunity established shortly after vaccination was cross-protective between IHNV and VHSV whereas no increased survival was found upon challenge with bacterial pathogens. Within two months after vaccination, the cross-protection disappeared while the specific immunity to homologous virus remained high (Lorenzen et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine989">
+		<vaccine_name>IHNV DNA vaccine pIHNw-G</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011398</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCDNA 3.1 vector (Invitrogen)</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Infectious Hematopoietic Necrosis Virus glycoprotein antigen</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering472" gene_id="gene513">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1405">The open reading frame of the G gene of IHNV WRAC strain was amplifed by reverse transcriptase-polymerase chain reaction using sequence-specic primers and cloned into the pT7-blue vector (Novagen, Madison, WI). The gene was then subcloned downstream of the immediate-early enhancer-promoter sequences of human cytomegalovirus (CMV) of the pCDNA 3.1 vector (Invitrogen). The resulting plasmid was designated pIHNw-G (previously pCDNA-G) (Corbeil et al., 2000).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response744" host_id="host45">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1353">Fish from cohort 1 were used for viral challenge experiments, serological analyses, histology, and passive transfer experiments 1 and 2. For these studies two groups of 500 juvenile rainbow trout from cohort 1 (mean weight 2.5 g) were anaesthetized by immersion in 100 μg/ml tricaine methane sulfonate (MS-222; Argent Chemical Laboratories, Redmond, WA) and vaccinated by i.m. injection with 0.1 μg of either pIHNw-G or pLuc in a total volume of 50 μl phosphate buffered saline (PBS). A group of 200 fish was left unhandled, and all fish were maintained at 12 °C for the entire study period (Kurath et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1353">The DNA vaccine pIHNw-G encodes the glycoprotein of the fish rhabdovirus infectious hematopoietic necrosis virus (IHNV). Vaccine performance in rainbow trout was measured 3, 6, 13, 24, and 25 months after vaccination. At three months all fish vaccinated with 0.1 microg pIHNw-G had detectable neutralizing antibody (NAb) and they were completely protected from lethal IHNV challenge with a relative percent survival (RPS) of 100% compared to control fish (Kurath et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1353">. At 25 months post-vaccination a challenge experiment was done with three subgroups of 18 fish per treatment. For each experiment duplicate groups of pIHNw-G vaccinated fish were i.p. injected with IHNV as described above, and the third group was injected with 200 μl MEM without virus. Similarly, two groups of pLuc vaccinated fish were challenged with IHNV, and the third group was mock-challenged (Kurath et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3218">
+		<vaccine_name>Infectious Hematopoietic Necrosis Virus NV mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002979</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering757" gene_id="gene1076">
+			<type>Gene mutation</type>
+			<description refs="reference2056">This NV mutant is from Infectious hematopoietic necrosis virus (Thoulouze et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1047" host_id="host45">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2056">A NV mutant is attenuated in rainbow trout (Thoulouze et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2056">An NV mutant induces significant protection in rainbow trout from challenge with wild type IHNV (Thoulouze et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene513">
+        <gene_name>G glycoprotein</gene_name>
+        <strain>Infectious hematopoietic necrosis virus</strain>
+        <vo_id>VO_0011109</vo_id>
+        <ncbi_gene_id>1489848</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9628086</ncbi_protein_id>
+        <gene_locus_tag>IHNVgp4</gene_locus_tag>
+        <gene_refseq>KP216199</gene_refseq>
+        <protein_refseq>NP_042679</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11290</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>2998</gene_start>
+        <gene_end>4524</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein</protein_name>
+        <protein_pi>6.5</protein_pi>
+        <protein_weight>54073.98</protein_weight>
+        <protein_length>508</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001652.1:2998-4524 Infectious hematopoietic necrosis virus, complete genome
+AATGGACACCATGATCACCACTCCGCTCATTCTCATTCTGATCACCTGCGGAGCAAACAGCCAAACCGTC
+AAACCCGACACCGCAAGCGAATCAGACCAACCCACCTGGTCAAACCCGCTCTTCACCTATCCCGAGGGAT
+GCACTCTGGACAAGCTCTCTAAGGTCAATGCCTCTCAACTGAGATGCCCAAGGATCTTCGACGATGAGAA
+CAGGGGGCTAATTGCCTATCCCACATCCATCCGGTCCCTGTCAGTCGGAAACGACCTCGGGGACATTCAC
+ACCCAAGGGAACCACATCCACAAAGTCCTGTACCGCACAATCTGCTCAACAGGGTTCTTCGGGGGTCAGA
+CGATAGAGAAGGCGCTTGTAAAAATGAAACTCTCTACGAAAGAAGCAGGGGCGTATGACACCACAACCGC
+AGCCGCTCTGTACTTCCCAGCTCCCCGATGCCAATGGTACACCGACAACGTACAAAACGATCTCATCTTC
+TACTACACAACACAAAAGAGTGTTCTTAGAGATCCCTACACCAGAGACTTTCTGGACTCAGATTTTATTG
+GAGGAAAATGTACCAAATCACCCTGCCAGACTCATTGGTCCAACGTAGTTTGGATGGGTGATGCAGGGAT
+ACCAGCCTGTGATTCCAGCCAAGAGATAAAAGCTCACCTCTTTGTTGATAAAATCTCCAATCGAGTCGTG
+AAGGCAACGAGCTACGGACACCACCCCTGGGGACTGCATCAGGCCTGTATGATTGAATTCTGTGGGCAAC
+AGTGGATACGGACAGATCTCGGTGACCTAATATCTGTCGTATACAATTCTGGATCAGAAATCCTCTCGTT
+CCCGAAGTGTGAAGACAAGACCGTGGGAATGAGGGGAAACTTGGATGACTTTGCCTATCTAGACGATCTG
+GTGAAGGCCTCTGAGAGCAGAGAGGAATGTCTTGAGGCGCACGCCGAGATAATATCAACAAACAGTGTGA
+CTCCATACCTCCTATCCAAATTCCGATCTCCACATCCCGGAATAAATGACGTCTACGCTATGCACAAAGG
+CTCCATCTATCACGGGATGTGCATGACGGTCGCTGTGGACGAGGTATCCAAGGACAGGACAACGTACAGG
+GCCCATCGCGCTACCAGCTTCACGAAATGGGAACGACCCTTTGGGGATGAGTGGGAGGGCTTTCACGGAT
+TGCACGGAAACAACACCACCATTATTCCAGACCTGGAGAAATACGTCGCCCAGTACAAGATGAGCATGAT
+GGAACCGATGAGCATCAAATCCGTACCCCATCCAAGCATCCTGGCCCTCTACAATGAGACAGACGTGTCA
+GGGATCTCCATCAGGAAACTGGACTCATTCGACCTTCAATCACTCCACTGGAGTTTCTGGCCCACAATCT
+CCGCACTGGGTGGAATTCCCTTTGTTCTCCTCCTTGCTGTTGCCGCGTGCTGCTGCTGGTCAGGGAGACC
+TCCCACTCCCTCCGTGCCGCAGAGTATCCCCATGTATCACCTGGCAAACCGGTCCTA
+
+</dna_sequence>
+        <protein_sequence>>NP_042679.1 glycoprotein [Infectious hematopoietic necrosis virus]
+MDTMITTPLILILITCGANSQTVKPDTASESDQPTWSNPLFTYPEGCTLDKLSKVNASQLRCPRIFDDEN
+RGLIAYPTSIRSLSVGNDLGDIHTQGNHIHKVLYRTICSTGFFGGQTIEKALVKMKLSTKEAGAYDTTTA
+AALYFPAPRCQWYTDNVQNDLIFYYTTQKSVLRDPYTRDFLDSDFIGGKCTKSPCQTHWSNVVWMGDAGI
+PACDSSQEIKAHLFVDKISNRVVKATSYGHHPWGLHQACMIEFCGQQWIRTDLGDLISVVYNSGSEILSF
+PKCEDKTVGMRGNLDDFAYLDDLVKASESREECLEAHAEIISTNSVTPYLLSKFRSPHPGINDVYAMHKG
+SIYHGMCMTVAVDEVSKDRTTYRAHRATSFTKWERPFGDEWEGFHGLHGNNTTIIPDLEKYVAQYKMSMM
+EPMSIKSVPHPSILALYNETDVSGISIRKLDSFDLQSLHWSFWPTISALGGIPFVLLLAVAACCCWSGRP
+PTPSVPQSIPMYHLANRS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The DNA vaccine pIHNw-G encodes the glycoprotein of the fish rhabdovirus infectious hematopoietic necrosis virus (IHNV). Vaccine performance in rainbow trout was measured 3, 6, 13, 24, and 25 months after vaccination. At three months all fish vaccinated with 0.1 microg pIHNw-G had detectable neutralizing antibody (NAb) and they were completely protected from lethal IHNV challenge with a relative percent survival (RPS) of 100% compared to control fish [Ref1353:Kurath et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1226">
+        <gene_name>N gene</gene_name>
+        <strain>Infectious hematopoietic necrosis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1489845</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9628083</ncbi_protein_id>
+        <gene_locus_tag>IHNVgp1</gene_locus_tag>
+        <gene_refseq>L40883</gene_refseq>
+        <protein_refseq>NP_042676</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11290</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>174</gene_start>
+        <gene_end>1349</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>nucleocapsid protein</protein_name>
+        <protein_pi>4.56</protein_pi>
+        <protein_weight>39826.36</protein_weight>
+        <protein_length>391</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|9628082:174-1349 Infectious hematopoietic necrosis virus, complete genome
+GATGACAAGCGCACTCAGAGAGACGTTCACTGGACTCAGAGACATCAAGGGGGGAGTCCTCGAGGATCCA
+GAGACGGAGTATCGTCCCAGTACGATAACCCTCCCTCTATTTTTCTCCAAGACAGACTTAGACCTAGAGA
+TGATCAAGCGGGCGGTGAGTCAAGTCGGAGGAGAGGGAACGAGAAAGGCATTGAGCCTCCTGTGCGCGTT
+CGTCATTGCAGAGACGGTCCCATCGGAGGCAGGTACGGTCGCCGAACTTCTGGAAGCCCTGGGTTTCGTG
+CTGGAGTCTTTGGACACTGGGGCACCACCAGACGCTACCTTCGCAGATCCCAACAACAAGCTTGCAGAAA
+CGATCGTAAAGGAAAATGTCCTTGAGGTTGTGACCGGCCTCCTCTTCACCTGCGCCCTACTGACTAAGTA
+TGATGTGGACAAGATGGCCACATACTGCCAAAACAAGCTCGAGCGTCTTGCAACCAGCCAAGGGATTGGC
+GAGTTGGTTAACTTCAACGCCAACAGGGGAGTCCTGGCCAAGATCGGGGCGGTGCTTAGACCCGGACAGA
+AGCTCACCAAGGCTATCTATGGGATCATTCTCATCAACCTGTCCGACCCAGCCATCGCTGCCAGAGCCAA
+GGCACTGTGCGCCATGAGACTGAGCGGGACAGGAATGACAATGGTGGGGCTGTTCAACCAAGCCGCAAAG
+AACCTGGGCGCCCTTCCAGCCGACCTTTTAGAGGATCTGTGCATGAAGTCAGTGGTGGAGTCCGCCAGAC
+GCATTGTCAGACTGATGAGGATCGTAGCAGAGGCCCCAGGGGTAGCAGCAAAGTACGGTGTCATGATGAG
+CAGGATGCTCGGGGAGGGGTACTTCAAGGCCTACGGGATCAACGAGAACGCCAGGATCACCTGCATTCTC
+ATGAACATCAACGATAGGTATGACGATGGGACCTCGAGAGGACTGACAGGGATAAAGGTCTCCGACCCTT
+TCAGGAAGCTGGCGAGGGAGATCGCTCGTCTCCTTGTCCTCAAGTACGATGGCGATGGCTCAACCGGAGA
+GGGGGCGTCAGAGCTGATCCGCCGGGCGGAGATGGCATCTCGGGGACCAGACATGGGTGAGGAGGAGGAG
+GAGGACGAGGAGGACGACGACTCCAGTGAGCCAGGAGACTCCGACTCATTCCACTG</dna_sequence>
+        <protein_sequence>>gi|9628083|ref|NP_042676.1| nucleocapsid protein [Infectious hematopoietic necrosis virus]
+MTSALRETFTGLRDIKGGVLEDPETEYRPSTITLPLFFSKTDLDLEMIKRAVSQVGGEGTRKALSLLCAF
+VIAETVPSEAGTVAELLEALGFVLESLDTGAPPDATFADPNNKLAETIVKENVLEVVTGLLFTCALLTKY
+DVDKMATYCQNKLERLATSQGIGELVNFNANRGVLAKIGAVLRPGQKLTKAIYGIILINLSDPAIAARAK
+ALCAMRLSGTGMTMVGLFNQAAKNLGALPADLLEDLCMKSVVESARRIVRLMRIVAEAPGVAAKYGVMMS
+RMLGEGYFKAYGINENARITCILMNINDRYDDGTSRGLTGIKVSDPFRKLAREIARLLVLKYDGDGSTGE
+GASELIRRAEMASRGPDMGEEEEEDEEDDDSSEPGDSDSFH</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1076">
+        <gene_name>NV</gene_name>
+        <strain>Infectious hematopoietic necrosis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1489849</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9628087</ncbi_protein_id>
+        <gene_locus_tag>IHNVgp5</gene_locus_tag>
+        <gene_refseq>L40883</gene_refseq>
+        <protein_refseq>NP_042680</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11290</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>4594</gene_start>
+        <gene_end>4929</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>non-virion protein</protein_name>
+        <protein_pi>6.96</protein_pi>
+        <protein_weight>12583.43</protein_weight>
+        <protein_length>111</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|9628082:4594-4929 Infectious hematopoietic necrosis virus, complete genome
+AATGGACCACCGCGACATAAACACGAACATGGAGGCACTCAGAGAAGCTCTGCGATACAAGAACGAGGTG
+GCCGGACACGGCTTCTCTTTTGATGACGGAGACCTGGTATGGCGTGAAGAGGACGACGCAACGTGGAGGA
+GGCTTTGCGATGTCGTCAACGCACTGATTTCCTCCAAGAGGATGCAGCGAGTATTGTACATGGACCTCAG
+CATCACCAAGGGCGAGGGGCATCTACTTCTTGTGGATCTCCAGGGGACCAAGAACCGCCTGTACAAAGAA
+CCCCGATTCAGGAGACATCTGATCCTGATTGAAGACTTTCTTGCTTATCCCAGATA</dna_sequence>
+        <protein_sequence>>gi|9628087|ref|NP_042680.1| non-virion protein [Infectious hematopoietic necrosis virus]
+MDHRDINTNMEALREALRYKNEVAGHGFSFDDGDLVWREEDDATWRRLCDVVNALISSKRMQRVLYMDLS
+ITKGEGHLLLVDLQGTKNRLYKEPRFRRHLILIEDFLAYPR</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A mutation in the non-virion protein of IHNV causes attenuated growth in rainbow trout and is able to provide significant protection from subsequent challenge with wild type IHNV [Ref2056:Thoulouze et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2156">
+		<reference_name>Anderson et al., 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Anderson ED, Mourich DV, Fahrenkrug SC, LaPatra S, Shepherd J, Leong JA</authors>
+		<title>Genetic immunization of rainbow trout (Oncorhynchus mykiss) against infectious hematopoietic necrosis virus</title>
+		<year>1996</year>
+		<volume>5</volume>
+		<issue>2</issue>
+		<pages>114-122</pages>
+		<journal_book_name>Molecular marine biology and biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2338">
+		<reference_name>Corbeil et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Corbeil S, Lapatra SE, Anderson ED, Jones J, Vincent B, Hsu YL, Kurath G</authors>
+		<title>Evaluation of the protective immunogenicity of the N, P, M, NV and G proteins of infectious hematopoietic necrosis virus in rainbow trout oncorhynchus mykiss using DNA vaccines</title>
+		<year>1999</year>
+		<volume>39</volume>
+		<issue>1</issue>
+		<pages>29-36</pages>
+		<journal_book_name>Diseases of aquatic organisms</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1405">
+		<reference_name>Corbeil et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Corbeil S, LaPatra SE, Anderson ED, Kurath G</authors>
+		<title>Nanogram quantities of a DNA vaccine protect rainbow trout fry against heterologous strains of infectious hematopoietic necrosis virus</title>
+		<year>2000</year>
+		<volume>18</volume>
+		<issue>25</issue>
+		<pages>2817-2824</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1123">
+		<reference_name>Einer-Jensen et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Einer-Jensen K, Delgado L, Lorenzen E, Bovo G, Evensen Ø, Lapatra S, Lorenzen N</authors>
+		<title>Dual DNA vaccination of rainbow trout (Oncorhynchus mykiss) against two different rhabdoviruses, VHSV and IHNV, induces specific divalent protection</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>8</issue>
+		<pages>1248-1253</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1353">
+		<reference_name>Kurath et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kurath G, Garver KA, Corbeil S, Elliott DG, Anderson ED, LaPatra SE</authors>
+		<title>Protective immunity and lack of histopathological damage two years after DNA vaccination against infectious hematopoietic necrosis virus in trout</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>3</issue>
+		<pages>345-354</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2434">
+		<reference_name>Lorenzen et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lorenzen N, Lorenzen E, Einer-Jensen K, LaPatra SE</authors>
+		<title>Immunity induced shortly after DNA vaccination of rainbow trout against rhabdoviruses protects against heterologous virus but not against bacterial pathogens</title>
+		<year>2002</year>
+		<volume>26</volume>
+		<issue>2</issue>
+		<pages>173-179</pages>
+		<journal_book_name>Developmental and comparative immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2056">
+		<reference_name>Thoulouze et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Thoulouze MI, Bouguyon E, Carpentier C, Brémont M</authors>
+		<title>Essential role of the NV protein of Novirhabdovirus for pathogenicity in rainbow trout</title>
+		<year>2004</year>
+		<volume>78</volume>
+		<issue>8</issue>
+		<pages>4098-4107</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1435">
+		<reference_name>Wiki:  Infectious Hematopoietic Necrosis Virus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Infectious Hematopoietic Necrosis Virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Infectious_hematopoietic_necrosis_virus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

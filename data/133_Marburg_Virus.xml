@@ -1,0 +1,2307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen28">
+		<pathogen_name>Marburg Virus</pathogen_name>
+		<taxon_id>186537</taxon_id>
+		<pathogenesis refs="reference622">   The initial targets of infection are generally macrophages, monocytes, and DCs. Filoviruses generally bind to the TREM or C-type lectin receptors on myloid cells. However, since some cells do not express C-lectin or TREM receptors, viral entry may be due to molecules such as heparin-sulphate proteoglycan and folate receptor-α. Data also indicate that the expression of TLR1 (whose signal converges with that of TLR2) was increased on MARV-activated neutrophils (Mohamadzadeh et al., 2007). 
+</pathogenesis>
+		<disease_name>Hemorrhagic fever</disease_name>
+		<protective_immunity refs="reference622">Filoviruses have been found to disable some of the host IFN pathway, such as the VP35, which prevents the production of type I IFNs, and VP24, which interferes with the abilities of certain molecules to induce antiviral states. IFN is crucial to immune response, as indicated by elevated levels of IFN in the blood even during acute infection. It had also been seen that there is a deficit (virus-induced) in the co-stimulatory properties of infected Dcs, identified by a supressed capacity of the DCs to stimulate allogenic T cells.  By affecting either viral exit or entry, cellular proteases could influence viral cellular tropisms and interactions between antibodies and glycoproteins. All host protective immunity observations are also tied with the prevalence of an abundance of cathepsins (Mohamadzadeh et al., 2007). 
+</protective_immunity>
+		<host_range refs="reference622">The natural host for MARV is known to be bats of Central African origin (Mohamadzadeh et al., 2007). </host_range>
+		<introduction refs="reference622">Marburg was identified in 1967 in Central Africa. It has been known to infect bats, humans, and non-human primates. The virus has caused severe outbreaks of, usually, fatal hemorrhagic fever. In primates, the symtoms are known to be fever, diarrhea, vomiting, coagulation deficits, and severe liver damage. The virus causes a profuse release of inflammatory cytokines, which affects vascular permeability. The excessive bleeding involved sometimes leads to the activation of tissue factor in macrophages and monocytes, as well as a drop in platlet numbers (Mohamadzadeh et al., 2007).     </introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine217">
+		<vaccine_name>Adenovirus vectors expressing Marburg virus glycoprotein </vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004118</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference495">Although Ad vectors have a high affinity for the liver and may potentially cause inflammation in the liver, there is not pathology indicative of inflammation or cytotoxicity as a result of vaccination in mice (Wang et al., 2006).</virulence>
+		<preparation refs="reference495">The Ci67 GP (Genbank accession number AF005735; Protein ID AAC40460.1; a.a. 1–681), Ravn GP (Genbank accession number AF005734; Protein ID AAC40459.1; a.a. 1–681), and Musoke GP (Genbank accession number DQ217792; Protein ID ABA87127; a.a. 1–681) genes were amplified by PCR. Each MARV antigen was subcloned into the pLAd and pRAd shuttle vectors to create a series of MARV adenovirus vaccines targeted against the Ci67, Ravn, and Musoke strains of MARV. All cAdVax vector genomes were based on a modified Ad5sub360 vector backbone, which contains deletions in E1, E3 and almost all E4 ORFs with the exception of ORF6 (Wang et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference495">Glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering149" gene_id="gene148">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference495">This Ci67 GP gene was amplified by PCR, and subcloned to create MARV adenovirus vaccine targeted against the Ci67strain of MARV (Wang et al., 2006). </description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering150" gene_id="gene149">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference495">This Ravn GP gene was amplified by PCR, and subcloned to create MARV adenovirus vaccine targeted against the Ci67strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering151" gene_id="gene150">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference495">This Musoke GP gene was amplified by PCR, and subcloned to create MARV adenovirus vaccine targeted against the Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response295" host_id="host3">
+			<immune_response refs="reference495">Immunization of mice with complex adenovirus (Ad)-based vaccine candidates (cAdVax vaccines) induced efficient production of both antibodies and cytotoxic T lymphocytes (CTL) specific to Musoke strain GP and Ci67 strain GP, respectively. Antibody responses were also cross-reactive across the MARV strains, but not cross-reactive to Ebola virus, a related filovirus (Wang et al., 2006).</immune_response>
+			<host_strain refs="">C57BL/6 mice</host_strain>
+			<vaccination_protocol refs="reference495">Four groups of 28 C57BL/6 mice were immunized intra-peritoneally (i.p.) at weeks 0, 4 and 8 with 1 × 10^8 pfu of either cAdVaxM(ci), cAdVaxM(ra), cAdVaxM(mu), or HC4 control vector prepared in 100 μl PBS/10% glycerol. HC4, an unrelated adenovirus-based Hepatitis C vaccine, served as a negative control vaccine. Four mice per group were sacrificed at weeks 2, 4, 6, 8, 10, 12, and 24 (Wang et al., 2006).</vaccination_protocol>
+			<persistence refs="">The persistence of these three vaccine candidates in mice was not reported.</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference495">Three 1 × 10^8 pfu doses of vaccine vector did not lead to any detectable toxicity in liver or spleen, so it appears to be safe (Wang et al., 2006). </side_effects>
+			<challenge_protocol refs="">No challenge experiment was conducted.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4117">
+		<vaccine_name>CAdVa-Filoviruses (EbMarburg viruses)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004645</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference495">Three novel gene-based vaccine candidates which express the viral glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1740" gene_id="gene150">
+			<type>Recombinant vector construction</type>
+			<description refs="reference495">Novel gene-based vaccine candidates which express the viral glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1741" gene_id="gene149">
+			<type>Recombinant vector construction</type>
+			<description refs="reference495">Novel gene-based vaccine candidates which express the viral glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1742" gene_id="gene148">
+			<type>Recombinant vector construction</type>
+			<description refs="reference495">Novel gene-based vaccine candidates which express the viral glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1835" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="">Immunization of mice with complex adenovirus (Ad)-based vaccine candidates (cAdVax vaccines) (Wang et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference495">Vaccination led to efficient production of both antibodies and cytotoxic T lymphocytes (CTL) specific to Musoke strain GP and Ci67 strain GP, respectively. Antibody responses were also shown to be cross-reactive across the MARV strains, but not cross-reactive to Ebola virus, a related filovirus. Additionally, three 1 x 10(8)pfu doses of vaccine vector were demonstrated to be safe in mice, as this did not lead to any detectable toxicity in liver or spleen (Wang et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4118">
+		<vaccine_name>cAdVaxM(fus)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004646</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference495">Three novel gene-based vaccine candidates which express the viral glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1737" gene_id="gene150">
+			<type>Recombinant vector construction</type>
+			<description refs="reference495">Novel gene-based vaccine candidates which express the viral glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1738" gene_id="gene149">
+			<type>Recombinant vector construction</type>
+			<description refs="reference495">Novel gene-based vaccine candidates which express the viral glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1739" gene_id="gene148">
+			<type>Recombinant vector construction</type>
+			<description refs="reference495">Novel gene-based vaccine candidates which express the viral glycoprotein (GP) from either the Ci67, Ravn or Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1834" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference495">Immunization of mice with complex adenovirus (Ad)-based vaccine candidates (cAdVax vaccines) (Wang et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference495">Vaccination led to efficient production of both antibodies and cytotoxic T lymphocytes (CTL) specific to Musoke strain GP and Ci67 strain GP, respectively. Antibody responses were also shown to be cross-reactive across the MARV strains, but not cross-reactive to Ebola virus, a related filovirus. Additionally, three 1 x 10(8)pfu doses of vaccine vector were demonstrated to be safe in mice, as this did not lead to any detectable toxicity in liver or spleen (Wang et al., 2006).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine246">
+		<vaccine_name>Heterologous MARV Protein VLP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004137</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">RIBI </adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference629">GP vaccination formed sufficient protection against homologous filovirus challenge, yet heterologous wild-type VLPs without GP failed to protect. Our data indicate that vaccination with GP was required and sufﬁcient to form an immune response as heterologous wild-type VLPs or hybrid VLPs that did not contain the homologous GP failed. Vaccination with a mixture of EBOV and MARV VLPs was successful in forming an immune response (Swenson et al., 2005). 
+
+</virulence>
+		<preparation refs="reference629">Expression plasmids were made through the use of MARV-Musoke strain. To produce the actual viral preparations,  MARV-infected cell supernatents were clariﬁed at 1500×g and then pelleted at 9500×g for 4 h in a Sorvall GSA rotor (Swenson et al., 2005). 
+</preparation>
+		<route refs=""></route>
+		<antigen refs="reference629">MARV VP40 and GP were used (Swenson et al., 2005). </antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering185" gene_id="gene150">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference559">MBGV gene clone pGem-GP was provided by Heinz Feldmann and Anthony Sanchez (Centers for Disease Control and Prevention, Atlanta, GA). The MBGV GP gene from pGem-GP was excised with SalI and subcloned into the SalI site of a shuttle vector. A clone with the MBGV GP gene in the correct orientation was excised with ApaI and NotI, and this fragment was cloned into the ApaI and NotI sites of a VEE replicon plasmid  (Hevey et al., 1998). </description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering186" gene_id="gene162">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference559"> An RNA replicon based on VEEV was used as the vector, with the VEE structural genes replaced by VP40. VP40 seems to serve as a matrix protein, affecting interactions between the nucleoprotein complex and lipid membrane. It is also the most abundant part of the virion (Hevey et al., 1998). </description>
+		</gene_engineering>
+		<host_response host_response_id="host_response317" host_id="host7">
+			<immune_response refs="reference629">Animals vaccinated with the wild-type eVLP or e/m-VLPs did not have high serum antibody titers against MARV, but did have them against EBOV. Injection with mVLP and m/e-VLP vaccination resulted in high titers against MARV but not against EBOV. The vaccination containing EBOV GPin the form of eVLPor e/m-VLP resulted in antibodies against EBOV but not MARV. Finally, animals vaccinated with mVLP orm/e-VLP did not develop significant antibody titers against EBOV or MARV (Swenson et al., 2005). 
+ </immune_response>
+			<host_strain refs="">Strain 13</host_strain>
+			<vaccination_protocol refs="reference629">Strain 13 guinea pigs were vaccinated once with  mVLPs, eVLPs, or an equal mixture of eVLPs and mVLPs in RIBI adjuvant, and the serum antibody levels against MARV and EBOV were measured (via ELISA) prior to challenge (Swenson et al., 2005). 
+Control guinea pigs were vaccinated with RIBI adjuvant alone. Serum samples from the guinea pigs were
+obtained immediately before (PRE) or 28 days post-challenge (POST).Guinea pigs were vaccinated
+</vaccination_protocol>
+			<persistence refs="">Not noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference629">Guinea pigs challenged wuth VLPs containing homologous GP were protected from a lethal filovirus, and a eVLP or e/m-VLP vaccination yielded protection against EBOV infection. Vaccines containing heterologous proteins or homologous VP40 did not protect against lethal challenge (Swenson et al., 2005). 
+</protection_efficacy>
+			<side_effects refs="">None noted. </side_effects>
+			<challenge_protocol refs="reference629">Guinea pigs were challenged 28 days after a single vaccination with 1000 pfu of guinea pig-adapted MARV or EBOV (Swenson et al., 2005).
+</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine229">
+		<vaccine_name>Irradiated MBGV antigen</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004127</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs="reference560">Whole Marburg virus (MBGV) antigens (Hevey et al., 1997).</antigen>
+		<host_response host_response_id="host_response301" host_id="host7">
+			<immune_response refs="">Not noted for irradiated MBGV specifically. </immune_response>
+			<host_strain refs="">Strain 13</host_strain>
+			<vaccination_protocol refs="reference560">Animals were immunized with irradiated MBGV (strains Musoke and Ravn)(Hevey et al., 1997).  </vaccination_protocol>
+			<persistence refs="">None noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference560">Gradient-purified, irradiated virus was able to completely protect strain 13 guinea pigs from challenge with either MBGV (strain Musoke) or
+indicated that the product immunoprecipitated from GP- MBGV (strain Ravn)(Hevey et al., 1997).</protection_efficacy>
+			<side_effects refs="">None noted. </side_effects>
+			<challenge_protocol refs="reference560">All animals challenged with strains Musoke and Ravn survived without regard to challenge virus (Hevey et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3598">
+		<vaccine_name>Marburg virus DNA prime/boost vaccine DNA/rAd5-GP encoding GP from strain Angola</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004389</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>CMV/R and rAd type 5 (rAd5) [Ref2288:Geisbert et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1138" gene_id="gene150">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2288">Vector rAd type 5 (rAd5) expressed GP of MARV (Geisbert et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1423" host_id="host39">
+			<immune_response refs="reference2288">The vaccine induced humoral responses , as well as CD4(+) and CD8(+) cellular immune responses, with skewing toward CD4(+) T-cell activity against MARV GP.  The highest antibody titers were achieved with a heterologous prime-boost vaccine. rAd5-GP boosted titers in DNA-primed animals more than 2 orders of magnitude to a final prechallenge GP ELISA IgG titer of 1:237,167 (Geisbert et al., 2010).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2288">Heterologous prime-boost with DNA/rAd vectors generated protective immunity in all subjects after challenge with a lethal dose of MARV Angola (Geisbert et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3599">
+		<vaccine_name>Marburg virus DNA vaccine DNA-GP encoding GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004390</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>CMV/R [Ref2288:Geisbert et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1139" gene_id="gene150">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2288">Vector CMV/R expressed GP of MARV (Geisbert et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1424" host_id="host39">
+			<immune_response refs="reference2288">The DNA/DNA vaccine induced humoral responses comparable to those induced by a single inoculation with rAd5-GP, as well as CD4(+) and CD8(+) cellular immune responses, with skewing toward CD4(+) T-cell activity against MARV GP (Geisbert et al., 2010).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2288">The DNA-GP-only vaccine prevented death in all vaccinated subjects after challenge with a lethal dose of MARV Angola (Geisbert et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3594">
+		<vaccine_name>Marburg virus DNA vaccine MARV GP encoding GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004387</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pWRG7077 [Ref615:Riemenschneider et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1132" gene_id="gene149">
+			<type>DNA vaccine construction</type>
+			<description refs="reference615">Vector pWRG7077 expressed MARV Musoke GP in challenge study with macaques (Riemenschneider et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1419" host_id="host39">
+			<immune_response refs="reference615">All of the MARV GP DNA-vaccinated guinea pigs developed antibodies to MARV (Riemenschneider et al., 2003).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference615">In both studies (two different strains - Musoke and Ravn), two of three GP DNA-vaccinated monkeys were aviremic on the days assayed, and survived challenge, while one monkey in each study developed viremia levels similar to those of control monkeys and died.  These results indicate that DNA vaccination alone is able to offer immunity to nonhuman primates, but suggest that the protective effect is near the threshold of vaccine efficacy (Riemenschneider et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine230">
+		<vaccine_name>Marburg virus glycoprotein expressed by baculovirus recombinants</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004128</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference560">Irradiated MBGV antigen was protective against two MBGV strains (Musoke and Ravn). The recombinant truncated glycoprotein did elicit protection against challenge with the MBGV isolate from which it was taken(Hevey et al., 1997). </virulence>
+		<preparation refs="reference560">MBGV glycoprotein (GP) was expressed in Baculovirus recombinants either as a slightly truncated product secreted into medium or a complete, cell-associated molecule(Hevey et al., 1997). </preparation>
+		<route refs=""></route>
+		<antigen refs="reference560">The full-length and truncated GP were expressed by baculovirus recombinants (Hevey et al., 1997).  Both antigens were abundantly glycosylated with both N- and O-linked glycans.</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering162" gene_id="gene160">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference495">This Musoke NP gene was amplified by PCR, and subcloned to create MARV adenovirus vaccine targeted against the Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering161" gene_id="gene150">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference495">This Musoke GP gene was amplified by PCR, and subcloned to create MARV adenovirus vaccine targeted against the Musoke strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response306" host_id="host7">
+			<immune_response refs="reference560">Irradiated, gradient-purified virus completely protected Strain 13 from both Ravn and Musoke MBGV strains (Hevey et al., 1997). </immune_response>
+			<host_strain refs="">Strain 13 and Hartley</host_strain>
+			<vaccination_protocol refs="reference560">Groups of animals were challenged with Ravn and Musoke strains, and ELISA titers were use to measure response  28 days after challenge (Hevey et al., 1997). </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference560">Guinea pigs (Hartley and Strain 13) were divided into groups and  injected with irradiated GP or recombinant GP. ELISA titers measureing response were taken 2 days before challenge and 28 days after for comparison  (Hevey et al., 1997). </challenge_protocol>
+			<description refs="reference560">Animals that recieved the MBGV antigen (strainRavn) had a lower survival rate than those challenged with the Musoke strain(Hevey et al., 1997). </description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine997">
+		<vaccine_name>Marburg Virus Nucleoprotein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011394</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>An RNA replicon, based upon Venezuelan equine encephalitis (VEE) virus, was used as a vaccine vector [Ref559:Hevey et al., 1998].</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering480" gene_id="gene573">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response751" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Macaca fascicularis</host_strain>
+			<vaccination_protocol refs="reference559">Twelve cynomolgus macaques (Macaca fascicularis), 11 females and 1 male, ranging from 2.8 to 4.5 kg, were inoculated subcutaneously with 10^7 FFU of VRP in a total volume of 0.5 ml at one site. Monkeys were anesthetized with ketamine, bled, and inoculated (as described for the first vaccine dose) 28 days after the primary injection, and again 28 days after the second (Hevey et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference559">MBGV NP afforded incomplete (partial) protection, sufficient to prevent death but not disease in two of three macaques (Hevey et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference559">Animals  were challenged 14 days after 3rd vaccine dose with 10^3.9 PFU MBGV
+subcutaneously (Hevey et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3596">
+		<vaccine_name>Marburg virus recombinant vector vaccine CAdVax-Panfilo</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004388</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>CAdVax [Ref2287:Swenson et al., 2008]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1135" gene_id="gene150">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2287">This DNA vaccine expressed MARV Musoke GP (Swenson et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1136" gene_id="gene160">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2287">This DNA vaccine expressed MARV Musoke NP (Swenson et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1462" gene_id="gene148">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1463" gene_id="gene149">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1464" gene_id="gene1654">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1465" gene_id="gene1655">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1466" gene_id="gene1656">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1422" host_id="host39">
+			<immune_response refs="reference629">All vaccinated animals from groups 1(challenged with 1,000 PFU MARV Musoke) and 2 (challenged with the same dose of ZEBOV) mounted strong antibody titers against all five filoviruses with similar kinetics (Swenson et al., 2005).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference629">Vaccination of NHP with CAdVax-Panfilo was 100% protective against challenge with multiple filovirus species, including ZEBOV, SEBOV, MARV Musoke, and MARV Ci67 (Swenson et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3600">
+		<vaccine_name>Marburg virus recombinant vector vaccine MBGV GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004391</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Venezuelan equine encephalitis (VEE) virus [Ref559:Hevey et al., 1998]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1140" gene_id="gene150">
+			<type>Recombinant vector construction</type>
+			<description refs="reference559">Vector Venezuelan equine encephalitis (VEE) virus expressed the gene for MBGV GP (Hevey et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1425" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference559">Three monkeys vaccinated with replicons which expressed MBGV GP, and three others vaccinated with both replicons that expressed GP or NP, remained aviremic and were completely protected from disease (Hevey et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3922">
+		<vaccine_name>Marburg virus recombinant vector vaccine MBGV GP/MBGV NP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004566</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Venezuelan equine encephalitis (VEE) virus [Ref559:Hevey et al., 1998]</vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1467" gene_id="gene150">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1468" gene_id="gene160">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1564" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference559">Three monkeys vaccinated with replicons which expressed MBGV GP, and three others vaccinated with both replicons that expressed GP or NP, remained aviremic and were completely protected from disease (Hevey et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine216">
+		<vaccine_name>Marburg virus-like particles</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004117</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference494">In the presence of adjuvant, MARV inactivated by irradiation protected guinea pigs against challenge with MARV that was guinea pig-adapted(Warfield et al., 2004). </adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference494">Guinea pigs that were vaccinated with inactivated MARV or mVLPs developed MARV-specific antibody titers(Warfield et al., 2004).</virulence>
+		<preparation refs="reference494">To generate mVLPs, 293T cells were co-transfected with pWRG 7077 vectors encoding for MARV VP40 and GP using Lipofectamine 2000 (Invitrogen, Carlsbad, CA). To purify the VLPs, the cell supernatants were cleared from cellular debris and subsequently pelleted at 9500×g for 4 h. The crude VLP preparations were then separated on a 20â��60% continuous sucrose gradient centrifuged. The VLPs were concentrated by a second centrifugation and resuspended in endotoxin-free phosphate-buffered saline (PBS) (Warfield et al., 2004). </preparation>
+		<route refs=""></route>
+		<antigen refs="reference494">MARV or EBOV VP40 and GP  (Warfield et al., 2004).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering160" gene_id="gene150">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference495">This Musoke GP gene was amplified by PCR, and subcloned to create MARV adenovirus vaccine targeted against the Musoke strain of MARV (Wang et al., 2006). </description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering167" gene_id="gene162">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference559">An RNA replicon based on VEEV was used as the vector, with the VEE structural genes replaced by VP40. VP40 seems to serve as a matrix protein, affecting interactions between the nucleoprotein complex and lipid membrane. It is also the most abundant part of the virion (Hevey et al., 1998).
+
+</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response299" host_id="host7">
+			<immune_response refs="reference494">Both inactivated MARV and mVLP induced maximal humoral responses to MARV after only two vaccinations (Warfield et al., 2004) . </immune_response>
+			<host_strain refs="">Strain 13</host_strain>
+			<vaccination_protocol refs="reference494">Guinea pigs were vaccinated intramuscularly with 50 μg of mVLPs, eVLPs, or iMARV with 200 μl of RIBI monophosphoryl lipid+synthetic trehalose dicorynomycolate+cell wall skeleton emulsion diluted in endotoxin-free PBS (Warfield et al., 2004). </vaccination_protocol>
+			<persistence refs="">None noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference494">Strong filovirus-specific antibody responses correlate with vaccine protective efficacy in guinea pigs(Warfield et al., 2004).</protection_efficacy>
+			<side_effects refs="">Not noted. </side_effects>
+			<challenge_protocol refs="reference494">Thirty days after the third vaccination, the guinea pigs were challenged subcutaneously with 1000 plaque-forming units (pfu) or 2000 LD50 of guinea pig-adapted MARV diluted in PBS [18](Warfield et al., 2004). </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine238">
+		<vaccine_name>Multivalent DNA vaccine for B. anthracis, Ebola virus, Marburg virus, and VEE virus</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004130</vo_id>
+		<type>DNA vaccine</type>
+		<status></status>
+		<vector>pWRG7079 [Ref615:Riemenschneider et al., 2003]</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference615">The necessary genes were inserted into expression plasmids following a cytomegalovirus immediate early promotor. MARV was procured through experiementally infected monkeys, then passed three times (Ravn) or one time(Musoke) in Vero cells. Inbred Strain 13 and outbred Hartley guinea pigs were injected subcutaneously with the vaccine. Responses were measured by IgG antibody ELISA with the use of cobalt-irradiated purified MARV in both strains. A study also included non-human primates, which underwent serum tests for viremia determination and blood chemistry(Riemenschneider et al., 2003). </preparation>
+		<route refs=""></route>
+		<antigen refs="reference615">Multiple antigens from B. anthracis, Ebola virus, Marburg virus, and VEE virus were used. Specifically, this DNA vaccine includes Protective Antigen (PA) from B. anthracis, Glycoprotein (GP) and Nucleoprotein (NP) from Ebloa virus, Glycoprotein (GP) from Marburg virus strain Ravn, and 26S from VEE virus (Riemenschneider et al., 2003).  </antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering168" gene_id="gene164">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference615">A DNA vaccine for the anthrax was made by PCR-amplifying the PA gene (Riemenschneider et al., 2003).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering169" gene_id="gene172">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference615">Ebola NP genes were cloned and the vaccine was produced without additional signal sequence with the use of plasmid pWRG7077 (Riemenschneider et al., 2003). </description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering170" gene_id="gene173">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference615">Ebola NP genes were cloned and the vaccine was produced without additional signal sequence with the use of plasmid pWRG7077 (Riemenschneider et al., 2003). </description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering171" gene_id="gene149">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference495">This Ravn GP gene was amplified by PCR, and subcloned to create MARV adenovirus vaccine targeted against the Ci67strain of MARV (Wang et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering172" gene_id="gene165">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference615">The vaccine for 26S mRNA was produced without additional signal sequence with the use of plasmid pWRG7077 (Riemenschneider et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response298" host_id="host7">
+			<immune_response refs="reference615">All of the MARV GP DNA-vaccinated guinea pigs developed antibodies to MARV(Riemenschneider et al., 2003).</immune_response>
+			<host_strain refs="">Strain 13 and Hartley</host_strain>
+			<vaccination_protocol refs="reference615">Gun-vaccinated guinea pigs  were gene gun-vaccinated three (Musoke) or four (Ravn) times at 4-week intervals with approximately 2.5 μg of the MARV GP DNA (Riemenschneider et al., 2003).</vaccination_protocol>
+			<persistence refs="">Not noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference615">Guinea pigs vaccinated with control DNA were viremic at day 7 post-challenge, as measured by plaque assay, and were infected by day 9. All guinea pigs vaccinated with the GP DNA vaccines were aviremic at day 7 and appreared healthy throughout the observation period(Riemenschneider et al., 2003).</protection_efficacy>
+			<side_effects refs="">Not noted. </side_effects>
+			<challenge_protocol refs="reference615">The challenge was a subcutaneous injection of 1000 plaque forming units (pfu) of homologous virus 4 weeks after the final vaccination for each guinea pig (Riemenschneider et al., 2003). </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine227">
+		<vaccine_name>Recombinant VEE Replicons expressing MBGV GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004125</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference559">Results indicated that VP35 afforded incomplete protection while either GP or NP were protective antigens(Hevey et al., 1998).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference559">MBGV NP protected all vaccinated guinea pigs from both death and viremia, while MBGV VP35 vaccination resulted in a majority of the animals surviving. Four of the five survivors were viremic 7 days after infection(Hevey et al., 1998).
+</virulence>
+		<preparation refs="reference559">Guinea pigs were inoculated with packaged recombinant VEE replicons expressing individual MBGV proteins and later injected with 10^3.3 LD50 guinea pig-adapted MBGV subcutaneously(Hevey et al., 1998).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference559">Marburg virus (MBGV) GP (Hevey et al., 1998). An RNA replicon from Venezuelan equine encephalitis (VEE) virus was used as a vaccine vector.  The VEE structural genes were replaced by genes for MBGV GP, nucleoprotein (NP), VP30, VP35, VP40,  or VP24 (Hevey et al., 1998).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering156" gene_id="gene150">
+			<type>Recombinant vector construction</type>
+			<description refs="reference559">MBGV gene clone pGem-GP was provided by Heinz Feldmann and Anthony Sanchez (Centers for Disease Control and Prevention, Atlanta, GA). The MBGV GP gene from pGem-GP was excised with SalI and subcloned into the SalI site of a shuttle vector. A clone with the MBGV GP gene in the correct orientation was excised with ApaI and NotI, and this fragment was cloned into the ApaI and NotI sites of a VEE replicon plasmid (Hevey et al., 1998).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering175" gene_id="gene174">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering176" gene_id="gene166">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference559">An RNA replicon based on VEEV was used as the vector, with the VEE structural genes replaced by VP30. Function has yet to be determined; VP30 is found on the VP40 virion (Hevey et al., 1998).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering177" gene_id="gene167">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference559">An RNA replicon based on VEEV was used as the vector, with the VEE structural genes replaced by VP35. Function has yet to be determined; VP35 is found on the VP40 virion (Hevey et al., 1998).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering178" gene_id="gene162">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference559">An RNA replicon based on VEEV was used as the vector, with the VEE structural genes replaced by VP40. VP40 seems to serve as a matrix protein, affecting interactions between the nucleoprotein complex and lipid membrane. It is also the most abundant part of the virion (Hevey et al., 1998).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering179" gene_id="gene168">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference559">An RNA replicon based on VEEV was used as the vector, with the VEE structural genes replaced by VP24. Function has yet to be determined; VP24 is found on the VP40 virion (Hevey et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response297" host_id="host5">
+			<immune_response refs="reference559">Animals inoculated with replicons that expressed MBGV proteins demonstrated prechallenge ELISA titers to purified MBGV antigen. Of the GP-vaccinated animals that survived challenge, a few demonstrated a modest boost in ELISA antibody titer (10- to 30-fold) when pre and postchallenge samples were compared. The surviving NP-inoculated macaques had larger boosts in ELISA antibody titers when pre- and
+postchallenge samples were compared. Some animals vaccinated with both GP and NP also demonstrated 100- to 300-fold rise in ELISA titers(Hevey et al., 1998).</immune_response>
+			<host_strain refs="">cynomolgus</host_strain>
+			<vaccination_protocol refs="reference559">Several groups of macaques  were tested:  a group received VRPs that expressed MBGV NP; a group received VRPs that expressed MBGV GP; a group received a mixture of MBGV GP and MBGV NP VRPs; and a group received VRPs that expressed a control antigen (influenza HA)Anti-MBGV ELISA antibody titers were monitored throughout the experiment(Hevey et al., 1998).</vaccination_protocol>
+			<persistence refs="">Not noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference559">All animals that received VEE replicons expressing MBGV GP, either alone or in combination with MBGV NP, survived challenge with 8000 PFU MBGV without any observed signs of illness(Hevey et al., 1998).</protection_efficacy>
+			<side_effects refs="">Not noted. </side_effects>
+			<challenge_protocol refs="reference559">Monkeys recieved injections that expressed VEE replicons with either MBGV GP or MBGV NPor both(Hevey et al., 1998).  </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine228">
+		<vaccine_name>Recombinant VEE Replicons expressing MBGV NP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004126</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference559">Without any observed signs of illness, all animals that received VEE replicons expressing MBGV GP, either alone or in combination with MBGV NP, survived challenge with 8000 PFU MBGV(Hevey et al., 1998). </virulence>
+		<preparation refs="reference559">A gene coding for a protein of interest is cloned in place of the VEE virus structural genes (Hevey et al., 1998). </preparation>
+		<route refs=""></route>
+		<antigen refs="reference559">Marburg virus (MBGV) nucleoprotein (NP) (Hevey et al., 1998). </antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering157" gene_id="gene160">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference628">The ORF for the glycoproteins were generated by PCR and cloned into GP-lacking VSV vectors (Daddario-DiCaprio et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response296" host_id="host5">
+			<immune_response refs="reference559">Animals inoculated with replicons that expressed MBGV proteins demonstrated prechallenge ELISA titers to purified MBGV antigen. Of the GP-vaccinated animals that survived challenge, a few demonstrated a modest boost in ELISA antibody titer (10- to 30-fold) when pre and postchallenge samples were compared. The surviving NP-inoculated macaques had larger boosts in ELISA antibody titers when pre- and
+postchallenge samples were compared. Some animals vaccinated with both GP and NP also demonstrated 100- to 300-fold rise in ELISA titers(Hevey et al., 1998).</immune_response>
+			<host_strain refs="">cynomolgus</host_strain>
+			<vaccination_protocol refs="">Several groups of macaques  were tested:  a group received VRPs that expressed MBGV NP; a group received VRPs that expressed MBGV GP; a group received a mixture of MBGV GP and MBGV NP VRPs; and a group received VRPs that expressed a control antigen (influenza HA)Anti-MBGV ELISA antibody titers were monitored throughout the experiment</vaccination_protocol>
+			<persistence refs="">Not noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference559">All animals that received VEE replicons expressing MBGV GP, either alone or in combination with MBGV NP, survived challenge with 8000 PFU MBGV without any observed signs of illness(Hevey et al., 1998).</protection_efficacy>
+			<side_effects refs="">Not noted. </side_effects>
+			<challenge_protocol refs="reference559">Monkeys recieved injections that expressed VEE replicons with either MBGV GP or MBGV NPor both(Hevey et al., 1998).  </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine245">
+		<vaccine_name>VSV-based vaccine expressing MBGV GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004136</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference628">All animals developed high anti-MARV IgG antibody levels by the challenge time, while low levels of anti-MARV neutralizing antibodies were observed for a large percentage of animals vaccinated with VSVΔG/MARVGP-Musoke at the challenge day.   Protection of the host subjects injected with the VSVΔG/MARVGP-Musoke vaccine appears to be associated with humoral response, as opposed to cellular immune response (Daddario-DiCaprio et al., 2006). 
+</virulence>
+		<preparation refs="reference628">The ORF for the glycoproteins for the MARV-Musoke and the ZEBOV were generated by PCR and cloned into GP-lacking VSV vectors. Infectious clones for the VSV Indiana serotype were used (Daddario-DiCaprio et al., 2006).   
+</preparation>
+		<route refs=""></route>
+		<antigen refs="reference628">Marburg virus (MBGV) glycoprotein (GP) was used. A recombinant vesicular stomatitis virus (VSV) was used as a vector. The vaccine utilizes the VSVΔG/MARVGP-Musoke strain (Daddario-DiCaprio et al., 2006). </antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering184" gene_id="gene150">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference628">The ORF for the glycoproteins were generated by PCR and cloned into GP-lacking VSV vectors (Daddario-DiCaprio et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response314" host_id="host5">
+			<immune_response refs="reference628">With the use of purified virus particles for an antigen source,  immunoglobulin G (IgG) antibodies against MARV were detected through an enzyme-linked immunosorbent assay (ELISA). A transient and low-level recombinant VSV viremia was detected through virus isolation on the third day after vaccination in plasma from four of the VSVΔG/MARVGP-Musoke vaccinated animals. Both the MARV-Angola-challenged control animal and the MARV-Ravn-challenged control animal developed high titers in the blood, detected by plaque assay (Daddario-DiCaprio et al., 2006). 
+</immune_response>
+			<host_strain refs="">cynomolgus macaques</host_strain>
+			<vaccination_protocol refs="reference628">Nine adult macaques were used. Seven were injected intramuscularly with the  VSVΔG/MARVGP-Musoke vaccine, and two recieved VSVΔG/ZEBOVGP as experimental controls (Daddario-DiCaprio et al., 2006). </vaccination_protocol>
+			<persistence refs="">Not noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference628">VSVΔG/MARVGP-Musoke vector does protect nonhuman primates against a lethal challenge with both Ravn and Angola strains of MBGV. This approach seems almost as successful as the use of VEEV MARV GP and/or VEEV MARV NP, which protected NHP against a lethal homologous challenge, but did not protect against a lethal heterologous Ravn challenge (Daddario-DiCaprio et al., 2006). 
+</protection_efficacy>
+			<side_effects refs="reference628">After either vaccination with VSVΔG/MARVGP-Musoke or after the MARV challenge, none of the animals showed any evidence of clinical illness (Daddario-DiCaprio et al., 2006). </side_effects>
+			<challenge_protocol refs="reference628">All animals were challenged with either MARV-Angola, MARV-Musoke, or MARV-Ravn 28 days after immunization (Daddario-DiCaprio et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene165">
+        <gene_name>26S mRNA from VEEV</gene_name>
+        <strain>Venezuelan equine encephalitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2652924</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9626528</ncbi_protein_id>
+        <gene_locus_tag>VEEVgp3</gene_locus_tag>
+        <gene_refseq>NC_001449.1</gene_refseq>
+        <protein_refseq>NP_040824.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11036</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>7562</gene_start>
+        <gene_end>11329</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>structural polyprotein precursor</protein_name>
+        <protein_pi>8.88</protein_pi>
+        <protein_weight>138212.8</protein_weight>
+        <protein_length>1255</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>GeneID|2652924 [Venezuelan equine encephalitis virus ] 7562..11329
+atgttcccgttccaaccaatgtatccgatgcagccaatgccctatcgtaacccgttcgcggccccgcgca
+ggccctggttccccagaaccgacccttttctggcgatgcaggtgcaggaattaacccgctcgatggctaa
+cctgacgttcaagcaacgccgggacgcgccacctgaggggccacctgctaagaaacctaagagggaggcc
+ccgcaaaagcaaaaagggggaggccaagggaagaagaagaagaaccaggggaagaagaaggccaagacgg
+ggccgcctaatccgaaggcacagagtggaaacaagaagaagcccaacaagaaaccaggcaagagacagcg
+catggtcatgaaattggaatctgacaagacattcccaattatgctggaagggaagattaacggctacgct
+tgcgtggtcggagggaagttattcaggccgatgcacgtggaaggcaagatcgacaacgacgttctggccg
+cacttaagacgaagaaagcatccaaatatgatcttgagtatgcagatgtgccacagaacatgcgggccga
+tacattcaagtacacccatgagaagccccaaggctattacagctggcatcatggagcagtccaatatgaa
+aatgggcgtttcacggtgccaaaaggagttggggccaagggagacagcggaagacccattctggataatc
+agggacgggtggtcgctattgtgctgggaggtgtgaatgaaggatctaggacagccctttcagtcgtcat
+gtggaacgagaagggagtaactgtgaagtatactccggagaactgcgagcaatggtcactagtgaccact
+atgtgcctgctcgccaatgtgacgttcccatgtgccgaaccaccaatttgctacgacagaaaaccagcag
+agactttggccatgctcagcgttaacgttgacaacccgggctacgatgagctgctggaagcagctgttaa
+gtgccccggaagaaaaaggagatctaccgaggagctgtttaaggagtataagctaacgcgcccttacatg
+gccagatgcatcagatgtgccgttgggagctgccatagtccaatagcaattgaggcagtgaagagcgacg
+ggcacgacggctatgttagacttcagacttcctcgcagtatggcctggattcctctggcaacttaaaggg
+aaggactatgcggtatgatatgcacgggaccattgaagagataccactacatcaagtgtcactccacaca
+tctcgcccgtgtcacattgtggatgggcatggttattttctgcttgctaggtgcccggcaggggactcca
+tcaccatggaatttaagaaaggttcagtcacacactcctgctcagtgccgtatgaagtgaaatttaatcc
+tgtaggcagagaactctacactcatccaccagaacacggagcagagcaagcgtgccaagtctacgcgcac
+gatgcacagaacagaggagcttatgtcgagatgcacctcccgggctcagaagtggacagcagtttgattt
+ccttgagcggcagttcagtcaccgtgacacctcctgtcgggactagcgccttggtgaaatgcaagtgcgg
+cggcacaaagatctccgaaaccatcaacaaggcaaaacagttcagccagtgcacaaagaaggagcagtgc
+agagcatatcgactgcagaatgacaagtgggtgtataattctgacaaactgcccaaagcagcgggagcca
+ccctaaaaggaaaactacacgtcccgttcttgctggcagacggcaaatgcaccgtgcctctagcaccgga
+acctatgataaccttcggtttccgatcagtgtcactgaaactgcaccctaagaatcccacatatctgacc
+actcgccaacttgctgatgagcctcattacacgcacgagctcatatctgaaccagctgttaggaatttta
+ccgtcactgaaaaggggtgggagtttgtatggggaaaccatccgccgaaaaggttttgggcacaggaaac
+agcacccggaaatccacatgggctgccacatgaggtgataactcattattaccacagataccctatgtcc
+accatcctgggtttgtcaatttgcgccgccattgtaaccgtttccgttgcagcgtccacctggctgtttt
+gcaaatccagagtttcgtgcctaactccttaccggctaacacctaacgccaggatgccgctttgcctggc
+cgtgctttgctgcgcccgcactgcccgggccgagaccacctgggagtccttggatcacctatggaacaat
+aaccaacagatgttctggattcaattgctgatccctctggccgccttgattgtagtgactcgcctgctca
+agtgcgtgtgctgtgtagtgccttttttagtcgtggccggcgccgcaggcgccggcgcctacgagcacgc
+gaccacgatgccgagccaagcgggaatctcgtataacaccatagtcaacagagcaggctacgcgccactc
+cctatcagcataacaccaacaaagatcaagctgatacccacagtgaacttggagtacgtcacctgccact
+acaaaacaggaatggattcaccagccatcaaatgctgcggatctcaggaatgtactccaactaacaggcc
+tgatgaacagtgcaaagtcttcacaggggtttacccgttcatgtggggaggtgcatattgcttttgcgac
+actgagaatactcaggtcagcaaggcctacgtaatgaaatctgacgactgccttgcggatcatgctgaag
+catacaaagcgcacacagcctcagtgcaggcgttcctcaacatcacagtgggggaacactctattgtgac
+caccgtgtatgtgaatggagaaactcctgtgaacttcaatggggtcaaactaactgcaggtccactttcc
+acagcttggacaccctttgacagaaaaatcgtgcagtatgccggggagatctataattacgattttcctg
+agtatggggcaggacaaccaggagcatttggagacatacaatccagaacagtctcaagctcagatctgta
+tgccaataccaacctagtgctgcagagacccaaagcaggagcgatccatgtgccatacactcaggcacca
+tcgggttttgagcaatggaagaaagataaagctccgtcattgaaattcaccgcccctttcggatgcgaaa
+tatatacaaaccccattcgcgccgaaaattgtgctgtagggtcaattccattagcctttgacattcccga
+cgccttgttcaccagggtgtcagaaacaccgacactttcagcggccgaatgcactcttaacgagtgcgtg
+tattcatccgactttggcgggatcgccacggtcaagtattcggccagcaagtcaggcaagtgcgcagtcc
+atgtgccatcagggactgctaccctaaaagaagcagcagtcgagctaaccgagcaagggtcggcgaccat
+tcatttctcgaccgcaaatatccacccggagttcaggctccaaatatgcacatcatatgtcacgtgcaaa
+ggtgattgtcaccccccgaaagaccacattgtgacacacccccagtatcacgcccaaacatttacagccg
+cggtgtcaaaaaccgcgtggacgtggttaacatccctgctgggaggatcggccgtaattattataattgg
+cttagtgctggctactattgtggccatgtacgtgctgaccaaccagaaacataattga</dna_sequence>
+        <protein_sequence>>gi|9626528|ref|NP_040824.1| structural polyprotein precursor [Venezuelan equine encephalitis virus ]
+MFPFQPMYPMQPMPYRNPFAAPRRPWFPRTDPFLAMQVQELTRSMANLTFKQRRDAPPEGPPAKKPKREA
+PQKQKGGGQGKKKKNQGKKKAKTGPPNPKAQSGNKKKPNKKPGKRQRMVMKLESDKTFPIMLEGKINGYA
+CVVGGKLFRPMHVEGKIDNDVLAALKTKKASKYDLEYADVPQNMRADTFKYTHEKPQGYYSWHHGAVQYE
+NGRFTVPKGVGAKGDSGRPILDNQGRVVAIVLGGVNEGSRTALSVVMWNEKGVTVKYTPENCEQWSLVTT
+MCLLANVTFPCAEPPICYDRKPAETLAMLSVNVDNPGYDELLEAAVKCPGRKRRSTEELFKEYKLTRPYM
+ARCIRCAVGSCHSPIAIEAVKSDGHDGYVRLQTSSQYGLDSSGNLKGRTMRYDMHGTIEEIPLHQVSLHT
+SRPCHIVDGHGYFLLARCPAGDSITMEFKKGSVTHSCSVPYEVKFNPVGRELYTHPPEHGAEQACQVYAH
+DAQNRGAYVEMHLPGSEVDSSLISLSGSSVTVTPPVGTSALVKCKCGGTKISETINKAKQFSQCTKKEQC
+RAYRLQNDKWVYNSDKLPKAAGATLKGKLHVPFLLADGKCTVPLAPEPMITFGFRSVSLKLHPKNPTYLT
+TRQLADEPHYTHELISEPAVRNFTVTEKGWEFVWGNHPPKRFWAQETAPGNPHGLPHEVITHYYHRYPMS
+TILGLSICAAIVTVSVAASTWLFCKSRVSCLTPYRLTPNARMPLCLAVLCCARTARAETTWESLDHLWNN
+NQQMFWIQLLIPLAALIVVTRLLKCVCCVVPFLVVAGAAGAGAYEHATTMPSQAGISYNTIVNRAGYAPL
+PISITPTKIKLIPTVNLEYVTCHYKTGMDSPAIKCCGSQECTPTNRPDEQCKVFTGVYPFMWGGAYCFCD
+TENTQVSKAYVMKSDDCLADHAEAYKAHTASVQAFLNITVGEHSIVTTVYVNGETPVNFNGVKLTAGPLS
+TAWTPFDRKIVQYAGEIYNYDFPEYGAGQPGAFGDIQSRTVSSSDLYANTNLVLQRPKAGAIHVPYTQAP
+SGFEQWKKDKAPSLKFTAPFGCEIYTNPIRAENCAVGSIPLAFDIPDALFTRVSETPTLSAAECTLNECV
+YSSDFGGIATVKYSASKSGKCAVHVPSGTATLKEAAVELTEQGSATIHFSTANIHPEFRLQICTSYVTCK
+GDCHPPKDHIVTHPQYHAQTFTAAVSKTAWTWLTSLLGGSAVIIIIGLVLATIVAMYVLTNQKHN</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene173">
+        <gene_name>GP</gene_name>
+        <strain>Zaire ebolavirus (ZEBOV)</strain>
+        <vo_id>VO_0010932</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>21702651</ncbi_protein_id>
+        <gene_locus_tag>AAM76034</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279888
+CDD:333284
+CDD:197367</xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>surface glycoprotein GP precursor</protein_name>
+        <protein_pi>6.6</protein_pi>
+        <protein_weight>71524.34</protein_weight>
+        <protein_length>752</protein_length>
+        <protein_note>subtype: Zaire; biotype: mouse adapted variant</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAM76034.1 surface glycoprotein GP precursor [Zaire ebolavirus]
+MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRPVGLNL
+EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
+VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
+SGYYSTTIRYQATGFGTNETEYLFEVDNLTYVQLEPRFTPQFLLQLNETIYTSGKRSNTTGKLIWKVNPE
+IDTTIGEWAFWETKKNLTRKIRSEELSFTVVSNGAKNISGQSPARTSSDPGTNTTTEDHKIMASENSSAM
+VQVHSQGREAAVSHLTTLATISTSPQSLTTKPGPDNSTHNTPVYKLDISEATQVEQHHRRTDNDSTASDT
+PSATTAAGPPKAENTNTSKSTDFLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
+GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
+LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
+VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene150">
+        <gene_name>GP</gene_name>
+        <strain>Lake Victoria marburgvirus - Musoke</strain>
+        <vo_id>VO_0010961</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>77543430</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279888
+CDD:197367</xrefs>
+        <taxonomy_id>33727</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein</protein_name>
+        <protein_pi>6.35</protein_pi>
+        <protein_weight>72821.63</protein_weight>
+        <protein_length>755</protein_length>
+        <protein_note>Filovirus glycoprotein; pfam01611</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABA87127.1 glycoprotein [Marburg virus - Musoke, Kenya, 1980]
+MKTTCFLISLILIQGTKNLPILEIASNNQPQNVDSVCSGTLQKTEDVHLMGFTLSGQKVADSPLEASKRW
+AFRTGVPPKNVEYTEGEEAKTCYNISVTDPSGKSLLLDPPTNIRDYPKCKTIHHIQGQNPHAQGIALHLW
+GAFFLYDRIASTTMYRGKVFTEGNIAAMIVNKTVHKMIFSRQGQGYRHMNLTSTNKYWTSSNGTQTNDTG
+CFGALQEYNSTKNQTCAPSKIPPPLPTARPEIKLTSTPTDATKLNTTDPSSDDEDLATSGSGSGEREPHT
+TSDAVTKQGLSSTMPPTPSPQPSTPQQGGNNTNHSQDAVTELDKNNTTAQPSMPPHNTTTISTNNTSKHN
+FSTLSAPLQNTTNDNTQSTITENEQTSAPSITTLPPTGNPTTAKSTSSKKGPATTAPNTTNEHFTSPPPT
+PSSTAQHLVYFRRKRSILWREGDMFPFLDGLINAPIDFDPVPNTKTIFDESSSSGASAEEDQHASPNISL
+TLSYFPNINENTAYSGENENDCDAELRIWSVQEDDLAAGLSWIPFFGPGIEGLYTAVLIKNQNNLVCRLR
+RLANQTAKSLELLLRVTTEERTFSLINRHAIDFLLTRWGGTCKVLGPDCCIGIEDLSKNISEQIDQIKKD
+EQKEGTGWGLGGKWWTSDWGVLTNLGILLLLSIAVLIALSCICRIFTKYIG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study developed replication-competent vaccines against EBOV and MARV based on attenuated recombinant vesicular stomatitis virus vectors expressing either the EBOV glycoprotein or MARV glycoprotein from Lake Victoria marburgvirus - Musoke. A single intramuscular injection of the EBOV or MARV vaccine elicited completely protective immune responses in nonhuman primates against lethal EBOV or MARV challenges [Ref1173:Jones et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1655">
+        <gene_name>GP</gene_name>
+        <strain>Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/1995/13625 Kikwit</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1695253</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279888
+CDD:333284
+CDD:197367</xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>virion spike glycoprotein</protein_name>
+        <protein_pi>6.69</protein_pi>
+        <protein_weight>71315.12</protein_weight>
+        <protein_length>744</protein_length>
+        <protein_note>Filovirus glycoprotein; pfam01611</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB37095.1 virion spike glycoprotein [Zaire ebolavirus]
+MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
+EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
+VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
+SGYYSTTIRYQATGFGTNETEYLFEVDNLTYVQLESRFTPQFLLQLNETIYTSGKRSNTTGKLIWKVNPE
+IDTTIGEWAFWETKKNLTRKIRSEELSFTAVSNRAKNISGQSPARTSSDPGTNTTTEDHKIMASENSSAM
+VQVHSQGREAAVSHLTTLATISTSPQPPTTKPGPDNSTHNTPVYKLDISEATQVEQHHRRTDNDSTASDT
+PPATTAAGPLKAENTNTSKGTDLLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
+GLITGGRRARREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYTEGLMHNQDGLICGLRQ
+LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
+VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene148">
+        <gene_name>GP from Marburg virus Ci67</gene_name>
+        <strain>Lake Victoria marburgvirus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>305862101</ncbi_protein_id>
+        <gene_locus_tag>AF005735</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:110602
+CDD:197426
+CDD:197370</xrefs>
+        <taxonomy_id>11269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>GP</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>681</protein_length>
+        <protein_note>lethal nonhuman primate, nonlethal guinea pig and mouse MARV variant</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|2459879|gb|AF005735.1|AF005735 Marburg virus strain M/Germany/Marburg/1967/Ratayczak glycoprotein precursor (GP) gene, complete cds
+ATGAAGACCACATGTCTCTTTATCAGTCTTATCTTAATCCAAGGGATAAAAACTCTCCCTATTTTAGAGA
+TAGCTAGTAACAATCAACCCCAAAATGTGGATTCGGTATGCTCCGGAACTCTCCAGAAGACAGAAGATGT
+CCATCTGATGGGATTCACACTGAGTGGGCAAAAAGTTGCTGATTCCCCTTTGGAGGCATCCAAGCGATGG
+GCTTTCAGGACAGGTGTACCTCCCAAGAATGTTGAGTATACAGAAGGGGAGGAAGCCAAAACATGCTACA
+ATATAAGTGTAACGGATCCCTCTGGAAAATCCTTGCTGTTGGATCCTCCTACCAACATCCGTGACTATCC
+TAAATGCAAAACTATCCATCATATTCAAGGTCAAAACCCTCATGCACAAGGGATCGCCCTCCATTTGTGG
+GGAGCATTTTTCCTGTATGATCGCATTGCCTCCACAACAATGTACCGAGGCAGAGTCTTCACTGAAGGGA
+ACATAGCAGCTATGATTGTCAATAAGACAGTGCACAAAATGATTTTCTCGAGGCAAGGACAGGGGTACCG
+TCACATGAATCTGACTTCTACTAATAAATATTGGACAAGTAACAATGGAACACAAACGAATGACACTGGA
+TGCTTCGGTGCTCTTCAAGAATACAACTCCACGAAGAATCAAACATGTGCTCCGTCCAAAATACCCTCAC
+CACTGCCCACAGCCCGTCCAGAGATCAAACCCACAAGCACCCCAACTGATGCCACCACACTCAACACCAC
+AGACCCAAACAATGATGATGAGGACCTCATAACATCCGGTTCAGGGTCCGGAGAACAGGAACCCTATACA
+ACTTCAGATGCGGTCACTAAGCAAGGGCTTTCATCAACAATGCCACCCACTCCCTCACCACAACCAAGCA
+CGCCACAGCAAGAAGGAAACAACACAGACCATTCCCAAGGTACTGTGACTGAACCCAACAAAACCAACAC
+AACTGCACAACCGTCCATGCCCCCCCACAACACCACTGCAATCTCTACTAACAACACCTCCAAGAACAAC
+TTCAGCACCCTCTCTGTATCACTACAAAACACCACCAATTACGACACACAGAGCACAGCCACTGAAAATG
+AACAAACCAGTGCCCCCTCGAAAACAACCCTGCCTCCAACAGGAAATCTTACCACAGCAAAGAGCACAAA
+CAACACGAAAGGCCCCACCACAACGGCACCAAATATGACAAATGGGCATTTAACCAGTCCCTCCCCCACC
+CCCAACCCGACCACACAACATCTTGTATATTTCAGAAAGAAACGAAGTATCCTCTGGAGGGAAGGCGACA
+TGTTTCCTTTTCTGGACGGGTTAATAAATGCTCCAATTGATTTTGATCCAGTTCCAAATACAAAGACGAT
+CTTTGATGAATCTTCTAGTTCTGGTGCTTCGGCTGAGGAAGATCAACATGCCTCCCCCAATATCAGTTTA
+ACTTTATCCTATTTTCCTAATATAAATGAAAACACTGCCTACTCTGGAGAAAATGAGAACGATTGTGATG
+CAGAGTTAAGAATTTGGAGCGTTCAGGAGGATGACCTGGCAGCAGGGCTCAGTTGGATACCGTTTTTTGG
+CCCTGGAATCGAAGGACTTTATACTGCTGGTTTAATTAAAAACCAAAACAATTTGGTCTGCAGGTTGAGG
+CGTCTAGCCAATCAAACTGCCAAATCCTTGGAACTCTTATTAAGAGTCACAACCGAGGAAAGGACATTTT
+CCTTAATTAATAGACATGCCATTGACTTTCTACTCACAAGGTGGGGAGGAACATGCAAAGTGCTTGGACC
+TGATTGTTGCATTGGAATAGAAGACTTGTCCAGGAATATTTCGGAACAAATTGACCAAATCAAAAAAGAT
+GAACAAAAAGAGGGGACTGGTTGGGGTCTAGGTGGTAAATGGTGGACATCCGACTGGGGTGTTCTTACTA
+ACTTGGGCATTTTGCTACTATTATCCATAGCTGTCTTGATTGCTCTATCCTGTATTTGTCGTATCTTTAC
+CAAATATATCGGGTAA</dna_sequence>
+        <protein_sequence>>gi|305862101|gb|ADM72998.1| GP [Marburg marburgvirus]
+MKTTCLFISLILIQGIKTLPILEIASNNQPQNVDSVCSGTLQKTEDVHLMGFTLSGQKVADSPLEASKRW
+AFRTGVPPKNVEYTEGEEAKTCYNISVTDPSGKSLLLDPPTNIRDYPKCKTIHHIQGQNPHAQGIALHLW
+GAFFLYDRIASTTMYRGRVFTEGNIAAMIVNKTVHKMIFSRQGQGYRHMNLTSTNKYWTSNNGTQTNDTG
+CFGALQEYNSTKNQTCAPSKIPSPLPTARPEIKPTSTPTDATTLNTTDPNNDDEDLITSGSGSGEQEPYT
+TSDAVTKQGLSSTMPPTPSPQPSTPQQEGNNTDHSQGTVTEPNKTNTTAQPSMPPHNTTAISTNNTSKNN
+FSTLSVSLQNTTNYDTQSTATENEQTSAPSKTTLPPTGNLTTAKSTNNTKGPTTTAPNMTNGHLTSPSPT
+PNPTTQHLVYFRKKRSILWREGDMFPFLDGLINAPIDFDPVPNTKTIFDESSSSGASAEEDQHASPNISL
+TLSYFPNINENTAYSGENENDCDAELRIWSVQEDDLAAGLSWIPFFGPGIEGLYTAGLIKNQNNLVCRLR
+RLANQTAKSLELLLRVTTEERTFSLINRHAIDFLLTRWGGTCKVLGPDCCIGIEDLSRNISEQIDQIKKD
+EQKEGTGWGLGGKWWTSDWGVLTNLGILLLLSIAVLIALSCICRIFTKYIG</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene149">
+        <gene_name>GP from Marburg virus Ravn</gene_name>
+        <strain>M/Kenya/Kitum Cave/1987/Ravn</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>2459878</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:110602
+CDD:197426
+CDD:197370</xrefs>
+        <taxonomy_id>11269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein precursor</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>681</protein_length>
+        <protein_note>Filovirus glycoprotein; pfam01611</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|2459877|gb|AF005734.1|AF005734 Marburg virus strain M/Kenya/Kitum Cave/1987/Ravn glycoprotein precursor (GP) gene, complete cds
+ATGAAGACCATATATTTTCTGATTAGTCTCATTTTAATCCAAAGTATAAAAACTCTCCCTGTTTTAGAAA
+TTGCTAGTAACAGCCAACCTCAAGATGTAGATTCAGTGTGCTCCGGAACCCTCCAAAAGACAGAAGATGT
+TCATCTGATGGGATTTACACTGAGTGGGCAAAAAGTTGCTGATTCCCCTTTGGAAGCATCTAAACGATGG
+GCTTTCAGGACAGGTGTTCCTCCCAAGAACGTTGAGTATACGGAAGGAGAAGAAGCCAAAACATGTTACA
+ATATAAGTGTAACAGACCCTTCTGGAAAATCCTTGCTGCTGGATCCTCCCAGTAATATCCGCGATTACCC
+TAAATGTAAAACTGTTCATCATATTCAAGGTCAAAACCCTCATGCACAGGGGATTGCCCTCCATTTGTGG
+GGGGCATTTTTCTTGTATGATCGCGTTGCCTCTACAACAATGTACCGAGGCAAGGTCTTCACTGAAGGAA
+ATATAGCAGCTATGATTGTTAATAAGACAGTTCACAGAATGATTTTTTCTAGGCAAGGACAAGGTTATCG
+TCACATGAACTTGACCTCCACCAATAAATATTGGACAAGCAGCAATGAAACGCAGAGAAATGATACGGGA
+TGTTTTGGCATCCTCCAAGAATACAACTCCACAAACAATCAAACATGCCCTCCATCTCTTAAACCTCCAT
+CCCTGCCCACAGTAACTCCGAGCATTCACTCTACAAATACTCAAATTAATACTGCTAAATCTGGAACTAT
+GAACCCAAGTAGCGACGATGAGGACCTTATGATTTCCGGCTCAGGATCTGGAGAACAGGGGCCCCACACA
+ACTCTTAATGTAGTCACTGAACAGAAACAATCGTCAACAATATTGTCCACTCCTTCACTACATCCAAGCA
+CCTCACAACATGAGCAAAACAGTACGAATCCTTCCCGACATGCTGTAACTGAGCACAATGGAACCGACCC
+AACAACACAACCAGCAACGCTCCTCAACAATACTAATACAACTCCCACCTATAACACTCTCAAGTACAAC
+CTCAGTACTCCTTCCCCTCCAACCCGCAACATCACCAATAATGATACACAACGTGAACTAGCAGAAAGCG
+AACAAACCAATGCTCAGTTGAACACAACTCTAGATCCAACAGAAAATCCCACCACAGGACAAGACACCAA
+CAGCACAACCAACATCATCATGACGACATCAGATATAACAAGCAAACACCCCACAAATTCTTCTCCGGAT
+TCTAGTCCGACAACCCGCCCTCCTATATACTTTAGAAAGAAACGAAGCATTTTCTGGAAAGAAGGTGATA
+TATTCCCGTTTTTAGATGGGTTAATAAATACTGAAATTGATTTTGATCCAATCCCAAACACAGAAACAAT
+CTTTGATGAATCTCCCAGCTTTAATACTTCAACTAATGAGGAACAACACACTCCCCCGAATATCAGTTTA
+ACTTTCTCTTATTTTCCTGATAAAAATGGAGATACTGCCTACTCTGGGGAAAACGAGAATGATTGTGATG
+CAGAGTTGAGGATTTGGAGTGTGCAGGAGGACGATTTGGCGGCAGGGCTTAGCTGGATACCATTTTTTGG
+CCCTGGAATCGAAGGACTCTATACTGCCGGTTTAATCAAAAATCAGAACAATTTAGTTTGTAGGTTGAGG
+CGCTTAGCTAATCAAACTGCTAAATCCTTGGAGCTCTTGTTAAGGGTCACAACCGAGGAAAGGACATTTT
+CCTTAATCAATAGGCATGCAATTGACTTTTTGCTTACGAGGTGGGGCGGAACATGCAAGGTGCTAGGACC
+TGATTGTTGCATAGGAATAGAAGATCTATCTAAAAATATCTCAGAACAAATCGACAAAATCAGAAAGGAT
+GAACAAAAGGAGGAAACTGGCTGGGGTCTAGGTGGCAAATGGTGGACATCTGACTGGGGTGTTCTCACCA
+ATTTGGGCATCCTGCTACTATTATCTATAGCTGTTCTGATTGCTCTGTCCTGTATCTGTCGTATCTTCAC
+TAAATACATTGGATGA</dna_sequence>
+        <protein_sequence>>gi|2459878|gb|AAC40459.1| glycoprotein precursor [Marburg marburgvirus]
+MKTIYFLISLILIQSIKTLPVLEIASNSQPQDVDSVCSGTLQKTEDVHLMGFTLSGQKVADSPLEASKRW
+AFRTGVPPKNVEYTEGEEAKTCYNISVTDPSGKSLLLDPPSNIRDYPKCKTVHHIQGQNPHAQGIALHLW
+GAFFLYDRVASTTMYRGKVFTEGNIAAMIVNKTVHRMIFSRQGQGYRHMNLTSTNKYWTSSNETQRNDTG
+CFGILQEYNSTNNQTCPPSLKPPSLPTVTPSIHSTNTQINTAKSGTMNPSSDDEDLMISGSGSGEQGPHT
+TLNVVTEQKQSSTILSTPSLHPSTSQHEQNSTNPSRHAVTEHNGTDPTTQPATLLNNTNTTPTYNTLKYN
+LSTPSPPTRNITNNDTQRELAESEQTNAQLNTTLDPTENPTTGQDTNSTTNIIMTTSDITSKHPTNSSPD
+SSPTTRPPIYFRKKRSIFWKEGDIFPFLDGLINTEIDFDPIPNTETIFDESPSFNTSTNEEQHTPPNISL
+TFSYFPDKNGDTAYSGENENDCDAELRIWSVQEDDLAAGLSWIPFFGPGIEGLYTAGLIKNQNNLVCRLR
+RLANQTAKSLELLLRVTTEERTFSLINRHAIDFLLTRWGGTCKVLGPDCCIGIEDLSKNISEQIDKIRKD
+EQKEETGWGLGGKWWTSDWGVLTNLGILLLLSIAVLIALSCICRIFTKYIG</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene174">
+        <gene_name>NP</gene_name>
+        <strain>Ravn</strain>
+        <vo_id>VO_0010933</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>91177744</ncbi_protein_id>
+        <gene_locus_tag>ABE27068</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:283221</xrefs>
+        <taxonomy_id>378809</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>nucleoprotein</protein_name>
+        <protein_pi>4.72</protein_pi>
+        <protein_weight>73913.71</protein_weight>
+        <protein_length>765</protein_length>
+        <protein_note>Ebola nucleoprotein; pfam05505</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABE27068.1 nucleoprotein [Ravn virus - Ravn, Kenya, 1987]
+MDLHSLLELGTKPTAPHVRNKKVILFDTNHQVSICNQIIDAINSGIDLGDLLEGGLLTLCVEHYYNSDKD
+KFNTSPIAKYLRDAGYEFDVIKNPDATRFLEVIPNEPHYSPLILALKTLESTESQRGRIGLFLSFCSLFL
+PKLVVGDRASIEKALRQVTVHQEQGIVTYPNHWLTTGHMKVIFGILRSSFILKFVLIHQGVNLVTGHDAY
+DSIISNSVGQTRFSGLLIVKTVLEFILQKTDSGVALHPLVRTSKVKNEVASFKQALSNLARHGEYAPFAR
+VLNLSGINNLEHGLYPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAAHDAEVKLQRRHEHQEIQAIAE
+DDEERKILEQFHLQKTEITHSQTLAVLSQKREKLARLAAEIENNIAEDQGFKQSQNQVSQSFLNDPTPVE
+VTVQARSINRPTALPPPVDNKIEHETEEDSSSSSSFVDLNDPFALLNEDEDTLENSVMAPSTTLREPKEV
+SEPLRQTQDLDISQKKQGNESTDPARKQFLRYQELPPVQEDDESEYTTDSQESDDQPGSDNEQGVDLPPP
+PLYAQEKRQDPIQHPAVSSQDPFGSIGDVDGDILEPIRSPSSPSAPQEDTRMGEAYELSPDFTSYEDNQQ
+NWPQRVVTKKGRTFLYPNDLLQTSPPESLITALVEEYQNPVSAKELQADWPDMSFDERRHVAMNL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1654">
+        <gene_name>NP</gene_name>
+        <strain>Zaire ebolavirus isolate EBOV/H.sapiens-tc/COD/1995/13709 Kikwit</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>436409420</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:283221</xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>NP</protein_name>
+        <protein_pi>4.77</protein_pi>
+        <protein_weight>79487.46</protein_weight>
+        <protein_length>785</protein_length>
+        <protein_note>Ebola nucleoprotein; pfam05505</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AGB56818.1 NP [Zaire ebolavirus]
+MDSRPQKVWMTPSLTESDMDYHKILTAGLSVQQGIVRQRVIPVYQVNNLEEICQLIIQAFEAGVDFQESA
+DSFLLMLCLHHAYQGDYKLFLESGAVKYLEGHGFRFEVKKRDGVKRLEELLPAVSSGKNIKRTLAAMPEE
+ETTEANAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPTAWQSVGHMMVIFRLMRTNFLI
+KFLLIHQGMHMVAGHDANDAVISNSVAQARFSGLLIVKTVLDHILQKTERGVRLHPLARTAKVKNEVNSF
+KAALSSLAKHGEYAPFARLLNLSGVNNLEHGLFPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAATEA
+EKQLQQYAESRELDHLGLDDQEKKILMNFHQKKNEISFQQTNAMVTLRKERLAKLTEAITAASLPKTSGH
+YDDDDDIPFPGPINDDDNPGHQDDDPTDSQDTTIPDVVVDPDDGSYGEYQSYSENGMNAPDDLVLFDLDE
+DDEDTKPVPNRSTKGGQQKNSQKGQHTEGRQTQSRPTQNVPGPHRTIHHASAPLTDNDRRNEPSGSTSPR
+MLTPINEEADPLDDADDETSSLPPLESDDEEQDRDGTSNRTPTVAPPAPVYRDHSEKRELPQDEQQDQDH
+TQEARNQDSDNTQPEHSFEEMYRHILRSQGPFDAVLYYHMMKDEPVVFSTSDGKEYTYPDSLEEEYPPWL
+TEKEAMNEENRFVTLDGQQFYWPVMNHKNKFMAILQHHQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene573">
+        <gene_name>NP from Lake Victoria marburgvirus</gene_name>
+        <strain>Lake Victoria marburgvirus</strain>
+        <vo_id>VO_0011163</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>332181</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:283221
+CDD:274446</xrefs>
+        <taxonomy_id>11269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>nucleoprotein</protein_name>
+        <protein_pi>4.71</protein_pi>
+        <protein_weight>73740.44</protein_weight>
+        <protein_length>755</protein_length>
+        <protein_note>Ebola nucleoprotein; pfam05505</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA46563.1 nucleoprotein [Marburg marburgvirus]
+MDLHSLLELGTKPTAPHVRNKKVILFDTNHQVSICNQIIDAINSGIDLGDLLEGGLLTLCVEHYYNSDKD
+KFNTSPVAKYLRDAGYEFDVIKNADATRFLDVSPNEPHYSPLILALKTLESTESQRGRIGLFLSFCSLFL
+PKLVVGDRASIEKALRQVTVHQEQGIVTYPNHWLTTGHMKVIFGILRSSFILKFVLIHQGVNLVTGHDAY
+DSIISNSVGQTRFSGLLIVKTVLEFILQKTDSGVTLHPLVRTSKVKNEVASFKQALSNLARHGEYAPFAR
+VLNLSGINNLEHGLYPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAAHDAEVKLQRRHEHQEIQAIAE
+DDEERKILEQFHLQKTEITHSQTLAVLSQKREKLARLAAEIENNIVEDQGFKQSQNRVSQSFLNDPTPVE
+VTVQARPMNRPTALPPPVDDKIEHESTEDSSSSSSFVDLNDPFALLNEDEDTLDDSVMIPGTTSREFQGI
+PEPPRQSQDLNNSQGKQEDESTNRIKKQFLRYQELPPVQEDDESEYTTDSQESIDQPGSDNEQGVDLPPP
+PLYAQEKRQDPIQHPAANPQDPFGSIGDVNGDILEPIRSPSSPSAPQEDTRMREAYELSPDFTNDEDNQQ
+NWPQRVVTKKGRTFLYPNDLLQTNPPESLITALVEEYQNPVSAKELQADWPDMSFDERRHVAMNL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Nonhuman primates (cynomolgus macaques) were inoculated with VEE replicons expressing MBGV GP and/or NP and challenged with MGBV.  MBGV NP afforded incomplete (partial) protection, sufficient to prevent death but not disease in two of three macaques [Ref559:Hevey et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene160">
+        <gene_name>NP from Marburg virus Musoke</gene_name>
+        <strain>Lake Victoria marburgvirus - Musoke</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>60624</ncbi_protein_id>
+        <gene_locus_tag>DQ217792</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:147601
+CDD:163153
+GOA:P27588
+InterPro:IPR008609
+UniProtKB/Swiss-Prot:P27588</xrefs>
+        <taxonomy_id>33727</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>nucleoprotein</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>692</protein_length>
+        <protein_note>Ebola nucleoprotein; pfam05505</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|77543426:49-2844 Lake Victoria marburgvirus - Musoke from Kenya, complete genome
+GAAGAATATTAACATTGACATTGAGACTTGTCAGTCTGTTAATATTCTTGAAGAGATGGATTTACACAGT
+TTGTTGGAGTTGGGTACAAAACCCACTGCCCCTCATGTTCGTAATAAGAAAGTGATATTATTTGACACAA
+ATCATCAGGTTAGTATCTGTAATCAGATAATAGATGCAATAAACTCAGGGATTGATCTTGGAGATCTCCT
+AGAAGGGGGTTTGCTGACGTTGTGTGTTGAGCATTACTATAATTCTGATAAGGATAAATTCAACACAAGT
+CCTATCGCGAAGTACTTACGTGATGCGGGCTATGAATTTGATGTCATCAAGAATGCAGATGCAACCCGCT
+TTCTGGATGTGATTCCTAATGAACCTCATTACAGCCCTTTAATTCTAGCCCTTAAGACATTGGAAAGTAC
+TGAATCTCAGAGGGGGAGAATTGGGCTCTTTTTATCATTTTGCAGTCTTTTCCTCCCAAAACTTGTCGTC
+GGAGACCGAGCTAGTATCGAAAAGGCTTTAAGACAAGTAACAGTGCATCAAGAACAGGGGATCGTCACAT
+ACCCTAATCATTGGCTTACCACAGGCCACATGAAAGTAATTTTCGGGATTTTGAGGTCCAGCTTCATTTT
+AAAGTTTGTGTTGATTCATCAAGGAGTAAATTTGGTGACAGGTCATGATGCCTATGACAGTATCATTAGT
+AATTCAGTAGGTCAAACTAGATTCTCAGGACTTCTTATCGTGAAAACAGTTCTCGAGTTCATCTTGCAAA
+AAACTGATTCAGGGGTGACACTACATCCTTTGGTGCGGACCTCCAAAGTAAAAAATGAAGTTGCTAGTTT
+CAAGCAGGCGTTGAGCAACCTAGCCCGACATGGGGAATACGCACCATTTGCACGGGTTCTGAATTTATCA
+GGGATTAACAACCTCGAACATGGACTCTATCCTCAGCTTTCAGCAATTGCGCTGGGTGTGGCAACAGCAC
+ACGGCAGTACATTGGCTGGTGTCAATGTTGGCGAACAATATCAACAACTACGAGAGGCGGCACATGATGC
+GGAAGTAAAACTACAAAGGCGACATGAACATCAGGAAATTCAAGCTATTGCCGAGGATGACGAGGAAAGG
+AAGATATTAGAACAATTCCACCTTCAGAAAACTGAAATCACACACAGTCAGACACTAGCCGTCCTCAGCC
+AGAAACGAGAAAAATTAGCTCGTCTCGCTGCAGAAATTGAAAACAATATTGTGGAAGATCAGGGATTTAA
+GCAATCACAGAATCGGGTGTCACAGTCGTTTTTGAATGACCCTACACCTGTGGAAGTAACGGTTCAAGCC
+AGGCCCATGAATCGACCAACTGCTCTGCCTCCCCCAGTTGACGACAAGATTGAGCATGAATCTACAGAAG
+ATAGCTCTTCTTCAAGTAGCTTTGTTGACTTGAATGATCCATTTGCACTGCTGAATGAGGACGAGGATAC
+TCTTGATGACAGTGTCATGATCCCGGGCACAACATCGAGAGAATTTCAAGGGATTCCTGAACCGCCAAGA
+CAATCCCAAGACCTCAATAACAGCCAAGGAAAGCAGGAAGATGAATCCACAAATCCGATTAAGAAACAGT
+TTCTGAGATATCAAGAATTGCCTCCTGTTCAAGAGGATGATGAATCGGAATACACAACTGACTCTCAAGA
+AAGCATCGACCAACCAGGATCCGACAATGAACAAGGAGTTGATCTTCCACCTCCTCCGTTGTACGCTCAG
+GAAAAAAGACAGGACCCAATACAGCACCCAGCAGCAAACCCTCAGGATCCCTTCGGCAGTATTGGTGATG
+TAAATGGTGATATCTTAGAACCTATAAGATCACCTTCTTCACCATCTGCTCCTCAGGAAGACACAAGGAT
+GAGGGAAGCCTATGAATTGTCGCCTGATTTCACAAATGATGAGGATAATCAGCAGAATTGGCCACAAAGA
+GTGGTGACAAAGAAGGGTAGAACTTTCCTTTATCCTAATGATCTTCTGCAAACAAATCCTCCAGAGTCAC
+TTATAACAGCCCTCGTTGAGGAATACCAAAATCCTGTCTCAGCTAAGGAGCTTCAAGCAGATTGGCCCGA
+CATGTCATTTGATGAAAGGAGACATGTTGCGATGAACTTGTAGTCCAGATAACACAGCACGGTTACTCAC
+TTATCTATTTTGATATGACTCATCCTCAGATCACAGCAATCAAATTTATTTGAATATTTGAACCACCTTT
+TAGTATCCTATTACTTGTTACTATTGTGTGAGACAACATAAGCCATCAAATAACAATCACGGGCAAGGAC
+TGGGCATACTATGGTGGTCTTAGAGCATTGTCCAGTGCTACAAATTCTTTTTTCAATTGCTATAATTATA
+CAACTACAAACCTCCATACATTTGCCGCAACACTGTAATCAACACTGCTGTATCTCTTCTTCAAGCCATC
+TGATTTAACTTAATAAACATGACTTGATTCAAAGAATATACTGACAATGTTACTGTTTGAATTTCTCAAG
+TGGTGCACTATCCTACTGTTTTGCTCAGCTTAGTATATTGTAATATGTAAGTGGACTCTCCCCTTCTCCT
+CTCGTGTATTCTTTATAAATCACTTACTTGATAGAATGTCGAGTCTACTGGTTTGGAGTTTCCTTACTCT
+AATGGATGTAATAATTAACTGTTGGCCTAGATGATAACAGATATGAGGTTATATAATTACTCATAGTGTA
+AAGTATAATTCTTACCTCTGTTTCTTCTGTTTTCCCTTTCTTTTATAATATGCCAATTAAGAAAAA</dna_sequence>
+        <protein_sequence>>gi|60624|emb|CAA78114.1| nucleoprotein [Marburg virus - Musoke, Kenya, 1980]
+MDLHSLLELGTKPTAPHVRNKKVILFDTNHQVSICNQIIDAINSGIDLGDLLEGGLLTLCVEHYYNSDKD
+KFNTSPVAKYLRDAGYEFDVIKNADATRFLDVSPNEPHYSPLILALKTLESTESQRGRIGLFLSFCSLFL
+PKLVVGDRASIEKALRQVTVHQEQGIVTYPNHWLTTGHMKVIFGILRSSFILKFVLIHQGVNLVTGHDAY
+DSIISNSVGQTRFSGLLIVKTVLEFILQKTDSGVTLHPLVRTSKVKNEVASFKQALSNLARHGEYAPFAR
+VLNLSGINNLEHGLYPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAAHDAEVKLQRRHEHQEIQAIAE
+DDEERKILEQFHLQKTEITHSQTLAVLSQKREKLARLAAEIENNIVEDQGFKQSQNRVSQSFLNDPTPVE
+VTVQARPMNRPTALPPPVDDKIEHESTEDSSSSSSFVDLNDPFALLNEDEDTLDDSVMIPGTTSREFQGI
+PEPPRQSQDLNNSQGKQEDESTNRIKKQFLRYQELPPVQEDDESEYTTDSQESIDQPGSDNEQGVDLPPP
+PLYAQEKRQDPIQHPAANPQDPFGSIGDVNGDILEPIRSPSSPSAPQEDTRMREAYELSPDFTNDEDNQQ
+NWPQRVVTKKGRTFLYPNDLLQTNPPESLITALVEEYQNPVSAKELQADWPDMSFDEGDMLR</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene172">
+        <gene_name>NP from Zaire ebolavirus</gene_name>
+        <strain>Zaire ebolavirus</strain>
+        <vo_id>VO_0010931</vo_id>
+        <ncbi_gene_id>911830</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10314000</ncbi_protein_id>
+        <gene_locus_tag>ZEBOVgp1</gene_locus_tag>
+        <gene_refseq>AY142960</gene_refseq>
+        <protein_refseq>NP_066243</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>55</gene_start>
+        <gene_end>3025</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>4.77</protein_pi>
+        <protein_weight>79118.19</protein_weight>
+        <protein_length>739</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002549.1:55-3025 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome
+TGAGGAAGATTAATAATTTTCCTCTCATTGAAATTTATATCGGAATTTAAATTGAAATTGTTACTGTAAT
+CACACCTGGTTTGTTTCAGAGCCACATCACAAAGATAGAGAACAACCTAGGTCTCCGAAGGGAGCAAGGG
+CATCAGTGTGCTCAGTTGAAAATCCCTTGTCAACACCTAGGTCTTATCACATCACAAGTTCCACCTCAGA
+CTCTGCAGGGTGATCCAACAACCTTAATAGAAACATTATTGTTAAAGGACAGCATTAGTTCACAGTCAAA
+CAAGCAAGATTGAGAATTAACCTTGGTTTTGAACTTGAACACTTAGGGGATTGAAGATTCAACAACCCTA
+AAGCTTGGGGTAAAACATTGGAAATAGTTAAAAGACAAATTGCTCGGAATCACAAAATTCCGAGTATGGA
+TTCTCGTCCTCAGAAAATCTGGATGGCGCCGAGTCTCACTGAATCTGACATGGATTACCACAAGATCTTG
+ACAGCAGGTCTGTCCGTTCAACAGGGGATTGTTCGGCAAAGAGTCATCCCAGTGTATCAAGTAAACAATC
+TTGAAGAAATTTGCCAACTTATCATACAGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAG
+TTTCCTTCTCATGCTTTGTCTTCATCATGCGTACCAGGGAGATTACAAACTTTTCTTGGAAAGTGGCGCA
+GTCAAGTATTTGGAAGGGCACGGGTTCCGTTTTGAAGTCAAGAAGCGTGATGGAGTGAAGCGCCTTGAGG
+AATTGCTGCCAGCAGTATCTAGTGGAAAAAACATTAAGAGAACACTTGCTGCCATGCCGGAAGAGGAGAC
+AACTGAAGCTAATGCCGGTCAGTTTCTCTCCTTTGCAAGTCTATTCCTTCCGAAATTGGTAGTAGGAGAA
+AAGGCTTGCCTTGAGAAGGTTCAAAGGCAAATTCAAGTACATGCAGAGCAAGGACTGATACAATATCCAA
+CAGCTTGGCAATCAGTAGGACACATGATGGTGATTTTCCGTTTGATGCGAACAAATTTTCTGATCAAATT
+TCTCCTAATACACCAAGGGATGCACATGGTTGCCGGGCATGATGCCAACGATGCTGTGATTTCAAATTCA
+GTGGCTCAAGCTCGTTTTTCAGGCTTATTGATTGTCAAAACAGTACTTGATCATATCCTACAAAAGACAG
+AACGAGGAGTTCGTCTCCATCCTCTTGCAAGGACCGCCAAGGTAAAAAATGAGGTGAACTCCTTTAAGGC
+TGCACTCAGCTCCCTGGCCAAGCATGGAGAGTATGCTCCTTTCGCCCGACTTTTGAACCTTTCTGGAGTA
+AATAATCTTGAGCATGGTCTTTTCCCTCAACTATCGGCAATTGCACTCGGAGTCGCCACAGCACACGGGA
+GTACCCTCGCAGGAGTAAATGTTGGAGAACAGTATCAACAACTCAGAGAGGCTGCCACTGAGGCTGAGAA
+GCAACTCCAACAATATGCAGAGTCTCGCGAACTTGACCATCTTGGACTTGATGATCAGGAAAAGAAAATT
+CTTATGAACTTCCATCAGAAAAAGAACGAAATCAGCTTCCAGCAAACAAACGCTATGGTAACTCTAAGAA
+AAGAGCGCCTGGCCAAGCTGACAGAAGCTATCACTGCTGCGTCACTGCCCAAAACAAGTGGACATTACGA
+TGATGATGACGACATTCCCTTTCCAGGACCCATCAATGATGACGACAATCCTGGCCATCAAGATGATGAT
+CCGACTGACTCACAGGATACGACCATTCCCGATGTGGTGGTTGATCCCGATGATGGAAGCTACGGCGAAT
+ACCAGAGTTACTCGGAAAACGGCATGAATGCACCAGATGACTTGGTCCTATTCGATCTAGACGAGGACGA
+CGAGGACACTAAGCCAGTGCCTAATAGATCGACCAAGGGTGGACAACAGAAGAACAGTCAAAAGGGCCAG
+CATATAGAGGGCAGACAGACACAATCCAGGCCAATTCAAAATGTCCCAGGCCCTCACAGAACAATCCACC
+ACGCCAGTGCGCCACTCACGGACAATGACAGAAGAAATGAACCCTCCGGCTCAACCAGCCCTCGCATGCT
+GACACCAATTAACGAAGAGGCAGACCCACTGGACGATGCCGACGACGAGACGTCTAGCCTTCCGCCCTTG
+GAGTCAGATGATGAAGAGCAGGACAGGGACGGAACTTCCAACCGCACACCCACTGTCGCCCCACCGGCTC
+CCGTATACAGAGATCACTCTGAAAAGAAAGAACTCCCGCAAGACGAGCAACAAGATCAGGACCACACTCA
+AGAGGCCAGGAACCAGGACAGTGACAACACCCAGTCAGAACACTCTTTTGAGGAGATGTATCGCCACATT
+CTAAGATCACAGGGGCCATTTGATGCTGTTTTGTATTATCATATGATGAAGGATGAGCCTGTAGTTTTCA
+GTACCAGTGATGGCAAAGAGTACACGTATCCAGACTCCCTTGAAGAGGAATATCCACCATGGCTCACTGA
+AAAAGAGGCTATGAATGAAGAGAATAGATTTGTTACATTGGATGGTCAACAATTTTATTGGCCGGTGATG
+AATCACAAGAATAAATTCATGGCAATCCTGCAACATCATCAGTGAATGAGCATGGAACAATGGGATGATT
+CAACCGACAAATAGCTAACATTAAGTAGTCAAGGAACGAAAACAGGAAGAATTTTTGATGTCTAAGGTGT
+GAATTATTATCACAATAAAAGTGATTCTTATTTTTGAATTTAAAGCTAGCTTATTATTACTAGCCGTTTT
+TCAAAGTTCAATTTGAGTCTTAATGCAAATAGGCGTTAAGCCACAGTTATAGCCATAATTGTAACTCAAT
+ATTCTAACTAGCGATTTATCTAAATTAAATTACATTATGCTTTTATAACTTACCTACTAGCCTGCCCAAC
+ATTTACACGATCGTTTTATAATTAAGAAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_066243.1 nucleoprotein [Zaire ebolavirus]
+MDSRPQKIWMAPSLTESDMDYHKILTAGLSVQQGIVRQRVIPVYQVNNLEEICQLIIQAFEAGVDFQESA
+DSFLLMLCLHHAYQGDYKLFLESGAVKYLEGHGFRFEVKKRDGVKRLEELLPAVSSGKNIKRTLAAMPEE
+ETTEANAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPTAWQSVGHMMVIFRLMRTNFLI
+KFLLIHQGMHMVAGHDANDAVISNSVAQARFSGLLIVKTVLDHILQKTERGVRLHPLARTAKVKNEVNSF
+KAALSSLAKHGEYAPFARLLNLSGVNNLEHGLFPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAATEA
+EKQLQQYAESRELDHLGLDDQEKKILMNFHQKKNEISFQQTNAMVTLRKERLAKLTEAITAASLPKTSGH
+YDDDDDIPFPGPINDDDNPGHQDDDPTDSQDTTIPDVVVDPDDGSYGEYQSYSENGMNAPDDLVLFDLDE
+DDEDTKPVPNRSTKGGQQKNSQKGQHIEGRQTQSRPIQNVPGPHRTIHHASAPLTDNDRRNEPSGSTSPR
+MLTPINEEADPLDDADDETSSLPPLESDDEEQDRDGTSNRTPTVAPPAPVYRDHSEKKELPQDEQQDQDH
+TQEARNQDSDNTQSEHSFEEMYRHILRSQGPFDAVLYYHMMKDEPVVFSTSDGKEYTYPDSLEEEYPPWL
+TEKEAMNEENRFVTLDGQQFYWPVMNHKNKFMAILQHHQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene164">
+        <gene_name>PagA from Bacillus anthracis</gene_name>
+        <strain>Bacillus anthracis str. 'Ames Ancestor'</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2820165</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>47566476</ncbi_protein_id>
+        <gene_locus_tag>GBAA_pXO1_0164</gene_locus_tag>
+        <gene_refseq>NC_007322.2</gene_refseq>
+        <protein_refseq>YP_016495.2</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>pXO1</plasmid>
+        <gene_start>143779</gene_start>
+        <gene_end>146073</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>protective antigen</protein_name>
+        <protein_pi>6.09</protein_pi>
+        <protein_weight>85810.3</protein_weight>
+        <protein_length>764</protein_length>
+        <protein_note>similar to SP:P13423; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>GeneID|2820165 [Bacillus anthracis str. 'Ames Ancestor' ] 143779..146073
+tgtttggggccatcgttgcttatataaaaagtaaagaaacgaataaaaaggcatttgtgccagctttgtt
+ctttatggttgttgtaacaattctggagtgggtaccagcgcttcggattaatgatacagattggttatat
+ttaatggtgataccacttttattatgtaatgcatatcagttacttatattacatcgtttaattggaaaga
+cgagtaagtcggcctaattaagagcgtttttacgcaggatagttttatgtatgaaaatatcgggatgaaa
+aaagctccattacctgaatgaaaggtaatggagctttttatgtgtaaaaaattattgaacatctttactt
+ttcgtacttgtgttggaaataagttgtgatacggatatttgctcatagccgtcactctttaatttctgta
+gaagcagtggcaaagctttatttgtttgaagggcagaatcggatgcatgtaataagacgatatctccacc
+ttttaaattattagagacggtggaaacgatcttgtttacgccagggtttttccaatcgtttgagttatta
+ctccaatgaacgacagtgtatccgagtgattctgctattttaagtgttgctttgttaaagtctccactag
+gtggacgtaatagtttgatttgtttcacaccgagttttgtaaaaacatcttgtgctcgcagaagatctct
+tcttatttcatttgtctctagagaagtgtaggatgtgtaattataacccatactaccgatttcatgtcca
+tcttttatgatgcgttcaacaacatcagggtgtctttctgcccatgcagcagaaaggaagaaggttgcat
+tcttaatatctctttctttaagtgtatcaaggattggaattgcttttttgtctccccaactaatatcaaa
+cgtgaatgcaacttgttttttagaggtgtcgcctttgtaaataactttaggccctgtagcagttgaaaaa
+gcagactcgtgtgaatatgttttcaaaaagagtagccatgcggtaaataaggaaagtatcactattaagc
+taatgtgtttaaagtttcttttactcgtaataaaaaagaaaaacataatattacgcccctttgtccaatc
+cttttcagttacatatatgctgtaaatataaaaaagagaacaagggattaatatcgtaagtagtggatat
+aatggatggtaggattttgttaaatgaaaatcggcataatgtttattgctctgtaagaaatgattgaggt
+gatgatttgcttgggtttatgttaacgaaagaagagaaaaaagaaatggaatacatattgaagagagagt
+tagaagaacttttatttgattttgaagatgaacgtattcatgacgttgtaaaaaaggcgatggaagaaag
+atataaaatcattttttgtttgtttcgaagagtcgctaatgcagaggactgtattcgttacgtaagaaaa
+agaactttttattaaaaagtgttgacgttcatggttattatatgataaattaataaccgtcgctgatgcg
+gaaacgcagaaaacgacaaaaaagaaattgaaaaacttagttgacattgaaaaacgaagatgttaacata
+aggaagtcgcaaatgagcgaccaagtagttctttgaaaactgaacgaaacaaacaacgtgaaacgtcaat
+ttttattttagatgctagacaaactaactttattggagagtttgatcctggctcaggatgaacgctggcg
+gcgtgcctaatacatgcaagtcgagcgaatggattaagagcttgctcttatgaagttagcggcggacggg
+tgagtaacacgtgggtaacctgcccataagactgggataactccgggaaaccggggctaataccggataa
+cattttgaaccgcatggttcgaaattgaaaggtggcttcggctgccacttatggatggacccgcgtcgca
+ttagctagttggtgaggtaacggctcaccaaggcaatgatgcgtagccgacctgagagggtgatcggcca
+cactgggactgagacacggcccagactcctacgggaggcagcagtagggaatcttccgcaatggacgaaa
+gtctgacggagcaacgccgcgtgagtgatgaaggctttcgggtcgtaaaactctgttgttagggaagaac
+aagtgctagttgaataagctggcaccttgacggtacctaaccagaaagccacggctaactacgtgccagc
+agccgcggtaatacgtaggtggcaagcgttatccggaattattgggcgtaaagcg</dna_sequence>
+        <protein_sequence>>gi|47566476|ref|YP_016495.2| protective antigen [Bacillus anthracis str. 'Ames Ancestor' ]
+MKKRKVLIPLMALSTILVSSTGNLEVIQAEVKQENRLLNESESSSQGLLGYYFSDLNFQAPMVVTSSTTG
+DLSIPSSELENIPSENQYFQSAIWSGFIKVKKSDEYTFATSADNHVTMWVDDQEVINKASNSNKIRLEKG
+RLYQIKIQYQRENPTEKGLDFKLYWTDSQNKKEVISSDNLQLPELKQKSSNSRKKRSTSAGPTVPDRDND
+GIPDSLEVEGYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDKNVSPEA
+RHPLVAAYPIVHVDMENIILSKNEDQSTQNTDSQTRTISKNTSTSRTHTSEVHGNAEVHASFFDIGGSVS
+AGFSNSNSSTVAIDHSLSLAGERTWAETMGLNTADTARLNANIRYVNTGTAPIYNVLPTTSLVLGKNQTL
+ATIKAKENQLSQILAPNNYYPSKNLAPIALNAQDDFSSTPITMNYNQFLELEKTKQLRLDTDQVYGNIAT
+YNFENGRVRVDTGSNWSEVLPQIQETTARIIFNGKDLNLVERRIAAVNPSDPLETTKPDMTLKEALKIAF
+GFNEPNGNLQYQGKDITEFDFNFDQQTSQNIKNQLAELNATNIYTVLDKIKLNAKMNILIRDKRFHYDRN
+NIAVGADESVVKEAHREVINSSTEGLLLNIDKDIRKILSGYIVEIEDTEGLKEVINDRYDMLNISSLRQD
+GKTFIDFKKYNDKLPLYISNPNYKVNVYAVTKENTIINPSENGDTSTNGIKKILIFSKKGYEIG</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1656">
+        <gene_name>SGP</gene_name>
+        <strain>Sudan ebolavirus strain Boniface</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1041225</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAB37096.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279888
+CDD:197367</xrefs>
+        <taxonomy_id>186540</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>virion spike glycoprotein precursor</protein_name>
+        <protein_pi>5.67</protein_pi>
+        <protein_weight>72335.57</protein_weight>
+        <protein_length>754</protein_length>
+        <protein_note>subtype: Sudan</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB37096.1 virion spike glycoprotein precursor [Sudan ebolavirus]
+MEGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
+EGSGVSTDIPSATKRWGFRSGVPPQVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
+AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAANYTENTS
+SYYATSYLEYEIENFGAQHSTTLFKINNNTFVLLDRPHTPQFLFQLNDTIQLHQQLSNTTGKLIWTLDAN
+INADIGEWAFWENKKNLSEQLRGEELSFETLSLNETEDDDATSSRTTKGRISDRATRKYSDLVPKDSPGM
+VSLHVPEGETTLPSQNSTEGRRVDVNTQETITETTATIIGTNGNNMQISTIGTGLSSSQILSSSPTMAPS
+PETQTSTTYTPKLPVMTTEESTTPPRNSPGSTTEAPTLTTPENITTAVKTVWPQESTSNGLITSTVTGIL
+GSLGLRKRSRRQVNTRATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
+LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
+IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene168">
+        <gene_name>VP24</gene_name>
+        <strain>Lake Victoria marburgvirus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>920943</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>13489281</ncbi_protein_id>
+        <gene_locus_tag>MARVgp6</gene_locus_tag>
+        <gene_refseq>NC_001608.2</gene_refseq>
+        <protein_refseq>NP_042030.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>10205</gene_start>
+        <gene_end>10966</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>VP24 protein</protein_name>
+        <protein_pi>8.27</protein_pi>
+        <protein_weight>28621.3</protein_weight>
+        <protein_length>253</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>GeneID|920943 [Lake Victoria marburgvirus ] 10205..10966
+atggcagaattatcaacgcgttacaacttgcctgcaaatgttacggaaaaaagcataaatcttgacctta
+attccacagcacgatggataaaagaacccagtgttgggggctggacagtgaagtggggaaactttgtttt
+ccacataccaaatactgggatggcattgttgcatcatttaaagtctaacttcgttgttccagagtggcaa
+caaacaaggaatctattctcccacctctttaaaaacccaaagtcaacaattatagaaccgttcttggctt
+tgaggatcttgcttggagttgctttgaaggatcaagaattacagcaatcattaattcctggatttagatc
+tattgttcatatgctttcagaatggttgctcctagaggtaacgtcggcaatccatattagccccaatctg
+ttgggaatctatttgacctcagacatgtttaagattctgatggcaggtgtgaaaaatttctttaataaga
+tgttcactcttcatgttgtaaatgaccacggaaaacccagcagtattgaaataaagttaactggacaaca
+gatcattatcactcgtgttaatatggggtttctagtggaagtcaggaggattgatattgaaccttgttgt
+ggtgagacagtcctctcagaatcagttgtttttgggctagtggctgaggcagttctaagagaacacagtc
+aaatggagaagggccaacccctcgatctgacacaatacatgaacagcaaaattgctatataa</dna_sequence>
+        <protein_sequence>>gi|13489281|ref|NP_042030.1| VP24 protein [Lake Victoria marburgvirus ]
+MAELSTRYNLPANVTEKSINLDLNSTARWIKEPSVGGWTVKWGNFVFHIPNTGMALLHHLKSNFVVPEWQ
+QTRNLFSHLFKNPKSTIIEPFLALRILLGVALKDQELQQSLIPGFRSIVHMLSEWLLLEVTSAIHISPNL
+LGIYLTSDMFKILMAGVKNFFNKMFTLHVVNDHGKPSSIEIKLTGQQIIITRVNMGFLVEVRRIDIEPCC
+GETVLSESVVFGLVAEAVLREHSQMEKGQPLDLTQYMNSKIAI</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene166">
+        <gene_name>VP30</gene_name>
+        <strain>Lake Victoria marburgvirus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>920942</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>13489280</ncbi_protein_id>
+        <gene_locus_tag>MARVgp5</gene_locus_tag>
+        <gene_refseq>NC_001608.2</gene_refseq>
+        <protein_refseq>NP_042029.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>8867</gene_start>
+        <gene_end>9712</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>VP30 protein</protein_name>
+        <protein_pi>9.78</protein_pi>
+        <protein_weight>31640.5</protein_weight>
+        <protein_length>281</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>GeneID|920942 [Lake Victoria marburgvirus ] 8867..9712
+atgcaacaaccccgtggaaggagtcgaactcgcaaccaccaaaccgcatcatctatatatcatgaaactc
+agttgccctccaaacctcactacaccaatcatcatccacgtgcaagatcgatgagctcaacccgcagtag
+tgcagaaagcagtcccaccaatcatattccccgtgctcgaccacccccaacattcaacttatcgaaaccc
+cctcctcctccaaaagacatgtgtaggaacatgaaaattggattgccgtgcactgatcccacttgtaata
+gagatcatgaccttgataatctaacaaatcgtgaacttttgctattgatggcccgaaaaatgctccccaa
+tacagacaagacttttagaagtctgcaggattgtgggtcaccgtctctttctaaagggctctcaaaagat
+aaacaggagcaaacgaaagatgtgttgaccttggaaaatctaggacacattctgaactacctccacagat
+cagatattgggaaattggatgagacatcactccgtgcagcattaagtttgacgtgcgctggaattcgaaa
+gacgaatagatccttgatcaacaccatgaccgaattacacattaaccatgaaaatctcccgcaagaccaa
+aacggtgttatcaaacagacatatacaggtattcaccttgacaaaggaggtcaattcgaagccgccttat
+ggcaaggttgggataagagatcgatatctttattcgtacaagcagctttatatgtaatgaacaatatccc
+ttgtgaatcatcaaccagtgtgcaagcctcatacgatcattttattcttcctcaaagtcaaagtaaagga
+caatga</dna_sequence>
+        <protein_sequence>>gi|13489280|ref|NP_042029.1| VP30 protein [Lake Victoria marburgvirus ]
+MQQPRGRSRTRNHQTASSIYHETQLPSKPHYTNHHPRARSMSSTRSSAESSPTNHIPRARPPPTFNLSKP
+PPPPKDMCRNMKIGLPCTDPTCNRDHDLDNLTNRELLLLMARKMLPNTDKTFRSLQDCGSPSLSKGLSKD
+KQEQTKDVLTLENLGHILNYLHRSDIGKLDETSLRAALSLTCAGIRKTNRSLINTMTELHINHENLPQDQ
+NGVIKQTYTGIHLDKGGQFEAALWQGWDKRSISLFVQAALYVMNNIPCESSTSVQASYDHFILPQSQSKG
+Q</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene167">
+        <gene_name>VP35</gene_name>
+        <strain>Marburg marburgvirus</strain>
+        <vo_id>VO_0010929</vo_id>
+        <ncbi_gene_id>920948</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>158539110</ncbi_protein_id>
+        <gene_locus_tag>MARV_gp2</gene_locus_tag>
+        <gene_refseq>NC_001608.2</gene_refseq>
+        <protein_refseq>YP_001531154</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>2853</gene_start>
+        <gene_end>4409</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>9.15</protein_pi>
+        <protein_weight>33975.62</protein_weight>
+        <protein_length>329</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001608.3:2853-4409 Marburg marburgvirus isolate Marburg virus/H.sapiens-tc/KEN/1980/Mt. Elgon-Musoke, complete genome
+CGAAGAATATTAAAGATTTTCTTTAATATTCAGAAAAGGCTTTTTATTCTATTCTTTCTTTTTACAAACG
+TATTGAAATAGTAATTCTCACAATGTGGGACTCATCATACATGCAGCAAGTCAGCGAAGGGTTGATGACT
+GGAAAAGTACCCATAGATCAAGTGTTTGGTGCCAATCCCTTAGAGAAGTTATACAAGAGAAGAAAACCAA
+AAGGCACAGTTGGACTACAATGTAGCCCTTGTCTAATGTCAAAGGCGACAAGTACTGATGATATTATTTG
+GGACCAACTGATCGTGAAGAGAACACTAGCTGATCTACTTATACCGATAAATAGGCAGATATCAGACATT
+CAAAGCACTCTAAGCGAAGTAACAACAAGAGTCCATGAAATTGAGCGGCAATTACATGAGATTACCCCAG
+TTTTAAAAATGGGAAGGACACTGGAAGCAATTTCCAAGGGGATGTCAGAAATGTTAGCCAAATACGACCA
+CCTTGTAATTTCAACTGGAAGAACCACTGCACCAGCTGCTGCCTTTGATGCCTACTTAAATGAGCATGGT
+GTCCCTCCCCCTCAACCCGCGATTTTCAAAGATCTTGGGGTTGCCCAACAAGCTTGTAGTAAGGGGACCA
+TGGTTAAAAATGCAACAACAGATGCAGCCGACAAGATGTCGAAGGTTCTTGAACTCAGTGAGGAAACGTT
+CTCCAAGCCAAACCTTTCAGCTAAGGATTTAGCCCTTTTATTGTTTACCCATCTACCCGGCAACAACACT
+CCATTCCATATCCTAGCTCAGGTCCTTTCAAAAATTGCTTACAAGTCAGGAAAATCCGGAGCATTCTTGG
+ATGCATTTCACCAGATTCTAAGTGAAGGAGAGAATGCTCAGGCGGCATTAACTCGACTAAGCAGAACATT
+TGACGCTTTCCTTGGAGTGGTTCCTCCAGTGATAAGAGTCAAAAACTTCCAAACAGTCCCTCGTCCATGT
+CAAAAAAGTCTTCGGGCTGTCCCTCCAAATCCAACAATTGACAAAGGATGGGTCTGTGTTTATTCATCTG
+AGCAAGGTGAAACACGGGCCCTTAAAATCTAATTCTCATTGTTCATAGTTGCAAGGGAAGTGATCTTTCC
+GAGTTGATACAAAGACACTAAACATTTCAAAAGCATGTATGTGGACAAAACATAATTAGACCATCTTAAT
+TGGAGTAGTAATTTATTTCTGTCTTAAATGTGATTTTCACTTTAAAAGCGTTAAATGGTGATAGATTAAT
+CCTTGAAGTTACTCTTCTATATATTATAGAGAAACCAATGTTACTAACAAAAGGGGTCTACCTAACGCAT
+ATGATTGAGTAATCCGTATATTTTATAAACCAAACAATTAACTTCTTACTTTTTAAGAATCAACTAACAA
+CATAGAAAAGACATTTATCCTTATGTAATCCTCGGCTTAGTTGAAATTAACTTTTGTTGGACCTCAAGAC
+GCTTATTCATAGTATATTATATGATTTTTTATAAGTTTAAGATATCTTAAATTATACCCACAAAAGATAC
+TGTTTTAATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>YP_001531154.1 polymerase complex protein [Marburg marburgvirus]
+MWDSSYMQQVSEGLMTGKVPIDQVFGANPLEKLYKRRKPKGTVGLQCSPCLMSKATSTDDIIWDQLIVKR
+TLADLLIPINRQISDIQSTLSEVTTRVHEIERQLHEITPVLKMGRTLEAISKGMSEMLAKYDHLVISTGR
+TTAPAAAFDAYLNEHGVPPPQPAIFKDLGVAQQACSKGTMVKNATTDAADKMSKVLELSEETFSKPNLSA
+KDLALLLFTHLPGNNTPFHILAQVLSKIAYKSGKSGAFLDAFHQILSEGENAQAALTRLSRTFDAFLGVV
+PPVIRVKNFQTVPRPCQKSLRAVPPNPTIDKGWVCVYSSEQGETRALKI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Guinea pigs were vaccinated with recombinant VEE replicons (packaged into VEE-like particles), inoculated with MBGV, and evaluated for viremia and survival after challenge with typical MGBV disease.  Results indicated that VP35 afforded incomplete protection [Ref559:Hevey et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene162">
+        <gene_name>VP40</gene_name>
+        <strain>Lake Victoria marburgvirus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>920947</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>13489278</ncbi_protein_id>
+        <gene_locus_tag>MARVgp3</gene_locus_tag>
+        <gene_refseq>NC_001608.2</gene_refseq>
+        <protein_refseq>NP_042027.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>4567</gene_start>
+        <gene_end>5478</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>VP40 protein</protein_name>
+        <protein_pi>9.66</protein_pi>
+        <protein_weight>33734.4</protein_weight>
+        <protein_length>303</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>GeneID|920947 [Lake Victoria marburgvirus ] 4567..5478
+atggccagttccagcaattacaacacatacatgcaatacttgaacccccctccttatgctgatcacggtg
+caaaccagttgatcccggcggatcagctatcaaatcagcagggtataactccaaattatgtgggtgactt
+aaacctagatgatcagttcaaagggaatgtctgccatgctttcactttagaggcaataattgacatatct
+gcgtataatgaaccaacagtcaaaggtgttccagcatggctgcctctcgggattatgagcaattttgaat
+atcctttagctcatactgtggctgcgttgctcacaggcagctatacaatcacccaatttactcataatgg
+gcaaaaattcgtccgtgtaaatcgactcggtacaggaatcccagcacacccactcagaatgttgcgtgaa
+ggaaatcaagcttttattcagaatatggtgatccccagaaatttttccactaatcaattcacctacaatc
+tcactaacttagtattgagtgtgcaaaagcttcctgatgatgcctggcgcccatccaaggacaaattaat
+tgggaacaccatgcatcccgcagtctccatacacccgaatttgccacccattgttctaccaacagtcaag
+aagcaggcttatcgtcagcataaaaatcccaacaatggaccactgctggccatatctggcatccttcacc
+aactgagggtcgagaaagtcccagagaagacaagcctgtttaggatttcacttcctgccgatatgttctc
+agtaaaagaaggtatgatgaagaaaaggggagaaaattccccggtggtttattttcaagcacctgagaac
+ttccctttgaatggcttcaacaacagacaagttgtactagcgtatgcgaatccaacgctcagtgccgttt
+ga</dna_sequence>
+        <protein_sequence>>gi|13489278|ref|NP_042027.1| VP40 protein [Lake Victoria marburgvirus ]
+MASSSNYNTYMQYLNPPPYADHGANQLIPADQLSNQQGITPNYVGDLNLDDQFKGNVCHAFTLEAIIDIS
+AYNEPTVKGVPAWLPLGIMSNFEYPLAHTVAALLTGSYTITQFTHNGQKFVRVNRLGTGIPAHPLRMLRE
+GNQAFIQNMVIPRNFSTNQFTYNLTNLVLSVQKLPDDAWRPSKDKLIGNTMHPAVSIHPNLPPIVLPTVK
+KQAYRQHKNPNNGPLLAISGILHQLRVEKVPEKTSLFRISLPADMFSVKEGMMKKRGENSPVVYFQAPEN
+FPLNGFNNRQVVLAYANPTLSAV</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference232">
+		<reference_name>Bausch et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bausch DG, Geisbert TW</authors>
+		<title>Development of vaccines for Marburg hemorrhagic fever</title>
+		<year>2007 Feb</year>
+		<volume>6</volume>
+		<issue>1</issue>
+		<pages>57-74</pages>
+		<journal_book_name>Expert review of vaccines</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference628">
+		<reference_name>Daddario-DiCaprio et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Daddario-DiCaprio KM, Geisbert TW, Geisbert JB, Stroher U, Hensley LE, Grolla A, Fritz EA, Feldmann F, Feldmann H, Jones SM</authors>
+		<title>Cross-protection against Marburg virus strains by using a live, attenuated recombinant vaccine</title>
+		<year>2006</year>
+		<volume>80</volume>
+		<issue>19</issue>
+		<pages>9659-9666</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2288">
+		<reference_name>Geisbert et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Geisbert TW, Bailey M, Geisbert JB, Asiedu C, Roederer M, Grazia-Pau M, Custers J, Jahrling P, Goudsmit J, Koup R, Sullivan NJ</authors>
+		<title>Vector choice determines immunogenicity and potency of genetic vaccines against Angola Marburg virus in nonhuman primates</title>
+		<year>2010</year>
+		<volume>84</volume>
+		<issue>19</issue>
+		<pages>10386-10394</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference560">
+		<reference_name>Hevey et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hevey M, Negley D, Geisbert J, Jahrling P, Schmaljohn A</authors>
+		<title>Antigenicity and vaccine potential of Marburg virus glycoprotein expressed by baculovirus recombinants</title>
+		<year>1997 Dec 8</year>
+		<volume>239</volume>
+		<issue>1</issue>
+		<pages>206-16</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference559">
+		<reference_name>Hevey et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hevey M, Negley D, Pushko P, Smith J, Schmaljohn A</authors>
+		<title>Marburg virus vaccines based upon alphavirus replicons protect guinea pigs and nonhuman primates</title>
+		<year>1998 Nov 10</year>
+		<volume>251</volume>
+		<issue>1</issue>
+		<pages>28-37</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1173">
+		<reference_name>Jones et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jones SM, Feldmann H, Ströher U, Geisbert JB, Fernando L, Grolla A, Klenk HD, Sullivan NJ, Volchkov VE, Fritz EA, Daddario KM, Hensley LE, Jahrling PB, Geisbert TW</authors>
+		<title>Live attenuated recombinant vaccine protects nonhuman primates against Ebola and Marburg viruses</title>
+		<year>2005</year>
+		<volume>11</volume>
+		<issue>7</issue>
+		<pages>786-790</pages>
+		<journal_book_name>Nature medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference622">
+		<reference_name>Mohamadzadeh et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mohamadzadeh M, Chen L, Schmaljohn AL</authors>
+		<title>How Ebola and Marburg viruses battle the immune system</title>
+		<year>2007</year>
+		<volume>7</volume>
+		<issue>7</issue>
+		<pages>556-567</pages>
+		<journal_book_name>Nature reviews. Immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference615">
+		<reference_name>Riemenschneider et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Riemenschneider J, Garrison A, Geisbert J, Jahrling P, Hevey M, Negley D, Schmaljohn A, Lee J, Hart MK, Vanderzanden L, Custer D, Bray M, Ruff A, Ivins B, Bassett A, Rossi C, Schmaljohn C</authors>
+		<title>Comparison of individual and combination DNA vaccines for B. anthracis, Ebola virus, Marburg virus and Venezuelan equine encephalitis virus</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>25-26</issue>
+		<pages>4071-4080</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference629">
+		<reference_name>Swenson et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Swenson DL, Warfield KL, Negley DL, Schmaljohn A, Aman MJ, Bavari S</authors>
+		<title>Virus-like particles exhibit potential as a pan-filovirus vaccine for both Ebola and Marburg viral infections</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>23</issue>
+		<pages>3033-3042</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2287">
+		<reference_name>Swenson et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Swenson DL, Wang D, Luo M, Warfield KL, Woraratanadharm J, Holman DH, Dong JY, Pratt WD</authors>
+		<title>Vaccine to confer to nonhuman primates complete protection against multistrain Ebola and Marburg virus infections</title>
+		<year>2008</year>
+		<volume>15</volume>
+		<issue>3</issue>
+		<pages>460-467</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference495">
+		<reference_name>Wang et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang D, Schmaljohn AL, Raja NU, Trubey CM, Juompan LY, Luo M, Deitz SB, Yu H, Woraratanadharm J, Holman DH, Moore KM, Swain BM, Pratt WD, Dong JY</authors>
+		<title>De novo syntheses of Marburg virus antigens from adenovirus vectors induce potent humoral and cellular immune responses</title>
+		<year>2006 Apr 5</year>
+		<volume>24</volume>
+		<issue>15</issue>
+		<pages>2975-86</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference494">
+		<reference_name>Warfield et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Warfield KL, Swenson DL, Negley DL, Schmaljohn AL, Aman MJ, Bavari S</authors>
+		<title>Marburg virus-like particles protect guinea pigs from lethal Marburg virus infection</title>
+		<year>2004 Sep 3</year>
+		<volume>22</volume>
+		<issue>25-26</issue>
+		<pages>3495-502</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

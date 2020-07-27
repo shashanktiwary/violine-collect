@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen108">
+		<pathogen_name>Rickettsia spp</pathogen_name>
+		<taxon_id>780</taxon_id>
+		<pathogenesis refs="reference1463">All rickettsial infections begin with introduction of the organisms into the skin, either through a tick bite or cutaneous abrasions contaminated by flea or louse feces. Rickettsiae enter dermal cells including endothelium and proliferate locally intracellularly with endothelial cell-to-cell spread for most SFG rickettsioses resulting in an eschar or tache noire, a zone of dermal and epidermal necrosis approximately 1 cm in diameter with a surrounding zone of erythema. Eschars do not occur in epidemic and murine typhus and are rarely observed in Rocky Mountain spotted fever (Textbook of Bacteriology).</pathogenesis>
+		<disease_name>Spotted Fever, Typhus</disease_name>
+		<protective_immunity refs="reference1463">Rickettsial infection stimulates an early innate immune response with activation of natural killer cells and production of gamma interferon (gamma IFN), which act in concert to dampen rickettsial growth. Acquired immunity develops with clonal expansion of CD4 and CD8 T lymphocytes as well as antibody-producing B cells. Clearance of intraendothelial rickettsiae is achieved by rickettsicidal effects due to cytokine activation of the infected endothelial cells themselves. Cell mediated immunity (CMI) plays an important role as expected in infection by an intracellular parasite, but antibodies (including those directed at epitopes of OmpA and OmpB) also play a role in protective immunity (Textbook of Bacteriology).</protective_immunity>
+		<host_range refs="reference1447">Rickettsia are generally carried by ticks and fleas and can be transmitted to humans and other warm-blooded mammals (Wiki: Rickettsia).</host_range>
+		<introduction refs="reference1447 reference1463">Rickettsia is a genus of non-motile, Gram-negative, non-sporeforming, highly pleomorphic bacteria that can present as cocci (0.1 μm in diameter), rods (1–4 μm long) or thread-like (10 μm long). Obligate intracellular parasites, the Rickettsia survival depends on entry, growth, and replication within the cytoplasm of eukaryotic host cells (typically endothelial cells). Because of this, Rickettsia cannot live in artificial nutrient environments and are grown either in tissue or embryo cultures (typically, chicken embryos are used). In the past they were positioned somewhere between viruses and true bacteria. The majority of Rickettsia bacteria are susceptible to antibiotics of the tetracycline group. Rickettsia species are carried by many ticks, fleas, and lice, and cause diseases in humans such as typhus, rickettsialpox, Boutonneuse fever, African tick bite fever, Rocky Mountain spotted fever, Australian Tick Typhus, Flinders Island Spotted Fever and Queensland tick typhus.  They have also been associated with a range of plant diseases. Like viruses, they only grow inside living cells. The name rickettsia is often used for any member of the Rickettsiales. They are thought to be the closest living relatives to bacteria that were the origin of the mitochondria organelle that exists inside most eukaryotic cells (Wiki: Rickettsia). Rickettsial diseases vary in clinical severity according to the virulence of the Rickettsia and host factors, such as age, male gender, alcoholism, and other underlying diseases. The most virulent rickettsiae are R. rickettsii and R. prowazekii, which kill a significant portion of infected persons, unless the diseases are treated sufficiently early in the course of infection with an effective antimicrobial agent, usually doxycycline (Textbook of Bacteriology).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1045">
+		<vaccine_name>Rickettsia DNA Vaccine encoding OmpB Protein boosted with Recombinant OmpB</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011389</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1/V5-His-TOPO [Ref1240:Díaz-Montero et al., 2001]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering531" gene_id="gene651">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response797" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/ HeN</host_strain>
+			<vaccination_protocol refs="reference1240">Animals were immunized with only two doses of DNA (100 μg of recombinant plasmid and 100 μg of pIL-12) four weeks apart given intramuscularly in the tibialis anterior muscles. All mice that received DNA immunizations were also administered two booster immunizations of 100 μg each of the homologous purified recombinant protein. Control mice received either non-recombinant vector plus β-galactosidase-His recombinant protein (negative control) or a sublethal immunizing dose of R. conorii (positive
+control) (Díaz-Montero et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1240">R. rickettsii OmpB contain B and T lymphocyte epitopes. Immunizations with each of two fragments from OmpB (rompB1550-2738 and rompB2459-4123) conferred protection against challenge with a lethal dose of R. conorii. Protection appeared to be better achieved among the groups that received both DNA and recombinant protein immunizations, although recombinant protein immunizations alone provided some protection (Díaz-Montero et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1240">Mice were challenged with 3 median lethal doses (LD50) of R. conorii. In a previous experiment, this dose was shown to kill 100% of naive mice. After challenge, animals were observed daily for morbidity and mortality (Díaz-Montero et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1044">
+		<vaccine_name>Rickettsia rickettsii vaccine using M. vaccae expressing R. rickettsii OmpA Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011388</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Mycobacterium vaccae [Ref1239:Crocquet-Valdes et al., 2001].</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering530" gene_id="gene650">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response796" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/HeN mice</host_strain>
+			<vaccination_protocol refs="reference1239">6–8-week-old male C3H/HeN mice were were inoculated subcutaneously with 1×10^8 to 5×10^8 of recombinant M. vaccae transformants containing rompA3006–3960. As a negative control mice were immunized with either PBS or inoculated subcutaneously with M. vaccae/pCR7, another negative control. Booster inoculations were performed 1 month later with the same dose and route. Mice immunized with M. vaccae transformants were given two additional doses of 100 μg per mouse of recombinant rickettsial GST fusion protein OmpA755–1301 suspended in incomplete Freund’s adjuvant with a 1 month interval between the immunizations (Crocquet-Valdes et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1239">Immunization with one of the constructs of Mycobacterium vaccae expressing Rickettsia rickettsii OmpA in combination with booster immunization with the homologous recombinant protein protected a significant portion of mice from lethal challenge with the closely related bacterium, R. conorii, in mice (Crocquet-Valdes et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1239">One month after the last inoculation, all groups of mice were challenged intravenously with three LD50 of R. conorii and observed daily for 2 weeks for morbidity and mortality (Crocquet-Valdes et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response245" gene_id="gene1">
+			    <description refs="reference1239">Production of IFN-gamma by antigen-exposed T-lymphocytes of DNA vaccine recipients indicated that cellular immunity had been stimulated.  IFN-γ levels in supernatant fluid of rickettsial antigen-stimulated splenocytes from an animal that received both DNA and protein vaccinations were 47% or more higher than the controls that were vaccinated with the vector and GST or were sham-immunized with saline. This observed difference was significant and was seen in spleen cells the day before the challenge (Crocquet-Valdes et al., 2001).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene650">
+        <gene_name>ompA</gene_name>
+        <strain>Rickettsia rickettsii</strain>
+        <vo_id>VO_0011234</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>112710</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:225751
+CDD:299123
+CDD:273608
+CDD:281750</xrefs>
+        <taxonomy_id>783</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Outer membrane protein A</protein_name>
+        <protein_pi>5.23</protein_pi>
+        <protein_weight>209097.42</protein_weight>
+        <protein_length>2619</protein_length>
+        <protein_note>190 kDa antigen; Cell surface antigen; rOmp A; rOmpA</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|P15921.1|OMPA_RICRI RecName: Full=Outer membrane protein A; AltName: Full=190 kDa antigen; AltName: Full=Cell surface antigen; AltName: Full=rOmp A; Short=rOmpA; Contains: RecName: Full=120 kDa surface-exposed protein; AltName: Full=120 kDa outer membrane protein OmpA; Contains: RecName: Full=32 kDa beta peptide; Flags: Precursor
+MANISPKLFKKAIQQGLKAALFTTSTAAIMLSSSGALGVATGVIATNNNAAFSNNVGNNNWNEITAAGVA
+NGTPAGGPQNNWAFTYGGDYTVTADAADRIIKAINVAGTTPVGLNITQNTVVGSIITKGNLLPVTLNAGK
+SLTLNGNNAVAANHGFDAPADNYTGLGNIALGGANAALIIQSAAPSKITLAGNIDGGGIITVKTDAAING
+TIGNTNALATVNVGAGTATLGGAVIKATTTKLTNAASVLTLTNANAVLTGAIDNTTGGDNVGVLNLNGAL
+SQVTGDIGNTNSLATISVGAGTATLGGAVIKATTTKLTDAASAVKFTNPVVVTGAIDNTGNANNGIVTFT
+GNSTVTGNVGNTNALATVNVGAGLLQVQGGVVKANTINLTDNASAVTFTNPVVVTGAIDNTGNANNGIVT
+FTGNSTVTGDIGNTNALATVNVGAGTATLGGAVIKATTTKLTNAASVLTLTNANAVLTGAIDNTTGGDNV
+GVLNLNGALSQVTGNIGNTNSLATISVGAGTATLGGAVIKATTTKLTDAASAVKFTNPVVVTGAIDNTGN
+ANNGIVTFTGNSTVTGDIGNTNSLATISVGAGTATLGGAVIKATTTKLTNAASVLTLTNANAVLTGAIDN
+TTGGDNVGVLNLNGALSQVTGDIGNTNSLATISVGAGTATLGGAVIKATTTKITNAVSAVKFTNPVVVTG
+AIDSTGNANNGIVTFTGNSTVTGDIGNTNALATVNVGAGTATLGGAVIKATTTKLTNAASVLTLTNANAV
+LTGAIDNTTGGDNVGVLNLNGALSQVTGDIGNTNSLATISVGAGTATLGGAVIKATTTKLTNAASVLTLT
+NANAVLTGAVDNTTGGDNVGVLNLNGALSQVTGDIGNTNSLATISVGAGTATLGGAVIKATTTKLTNAAS
+VLTLTNANAVLTGAIDNTTGGDNVGVLNLNGALSQVTGDIGNTNSLATISVGAGTATLGGAVIKATTTKL
+TDAASAVKFTNPVVVTGAIDNTGNANNGIVTFTGNSTVTGNVGNTNALATVNVGAGLLQVQGGVVKANTI
+NLTDNASAVTFTNPVVVTGAIDNTGNANNGIVTFTGNSTVTGNVGNTNALATVNVGAGLLQVQGGVVKAN
+TINLTDNASAVTFTNPVVVTGAIDNTGNANNGIVTFTGNSTVTGDIGNTNALATVNVGAGITLQAGGSLA
+ANNIDFGARSTLEFNGPLDGGGKAIPYYFKGAIANGNNAILNVNTKLLTASHLTIGTVAEINIGAGNLFT
+IDASVGDVTILNAQNINFRARDSVLVLSNLTGVGVNNILLAADLVAPGADEGTVVFNGGVNGLNVGSNVA
+GTARNIGDGGGNKFNTLLIYNAVTITDDVNLEGIQNVLINKNADFTSSTAFNAGAIQINDATYTIDANNG
+NLNIPAGNIQFAHADAQLVLQNSSGNDRTITLGANIDPDNDDEGIVILNSVTAGKKLTIAGGKTFGGAHK
+LQTILFKGAGDCSTAGTTFNTTNIVLDITGQLELGATTANVVLFNDAVQLTQTGNIGGFLDFNAKNGMVT
+LNNNVNVAGAVQNTGGTNNGTLIVLGASNLNRVNGIAMLKVGAGNVTIAKGGKVKIGEIQGTGTNTLTLP
+AHFNLTGSINKTGGQALKLNFMNGGSVSGVVGTAANSVGDITTAGATSFASSVNAKGTATLGGTTSFANT
+FTNTGAVTLAKGSITSFAKNVTATSFVANSATINFSNSLAFNSNITGGGTTLTLGANQVTYTGTGSFTDT
+LTLNTTFDGAAKSGGNILIKSGSTLDLSGVSTLALVVTATNFDMNNISPDTKYTVISAETAGGLKPTSKE
+NVKITINNDNRFVDFTFDASTLTLFAEDIAADVIDGDFAPGGPLANIPNAANIKKSLELMEDAPNGSDAR
+QAFNNFGLMTPLQEADATTHLIQDVVKPSDTIAAVNNQVVASNISSNITALNARMDKVQSGNKGPVSSGD
+EDMDAKFGAWISPFVGNATQKMCNSISGYKSDTTGGTIGFDGFVSDDLALGLAYTRADTDIKLKNNKTGD
+KNKVESNIYSLYGLYNVPYENLFVEAIASYSDNKIRSKSRRVIATTLETVGYQTANGKYKSESYTGQLMA
+GYTYMMPENINLTPLAGLRYSTIKDKGYKETGTTYQNLTVKGKNYNTFDGLLGAKVSSNINVNEIVLTPE
+LYAMVDYAFKNKVSAIDARLQGMTAPLPTNSFKQSKTSFDVGVGVTAKHKMMEYRINYDTNIGSKYFAQQ
+GSVKVRVNF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunization with one of the constructs of M. vaccae expressing OmpA in combination with booster immunization with the homologous recombinant protein protected a significant portion of mice from lethal challenge [Ref1239:Crocquet-Valdes et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene651">
+        <gene_name>ompB</gene_name>
+        <strain>Rickettsia rickettsii</strain>
+        <vo_id>VO_0011235</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>6685726</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:289131
+CDD:273608
+CDD:214872</xrefs>
+        <taxonomy_id>783</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Outer membrane protein B</protein_name>
+        <protein_pi>6.04</protein_pi>
+        <protein_weight>160418.03</protein_weight>
+        <protein_length>2141</protein_length>
+        <protein_note>168 kDa surface-layer protein; Cell surface antigen 5; Surface protein antigen; rOmp B; Sca5; rOmpB</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|Q53047.1|OMPB_RICRI RecName: Full=Outer membrane protein B; AltName: Full=168 kDa surface-layer protein; AltName: Full=Cell surface antigen 5; Short=Sca5; AltName: Full=Surface protein antigen; AltName: Full=rOmp B; Short=rOmpB; Contains: RecName: Full=120 kDa surface-exposed protein; AltName: Full=120 kDa outer membrane protein OmpB; AltName: Full=Surface protein antigen; AltName: Full=p120; Contains: RecName: Full=32 kDa beta peptide; Flags: Precursor
+MAQKPNFLKKLISAGLVTASTATIVASFAGSAMGAAIQQNRTTNGAATTVDGAGFDQTAAPANVGVALNA
+VITANANNGINFNTPAGSFNGLLLNTANNLAVTVSEDTTLGFITNVVHNAHSFNLTLNAGKTLTITGQGV
+TNAQAAATKNAQNVVVQFNNGAAIDNNDLKGVGRIDFGAPASTLVFNLANPTTQKAPLILGDNAVIANGV
+NGTLNVTNGFIQVSNKSFATVKAINIADGQGIIFNTDANNANTLNLQAGGTTINFTGTDGTGRLVLLSKH
+AAATNFNITGSLGGNLKGVIEFNTVAVDGQLTANAGAANAVIGTNNGAGRAAGFVVSVDNGKVATIDGQV
+YAKDMVIQSANATGQVNFRHIVDVGADGTTAFKTAASKVTITQDSNFGNTDFGNLAAQIKVPNAITLTGN
+FTGDASNPGNTAGVITFDANGTLESASADANVAVTNNITAIEASGAGVVQLSGTHAAELRLGNAGSIFKL
+ADGTVINGKVNQTALVGGALAAGTITLDGSATITGDIGNAGGAAALQRITLANDAKKTLTLGGANIIGAG
+GGTIDLQANGGTIKLTSTQNNIVVDFDLAIATDQTGVVDASSLTNAQTLTINGKIGTIGANNKTLGQFNI
+GSSKTVLSNGNVAINELVIGNDGAVQFAHDTYLITRTTNAAGQGKIIFNPVVNNGTTLAAGTNLGSATNP
+LAEINFGSKGVNVDTVLNVGEGVNLYATNITTTDANVGSFVFNAGGTNIVSGTVGGQQGNKFNTVALENG
+TTVKFLGNATFNGNTTIAANSTLQIGGNYTADCVASADGTGIVEFVNTGPITVTLNKQAAPVNALKQITV
+SGPGNVVINEIGNAGNHHGAVTDTIAFENSSLGAVVFLPRGIPFNDAGNTMPLTIKSTVGNKTAKGFDVP
+SVVVLGVDSVIADGQVIGDQNNIVGLGLGSDNGIIVNATTLYAGISTLNNNQGTVTLSGGVPNTPGTVYG
+LGTGIGASKFKQVTFTTDYNNLGNIIATNATINDGVTVTTGGIAGIGFDGKITLGSVNGNGNVRFADGIL
+SNSTSMIGTTKANNGTVTYLGNAFVGNIGDSDTPVASVRFTGSDSGAGLQGNIYSQVIDFGTYNLGIVNS
+NIILGGGTTAINGKIDLVTNTLTFASGTSTWGNNTSIETTLTLANGNIGHIVILEGAQVNTTTTGTTTIK
+VQDNANANFSGTQTYTLIQGGARFNGTLGSPNFAVTGSNRFVNYSLIRAANQDYVITRTNNAENVVTNDI
+ANSPFGGAPGVDQNVTTFVNATNTAAYNNLLLAKNSANSANFVGAIVTDTSAAITNVQLDLAKDIQAQLG
+NRLGALRYLGTPETAEMAGPEAGAISAAVAAGDEAIDNVAYGIWAKPFYTDAHQSKKGGLAGYKAKTTGV
+VIGLDTLANDNLMIGAAIGITKTDIKHQDYKKGDKTDVNGFSFSLYGAQQLVKNFFAQGSAIFSLNQVKN
+KSQRYFFDANGNMSKQIAAGHYDNMTFGGNLTVGYDYNAMQGVLVTPMAGLSYLKSSDENYKETGTTVAN
+KQVNSKFSDRTDLIVGAKVAGSTMNITDLAVYPEVHAFVVHKVTGRLSKTQSVLDGQVTPCINQPDRTTK
+TSYNLGLSASIRSDAKMEYGIGYDAQISSKYTAHQGTLKVRVNF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>R. rickettsii OmpB contain B and T lymphocyte epitopes. Immunizations with each of two fragments from OmpB (rompB1550-2738 and rompB2459-4123) conferred protection against challenge with a lethal dose of R. conorii. Protection appeared to be better achieved among the groups that received both DNA and recombinant protein immunizations, although recombinant protein immunizations alone provided some protection [Ref1240:Díaz-Montero et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1377">
+		<reference_name>Carl et al., 1990</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Carl M, Dobson ME, Ching WM, Dasch GA</authors>
+		<title>Characterization of the gene encoding the protective paracrystalline-surface-layer protein of Rickettsia prowazekii: presence of a truncated identical homolog in Rickettsia typhi</title>
+		<year>1990</year>
+		<volume>87</volume>
+		<issue>21</issue>
+		<pages>8237-8241</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4823">
+		<reference_name>Caro-Gomez et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Caro-Gomez E, Gazi M, Goez Y, Valbuena G</authors>
+		<title>Discovery of novel cross-protective Rickettsia prowazekii T-cell antigens using a combined reverse vaccinology and in vivo screening approach</title>
+		<year>2014</year>
+		<volume>32</volume>
+		<issue>39</issue>
+		<pages>4968-4976</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1239">
+		<reference_name>Crocquet-Valdes et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Crocquet-Valdes PA, Díaz-Montero CM, Feng HM, Li H, Barrett AD, Walker DH</authors>
+		<title>Immunization with a portion of rickettsial outer membrane protein A stimulates protective immunity against spotted fever rickettsiosis</title>
+		<year>2001</year>
+		<volume>20</volume>
+		<issue>5-6</issue>
+		<pages>979-988</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1240">
+		<reference_name>Díaz-Montero et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Díaz-Montero CM, Feng HM, Crocquet-Valdes PA, Walker DH</authors>
+		<title>Identification of protective components of two major outer membrane proteins of spotted fever group Rickettsiae</title>
+		<year>2001</year>
+		<volume>65</volume>
+		<issue>4</issue>
+		<pages>371-378</pages>
+		<journal_book_name>The American journal of tropical medicine and hygiene</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4805">
+		<reference_name>Gazi et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gazi M, Caro-Gomez E, Goez Y, Cespedes MA, Hidalgo M, Correa P, Valbuena G</authors>
+		<title>Discovery of a protective Rickettsia prowazekii antigen recognized by CD8+ T cells, RP884, using an in vivo screening platform</title>
+		<year>2013</year>
+		<volume>8</volume>
+		<issue>10</issue>
+		<pages>e76253</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4691">
+		<reference_name>Gong et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gong W, Xiong X, Qi Y, Jiao J, Duan C, Wen B</authors>
+		<title>Identification of novel surface-exposed proteins of Rickettsia rickettsii by affinity purification and proteomics</title>
+		<year>2014</year>
+		<volume>9</volume>
+		<issue>6</issue>
+		<pages>e100253</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4732">
+		<reference_name>Gong et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gong W, Xiong X, Qi Y, Jiao J, Duan C, Wen B</authors>
+		<title>Surface protein Adr2 of Rickettsia rickettsii induced protective immunity against Rocky Mountain spotted fever in C3H/HeN mice</title>
+		<year>2014</year>
+		<volume>32</volume>
+		<issue>18</issue>
+		<pages>2027-2033</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4754">
+		<reference_name>Gong et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gong W, Qi Y, Xiong X, Jiao J, Duan C, Wen B</authors>
+		<title>Rickettsia rickettsii outer membrane protein YbgF induces protective immunity in C3H/HeN mice</title>
+		<year>2015</year>
+		<volume>11</volume>
+		<issue>3</issue>
+		<pages>642-649</pages>
+		<journal_book_name>Human vaccines &amp; immunotherapeutics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4934">
+		<reference_name>Jiao et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jiao Y, Wen B, Chen M, Niu D, Zhang J, Qiu L</authors>
+		<title>Analysis of immunoprotectivity of the recombinant OmpA of Rickettsia heilongjiangensis</title>
+		<year>2005</year>
+		<volume>1063</volume>
+		<issue></issue>
+		<pages>261-265</pages>
+		<journal_book_name>Annals of the New York Academy of Sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4820">
+		<reference_name>Sears et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sears KT, Ceraul SM, Gillespie JJ, Allen ED Jr, Popov VL, Ammerman NC, Rahman MS, Azad AF</authors>
+		<title>Surface proteome analysis and characterization of surface cell antigen (Sca) or autotransporter family of Rickettsia typhi</title>
+		<year>2012</year>
+		<volume>8</volume>
+		<issue>8</issue>
+		<pages>e1002856</pages>
+		<journal_book_name>PLoS pathogens</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1334">
+		<reference_name>Seong et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Seong SY, Huh MS, Jang WJ, Park SG, Kim JG, Woo SG, Choi MS, Kim IS, Chang WH</authors>
+		<title>Induction of homologous immune response to Rickettsia tsutsugamushi Boryong with a partial 56-kilodalton recombinant antigen fused with the maltose-binding protein MBP-Bor56</title>
+		<year>1997</year>
+		<volume>65</volume>
+		<issue>4</issue>
+		<pages>1541-1545</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1463">
+		<reference_name>Textbook of Bacteriology</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Online Textbook of Bacteriology: Rickettsial Diseases</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.textbookofbacteriology.net/Rickettsia_2.html</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4850">
+		<reference_name>Wang et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang P, Xiong X, Jiao J, Yang X, Jiang Y, Wen B, Gong W</authors>
+		<title>Th1 epitope peptides induce protective immunity against Rickettsia rickettsii infection in C3H/HeN mice</title>
+		<year>2017</year>
+		<volume>35</volume>
+		<issue>51</issue>
+		<pages>7204-7212</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1447">
+		<reference_name>Wiki:  Rickettsia</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Rickettsia</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Rickettsia</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

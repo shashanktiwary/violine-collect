@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen127">
+		<pathogen_name>Nipah virus</pathogen_name>
+		<taxon_id>121791</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Nipah virus disease</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1375 reference1415">Humans and pigs can be infected with the virus as well as hamsters which serve as an animal model of disease (Guillaume et al., 2004).  Pteropid fruit bats are the primary reservoir of Nipah virus (Wiki: Nipah virus).</host_range>
+		<introduction refs="reference1415">Nipah virus was identified in 1999 when it caused an outbreak of neurological and respiratory disease on pig farms in peninsular Malaysia, resulting in 105 human deaths and the culling of one million pigs.  In Singapore, 11 cases including one death occurred in abattoir workers exposed to pigs imported from the affected Malaysian farms. The Nipah virus has been classified by the Centers for Disease Control and Prevention as a Category C agent.
+
+The outbreak was originally mistaken for Japanese encephalitis (JE), however, physicians in the area noted that persons who had been vaccinated against JE were not protected, and the number of cases among adults was unusual.
+
+Symptoms of infection from the Malaysian outbreak were primarily encephalitic in humans and respiratory in pigs. Later outbreaks have caused respiratory illness in humans, increasing the likelihood of human-to-human transmission and indicating the existence of more dangerous strains of the virus.
+
+Based on seroprevalence data and virus isolations, the primary reservoir for Nipah virus was identified as Pteropid fruit bats including Pteropus vampyrus (Large Flying Fox) and Pteropus hypomelanus] (Small Flying-fox), both of which occur in Malaysia.
+
+The transmission of Nipah virus from flying foxes to pigs is thought to be due to an increasing overlap between bat habitats and piggeries in peninsular Malaysia. At the index farm, fruit orchards were in close proximity to the piggery, allowing the spillage of urine, faeces and partially eaten fruit onto the pigs. Retrospective studies demonstrate that viral spillover into pigs may have been occurring in Malaysia since 1996 without detection. During 1998, viral spread was aided by the transfer of infected pigs to other farms where new outbreaks occurred (Wiki: Nipah virus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4220">
+		<vaccine_name>ALVAC-NiV-F</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004734</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3253">Canarypox virus-based vaccine vectors carrying the fusion protein (ALVAC-F) (Weingartl et al., 2006).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1759" gene_id="gene783">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3253">Canarypox virus-based vaccine vectors carrying the gene for NiV glycoprotein (ALVAC-G) or the fusion protein (ALVAC-F) (Weingartl et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1760" gene_id="gene782">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference3253">Canarypox virus-based vaccine vectors carrying the gene for NiV glycoprotein (ALVAC-G) or the fusion protein (ALVAC-F) (Weingartl et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1848" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3253">Four pigs per group were intramuscularly challenged, with either with 10^8 PFU each or in combination of (ALVAC-NiV-G and ALVAC-NiV-F) (Weingartl et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3253">The combined ALVAC-F/G vaccine induced the highest levels of neutralization antibodies (2,560); despite the low neutralizing antibody levels in the F vaccinees (160), all vaccinated animals appeared to be protected against challenge (Weingartl et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3253">The pigs were challenged with 2.5 x 10^5 PFU of NiV two weeks later (Weingartl et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4219">
+		<vaccine_name>ALVAC-NiV-G</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004733</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3253">Canarypox virus-based vaccine vectors carrying the gene for NiV glycoprotein (ALVAC-G) (Weingartl et al., 2006).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1757" gene_id="gene783">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3253">Canarypox virus-based vaccine vectors carrying the gene for NiV glycoprotein (ALVAC-G) or the fusion protein (ALVAC-F) (Weingartl et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1758" gene_id="gene782">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference3253">Canarypox virus-based vaccine vectors carrying the gene for NiV glycoprotein (ALVAC-G) or the fusion protein (ALVAC-F) (Weingartl et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1847" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3253">Four pigs per group were intramuscularly challenged, with either with 10^8 PFU each or in combination of (ALVAC-NiV-G and ALVAC-NiV-F) (Weingartl et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3253">The combined ALVAC-F/G vaccine induced the highest levels of neutralization antibodies (2,560); despite the low neutralizing antibody levels in the F vaccinees (160), all vaccinated animals appeared to be protected against challenge (Weingartl et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">The pigs were challenged with 2.5 x 10^5 PFU of NiV two weeks later (Weingartl et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine971">
+		<vaccine_name>NIpah Virus G and F Proteins Subunit Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011407</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering453" gene_id="gene783">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering454" gene_id="gene782">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response726" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1375">For protection studies, inbred golden hamsters (Janvier, Le Fenest St. Isles, France) were vaccinated twice (1 month apart) with 107 PFU of vaccinia virus recombinants expressing either the G or F Nipah virus glycoprotein or with 5 × 106 of each of the recombinants when they were used for coimmunization (Guillaume et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1375">Hamsters immunized with F and G proteins were completely protected from lethal Nipah virus challenge (Guillaume et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1375">The animals were challenged 3 months after the last immunization with Nipah virus administered interperitoneally (Guillaume et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4199">
+		<vaccine_name>rMV-Ed-G</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004714</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3239">Recombinant measles virus (rMV) vaccine expressing NiV envelope glycoproteins (rMV-HL-G and rMV-Ed-G) (Yoneda et al., 2013).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1756" gene_id="gene782">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3239">A recombinant measles virus (rMV) vaccine expressing NiV envelope glycoproteins (rMV-HL-G and rMV-Ed-G) (Yoneda et al., 2013).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1846" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3239">8-week-old golden hamsters were intraperitoneally immunized with 2×10^4 TCID50 of rMV-HL-G or rMV-Ed-G (Yoneda et al., 2013).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3239">All hamsters vaccinated with rMV-HL-G or rMV-Ed-G showed complete protection. During the observation period (14 days after the challenge), all hamsters immunized with the recombinant MVs showed no clinical symptoms of the disease and survived (Yoneda et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3239">All hamsters were challenged intraperitoneally with 10^3 TCID50/animal of NiV (Yoneda et al., 2013).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene783">
+        <gene_name>F fusion protein</gene_name>
+        <strain>Nipah virus</strain>
+        <vo_id>VO_0011314</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>8164021</ncbi_nucleotide_id>
+        <ncbi_protein_id>8164022</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAF73956.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:306910</xrefs>
+        <taxonomy_id>121791</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>fusion protein</protein_name>
+        <protein_pi>5.9</protein_pi>
+        <protein_weight>56616.49</protein_weight>
+        <protein_length>602</protein_length>
+        <protein_note>Fusion glycoprotein F0; pfam00523</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|8164021|gb|AF238466.1| Nipah virus fusion protein mRNA, complete cds
+AGGAGCCAAGCTCTTGCCTCGTTCAGAAGGTTAAACAAGCATTCTTACCATTGGATCAACAAAAGGATTG
+GTTTTATCGTCTAAGAAATTTATTGAAAGGCAAAGAAATTCCTGGTTTTATGTTGAATGAGGTGTATCAA
+ACTAAGGAGACCTTCTAACAGCCAGGTCATAGGAATATAAATAAAAATAAGAATAAAATTGATTCCATCG
+GAAGATTCATTTCAAGAAGTGATCAAATCAAAGCGGTTGGCAGACCTACCAATCATATACCACAAGACTC
+GACAATGGTAGTTATACTTGACAAGAGATGTTATTGTAATCTTTTAATATTGATTTTGATGATCTCGGAG
+TGTAGTGTTGGGATTCTACATTATGAGAAATTGAGTAAAATTGGACTTGTCAAAGGAGTAACAAGAAAAT
+ACAAGATTAAAAGCAATCCTCTCACAAAAGACATTGTTATAAAAATGATTCCGAATGTGTCGAACATGTC
+TCAGTGCACAGGGAGTGTCATGGAAAATTATAAAACACGATTAAACGGTATCTTAACACCTATAAAGGGA
+GCGTTAGAGATCTACAAAAACAACACTCATGACCTTGTCGGTGATGTGAGATTAGCCGGAGTTATAATGG
+CAGGAGTTGCTATTGGGATTGCAACCGCAGCTCAAATCACTGCAGGTGTAGCACTATATGAGGCAATGAA
+GAATGCTGACAACATCAACAAACTCAAAAGCAGCATTGAATCAACTAATGAAGCTGTCGTTAAACTTCAA
+GAGACTGCAGAAAAGACAGTCTATGTGCTGACTGCTCTACAGGATTACATTAATACTAATTTAGTACCGA
+CAATTGACAAGATAAGCTGCAAACAGACAGAACTCTCACTAGATCTGGCATTATCAAAGTACCTCTCTGA
+TTTGCTTTTTGTATTTGGCCCCAACCTTCAAGACCCAGTTTCTAATTCAATGACTATACAGGCTATATCT
+CAGGCATTCGGTGGAAATTATGAAACACTGCTAAGAACATTGGGTTACGCTACAGAAGACTTTGATGATC
+TTCTAGAAAGTGACAGCATAACAGGTCAAATCATCTATGTTGATCTAAGTAGCTACTATATAATTGTCAG
+GGTTTATTTTCCTATTCTGACTGAAATTCAACAGGCCTATATCCAAGAGTTGTTACCAGTGAGCTTCAAC
+AATGATAATTCAGAATGGATCAGTATTGTCCCAAATTTCATATTGGTAAGGAATACATTAATATCAAATA
+TAGAGATTGGATTTTGCCTAATTACAAAGAGGAGCGTGATCTGCAACCAAGATTATGCCACACCTATGAC
+CAACAACATGAGAGAATGTTTAACGGGATCGACTGAGAAGTGTCCTCGAGAGCTGGTTGTTTCATCACAT
+GTTCCCAGATTTGCACTATCTAACGGGGTTCTGTTTGCCAATTGCATAAGTGTTACATGTCAGTGTCAAA
+CAACAGGCAGGGCAATCTCACAATCAGGAGAACAAACTCTGCTGATGATTGACAACACCACCTGTCCTAC
+AGCCGTACTCGGTAATGTGATTATCAGCTTAGGGAAATATCTGGGGTCAGTAAATTATAATTCTGAAGGC
+ATTGCTATCGGTCCTCCAGTCTTTACAGATAAAGTTGATATATCAAGTCAGATATCCAGCATGAATCAGT
+CCTTACAACAGTCTAAGGACTATATCAAAGAGGCTCAACGACTCCTTGATACTGTTAATCCATCATTAAT
+AAGCATGTTGTCTATGATCATACTGTATGTATTATCGATCGCATCGTTGTGTATAGGGTTGATTACATTT
+ATCAGTTTTATCATTGTTGAGAAAAAGAGAAACACCTACAGCAGATTAGAGGATAGGAGAGTCAGACCTA
+CAAGCAGTGGGGATCTCTACTACATTGGGACATAGTGTATTCAGATTGATGAAATTATGTTAGAGAAATC
+AGAAAACTTCTGACTTTCAGAAATGGATTGTATACAATTAGTTAGATCATCCTGAATAATCGAGGTGAGA
+ACATTGCAACTATAAAATCAGATCATGTAAATAGTTGTAAAAAATTAAAAGCTTCTTTTAATTCTTTTGA
+ACAATAATTTAATTAATATATAACATATTCTCTCACACGAGCGCTAACCTATACACTCTCTACTAATATT
+TTATACTCATAATTAATGATATAATGACAAATAAGGATTCAAATTGGATTATGATATAGTTTCATACTAC
+AATAGCATTTCGACCAAGAAAATATCCTTACAATTATACAATGTACTTAACCGTGAATATGTAATTGATA
+ATTTCCCTTTAGAAATTTAATAAAAAA</dna_sequence>
+        <protein_sequence>>AAF73956.1 fusion protein [Nipah henipavirus]
+MVVILDKRCYCNLLILILMISECSVGILHYEKLSKIGLVKGVTRKYKIKSNPLTKDIVIKMIPNVSNMSQ
+CTGSVMENYKTRLNGILTPIKGALEIYKNNTHDLVGDVRLAGVIMAGVAIGIATAAQITAGVALYEAMKN
+ADNINKLKSSIESTNEAVVKLQETAEKTVYVLTALQDYINTNLVPTIDKISCKQTELSLDLALSKYLSDL
+LFVFGPNLQDPVSNSMTIQAISQAFGGNYETLLRTLGYATEDFDDLLESDSITGQIIYVDLSSYYIIVRV
+YFPILTEIQQAYIQELLPVSFNNDNSEWISIVPNFILVRNTLISNIEIGFCLITKRSVICNQDYATPMTN
+NMRECLTGSTEKCPRELVVSSHVPRFALSNGVLFANCISVTCQCQTTGRAISQSGEQTLLMIDNTTCPTA
+VLGNVIISLGKYLGSVNYNSEGIAIGPPVFTDKVDISSQISSMNQSLQQSKDYIKEAQRLLDTVNPSLIS
+MLSMIILYVLSIASLCIGLITFISFIIVEKKRNTYSRLEDRRVRPTSSGDLYYIGT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Hamsters were immunized subcutaneously with either 10^7 PFU of VV-NiV.G or VV-NiV.F expressing the G and F glycoproteins, respectively, or with the two combined.  When the VV-NiV.F-vaccinated animals were challenged with Nipah virus 3 months after the last immunization (1,000 PFU/animal intraperitoneally), there was complete protection against mortality [Ref1375:Guillaume et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene782">
+        <gene_name>G glycoprotein</gene_name>
+        <strain>Nipah henipavirus</strain>
+        <vo_id>VO_0011313</vo_id>
+        <ncbi_gene_id>920955</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>13559814</ncbi_protein_id>
+        <gene_locus_tag>Nvgp5</gene_locus_tag>
+        <gene_refseq>AF212302</gene_refseq>
+        <protein_refseq>NP_112027</protein_refseq>
+        <pdb_id>2VWD</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>121791</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>8709</gene_start>
+        <gene_end>11254</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>attachment glycoprotein</protein_name>
+        <protein_pi>8.36</protein_pi>
+        <protein_weight>62969.63</protein_weight>
+        <protein_length>602</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002728.1:8709-11254 Nipah virus, complete genome
+TAGGACCCAGGTCCATAACTCATTGGATACTTAACTGTATCTTTCTAAGCTATCACATATCAAAGGAGAG
+ATTGAATGCTTTTTTGGAGATCTAGATCATTACTATATGTGTCTCCTATAATCACATCATAGGAGTGAAC
+CATAATACACATCTTTGGGTAGGGGAAGGAAAGTATTGTTGACGTACTGATTGATCTGCTTGAGTCAAAT
+AATCAGTCATAACAATTCAAGAAAATGCCGGCAGAAAACAAGAAAGTTAGATTCGAAAATACTACTTCAG
+ACAAAGGGAAAATTCCTAGTAAAGTTATTAAGAGCTACTACGGAACCATGGACATTAAGAAAATAAATGA
+AGGATTATTGGACAGCAAAATATTAAGTGCTTTCAACACAGTAATAGCATTGCTTGGATCTATCGTGATC
+ATAGTGATGAATATAATGATCATCCAAAATTACACAAGATCAACAGACAATCAGGCCGTGATCAAAGATG
+CGTTGCAGGGTATCCAACAGCAGATCAAAGGGCTTGCTGACAAAATCGGCACAGAGATAGGGCCCAAAGT
+ATCACTGATTGACACATCCAGTACCATTACTATCCCAGCTAACATTGGGCTGTTAGGTTCAAAGATCAGC
+CAGTCGACTGCAAGTATAAATGAGAATGTGAATGAAAAATGCAAATTCACACTGCCTCCCTTGAAAATCC
+ACGAATGTAACATTTCTTGTCCTAACCCACTCCCTTTTAGAGAGTATAGGCCACAGACAGAAGGGGTGAG
+CAATCTAGTAGGATTACCTAATAATATTTGCCTGCAAAAGACATCTAATCAGATATTGAAGCCAAAGCTG
+ATTTCATACACTTTACCCGTAGTCGGTCAAAGTGGTACCTGTATCACAGACCCATTGCTGGCTATGGACG
+AGGGCTATTTTGCATATAGCCACCTGGAAAGAATCGGATCATGTTCAAGAGGGGTCTCCAAACAAAGAAT
+AATAGGAGTTGGAGAGGTACTAGACAGAGGTGATGAAGTTCCTTCTTTATTTATGACCAATGTCTGGACC
+CCACCAAATCCAAACACCGTTTACCACTGTAGTGCTGTATACAACAATGAATTCTATTATGTACTTTGTG
+CAGTGTCAACTGTTGGAGACCCTATTCTGAATAGCACCTACTGGTCCGGATCTCTAATGATGACCCGTCT
+AGCTGTGAAACCCAAGAGTAATGGTGGGGGTTACAATCAACATCAACTTGCCCTACGAAGTATCGAGAAA
+GGGAGGTATGATAAAGTTATGCCGTATGGACCTTCAGGCATCAAACAGGGTGACACCCTGTATTTTCCTG
+CTGTAGGATTTTTGGTCAGGACAGAGTTTAAATACAATGATTCAAATTGTCCCATCACGAAGTGTCAATA
+CAGTAAACCTGAAAATTGCAGGCTATCTATGGGGATTAGACCAAACAGCCATTATATCCTTCGATCTGGA
+CTATTAAAATACAATCTATCAGATGGGGAGAACCCCAAAGTTGTATTCATTGAAATATCTGATCAAAGAT
+TATCTATTGGATCTCCTAGCAAAATCTATGATTCTTTGGGTCAACCTGTTTTCTACCAAGCGTCATTTTC
+ATGGGATACTATGATTAAATTTGGAGATGTTCTAACAGTCAACCCTCTGGTTGTCAATTGGCGTAATAAC
+ACGGTAATATCAAGACCCGGGCAATCACAATGCCCTAGATTCAATACATGTCCAGAGATCTGCTGGGAAG
+GAGTTTATAATGATGCATTCCTAATTGACAGAATCAATTGGATAAGCGCGGGTGTATTCCTTGACAGCAA
+TCAGACCGCAGAAAATCCTGTTTTTACTGTATTCAAAGATAATGAAATACTTTATAGGGCACAACTGGCT
+TCTGAGGACACCAATGCACAAAAAACAATAACTAATTGTTTTCTCTTGAAGAATAAGATTTGGTGCATAT
+CATTGGTTGAGATATATGACACAGGAGACAATGTCATAAGACCCAAACTATTCGCGGTTAAGATACCAGA
+GCAATGTACATAAAAATCAACCTCATAATTTAATGGATTGATCTAATATAATGATAATAATCGTACAAAG
+ACATGTGATGTAAACAAAATTGTTGTAATTAAATAAGTCCTCAGCTGAATACTTTTTTAAGATTAGCAAT
+AGCATGTTTTTCCAGTTATTGGATAGTTGATAATATAATTCTGAAACTGGGTTAATAAATAATCTTGATC
+GGTGATCTTTGAGAACAATGATATCATATAGTTCATCAAGTGATAATCAATTCTTTATATGTACACTTTA
+GAGTATATTTTGAGACTTAGTATTTTCGGCCCGAATGTTAAATTTAATAGTTCATACATAACCTAAACTC
+AAGTTCTAAGCATAATGATAACAATTAATGCGAACTTGTCTTGATGTAAGGAAGATTTGATATTAACTGA
+GACTCCACTTGATATAGTAGAGCTGAATCTTGTAAATAAATTATAATGAATAGTTTATTCAAAGATTATC
+ATTCATATTAGTGTAAATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_112027.1 attachment glycoprotein [Nipah henipavirus]
+MPAENKKVRFENTTSDKGKIPSKVIKSYYGTMDIKKINEGLLDSKILSAFNTVIALLGSIVIIVMNIMII
+QNYTRSTDNQAVIKDALQGIQQQIKGLADKIGTEIGPKVSLIDTSSTITIPANIGLLGSKISQSTASINE
+NVNEKCKFTLPPLKIHECNISCPNPLPFREYRPQTEGVSNLVGLPNNICLQKTSNQILKPKLISYTLPVV
+GQSGTCITDPLLAMDEGYFAYSHLERIGSCSRGVSKQRIIGVGEVLDRGDEVPSLFMTNVWTPPNPNTVY
+HCSAVYNNEFYYVLCAVSTVGDPILNSTYWSGSLMMTRLAVKPKSNGGGYNQHQLALRSIEKGRYDKVMP
+YGPSGIKQGDTLYFPAVGFLVRTEFKYNDSNCPITKCQYSKPENCRLSMGIRPNSHYILRSGLLKYNLSD
+GENPKVVFIEISDQRLSIGSPSKIYDSLGQPVFYQASFSWDTMIKFGDVLTVNPLVVNWRNNTVISRPGQ
+SQCPRFNTCPEICWEGVYNDAFLIDRINWISAGVFLDSNQTAENPVFTVFKDNEILYRAQLASEDTNAQK
+TITNCFLLKNKIWCISLVEIYDTGDNVIRPKLFAVKIPEQCT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Hamsters were immunized subcutaneously with either 107 PFU of VV-NiV.G or VV-NiV.F expressing the G and F glycoproteins, respectively, or with the two combined.  When the VV-NiV.G-vaccinated animals were challenged with Nipah virus 3 months after the last immunization (1,000 PFU/animal intraperitoneally), there was complete protection against mortality [Ref1375:Guillaume et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1375">
+		<reference_name>Guillaume et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guillaume V, Contamin H, Loth P, Georges-Courbot MC, Lefeuvre A, Marianneau P, Chua KB, Lam SK, Buckland R, Deubel V, Wild TF</authors>
+		<title>Nipah virus: vaccination and passive protection studies in a hamster model</title>
+		<year>2004</year>
+		<volume>78</volume>
+		<issue>2</issue>
+		<pages>834-840</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1372">
+		<reference_name>Guillaume et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guillaume V, Contamin H, Loth P, Grosjean I, Courbot MC, Deubel V, Buckland R, Wild TF</authors>
+		<title>Antibody prophylaxis and therapy against Nipah virus infection in hamsters</title>
+		<year>2006</year>
+		<volume>80</volume>
+		<issue>4</issue>
+		<pages>1972-1978</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3253">
+		<reference_name>Weingartl et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Weingartl HM, Berhane Y, Caswell JL, Loosmore S, Audonnet JC, Roth JA, Czub M</authors>
+		<title>Recombinant nipah virus vaccines protect pigs against challenge</title>
+		<year>2006</year>
+		<volume>80</volume>
+		<issue>16</issue>
+		<pages>7929-7938</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1415">
+		<reference_name>Wiki:  Nipah virus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Henipavirus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Henipavirus</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3239">
+		<reference_name>Yoneda et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yoneda M, Georges-Courbot MC, Ikeda F, Ishii M, Nagata N, Jacquot F, Raoul H, Sato H, Kai C</authors>
+		<title>Recombinant measles virus vaccine expressing the Nipah virus glycoprotein protects against lethal Nipah virus challenge</title>
+		<year>2013</year>
+		<volume>8</volume>
+		<issue>3</issue>
+		<pages>e58414</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

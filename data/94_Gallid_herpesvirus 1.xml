@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen157">
+		<pathogen_name>Gallid herpesvirus 1</pathogen_name>
+		<taxon_id>10386</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Avian infectious laryngotracheitis, Fowl Laryngotracheitis</disease_name>
+		<protective_immunity refs="reference1584">ILTV infection of chickens frequently induces production of virus-neutralizing antibodies, but antibody titers correlate only poorly with protective immunity (Fuchs et al., 2007).</protective_immunity>
+		<host_range refs="reference1584">Like other avian herpesviruses, ILTV exhibits a very narrow host range both in vivo and in vitro. Besides domestic chickens, pheasants represent the only natural hosts. Furthermore, the virus could be isolated from peafowl, and experimental infections of turkeys have also been described (Fuchs et al., 2007).</host_range>
+		<introduction refs="reference1584">Infectious laryngotracheitis (ILT) is a worldwide occurring respiratory disease of chickens, which is caused by a virus designated as ILTV or gallid herpesvirus 1 (GaHV-1). Infectious laryngotracheitis virus (ILTV) is an alphaherpesvirus that causes an economically important chicken disease, which results in delayed growth, reduced egg production, and also frequently in death of the animals. After acute infection of the upper respiratory tract, the virus can establish latency in the central nervous system, and subsequent reactivations can lead to infection of naive chickens. For prevention of ILT, conventionally attenuated live vaccines are available. The severity of clinical symptoms depends on the virulence of a particular strain or isolate, and mortality rates can vary between 0 and more than 70%. Symptoms of milder forms of ILT are nasal discharge, conjunctivitis and reduced egg production, whereas severe forms are additionally characterized by gasping, coughing, expectoration of bloody mucus, and marked dyspnoea which may lead to suffocation. Pathomorphological alterations can be observed in conjunctiva, larynx, trachea, and sometimes also in the lungs and air sacs (Fuchs et al., 2007).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1142">
+		<vaccine_name>Avian Encephalomyelitis-Fowl Pox-Laryngotracheitis Live Virus, Live Fowl Pox Vector Vaccine (USDA: 10S1.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002038</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1903">
+		<vaccine_name>Fowl Laryngotracheitis Modified Live Virus Vaccine (USDA: 1601.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001671</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1904">
+		<vaccine_name>Fowl Laryngotracheitis Modified Live Virus Vaccine (USDA: 1601.02)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001672</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1905">
+		<vaccine_name>Fowl Laryngotracheitis Modified Live Virus Vaccine (USDA: 1601.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Lohmann Animal Health International, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001673</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1906">
+		<vaccine_name>Fowl Laryngotracheitis Modified Live Virus Vaccine (USDA: 1601.13)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001674</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1907">
+		<vaccine_name>Fowl Laryngotracheitis Modified Live Virus Vaccine (USDA: 1601.14)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001675</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1908">
+		<vaccine_name>Fowl Laryngotracheitis Modified Live Virus Vaccine (USDA: 1601.15)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001676</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1909">
+		<vaccine_name>Fowl Laryngotracheitis-Marek's Disease Serotype 3, Live Marek's Disease Vector Vaccine (USDA: 16J1.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002141</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1911">
+		<vaccine_name>Fowl Laryngotracheitis-Marek's Disease Serotypes 2 &amp; 3, Modified Live &amp; Live Marek's Disease Vector Vaccine (USDA: 16J1.R2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002142</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1920">
+		<vaccine_name>Fowl Pox-Laryngotracheitis Live Fowl Pox Vector Vaccine (USDA: 1F31.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002202</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3228">
+		<vaccine_name>Gallid herpesvirus 1 UL0 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002966</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Eye drop</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Eye drop</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering767" gene_id="gene1031">
+			<type>Gene mutation</type>
+			<description refs="reference1975">This UL0 mutant is from Gallid herpesvirus 1 (Veits et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1057" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1975">A UL0 mutant is attenuated in chickens (Veits et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1975">A UL0 mutant induces significant protection in chickens from challenge with wild type gallid herpesvirus 1 (Veits et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3229">
+		<vaccine_name>Gallid herpesvirus 1 UL23 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002967</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraocular immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraocular immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering768" gene_id="gene1045">
+			<type>Gene mutation</type>
+			<description refs="reference1985">This UL23 mutant is from Gallid herpesvirus 1 (Han et al., 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1058" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1985">A UL23 mutant is attenuated in chickens (Han et al., 2002).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1985">A UL23 mutant induces significant protection in chickens from challenge with wild type GHV-1 (Han et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3230">
+		<vaccine_name>Gallid herpesvirus 1 UL47 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002968</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intratracheal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intratracheal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering769" gene_id="gene1030">
+			<type>Gene mutation</type>
+			<description refs="reference1974">This UL47 mutant is from Gallid herpesvirus 1 (Helferich et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1059" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1974">A UL47 mutant is attenuated in chickens (Helferich et al., 2007).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1974">A UL47 mutant induces significant protection in chickens from challenge with wild type GHV-1 (Helferich et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3921">
+		<vaccine_name>Laryngotracheitis DNA Vaccine encoding gB</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004565</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1(+) [Ref2691:Chen et al., 2011]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1461" gene_id="gene1724">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1563" host_id="host55">
+			<immune_response refs="reference2691">Compared with the chickens in the pcDNA3.1(+) and PBS group, the chickens in the pgB with or without pIL-18 groups showed significantly increased levels of anti-ILTV antibodies with subsequent vaccination. In addition, an enhanced T-cell proliferative response to gB was clearly observed in the groups immunized with pgB alone or with pgB plus pIL-18 (Chen et al., 2011).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2691">At 21 days of age, the chickens were randomly divided into four groups of 20 chickens each. Chickens in group 1 were administered 150 μg plasmid pgB alone by intramuscular injection into the quadriceps muscle. Chickens in group 2 were immunized with 150 μg plasmid pgB plus 150 μg plasmid pIL-18. Chickens in group 3, which served as a negative-control group, were immunized with 150 μg plasmid pcDNA3.1(+). Chickens in group 4 were immunized with 0.5 ml sterile PBS alone as a blank control (Chen et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2691">The protection rates in the pgB and pgB plus pIL-18 groups were 60 and 80 %, respectively (Chen et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2691">At 15 days after the booster immunization, all of the chickens were challenged intratracheally with 150 EID50 virulent ILTV CG strain (Chen et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1724">
+        <gene_name>gB</gene_name>
+        <strain>Gallid herpesvirus 1 isolate CG</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>110676569</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:223014</xrefs>
+        <taxonomy_id>10386</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein B</protein_name>
+        <protein_pi>6.87</protein_pi>
+        <protein_weight>93635.88</protein_weight>
+        <protein_length>942</protein_length>
+        <protein_note>glycoprotein BALF4; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABG85153.1 glycoprotein B [Gallid alphaherpesvirus 1]
+MASLKMLICVCVAILIPSTLSQDSHGIAGIIDPRDTASMDVGKISFPEAIGSGAPKEPQIRNRIFACSSP
+TGASVARLAQPRHCHRHADSTNMTEGIAVVFKQNIAPYVFNVTLYYKHITTVTTWALFSRPQITNEYVTR
+VPIDYHEIVRIDRSGECSSKATYHKNFMFFEAYDNDEAEKKLPLVPSLLRSTVSKAFHTTNFTKRHQTLG
+YRTSTSVDCVVEYLQARSVYPYDYFGMATGDTVEISPFYTKNTTGPRRHSVYRDYRFLEIANYQVRDLET
+GQIRPPKKRNFLTDEQFTIGWDAMEEKESVCTLSKWIEVPEAVRVSYKNSYHFSLKDMTMTFSSGKQPFN
+ISRLHLAECVPTIASEAIDGIFARKYSSTHVRSGDIEYYLGSGGFLIAFQKLMSHGLAEMHLEEAQRQNH
+LPRGRERRQAAGRRTASLQSGPQGDRITTHSSATFAMLQFAYDKIQAHVNELIGNLLEAWCELQNHQLIV
+WHEMKKLNPNSLMTSLFGQPVSARLLGDIVAVSKCIETPIENIRMQDSMRMPGDPTMCYTRPVLIFRYSS
+SPESQFSTNSTENHNLDILGQLGEHNEILQGRNLIEPCMINHRRYFLLGENYLLYEDYTFVRQVNASEIE
+EVSIFINLNATILEDLDFVPVEVYTREELRDTGTLNYDDVVRYQNIYNKRFRDIDTVIRGDRGDAIFRAI
+ADFFGNTLGEVGKALGTVVMTAAAAVISTVSGIASFLSNPFAALGIGIAVVVSIILGLLAFKYVMNLKSN
+PVQVLFPGAVPPAGTPPRPSRRYYKDEEEVEEDSDEDDRILATRVLKGLELLHKDEQKARRQKARFSAFA
+KNMRNLFRRKPRTKEDDYPLLEYPSWAEESEDE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1031">
+        <gene_name>UL0</gene_name>
+        <strain>Gallid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3239037</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>148828637</ncbi_protein_id>
+        <gene_locus_tag>GaHV1_gp60</gene_locus_tag>
+        <gene_refseq>X97256</gene_refseq>
+        <protein_refseq>YP_182395</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10386</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>106974</gene_start>
+        <gene_end>109923</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>protein UL0</protein_name>
+        <protein_pi>6.59</protein_pi>
+        <protein_weight>53811.98</protein_weight>
+        <protein_length>506</protein_length>
+        <protein_note>UL0 family</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|57790931:106974-109923 Gallid herpesvirus 1, complete genome
+ATTTATTGTTTATCTCGCAATTTTACATATATTTTAACAGCAACAAGCTCCGCCCCAAAATAAACACCGG
+CGGAAAAAACATACTAATCTAAATTCCAGTCAATCGGTGACAGGCCCTTAGATTCGAAGTATTGATTTGC
+TTCCTCGAAATGGCGACAGTTGAACGGACGTCGCGTGCAGGTAGAAGGATGGATGAACTCCAACTTTAAA
+TGATTTTTAGGCACGCGGGGAATAAATCGTCTAGCTTCTTGGCCCCAAAGCATCAACACCGTAGATGACA
+ACTTTTCTAGTAGCGATGAGATCACTCCCTTTGTAAATTTGTCCCAGCCGATGGTTGAGTGCGATCTAGG
+AAAACCTTGTTCCACCGTCAAGTATTTGTTCAAAAGCAATACTCCCTTCCTGGCCCAAGATTCTAGACAC
+CCGTGAGTTTCCTTTGGAATAGATGGGTAACAGTCGCGTAGAGCTTCCAAAATGCGGCGCAAGCTGGGCG
+GTATACGGCACCCCCTAGGGACACTGAAAGCTAAGCCATGCGCGTGTCCTTCCGTGGGATACGGGTCTTG
+CCCAACGATAATAACACGCACATCTTGCGGATTGCAGTATCTTGTCCATGCAAAAATATCTCCTTTAGGA
+GGAAAGATTTTGCGGAATCTAGAACAGTAGGAGTACTGTAACAGCGTCTCACCGAAATCTTCATTTTCAA
+TTAGAGGTTTCAGAATTGACTCCCATGATGATGGTATTGAAAACTCTATGGCCACGTCGGTCCACTCCGG
+TACGAGCTTCCTCGCGGATGGTATAACCAATTGGACGGAAGTCATGCTCGGAGGGGGGAGAGTACGGCGT
+TTTTTAGCAGCGTTGGGGTCGGTATCTCTTTGGTTGCTTTCAGTAGGAGAGCTAATGTCCAGCGGACGCT
+TGAAGGGACTTTTTATGGGCTGCTCGCATAGTCCGGGTGATAGTGGTTGATGTTCGTTTCCGGCCATCTG
+AAATTTATGGTGGTCCTTTTATACAACGAATCAACAAGTCCACGAGCCAAGACGTTAGCAGCCGCAAGCC
+CGGTAGCTTCCAGCCGGTCTTGAAGAAGTCTAATCCCCAAGTACGGATTCACTTTTGCAGCGTACCCATT
+CTTATAGTAGAAAACAACTTCCGTGTTTACGCACAGAGGTCTGTAAATAATCACAGTCAAATTTTCAAAG
+TAGTCTCCCGATGGCAACGGCCCGAAAATTCGCGCACCGTTATCTCGCGAATTACTATCACATGGTGCGG
+CCGCGGCAGAAACAGGATCACGAAAAATGCCAGGTATATCGACACTTGAACATAGCATAAGAGATGCTAT
+TAGAAAAAAACAAGTCAACATTTTAAAAATCATTATCATATGGAGACCTAGGTCTCCGTTCACGATCCGT
+GTTACGTCGACGAGCAGATGGAACTCTTTGCGCCCGACTTCTAAATGGATCGTCGTCAGAATCTGAGTCG
+TCCGAATACAAATGTAGTGGTCTACAGGAACCAGTAGGTACTCTTTGTGGCGGACTTTTGAATGGATCGT
+CGTCCGAATCAGAGTCGTCCCAATATAAATATGACGGCCTAGATGGAGTACTTCGGCTCTGTAGTCCTGA
+AGGACCTTCACCTGCGTCATCGTTTCGCATGCGGAGGCTCCGATTCTGCATGGAATCGAGGTCTAAAATA
+CCTCTGTCTGCGGCGACGGGGGATTCGGGTTCATTCTTTATCCCCCCATGACGAGTCTGTGCACCAGTCG
+TATTTTGCCCTGCGCCATCATAATTAGACGAGGGGTGGTGGGGCGAAAGCTGTGGAGGGGAGCGTCTAGA
+TGGCGAGGGGAGGGATGATAACCTGAGGTCTAGGGCCGTAGGAGATGGCGCAGAAAATAAAGGGGGTATA
+GAGGACGGACGTGCGGGCGGTGGACTATGAGCGGGGCTATTTTCTATTTCATGCCGCACGACCCGTCGCA
+CCCACGACATCTCATATACATCTCGCACTTCTGCTCTACTCGCAAGGCCATAGTTGCCTTCCCCCTCTTC
+TGTCTCCGGTAACATAAACGTATCGGATACGGTGGTCGGCCGCTTTTTAACCATTGGATGTGCGAGCCCA
+ACTGGCTTGACGTCCGTGCTGTCATGAGACTCGCCTTTGACAGGAAGGCGGATCGACACCATCCCGGCGG
+AATTTTTAAAATATTTCAAATCCACCGTGAGTGGTCTGGTCAGCATGTCGGGCTGTATCGTCTCAGGAAT
+GGCCATTCCTACCCTGTACTCTAGACCCGATGCACTCTGTACCGTCGGGGTTTGTTCGTACGCCAAAAAG
+CTATCATATCCGCTAGGGTGATTCGTCGTAAACTCACGTATCCATCCATTGATCCTGGTTAGAAACGAGT
+AAAATACTTCAAGCATCTGTTCTTCATCCTGGAATGACAATTCCACTGCGCGTAGTGCGGAATTTGCTCC
+GCGCGTCACCAGATGACGCGCGTTTGAGATTTCTGGAGCTGAGGCGATTGCCATACTATAAACGACACTT
+TTAGCCCTCAGTAGAGTAGAATACAGCGCCTCAAAATTTCTCCACGTTAGTTGACGAGTTACAAACGTTT
+CAAGCATTATCGCCCTCAAAACGACTACAACGTCATCTATGGGGGATAGCCTTCCGGTATGGTGTCTTCG
+AGTTACTGGTCTTTCCTGTTCCAAAATAGTCTGGATGGCTTGGCGTTCTCCATCGGTAATAGGGGTACCG
+GCCTGCCGCCTGGTTTGAAGTAATCTCCTAACGCTTTCAACTGTTGTCGGAAAATAAGCTACAACAGAAA
+CCAAACCATTAATCCTCGTACCTCAAAAAATCTTACACGCGTCATCCCACCCCACAAACCACTTACGCCT
+CATCAAGACCCAGAAATCCATATAGTGCGCTTCATCGATGTCCGCCACGAATGCTATATTGAAATCTCCG
+TTCATTGTCA</dna_sequence>
+        <protein_sequence>>gi|148828637|ref|YP_182395.2| protein UL0 [Gallid herpesvirus 1]
+MTMNGDFNIAFVADIDEAHYMDFWVLMRPYFPTTVESVRRLLQTRRQAGTPITDGERQAIQTILEQERPV
+TRRHHTGRLSPIDDVVVVLRAIMLETFVTRQLTWRNFEALYSTLLRAKSVVYSMAIASAPEISNARHLVT
+RGANSALRAVELSFQDEEQMLEVFYSFLTRINGWIREFTTNHPSGYDSFLAYEQTPTVQSASGLEYRVGM
+AIPETIQPDMLTRPLTVDLKYFKNSAGMVSIRLPVKGESHDSTDVKPVGLAHPMVKKRPTTVSDTFMLPE
+TEEGEGNYGLASRAEVRDVYEMSWVRRVVRHEIENSPAHSPPPARPSSIPPLFSAPSPTALDLRLSSLPS
+PSRRSPPQLSPHHPSSNYDGAGQNTTGAQTRHGGIKNEPESPVAADRGILDLDSMQNRSLRMRNDDAGEG
+PSGLQSRSTPSRPSYLYWDDSDSDDDPFKSPPQRVPTGSCRPLHLYSDDSDSDDDPFRSRAQRVPSARRR
+NTDRERRPRSPYDNDF</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A UL0 mutant in infectious laryngotracheitis virus (ILTV) was attenuated. Chickens immunized with UL0-negative ILTV were protected from clinical disease after subsequent infection with virulent ILTV.  [Ref1975:Veits et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1045">
+        <gene_name>UL23</gene_name>
+        <strain>Gallid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3239035</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>57790948</ncbi_protein_id>
+        <gene_locus_tag>GaHV1_gp17</gene_locus_tag>
+        <gene_refseq>L36139</gene_refseq>
+        <protein_refseq>YP_182352</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10386</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>29808</gene_start>
+        <gene_end>34666</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>thymidine kinase</protein_name>
+        <protein_pi>5.45</protein_pi>
+        <protein_weight>37832.47</protein_weight>
+        <protein_length>364</protein_length>
+        <protein_note>2.7.1.21</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|57790931:29808-34666 Gallid herpesvirus 1, complete genome
+GTTTATTGATGTTTATGTTTCGGGTAATTATCCAAACAGATCAGGCCGCGTCGCAATTCCCATGTTCTTC
+CATGCTTCGGACACTGCTGTGCAAGCAGCCGTCTTAAAATCGCCTATCTCATCGGGGGTCCAATGAGAGT
+GCAATAAAATGCCGAGTCTAGGTGGATCGTACGCGTGGCAAATTGCTGCGCACAGAAACTTGCCGCACAT
+GGGAGTTTCTTCTAAAAGAGCGCGCCAGAAGGTAAAGCCTCGCCCAGTAAGCCAGCTAGTAGCTCTTGAT
+GCCCATGTATCTACCGCTAGATATGAGCGTTCGTCCGATGCCAATACCCCCGAAACTGGGAAAAACGCGC
+AAAGAATGTGAGTTCCTTTCGGAATCGAGGCTGTCTGCTGTGCGCGCGGTGGATGTATTTGGCTGTCGCC
+AATCGCAACACAAAACGGGATACGGAAAGCCCATTCTTCGCGGCAAGTAATTATCGGCGAAGCTATCTGT
+GATCGATACGCGCGTAACCCAGTAAATATCGCCGCTTGTAGTAGTCCGACGGGCGAGTGATGCGGGCTGT
+CTCCGTGCTTTAAATCAAGGATTTCTCCGCTTAGAGTAAGTGATGGAGGACTTTGAAAGAACAAGGCCCC
+GCTGAATGCGCGTACAGCAGCAACAACCGGAGAAAGTTCCAAATCCGAGATAAGTCCTAACATTAGAAAT
+CCGACTCCATCTTTCCACTTGTCTGCAGACAACAGTTTAAAAGGCAAATACTTGGCTCCAAAAGTCATCG
+GGTTTTTTGAATGCACGCTATCAGCTACGGCTTGCCATCTTTGGAAATTTTTTAAGGAAGCTCTTTTCAT
+GGCAAGAAGGAGCTGCTCGACGCCAATCTCTAAATTAGAATTAGTTGTGTAGGGAGTTCTAGTCATGATA
+ATTGCAGTAGAAGGAATTCCAGTGTCGTTGGAAAGGGATTCTTGCGGATCCTCAAATAATGGTGCTGCTA
+CGAATCGGATTTGAGAGTTATCGGGCTGTTTTGAGTCATGGTCTTGAAACACATGAATAGTCAAATCCTT
+GTTGCAATCCAGAAAAAACGATGCTGTGCCGTGCAGTACAGCTAGGCCATATTCTACCTTTTCTGTCCAT
+AGTTTTCCACGATGTGTTCCTAATTCCATGTGAGACGAGTCTACAAAGTTTGCGAGGCAGTGAGTTACTG
+CAAAACGACATTCGCGATTGCTGGTAGACAGTGCTTTGGAAGCCTGAGACTGCTTCTTTGACGGAGCCAT
+AGCCAGTTATTCGTGCTGCCGCAAGTGCAGTTGAAAAGGGTTTGTAAGGAACAAGGATTAAAGTTCGCTC
+TCCTCGTCAGACGGTAGCCGTACACGTCTAAATTGCGTTGCCGAGCTGAGGCAGAATTTATATATAGCCC
+TGATGGCACTCCATAGAGCAACCAATCCAACAAGTGCCCCTACCACAATACCGATAATGTATGCCTTGTC
+AAAAACTATTATGCTTCTGTCAAGTCCTAAAATTCGGACAGCAGTTCCGTGTGGTCCTAGAAGCGCGTAG
+TTATAGAACTCGGGGTTCATAGACTTAAAAAATGCAATAGATGAGTTGGCACCGGCTAACAGTTCTGATT
+GAACATATGCACTGTCTATAAAGAAAGCATCCTGGAACCCCCGTAGACCGTATTGAACTATCAGGTGGTT
+GCAATATATGCAAGTTTTCGCTCGTCCATTCAAATGACCATCCTCCATTTTTGCTGTTCGCGCGATTTGC
+GGTAGGGAGTTGCAACTTGAATTCACAAACGTTACAAACAAAGGGGCAGCTGTTGAGGTATCCGGAAGTC
+TGTAGGTCATTCCAGTGCTCGGCGGGCTACTTGTCATCACCCAACTAGAATGCGCGGTAACAGGGAGGAA
+AAATACGATGTGGTGTTCCAGGTCCCAGTTTAAACATTTCTTTACCTCTGGAAAAAACGCAGTTGCCAGG
+ATCTGAGGGGTCAACAGAGCTTGTGGCGGTATCGGTGCACTATATGATGGCAATTCACCTTCAGATGATA
+AATATATTTTGGTGTAAAAAAATCGAAATGGAGCAGATGCTGTCAGAATTATTTTCCATGGTGCACTTCT
+GGAAATATCAAACCTTGTCGCAATTGCACAAGGAGAAAACCACTCTTCAATTTTCGATGCCTGTCCTTTC
+TTGAAGCTCCCGTCTGGTTGGGAGTGAATCTCGTTGATATCGGCTAGCCGGTCGACAGAGCATAAAATTG
+TCATGCGCCTGAGGAAGTTCCTTCCATGTTGTATAGAAAGTTGAGGAGCCCGCAAAATAATGTACGTAGA
+AACTGCCAATAACTTTCTGTACGCGGGGGTCATTACCTTTTGTGTAATGATTTCTCTGTAACTGTTATCT
+ATTATTTCAAGAGCCAGTTGGCTGGGGGTCACTCCATCGATGCTCGCCAGGAATGCATTTTGGGGATCTT
+GTTCTGCAGTGATAAGCACCGCATTCATGATAGTAAGAAGCAGGTTATGATTTTTTATCATGGGTTCCCA
+TGGCCTGTCGTGCATAATTTTAAGAATACTGGATGGGATAGAAGTAAGAGCACCACCGACATTCTGAATA
+AAGCGAATATTCGTTGTATAGTTTACTGAATTCGCCCCCCCAAAACACACTGCGACTTGGTCTGCCCATG
+TTTGCGTTTCTGCAATAAACTCGACGATCTCCGAATCAGTTACGTATGCATCGATCGTAAACTTTAGAAA
+TCGAAACCACGCGGCCATAAACCGTGCTGCGAATCTTACAAAAAAAGACTCGTCTATGGTATTCGGGCAA
+CCTGCGATTGCGACCTTCTGCAAAGTTAAAAAGTGTCCCGCGGATATTTGTTCGTCGAAGCTGGCCAGCT
+CTAAGAAATCTTGAGCAGCGGTCGTTACTGCTGTAAACAAATTTGGCCGATAATTTGGTCCAGCTGCGAC
+GTTGATGCGCACAGTTAACCCCTGATCTTCAGCCTTCAGCATATAGGGCCATGACTTCAGGGACGTTTCT
+TTAACCTTCGCGCTGGTTGGTGTAATTATCATCTCTATTTGAGGAGAATGCTGGGTCGCGATTATAAGGG
+TCGCCACATTCAGTCCGATGTTAATCTTAAGATCTATGTCACTAGTAACTGCGAGGCTAATATATCGTGT
+AAACACAAATGGAAAAACAGTTTGTAAAGGATCACTGTAAATTACACGAATCGGAGCGATGATGCTCTCG
+CCCCTATGAACTGAGTTATTTGGTGGAAAGTTGACGAGTTTCGCAGATGTAAGTGCATTCCCCTTGTATC
+CTACCAAAAGTCGATGCTCAAGCTTTGGATCGTTGCTGAATTTTCGTGGTTGGATGGTAGCCTCGCTAGC
+AGAACCCCATCTCGAGTAAGTATAGGCTACGTACAGTTGTCCAAGCAAATCTAGAGCGATCGATAAATTC
+CTGTTAGCGCTTCCAGGAGGCCCAAAGATTAAGTTTCGATCGACAAGGCATAGTTGTGTGATGTGGCCGT
+TTTCGACTGCTGTCGCTATCGCAATGAATTCTTTCGGAGGGGCCAAATTTTCACTGGTGGGGGGCACGAA
+GACAATTTTTGCCTTTGCCTTGTCATCCCCTTTAGCTCTAAGTAATATCGCCAGAATGAGGAAAAATATT
+TCTCTCGCGTGTCCCATCGGCGCGGGTTGCTGGTGAAGCCACGCTCTCTCGAGTAAGAATGAGTACAAAG
+CAAGGAAATGAGTAAAGGACATACTCTTATTGTGAAGGATTATGGAAGCGGAACATTACGAACCCATATC
+AGCATTGTAGCGCTCTACTGCGTCAATTAAGCTCGCGATCGCCGCTCGTTTGGTTGTAAGAGAACTTGCC
+GTCTCGGCAAACTCTAAACATTTCAGTGCACATGCCTCCGGGGTGAGGCCATGTGCTGGTAAGTAAAAAA
+TGCACAAGTTTTTCAATACCGTCGCGAGTTTTTGAACCACAAATGAAAGTACAGTTTTTAATCTTTCCCC
+GTGAACATTTTGCTGATCAAAAGCTAATATTGCAAATAGCGTCTGGTCGATTGAAGGATTGATTTCTGGA
+ACAGTAGCAGTTTCTAAGCACTCTCTCTTGAATTTTAAGAGCGTGGCACTTGTTAAGGCTTCTTGCTCCT
+TCAACAATGCTGGATAAGATGTACGTTGGAGGTAGGTGGTAGTATTCATGAGGCAGATGTACGAGTTACG
+TAATGCACACAAATACGTCCAGTCGACCGTTTCCCCTGGGCGCCCCCTTTGTATTATACGCCGTGCCTGT
+TCGCAAATATCCAAATCCATTAAAACAATGTTGGAGTGTGTTGGAATGTCAGGAATTCCTGACAATAAAG
+TTATTAAATCTCCAAATTCGAGCGCTCCGCTTAGATATTGTGCAACAGGGAAACACAAACATGCCGCGAG
+TGGGTGCCTATCTACGAGGAATAAGACATCATCTGGTCCGGATGCAGCTGCGCTGTAGCAGCGTTCAGAT
+CCCAAATAATTATAAATGACGTGGTTCATTATTCTTAGTGGGGCAGCAATAGTCATCTGAACTTCCGCTA
+CGGCAACCGGAGACGCCTCCCGACATTCAAGTTTTCCGGAAGCCTTTAGGGTTTGTATTTCATTAATTTC
+TTTGATCATATCCGCTCCGCCAAACCATTGGCGCCATGCTTGCATAGGTTCCGCTAAGTATAGACGGCAA
+CCTCTCCAATTTGGCATTTGCATCAACGTCTTTGCAGTGACTGTTTTACCGACTCCGAATGGCCCGTCGA
+CGTAAAGAAGTACAACGCGGCGAAAGTCGGAGTCATCGTTCTCGAACTCGGAGCAAAACTGCACACCACC
+GGAAGTTTTCACGGCGCCAGCTACGGCCA</dna_sequence>
+        <protein_sequence>>gi|57790948|ref|YP_182352.1| thymidine kinase [Gallid herpesvirus 1]
+MAVAGAVKTSGGVQFCSEFENDDSDFRRVVLLYVDGPFGVGKTVTAKTLMQMPNWRGCRLYLAEPMQAWR
+QWFGGADMIKEINEIQTLKASGKLECREASPVAVAEVQMTIAAPLRIMNHVIYNYLGSERCYSAAASGPD
+DVLFLVDRHPLAACLCFPVAQYLSGALEFGDLITLLSGIPDIPTHSNIVLMDLDICEQARRIIQRGRPGE
+TVDWTYLCALRNSYICLMNTTTYLQRTSYPALLKEQEALTSATLLKFKRECLETATVPEINPSIDQTLFA
+ILAFDQQNVHGERLKTVLSFVVQKLATVLKNLCIFYLPAHGLTPEACALKCLEFAETASSLTTKRAAIAS
+LIDAVERYNADMGS</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A thymidine-kinase mutant is attenuated in chickens and induced protection from challenge with wild type GHV-1 [Ref1985:Han et al., 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1030">
+        <gene_name>UL47</gene_name>
+        <strain>Gallid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3239064</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>57790998</ncbi_protein_id>
+        <gene_locus_tag>GaHV1_gp67</gene_locus_tag>
+        <gene_refseq>EU104855</gene_refseq>
+        <protein_refseq>YP_182402</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10386</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>126615</gene_start>
+        <gene_end>129614</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>tegument protein VP13/14</protein_name>
+        <protein_pi>9.89</protein_pi>
+        <protein_weight>65621.89</protein_weight>
+        <protein_length>623</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|57790931:126615-129614 Gallid herpesvirus 1, complete genome
+AATGACCTTGCCCCATCGATTAACGAAAAGACCTTTCGCGCGTCGATTCTGCTCGGTCTTTGTGATACAT
+TATAGTGAGACTAAACTCGACCGATATAACAAGACAATGTTACTCTATAGACCGGACTCAACCATGCGGC
+ATAGCGGAGGCGACGCAAATCACAGAGGGATAAGGCCGAGGCGGAAATCTATTGGAGCGTTTAGCGCGCG
+CGAAAAGACTGGAAAACGAAATGCGCTGACGGAAAGCAGCTCCTCCTCCGACATGCTAGATCCGTTTTCC
+ACGGATAAGGAATTTGGCGGTAAGTGGACGGTAGACGGACCTGCCGACATTACTGCCGAGGTCCTTTCTC
+AGGCATGGGACGTTCTCCAATTAGTGAAGCATGAAGATGCGGAGGAGGAGAGAGTGACTTATGAGTCCAA
+ACCGACCCCGATACAGCCGTTCAATGCCTGGCCGGACGGGCCGAGTTGGAACGCGCAGGATTTTACTCGA
+GCGCCAATAGTTTATCCCTCTGCGGAGGTATTGGACGCAGAGGCGTTGAAAGTAGGGGCATTCGTTAGCC
+GAGTTTTACAATGTGTACCGTTCACGCGATCAAAGAAAAGCGTTACGGTGCGGGATGCGCAGTCGTTTTT
+GGGGGACTCGTTCTGGAGAATAATGCAGAACGTTTACACGGTTGTCTTACGACAGCACATAACTCGACTC
+AGGCACCCTTCCAGCAAAAGCATTGTTAACTGCAACGACCCTCTATGGTACGCCTACGCGAATCAATTTC
+ACTGGAGAGGAATGCGCGTGCCGTCGCTTAAATTAGCCTCTCCCCCGGAGGAGAATATTCAACACGGCCC
+AATGGCCGCCGTTTTTAGAAACGCGGGGGCTGGTCTGTTCCTGTGGCCTGCCATGCGCGCAGCCTTTGAA
+GAGCGCGACAAGCGACTGTTAAGAGCATGCCTGTCTTCACTCGATATCATGGACGCAGCCGTCCTCGCGT
+CGTTTCCATTTTACTGGCGCGGCGTCCAAGACACCTCGCGCTTCGAGCCTGCGCTGGGCTGTTTGTCAGA
+GTACTTTGCACTAGTGGTGTTACTGGCCGAGACGGTCTTAGCGACCATGTTCGACCACGCACTGGTATTC
+ATGAGGGCGCTGGCAGACGGCAATTTCGATGACTATGACGAAACTAGATATATAGACCCCGTTAAAAACG
+AGTACCTGAACGGAGCCGAGGGTACTCTGTTACGGGGCATAGTGGCCTCCAACACCGCTCTGGCGGTGGT
+TTGCGCAAACACCTATTCGACGATAAGAAAACTCCCGTCCGTGGCAACTAGCGCGTGCAATGTTGCCTAC
+AGGACCGAAACGCTGAAAGCGAGGCGCCCTGGCATGAGCGACATATACCGGATATTACAAAAAGAGTTTT
+TCTTTTACATTGCGTGGCTCCAGAGGGTTGCAACACACGCAAATTTCTGTTTAAACATTCTGAAGAGAAG
+CGTGGATACGGGGGCCCCGCCATTTTTGTTCAGGGCCAGCTCGGAGAAGCGGCTGCAGCAGTTAAATAAA
+ATGCTCTGCCCCCTTCTCGTGCCGATTCAATATGAAGACTTTTCGAAGGCCATGGGGTCTGAGCTCAAGA
+GGGAAAAGTTAGAGACATTCGTTAAAGCTATTTCCAGCGACAGGGACCCGAGGGGGTCCTTAAGATTTCT
+CATTTCGGACCATGCAAGGGAAATTATTGCAGACGGAGTACGGTTTAAGCCGGTGATAGACGAGCCGGTT
+CGGGCTTCAGTTGCGCTGAGTACCGCTGCCGCTGGGAAAGTGAAAGCGCGACGCTTAACCTCAGTTCGCG
+CGCCCGTACCGGGCGCAGGCGCCGTTTCCGCGCGCCGGAAATCGGAAATATGATAAAAATGCTTGGCATT
+TGCGGGCGAAGAGGCGTGATCTGAAGGGCTCCACAATGACGTAACTGAGCTACGCATCCCTATAAAGTGT
+ACCCGCTGACCGCTAGCCCATACAGTGTTACAGGAGGGGAGAGAGACAACTTCAGCTCGAAGTCTGAAGA
+GACATCATGAGCGGCTTCAGTAACATAGGATCGATTGCCACCGTTTCCCTAGTATGCTCGCTTTTGTGCG
+CATCTGTATTAGGGGCGCCGGTACTGGACGGGCTCGAGTCGAGCCCTTTCCCGTTCGGGGGCAAAATTAT
+AGCCCAGGCGTGCAACCGCACCACGATTGAGGTGACGGTCCCGTGGAGCGACTACTCTGGTCGCACCGAA
+GGAGTGTCAGTCGAGGTGAAATGGTTCTACGGGAATAGTAATCCCGAAAGCTTCGTGTTCGGGGTGGATA
+GCGAAACGGGCAGTGGACACGAGGACCTGTCTACGTGCTGGGCTCTAATCCATAATCTGAACGCGTCTGT
+GTGCAGGGCGTCTGACGCCGGGATACCTGATTTCGACAAGCAGTGCGAAAAAGTGCAGAGAAGACTGCGC
+TCCGGGGTGGAACTTGGTAGTTACGTGTCTGGCAATGGATCCCTGGTGCTGTACCCAGGGATGTACGATG
+CCGGCATCTACGCCTACCAGCTCTCAGTGGGTGGGAAGGGATATACCGGGTCTGTTTATCTAGACGTCGG
+ACCAAACCCCGGATGCCACGACCAGTATGGGTACACCTATTACAGCCTGGCCGACGAGGCGTCAGACTTA
+TCATCTTATGACGTAGCCTCGCCCGAACTCGACGGTCCTATGGAGGAAGATTATTCCAATTGTCTAGACA
+TGCCCCCGCTACGCCCATGGACAACCGTTTGTTCGCATGACGTCGAGGAGCAGGAAAACGCCACGGACGA
+GCTTTACCTATGGGACGAGGAATGCGCCGGTCCGCTGGACGAGTACGTCGACGAAAGGTCAGAGACGATG
+CCCAGGATGGTTGTCTTTTCACCGCCCTCTACGCTCCAGCAGTAGCCACCCGAGAGTGTTTTTTGTGAGC
+GCCCACGCAACATACCTAACTGCTTCATTTCTGATCAATTATTGCGTATTGAATAAATAA</dna_sequence>
+        <protein_sequence>>gi|57790998|ref|YP_182402.1| tegument protein VP13/14 [Gallid herpesvirus 1]
+MTLPHRLTKRPFARRFCSVFVIHYSETKLDRYNKTMLLYRPDSTMRHSGGDANHRGIRPRRKSIGAFSAR
+EKTGKRNALTESSSSSDMLDPFSTDKEFGGKWTVDGPADITAEVLSQAWDVLQLVKHEDAEEERVTYESK
+PTPIQPFNAWPDGPSWNAQDFTRAPIVYPSAEVLDAEALKVGAFVSRVLQCVPFTRSKKSVTVRDAQSFL
+GDSFWRIMQNVYTVVLRQHITRLRHPSSKSIVNCNDPLWYAYANQFHWRGMRVPSLKLASPPEENIQHGP
+MAAVFRNAGAGLFLWPAMRAAFEERDKRLLRACLSSLDIMDAAVLASFPFYWRGVQDTSRFEPALGCLSE
+YFALVVLLAETVLATMFDHALVFMRALADGNFDDYDETRYIDPVKNEYLNGAEGTLLRGIVASNTALAVV
+CANTYSTIRKLPSVATSACNVAYRTETLKARRPGMSDIYRILQKEFFFYIAWLQRVATHANFCLNILKRS
+VDTGAPPFLFRASSEKRLQQLNKMLCPLLVPIQYEDFSKAMGSELKREKLETFVKAISSDRDPRGSLRFL
+ISDHAREIIADGVRFKPVIDEPVRASVALSTAAAGKVKARRLTSVRAPVPGAGAVSARRKSEI</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A UL47 mutant in avian infectious laryngotracheitis virus is attenuated and provides protection in chicken against subsequent challenge infection with virulent ILTV [Ref1974:Helferich et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2691">
+		<reference_name>Chen et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen HY, Zhang HY, Li XS, Cui BA, Wang SJ, Geng JW, Li K</authors>
+		<title>Interleukin-18-mediated enhancement of the protective effect of an infectious laryngotracheitis virus glycoprotein B plasmid DNA vaccine in chickens</title>
+		<year>2011</year>
+		<volume>60</volume>
+		<issue>Pt 1</issue>
+		<pages>110-116</pages>
+		<journal_book_name>Journal of medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1584">
+		<reference_name>Fuchs et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fuchs W, Veits J, Helferich D, Granzow H, Teifke JP, Mettenleiter TC</authors>
+		<title>Molecular biology of avian infectious laryngotracheitis virus</title>
+		<year>2007</year>
+		<volume>38</volume>
+		<issue>2</issue>
+		<pages>261-279</pages>
+		<journal_book_name>Veterinary research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1985">
+		<reference_name>Han et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Han MG, Kweon CH, Mo IP, Kim SJ</authors>
+		<title>Pathogenicity and vaccine efficacy of a thymidine kinase gene deleted infectious laryngotracheitis virus expressing the green fluorescent protein gene</title>
+		<year>2002</year>
+		<volume>147</volume>
+		<issue>5</issue>
+		<pages>1017-1031</pages>
+		<journal_book_name>Archives of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1974">
+		<reference_name>Helferich et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Helferich D, Veits J, Teifke JP, Mettenleiter TC, Fuchs W</authors>
+		<title>The UL47 gene of avian infectious laryngotracheitis virus is not essential for in vitro replication but is relevant for virulence in chickens</title>
+		<year>2007</year>
+		<volume>88</volume>
+		<issue>Pt 3</issue>
+		<pages>732-742</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1975">
+		<reference_name>Veits et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Veits J, Lüschow D, Kindermann K, Werner O, Teifke JP, Mettenleiter TC, Fuchs W</authors>
+		<title>Deletion of the non-essential UL0 gene of infectious laryngotracheitis (ILT) virus leads to attenuation in chickens, and UL0 mutants expressing influenza virus haemagglutinin (H7) protect against ILT and fowl plague</title>
+		<year>2003</year>
+		<volume>84</volume>
+		<issue>Pt 12</issue>
+		<pages>3343-3352</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

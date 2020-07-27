@@ -1,0 +1,1701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen66">
+		<pathogen_name>Classical swine fever virus</pathogen_name>
+		<taxon_id>11096</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Classical swine fever, hog cholera</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1429">Swine fever is is a highly contagious disease of pigs and wild boar (Wiki: Classical swine fever).</host_range>
+		<introduction refs="reference1429">CSFV is closely related to the ruminant pestiviruses which cause Bovine Viral Diarrhoea (BVDV) and Border Disease (BDV).  The effect of different CSFV strains varies widely, leading to a wide range of symptoms. Highly virulent strains correlate with acute, obvious disease and high mortality, including neurological symptoms and hemorrhages within the skin.
+
+Less virulent strains can give rise to subacute or chronic infections that may escape detection, while still inducing mortality in fetuses and neonates.  Infected piglets birthed from infected but subclinical sows help maintain the disease within a population. Other symptoms can include lethargy, fever, immunosuppression and secondary respiratory infections. The incubation period of CSFV ranges from 2 to 14 days, but symptoms may not be apparent until after 2 to 4 weeks. Animals with an acute infection can survive 2 to 3 months before their eventual death.
+
+Eradicating CSF is problematic. Current programmes revolve around rapid detection and diagnosis, and preventive culling, possibly followed by emergency vaccination (ATCvet codes: QI09AA06 for the inactivated viral vaccine, QI09AD04 for the live vaccine). Possible sources for maintaining and introducing infection include the wide transport of pigs and pork products, as well as endemic CSF within wild boar and feral pig populations (Wiki: Classical swine fever).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine391">
+		<vaccine_name>Bayovac CSF E2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Bayovac CSF E2</brand_name>
+		<manufacturer>Bayer Leverkusen</manufacturer>
+		<vo_id>VO_0000951</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference815">Baculovirus recombinant E2 protein without emulsion(Moormann et al., 2000)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3876">
+		<vaccine_name>Classical Swine Fever Virus DNA Vaccine pcDNA/E2 with TRIF</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004524</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pRK-TRIF [Ref2593:Wan et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1426" gene_id="gene1032">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1519" host_id="host3">
+			<immune_response refs="reference2593">Co-delivery of the DNA vaccine pcDNA/E2 with the TRIF adjuvant enhanced the cellular, not humoral, immune responses induced by DNA vaccines in mice (Wan et al., 2010).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2593">All pigs co-immunized with pcDNA/E2 + pRK-TRIF survived viral challenge., though two pigs in this groups had a slight fever but recovered with 1 or 3 days and the remaining pig in this group had no CSF signs (Wan et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2593">All immunized pigs were intramuscularly challenged 2 weeks after the last immunization with 10^5 TCID50 highly virulent CSFV Shimen strain (Wan et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response1571" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2593">All pigs co-immunized with pcDNA/E2 + pRK-TRIF survived viral challenge., though two pigs in this groups had a slight fever but recovered with 1 or 3 days and the remaining pig in this group had no CSF signs (Wan et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2593">All immunized pigs were intramuscularly challenged 2 weeks after the last immunization with 105 TCID50 highly virulent CSFV Shimen strain (Wan et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3398">
+		<vaccine_name>Classical swine fever virus DNA vaccine pCI-gp55</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004340</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI [Ref2383:Hammond et al., 2001]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering944" gene_id="gene1032">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2383">Vector pCI expressed the gp55/E2 gene from classical swine fever virus (CSFV) (Hammond et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1202" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2383">Following challenge with CSFV, 100% of weaned pigs and 75% pre-weaned piglets were protected from disease (Hammond et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3254">
+		<vaccine_name>Classical swine fever virus E(rns) mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002952</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering798" gene_id="gene966">
+			<type>Gene mutation</type>
+			<description refs="reference1882">This E(rns) mutant is from Classical swine fever virus (Sainz et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1083" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1882">An E(rns) mutant is attenuated in swine (Sainz et al., 2008).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1882">An E(rns) mutant induces protection in swine from challenge with wild type CSVF (Sainz et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3255">
+		<vaccine_name>Classical swine fever virus E1 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002953</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering799" gene_id="gene965">
+			<type>Gene mutation</type>
+			<description refs="reference1881">This E1 mutant is from Classical swine fever virus (Fernandez-Sainz et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1084" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1881">An E1 mutant is attenuated in swine (Fernandez-Sainz et al., 2009).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1881">An E1 mutant induced protection in swine from challenge with wild type CSFV (Fernandez-Sainz et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine893">
+		<vaccine_name>Classical swine fever virus E1 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011509</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector>Baculovirus vector</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Classical swine fever virus gp55 encoding E1</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering367" gene_id="gene444">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1066">A recombinant virus BacEl[-], which expressed El without a C-terminal TMR, generated a protein that was secreted from the cells. The fraction of this protein that was found to be cell associated had a slightly lower molecular mass (49 to 52 kDa) than wild-type El and remained endo H sensitive. The high-mannose units of the secreted protein were trimmed during transport through the exocytotic pathway to endo H-resistant glycans, resulting in a protein with a lower molecular mass (46 to 48 kDa) (Hulst et al., 1993).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response805" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1066">Groups of two specific-pathogen-free, 10- to 12-week-old pigs were inoculated intramuscularly with a double water-oil emulsion of immunoaffinity-purified El on day 0. Pigs 1, 2, 3, and 4 were inoculated with 20 ug of El, and pigs 6, 7, 8, and 9 were inoculated with 100 ug of El. After 28 days, pigs 3 and 4 were vaccinated again with 20 ug and pigs 8 and 9 were vaccinated with 100 ug of immunoaffinity-purified El. Pigs 5 and 10 (control pigs) were inoculated on day 0 with a double water-oil emulsion of SF900 medium from Sf21 cells infected with wild-type AcNPV and vaccinated again with the same inoculum on day 28 (Hulst et al., 1993).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1066">Intramuscular vaccination of pigs with immunoaffinity-purified E1 (gp55) in a double water-oil emulsion elicited high titers of neutralizing antibodies between 2 and 4 weeks after vaccination at the lowest dose tested (20 micrograms). The vaccinated pigs were completely protected against intranasal challenge with 100 50% lethal doses of HCV (Classical swine fever virus) strain Brescia (Hulst et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1066">Pigs of all groups were challenged intranasally on day 42 with 100 50% lethal doses of HCV strain Brescia 456610, a challenge dose that, in unprotected pigs, leads to acute disease characterized by high fever and thrombocytopenia starting at days 3 to 5 and to death at days 7 to 11(Hulst et al., 1993).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3256">
+		<vaccine_name>Classical swine fever virus E2 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002954</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oronasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oronasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering800" gene_id="gene1032">
+			<type>Gene mutation</type>
+			<description refs="reference1976">This E2 mutant is from Classical swine fever virus (Maurer et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1085" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1976">An E2 mutant is attenuated in swine (Maurer et al., 2005).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1976">An E2 mutant induced significant protection in swine from challenge with wild type CSFV (Maurer et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine890">
+		<vaccine_name>Classical swine fever virus vaccine VAC-E0</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011427</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Recombinant Vaccinia Virus</vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs="">Classical swine fever virus envelope glycoprotein E0</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering364" gene_id="gene443">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1065">A 0.7-kbp fragment (corresponding to nucleotides 1114 to 1838 of CSFV Alfort Tu¨bingen which encompassed the coding sequence for all but 5 amino acids (aa) of CSFV E0 was isolated from plasmid pHCK11 by digestion with BglI and BanI. The missing codons were substituted for with synthetic adaptor oligonucleotides. The 59 adaptor BBA (59GATCCACCAT GGGGGCCCTGT39) linked the BglI site of the 0.7-kbp fragment to the BamHI site of pGS62 and contained a sequence according to Kozak’s rules. Besides the initial methionine, BBA coded for 3 aa: glycine (not found in the CSFV sequence) and alanine and leucine (corresponding to CSFV aa 250 and 251). The 39 adaptor BEA (59GTGCCTATGCCTGAGTTA39) connected the BanI site of the 0.7-kbp fragment to the EcoRI site of pGS62 and encoded amino acids corresponding to glycine 491 to alanine 494 of CSFV as well as a stop codon.  After ligation with adaptors BBA and BEA, the 0.7-kbp fragment was introduced into recombination vector pGS62 to derive plasmid pGS62-E0 (König et al., 1995). To generate a VVR vaccine, CVI cells were infected with vaccinia virus strain WR (VAC-WR) at a multiplicity of infection (MOI) of 0.05 and after 1 h were transfected with the respective recombination plasmids by using a mammalian transfection kit. After 48 h of incubation, virus progeny was harvested by repeated freezing and thawing. Selection for a thymidine kinase-negative phenotype on human 143tk2 cells was carried out with medium containing 1% agarose and 100 mg of bromodeoxyuridine per ml. VVR were isolated from thymidine kinase negative virus plaques and were plaque purified twice (König et al., 1995).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response649" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1065">Pigs were vaccinated with a single dose of VVR  (VAC-E0 or VAC-E2) or control strain VAC-WR by three different routes simultaneously (intradermally, intraperitoneally, and intravenously). A total of 5 x 10^7 PFU of VVR was given by each route. Clinical reactions after vaccination were monitored by daily examination (König et al., 1995).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1065">Swine vaccinated with VVR expressing E0 and/or E2 resisted a lethal challenge infection with CSFV. Glycoprotein E0 represents a second determinant for the induction of protective immunity against classical swine fever (König et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1065">The pigs were challenged intranasally 5 weeks after immunization with 2 x 10^7 50% tissue culture infective doses of CSFV Alfort Tu¨bingen. Clinical symptoms were monitored daily. Blood samples were taken at days 5 and 12 postinfection (p.i.) and at the slaughter of the animals (days 12 to 27 p.i.) (König et al., 1995).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine892">
+		<vaccine_name>Classical swine fever virus vaccine VAC-E2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011508</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Recombinant Vaccinia Virus</vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs="">Classical swine fever virus E2</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering366" gene_id="gene442">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1065">A 1.5-kbp DNA fragment (representing nucleotides 2433 to 3971 of CSFV Alfort Tu¨bingen) isolated from clone pHCK11 by NheI-HpaI digestion was ligated into plasmid pBR02-16/4. The resulting construct contained the nucleotide sequences for CSFV E2 and PRV-SP. Isolation of the PRV-SP E2 sequence and introduction into vector pGS62 gave rise to pGS62-E2 (König et al., 1995).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response651" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1065">Pigs were vaccinated with a single dose of VVR (VAC-E0 or VAC-E2) or control strain VAC-WR by three different routes simultaneously (intradermally, intraperitoneally, and intravenously). A total of 5 x 10^7 PFU of VVR was given by each route. Clinical reactions after vaccination were monitored by daily examination (König et al., 1995).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1065">Swine vaccinated with VVR expressing E0 and/or E2 resisted a lethal challenge infection with CSFV. Glycoprotein E0 represents a second determinant for the induction of protective immunity against classical swine fever (König et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1065">The pigs were challenged intranasally 5 weeks after immunization with 2 x 10^7 50% tissue culture infective doses of CSFV Alfort Tu¨bingen. Clinical symptoms were monitored daily. Blood samples were taken at days 5 and 12 postinfection (p.i.) and at the slaughter of the animals (days 12 to 27 p.i.) (König et al., 1995).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3864">
+		<vaccine_name>DNA vaccine expressing the E2 protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004514</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector>pcDNA3.1+ [Ref2525:Tarradas et al., 2011]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1421" gene_id="gene1032">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1500" host_id="host15">
+			<immune_response refs="reference2525">The vaccine is able to increase antibody-mediated responses, while enhancing the T helper cell response associated with the induction of neutralizing antibodies against CSFV (Tarradas et al., 2011).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2525">Groups of 3 pigs were used in each experimental group. Briefly, group 1 (pE2) was inoculated with 500 μg of plasmid pE2 in co-injection with 500 μg of pcDNA3.1 (empty plasmid, Invitrogen), group 2 (pE2 + pCCL20) was inoculated with 500 μg pE2 in co-injection with 500 μg of pCCL20, and the control group was injected with PBS. In all cases, three doses were administered intramuscularly in the neck every 12 days. Before every immunization (at days 0, 12 and 24), pigs were bled to follow the CSFV specific immunoresponse (Tarradas et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2525">Immunized animals with E2 DNA vaccine in co-administration with the plasmid containing swine CCL20 developed high titers of neutralizing antibodies against homologous and heterologous CSFV strains, and were totally protected upon a lethal viral challenge (Tarradas et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2525">Thirty-six days after the first immunization (pre-challenge), all pigs were challenged with 10^5 DICT50 of CSFV virulent Margarita strain by i.m. injection in the neck (Tarradas et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine390">
+		<vaccine_name>Porcilis Pesti</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Porcilis Pesti</brand_name>
+		<manufacturer>Intervet</manufacturer>
+		<vo_id>VO_0000981</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference814">Baculovirus recombinant E2 protein without emulsion(van, 2003)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4185">
+		<vaccine_name>rAdV-SFV-E2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004700</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3222">An adenovirus-vectored Semliki forest virus replicon construct expressing the E2 glycoprotein from CSFV, rAdV-SFV-E2 (Sun et al., 2013).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1719" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3222">Two immunizations with a dose as low as 6.25×10^5 TCID(50) or a single immunization with a dose of 10^7 TCID(50) rAdV-SFV-E2 provided complete protection against a lethal CSFV challenge (Sun et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4259">
+		<vaccine_name>rORFV-CSFV-E2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004768</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3283">(Voigt et al., 2007)   the recombinant parapoxvirus (PPV) Orf virus (ORFV) as a vaccine expressing the CSFV E2 glycoprotein to protect CSFV chellange.</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1690" gene_id="gene1032">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3283">Using the new recombinant parapoxvirus (PPV) Orf virus (ORFV) as a vaccine expressing the CSFV E2  (Voigt et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1752" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3283">Pigs were vaccinated with ORFV (Voigt et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3283">Vector virus vaccinated swine were able to cope with the lymphocyte and in particular B-cell depression in peripheral blood after challenge showing no clinical signs and no viremia. Also, the vaccinated swine demonstrated that a single intra-muscular application confers solid protection (Voigt et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3283">Pigs were challenged with CSFV (Voigt et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4234">
+		<vaccine_name>rPFV-CSFV-E0</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004748</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3265">CSFV E0 gene was amplified from the plasmid pMD18-T-E0 by PCR and cloned into the FPV-P11 and FPV-pSY (Wang et al., 2008).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1751" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3265">Piglets were immunized three times with recombinant Fowlpox virus (Wang et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3265">The protection experiment showed that 75% of piglets immunized three times with recombinant Fowlpox virus were survived, indicating that the recombinant Fowlpox virus was effective (Wang et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3265">The pigs were challenged with CSFV (Wang et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene966">
+        <gene_name>E(rns)</gene_name>
+        <strain>Classical swine fever virus - Brescia</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>130457</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:147625
+CDD:152325
+CDD:185828
+CDD:29472
+CDD:152822
+CDD:114308
+CDD:31829
+CDD:28927
+CDD:73158</xrefs>
+        <taxonomy_id>11098</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Genome polyprotein</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>N-terminal protease (By similarity). /FTId=PRO_0000038062.</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|130457|sp|P21530.1|POLG_CSFVB RecName: Full=Genome polyprotein; Contains: RecName: Full=N-terminal protease; Short=N-pro; AltName: Full=Autoprotease p20; Contains: RecName: Full=Capsid protein C; Contains: RecName: Full=E(rns) glycoprotein; AltName: Full=gp44/48; Contains: RecName: Full=Envelope glycoprotein E1; AltName: Full=gp33; Contains: RecName: Full=Envelope glycoprotein E2; AltName: Full=gp55; Contains: RecName: Full=p7; Contains: RecName: Full=Non-structural protein 2-3; Short=NS2-3; Contains: RecName: Full=Cysteine protease NS2; AltName: Full=Non-structural protein 2; Contains: RecName: Full=Serine protease NS3; AltName: Full=Non-structural protein 3; Contains: RecName: Full=Non-structural protein 4A; Short=NS4A; Contains: RecName: Full=Non-structural protein 4B; Short=NS4B; Contains: RecName: Full=Non-structural protein 5A; Short=NS5A; Contains: RecName: Full=RNA-directed RNA polymerase; AltName: Full=NS5B
+MELNHFELLYKTNKQKPMGVEEPVYDVTGRPLFGDPSEVHPQSTLKLPHDRGRGNIKTTLKNLPRRGDCR
+SGNHLGPVSGIYVKPGPVFYQDYMGPVYHRAPLEFFDEAQFCEVTKRIGRVTGSDGKLYHIYVCIDGCIL
+LKLAKRGEPRTLKWIRNLTDCPLWVTSCSDDGASASKEKKPDRINKGKLKIAPKEHEKDSRTKPPDATIV
+VEGVKYQVKKKGKVKGKNTQDGLYHNKNKPPESRKKLEKALLAWAVIAIMLYQPVAAENITQWNLRDNGT
+NGIQHAMYLRGVSRSLHGIWPEKICKGVPTYLATDTELREIQGMMVASEGTNYTCCKLQRHEWNKHGWCN
+WYNIDPWIQLMNRTQANLAEGPPSKECAVTCRYDKNADINVVTQARNRPTTLTGCKKGTNFSFAGTVIEG
+PCNFNVSVEDILYGDHECGSLLQDTALYLVDGMTNTIERARQGAARVTSWLGRQLRIAGKRLEGRSKTWF
+GAYALSPYCNVTTKIGYIWYTNNCTPACLPKNTKIIGPGKFDTNAEDGKILHEMGGHLSEFLLLSLVVLS
+DFAPETASALYLILHYVIPQSHEEPEGCDTNQLNLTVELRTEDVIPSSVWNVGKYVCVRPDWWPYETKVA
+LLFEEAGQVVKLALRALRDLTRVWNSASTTAFLICLIKVLRGQVVQGVIWLLLVTGAQGRLACKEDHRYA
+ISTTNEIGLHGAEGLTTTWKEYNHNLQLDDGTVKAICMAGSFKVTALNVVSRRYLASLHKDALPTSVTFE
+LLFDGTSPLTEEMGDDFGFGLCPYDTSPVVKGKYNTTLLNGSAFYLVCPIGWTGVIECTAVSPTTLRTEV
+VKTFRREKPFPYRRDCVTTTVENEDLFYCKWGGNWTCVKGEPVTYTGGPVKQCRWCGFDFNEPDGLPHYP
+IGKCILANETGYRIVDSTDCNRDGVVISTEGSHECLIGNTTVKVHALDERLGPMPCRPKEIVSSAGPVRK
+TSCTFNYAKTLRNRYYEPRDSYFQQYMLKGEYQYWFDLDVTDRHSDYFAEFIVLVVVALLGGRYVLWLIV
+TYIVLTEQLAAGLQLGQGEVVLIGNLITHTDIEVVVYFLLLYLVMRDEPIKKWILLLFHAMTNNPVKTIT
+VALLMVSGVAKGGKIDGGWQRLPETNFDIQLALTVIVVAVMLLAKKDPTTVPLVITVATLRTAKITNGLS
+TDLAIATVSTALLTWTYISDYYKYKTLLQYLISTVTGIFLIRVLKGVGELDLHTPTLPSYRPLFFILVYL
+ISTAVVTRWNLDIAGLLLQCVPTLLMVFTMWADILTLILILPTYELTKLYYLKEVKIGAERGWLWKTNFK
+RVNDIYEVDQAGEGVYLFPSKQKTGTITGTMLPLIKAILISCISNKWQFIYLLYLIFEVSYYLHKKIIDE
+IAGGTNFISRLVAALIEANWAFDNEEVRGLKKFFLLSSRVKELIIKHKVRNEVMVHWFGDEEVYGMPKLV
+GLVKAATLSKNKHCILCTVCENREWRGETCPKCGRFGPPVTCGMTLADFEEKHYKRIFFREDQSEGPVRE
+EYAGYLQYRARGQLFLRNLPVLATKVKMLLVGNLGTEVGDLEHLGWVLRGPAVCKKVTEHEKCTTSIMDK
+LTAFFGVMPRGTTPRAPVRFPTSLLKIRRGLETGWAYTHQGGISSVDHVTCGKDLLVCDTMGRTRVVCQS
+NNKMTDESEYGVKTDSGCPEGARCYVFNREAVNISGTKGAMVHLQKTGGEFTCVTASGTPAFFDLKNLKG
+WSGLPIFEASSGRVVGRVKVGKNEDSKPTKLMSGIQTVSKSTTDLTEMVKKITTMNRGEFRQITLATGAG
+KTTELPRSVIEEIGRHKRVLVLIPLRAAAESVYQYMRQKHPSIAFNLRIGEMKEGDMATGITYASYGYFC
+QMPQPKLRAAMVEYSFIFLDEYHCSTPEQLAIMGKIHRFSENLRVVAMTATPAGTVTTTGQKHPIEEYIA
+PEVMKGEDLGPEYLDIAGLKIPVEEMKSNMLVFVPTRNMAVETAKKLKAKGYNSGYYYSGEDPSNLRVVT
+SQSPYVVVATNAIESGVTLPDLDVVVDTGLKCEKRIRLSPKMPFIVTGLKRMAVTIGEQAQRRGRVGRVK
+PGRYYRSQETPVGSKDYHYDLLQAQRYGIEDGINITKSFREMNYDWSLYEEDSLMITQLEILNNLLISEE
+LPMAVKNIMARTDHPEPIQLAYNSYETQVPVLFPKIKNGEVTDSYDNYTFLNARKLGDDVPPYVYATEDE
+DLAVELLGLDWPDPGNQGTVEAGRALKQVVGLSTAENALLVALFGYVGYQALSKRHIPVVTDIYSIEDHR
+LEDTTHLQYAPNAIKTEGKETELKELAQGDVQRCMEAMTNYARDGIQFMKSQALKVKETPTYKETMDTVA
+DYVKKFMEALADSKEDIIKYGLWGTHTALYKSIGARLGNETAFATLVVKWLAFGGESIADHVKQAATDLV
+VYYIINRPQFPGDTETQQEGRKFVASLLVSALATYTYKSWNYNNLSKIVEPALATLPYAATALKLFAPTR
+LESVVILSTAIYKTYLSIRRGKSDGLLGTGVSAAMEIMSQNPVSVGIAVMLGVGAVAAHNAIEASEQKRT
+LLMKVFVKNFLDQAATDELVKESPEKIIMALFEAVQTVGNPLRLVYHVYGVFYKGWEAKELAQRTAGRNL
+FTLIMFEAVELLGVDSEGKIRQLSSNYILELLYKFRDSIKSSVRQMAISWAPAPFSCDWTPTDDRIGLPQ
+DNFLRVETKCPCGYKMKAVKNCAGELRLLEEEGSFLCRNKFGRGSRNYRVTKYYDDNLSEIKPVIRMEGH
+VELYYKGATIKLDFNNSKTILATDKWEVDHSTLVRVLKRHTGAGYCGAYLGEKPNHKHLIERDCATITKD
+KVCFLKMKRGCAFTYDLSLHNLTRLIELVHKNNLEDKEIPAVTVTTWLAYTFVNEDIGTIKPAFGEKITP
+EMQEEITLQPAVLVDATDVTVTVVGETPTMTTGETPTTFTSSGPDPKGQQVLKLGVGEGQYPGTNPQRAS
+LHEAIQSADERPSVLILGSDKATSNRVKTVKNVKVYRGRDPLEVRDMMRRGKILVIALSRVDNALLKFVD
+YKGTFLTRETLEALSLGRPKKKNITKAEAQWLLRLEDQMEELPDWFAAGEPIFLEANIKHDRYHLVGDIA
+TIKEKAKQLGATDSTKISKEVGAKVYSMKLSNWVMQEENKQSNLTPLFEELLQQCPPGGQNKTAHMVSAY
+QLAQGNWMPTSCHVFMGTISARRTKTHPYEAYVKLRELVEEHKMKTLCPGSSLRNDNEWVIGKIKYQGNL
+RTKHMLNPGKVAEQLHREGHRHNVYNKTIGSVMTATGIRLEKLPVVRAQTDTTNFHQAIRDKIDKEENLQ
+TPGLHKKLMEVFNALKRPELESSYDAVEWEELERGINRKGAAGFFERKNIGEILDSEKIKVEEIIDNLKK
+GRNIKYYETAIPKNEKRDVNDDWTAGDFVDEKKPRVIQYPEAKTRLAITKVMYKWVKQKPVVIPGYEGKT
+PLFQIFDKVKKEWDQFQNPVAVSFDTKAWDTQVTTNDLELIKDIQKYYFKKKWHKFIDTLTMHMSEVPVI
+TADGEVYIRKGQRGSGQPDTSAGNSMLNVLTMVYAFCEATGVPYKSFDRVAKIHVCGDDGFLITERALGE
+KFASKGVQILYEAGKPQKITEGDKMKVAYQFADIEFCSHTPIQVRWSDNTSSYMPGRNTTTILAKMATRL
+DSSGERGTIAYEKAVAFSFLLMYSWNPLIRRICLLVLSTELQVKPGKSTTYYYEGDPISAYKEVIGHNLF
+DLKRTSFEKLAKLNLSMSVLGAWTRHTSKRLLQDCVNMGVKEGNWLVNADRLVSSKTGNRYVPGEGHTLQ
+GRHYEELALARKQINSFQGTDRYNLGPIVNMVLRRLRVMMMTLIGRGV</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An N269A/Q mutation in the E(rns) protein created an attenuated mutant in swine. This mutant was able to induce effective protection in swine against challenge with wild type CSFV [Ref1882:Sainz et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene443">
+        <gene_name>E0</gene_name>
+        <strain></strain>
+        <vo_id>VO_0010898</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>115343287</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:294141
+CDD:238220</xrefs>
+        <taxonomy_id>11096</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>envelope glycoprotein E0</protein_name>
+        <protein_pi>7.85</protein_pi>
+        <protein_weight>25600.45</protein_weight>
+        <protein_length>313</protein_length>
+        <protein_note>Ribonuclease T2 (RNase T2) is a widespread family of secreted RNases found in every organism examined thus far. This family includes RNase Rh, RNase MC1, RNase LE, and self-incompatibility RNases (S-RNases). Plant T2 RNases are expressed during leaf...; cl00208</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABI94604.1 envelope glycoprotein E0, partial [Classical swine fever virus]
+ENITQWNLSDNGTNGIQRAMYLRGVNRSLHGIWPEKICKGVPTHLATDTELTEIRGMMDASERTNYTCCR
+LQRHEWNKHGWCNWYNVDPWIQLMNRTQANLTEGPSDKECAVTCRYDRNADVNVVTQARNRPTTLTGCRK
+GKNFSFAGTVIEGPCNFNVSVEDILYGDHECGSLLQDTALYLLDGMTNTIENARQGAARVTSWLGRQLST
+AGKKLERRSKTWFGAYALSPYC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Swine vaccinated with VVR expressing E0 and/or E2 resisted a lethal challenge infection with CSFV. Glycoprotein E0 represents a second determinant for the induction of protective immunity against classical swine fever [Ref1065:König et al., 1995].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene965">
+        <gene_name>E1</gene_name>
+        <strain>Classical swine fever virus - Brescia</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>325460</ncbi_nucleotide_id>
+        <ncbi_protein_id>325461</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAA43843.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11098</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>envelope glycoprotein E1</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|325460|gb|M31768.1|HCVCG3PE Classical swine fever virus - Brescia hog cholera virus protein precursor, gene, complete cds
+AGTTCATTCTCGTGTACATGATTGGACAAATCAAAATCTCAATTTGGTTCAGGGCCTCCCTCCAGCGACG
+GCCGAGCTGGGCTAGCCATGCCCACAGTAGGACTAGCAAACGGAGGGACTAGCCGTAGTGGCGAGCTCCC
+TGGGTGGTCTAAGTCCTGAGTACAGGACAGTCGTCAGTAGTTCGACGTGAGCAGAAGCCCACCTCGAGAT
+GCTATGTGGACGAGGGCATGCCCAAGACACACCTTAACCTAGCGGGGGTCGTTAGGGTGAAATCACACCA
+TGTGATGGGAGTACGACCTGATAGGGTGCTGCAGAGGCCCACTATTAGGCTAGTATAAAAATCTCTGCTG
+TACATGGCACATGGAGTTGAATCATTTTGAACTTTTATACAAAACAAACAAACAAAAACCAATGGGAGTG
+GAGGAACCGGTATACGATGTAACGGGGAGACCATTGTTTGGAGACCCAAGTGAGGTACACCCACAATCAA
+CATTGAAGCTACCACATGATAGGGGGAGAGGCAACATCAAAACAACACTGAAGAATCTACCTAGGAGAGG
+TGACTGCAGGAGTGGCAACCACCTAGGCCCGGTTAGTGGGATATATGTAAAGCCCGGCCCTGTCTTTTAT
+CAGGACTACATGGGCCCAGTCTATCATAGAGCCCCTCTGGAGTTTTTTGACGAAGCACAGTTCTGTGAGG
+TGACCAAAAGGATAGGTAGGGTGACAGGTAGTGACGGAAAGCTTTACCATATATACGTGTGCATCGATGG
+TTGCATCCTGCTGAAGCTAGCCAAGAGGGGCGAGCCAAGAACCCTGAAGTGGATTAGAAATCTCACCGAC
+TGTCCATTGTGGGTTACCAGTTGTTCTGATGATGGTGCAAGTGCAAGTAAAGAGAAGAAACCAGATAGGA
+TCAACAAGGGTAAATTAAAGATAGCCCCAAAAGAGCATGAGAAGGACAGCAGGACTAAGCCACCTGATGC
+TACGATTGTAGTGGAAGGAGTAAAATACCAGGTCAAAAAGAAAGGTAAAGTTAAGGGAAAGAATACCCAA
+GACGGCCTGTACCACAACAAGAATAAACCACCAGAATCTAGGAAGAAATTAGAAAAAGCCCTATTGGCAT
+GGGCAGTGATAGCAATTATGTTATACCAACCTGTTGCAGCCGAAAATATAACTCAATGGAACCTGAGAGA
+CAACGGTACCAATGGTATCCAGCACGCTATGTACCTTAGAGGAGTCAGCAGAAGCTTGCATGGGATCTGG
+CCAGAAAAAATATGCAAAGGAGTCCCCACCTACCTGGCCACAGACACGGAACTGAGAGAAATACAGGGAA
+TGATGGTAGCCAGCGAGGGGACAAACTATACGTGCTGTAAGTTACAGAGACATGAATGGAACAAACATGG
+ATGGTGTAACTGGTATAACATAGACCCCTGGATACAGTTAATGAATAGAACCCAAGCAAACTTGGCAGAA
+GGCCCTCCGAGCAAGGAGTGCGCCGTGACTTGCAGGTACGATAAAAATGCTGACATTAACGTGGTCACCC
+AGGCCAGAAACAGGCCAACCACCCTAACTGGCTGCAAGAAAGGGACCAATTTTTCTTTTGCGGGTACAGT
+TATAGAGGGCCCATGTAATTTCAACGTTTCTGTCGAGGATATCTTATATGGGGATCATGAGTGTGGCAGT
+CTACTCCAGGATACGGCTCTATACCTAGTAGATGGAATGACCAACACTATAGAGAGAGCCAGGCAGGGAG
+CCGCGAGGGTGACATCTTGGCTAGGGAGGCAACTCCGCATTGCCGGGAAGAGGTTGGAGGGCAGAAGCAA
+AACCTGGTTTGGTGCCTATGCCCTATCACCTTATTGTAATGTGACAACGAAAATAGGGTACATATGGTAC
+ACTAACAACTGTACCCCGGCTTGCCTCCCCAAAAATACAAAGATAATAGGCCCCGGTAAATTTGACACTA
+ACGCGGAAGACGGAAAGATTCTCCATGAGATGGGGGGCCACCTATCAGAATTTCTGCTGCTCTCTCTGGT
+CGTTCTGTCTGACTTCGCCCCTGAAACAGCCAGCGCGTTATACCTCATTTTGCACTACGTGATCCCTCAA
+TCCCATGAAGAACCTGAAGGCTGTGACACAAACCAGCTGAATTTAACAGTGGAACTCAGGACTGAAGACG
+TGATACCATCATCAGTCTGGAATGTTGGCAAATATGTGTGTGTTAGACCAGACTGGTGGCCATATGAAAC
+CAAGGTGGCTTTGTTATTTGAAGAGGCAGGACAGGTCGTAAAGTTAGCCTTGCGGGCACTGAGGGATTTA
+ACCAGGGTCTGGAATAGCGCATCAACCACGGCATTCCTCATCTGCTTGATAAAAGTATTAAGAGGACAGG
+TCGTGCAAGGTGTGATATGGCTGTTACTGGTAACTGGGGCACAAGGCCGGCTAGCCTGCAAGGAAGATCA
+CAGGTACGCTATATCAACAACCAATGAGATAGGGCTACATGGGGCCGAAGGTCTCACTACCACCTGGAAA
+GAATACAACCACAATTTGCAACTGGATGATGGGACCGTCAAGGCCATCTGCATGGCAGGTTCCTTTAAAG
+TCACAGCACTTAATGTGGTTAGTAGGAGGTATCTGGCATCATTACATAAGGACGCTTTACCCACTTCCGT
+GACATTCGAGCTCCTGTTCGACGGGACCAGCCCATTGACCGAGGAAATGGGAGATGACTTCGGGTTCGGA
+CTGTGTCCGTATGATACGAGCCCTGTAGTCAAGGGAAAATACAACACAACCTTGTTGAATGGTAGTGCAT
+TCTACCTAGTTTGCCCAATAGGGTGGACGGGTGTTATAGAGTGCACGGCAGTGAGCCCGACAACTCTGAG
+AACAGAAGTGGTAAAGACCTTCAGAAGAGAGAAACCCTTTCCGTACAGAAGGGATTGTGTGACCACTACA
+GTGGAAAATGAAGATCTATTCTACTGTAAATGGGGGGGCAATTGGACATGTGTGAAAGGTGAACCAGTGA
+CCTACACGGGGGGGCCAGTAAAACAATGCAGATGGTGTGGCTTCGACTTCAATGAGCCTGACGGACTCCC
+ACACTACCCCATAGGTAAGTGCATTTTGGCAAATGAGACAGGTTACAGAATAGTGGATTCAACGGACTGT
+AACAGAGATGGCGTTGTAATCAGCACAGAGGGGAGTCATGAGTGCTTGATTGGTAACACAACTGTCAAGG
+TGCATGCATTAGATGAAAGACTAGGCCCTATGCCATGCAGGCCTAAGGAGATCGTCTCTAGTGCGGGACC
+TGTAAGGAAAACTTCCTGTACATTCAACTACGCAAAAACTCTGAGGAACAGGTATTATGAGCCCAGGGAC
+AGCTATTTCCAACAATATATGCTCAAGGGCGAGTATCAGTACTGGTTTGATCTGGATGTGACCGACCGCC
+ACTCAGATTACTTCGCAGAATTCATTGTCTTGGTGGTGGTGGCACTGTTGGGAGGAAGATATGTCCTGTG
+GCTAATAGTGACCTACATAGTTCTAACAGAACAACTCGCCGCTGGTCTACAGTTAGGCCAGGGTGAGGTA
+GTGTTAATAGGGAACTTAATCACCCACACAGATATTGAGGTTGTAGTATATTTCTTACTGCTCTATTTGG
+TCATGAGAGATGAGCCTATAAAGAAATGGATACTACTGCTGTTCCATGCTATGACCAACAATCCAGTTAA
+GACCATAACAGTGGCACTGCTCATGGTTAGCGGGGTTGCCAAGGGTGGAAAGATAGATGGTGGTTGGCAG
+CGGCTGCCGGAGACCAACTTTGATATCCAACTCGCGCTGACAGTTATAGTAGTCGCTGTGATGTTGCTGG
+CAAAGAAAGATCCGACTACCGTCCCCTTGGTTATAACGGTGGCAACCCTGAGAACGGCTAAGATAACTAA
+TGGACTTAGTACAGATCTAGCCATAGCTACAGTGTCAACAGCTTTGCTAACCTGGACCTACATTAGTGAC
+TATTATAAATACAAGACCTTGCTACAGTACCTTATTAGCACAGTGACAGGTATCTTCTTGATAAGGGTAC
+TGAAGGGGGTAGGTGAGTTAGATTTACACACCCCAACCTTACCATCTTACAGACCCCTCTTCTTCATCCT
+CGTGTACCTCATTTCCACTGCAGTGGTAACAAGATGGAATCTGGACATAGCCGGATTGCTGCTGCAGTGT
+GTCCCAACCCTTTTAATGGTTTTCACGATGTGGGCAGACATCCTTACCCTGATCCTCATACTGCCTACTT
+ACGAGTTGACAAAACTATATTACCTCAAGGAAGTGAAGATTGGGGCAGAAAGGGGCTGGTTGTGGAAGAC
+CAACTTCAAGAGGGTAAATGACATATACGAAGTTGACCAAGCTGGTGAGGGGGTGTACCTTTTCCCATCA
+AAACAAAAGACAGGTACAATAACAGGTACTATGTTGCCACTGATCAAAGCCATACTCATAAGTTGCATCA
+GCAATAAGTGGCAATTTATATATCTATTGTACTTGATATTCGAAGTGTCTTACTACCTTCACAAGAAGAT
+CATAGATGAAATAGCAGGAGGGACCAACTTCATCTCGAGACTTGTAGCCGCTCTGATCGAAGCCAATTGG
+GCCTTTGACAACGAAGAAGTTAGAGGTTTAAAGAAGTTCTTCTTGCTGTCTAGTAGGGTTAAAGAACTGA
+TCATCAAACACAAAGTGAGGAATGAAGTGATGGTCCACTGGTTTGGCGACGAAGAGGTCTATGGGATGCC
+GAAGCTGGTTGGCTTAGTCAAGGCAGCAACACTGAGTAAAAATAAACATTGTATTTTGTGCACCGTCTGT
+GAAAACAGAGAGTGGAGAGGAGAAACCTGCCCAAAATGCGGCCGTTTTGGGCCACCAGTGACCTGTGGCA
+TGACCCTAGCCGACTTTGAAGAAAAACACTATAAGAGGATTTTCTTTAGAGAGGATCAATCAGAAGGGCC
+GGTTAGGGAGGAGTATGCAGGGTATCTGCAATATAGAGCCAGAGGGCAATTATTCCTGAGGAATCTCCCG
+GTGCTAGCAACAAAAGTCAAGATGCTCCTGGTCGGAAATCTTGGGACGGAGGTGGGGGATTTGGAACACC
+TTGGCTGGGTGCTCAGAGGGCCTGCCGTTTGCAAGAAGGTTACCGAACATGAGAAATGCACCACATCCAT
+AATGGACAAATTAACTGCTTTCTTCGGTGTTATGCCAAGGGGCACCACACCTAGAGCCCCTGTGAGATTC
+CCCACCTCTCTCTTAAAGATAAGAAGGGGGCTGGAAACTGGCTGGGCGTACACACACCAAGGTGGCATCA
+GTTCAGTGGACCATGTCACTTGTGGGAAAGACTTACTGGTATGTGACACTATGGGCCGGACAAGGGTTGT
+TTGCCAATCAAATAACAAGATGACAGACGAGTCCGAGTATGGAGTTAAAACTGACTCCGGATGCCCGGAG
+GGAGCTAGGTGTTACGTGTTCAACCGAGAGGCAGTTAATATATCCGGGACTAAAGGAGCTATGGTCCACT
+TACAAAAAACTGGAGGAGAATTCACCTGTGTGACAGCATCAGGGACTCCGGCCTTCTTTGATCTCAAGAA
+CCTCAAAGGCTGGTCAGGGCTACCGATATTTGAGGCATCAAGTGGAAGAGTAGTCGGCAGGGTTAAGGTC
+GGGAAGAATGAGGACTCTAAACCAACCAAGCTTATGAGTGGAATACAAACAGTCTCCAAAAGTACCACAG
+ACTTGACAGAAATGGTAAAGAAAATAACAACCATGAACAGGGGAGAATTCAGACAAATAACCCTTGCCAC
+AGGTGCCGGAAAAACCACGGAACTCCCTAGATCAGTCATAGAAGAGATAGGAAGGCATAAGAGGGTCTTG
+GTCTTGATCCCTCTGAGGGCGGCAGCAGAGTCAGTATACCAATATATGAGACAAAAACACCCAAGCATAG
+CATTCAACTTGAGGATAGGGGAGATGAAGGAAGGGGACATGGCCACAGGGATAACCTATGCCTCATATGG
+TTACTTCTGTCAGATGCCACAACCTAAGCTGCGAGCCGCGATGGTTGAGTACTCCTTCATATTCCTTGAT
+GAGTACCACTGTTCCACCCCCGAACAATTGGCTATCATGGGAAAGATCCACAGATTTTCAGAGAACCTGC
+GGGTAGTAGCCATGACCGCAACACCAGCAGGCACGGTAACAACTACAGGGCAAAAACACCCTATAGAAGA
+ATACATAGCCCCAGAAGTGATGAAGGGGGAAGACTTAGGTCCAGAGTACTTGGACATAGCTGGACTAAAG
+ATACCAGTAGAGGAGATGAAGAGTAACATGCTGGTCTTTGTGCCCACAAGGAACATGGCTGTAGAGACGG
+CAAAGAAACTGAAAGCTAAGGGTTATAACTCAGGCTACTATTATAGTGGAGAGGATCCATCTAACCTGAG
+GGTGGTAACATCACAGTCCCCGTACGTGGTGGTAGCAACCAACGCAATAGAATCAGGTGTTACTCTCCCA
+GACTTGGATGTGGTCGTCGACACAGGGCTTAAGTGTGAAAAGAGGATACGGCTGTCACCTAAGATGCCCT
+TCATAGTGACGGGCCTGAAGAGAATGGCTGTCACGATTGGGGAACAAGCCCAGAGAAGGGGGAGAGTTGG
+GAGAGTGAAGCCTGGGAGATACTACAGGAGTCAAGAAACCCCCGTTGGTTCCAAAGATTACCATTACGAC
+CTACTGCAAGCACAGAGGTACGGTATAGAAGATGGGATAAACATCACCAAATCTTTTAGAGAGATGAATT
+ATGATTGGAGCCTTTATGAGGAGGATAGTCTGATGATTACACAATTGGAAATCCTCAACAATCTGTTGAT
+ATCAGAAGAGCTACCAATGGCAGTAAAAAATATAATGGCCAGGACTGACCACCCAGAACCAATCCAACTG
+GCGTACAACAGCTACGAAACGCAGGTGCCAGTTCTATTCCCAAAAATAAAAAATGGAGAGGTGACTGACA
+GTTACGATAACTATACCTTCCTCAACGCAAGAAAGCTGGGGGATGATGTACCACCCTACGTGTATGCCAC
+AGAGGATGAGGACTTAGCGGTAGAGCTGCTGGGCTTAGACTGGCCGGACCCTGGGAACCAAGGAACCGTG
+GAGGCTGGTAGAGCACTAAAACAAGTAGTTGGTCTATCAACAGCTGAGAACGCCCTGTTAGTAGCTTTAT
+TCGGCTATGTAGGATATCAGGCACTCTCAAAGAGGCATATACCAGTAGTCACAGACATATATTCAATTGA
+AGATCACAGGTTGGAAGACACCACACACCTACAGTATGCCCCGAATGCTATCAAGACGGAGGGGAAGGAG
+ACAGAATTGAAGGAGCTAGCTCAGGGGGATGTGCAGAGATGTATGGAAGCTATGACTAATTATGCAAGAG
+ATGGCATCCAATTCATGAAGTCTCAGGCACTGAAAGTGAAAGAAACCCCCACTTACAAAGAGACAATGGA
+CACCGTGGCGGACTATGTAAAGAAGTTCATGGAGGCACTGGCGGACAGCAAAGAAGACATCATAAAATAT
+GGGTTGTGGGGGACGCACACAGCCTTATATAAGAGCATCGGTGCTAGGCTTGGGAACGAGACTGCGTTCG
+CTACCCTGGTCGTGAAATGGCTGGCATTTGGGGGAGAATCAATAGCAGACCATGTCAAACAAGCGGCCAC
+AGACTTGGTCGTTTACTATATCATCAACAGACCTCAGTTCCCAGGAGACACGGAGACACAACAGGAAGGA
+AGGAAATTTGTAGCCAGCCTACTGGTCTCAGCCCTGGCTACTTACACTTACAAAAGCTGGAATTACAATA
+ATCTGTCCAAGATAGTTGAACCGGCTTTGGCTACTCTGCCCTATGCCGCCACAGCTCTCAAGCTATTCGC
+CCCCACTCGATTGGAGAGCGTTGTCATACTGAGTACCGCAATCTACAAAACCTACCTATCAATCAGGCGC
+GGAAAAAGCGATGGTTTGCTAGGCACAGGGGTTAGTGCGGCTATGGAAATCATGTCACAAAACCCAGTAT
+CTGTGGGTATAGCGGTCATGCTAGGGGTGGGGGCCGTAGCGGCCCACAATGCAATCGAAGCCAGTGAGCA
+GAAGAGAACACTACTCATGAAAGTTTTTGTAAAGAACTTCTTGGATCAGGCAGCCACTGATGAATTAGTC
+AAGGAGAGCCCTGAGAAAATAATAATGGCTTTGTTTGAAGCAGTGCAGACAGTCGGCAACCCTCTTAGAC
+TGGTATACCACGTTTACGGAGTTTTTTACAAAGGGTGGGAGGCAAAAGAGTTGGCCCAAAGGACAGCCGG
+TAGGAATCTTTTCACTTTGATAATGTTTGAGGCTGTGGAACTACTGGGAGTAGATAGCGAAGGAAAGATC
+CGCCAGCTATCAAGCAATTACATACTAGAGCTCCTGTATAAGTTCCGTGACAGTATCAAGTCCAGCGTGA
+GGCAGATGGCAATCAGCTGGGCCCCTGCCCCTTTTAGTTGTGATTGGACACCGACGGATGACAGAATAGG
+GCTTCCCCAAGATAATTTCCTCCGAGTGGAGACAAAATGCCCCTGTGGTTACAAGATGAAAGCAGTTAAG
+AATTGTGCTGGGGAGTTGAGACTCTTAGAGGAGGAAGGCTCATTTCTCTGCAGGAATAAATTCGGGAGAG
+GTTCACGGAACTACAGGGTGACAAAATACTATGATGACAATCTATCAGAAATAAAGCCAGTGATAAGAAT
+GGAAGGACATGTGGAACTCTACTACAAGGGAGCCACTATTAAACTGGATTTCAACAACAGTAAAACAATA
+TTGGCAACCGATAAATGGGAGGTCGATCACTCCACTCTGGTCAGGGTGCTCAAGAGGCACACAGGGGCTG
+GATATTGTGGGGCATACCTGGGTGAGAAACCGAACCACAAACATCTGATAGAGAGGGACTGCGCAACCAT
+CACCAAAGATAAGGTTTGTTTTCTCAAGATGAAGAGAGGGTGTGCATTTACTTATGACTTATCCCTTCAC
+AACCTTACCCGGCTGATTGAATTGGTACACAAGAATAACTTGGAAGACAAAGAGATTCCTGCCGTTACGG
+TCACAACCTGGCTGGCTTACACATTTGTAAATGAAGATATAGGGACCATAAAACCAGCCTTCGGGGAGAA
+AATAACACCAGAGATGCAGGAGGAGATAACCTTGCAGCCTGCTGTATTGGTGGATGCAACTGACGTGACC
+GTGACCGTGGTAGGGGAAACCCCTACTATGACTACAGGGGAGACCCCAACAACGTTCACCAGCTCAGGTC
+CAGACCCGAAAGGCCAACAAGTTTTAAAACTGGGTGTAGGTGAAGGCCAATACCCCGGGACTAATCCACA
+GAGAGCAAGCCTGCACGAAGCCATACAAAGCGCAGATGAAAGGCCCTCTGTGCTGATATTGGGGTCTGAT
+AAAGCCACCTCTAATAGAGTGAAAACTGTAAAGAATGTGAAGGTATACAGAGGCAGGGACCCACTAGAAG
+TGAGAGATATGATGAGGAGGGGAAAGATCCTAGTCATAGCCCTGTCTAGGGTTGATAATGCTCTATTGAA
+ATTTGTAGATTACAAAGGCACCTTTTTAACTAGAGAGACCCTGGAGGCATTAAGTTTGGGTAGGCCAAAA
+AAGAAAAACATAACCAAGGCAGAAGCACAGTGGTTGCTGCGCCTCGAAGACCAAATGGAAGAGCTACCCG
+ATTGGTTCGCAGCCGGGGAACCCATTTTTCTAGAGGCCAATATTAAACATGACAGGTATCATCTGGTAGG
+GGATATAGCTACTATCAAAGAGAAAGCCAAACAATTGGGGGCTACAGACTCTACAAAGATATCCAAGGAG
+GTTGGTGCAAAAGTATATTCTATGAAATTGAGTAATTGGGTGATGCAAGAAGAAAACAAACAGAGCAACT
+TGACCCCCTTATTTGAAGAGCTCCTACAGCAGTGTCCACCCGGAGGCCAAAACAAAACTGCACATATGGT
+CTCTGCTTACCAACTAGCTCAAGGGAACTGGATGCCAACCAGCTGCCATGTTTTTATGGGGACCATATCT
+GCCAGAAGGACTAAGACCCATCCATATGAAGCATATGTCAAGTTAAGGGAGTTGGTAGAGGAACACAAGA
+TGAAAACATTGTGTCCCGGATCAAGTCTGCGTAACGACAATGAATGGGTAATTGGCAAGATCAAATACCA
+GGGCAACCTGAGGACCAAACACATGTTGAACCCCGGCAAGGTGGCAGAGCAACTGCACAGAGAAGGACAC
+AGACACAATGTGTATAACAAGACAATAGGCTCAGTGATGACAGCTACTGGCATCAGGTTGGAGAAGTTGC
+CCGTGGTTAGGGCCCAGACAGACACAACCAACTTCCACCAAGCAATAAGGGATAAGATAGACAAGGAAGA
+GAATCTACAGACCCCGGGTTTACATAAGAAACTAATGGAAGTTTTCAATGCATTGAAACGACCCGAGTTA
+GAGTCCTCCTATGACGCTGTGGAATGGGAGGAATTGGAGAGAGGAATAAACAGAAAGGGTGCTGCTGGTT
+TCTTTGAACGCAAAAACATAGGGGAGATATTGGATTCAGAGAAAATTAAAGTAGAAGAGATTATTGACAA
+TCTGAAAAAGGGTAGAAATATCAAATACTATGAAACCGCAATCCCAAAAAATGAAAAGAGGGATGTCAAT
+GATGACTGGACCGCAGGTGACTTTGTGGACGAGAAGAAACCCAGAGTCATACAATACCCTGAAGCAAAAA
+CAAGGCTGGCCATCACCAAGGTGATGTATAAGTGGGTGAAGCAGAAGCCAGTAGTCATACCCGGGTATGA
+AGGGAAGACACCTCTGTTCCAAATTTTTGACAAAGTAAAGAAGGAATGGGATCAATTCCAAAATCCAGTG
+GCAGTGAGCTTCGACACTAAGGCGTGGGACACCCAGGTGACCACAAATGATCTGGAGCTGATAAAGGACA
+TACAAAAGTACTACTTCAAGAAGAAATGGCATAAATTTATTGACACCCTGACTATGCATATGTCAGAAGT
+ACCCGTAATCACTGCTGATGGGGAGGTGTATATAAGGAAAGGGCAAAGAGGTAGTGGACAGCCCGACACA
+AGCGCAGGCAACAGCATGCTAAATGTGTTAACAATGGTTTATGCCTTCTGCGAGGCCACAGGGGTACCCT
+ACAAGAGTTTTGACAGGGTGGCAAAAATTCATGTGTGTGGGGACGATGGTTTCCTGATCACAGAGAGAGC
+TCTCGGCGAGAAATTCGCAAGCAAGGGAGTCCAAATCCTGTATGAAGCTGGGAAGCCCCAGAAGATCACT
+GAAGGGGACAAAATGAAAGTGGCCTACCAATTTGCTGATATTGAGTTTTGCTCCCATACACCAATACAAG
+TAAGGTGGTCAGATAACACTTCTAGCTACATGCCAGGGAGAAATACAACCACAATCCTGGCTAAAATGGC
+CACAAGGTTAGATTCCAGTGGTGAGAGGGGTACCATAGCGTACGAGAAAGCAGTAGCATTCAGCTTCCTG
+CTAATGTATTCCTGGAACCCACTAATCAGAAGGATTTGCTTATTGGTACTATCAACTGAACTGCAAGTGA
+AACCAGGGAAGTCAACCACTTACTATTATGAAGGGGACCCGATATCTGCCTACAAGGAAGTCATCGGCCA
+CAATCTTTTCGATCTCAAGAGAACAAGCTTCGAGAAGCTGGCCAAGTTAAATCTCAGCATGTCCGTACTC
+GGGGCCTGGACTAGACACACCAGCAAAAGACTACTACAAGACTGTGTCAATATGGGTGTTAAAGAGGGCA
+ACTGGTTAGTCAATGCAGACAGACTGGTGAGTAGTAAGACTGGAAATAGGTATGTACCTGGAGAAGGCCA
+CACCCTGCAAGGGAGACATTATGAAGAACTGGCGTTGGCAAGAAAACAGATCAACAGCTTCCAAGGGACA
+GACAGGTACAATCTAGGCCCAATAGTCAACATGGTGTTAAGGAGGCTGAGAGTCATGATGATGACCCTGA
+TAGGGAGAGGGGTATGAGTGCGGGTGACCCGCGATCTGGACCCGTCAGTAGGACCCTATTGTAGATAACA
+CTAATTTTTTATTTATTTAGATATTACTATTTATTTATTTATTTATTTATTGAATGAGTAAGAACTGGTA
+CAAACTACCTCATGTTACCACACTACACTCATTTTAACAGCACTTTAGCTGGAAGGAAAATTCCTGACGT
+CCACAGTTGGACTAAGGTAATTTCTAACGGCCC</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An N to A amino acid substitution was made in the N594 site of the E1 glycoprotein, resulting in attenuation of the virus in swine. This attenuated virus induced protection against challenge with wild type CSFV [Ref1881:Fernandez-Sainz et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene442">
+        <gene_name>E2</gene_name>
+        <strain>Classical swine fever virus strain LPC</strain>
+        <vo_id>VO_0010897</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>50403916</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:292945</xrefs>
+        <taxonomy_id>11096</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>373</gene_start>
+        <gene_end>12069</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>E2 protein</protein_name>
+        <protein_pi>8.23</protein_pi>
+        <protein_weight>6837.14</protein_weight>
+        <protein_length>127</protein_length>
+        <protein_note>Pestivirus envelope glycoprotein E2; pfam16329</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAT76713.1 E2 protein, partial [Classical swine fever virus]
+TTTWKEYTHDLQLNDGTVKATCVAGSFKVTALNVVSRRYLASLHKKALPTSVTFELLFDGTNP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Pigs were subjected to challenge infection with a dose of 1x10(5)TCID(50) (50% tissue culture infective dose) virulent CSFV strain.  At 1 week post challenge infection, all of the yE2-immunized pigs were alive and without symptoms or signs of CSF.  The yeast-expressed E2 protein retains correct immunogenicity and is able to induce a protective immune response against CSFV infection [Ref1064:Lin et al., 2009].
+
+In a seperate study, swine vaccinated with VVR expressing E0 and/or E2 resisted a lethal challenge infection with CSFV. Glycoprotein E0 represents a second determinant for the induction of protective immunity against classical swine fever [Ref1065:König et al., 1995].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1032">
+        <gene_name>E2</gene_name>
+        <strain>Classical swine fever virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>920146</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>12657942</ncbi_protein_id>
+        <gene_locus_tag>PestiV2gp1</gene_locus_tag>
+        <gene_refseq>AF326963</gene_refseq>
+        <protein_refseq>NP_075354</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11096</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>373</gene_start>
+        <gene_end>12069</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>polyprotein</protein_name>
+        <protein_pi>8.53</protein_pi>
+        <protein_weight>408166.02</protein_weight>
+        <protein_length>3898</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002657.1:373-12069 Classical swine fever virus, complete genome
+CATGGAGTTGAATCATTTTGAACTTTTATACAAAACAAACAAACAAAAACCAATGGGAGTGGAGGAACCG
+GTATACGATGCCACGGGGAGGCCATTGTTTGGAGACCCGAGTGAGGTACACCCACAATCAACACTGAAGC
+TACCACATGATAGGGGGAGAGGTAACATCAAAACAACACTGAAGAACCTACCTAGGAAAGGCGACTGCAG
+GAGTGGCAACCATCTAGGCCCGGTTAGTGGGATATATGTAAAGCCCGGCCCTGTCTTTTATCAGGACTAC
+ATGGGCCCGGTCTACCATAGAGCCCCTCTAGAGTTTTTTAACGAAGCGCAGTTTTGCGAGGTGACCAAAA
+GGATAGGTAGGGTGACAGGTAGTGACGGAAAGCTTTACCATATATATGTGTGCATCGATGGTTGCATACT
+GCTGAAGCTAGCCAAGAGGGACGAGCCAAGAACCCTGAAGTGGATTAGAAATTTCACCGACTGTCCATTG
+TGGGTTACCAGTTGCTCTGATGATGGCGCAAGTGGAAGTAAAGAGAAGAAGCCAGATAGGATCAACAAAG
+GCAAATTAAAAATAGCCCCAAAAGAGCATGAGAAGGACAGCAGAACTAAGCCACCTGACGCTACGATTGT
+AGTGGAAGGAGTAAAATACCAGGTTAAAAAGAAGGGTAAAGTTAAAGGAAAGAGTACCCAAGACGGCCTG
+TACCACAACAAGAATAAACCACCAGAATCTAGGAAGAAATTAGAAAAAGCCCTATTGGCATGGGCGGTAA
+TAGCAATTATGTTGTACCAACCAGTTGAAGCCGAAAATATAACTCAATGGAACCTGAGTGACAACGGCAC
+TAATGGTATCCAGCATGCTATGTACCTTAGAGGGGTTAGCAGGAGCTTGCATGGGATCTGGCCGGAAAAA
+ATATGCAAAGGAGTCCCCACCTACCTGGCCACAGACACGGAACTGAAAGAAATACAGGGAATGATGGATG
+CCAGCGAGGGGACAAACTATACGTGCTGTAAGTTACAGAGACATGAATGGAACAAACATGGATGGTGTAA
+CTGGTACAATATAGACCCCTGGATACAGTTGATGAATAGAACCCAAGCAAACTTGGCAGAAGGCCCTCCG
+GCCAAGGAGTGCGCTGTGACTTGCAGGTACGATAAAGATGCTGACATCAACGTGGTCACCCAGGCCAGAA
+ACAGGCCAACAACCCTGACCGGTTGCAAGAAAGGAAAAAATTTTTCTTTTGCGGGTACAGTTATAGAGGG
+CCCATGTAATTTCAATGTTTCCGTGGAGGATATCTTGTATGGGGATCATGAGTGCGGCAGTTTGCTTCAG
+GACACGGCTCTGTACCTAGTGGATGGAATGACCAACACTATAGAGAATGCCAGACAGGGAGCAGCGAGGG
+TAACATCTTGGCTCGGGAGGCAACTCAGCACTGCCGGGAAGAGGTTGGAGGGTAGAAGCAAAACCTGGTT
+TGGTGCCTATGCCCTATCGCCTTACTGTAATGTAACAAGCAAAATAGGGTACATATGGTACACTAACAAC
+TGCACCCCGGCTTGCCTCCCCAAAAATACAAAGATAATAGGCCCCGGAAAATTTGACACTAACGCGGAAG
+ACGGAAAGATTCTCCATGAGATGGGGGGTCACCTATCAGAATTTCTGCTGCTCTCTCTGGTTGTTCTGTC
+TGACTTCGCCCCTGAAACAGCCAGCGCGTTATACCTCATTTTGCACTACATGATTCCTCAATCCCATGAA
+GAACCTGAAGGCTGCGACACAAACCAGCTGAATCTAACAGTGGAACTCAGGACTGAAGACGTAATACCGT
+CATCAGTCTGGAATGTTGGCAAATATGTGTGTGTTAGACCAGACTGGTGGCCATATGAAACCAAGGTGGC
+TTTGTTATTTGAAGAGGCAGGACAGGTCGTAAAATTAGCCTTACGAGCGCTGAGGGATTTAACCAGGGTC
+TGGAATAGCGCATCAACCACGGCATTCCTCATCTGCTTGATAAAAGTATTAAGAGGACAGATCGTGCAAG
+GTGTGATATGGCTGCTACTAGTAACTGGGGCACAAGGCCGGCTAGCCTGCAAGGAAGATTACAGGTACGC
+AATATCATCGACCAATGAGATAGGGCTACTCGGGGCCGAAGGTCTCACCACCACCTGGAAAGAATACAAC
+CACGATTTGCAACTGAATGACGGGACCGTTAAGGCCATTTGCGTGGCAGGTTCCTTTAAAGTCATAGCAC
+TTAATGTGGTCAGTAGGAGGTATTTGGCATCATTGCATAAGGAGGCTTCACTCACTTCCGTGACATTTGA
+GCTCCTGTTCGACGGGACCAACCCATCAACTGAGGAAATGGGAGATGACTTCGGGTTCGGGCTGTGCCCG
+TTCGATACGAGTCCTGTTGTCAAGGGAAAGTACAATACAACCTTGTTGAACGGTAGTGCTTTCTATCTTG
+TCTGCCCAATAGGGTGGACGGGTGTCATAGAGTGCACAGCAGTGAGCCCAACAACTCTGAGAACAGAAGT
+GGTAAAGACCTTCAGGAGAGACAAGCCCTTTCCGCACAGAATGGATTGTGCGACCACCACAGTGGAAAAT
+GGAGATTTATTCTACTGTAAGTTGGGGGGCAACTGGACATGTGTGAAAGGTGAACCAGTGGTCTACACGG
+GGGGGCTAGTAAAACAATGCAGATGGTGTGGCTTCGACTTCAATGAGCCCGACGGACTCCCGCACTACCC
+CATAGGTAAGTGCATCTTGGTAAATGAGACAGGTTACAGAATAGTAGATTCAACGGACTGTAACAGAGAT
+GGCGTTGTAATCAGCACAGATGGGAGTCATGAGTGCTTGATCGGTAACACAACTGTCAAGGTGCATGCAT
+CAGATGAAAGACTGGGCCCTATGCCATGCAGACCCAAAGAGATTGTCTCTAGTGCAGGACCTGTAAGGAA
+AACTTCCTGTACATTCAACTACGCAAAAACTTTGAAGAACAAGTACTATGAGCCCAGGGACAGCTACTTC
+CAGCAATATATGCTTAAGGGCGAGTATCAGTACTGGTTTGACCTGGACGTGACTGACCGCCACTCAGATT
+ACTTCGCAGAATTTGTCGTCTTGGTAGTGGTAGCACTGTTAGGAGGAAGATATGTCCTGTGGCTAATAGT
+GACCTACATAGTTCTAACAGAACAACTCGCCGCTGGTTTACCATTGGGCCAGGGTGAGGTAGTGTTGATA
+GGGAACTTAATTACCCACACAGACATTGAGGTCGTAGTATATTTCTTACTACTCTATTTGGTCATGAGGG
+ATGAGCCTATAAAGAAATGGATACTGCTGCTGTTCCATGCTATGACTAACAATCCAGTCAAGACCATAAC
+AGTGGCATTGCTTATGGTTAGTGGGGTTGCCAAGGGTGGAAAGATAGACGGCGGTTGGCAGCGGCTGCCA
+GAGACCAGCTTTGACATCCAACTCGCGCTGACAGTTATAGTAGTCGCTGTGATGTTACTGGCAAAGAGAG
+ATCCAACTACTGTCCCCTTGGTTATAACAGTGGCAACCCTGAGAACGGCTAAGATGACTAATGGACTTAG
+CACGGATATAGCCATAGCTACAGTGTCAACAGCGTTGCTAACCTGGACCTACATTAGTGACTATTATAGA
+TACAAGACTTGGCTACAGTACCTTATTAGCACAGTGACAGGTATCTTCTTAATAAGGGTACTGAAGGGAA
+TAGGTGAGTTGGATTTACACACTCCAACCTTGCCATCTTACAGACCCCTCTTCTTCATTCTCGTGTACCT
+CATTTCCACTGCAGTGGTAACAAGATGGAATCTGGACATAGCCGGATTGCTGTTGCAGTGTGTCCCAACC
+CTTTTGATGGTTTTTACGATGTGGGCAGACATTCTCACCCTGATCCTCATACTGCCCACTTACGAGCTAA
+CAAAACTATATTACCTCAAGGAAGTGAAGACTGGGGCAGAAAAGGGCTGGTTATGGAAGACCAACTTCAA
+GAGGGTAAACGACATATACGAAGTTGACCAATCTGGTGAAGGGGTTTACCTTTTCCCGTCAAAACAAAAG
+ACAAGTTCAATAACAGGTACCATGTTGCCATTGATCAAAGCCATACTCATCAGCTGCATCAGTAATAAGT
+GGCAGTTCATATATCTATTGTACTTGATATTTGAAGTGTCTTACTACCTCCACAAGAAGATCATAGATGA
+AATAGCAGGAGGGACCAACTTCATCTCAAGACTTGTAGCCGCTTTGATCGAAGCCAATTGGGCCTTTGAC
+AACGAAGAAGTTAGGGGTTTAAAGAAGTTCTTCCTGTTGTCTAGTAGGGTTAAAGAACTGATCATCAAAC
+ACAAAGTGAGGAATGAAGTAATGGTCCACTGGTTTGGTGACGAAGAGGTTTATGGGATGCCAAAGTTGGT
+TGGCTTAGTCAAGGCAGCAACATTGAGTAAAAATAAACATTGTATTTTGTGCACCGTCTGTGAAGACAGA
+GAGTGGAGAGGAGAAACCTGCCCAAAATGCGGGCGTTTTGGGCCACCAATGACCTGTGGTATGACCCTAG
+CCGACTTTGAAGAAAAACATTATAAGAGGATCTTTTTTAGAGAGGATCAATCAGAAGGGCCGGTTAGAGA
+GGAGTACGCAGGGTATCTGCAATATAGAGCCAGAGGGCAATTATTCCTGAGGAATCTCCCGGTGCTAGCA
+ACAAAAGTCAAGATGCTCCTGGTCGGAAATCTTGGGACGGAGGTGGGAGACTTGGAACACCTTGGCTGGG
+TCCTTAGGGGGCCTGCCGTTTGCAAGAAGGTTACCGAACATGAGAAATGCACCACATCCATAATGGACAA
+ATTGACTGCTTTTTTCGGTGTTATGCCAAGGGGCACCACACCTAGAGCCCCTGTGAGATTCCCCACCTCT
+CTCTTAAAGATAAGAAGGGGGTTGGAAACTGGCTGGGCGTACACACACCAAGGTGGCATTAGTTCAGTGG
+ACCATGTCACTTGTGGGAAAGACTTGCTGGTATGTGACACTATGGGCCGGACAAGGGTCGTTTGCCAATC
+AAATAATAAGATGACAGATGAGTCTGAGTATGGAGTTAAAACTGACTCCGGATGCCCGGAAGGAGCTAGG
+TGTTATGTGTTCAACCCAGAGGCAGTTAACATATCAGGGACTAAAGGAGCCATGGTCCACTTACAAAAAA
+CTGGAGGAGAATTCACCTGTGTGACAGCATCAGGAACTCCGGCCTTCTTTGATCTCAAGAACCTCAAAGG
+CTGGTCAGGGCTACCGATATTTGAGGCATCAAGTGGAAGGGTAGTCGGCAGGGTCAAGGTCGGGAAGAAT
+GAGGACTCTAAACCAACCAAGCTTATGAGTGGAATACAAACAGTCTCCAAAAGTACCACAGACTTGACAG
+AAATGGTAAAGAAAATAACGACCATGAACAGGGGAGAATTCAGACAAATAACCCTTGCTACAGGTGCCGG
+AAAAACCACGGAACTCCCTAGGTCAGTCATAGAAGAGATAGGGAGGCATAAGAGAGTCTTGGTCTTGATC
+CCTCTGAGGGCGGCAGCAGAGTCAGTATACCAATATATGAGACAAAAACATCCAAGCATCGCATTTAACC
+TGAGGATAGGGGAGATGAAGGAAGGGGACATGGCCACAGGGATAACCTATGCTTCATACGGTTACTTCTG
+TCAGATGCCACAACCTAAGTTGCGAGCCGCGATGGTTGAGTACTCCTTCATATTTCTTGACGAGTACCAC
+TGTGCCACCCCAGAACAATTGGCCATCATGGGAAAGATCCACAGATTTTCAGAGAACCTGCGGGTAGTAG
+CCATGACCGCAACACCAGCAGGCACAGTAACAACCACAGGGCAGAAACACCCTATAGAAGAATTCATAGC
+CCCAGAAGTGATGAAAGGGGAAGACTTAGGCTCAGAGTACTTGGACATTGCTGGACTAAAGATACCAGTA
+GAGGAGATGAAGAGCAACATGCTGGTTTTTGTGCCCACTAGGAACATGGCGGTGGAGACAGCAAAGAAAT
+TGAAAGCTAAGGGTTACAACTCAGGCTACTATTATAGTGGAGAGGATCCATCTAACCTGAGGGTGGTAAC
+GTCGCAGTCCCCGTACGTGGTGGTGGCAACCAACGCGATAGAATCAGGTGTTACTCTCCCGGACTTGGAT
+GTGGTTGTCGATACAGGGCTTAAGTGTGAAAAGAGAATACGGCTGTCACCTAAGATGCCCTTCATAGTGA
+CGGGCCTGAAGAGAATGGCTGTCACGATTGGGGAACAAGCCCAGAGAAGGGGGAGAGTTGGGAGAGTAAA
+GCCTGGGAGATACTACAGGAGTCAAGAAACTCCCGTTGGTTCTAAAGATTACCATTATGATCTACTGCAA
+GCACAGAGGTACGGTATTGAAGATGGGATAAACATCACCAAATCCTTTAGAGAGATGAACTATGATTGGA
+GCCTTTATGAGGAGGACAGTCTGATGATTACACAATTGGAAATCCTCAATAATTTGTTGATATCAGAAGA
+ACTACCGATGGCAGTAAAAAATATAATGGCCAGGACTGACCACCCAGAACCAATTCAGCTGGCGTACAAC
+AGCTACGAAACACAAGTGCCAGTGCTATTCCCAAAAATAAAGAATGGAGAGGTGACTGATAGTTACGATA
+ACTATACCTTCCTCAACGCAAGAAAATTGGGGGATGATGTACCCCCTTACGTGTATGCCACAGAGGATGA
+GGACTTAGCGGTAGAGCTACTGGGCTTAGACTGGCCAGACCCTGGAAACCAAGGAACCGTAGAGGCTGGC
+AGAGCACTAAAACAAGTAGTTGGTCTATCAACAGCTGAGAATGCCCTGTTAGTAGCCTTATTCGGCTATG
+TAGGATATCAGGCACTTTCAAAGAGGCATATACCAGTAGTCACAGATATATATTCAATTGAAGATCACAG
+GTTGGAAGACACCACACACCTACAGTACGCCCCAAATGCTATCAAGACGGAGGGGAAGGAGACAGAATTG
+AAGGAGCTAGCCCAGGGGGATGTGCAGAGATGTGTGGAAGCTATGACCAATTATGCAAGAGAGGGTATCC
+AATTCATGAAGTCTCAGGCACTGAAGGTGAAAGAAACCCCCACTTACAAAGAGACAATGAACACTGTGAC
+TGACTATGTAAAGAAATTCATGGAGGCGCTGGCAGACAGTAAAGAAGACATCTTAAGATATGGGTTGTGG
+GGGACGCACACAGCCTTATATAAGAGCATCAGTGCCAGGCTTGGGAGTGAGACTGCGTTCGCTACCCTGG
+TCGTGAAGTGGCTGGCATTTGGGGGGGAATCAATAGCAGACCATGTCAAACAAGCGGCCACAGACTTGGT
+CGTCTACTATATCATCAACAGACCTCAGTTCCCAGGAGACACAGAGACACAACAGGAAGGAAGGAAATTT
+GTGGCCAGCCTACTGGTCTCAGCTCTAGCTACTTACACATACAAAAGCTGGAATTACAATAATCTGTCCA
+AGATAGTTGAACCGGCTTTGGCCACTCTGCCCTATGCCGCCACAGCTCTCAAACTATTCGCCCCCACTCG
+ATTGGAGAGCGTTGTCATATTGAGTACCGCAATCTACAAGACCTACCTATCAATCAGGCGCGGAAAAAGC
+GATGGTTTGCTAGGCACAGGGGTTAGTGCGGCTATGGAGATCATGTCACAAAATCCAGTATCCGTGGGCA
+TAGCAGTCATGCTAGGGGTAGGGGCCGTGGCAGCCCACAATGCAATCGAGGCCAGTGAGCAGAAGAGAAC
+ACTACTCATGAAAGTTTTTGTAAAGAACTTCTTGGACCAAGCAGCCACTGATGAATTAGTCAAGGAGAGT
+CCTGAGAAAATAATAATGGCTTTGTTTGAAGCAGTGCAGACAGTCGGTAACCCTCTTAGACTAGTATACC
+ACCTTTATGGAGTTTTCTATAAGGGGTGGGAGGCAAAAGAGTTGGCCCAAAGGACAGCCGGTAGGAACCT
+TTTCACTTTGATAATGTTCGAGGCTGTGGAACTACTGGGAGTAGATAGTGAAGGAAAGATCCGCCAGCTA
+TCAAGTAATTACATACTAGAGCTCCTGTATAAGTTCCGTGACAGTATCAAGTCTAGCGTGAGGGAGATGG
+CAATCAGCTGGGCCCCTGCCCCTTTCAGCTGTGATTGGACACCGACGGATGACAGAATAGGGCTCCCCCA
+AGACAATTTCCTCCAAGTGGAGACGAAATGCCCCTGTGGTTACAAGATGAAGGCAGTTAAGAATTGTGCT
+GGAGAGCTGAGACTCTTGGAGGAGGAAGGCTCATTTCTCTGCAGAAATAAATTCGGGAGAGGTTCACGGA
+ACTACAGGGTGACAAAATACTATGATGACAATCTATCAGAAATAAAGCCAGTGATAAGAATGGAAGGGCA
+TGTGGAACTCTACTACAAGGGAGCCACCATCAAACTGGACTTCAACAACAGTAAAACAATACTGGCAACC
+GATAAATGGGAGATTGATCACTCCACTCTGGTCAGGGTGCTCAAGAGGCACACAGGGGCTGGATATCATG
+GGGCATACCTGGGCGAGAAACCGAACTACAAACATCTGATAGAGAGGGACTGTGCAACCATCACCAAAGA
+TAAGGTTTGTTTTCTCAAAATGAAGAGAGGGTGTGCATTTACTTATGACTTATCCCTTCACAACCTTACC
+CGACTGATTGAATTGGTACACAAGAATAACTTGGAAGACAAAGAGATTCCTGCTGTTACGGTTACAACCT
+GGCTGGCTTACACGTTTGTAAATGAAGATATAGGGACCATAAAACCAGCCTTCGGGGAGAAAGTAACACC
+GGAGATGCAGGAGGAAATAACCTTGCAGCCTGCTGTAGTGGTGGATACAACTGACGTGACCGTGACTGTG
+GTAGGGGAAGCCCCTACTATGACTACAGGGGAGACTCCGACAGCGTTCACCAGCTCAGGTTCAGACCCGA
+AAGGCCAACAAGTTTTAAAACTGGGGGTAGGTGAAGGCCAATACCCCGGGACTAATCCACAGAGGGCAAG
+CCTGCACGAAGCCATACAAGGTGCAGATGAGAGACCCTCGGTGCTGATATTAGGGTCTGATAAAGCCACC
+TCTAATAGAGTGAAAACTGCAAAGAATGTAAAGGTATACAGAGGCAGGGACCCACTAGAAGTGAGAGATA
+TGATGAGGAGGGGAAAGATCCTGGTCATAGCCCTGTCTAGGGTTGATAATGCTCTATTGAAATTTGTTGA
+CTACAAAGGCACCTTTCTAACTAGAGAGACCCTAGAGGCATTAAGTTTGGGTAGGCCTAAAAAGAAAAAC
+ATAACCAAGGCAGAAGCGCAGTGGTTGCTGTGCCTCGAAGACCAAATGGAAGAGCTACCCGATTGGTTCG
+CAGCCGGGGAACCCATTTTTCTAGAGGCTAACATTAAACATGACAGGTACCATCTGGTGGGGGATATAGC
+TAATATCAAGGAAAAAGCCAAACAGTTGGGAGCTACAGACTCCACAAAGATATCTAAGGAGGTTGGTGCA
+AAAGTGTATTCTATGAAACTGAGTAATTGGGTGATGCAAGAAGAAAATAAACAGGGCAACCTGACCCCCT
+TGTTTGAAGAGCTCCTGCAACAGTGTCCACCCGGAGGCCAGAACAAAACTGCACATATGGTCTCTGCTTA
+CCAACTAGCTCAAGGGAACTGGATGCCAACCAGCTGCCATGTTTTTATGGGGACCATATCTGCCAGGAGG
+ACCAAGACCCATCCATATGAAGCATACGTCAAGTTAAGGGAGTTGGTAGAGGAACACAAGATGAAAACAT
+TGTGTCCTGGATCAAGCCTGGGTAAGCACAACGAATGGATAATTGGTAAAATCAAATACCAGGGAAACCT
+GAGGACCAAACACATGTTGAACCCCGGCAAGGTGGCAGAGCAACTGTGCAGAGAGGGACACAGACACAAT
+GTGTATAACAAGACAATAGGCTCAGTAATGACAGCTACTGGTATCAGGTTGGAGAAGTTGCCCGTGGTTA
+GGGCCCAGACAGACACAACCAACTTCCACCAAGCAATAAGGGATAAGATAGACAAGGAAGAGAACCTACA
+AACCCCGGGTTTACATAAGAAACTAATGGAAGTTTTCAATGCATTGAAACGACCCGAGTTAGAGTCCTCC
+TACGATGCCGTGGAATGGGAGGAACTGGAGAGAGGAATAAACAGGAAGGGTGCTGCTGGTTTCTTTGAAC
+GCAAAAATATAGGGGAAATATTGGATTCAGAGAAAAACAAAGTCGAAGAGATTATTGACAATCTGAAAAA
+AGGCAGAAACATCAAATACTATGAAACCGCGATCCCAAAGAATGAGAAGAGGGACGTCAATGATGACTGG
+ACTGCTGGTGACTTCGTGGAAGAGAAGAAACCCAGAGTCATACAATACCCTGAAGCAAAAACAAGGCTGG
+CCATCACCAAGGTGATGTATAAGTGGGTGAAGCAGAAGCCAGTAGTTATACCCGGGTATGAAGGGAAGAC
+ACCTCTATTCCAAATTTTTGACAAAGTAAAGAAGGAATGGGATCAATTCCAAAATCCAGTGGCAGTGAGT
+TTTGACACTAAGGCGTGGGACACCCAGGTAACCACAAAAGATTTGGAGTTGATAAAGGACATACAAAAGT
+ACTATTTCAAGAAGAAATGGCATAAATTTATTGACACCCTGACCATGCACATGTCAGAAGTACCCGTAAT
+CAGTGCTGATGGGGAAGTATACATAAGGAAAGGGCAAAGAGGCAGTGGACAACCTGACACAAGCGCAGGC
+AATAGCATGCTAAATGTGTTAACAATGATTTACGCCTTCTGCGAGGCCACGGGAGTACCCTACAAGAGCT
+TCGACAGGGTGGCAAAAATTCATGTGTGTGGGGATGATGGTTTCCTGATCACAGAAAGAGCTCTCGGTGA
+GAAATTCGCGAGTAAGGGAGTCCAGATCCTATATGAAGCTGGGAAGCCCCAGAAGATCACTGAAGGGGAC
+AAGATGAAAGTGGCCTACCAATTTGATGATATTGAGTTTTGCTCCCATACACCAATACAAGTAAGGTGGT
+CAGATAACACTTCTAGTTACATGCCGGGGAGAAATACAACCACAATCCTGGCTAAAATGGCCACAAGGTT
+AGATTCCAGTGGTGAGAGGGGTACCATAGCATATGAGAAAGCAGTAGCATTCAGCTTCCTGCTGATGTAC
+TCCTGGAACCCACTAATCAGAAGGATCTGCTTACTGGTGCTATCAACTGAACTGCAAGTGAAACCAGGGA
+AGTCAACCACTTACTACTATGAAGGGGACCCGATATCTGCCTACAAGGAAGTCATCGGCCACAATCTTTT
+TGATCTTAAGAGAACAAGCTTCGAGAAGCTGGCCAAGTTAAATCTCAGCATGTCAGTACTCGGAGCCTGG
+ACTAGACACACCAGTAAAAGACTACTACAAGACTGTGTCAATGTGGGTGTTAAAGAGGGCAACTGGCTAG
+TTAATGCAGATAGACTAGTAAGTAGCAAGACTGGAAATAGGTACATACCCGGAGAGGGCCACACCCTGCA
+AGGGAGACATTATGAAGAACTGGTGTTGGCAAGAAAACAGATCAACAACTTTCAAGGGACCGACAGGTAC
+AATCTAGGCCCAATAGTCAATATGGTGTTAAGGAGGCTGAGAGTCATGATGATGACCCTGATAGGGAGAG
+GGGTATG
+
+</dna_sequence>
+        <protein_sequence>>NP_075354.1 polyprotein [Classical swine fever virus]
+MELNHFELLYKTNKQKPMGVEEPVYDATGRPLFGDPSEVHPQSTLKLPHDRGRGNIKTTLKNLPRKGDCR
+SGNHLGPVSGIYVKPGPVFYQDYMGPVYHRAPLEFFNEAQFCEVTKRIGRVTGSDGKLYHIYVCIDGCIL
+LKLAKRDEPRTLKWIRNFTDCPLWVTSCSDDGASGSKEKKPDRINKGKLKIAPKEHEKDSRTKPPDATIV
+VEGVKYQVKKKGKVKGKSTQDGLYHNKNKPPESRKKLEKALLAWAVIAIMLYQPVEAENITQWNLSDNGT
+NGIQHAMYLRGVSRSLHGIWPEKICKGVPTYLATDTELKEIQGMMDASEGTNYTCCKLQRHEWNKHGWCN
+WYNIDPWIQLMNRTQANLAEGPPAKECAVTCRYDKDADINVVTQARNRPTTLTGCKKGKNFSFAGTVIEG
+PCNFNVSVEDILYGDHECGSLLQDTALYLVDGMTNTIENARQGAARVTSWLGRQLSTAGKRLEGRSKTWF
+GAYALSPYCNVTSKIGYIWYTNNCTPACLPKNTKIIGPGKFDTNAEDGKILHEMGGHLSEFLLLSLVVLS
+DFAPETASALYLILHYMIPQSHEEPEGCDTNQLNLTVELRTEDVIPSSVWNVGKYVCVRPDWWPYETKVA
+LLFEEAGQVVKLALRALRDLTRVWNSASTTAFLICLIKVLRGQIVQGVIWLLLVTGAQGRLACKEDYRYA
+ISSTNEIGLLGAEGLTTTWKEYNHDLQLNDGTVKAICVAGSFKVIALNVVSRRYLASLHKEASLTSVTFE
+LLFDGTNPSTEEMGDDFGFGLCPFDTSPVVKGKYNTTLLNGSAFYLVCPIGWTGVIECTAVSPTTLRTEV
+VKTFRRDKPFPHRMDCATTTVENGDLFYCKLGGNWTCVKGEPVVYTGGLVKQCRWCGFDFNEPDGLPHYP
+IGKCILVNETGYRIVDSTDCNRDGVVISTDGSHECLIGNTTVKVHASDERLGPMPCRPKEIVSSAGPVRK
+TSCTFNYAKTLKNKYYEPRDSYFQQYMLKGEYQYWFDLDVTDRHSDYFAEFVVLVVVALLGGRYVLWLIV
+TYIVLTEQLAAGLPLGQGEVVLIGNLITHTDIEVVVYFLLLYLVMRDEPIKKWILLLFHAMTNNPVKTIT
+VALLMVSGVAKGGKIDGGWQRLPETSFDIQLALTVIVVAVMLLAKRDPTTVPLVITVATLRTAKMTNGLS
+TDIAIATVSTALLTWTYISDYYRYKTWLQYLISTVTGIFLIRVLKGIGELDLHTPTLPSYRPLFFILVYL
+ISTAVVTRWNLDIAGLLLQCVPTLLMVFTMWADILTLILILPTYELTKLYYLKEVKTGAEKGWLWKTNFK
+RVNDIYEVDQSGEGVYLFPSKQKTSSITGTMLPLIKAILISCISNKWQFIYLLYLIFEVSYYLHKKIIDE
+IAGGTNFISRLVAALIEANWAFDNEEVRGLKKFFLLSSRVKELIIKHKVRNEVMVHWFGDEEVYGMPKLV
+GLVKAATLSKNKHCILCTVCEDREWRGETCPKCGRFGPPMTCGMTLADFEEKHYKRIFFREDQSEGPVRE
+EYAGYLQYRARGQLFLRNLPVLATKVKMLLVGNLGTEVGDLEHLGWVLRGPAVCKKVTEHEKCTTSIMDK
+LTAFFGVMPRGTTPRAPVRFPTSLLKIRRGLETGWAYTHQGGISSVDHVTCGKDLLVCDTMGRTRVVCQS
+NNKMTDESEYGVKTDSGCPEGARCYVFNPEAVNISGTKGAMVHLQKTGGEFTCVTASGTPAFFDLKNLKG
+WSGLPIFEASSGRVVGRVKVGKNEDSKPTKLMSGIQTVSKSTTDLTEMVKKITTMNRGEFRQITLATGAG
+KTTELPRSVIEEIGRHKRVLVLIPLRAAAESVYQYMRQKHPSIAFNLRIGEMKEGDMATGITYASYGYFC
+QMPQPKLRAAMVEYSFIFLDEYHCATPEQLAIMGKIHRFSENLRVVAMTATPAGTVTTTGQKHPIEEFIA
+PEVMKGEDLGSEYLDIAGLKIPVEEMKSNMLVFVPTRNMAVETAKKLKAKGYNSGYYYSGEDPSNLRVVT
+SQSPYVVVATNAIESGVTLPDLDVVVDTGLKCEKRIRLSPKMPFIVTGLKRMAVTIGEQAQRRGRVGRVK
+PGRYYRSQETPVGSKDYHYDLLQAQRYGIEDGINITKSFREMNYDWSLYEEDSLMITQLEILNNLLISEE
+LPMAVKNIMARTDHPEPIQLAYNSYETQVPVLFPKIKNGEVTDSYDNYTFLNARKLGDDVPPYVYATEDE
+DLAVELLGLDWPDPGNQGTVEAGRALKQVVGLSTAENALLVALFGYVGYQALSKRHIPVVTDIYSIEDHR
+LEDTTHLQYAPNAIKTEGKETELKELAQGDVQRCVEAMTNYAREGIQFMKSQALKVKETPTYKETMNTVT
+DYVKKFMEALADSKEDILRYGLWGTHTALYKSISARLGSETAFATLVVKWLAFGGESIADHVKQAATDLV
+VYYIINRPQFPGDTETQQEGRKFVASLLVSALATYTYKSWNYNNLSKIVEPALATLPYAATALKLFAPTR
+LESVVILSTAIYKTYLSIRRGKSDGLLGTGVSAAMEIMSQNPVSVGIAVMLGVGAVAAHNAIEASEQKRT
+LLMKVFVKNFLDQAATDELVKESPEKIIMALFEAVQTVGNPLRLVYHLYGVFYKGWEAKELAQRTAGRNL
+FTLIMFEAVELLGVDSEGKIRQLSSNYILELLYKFRDSIKSSVREMAISWAPAPFSCDWTPTDDRIGLPQ
+DNFLQVETKCPCGYKMKAVKNCAGELRLLEEEGSFLCRNKFGRGSRNYRVTKYYDDNLSEIKPVIRMEGH
+VELYYKGATIKLDFNNSKTILATDKWEIDHSTLVRVLKRHTGAGYHGAYLGEKPNYKHLIERDCATITKD
+KVCFLKMKRGCAFTYDLSLHNLTRLIELVHKNNLEDKEIPAVTVTTWLAYTFVNEDIGTIKPAFGEKVTP
+EMQEEITLQPAVVVDTTDVTVTVVGEAPTMTTGETPTAFTSSGSDPKGQQVLKLGVGEGQYPGTNPQRAS
+LHEAIQGADERPSVLILGSDKATSNRVKTAKNVKVYRGRDPLEVRDMMRRGKILVIALSRVDNALLKFVD
+YKGTFLTRETLEALSLGRPKKKNITKAEAQWLLCLEDQMEELPDWFAAGEPIFLEANIKHDRYHLVGDIA
+NIKEKAKQLGATDSTKISKEVGAKVYSMKLSNWVMQEENKQGNLTPLFEELLQQCPPGGQNKTAHMVSAY
+QLAQGNWMPTSCHVFMGTISARRTKTHPYEAYVKLRELVEEHKMKTLCPGSSLGKHNEWIIGKIKYQGNL
+RTKHMLNPGKVAEQLCREGHRHNVYNKTIGSVMTATGIRLEKLPVVRAQTDTTNFHQAIRDKIDKEENLQ
+TPGLHKKLMEVFNALKRPELESSYDAVEWEELERGINRKGAAGFFERKNIGEILDSEKNKVEEIIDNLKK
+GRNIKYYETAIPKNEKRDVNDDWTAGDFVEEKKPRVIQYPEAKTRLAITKVMYKWVKQKPVVIPGYEGKT
+PLFQIFDKVKKEWDQFQNPVAVSFDTKAWDTQVTTKDLELIKDIQKYYFKKKWHKFIDTLTMHMSEVPVI
+SADGEVYIRKGQRGSGQPDTSAGNSMLNVLTMIYAFCEATGVPYKSFDRVAKIHVCGDDGFLITERALGE
+KFASKGVQILYEAGKPQKITEGDKMKVAYQFDDIEFCSHTPIQVRWSDNTSSYMPGRNTTTILAKMATRL
+DSSGERGTIAYEKAVAFSFLLMYSWNPLIRRICLLVLSTELQVKPGKSTTYYYEGDPISAYKEVIGHNLF
+DLKRTSFEKLAKLNLSMSVLGAWTRHTSKRLLQDCVNVGVKEGNWLVNADRLVSSKTGNRYIPGEGHTLQ
+GRHYEELVLARKQINNFQGTDRYNLGPIVNMVLRRLRVMMMTLIGRGV
+
+</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A E2 mutant in Classical swine fever virus is attenuated and provides protection in pigs after oronasal vaccination (not intradermal vaccination) against lethal challenge dose of CSFV strain Eystrup [Ref1976:Maurer et al., 2005].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene444">
+        <gene_name>gp55</gene_name>
+        <strain></strain>
+        <vo_id>VO_0010899</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1763691</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:292945</xrefs>
+        <taxonomy_id>11096</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein</protein_name>
+        <protein_pi>6.6</protein_pi>
+        <protein_weight>38891.77</protein_weight>
+        <protein_length>452</protein_length>
+        <protein_note>Pestivirus envelope glycoprotein E2; pfam16329</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB39835.1 glycoprotein, partial [Classical swine fever virus]
+VQGVVWLLLVTGAQGRLACKEDYRYAISSTDEIGLLGAGGLTTTWKEYNHDLQLNDGTVKASCVAGSFKV
+TALNVVSRRYLASLHKKALPISVTFELLFDGTNPSTEEMEDDLRSGLCPFDTSPVVKGKYNTTLLNGSAF
+YLVCPIGWTGVIECTAVSPTTLRTEVVKTFRRDKPFPHRMDCVTTTVENEDLFYCKLGGNWTCVKGEPVV
+YTGGVVKQCRWCGFDFDGPDGLPHYPIGKCILANETGYRIVDSTDCNRDGVVISTEGSHECLIGNTAVKV
+HASDERLGPMPCRPKEIVSSAGPVMKTSCTFNYTKTLKNRYYEPRDSYFRQYMLKGEYQYWFDLDATDRH
+SDYFAEFVVLVVVALLRGRYVLWLIVTYAVL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Intramuscular vaccination of pigs with immunoaffinity-purified E1 (gp55) in a double water-oil emulsion elicited high titers of neutralizing antibodies between 2 and 4 weeks after vaccination at the lowest dose tested (20 micrograms). The vaccinated pigs were completely protected against intranasal challenge with 100 50% lethal doses of HCV (Classical swine fever virus) strain Brescia [Ref1066:Hulst et al., 1993].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1881">
+		<reference_name>Fernandez-Sainz et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fernandez-Sainz I, Holinka LG, Gavrilov BK, Prarat MV, Gladue D, Lu Z, Jia W, Risatti GR, Borca MV</authors>
+		<title>Alteration of the N-linked glycosylation condition in E1 glycoprotein of Classical Swine Fever Virus strain Brescia alters virulence in swine</title>
+		<year>2009</year>
+		<volume>386</volume>
+		<issue>1</issue>
+		<pages>210-216</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2383">
+		<reference_name>Hammond et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hammond JM, Jansen ES, Morrissy CJ, Goff WV, Meehan GC, Williamson MM, Lenghaus C, Sproat KW, Andrew ME, Coupar BE, Johnson MA</authors>
+		<title>A prime-boost vaccination strategy using naked DNA followed by recombinant porcine adenovirus protects pigs from classical swine fever</title>
+		<year>2001</year>
+		<volume>80</volume>
+		<issue>2</issue>
+		<pages>101-119</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1066">
+		<reference_name>Hulst et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hulst MM, Westra DF, Wensvoort G, Moormann RJ</authors>
+		<title>Glycoprotein E1 of hog cholera virus expressed in insect cells protects swine from hog cholera</title>
+		<year>1993</year>
+		<volume>67</volume>
+		<issue>9</issue>
+		<pages>5435-5442</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1065">
+		<reference_name>König et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>König M, Lengsfeld T, Pauly T, Stark R, Thiel HJ</authors>
+		<title>Classical swine fever virus: independent induction of protective immunity by two structural glycoproteins</title>
+		<year>1995</year>
+		<volume>69</volume>
+		<issue>10</issue>
+		<pages>6479-6486</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1064">
+		<reference_name>Lin et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lin GJ, Liu TY, Tseng YY, Chen ZW, You CC, Hsuan SL, Chien MS, Huang C</authors>
+		<title>Yeast-expressed classical swine fever virus glycoprotein E2 induces a protective immune response</title>
+		<year>2009</year>
+		<volume>139</volume>
+		<issue>3-4</issue>
+		<pages>369-374</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1976">
+		<reference_name>Maurer et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Maurer R, Stettler P, Ruggli N, Hofmann MA, Tratschin JD</authors>
+		<title>Oronasal vaccination with classical swine fever virus (CSFV) replicon particles with either partial or complete deletion of the E2 gene induces partial protection against lethal challenge with highly virulent CSFV</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>25</issue>
+		<pages>3318-3328</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference815">
+		<reference_name>Moormann et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Moormann RJ, Bouma A, Kramps JA, Terpstra C, De Smit HJ</authors>
+		<title>Development of a classical swine fever subunit marker vaccine and companion diagnostic test</title>
+		<year>2000</year>
+		<volume>73</volume>
+		<issue>2-3</issue>
+		<pages>209-219</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1882">
+		<reference_name>Sainz et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sainz IF, Holinka LG, Lu Z, Risatti GR, Borca MV</authors>
+		<title>Removal of a N-linked glycosylation site of classical swine fever virus strain Brescia Erns glycoprotein affects virulence in swine</title>
+		<year>2008</year>
+		<volume>370</volume>
+		<issue>1</issue>
+		<pages>122-129</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3222">
+		<reference_name>Sun et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sun Y, Tian DY, Li S, Meng QL, Zhao BB, Li Y, Li D, Ling LJ, Liao YJ, Qiu HJ</authors>
+		<title>Comprehensive evaluation of the adenovirus/alphavirus-replicon chimeric vector-based vaccine rAdV-SFV-E2 against classical swine fever</title>
+		<year>2013</year>
+		<volume>31</volume>
+		<issue>3</issue>
+		<pages>538-544</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2525">
+		<reference_name>Tarradas et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tarradas J, Ãlvarez B, Fraile L, Rosell R, MuÃ±oz M, Galindo-Cardiel I, Domingo M, Dominguez J, Ezquerra A, Sobrino F, Ganges L</authors>
+		<title>Immunomodulatory effect of swine CCL20 chemokine in DNA vaccination against CSFV</title>
+		<year>2011</year>
+		<volume>142</volume>
+		<issue>3-4</issue>
+		<pages>243-251</pages>
+		<journal_book_name>Veterinary immunology and immunopathology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference814">
+		<reference_name>van, 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>van Aarle P</authors>
+		<title>Suitability of an E2 subunit vaccine of classical swine fever in combination with the E(rns)-marker-test for eradication through vaccination</title>
+		<year>2003</year>
+		<volume>114</volume>
+		<issue></issue>
+		<pages>193-200</pages>
+		<journal_book_name>Developments in biologicals</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3283">
+		<reference_name>Voigt et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Voigt H, Merant C, Wienhold D, Braun A, Hutet E, Le Potier MF, Saalmüller A, Pfaff E, Büttner M</authors>
+		<title>Efficient priming against classical swine fever with a safe glycoprotein E2 expressing Orf virus recombinant (ORFV VrV-E2)</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>31</issue>
+		<pages>5915-5926</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2593">
+		<reference_name>Wan et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wan C, Yi L, Yang Z, Yang J, Shao H, Zhang C, Pan Z</authors>
+		<title>The Toll-like receptor adaptor molecule TRIF enhances DNA vaccination against classical swine fever</title>
+		<year>2010</year>
+		<volume>137</volume>
+		<issue>1-2</issue>
+		<pages>47-53</pages>
+		<journal_book_name>Veterinary immunology and immunopathology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3265">
+		<reference_name>Wang et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang YH, Li PH, Zhang MT, Zhang YM</authors>
+		<title>[Construction of recombinant fowlpox virus expressing E0 gene of classical swine fever virus shimen strain and the animal immunity experiment]</title>
+		<year>2008</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<pages>59-63</pages>
+		<journal_book_name>Bing du xue bao = Chinese journal of virology / [bian ji, Bing du xue bao bian ji wei yuan hui]</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1429">
+		<reference_name>Wiki:  Classical swine fever</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Classical swine fever</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Classical_swine_fever_virus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

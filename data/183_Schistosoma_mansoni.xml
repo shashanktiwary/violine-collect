@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen225">
+		<pathogen_name>Schistosoma mansoni</pathogen_name>
+		<taxon_id>6183</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Schistosomiasis</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference2771">Schistosomiasis, also known as bilharzia, is a disease caused by parasitic worms.  Infection occurs when your skin comes in contact with contaminated freshwater in which certain types of snails that carry schistosomes are living.
+
+Freshwater becomes contaminated by Schistosoma eggs when infected people urinate or defecate in the water. The eggs hatch, and if certain types of freshwater snails are present in the water, the parasites develop and multiply inside the snails. The parasite leaves the snail and enters the water where it can survive for about 48 hours. Schistosoma parasites can penetrate the skin of persons who are wading, swimming, bathing, or washing in contaminated water. Within several weeks, parasite mature into adult worms, residing in the blood vessels of the body where the females produce eggs. Some of the eggs travel to the bladder or intestine and are passed into the urine or stool.  Within days after becoming infected, you may develop a rash or itchy skin. Fever, chills, cough, and muscle aches can begin within 1-2 months of infection. Most people have no symptoms at this early phase of infection.
+
+When adult worms are present, the eggs that are produced usually travel to the intestine, liver or bladder, causing inflammation or scarring. Children who are repeatedly infected can develop anemia, malnutrition, and learning difficulties. After years of infection, the parasite can also damage the liver, intestine, lungs, and bladder. Rarely, eggs are found in the brain or spinal cord and can cause seizures, paralysis, or spinal cord inflammation.
+
+Symptoms of schistosomiasis are caused by the body's reaction to the eggs produced by worms, not by the worms themselves (CDC - Schistosomiasis).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3764">
+		<vaccine_name>S. mansoni DNA vaccine pcDNA/CTSOD encoding SOD</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004462</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNAI/Amp [Ref2396:Shalaby et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1276" gene_id="gene1369">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2396">Vector cDNAI/Amp (in vitrogen) expressed Cu/Zn superoxide dismutase, SOD (Shalaby et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1502" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2396">CT-SOD showed the highest level of protection out of all vaccines tested (54%).  Two immunizations resulted in significant reduction of worm burden compared to control groups (Shalaby et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3765">
+		<vaccine_name>S. mansoni DNA vaccine pcDNA/GPXbb encoding glutathione-S-peroxidase, GPX</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004463</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNAI/Amp (in vitrogen) [Ref2396:Shalaby et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1614" gene_id="gene1733">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1503" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2396">For the regimens involving GPXbb, immunization with DNA vaccination alone resulted in protection of 44%, but the prime-boost (boost of recombinant vaccinia virus/GPXbb) resulted in 85% worm burden reduction (Shalaby et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3767">
+		<vaccine_name>S. mansoni DNA vaccine Sm-p80-pcDNA3 encoding the large subunit of S. mansoni calpain</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004464</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 [Ref2397:Siddiqui et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2397">IL-2 (Siddiqui et al., 2003)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1615" gene_id="gene1734">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1505" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2397">Mice immunized with Sm-p80-pcDNA3 showed statistically significant 39% reduction in worm burden when compared with mice which received only pcDNA3.  Similarly, mice immunized with Sm-p80-pcDNA3 and co-injected with pORF-mIL-2 exhibited 57% reduction (P≤0.0001) in the number of parasites when compared with the group of mice receiving only pcDNA3 and pORF-mIL-2. Also, when mice were primed with Sm-p80-pcDNA3 in the presence of pORF-mIL-12, they contained 45% less number of parasites (P≤0.0001) compared to the group of mice which were immunized with pcDNA3 alone (Siddiqui et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3763">
+		<vaccine_name>S. mansoni DNA vaccine Sm23-pcDNA encoding Sm23</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004461</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA1.1/Amp [Ref2395:Da'dara et al., 2001]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1275" gene_id="gene1368">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2395">Vector pcDNA1.1/Amp expressed Schistosoma mansoni integral membrane protein Sm23 (Da'dara et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1504" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2395">The Sm23-pcDNA vaccine provided statistically significant levels of protection against challenge infection (21-44%, P&lt;0.001-0.02) (Da'dara et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1734">
+        <gene_name>calpain</gene_name>
+        <strain>Schistosoma mansoni strain Puerto Rico</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>353230291</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279042
+CDD:238004
+CDD:279416
+CDD:238132
+CDD:290234
+CDD:238008</xrefs>
+        <taxonomy_id>6183</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>calpain (C02 family)</protein_name>
+        <protein_pi>6.64</protein_pi>
+        <protein_weight>164811.89</protein_weight>
+        <protein_length>1591</protein_length>
+        <protein_note>Calpain family cysteine protease; pfam00648</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CCD76462.1 calpain (C02 family) [Schistosoma mansoni]
+MRRKKQNSDSETECNGVPLNYLDILKPTLTEKRVQFNLNIPCSITPKGYAKLHEKLTSPCIPHSKGKADS
+MADRVYRQIFLYCTNSLNGFTHSSKSETTYASPTAMRKIKISQYEIISAKMVEAKELYQDPEFPANDASI
+GNLPHVSGRVEWKRPKDINPLAAFCTKSYSRFDVDQGALGDCWFASVMATVTKYPSLMSNIIPPNQTFKG
+SGYTGAFVFNFWRFGEWVEVVVDDRIPVVKGTCNPVFIHSTDNSEFWSCLLEKAYAKLCGSYAHLTGGFQ
+SEAMEDFTGGICTTLILNKKERPPNLLKMMEHYTKTCCVMGADVGGDKNKRREELGLIGSHAYSVTGVGK
+VNYMGKDVYLVRCRNPWGERHEWKGPWSDNSPEWKDVKSKDKRALQYKPKEDGEFCSFQLTFILFISTSI
+SRRNVLFGLPLFRFPSPFQVRACLVMQFGDFLNVCPIHFQQSFCTNPQYLFTIGTDNSGKVGKAHIIVGV
+MQEHRRFLYGGEYLAIGFSIFEVSELQNTRLTPEELLCRKPLLTSDYIPRREVTLEADLFPGTFILIPST
+YNSNQEARYICRVFSTVKMKQLELDEENSYEGFPKKELASLELNFKQLCNPVTEKINSRILGTILDQSNF
+GEYMDGFTEFPSNLCSSLISSASTNLTGQIDLEEYLYLLIDLKGWMLTFNKYDDRKGCVSWFKFRDLLKS
+SGYKVSNRVFSVLAHRHIDHKRGHISLESYLHCMANLKFAFDVTSYHPKSDKGILMFNKEDVYSPDENVS
+GRTNRPGKEVVDPRTGRIIKVKRETPDDYLNVLKPIKGPKRMEFNPYLPKTLTPKGYAKFKLMMNVASKQ
+YETLVKRLKTERTLWEDPDFPANDKAIGNLPDFRERIEWKRPHEINPNAKFFAGGASRFDIEQGALGDCW
+LLAVVASISGYPQLFDQVVPKDQELKGPEYVGVVRFRFWRFGHWVEVLIDDRLPVRQGRNTLVFMHSNDP
+TEFWSALLEKAYAKLNGCYAHLSGGSQSEAMEDLTGGICLSLELNQKERPSDLIDQLKIYAQRCCLMGCS
+IDSSVMEQKMDNGLIGSHAYSLTGVYPVNYRGRTQWLMRLRNPWGDSHEWKGAWCDGSPQWREISEQEKK
+NINLSFTADGEFWMSYEDFVTCFSRVEVCHLGLESLEYNQNFHGKRRLDEAIFSGQWQRNVNAGGCINNR
+TTYWTNPQFRITVEDPDPDDDDNKCSVLIGLMQTDIRKKVGADFQPIGFMVYNAPDDLNTLLSRAQLLTR
+SPIAKSQFINTREVTAQFRVPPGSYVVIPSTFDPNIEVNFILRVFSQTSITEQELDEDNTNQGLPDDVIE
+ALKLEDTLLDEDQEIEQKFLAIRDPKTNAINAVKLGELLNNSTLQDIPNFQGFNKELCRSMVASVDNNLT
+GHVELNEFMDLWIQAKGWKHIFIKHDVDQSGYFSAYEFREALNDAGYHVSNRLINAIINRYQDPGTDKIS
+FEDFMLCMVRLKTAFETIEAHPKNIEGTSLFSAEDYLRFSVYI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1733">
+        <gene_name>GPX1</gene_name>
+        <strain>Schistosoma mansoni</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>212287928</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:238207
+CDD:278975</xrefs>
+        <taxonomy_id>6183</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Glutathione peroxidase</protein_name>
+        <protein_pi>9.34</protein_pi>
+        <protein_weight>19887.514</protein_weight>
+        <protein_length>245</protein_length>
+        <protein_note>GPX</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|Q00277.2|GPX1_SCHMA RecName: Full=Glutathione peroxidase; Short=GPX
+MSSSHKSWNSIYEFTVKDINGVDVSLEKYRGHVCLIVNVACKUGATDKNYRQLQEMHTRLVGKGLRILAF
+PCNQFGGQEPWAEAEIKKFVTEKYGVQFDMFSKIKVNGSDADDLYKFLKSRQHGTLTNNIKWNFSKFLVD
+RQGQPVKRYSPTTAPYDIEGDIMELLEKK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1368">
+        <gene_name>Sm23</gene_name>
+        <strain>Schistosoma mansoni</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>511890</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:278750
+CDD:239401</xrefs>
+        <taxonomy_id>6183</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>integral membrane protein 23</protein_name>
+        <protein_pi>6.44</protein_pi>
+        <protein_weight>21503.36</protein_weight>
+        <protein_length>286</protein_length>
+        <protein_note>Tetraspanin family; pfam00335</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA73525.1 integral membrane protein 23 [Schistosoma mansoni]
+MATLGTGMRCLKSCVFVLNIICLLCSLVLIGAGAYVEVKFSQYGDNLHKVWQAAPIAIIVVGVIILIVSF
+LGCCGAIKENVCMLYMYAFFLVVLLIAELAAAIVAVVYKDRIDSEIDALMTGALDKPTKEITEFMNLIQS
+SFHCCGAKGPNDYRGNVPASCKEENLTYTEGCVSVFGAFLKRNLVIVACVAFGVCFFQLLSIVIACCLGR
+QIKEYENV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1369">
+        <gene_name>SOD</gene_name>
+        <strain>Schistosoma mansoni strain NMRI</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>161119</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:238186</xrefs>
+        <taxonomy_id>6183</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>superoxide dismutase</protein_name>
+        <protein_pi>6.58</protein_pi>
+        <protein_weight>14406.56</protein_weight>
+        <protein_length>212</protein_length>
+        <protein_note>Copper/zinc superoxide dismutase (SOD). superoxide dismutases catalyse the conversion of superoxide radicals to molecular oxygen. Three evolutionarily distinct families of SODs are known, of which the copper/zinc-binding family is one. Defects in the...; cd00305</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA29935.1 superoxide dismutase [Schistosoma mansoni]
+MKAVCVMTGTAGVKGVVKFTQETDNGPVHVHAEFSGLKAGKHGFHVHEFGDTTNGCTSAGAHFNPTKQEH
+GAPEDSIRHVGDLGNVVAGADGNAVYNATDKLISLNGSHSIIGRSMVIHENEDDLGRGGHELSKVTGNAG
+GRLACGVVGLAAE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2771">
+		<reference_name>CDC - Schistosomiasis</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Parasites - Schistosomiasis</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.cdc.gov/parasites/schistosomiasis/gen_info/faqs.html</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2395">
+		<reference_name>Da'dara et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Da'dara AA, Skelly PJ, Wang MM, Harn DA</authors>
+		<title>Immunization with plasmid DNA encoding the integral membrane protein, Sm23, elicits a protective immune response against schistosome infection in mice</title>
+		<year>2001</year>
+		<volume>20</volume>
+		<issue>3-4</issue>
+		<pages>359-369</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5072">
+		<reference_name>Mossallam et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mossallam SF, Amer EI, Ewaisha RE, Khalil AM, Aboushleib HM, Bahey-El-Din M</authors>
+		<title>Fusion protein comprised of the two schistosomal antigens, Sm14 and Sm29, provides significant protection against Schistosoma mansoni in murine infection model</title>
+		<year>2015</year>
+		<volume>15</volume>
+		<issue></issue>
+		<pages>147</pages>
+		<journal_book_name>BMC infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2396">
+		<reference_name>Shalaby et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shalaby KA, Yin L, Thakur A, Christen L, Niles EG, LoVerde PT</authors>
+		<title>Protection against Schistosoma mansoni utilizing DNA vaccination with genes encoding Cu/Zn cytosolic superoxide dismutase, signal peptide-containing superoxide dismutase and glutathione peroxidase enzymes</title>
+		<year>2003</year>
+		<volume>22</volume>
+		<issue>1</issue>
+		<pages>130-136</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2397">
+		<reference_name>Siddiqui et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Siddiqui AA, Phillips T, Charest H, Podesta RB, Quinlin ML, Pinkston JR, Lloyd JD, Pompa J, Villalovos RM, Paz M</authors>
+		<title>Enhancement of Sm-p80 (large subunit of calpain) induced protective immunity against Schistosoma mansoni through co-delivery of interleukin-2 and interleukin-12 in a DNA vaccine formulation</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>21-22</issue>
+		<pages>2882-2889</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5071">
+		<reference_name>Tallima et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tallima H, Dvo?�k J, Kareem S, Abou El Dahab M, Abdel Aziz N, Dalton JP, El Ridi R</authors>
+		<title>Protective immune responses against Schistosoma mansoni infection by immunization with functionally active gut-derived cysteine peptidases alone and in combination with glyceraldehyde 3-phosphate dehydrogenase</title>
+		<year>2017</year>
+		<volume>11</volume>
+		<issue>3</issue>
+		<pages>e0005443</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen199">
+		<pathogen_name>Porcine parvovirus</pathogen_name>
+		<taxon_id>10796</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>SMEDI, reproductive failure</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="">Pigs</host_range>
+		<introduction refs="reference1626">Porcine parvovirus (PPV) is the cause of reproductive failure in swine characterized by embryonic and fetal infection and death (SMEDI), generally without outward maternal clinical signs. The virus is ubiquitous throughout the world and is endemic in most swine herds. PPV can also potentiate the effects of infection with porcine circovirus type 2. The most common routes of infection for postnatal and prenatal pigs are oronasal and transplacental.  Infection is endemic in most herds, and generally sows are immune.  The virus can persist in the environment, as it is themostable and resistant to many common disinfectants. The major and usually only clinical response of PPV infection is maternal reproductive failure, such as infertility, abortion, stillbirth, neonatal death and reduced neonatal vitality (Mengeling, 2006).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine2922">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae Bacterin (USDA: 4906.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002290</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2924">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4BC5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002321</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2927">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4BC5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002322</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2930">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4BC5.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002323</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2933">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 48C5.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002277</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2936">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 48C5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002278</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2939">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 48C5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc., Pfizer, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002279</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2942">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 48C5.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002280</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2945">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4975.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002292</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2947">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4975.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002293</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2949">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4975.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002294</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2951">
+		<vaccine_name>Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4960.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002291</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2953">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus  Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49F6.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002309</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2957">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus  Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49F6.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002310</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2961">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus  Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49F6.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002311</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2965">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49G6.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002312</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2969">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49G6.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002313</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2973">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49G6.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002314</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2988">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome-Parvovirus Reproductive Form, Modified Live &amp; Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4P19.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002324</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<reference reference_id="reference4980">
+		<reference_name>Ji et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ji P, Liu Y, Chen Y, Wang A, Jiang D, Zhao B, Wang J, Chai S, Zhou E, Zhang G</authors>
+		<title>Porcine parvovirus capsid protein expressed in Escherichia coli self-assembles into virus-like particles with high immunogenicity in mice and guinea pigs</title>
+		<year>2017</year>
+		<volume>139</volume>
+		<issue></issue>
+		<pages>146-152</pages>
+		<journal_book_name>Antiviral research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5032">
+		<reference_name>Qi and Cui, 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Qi T, Cui SJ</authors>
+		<title>Expression, purification, and characterization of recombinant NS-1, the porcine parvovirus non-structural protein</title>
+		<year>2009</year>
+		<volume>157</volume>
+		<issue>1</issue>
+		<pages>93-97</pages>
+		<journal_book_name>Journal of virological methods</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4982">
+		<reference_name>Xie et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xie HL, Wang Z, Cui SJ, Zhang CF, Cui YD</authors>
+		<title>The epitope of the VP1 protein of porcine parvovirus</title>
+		<year>2010</year>
+		<volume>7</volume>
+		<issue></issue>
+		<pages>161</pages>
+		<journal_book_name>Virology journal</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

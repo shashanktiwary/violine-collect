@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen178">
+		<pathogen_name>Haemophilus parasuis</pathogen_name>
+		<taxon_id>738</taxon_id>
+		<pathogenesis refs="reference1612">H. parasuis colonizes the respiratory tracts of pigs, and can then cause systemic infection (Oliveira and Pijoan, 2004).</pathogenesis>
+		<disease_name>Glasser's disease</disease_name>
+		<protective_immunity refs="reference1612">Early colonized pigs are protected against systemic infection by maternal antibodies. As maternal immunity decreases, these pigs are able to mount an active immune response to these virulent strains (Oliveira and Pijoan, 2004).</protective_immunity>
+		<host_range refs="">Pigs</host_range>
+		<introduction refs="reference1612">H. parasuis is a non-motile, small, pleomorphic rod in the family Pasteurellaceae, and is the etiologic agent of Glasser's disease. Glasser’s disease is characterized by fibrinous polyserositis, polyarthritis and meningitis. H. parasuis often produces acute septicemia, and its endotoxin induces disseminated intravascular coagulation, resulting in the formation of microthrombi in several organs (Oliveira and Pijoan, 2004).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1927">
+		<vaccine_name>Haemophilus Parasuis Avirulent Live Culture Vaccine (USDA: 19J1.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Newport Laboratories, Inc.</manufacturer>
+		<vo_id>VO_0001794</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1418" gene_id="gene1628">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3865">
+		<vaccine_name>pCgap DNA vaccine encoding glyceraldehyde-3-phosphate dehydrogenase</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004515</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 Directional TOPO vector (pcDNA3.1D/V5-His-TOPO) [Ref2526:Fu et al., 2012]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1609" gene_id="gene1628">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1509" host_id="host3">
+			<immune_response refs="reference2526">Although IgG analysis showed production of both IgG1 and IgG2, the higher levels of IgG1 indicated the dominance of Th2 response over Th1 response (Fu et al., 2012).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2526">Four to five week old female BALB/c mice were divided randomly into three groups (30 mice per group): one group was injected intramuscularly in the hind thigh muscle with 100 μg of plasmid dissolved in 100 μl PBS; the other two groups were injected with pcDNA 3.1 vector only as negative control or PBS as blank control. Mice received a vaccination boost of an equivalent dose on day 14 and 28 following the first immunization (Fu et al., 2012).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2526">The groups vaccinated with the pCgap vaccine exhibited 83.3% and 50% protective efficacy against the H. parasuis MD0322 serovar 4 or SH0165 serovar 5 challenges, respectively (Fu et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2526">Two weeks after the second vaccination boost, mice immunized with pCgap were divided into groups 1 and 2 (12 mice/group). The mice from group 1 were challenged intraperitoneally with a lethal dose of 3.0 × 10^9 CFU of H. parasuis SH0165 strain and the mice from group 2 were challenged intraperitoneally with a lethal dose of 3.0 × 10^9 CFU of H. parasuis MD0322 strain. Mice were monitored for seven days post-challenge, and morbidity and mortality were recorded (Fu et al., 2012).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2981">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Respiratory Form, Modified Live Virus Vaccine-Erysipelothrix Rhusiopathiae-Haemophilus Parasuis Bacterin (USDA: 49V9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0004216</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2983">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Respiratory Form, Modified Live Virus Vaccine-Haemophilus Parasuis Bacterin (USDA: 49Q9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0004218</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene1628">
+        <gene_name>gapA</gene_name>
+        <strain>Haemophilus parasuis SH0165</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>7278596</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>498484148</ncbi_protein_id>
+        <gene_locus_tag>HAPS_RS00005</gene_locus_tag>
+        <gene_refseq>CP001321</gene_refseq>
+        <protein_refseq>WP_010785946</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>557723</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1</gene_start>
+        <gene_end>1020</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>type I glyceraldehyde-3-phosphate dehydrogenase</protein_name>
+        <protein_pi>6.07</protein_pi>
+        <protein_weight>32717.08</protein_weight>
+        <protein_length>339</protein_length>
+        <protein_note>COG:G;COG0057</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_011852.1:1-1020 Haemophilus parasuis SH0165, complete genome
+TATGGCAATTAAAATTGGTATTAACGGCTTTGGCCGTATCGGTCGTATCGTATTCCGTGCAGCACAAAAA
+CGTGATGACATCGAAGTAGTTGGTATCAACGACTTAATTGATGTTGAGTATATGGCATATATGCTCAAAT
+ACGATTCAACTCACGGTCGTTTCGATGGCACTGTCGAAGTAAAAGACGGCAAATTAGTTGTAAACGGTAA
+AGAAATCCGTGTTACTTCTGAGCGTGACCCAGCTAACTTAAAATGGAATGAAATTGGTGTGGATATCGCA
+GTTGAAGCAACAGGTTTATTCTTGGACGATACAACTGCTCGTAAACACATCGAAGCTGGTGCGAAAAAAG
+TCGTTTTAACTGGTCCATCTAAAGATAGCACACCTATGTTCGTAAACGGTGTAAACTTCAACGCTTATGC
+TGGTCAAGACATCGTTTCTAACGCTTCTTGTACAACAAACTGCTTAGCACCACTTGCTCGTGTTATCCAC
+GAAACATTTGGTATCAAAGAAGGTTTAATGACAACTGTTCATGCAACAACAGCAACACAAAAAACTGTTG
+ATGGTCCATCAGCAAAAGACTGGCGCGGTGGTCGTGGTGCGGCACAAAACATCATTCCATCTTCAACAGG
+TGCAGCGAAAGCAGTAGGTAAAGTATTACCAGCATTAAACGGTAAATTAACAGGTATGGCGTTCCGTGTT
+CCAACAGCAAACGTATCTGTTGTTGATTTAACTGTAAACTTAGAAAAACCAGCAAGCTACGAAGAGATCA
+AAAAAGCGATCAAAGATGCAGCAGAAGGTAAAACATTCAACGGCGAATTAAAAGGCGTTTTAGGTTATAC
+TGAAGATGCAGTAGTATCAACAGACTTCAACGGTGCAGTTGAAACTTCTGTATTTGATGCAGATGCAGGT
+ATCGCATTAACAGATACATTCGTGAAACTTGTTTCTTGGTATGACAACGAAACTGGTTACTCAAACAAAG
+TATTAGACTTAGTTGCTCACGTTTACAACTACAAAGGCTA
+
+</dna_sequence>
+        <protein_sequence>>WP_010785946.1 type I glyceraldehyde-3-phosphate dehydrogenase [Glaesserella parasuis]
+MAIKIGINGFGRIGRIVFRAAQKRDDIEVVGINDLIDVEYMAYMLKYDSTHGRFDGTVEVKDGKLVVNGK
+EIRVTSERDPANLKWNEIGVDIAVEATGLFLDDTTARKHIEAGAKKVVLTGPSKDSTPMFVNGVNFNAYA
+GQDIVSNASCTTNCLAPLARVIHETFGIKEGLMTTVHATTATQKTVDGPSAKDWRGGRGAAQNIIPSSTG
+AAKAVGKVLPALNGKLTGMAFRVPTANVSVVDLTVNLEKPASYEEIKKAIKDAAEGKTFNGELKGVLGYT
+EDAVVSTDFNGAVETSVFDADAGIALTDTFVKLVSWYDNETGYSNKVLDLVAHVYNYKG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4778">
+		<reference_name>Barasuol et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Barasuol BM, Guizzo JA, Fegan JE, Mart�nez-Mart�nez S, Rodr�guez-Ferri EF, Guti�rrez-Mart�n CB, Kreutz LC, Schryvers AB, Frandoloso R</authors>
+		<title>New insights about functional and cross-reactive properties of antibodies generated against recombinant TbpBs of Haemophilus parasuis</title>
+		<year>2017</year>
+		<volume>7</volume>
+		<issue>1</issue>
+		<pages>10377</pages>
+		<journal_book_name>Scientific reports</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2526">
+		<reference_name>Fu et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fu S, Zhang M, Ou J, Liu H, Tan C, Liu J, Chen H, Bei W</authors>
+		<title>Construction and immune effect of Haemophilus parasuis DNA vaccine encoding glyceraldehyde-3-phosphate dehydrogenase (GAPDH) in mice</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>48</issue>
+		<pages>6839-6844</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4896">
+		<reference_name>Guo et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guo L, Xu L, Wu T, Fu S, Qiu Y, Hu CA, Ren X, Liu R, Ye M</authors>
+		<title>Evaluation of recombinant protein superoxide dismutase of Haemophilus parasuis strain SH0165 as vaccine candidate in a mouse model</title>
+		<year>2017</year>
+		<volume>63</volume>
+		<issue>4</issue>
+		<pages>312-320</pages>
+		<journal_book_name>Canadian journal of microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4851">
+		<reference_name>Hong et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hong M, Ahn J, Yoo S, Hong J, Lee E, Yoon I, Jung JK, Lee H</authors>
+		<title>Identification of novel immunogenic proteins in pathogenic Haemophilus parasuis based on genome sequence analysis</title>
+		<year>2011</year>
+		<volume>148</volume>
+		<issue>1</issue>
+		<pages>89-92</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4887">
+		<reference_name>Huang et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Huang X, Li Y, Fu Y, Ji Y, Lian K, Zheng H, Wei J, Cai X, Zhu Q</authors>
+		<title>Cross-protective efficacy of recombinant transferrin-binding protein A of Haemophilus parasuis in guinea pigs</title>
+		<year>2013</year>
+		<volume>20</volume>
+		<issue>6</issue>
+		<pages>912-919</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4880">
+		<reference_name>Li et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li M, Song S, Yang D, Li C, Li G</authors>
+		<title>Identification of secreted proteins as novel antigenic vaccine candidates of Haemophilus parasuis serovar 5</title>
+		<year>2015</year>
+		<volume>33</volume>
+		<issue>14</issue>
+		<pages>1695-1701</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4891">
+		<reference_name>Li et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li M, Li C, Song S, Kang H, Yang D, Li G</authors>
+		<title>Development and antigenic characterization of three recombinant proteins with potential for Gl�sser's disease prevention</title>
+		<year>2016</year>
+		<volume>34</volume>
+		<issue>19</issue>
+		<pages>2251-2258</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4792">
+		<reference_name>Li et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li M, Cai RJ, Song S, Jiang ZY, Li Y, Gou HC, Chu PP, Li CL, Qiu HJ</authors>
+		<title>Evaluation of immunogenicity and protective efficacy of recombinant outer membrane proteins of Haemophilus parasuis serovar 5 in a murine model</title>
+		<year>2017</year>
+		<volume>12</volume>
+		<issue>4</issue>
+		<pages>e0176537</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4830">
+		<reference_name>Macedo et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Macedo N, Oliveira S, Torremorell M, Rovira A</authors>
+		<title>Immune response to oligopeptide permease A (OppA) protein in pigs naturally and experimentally infected with Haemophilus parasuis</title>
+		<year>2016</year>
+		<volume>107</volume>
+		<issue></issue>
+		<pages>62-67</pages>
+		<journal_book_name>Research in veterinary science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1612">
+		<reference_name>Oliveira and Pijoan, 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Oliveira S, Pijoan C</authors>
+		<title>Haemophilus parasuis: new trends on diagnosis, epidemiology and control</title>
+		<year>2004</year>
+		<volume>99</volume>
+		<issue>1</issue>
+		<pages>1-12</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4852">
+		<reference_name>Olvera et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Olvera A, Pina S, P�rez-Sim� M, Arag�n V, Segal�s J, Bensaid A</authors>
+		<title>Immunogenicity and protection against Haemophilus parasuis infection after vaccination with recombinant virulence associated trimeric autotransporters (VtaA)</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>15</issue>
+		<pages>2797-2802</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4859">
+		<reference_name>Tian et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tian H, Fu F, Li X, Chen X, Wang W, Lang Y, Cong F, Liu C, Tong G, Li X</authors>
+		<title>Identification of the immunogenic outer membrane protein A antigen of Haemophilus parasuis by a proteomics approach and passive immunization with monoclonal antibodies in mice</title>
+		<year>2011</year>
+		<volume>18</volume>
+		<issue>10</issue>
+		<pages>1695-1701</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4857">
+		<reference_name>Wen et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wen Y, Yan X, Wen Y, Cao S, He L, Ding L, Zhang L, Zhou P, Huang X, Wu R, Wen X</authors>
+		<title>Immunogenicity of the recombinant HxuCBA proteins encoded by hxuCBA gene cluster of Haemophilus parasuis in mice</title>
+		<year>2016</year>
+		<volume>591</volume>
+		<issue>2</issue>
+		<pages>478-483</pages>
+		<journal_book_name>Gene</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4876">
+		<reference_name>Yuan et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yuan F, Fu S, Hu J, Li J, Chang H, Hu L, Chen H, Tian Y, Bei W</authors>
+		<title>Evaluation of recombinant proteins of Haemophilus parasuis strain SH0165 as vaccine candidates in a mouse model</title>
+		<year>2012</year>
+		<volume>93</volume>
+		<issue>1</issue>
+		<pages>51-56</pages>
+		<journal_book_name>Research in veterinary science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4931">
+		<reference_name>Zhou et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhou M, Guo Y, Zhao J, Hu Q, Hu Y, Zhang A, Chen H, Jin M</authors>
+		<title>Identification and characterization of novel immunogenic outer membrane proteins of Haemophilus parasuis serovar 5</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>38</issue>
+		<pages>5271-5277</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

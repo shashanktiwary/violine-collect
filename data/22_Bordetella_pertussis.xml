@@ -1,0 +1,2556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen109">
+		<pathogen_name>Bordetella pertussis</pathogen_name>
+		<taxon_id>520</taxon_id>
+		<pathogenesis refs="reference1409">The bacterium contains a surface protein, filamentous hemagglutinin, which binds to sulfatides that are found on cilia of epithelial cells. Once anchored, the bacterium produces tracheal cytotoxin, which stops the cilia from beating. This prevents the cilia from clearing debris from the lungs, so the body responds by sending the host into a coughing fit. These coughs expel some bacteria into the air, which are free to infect other hosts. Bordetella pertussis has the ability to inhibit the function of the host's immune system. Two toxins, known as the pertussis toxin (or PTx) and adenylate cyclase (CyaA), are responsible for this inhibition. CyaA converts ATP to cyclic AMP, and PTx inhibits an intracellular protein that regulates this process. The end result is that phagocytes convert too much ATP to cyclic AMP, which can cause disturbances in cellular signaling mechanisms, and prevent phagocytes from correctly responding to an infection (Wiki: Bordetella pertussis).</pathogenesis>
+		<disease_name>Whooping Cough</disease_name>
+		<protective_immunity refs="reference1530">Acellular pertussis vaccines are effective in providing immunity to whooping cough, by stimulating antibodies to pertussis toxins, as well as an adhesin (Salyers and Whitt., 2002).</protective_immunity>
+		<host_range refs="reference1530">Animal models of pertussis include primates, rats, mice, and rabbits (Salyers and Whitt., 2002).</host_range>
+		<introduction refs="reference1409">Bordetella pertussis is a Gram-negative, aerobic coccobacillus of the genus Bordetella, and the causative agent of pertussis or whooping cough. Pertussis (or Whooping Cough), is an infection of the respiratory system and characterized by a “whooping” sound when the person breathes in. In the US it killed 5,000 to 10,000 people per year before a vaccine was available. Vaccination has transformed this and between 1985-88 fewer than 100 children died from pertussis. Worldwide in 2000, according to the WHO, around 39 million people were infected annually and about 297,000 died.  Bordetella pertussis infects its host by colonizing lung epithelial cells. The infection occurs most with children under the age of one when they are unimmunized or children with faded immunity, normally around the age 11 through 18. The signs and symptoms are similar to a common cold: runny nose, sneezing, mild cough, and low-grade fever. The patient becomes most contagious during the catarrhal stage of infection, normally 2 weeks after the coughing begins. It may become airborne when the person coughs, sneezes, or laughs. Pertussis vaccine is part of the DTaP (diphtheria, tetanus, acellular pertussis) immunization. The paroxysmal cough precedes a crowing inspiratory sound characteristic of pertussis. After a spell, the patient might make a “whooping” sound when breathing in, or vomit. Adults have milder symptoms, like prolonged coughing without the “whoop.” Infants less than 6 months may not have the typical whoop. A coughing spell may last a minute or more, producing cyanosis, apnoea and seizures. However, when not in a coughing fit, the patient does not experience trouble breathing. This is because Bordetella pertussis inhibits the immune response and therefore very little mucus is generated in the lungs. A prolonged cough may be irritating and sometimes a disabling cough may go undiagnosed in adults for many months (Wiki: Bordetella pertussis).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine761">
+		<vaccine_name>Actacel</vaccine_name>
+		<proper_name>Diphtheria, tetanus, acellular pertussis, Haemophilus influenzae type b conjugate vaccine</proper_name>
+		<brand_name>Actacel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010705</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + Conjugate.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Refrigerate at 2° to 8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine774">
+		<vaccine_name>Adacel</vaccine_name>
+		<proper_name>Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine, Adsorbed</proper_name>
+		<brand_name>Adacel</brand_name>
+		<manufacturer>Sanofi Pasteur, Ltd (USA: License #1726)</manufacturer>
+		<vo_id>VO_0000005</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA: License #1726; Canada</location_licensed>
+		<description refs="">It is a sterile liquid suspension of tetanus and diphtheria toxoids and acellular pertussis components adsorbed onto aluminum phosphate, for intramuscular administration.</description>
+		<adjuvant refs="">aluminum phosphate</adjuvant>
+		<storage refs="">Adacel vaccine should be stored at 2° to 8°C (35° to 46°F). DO NOT FREEZE</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference940">Clostridium tetani is grown in modified Mueller-Miller casamino acid medium without beef heart infusion. Tetanus toxin is detoxified with formaldehyde and purified by ammonium sulfate fractionation and diafiltration. Diphtheria and tetanus toxoids are individually adsorbed onto aluminum phosphate (FDA: Adacel).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Pertussis</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5579">
+		<vaccine_name>Adacel-Polio</vaccine_name>
+		<proper_name>Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine Adsorbed Combined with Inactivated Poliomyelitis Vaccine</proper_name>
+		<brand_name>Adacel-Polio</brand_name>
+		<manufacturer>Sanofi Pasteur SA</manufacturer>
+		<vo_id></vo_id>
+		<type>Toxoid vaccine + Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="reference4095">ADACEL®-POLIO is a sterile, uniform, cloudy, white suspension of tetanus and diphtheria toxoids and acellular pertussis vaccine adsorbed separately on aluminum phosphate and combined with inactivated poliomyelitis vaccine (vero cell origin) types 1, 2 and 3, and suspended in water for injection. Acellular pertussis vaccine is composed of five purified pertussis antigens (PT, FHA, PRN and FIM). (Product Monograph: Adacel-Polio)</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine796">
+		<vaccine_name>B. pertussis BrkA protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011377</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">B. pertussis brkA</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering257" gene_id="gene383">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1024">Fraction BS was applied to a Mono Q Sepharose (Amersham, Biosciences) (0.5 mg protein per ml resin) previously equilibrated with 25 mM Tris–HCl, pH 8.0. Proteins were eluted with a NaCl gradient (0–1 M) in 25 mM Tris–HCl, pH 8.0, in 0.5 ml fractions at a flow rate of 1 ml/min. Elution was monitored at A280 nm. The fractions showing the same peak profile were pooled and eluted again under the same chromatography conditions. Samples were submitted to sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) (T = 12.5% in 0.75 M Tris, 0.2% SDS, pH 8.8) and electrophoresis was performed at 60 mA in 25 mM Tris, 0.192 M glycine, 0.1% SDS, pH 8.3. The gel was stained with silver nitrate and fractions showing a similar molecular mass profile were pooled, concentrated by centrifugation at 440 × g in Centrifugal Ultrafree-20 tubes, 10 kDa (Millipore), and their protein concentration was evaluated. Four pools were formed (P1, P2, P3, P4), and used for immunization of mice (Cainelli et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response556" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1024">Female BALB/c mice, 4–6 weeks old (Animal House of the Instituto Butantan) (9–15 mice/group) were subcutaneously injected three times at weekly intervals (days 0, 7, 14) with BS pools (P1, P2, P3, P4) (1 μg/0.1 ml/mouse), and two times (days 0 and 14) with 73 kDa or 60 kDa proteins (1 μg/0.1 ml/mouse) alone or mixed with Diphtheria-Pertussis-Tetanus (DPT) vaccine formulated without aluminum hydroxide (NA-DPT), (2 μl/mouse), (Instituto Butantan). Current DPT vaccine containing aluminum hydroxide (DPTBut) was used as control (2 μl/mouse) (Lot no. 0008147/0 and 0309132, Instituto Butantan). Non-immunized mice (injected with physiologic saline) were used as control (Cainelli et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1024">High levels of antibodies were induced, and a 78% protection rate of mice challenged with live B. pertussis was observed. The 73 kDa N-terminal alpha-domain of BrkA autotransporter protein, one protein identified in the fraction, stimulated antibodies against pertussis and induced a 42% protection rate against the challenge (Cainelli et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1024">Animals were challenged by intracerebral route (i.c.) with live B. pertussis (strain 18323, NIH, USA), 21 days after the first immunization. Each mouse was inoculated with 30,000 live bacteria. Deaths were recorded until day 15 (Cainelli et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine797">
+		<vaccine_name>B. pertussis Cpn60 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011357</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">B. pertussis cpn60/60 kDa chaperonin</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering258" gene_id="gene382">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1024">Fraction BS was applied to a Mono Q Sepharose (Amersham, Biosciences) (0.5 mg protein per ml resin) previously equilibrated with 25 mM Tris–HCl, pH 8.0. Proteins were eluted with a NaCl gradient (0–1 M) in 25 mM Tris–HCl, pH 8.0, in 0.5 ml fractions at a flow rate of 1 ml/min. Elution was monitored at A280 nm. The fractions showing the same peak profile were pooled and eluted again under the same chromatography conditions. Samples were submitted to sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE) (T = 12.5% in 0.75 M Tris, 0.2% SDS, pH 8.8) and electrophoresis was performed at 60 mA in 25 mM Tris, 0.192 M glycine, 0.1% SDS, pH 8.3. The gel was stained with silver nitrate and fractions showing a similar molecular mass profile were pooled, concentrated by centrifugation at 440 × g in Centrifugal Ultrafree-20 tubes, 10 kDa (Millipore), and their protein concentration was evaluated. Four pools were formed (P1, P2, P3, P4), and used for immunization of mice (Cainelli et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response557" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1024">Female BALB/c mice, 4–6 weeks old (Animal House of the Instituto Butantan) (9–15 mice/group) were subcutaneously injected three times at weekly intervals (days 0, 7, 14) with BS pools (P1, P2, P3, P4) (1 μg/0.1 ml/mouse), and two times (days 0 and 14) with 73 kDa or 60 kDa proteins (1 μg/0.1 ml/mouse) alone or mixed with Diphtheria-Pertussis-Tetanus (DPT) vaccine formulated without aluminum hydroxide (NA-DPT), (2 μl/mouse), (Instituto Butantan). Current DPT vaccine containing aluminum hydroxide (DPTBut) was used as control (2 μl/mouse) (Lot no. 0008147/0 and 0309132, Instituto Butantan). Non-immunized mice (injected with physiologic saline) were used as control (Cainelli et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1024">High levels of antibodies were induced, and a 78% protection rate of mice challenged with live B. pertussis was observed. The Cpn60/60 kDa chaperonin, one protein identified in the fraction, stimulated antibodies against pertussis and induced a 42% protection rate against the challenge (Cainelli et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1024">Animals were challenged by intracerebral route (i.c.) with live B. pertussis (strain 18323, NIH, USA), 21 days after the first immunization. Each mouse was inoculated with 30,000 live bacteria. Deaths were recorded until day 15 (Cainelli et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine799">
+		<vaccine_name>B. pertussis CyaA protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011359</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">B. pertussis secreted adenylate cyclase (cyaA)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering260" gene_id="gene376">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1019">The AC was purified from culture supernatants using a camodulin affinity chromatography.  The preparation consisted of two polypeptides of 45 and 43 kDa that are structurally related as described by Ladant et al (Guiso et al., 1989).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response559" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1019">For active immunizations, Balb/c mice were given, subcutaneously, 3,ug of purified AC adsorbed on aluminium hydroxide, three times, at one week intervals . The mice were bled 5 days after the last injection in order to assess the presence of circulating anti-AC antibodies . The lethal challenge was performed 9 days after the final injection (Guiso et al., 1989).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1019">Active immunization with purified B. pertussis secreted adenylate cyclase (cyaA) protect mice against a lethal respiratory challenge with B. pertussis or B. parapertussis (Guiso et al., 1989).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1019">Bacterial suspension (50 pl) was injected intranasally to groups of 10 3-week-old female Balb/c mice (CERJ, St Berthevin, France), weighing 16±1 g .  The LD 50 for the challenge inocula was determined daily by recording the number of dead mice . Pulmonary edema was quantified by lung weight (Guiso et al., 1989).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine808">
+		<vaccine_name>B. pertussis DNA vaccine encoding Prn</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011391</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>DONR221 (Invitrogen, Carlsbad, CA) and pABB-CRS2 [Ref1021:Komatsu et al., 2010].</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">B. pertussis pertactin precursor prn2</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering274" gene_id="gene378">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1021">To construct a prn mutant, amplification of the region containing the whole prn2 gene of the CCHMC1 strain was performed using PRN-F GGCACAGGACCGGCGCGTGTTTCGCGCACGACTCT) and PRN-R (CGCGTGGTGCGCCTGAAAGGCGGCGATGCCTTCA) with attB adaptors. The PCR products were cloned into pDONR221 to obtain pDONR-PTXA1 and pDONR-PRN2 by site-specific recombination techniques using the Gateway cloning system (Invitrogen). The regions transferred into the pDONR221 plasmid were sequenced for verification. pDONR-PTXA1 or pDONR-PRN2 was mixed with pABB-CRS2 to obtain pABB-PTXA1 and pABB-PRN2 by using the Gateway cloning system. pABB-PTXA1 or pABB-PRN2 was introduced into E. coli SM10pir and mobilized into the B. pertussis strain Tohama by conjugation (Komatsu et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response569" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1021">3.5-week-old female BALB/c mice (Japan SLC, Hamamatsu) were immunized by two subcutaneous injections of 0.25 SHDs (0.125 ml) over a 2-week interval (Komatsu et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1021">While the vaccine was effective against all of the B. pertussis strains regardless of the allele expression pattern, the strain expressing ptxA1 and prn2 displayed a survival advantage over the other strains (Komatsu et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1021">Two weeks after the second immunization, 50 µl of a suspension containing approximately 6 x 10^6 CFU of B. pertussis was instilled intranasally into mice anesthetized by intraperitoneal injection with pentobarbital sodium (Nembutal; Abbott Laboratories, Abbott Park, IL). Two hours (day 0) or 2, 5, or 8 days after the challenge, the mice were euthanized by pentobarbital injection (Komatsu et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3899">
+		<vaccine_name>B. pertussis DNA vaccine pcDNA/S1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004545</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA.3.1(+) [Ref2663:Kamachi et al., 2003]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1448" gene_id="gene1643">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1541" host_id="host3">
+			<immune_response refs="reference2663">Gene gun vaccination was employed for the delivery of pcDNA/S1, and the induction of IgG1 predominant antibody production was observed (Kamachi et al., 2003).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2663">For immunization, 0.5 mg of gold particles were coated with 2 μg of plasmid DNA and 0.5 mg gold per injection was used. Mice were immunized intradermally three times on days 0, 14, and 28 using a Helios Gene Gun at a helium gas pressure of 400 psi (Kamachi et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2663">In the pcDNA/S1-immune group, five out of 10 mice survived 24 hours after the challenge, whereas all of the mice in the pcDNA-immune group died within 24 hours (Kamachi et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2663">Immunized BALB/c mice were challenged intranasally with B. pertussis strain 18–323 (Kamachi et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine805">
+		<vaccine_name>B. pertussis FhaB and 69 kDa OMP protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011498</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1017">4.0 ml Alhydrogel (Novotny et al., 1991)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Combination of the B. pertussis 69-kDa outer membrane protein and filamentous hemagglutinin (fhaB)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering270" gene_id="gene375">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1017">A crystal clear supernatant of 5-day-old static cultures containing proteolysis inhibitor was purified.  To remove impurities, the FHA was precipitated by overnight dialysis against 25-30 volumes of buffer A at 4 C, and the precipitate was collected by centrifugation. The precipitated FHA was dissolved in the smallest possible volume of 40 mM B-alanine buffer at pH 3.5, clarified by centrifugation, and applied at room temperature at a flow of 30 ml/h to a Superose 12 column. The retained highly purified FHA was eluted (Novotny et al., 1991).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response565" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1017">Groups of mice were injected intraperitoneally with 0.5 ml volumes of four concentrations (Novotny et al., 1991).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1017">A combination of the 69-kDa outer membrane protein and filamentous hemagglutinin (fhaB), both isolated from lymphocytosis promoting factor (LPF; pertussis toxin) minus mutants of Bordetella pertussis, is protective in the mouse intracerebral challenge potency (Kendrick) test (Novotny et al., 1991).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1017">Mice were challenged intracerebrally 14 days after antigen injection.  The challenge dose contained 300-400 LD50, and a 1:1250 dilution of the challenge does contained ~ 10cfu.  All mice were challenged within 90 minutes after the challenge suspension was thawed; the challenge was injected using a 1 ml syringe in a Hamilton PB600-I dispensor that reproducibly delivers 20-ul voumes (Novotny et al., 1991).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine801">
+		<vaccine_name>B. pertussis PTx protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011361</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">B. pertussis pertussis toxin (PTx)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering262" gene_id="gene386">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1025">Vaccine is prepared by chemically modifying purified PT from culture supernatants with tetranitromethane (TNM). The lot was adsorbed to aluminum hydroxide (Alhydogel; Superfos, Vedbaek, Denmark) at a concentration of 50 μg of protein adsorbed to 4 mg per 1.0 ml. Animal doses (2.5, 0.5, and 0.1 μg) were prepared by making fivefold serial dilutions in aluminum hydroxide (4 mg/ml) diluent and given in a volume of 50 μl (Bruss and Siber, 2002).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering263" gene_id="gene379">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1025">Vaccine is prepared by chemically modifying purified PT from culture supernatants with tetranitromethane (TNM). The lot was adsorbed to aluminum hydroxide (Alhydogel; Superfos, Vedbaek, Denmark) at a concentration of 50 μg of protein adsorbed to 4 mg per 1.0 ml. Animal doses (2.5, 0.5, and 0.1 μg) were prepared by making fivefold serial dilutions in aluminum hydroxide (4 mg/ml) diluent and given in a volume of 50 μl (Bruss and Siber, 2002).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering264" gene_id="gene384">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1025">Vaccine is prepared by chemically modifying purified PT from culture supernatants with tetranitromethane (TNM). The lot was adsorbed to aluminum hydroxide (Alhydogel; Superfos, Vedbaek, Denmark) at a concentration of 50 μg of protein adsorbed to 4 mg per 1.0 ml. Animal doses (2.5, 0.5, and 0.1 μg) were prepared by making fivefold serial dilutions in aluminum hydroxide (4 mg/ml) diluent and given in a volume of 50 μl (Bruss and Siber, 2002).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering265" gene_id="gene385">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1025">Vaccine is prepared by chemically modifying purified PT from culture supernatants with tetranitromethane (TNM). The lot was adsorbed to aluminum hydroxide (Alhydogel; Superfos, Vedbaek, Denmark) at a concentration of 50 μg of protein adsorbed to 4 mg per 1.0 ml. Animal doses (2.5, 0.5, and 0.1 μg) were prepared by making fivefold serial dilutions in aluminum hydroxide (4 mg/ml) diluent and given in a volume of 50 μl (Bruss and Siber, 2002).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering266" gene_id="gene377">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1025">Vaccine is prepared by chemically modifying purified PT from culture supernatants with tetranitromethane (TNM). The lot was adsorbed to aluminum hydroxide (Alhydogel; Superfos, Vedbaek, Denmark) at a concentration of 50 μg of protein adsorbed to 4 mg per 1.0 ml. Animal doses (2.5, 0.5, and 0.1 μg) were prepared by making fivefold serial dilutions in aluminum hydroxide (4 mg/ml) diluent and given in a volume of 50 μl (Bruss and Siber, 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response798" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1025">Mice were removed from their cages, weighed, and placed on a stainless steel rack that fits inside of the Plexiglas aerosol chamber (40 by 40 by 40 cm). The 21-h culture of B. pertussis was suspended in sterile PBS to a concentration of approximately 2 × 10^9 CFU/ml of inoculum. This inoculum was delivered to the mice using a standard nebulizer (model 647; Devilbis, Somerset, Pa.) with a set pressure of 1.5 kg/cm2. The chamber and the nebulizer were enclosed in a biosafety level-2 hood and certified prior to use to document that airflow barriers were maintained. Uniformity of aerosol in the chamber was maintained with the use of two PABST 900 series AC fans (Newark Supply, Newark, N.J.). The even dispersion of the aerosol was confirmed with a light laser (Bruss and Siber, 2002).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1025">BALB/c mice were immunized with PTx vaccine on day 6 of life and then challenged with B. pertussis using the aerosol challenge model.  These primed mice were significantly better protected against leukocytosis, weight loss, and proliferation of B. pertussis in the lungs following aerosol challenge than the nonprimed group. This protection correlated with levels of anti-PT antibody in serum present on the day of aerosol challenge (Bruss and Siber, 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1025">Mice were exposed to nebulization for 30 min and removed 30 min after termination of aerosol. The completion of the aerosol represented time 0. Mice were removed from the box and replaced into their cages. Cages were checked daily for mortality (Bruss and Siber, 2002).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine772">
+		<vaccine_name>Boostrix</vaccine_name>
+		<proper_name>Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine, Adsorbed</proper_name>
+		<brand_name>Boostrix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000015</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617)</location_licensed>
+		<description refs="reference939">BOOSTRIX (Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine, Adsorbed) is a noninfectious, sterile, vaccine for intramuscular administration. It contains tetanus toxoid, diphtheria toxoid, and pertussis antigens (inactivated pertussis toxin [PT] and formaldehyde-treated filamentous hemagglutinin [FHA] and pertactin). The antigens are the same as those in INFANRIX, but BOOSTRIX is formulated with reduced quantities of these antigens (FDA: Boostrix).</description>
+		<adjuvant refs="">Aluminum Phosphate</adjuvant>
+		<storage refs="">Store refrigerated between 2º and 8ºC (36º and 46ºF). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference939">Tetanus toxin is produced by growing Clostridium tetani in a modified Latham medium derived from bovine casein. Toxins are detoxified with formaldehyde, concentrated by ultrafiltration, and purified by precipitation, dialysis, and sterile filtration (FDA: Boostrix).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5580">
+		<vaccine_name>Boostrix-Polio</vaccine_name>
+		<proper_name>Combined diphtheria, tetanus, acellular pertussis (adsorbed) and inactivated poliomyelitis vaccine</proper_name>
+		<brand_name>Boostrix-Polio</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id></vo_id>
+		<type>Toxoid vaccine + Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="reference4096">BOOSTRIX®-POLIO (combined diphtheria, tetanus, acellular pertussis and inactivated poliomyetitis) vaccine contains diphtheria toxoid, tetanus toxoid, three purified pertussis antigens [pertussis toxoid (PT), filamentous haemagglutinin (FHA) and pertactin (69 kDalton outer membrane protein)] adsorbed onto aluminum salts and inactivated polio virus types 1, 2 and 3.  (GSK: Boostrix-Polio)</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3134">
+		<vaccine_name>Bordetella pertussis aroA mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002807</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intracerebral challenge</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1660">A DNA fragment encoding a kanamycin resistance determinant was used to insertionally inactivate the cloned aroA gene of Bordetella pertussis in Escherichia coli K-12, and a conjugative shuttle vector system based on the suicide vector pRTP1 was used to deliver the mutations from E. coli back into B. pertussis CN2992FS and BP1. The aroA mutation was introduced by allelic exchange into the chromosome of B. pertussis, resulting in otherwise isogenic parental and aroA mutant pairs. The B. pertussis aroA mutants grew well on laboratory medium supplemented with aromatic compounds but failed to grow on unsupplemented medium (Roberts et al., 1990).</preparation>
+		<route refs="">intracerebral challenge</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering644" gene_id="gene898">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1001" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1660">The B. pertussis aroA mutants expressed the normal B. pertussis extracellular, virulence-associated proteins (Roberts et al., 1990).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1660">Mice exposed to three separate aerosols of live B. pertussis aroA bacteria were protected against lung colonization after being exposed to an aerosol containing the virulent parental B. pertussis strain. High-level antibodies against B. pertussis rapidly appeared in the sera of mice immunized by aerosol with the B. pertussis aroA strains and challenged with the virulent parent (Roberts et al., 1990).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3973">
+		<vaccine_name>Bordetella pertussis BPZE vectored vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004608</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Bordetella pertussis BPZE, which is attenuated for 3 different toxins: the pertussis toxin, the dermonecrotic toxin, and the tracheal cytotoxins [Ref2891:Mielcarek et al., 2006].</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference2891">This is an intranasal vaccine because pathogenic B. pertussis colonizes the respiratory tract of humans.  The vaccine itself has been shown to only need one inoculation in order to elicit protection, making it a good candidate to be a vaccine vector for other diseases (Mielcarek et al., 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference2891">The pertussis toxin itself if extremely virulent, but after thorough and careful attenuation, the virulence is basically gone (Mielcarek et al., 2006).</virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference2891">The pertussis toxin gene, which encodes a highly virulent toxin (Mielcarek et al., 2006).</antigen>
+		<host_response host_response_id="host_response1634" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2891">The mice were vaccinated with highly-attenuated B. pertussis in order to prepare for challenge with virulent wild-type B. pertussis (Mielcarek et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2891">A single intranasal inoculation of mice with the B. pertussis vaccine vector induced the same level of protection, if not higher, as two injections of the commercial acellular vaccine (Mielcarek et al., 2006) .</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2891">After the mice had been inoculated with attenuated B. pertussis (which after a month had colonized the entire mouse respiratory tract) they were challenged with virulent wild-type B. pertussis (Mielcarek et al., 2006).</challenge_protocol>
+			<description refs="">Inoculation with the B. pertussis vaccine vector shows protective immunity which rivals that of the vaccines currently on the market.</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3176">
+		<vaccine_name>Bordetella pertussis dnt mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002808</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1805">his strain was obtained by genetically inactivating pertussis toxin via two point mutations in the ptx gene, by deleting dnt encoding dermonecrotic toxin, and by replacing the B. pertussis ampG gene by Escherichia coli ampG, resulting in the removal of tracheal cytotoxin (Feunou et al., 2008).</preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering705" gene_id="gene948">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1002" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="">The dnt mutant in B. pertussis yielded a highly attenuated strain that was still able to transiently colonize the mouse respiratory tract [Ref1805:Feunou et al., 2008.</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1805">A single intranasal administration of BPZE1(dnt mutant vaccine) induced full protection in adult mice (8 weeks old), as well as in infant mice (3 weeks old), whereas commercial acellular pertussis vaccine (aPV) only partially protected infant mice, even after repetitive doses (Feunou et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine775">
+		<vaccine_name>DAPTACEL</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed</proper_name>
+		<brand_name>DAPTACEL</brand_name>
+		<manufacturer>Sanofi Pasteur, Ltd.</manufacturer>
+		<vo_id>VO_0000029</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1726)</location_licensed>
+		<description refs="">DAPTACEL is a vaccine indicated for active immunization against diphtheria, tetanus and pertussis as a five-dose series in infants and children 6 weeks through 6 years of age.</description>
+		<adjuvant refs="">aluminum phosphate</adjuvant>
+		<storage refs="">Should be stored at 2° to 8°C (35° to 46°F). DO NOT FREEZE.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference941">Clostridium tetani is grown in modified Mueller-Miller casamino acid medium without beef heart infusion. Tetanus toxin is detoxified with formaldehyde and purified by ammonium sulfate fractionation and diafiltration (FDA: DAPTACEL).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference941">Isotonic suspension of pertussis antigens and diphtheria and tetanus toxoids (FDA: DAPTACEL).</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine776">
+		<vaccine_name>Infanrix</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed</proper_name>
+		<brand_name>Infanrix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000064</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617 )</location_licensed>
+		<description refs="reference942">The vaccine is an noninfectious, sterile combination of diphtheria and tetanus toxoids and 3 pertussis antigens [inactivated pertussis toxin (PT), filamentous hemagglutinin (FHA), and pertactin (69 kiloDalton outer membrane protein)] adsorbed onto aluminum hydroxide (FDA: Infanrix).</description>
+		<adjuvant refs="">Aluminum Hydroxide</adjuvant>
+		<storage refs="">Store INFANRIX refrigerated between 2° and 8°C (36° and 46°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference942">Tetanus toxin is produced by growing Clostridium tetani in a modified Latham medium derived from bovine casein. The toxin is detoxified with formaldehyde, concentrated by ultrafiltration, and purified by precipitation, dialysis, and sterile filtration (FDA: Infanrix).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference942">Diphtheria and tetanus toxoids and 3 pertussis antigens [inactivated pertussis toxin (PT), filamentous hemagglutinin (FHA), and pertactin (69 kiloDalton outer membrane protein)] (FDA: Infanrix).</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine764">
+		<vaccine_name>Infanrix -IPV/Hib</vaccine_name>
+		<proper_name>Diphtheria, tetanus, pertussis (acellular component), poliomyelitis (inactivated) and Haemophilus type b conjugate vaccine (adsorbed)</proper_name>
+		<brand_name>Infanrix -IPV/Hib</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010722</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus + conjugate. Other components: Formaldehyde Polysorbate 80, Lactose.</description>
+		<adjuvant refs="">Aluminum Hydroxide</adjuvant>
+		<storage refs="">Store in a refrigerator (2°C – 8°C).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine763">
+		<vaccine_name>Infanrix-hexa</vaccine_name>
+		<proper_name>Combined diphtheria and tetanus toxoids, acellular pertussis, hepatitis B (recombinant), inactivated poliomyelitis and adsorbed conjugated Haemophilus influenzae type b vaccine</proper_name>
+		<brand_name>Infanrix-hexa</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010719</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed viruses + conjugate. Other components: Yeast protein Formaldehyde, Lactose, Polysorbate 20 and 80.</description>
+		<adjuvant refs="">Aluminum phosphate and aluminum hydroxide</adjuvant>
+		<storage refs="">Should be stored at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine767">
+		<vaccine_name>Infanrix-IPV</vaccine_name>
+		<proper_name>Diphtheria, tetanus, pertussis (acellular, component) and poliomyelitis (inactivated) vaccine (adsorbed)</proper_name>
+		<brand_name>Infanrix-IPV</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010721</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store in a refrigerator (2°C - 8°C).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine762">
+		<vaccine_name>Infanrix/Hib</vaccine_name>
+		<proper_name>Combined diphtheria, tetanus, acellular pertussis (DTPa) and Haemophilus influenza type b vaccine</proper_name>
+		<brand_name>Infanrix/Hib</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010720</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + conjugate. Other components: Formaldehyde, Lactose.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Refrigerated stored between +2°C and +8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5581">
+		<vaccine_name>KINRIX</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed and Inactivated Poliovirus Vaccine</proper_name>
+		<brand_name>KINRIX</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0000067</vo_id>
+		<type>Toxoid vaccine + Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA</location_licensed>
+		<description refs="reference4098">A single dose of KINRIX is indicated for active immunization against diphtheria, tetanus, pertussis, and poliomyelitis as the fifth dose in the diphtheria, tetanus, and acellular pertussis (DTaP) vaccine series and the fourth dose in the inactivated poliovirus vaccine (IPV) series in children 4 through 6 years of age whose previous DTaP vaccine doses have been with INFANRIX and/or PEDIARIX for the first three doses and INFANRIX for the fourth dose. (FDA: KINRIX)</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store refrigerated between 2° and 8°C (36° and 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">The diphtheria toxin is produced by growing Corynebacterium diphtheriae in Fenton medium containing a bovine extract. After, they are detoxified with formaldehyde, concentrated by ultrafiltration, and purified by precipitation, dialysis, and sterile filtration.</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine766">
+		<vaccine_name>Pediacel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed Combined with Inactivated Poliomyelitis Vaccine and Haemophilus b Conjugate Vaccine (Tetanus Protein – Conjugate)</proper_name>
+		<brand_name>Pediacel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010730</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins, killed virus + conjugate. Other components: Bovine serum Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine760">
+		<vaccine_name>Pediarix</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Hepatitis B (Recombinant) and Inactivated Poliovirus Vaccine Combined</proper_name>
+		<brand_name>Pediarix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000082</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>United States</location_licensed>
+		<description refs="reference933">It contains diphtheria and tetanus toxoids, 3 pertussis antigens (inactivated pertussis toxin [PT] and formaldehyde-treated filamentous hemagglutinin [FHA] and pertactin [69 kiloDalton outer membrane protein]), hepatitis B surface antigen, plus poliovirus Type 1 (Mahoney), Type 2 (MEF-1), and Type 3 (Saukett) (FDA: Pediarix).</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">The vaccine should be refrigerated between 2º and 8ºC (36º and 46ºF). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference933">The diphtheria toxin is produced by growing Corynebacterium diphtheriae in Fenton medium containing a bovine extract. The diphtheria, tetanus, and pertussis antigens are individually adsorbed onto aluminum hydroxide then diluted and combined to produce the final formulated vaccine (FDA: Pediarix).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine765">
+		<vaccine_name>Pentacel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus and Haemophilus b Conjugate (Tetanus Toxoid Conjugate) Vaccine</proper_name>
+		<brand_name>Pentacel</brand_name>
+		<manufacturer>Sanofi Pasteur Limited</manufacturer>
+		<vo_id>VO_0000084</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1726), Canada</location_licensed>
+		<description refs="reference936">It consists of a Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed and Inactivated Poliovirus (DTaP-IPV) component and an ActHIB® vaccine component. Pentacel vaccine is indicated for active immunization against diphtheria, tetanus, pertussis, poliomyelitis and invasive disease due to Haemophilus influenzae type b (FDA: Pentacel).</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference936">Corynebacterium diphtheriae is grown in modified Mueller’s growth medium. After purification by ammonium sulfate fractionation, the diphtheria toxin is detoxified with formaldehyde and diafiltered (FDA: Pentacel).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine770">
+		<vaccine_name>Quadracel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed   Combined with Inactivated Poliomyelitis Vaccine</proper_name>
+		<brand_name>Quadracel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010736</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2 to 8C (35 to 46F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4300">
+		<vaccine_name>rBCG-S1PT</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004790</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference3315">BCG vaccine with S1 subunit of detoxified B. pertussis toxin; PT-9K/129G (Nascimento et al., 2008).</antigen>
+		<host_response host_response_id="host_response1734" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3315">Mice were immunized with 50μl of one-tenth dose of an adult mouse of DTP at day 5 (or day 12 as specified) or 10^5 CFU of BCG or rBCG-S1PT on day 5 according to different regimens (Nascimento et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3315">A single dose of rBCG-S1PT at day 5 led to a 100% survival of mice, and even at an extremely high challenge dose (300 times the lethal adult dose) rBCG-S1PT still induced 50% survival of neonate-immunized mice. Mice immunized with BCG alone experienced a protective effect of 80%, however at a higher challenge dose, this effect was reduced to 50%. Mice immunized with DTP showed no protection (Nascimento et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Mice were subjected to intracerebral inoculation with a lethal dose of B. pertussis with approximately 3 x 10^4, 3 x 10^5, or 9 x 10^5 CFU (in 30μl) on day 21 after birth.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4152">
+		<vaccine_name>S. gordonii-PT</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004670</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3131">(Lee et al., 1999)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine778">
+		<vaccine_name>Tripacel</vaccine_name>
+		<proper_name>Pertussis Vaccine-Acellular, Combined with Diphtheria and Tetanus Toxoids (Adsorbed)</proper_name>
+		<brand_name>Tripacel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010742</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Aluminum phospate</adjuvant>
+		<storage refs="">Store at at 2° to 8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine777">
+		<vaccine_name>Tripedia</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed</proper_name>
+		<brand_name>Tripedia</brand_name>
+		<manufacturer>Sanofi Pasteur, Inc.</manufacturer>
+		<vo_id>VO_0000112</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (FDA License #1725)</location_licensed>
+		<description refs="reference943">Tripedia vaccine combines diptheria and tetanus toxoids with purified pertussis antigens. It consists of 3 doses administered at intervals of 4-8 weeks (FDA: Tripedia).</description>
+		<adjuvant refs="">aluminum potassium sulfate</adjuvant>
+		<storage refs="">Store between 2 and 8 degrees Celsius. DO NOT FREEZE.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4275">
+		<vaccine_name>VC-TetC/Tcf</vaccine_name>
+		<proper_name>VC expressing B. pertussis TetC/Tcf</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004781</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1027">An attenuated strain of Vibrio cholerae was used as a carrier for the expression of heterologous antigens such as fragment C from tetanus toxin (TetC) and tracheal colonization factor from Bordetella pertussis (Tcf) (Chen et al., 1998).</preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1680" gene_id="gene388">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1027">An attenuated strain of Vibrio cholerae was used as a carrier for the expression of heterologous antigens such as fragment C from tetanus toxin (TetC) and tracheal colonization factor from Bordetella pertussis (Tcf) (Chen et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1739" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1027">Mice vaccinated with IEM101 expressing Tcf experienced significant reduction in bacterial colonization of their tracheas (Chen et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1027">Mice were challenged with wild-type B. pertussis (Chen et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene898">
+        <gene_name>aroA</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>144037</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:179423
+CDD:30129</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>442</protein_length>
+        <protein_note>3-phosphoshikimate 1-carboxyvinyltransferase; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|144037|gb|AAA22968.1| 5-enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19) [Bordetella pertussis]
+MSGLAYLDLPAARLARGEVALPGSKSISNRVLLLAALAEGSTEITGLLDSDDTRVMLAALRQLGVSVGEV
+ADGCVTIEGVARFPTEQAELFLGNAGTAFRPLTAALALMGGDYRLSGVPRMHERPIGDLVDALRQFGAGI
+EYLGQAGYPPLRIGGGSIRVDGPVRVEGSVSSQFLTALLMAAPVLARRSGQDITIEVVGELISKPYIEIT
+LNLMARFGVSVRRDGWRAFTIARDAVYRGPGRMAIEGDASTASYFLALGAIGGGPVRVTGVGEDSIQGDV
+AFAATLAAMGADVRYGPGWIETRGVRVAEGGRLKAFDADFNLIPDAAMTAATLALYADGPCRLRNIGSWR
+VKETDRIHAMHTELEKLGAGVQSGADWLEVAPPEPGGWRDAHIGTWDDHRMAMCFLLAAFGPAAVRILDP
+GCVSKTFPDYFDVYAGLLAARD</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An aroA mutant is highly attenuated in mice and induces significant protection from challenge with wild type B. pertussis [Ref1660:Roberts et al., 1990].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene383">
+        <gene_name>brkA</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id>VO_0011036</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>562026</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:332715
+CDD:238653
+CDD:273608</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>BrkA</protein_name>
+        <protein_pi>7.12</protein_pi>
+        <protein_weight>96022.08</protein_weight>
+        <protein_length>1066</protein_length>
+        <protein_note>Domain of Unknown Function (DUF1522); cl27894</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA51646.1 BrkA [Bordetella pertussis]
+MYLDRFRQCPSSLQIPRSAWRLHALAAALALAGMARLAPAAAQAPQPPVAGAPHAQDAGQEGEFDHRDNT
+LIAVFDDGVGINLDDDPDELGETAPPTLKDIHISVEHKNPMSKPAIGVRVSGAGRALTLAGSTIDATEGG
+IPAVVRRGGTLELDGVTVAGGEGMEPMTVSDAGSRLSVRGGVLGGEAPGVGLVRAAQGGQASIIDATLQS
+ILGPALIADGGSISVAGGSIDMDMGPGFPPPPPPLPGAPLAAHPPLDRVAAVHAGQDGKVTLREVALRAH
+GPQATGVYAYMPGSEITLQGGTVSVQGDDGAGVVAGAGLLDALPPGGTVRLDGTTVSTDGANTDAVLVRG
+DAARAEVVNTVLRTAKSLAAGVSAQHGGRVTLRQTRIETAGAGAEGISVLGFEPQSGSGPASVDMQGGSI
+TTTGNRAAGIALTHGSARLEGVAVRAEGSGSSAAQLANGTLVVSAGSLASAQSGAISVTDTPLKLMPGAL
+ASSTVSVRLTDGATAQGGNGVFLQQHSTIPVAVALESGALARGDIVADGNKPLDAGISLSVASGAAWHGA
+TQVLQSATLGKGGTWVVNADSRVQDMSMRGGRVEFQAPAPEASYKTLTLQTLDGNGVFVLNTNVAAGQND
+QLRVTGRADGQHRVLVRNAGGEADSRGARLGLVHTQGQGNATFRLANVGKAVDLGTWRYSLAEDPKTHVW
+SLQRAGQALSGAANAAVNAADLSSIALAESNALDKRLGELRLRADAGGPWARTFSERQQISNRHARAYDQ
+TVSGLEIGLDRGWSASGGRWYAGGLLGYTYADRTYPGDGGGKVKGLHVGGYAAYVGDGGYYLDTVLRLGR
+YDQQYNIAGTDGGRVTADYRTSGAAWSLEGGRRFELPNDWFAEPQAEVMLWRTSGKRYRASNGLRVKVDA
+NTATLGRLGLRFGRRIALAGGNIVQPYARLGWTQEFKSTGDVRTNGIGHAGAGRHGRVELGAGVDAALGK
+GHNLYASYEYAAGDRINIPWSFHAGYRYSF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A soluble fraction obtained from Bordetella pertussis was evaluated as adjuvant for the pertussis component of the Diphtheria-Pertussis-Tetanus (DPT) vaccine. High levels of antibodies were induced, and a 78% protection rate of mice challenged with live B. pertussis was observed. Two proteins were identified as the 73 kDa N-terminal alpha-domain of BrkA autotransporter protein and the Cpn60/60 kDa chaperonin. Both stimulated antibodies against pertussis and induced a 42% protection rate against the challenge [Ref1024:Cainelli et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene382">
+        <gene_name>cpn60</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id>VO_0011035</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>968920</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:234573
+CDD:239460</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Cpn60 (GroEL)</protein_name>
+        <protein_pi>4.81</protein_pi>
+        <protein_weight>52145.9</protein_weight>
+        <protein_length>605</protein_length>
+        <protein_note>chaperonin GroEL; Reviewed; PRK00013</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA74967.1 Cpn60 (GroEL) [Bordetella pertussis]
+MAAKQVLFADEARVRIVRGVNVLANAVKTTLGPKGRNVVLERSFGAPTVTKDGVSVAKEIELKDKFENIG
+AQLVKDVASKTSDNAGDGTTTATVLAQAVVQEGLKYVAAGFNPIDLKRGIDKAVAAAVEELKKLSKPVTT
+SKEIAQVGSISANSDASIGQIIADAMDKVGKEGVITVEDGKSLENELDVVEGMQFDRGYLSPYFINSPEK
+QVAALDDPYVLIYDKKVSNIRDLLPVLEQVAKSSRPLLIIAEDVEGEALATLVVNNIRGILKTTAVKAPG
+FGDRRKAMLEDIAILTGGTVISEETGMSLEKATLQDLGQAKRIEVAKENTTIIDGAGDGKSIEARVKQIR
+AQIEEATSDYDREKLQERVAKLAGGVAVIRVGAATEVEMKEKKARVEDALHATRAAVEEGVVPGGGVALL
+RAKQAITGLKGDTADQNAGIKLILRAVEEPLRTIVTNAGDEASVVVNTVLNGKGNYGYNAATGEYGDLVE
+QGVLDPTKVTRTALQNAASVASLLLTAEAAVVELMENKPAAAPAMPGGMGGMGGMDF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A soluble fraction obtained from Bordetella pertussis was evaluated as adjuvant for the pertussis component of the Diphtheria-Pertussis-Tetanus (DPT) vaccine. High levels of antibodies were induced, and a 78% protection rate of mice challenged with live B. pertussis was observed. Two proteins were identified as the 73 kDa N-terminal alpha-domain of BrkA autotransporter protein and the Cpn60/60 kDa chaperonin. Both stimulated antibodies against pertussis and induced a 42% protection rate against the challenge [Ref1024:Cainelli et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene376">
+        <gene_name>CyaA</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id>VO_0011031</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>580668</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>2COL</pdb_id>
+        <xrefs>CDD:281494
+CDD:280531
+CDD:225483
+CDD:305016</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>adenylate cyclase</protein_name>
+        <protein_pi>4.36</protein_pi>
+        <protein_weight>164358.59</protein_weight>
+        <protein_length>1785</protein_length>
+        <protein_note>Anthrax toxin LF subunit; pfam03497</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA01202.1 adenylate cyclase [Bordetella pertussis]
+MQQSHQAGYANAADRESGIPAAVLDGIKAVAKEKNATLMFRLVNPHSTSLIAEGVATKGLGVHAKSSDWG
+LQAGYIPVNPNLSKLFGRAPEVIARADNDVNSSLAHGHTAVDLTLSKERLDYLRQAGLVTGMADGVVASN
+HAGYEQFEFRVKETSDGRYAVQYRRKGGDDFEAVKVIGNAAGIPLTADIDMFAIMPHLSNFRDSARSSVT
+SGDSVTDYLARTRRAASEATGGLDRERIDLLWKIARAGARSAVGTEARRQFRYDGDMNIGVITDFELEVR
+NALNRRAHAVGAQDVVQHGTEQNNPFPEADEKIFVVSATGESQMLTRGQLKEYIGQQRGEGYVFYENRAY
+GVAGKSLFDDGLGAAPGVPSGRSKFSPDVLETVPASPGLRRPSLGAVERQDSGYDSLDGVGSRSFSLGEV
+SDMAAVEAAELEMTRQVLHAGARQDDAEPGVSGASAHWGQRALQGAQAVAAAQRLVHAIALMTQFGRAGS
+TNTPQEAASLSAAVFGLGEASSAVAETVSGFFRGSSRWAGGFGVAGGAMALGGGIAAAVGAGMSLTDDAP
+AGQKAAAGAEIALQLTGGTVELASSIALALAAARGVTSGLQVAGASAGAAAGALAAALSPMEIYGLVQQS
+HYADQLDKLAQESSAYGYEGDALLAQLYRDKTAAEGAVAGVSAVLSTVGAAVSIAAAASVVGAPVAVVTS
+LLTGALNGILRGVQQPIIEKLANDYARKIDELGGPQAYFEKNLQARHEQLANSDGLRKMLADLQAGWNAS
+SVIGVQTTEISKSALELAAITGNADNLKSVDVFVDRFVQGERVAGQPVVLDVAAGGIDIASRKGERPALT
+FITPLAAPGEEQRRRTKTGKSEFTTFVEIVGKQDRWRIRDGAADTTIDLAKVVSQLVDANGVLKHSIKLD
+VIGGDGDDVVLANASRIHYDGGAGTNTVSYAALGRQDSITVSADGERFNVRKQLNNANVYREGVATQTTA
+YGKRTENVQYRHVELARVGQVVEVDTLEHVQHIIGGAGNDSITGNAHDNFLAGGSGDDRLDGGAGNDTLV
+GGEGQNTVIGGAGDDVFLQDLGVWSNQLDGGAGVDTVKYNVHQPSEERLERMGDTGIHADLQKGTVEKWP
+ALNLFSVDHVKNIENLHGSRLNDRIAGDDQDNELWGHDGNDTIRGRGGDDILRGGLGLDTLYGEDGNDIF
+LQDDETVSDDIDGGAGLDTVDYSAMIHPGRIVAPHEYGFGIEADLSREWVRKASALGVDYYDNVRNVENV
+IGTSMKDVLIGDAQANTLMGQGGDDTVRGGDGDDLLFGGDGNDMLYGDAGNDTLYGGLGDDTLEGGAGND
+WFGQTQAREHDVLRGGDGVDTVDYSQTGAHAGIAAGRIGLGILADLGAGRVDKLGEAGSSAYDTVSGIEN
+VVGTELADRITGDAQANVLRGAGGADVLAGGEGDDVLLGGDGDDQLSGDAGRDRLYGEAGDDWFFQDAAN
+AGNLLDGGDGRDTVDFSGPGRGLDAGAKGVFLSLGKGFASLMDEPETSNVLRNIENAVGSARDDVLIGDA
+GANVLNGLAGNDVLSGGAGDDVLLGDEGSDLLSGDAGNDDLFGGQGDDTYLFGVGYGHDTIYESGGGHDT
+IRINAGADQLWFARQGNDLEIRILGTDDALTVHDWYRDADHRVEIIHAANQAVDQAGIEKLVEAMAQYPD
+PGAAAAAPPAARVPDTLMQSLAVNWR
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A study demonstrated that passive immunization with specific anti-B. pertussis adenylate cyclase antibodies or active immunization with purified B. pertussis secreted adenylate cyclase (cyaA) protect mice against a lethal respiratory challenge with B. pertussis or B. parapertussis. Results suggest that adenylate cyclase might be the primary cytotoxin responsible for mouse pulmonary lesions during respiratory tract infection with B. pertussis or with the related species B. parapertussis and is a protective antigen of B. pertussis [Ref1019:Guiso et al., 1989].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene948">
+        <gene_name>dnt</gene_name>
+        <strain>Bordetella pertussis Tohama I</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2666936</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33594321</ncbi_protein_id>
+        <gene_locus_tag>BP3439</gene_locus_tag>
+        <gene_refseq>BX640421</gene_refseq>
+        <protein_refseq>NP_881965</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>257313</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>3647083</gene_start>
+        <gene_end>3651477</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>dermonecrotic toxin</protein_name>
+        <protein_pi>6.49</protein_pi>
+        <protein_weight>150126.42</protein_weight>
+        <protein_length>1464</protein_length>
+        <protein_note>Previously sequenced as Bordetella pertussis dermonecrotic toxin Dnt TR:Q45336 (EMBL:U10527) (1451 aa) fasta scores: E(): 0, 100% id in 1451 aa. Almost identical to Bordetella bronchiseptica dermonecrotizing toxin TR:Q9S5D5 (EMBL:AB020025) (1464 aa) fasta scores: E(): 0, 98.97% id in 1464 aa</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|33591275:3647083-3651477 Bordetella pertussis Tohama I, complete genome
+CGTGGATAAAGATGAATCGGCATTGCGGCAACTTGTCGACATGGCGCTTGTAGGCTACGACGGCGTGGTG
+GAAGAGTTGCTGGCGCTGCCCTCGGAAGAGTCCGGGGATCTTGCGGGTGGACGGGCCAAACGAGAGAAGG
+CCGAATTCGCGCTGTTTAGCGAAGCGCCCAACGGGGATGAACCCATCGGCCAGGATGCTCGTACATGGTT
+CTATTTTCCCAAGTACCGCCCGGTGGCGGTTTCCAATTTGAAGAAAATGCAGGTGGCGATTCGTGCTCGT
+CTCGAGCCTGAGTCATTGATCCTGCAGTGGTTGATCGCACTCGATGTCTATCTCGGCGTGTTGATCGCCG
+CCTTGTCCCGCACTGTGATCAGCGACCTGGTATTCGAGTATGTCAAGGCGCGCTACGAGATCTACTACCT
+ACTGAATCGCGTGCCGCATCCGCTGGCGACGGCGTACCTCAAGCGCCGCCGCCAGCGTCCGGTGGATCGT
+TCGGGACGTCTGGGCTCGGTGTTCGAACACCCGCTATGGTTCGCCTACGACGAATTGGCCGGCACCGTCG
+ATCTGGATGCCGACATCTACGAGCAGGCGCTCGCCGAAAGCATCGAACGCCGCATGGACGGAGAGCCGGA
+CGACGGCAGTCTGGATACCGCCGAACACGACGTATGGCGTTTGTGCCGCGACGGCATCAATCGGGGCGAG
+CAGGCGATTTTCCAGGCATCCGGCCCATATGGCGTGGTCGCGGATGCAGGGTATATGCGCACCGTTGCCG
+ATCTGGCGTATGCCGATGCATTGGCGGATTGCCTGCATGCCCAACTGCGCATCCGGGCGCAAGGCTCGGT
+CGATAGCCCGGGAGACGAGATGCCACGCAAACTTGATGCGTGGGAAATCGCCAAGTTTCATCTGGCCGCG
+ACCCAGCAGGCGCGGGTTGATCTGCTCGAGGCGGCGTTCGCGCTCGACTACGCCGCCTTGCGCGATGTGC
+GCGTCTACGGCGATTACCGCAATGCGCTGGCTCTTCGGTTCATCAAGCGCGAGGCCTTGCGGTTGCTGGG
+GGCGCGGCGCGGCAACGCCTCTACGATGCCGGCGGTTGCGGCTGGCGAGTACGACGAAATCGTGGCCAGT
+GGAGCAGCCAATGACGCGGCTTATGTATCCATGGCCGCCGCGTTGATCGCGGGCGTGCTCTGCGATCTCG
+AGAGCGCGCAGCGCACGTTGCCCGTCGTATTGGCCAGGTTTCGGCCCCTTGGCGTGCTTGCGCGATTCAG
+AAGGCTGGAGCAGGAAACCGCGGGCATGCTGCTTGGCGACCAGGAGCCGGAGCCTCGGGGCTTCATCAGT
+TTTACCGATTTTCGCGATAGCGACGCGTTCGCCAGCTACGCGGAGTATGCGGCCCAGTTCAACGACTATA
+TCGATCAATACAGCATACTCGAGGCGCAGCGGCTGGCGCGGATTCTGGCCCTGGGCTCGCGGATGACGGT
+CGATCAATGGTGCCTTCCCCTGCAGAAAGTACGGCACTACAAGGTGCTGACATCGCAGCCAGGGCTGATC
+GCGCGTGGAATCGAAAATCACAACAGGGGCATTGAATATTGCCTGGGGCGGCCGCCGCTGACCGATCTGC
+CGGGTCTTTTCACCATGTTCCAGCTCCATGATTCCAGCTGGCTGTTGGTATCGAACATCAACGGTGAGCT
+TTGGTCTGATGTCCTTGCGAACGCTGAGGTGATGCAGAATCCTACGCTGGCCGCCCTTGCCGAGCCGCAA
+GGCCGCTTTCGAACCGGCCGTCGAACGGGCGGGTGGTTTCTCGGCGGCCCCGCGACTGAAGGGCCAAGTC
+TGCGCGACAACTACCTCCTCAAATTGAGGCAGAGCAATCCGGGGCTGGATGTCAAGAAATGCTGGTATTT
+CGGGTATCGGCAAGAGTACAGGCTGCCCGCAGGCGCGCTGGGTGTGCCGCTATTCGCTGTTTCCGTTGCC
+CTGAGGCACAGTCTGGACGACCTCGCGGCGCACGCGAAGTCCGCTTTGTACAAACCCAGCGAATGGCAGA
+AGTTCGCCTTCTGGATCGTGCCGTTCTACCGGGAAATATTCTTTTCGACCCAGGATCGTTCCTATCGGGT
+CGATGTGGGGAGCATCGTCTTTGATTCGATTTCCTTGCTTGCCTCGGTGTTCAGCATAGGAGGGAAGTTG
+GGCAGTTTCACCCGTACCCAGTATGGCAACCTGCGCAATTTCGTGGTGCGGCAACGCATCGCGGGGTTGA
+GCGGGCAGCGCTTGTGGCGTTCGGTGCTCAAGGAGCTTCCGGCATTGATCGGAGCCAGCGGGTTGCGCCT
+GTCGCGTTCGCTGCTCGTCGATCTGTATGAGATCTTCGAGCCCGTGCCTATCCGTCGGCTTGTCGCGGGA
+TTCGTGAGCGCCACTACGGTCGGCGGGCGTAACCAGGCCTTCCTGCGGCAGGCATTCTCCGCTGCCAGTT
+CCTCGGCCGGGCGCACGGGGGGCCAATTGGCAAGCGAATGGCGGATGGCCGGCGTGGACGCCACCGGTTT
+GGTCGAGTCCACGTCGGGCGGCAGGTTTGAGGGCATCTACACGCGCGGCTTGGGACCGTTGAGCGAGTGC
+ACCGAGCACTTCATCGTCGAATCCGGGAATGCCTACAGAGTCATCTGGGATGCATACACGCATGGTTGGC
+GCGTGGTCAATGGGCGTTTGCCGCCGAGGCTGACCTATACCGTTCCGGTTCGGCTGAACGGGCAAGGCCA
+CTGGGAGACGCATCTGGATGTCCCTGGCCGGGGTGGGGCGCCGGAAATCTTCGGACGCATCCGCACGCGT
+AATCTGGTCGCCCTTGCCGCCGAGCAGGCCGCGCCGATGCGCCGCCTGCTCAACCAGGCGAGGCGTGTGG
+CGCTCAGGCATATCGATACCTGCAGGAGCAGGCTTGCGTTGCCGCGCGCTGAATCCGATATGGACGCGGC
+GATCCGGATTTTCTTCGGAGAGCCGGACGCCGGCCTTCGCCAGCGCATCGGGCGACGCCTGCAGGAGGTC
+AGGGCCTATATCGGCGATCTGAGTCCGGTCAATGACGTGCTGTACCGGGCGGGATATGACCTCGACGATG
+TCGCAACGCTGTTTAACGCAGTGGACCGGAACACGTCGCTGGGCAGGCAGGCTCGGATGGAGTTGTATCT
+GGATGCCATTGTCGATTTGCATGCCAGGCTCGGCTATGAAAATGCGCGTTTTGTCGACCTGATGGCGTTC
+CACCTGCTCAGCCTGGGCCATGCCGCGACGGCCAGTGAGGTCGTGGAGGCCGTTTCGCCCCGGCTGCTGG
+GCAATGTGTTCGATATCTCGAACGTCGCCCAGCTCGAACGCGGTATCGGGAATCCCGCCAGCACCGGTCT
+TTTCGTCATGCTGGGCGCCTATTCGGAATCGTCGCCCGCGATATTCCAGTCGTTCGTGAACGATATATTT
+CCCGCATGGCGACAGGCTTCCGGCGGGGGGCCGCTGGTATGGAACTTCGGTCCTGCCGCCATCAGCCCGA
+CGCGCCTGGATTACGCAAATACCGATATCGGATTGCTCAACCATGGGGATATTTCCCCGCTGCGCGCCAG
+GCCGCCATTGGGCGGCAGGCGCGACATCGATCTTCCTCCGGGGCTGGATATTTCGTTCGTGCGTTACGAC
+CGCCCGGTGCGCATGTCCGCGCCGCGTGCGCTCGACGCCAGCGTCTTCAGGCCGGTCGACGGGCCTGTCC
+ATGGCTATATTCAATCGTGGACGGGGGCTGAGATCGAATATGCGTACGGCGCGCCCGCAGCGGCACGCGA
+GGTCATGCTGACCGACAATGTGCGGATCATCAGCATCGAGAACGGCGATGAAGGGGCGATCGGGGTGCGC
+GTGAGGCTCGACACTGTTCCCGTCGCGACGCCGCTCATCCTGACTGGCGGCTCCTTGAGCGGGTGCACGA
+CGATGGTTGGGGTCAAGGAGGGCTACCTGGCCTTCTACCACACTGGCAAGTCGACCGAACTCGGGGATTG
+GGCGACTGCGCGCGAAGGCGTACAGGCGCTTTACCAGGCCCATTTGGCGATGGGGTACGCGCCGATCTCA
+ATCCCGGCGCCGATGCGCAATGACGACTTGGTCAGCATCGCCGCGACCTACGACCGGGCGGTCATTGCCT
+ATCTGGGCAAGGATGTGCCGGGAGGCGGCAGTACGCGCATAACGCGTCACGATGAGGGGGCGGGCAGTGT
+GGTTTCGTTCGACTACAACGCAGCAGTCCAGGCGTCGGCCGTTCCCCGCCTCGGCCAGGTATACGTTCTG
+ATTTCCAACGACGGACAAGGGGCGCGAGCCGTCCTGCTGGCGGAGGATCTGGCCTGGGCAGGCAGCGGCA
+GTGCCTTGGATGTGTTGAACGAACGATTGGTGACGTTGTTTCCGGCGCCGGTCTG</dna_sequence>
+        <protein_sequence>>gi|33594321|ref|NP_881965.1| dermonecrotic toxin [Bordetella pertussis Tohama I]
+MDKDESALRQLVDMALVGYDGVVEELLALPSEESGDLAGGRAKREKAEFALFSEAPNGDEPIGQDARTWF
+YFPKYRPVAVSNLKKMQVAIRARLEPESLILQWLIALDVYLGVLIAALSRTVISDLVFEYVKARYEIYYL
+LNRVPHPLATAYLKRRRQRPVDRSGRLGSVFEHPLWFAYDELAGTVDLDADIYEQALAESIERRMDGEPD
+DGSLDTAEHDVWRLCRDGINRGEQAIFQASGPYGVVADAGYMRTVADLAYADALADCLHAQLRIRAQGSV
+DSPGDEMPRKLDAWEIAKFHLAATQQARVDLLEAAFALDYAALRDVRVYGDYRNALALRFIKREALRLLG
+ARRGNASTMPAVAAGEYDEIVASGAANDAAYVSMAAALIAGVLCDLESAQRTLPVVLARFRPLGVLARFR
+RLEQETAGMLLGDQEPEPRGFISFTDFRDSDAFASYAEYAAQFNDYIDQYSILEAQRLARILALGSRMTV
+DQWCLPLQKVRHYKVLTSQPGLIARGIENHNRGIEYCLGRPPLTDLPGLFTMFQLHDSSWLLVSNINGEL
+WSDVLANAEVMQNPTLAALAEPQGRFRTGRRTGGWFLGGPATEGPSLRDNYLLKLRQSNPGLDVKKCWYF
+GYRQEYRLPAGALGVPLFAVSVALRHSLDDLAAHAKSALYKPSEWQKFAFWIVPFYREIFFSTQDRSYRV
+DVGSIVFDSISLLASVFSIGGKLGSFTRTQYGNLRNFVVRQRIAGLSGQRLWRSVLKELPALIGASGLRL
+SRSLLVDLYEIFEPVPIRRLVAGFVSATTVGGRNQAFLRQAFSAASSSAGRTGGQLASEWRMAGVDATGL
+VESTSGGRFEGIYTRGLGPLSECTEHFIVESGNAYRVIWDAYTHGWRVVNGRLPPRLTYTVPVRLNGQGH
+WETHLDVPGRGGAPEIFGRIRTRNLVALAAEQAAPMRRLLNQARRVALRHIDTCRSRLALPRAESDMDAA
+IRIFFGEPDAGLRQRIGRRLQEVRAYIGDLSPVNDVLYRAGYDLDDVATLFNAVDRNTSLGRQARMELYL
+DAIVDLHARLGYENARFVDLMAFHLLSLGHAATASEVVEAVSPRLLGNVFDISNVAQLERGIGNPASTGL
+FVMLGAYSESSPAIFQSFVNDIFPAWRQASGGGPLVWNFGPAAISPTRLDYANTDIGLLNHGDISPLRAR
+PPLGGRRDIDLPPGLDISFVRYDRPVRMSAPRALDASVFRPVDGPVHGYIQSWTGAEIEYAYGAPAAARE
+VMLTDNVRIISIENGDEGAIGVRVRLDTVPVATPLILTGGSLSGCTTMVGVKEGYLAFYHTGKSTELGDW
+ATAREGVQALYQAHLAMGYAPISIPAPMRNDDLVSIAATYDRAVIAYLGKDVPGGGSTRITRHDEGAGSV
+VSFDYNAAVQASAVPRLGQVYVLISNDGQGARAVLLAEDLAWAGSGSALDVLNERLVTLFPAPV</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A live attenuated B. pertussis vaccine strain BPZE1 that protects mice upon a single intranasal administration was developed by deleting dnt gene [Ref1805:Feunou et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene375">
+        <gene_name>fhaB</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id>VO_0011030</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>3980256</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>1RWR</pdb_id>
+        <xrefs>CDD:289765
+CDD:283510
+CDD:293785
+CDD:290071
+CDD:292650
+GOA:Q45365
+InterPro:IPR008619
+InterPro:IPR008638
+InterPro:IPR010069
+InterPro:IPR011050
+InterPro:IPR011102
+InterPro:IPR012334
+UniProtKB/TrEMBL:Q45365</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>filamentous hemagglutinin</protein_name>
+        <protein_pi>9.21</protein_pi>
+        <protein_weight>332849.05</protein_weight>
+        <protein_length>3704</protein_length>
+        <protein_note>Extended Signal Peptide of Type V secretion system; pfam13018</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA36409.1 filamentous hemagglutinin [Bordetella pertussis]
+MNTNLYRLVFSHVRGMLVPVSEHCTVGNTFCGRTRGQARSGARATSLSVAPNALAWALMLACTGLPLVTH
+AQGLVPQGQTQVLQGGNKVPVVNIADPNSGGVSHNKFQQFNVANPGVVFNNGLTDGVSRIGGALTKNPNL
+TRQASAILAEVTDTSPSRLAGTLEVYGKGADLIIANPNGISVNGLSTLNASNLTLTTGRPSVNGGRIGLD
+VQQGTVTIERGGVNATGLGYFDVVARLVKLQGAVSSKQGKPLADIAVVAGANRYDHATRRATPIAAGARG
+AAAGAYAIDGTAAGAMYGKHITLVSSDSGLGVRQLGSLSSPSAITVSSQGEIALGDATVQRGPLSLKGAG
+VVSAGKLASGGGAVNVAGGGAVKIASASSVGNLAVQGGGKVQATLLNAGGTLLVSGRQAVQLGAASSRQA
+LSVNAGGALKADKLSATRRVDVDGKQAVALGSASSNALSVRAGGALKAGKLSATGRLDVDGKQAVTLGSV
+ASDGALSVSAGGNLRANELVSSAQLEVRGQREVALDDASSARGMTVVAAGALAARNLQSKGAIGVQGGEA
+VSVANANSDAELRVRGRGQVDLHDLSAARGADISGEGRVNIGRARSDSDVKVSAHGALSIDSMTALGAIG
+VQAGGSVSAKDMRSRGAVTVSGGGAVNLGDVQSDGQVRATSAGAMTVRDVAAAADLALQAGDALQAGFLK
+SAGAMTVNGRDAVRLDGAHAGGQLRVSSDGQAALGSLAAKGELTVSAARAATVAELKSLDNISVTGGERV
+SVQSVNSASRVAISAHGALDVGKVSAKSGIGLEGWGAVGADSLGSDGAISVSGRDAVRVDQARSLADISL
+GAEGGATLGAVEAAGSIDVRGGSTVAANSLHANRDVRVSGKDAVRVTAATSGGGLHVSSGRQLDLGAVQA
+RGALALDGGAGVALQSAKASGTLHVQGGEHLDLGTLAAVGAVDVNGTGDVRVAKLVSDAGADLQAGRSMT
+LGIVDTTGDLQARAQQKLELGSVKSDGGLQAAAGGALSLAAAEVAGALELSGQGVTVDRASASRARIDST
+GSVGIGALKAGAVEAASPRRARRALRQDFFTPGSVVVRAQGNVTVGRGDPHQGVLAQGDIIMDAKGGTLL
+LRNDALTENGTVTISADSAVLEHSTIESKISQSVLAAKGDKGKPAVSVKVAKKLFLNGTLRAVNDNNETM
+SGRQIDVVDGRPQITDAVTGEARKDESVVSDAALVADGGPIVVEAGELVSHAGGIGNGRNKENGASVTVR
+TTGNLVNKGYISAGKQGVLEVGGALTNEFLVGSDGTQRIEAQRIENRGTFQSQAPAGTAGALVVKAAEAI
+VHDGVMATKGEMQIAGKGGGSPTVTAGAKATTSANKLSVDVASWDNAGSLDIKKGGAQVTVAGRYAEHGE
+VSIQGDYTVSADAIALAAQVTQRGGAANLTSRHDTRFSNKIRLMGPLQVNAGGPVSNTGNLKVREGVTVT
+AASFDNETGAEVMAKSATLTTSGAARNAGKMQVKEAATIVAASVSNPGTFTAGKDITVTSRGGFDNEGKM
+ESNKDIVIKTEQFSNGRVLDAKHDLTVTASGQADNRGSLKAGHDFTVQAQRIDNSGTMAAGHDATLKAPH
+LRNTGQVVAGHDIHIINSAKLENTGRVDARNDIALDVADFTNTGSLYAEHDATLTLAQGTQRDLVVDQDH
+ILPVAEGTLRVKAKSLTTEIETGNPGSLIAEVQENIDNKQAIVVGKDLTLSSAHGNVANEANALLWAAGE
+LTVKAQNITNKRAALIEAGGNARLTAAVALLNKLGRIRAGEDMHLDAPRIENTAKLSGEVQRKGVQDVGG
+GEHGRWSGIGYVNYWLRAGNGKKAGTIAAPWYGGDLTAEQSLIEVGKDLYLNAGARKDEHRHLLNEGVIQ
+AGGHGHIGGDVDNRSVVRTVSAMEYFKTPLPVSLTALDNRAGLSPATWNFQSTYELLDYLLDQNRYEYIW
+GLYPTYTEWSVNTLKNLDLGYQAKPAPTAPPMPKAPELDLRGHTLESAEGRKIFGEYKKLQGEYEKAKMA
+VQAVEAYGEATRRVHDQLGQRYGKALGGMDAETKEVDGIIQEFAADLRTVYAKQADQATIDAETDKVAQR
+YKSQIDAVRLQAIQPGRVTLAKALSAALGADWRALGHSQLMQRWKDFKAGKRGAEIAFYPKEQTVLAAGA
+GLTLSNGAIHNGENAAQNRGRPEGLKIGAHSATSVSGSFDALRDVGLEKRLDIDDALAAVLVNPHIFTRI
+GAAQTSLADGAAGPALARQARQAPETDGMVDARGLGSADALASLASLDAAQGLEVSGRRNAQVADAGLAG
+PSAVAAPAVGAADVGVEPVTGDQVDQPVVAVGLEQPVATVRVAPPAVALPRPLFETRIKFIDQSKFYGSR
+YFFEQIGYKPDRAARVAGDNYFDTTLVREQVRRALGGYESRLPVRGVALVAKLMDSAGTVGKALGLKVGV
+APTAQQLKQADRDFVWYVDTVIDGQKVLAPRLYLTEATRQGITDQYAGGGALIASGGDVTVNTDGHDVSS
+VNGLIQGRSVKVDAGKGKVVVADSKGAGGGIEADDEVDVSGRDIGIEGGKLRGKDVRLKADTVKVATSMR
+YDDKGRLAARGDGALDAQGGQLHIEAKRLETAGATLKGGKVKLDVDDVKLGGVYEAGSSYENKSSTPLGS
+LFAILSSTTETNQSAHANHYGTRIEAGTLEGKMQNLEIEGGSVDAAHTDLSVARDARFKAAADFAHAEHE
+KDVRQLSLGAKVGAGGYEAGFSLGSESGLEAHAGRGMTAGAEVKVGYRASHEQSSETEKSYRNANLNFGG
+GSVEAGNVLDIGGADINRNRYGGAAKGNAGTEEALRMRAKKVESTKYVSEQTSQSSGWSVEVASTASARS
+SLLTAATRLGDSVAQNVEDGREIRGELMAAQVAAEATQLVTADTAAVALSAGISADFDSSHSRSTSQNTQ
+YLGGNLSIEATEGDATLVGAKFGGGDQVSLKAAKSVNLMAAESTFESYSESHNFHASADANLGANAVQGA
+VGLGLTAGMGTSHQITNETGKTYAGTSVDAANVSIDAGKDLNLSGSRVRGKHVVLDVEGDINATSKQDER
+NYNSSGGGWDASAGVAIQNRTLVAPVGSAGFNFNTEHDNSRLTNDGAAGVVASDGLTGHVKGDANLTGAT
+IADLSGKGNLKVDGAVNAQNLKDYRDKDGGSGGLNVGISSTTLAPTVGVAFGRVAGEDYQAEQRATIDVG
+QTKDPARLQVGGGVKGTLNQDAAQATVVQRNKHWAGGGSEFSVAGKSLKKKNQVRPVETPTPDVVDGPPS
+RPTTPPASPQPIRATVEVSSPPPVSVATVEVVPRPKVETGSAASASAGGAQVVPVTPPKVEVAKVEVVPR
+PKVETAQPLPPRPVVAEKVTTPAVQPQLAKVETVQPVKPETTKPLPKPLPVAKVTKAPPPVVETAQPLPP
+VKPQKATPGPVAEVGKATVTTVQVQSAPPKPAPVAKQPAPAPKPKPKPKPKAERPKPGKTTPLSGRHVVQ
+QQVQVLQRQASDINNTKSLPGGKLPKPVTVKLTDENGKPQTYTINRREDLMKLNGKVLSTKTTLGLEQTF
+RLRVEDIGGKNYRVFYETNK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A combination of the 69-kDa outer membrane protein and filamentous hemagglutinin (fhaB), both isolated from lymphocytosis promoting factor (LPF; pertussis toxin) minus mutants of Bordetella pertussis, is protective in the mouse intracerebral challenge potency (Kendrick) test [Ref1017:Novotny et al., 1991].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene378">
+        <gene_name>Prn</gene_name>
+        <strain>Bordetella pertussis Tohama I</strain>
+        <vo_id>VO_0011033</vo_id>
+        <ncbi_gene_id>2664290</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33592195</ncbi_protein_id>
+        <gene_locus_tag>BP1054</gene_locus_tag>
+        <gene_refseq>BX470248</gene_refseq>
+        <protein_refseq>NP_879839</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>257313</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1098090</gene_start>
+        <gene_end>1100822</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>pertactin autotransporter</protein_name>
+        <protein_pi>9.61</protein_pi>
+        <protein_weight>86606.91</protein_weight>
+        <protein_length>910</protein_length>
+        <protein_note>Identical to the previously sequenced Bordetella pertussis pertactin precursor Prn or Omp69A SW:PERT_BORPE (P14283) (910 aa) fasta scores: E(): 0, 100% id in 910 aa, and to Bordetella bronchiseptica pertactin precursor Prn SW:PERT_BORBR (Q03035) (911 aa) fasta scores: E(): 1.4e-160, 91.31% id in 921 aa</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002929.2:1098090-1100822 Bordetella pertussis Tohama I chromosome, complete genome
+AATGAACATGTCTCTGTCACGCATTGTCAAGGCGGCGCCCCTGCGCCGCACCACGCTGGCCATGGCGCTG
+GGCGCGCTGGGCGCCGCCCCGGCGGCGCATGCCGACTGGAACAACCAGTCCATCGTCAAGACCGGTGAGC
+GCCAGCATGGCATCCATATCCAGGGCTCCGACCCGGGCGGCGTACGGACCGCCAGCGGAACCACCATCAA
+GGTAAGCGGCCGTCAGGCCCAGGGCATCCTGCTAGAAAATCCCGCGGCCGAGCTGCAGTTCCGGAACGGC
+AGTGTCACGTCGTCGGGACAGTTGTCCGACGATGGCATCCGGCGCTTTCTGGGCACCGTCACCGTCAAGG
+CCGGCAAGCTGGTCGCCGATCACGCCACGCTGGCCAACGTTGGCGACACCTGGGACGACGACGGCATCGC
+GCTCTATGTGGCCGGCGAACAGGCCCAGGCCAGCATCGCCGACAGCACCCTGCAGGGCGCTGGCGGCGTG
+CAGATCGAGCGCGGCGCCAATGTCACGGTCCAACGCAGCGCCATCGTCGACGGGGGCTTGCATATCGGCG
+CCCTGCAGTCATTGCAGCCGGAAGACCTTCCGCCCAGCCGGGTGGTGCTGCGCGACACCAACGTGACCGC
+CGTGCCCGCCAGCGGCGCGCCCGCGGCGGTGTCTGTGTTGGGGGCCAGTGAGCTTACGCTCGACGGCGGG
+CACATCACCGGCGGGCGGGCAGCGGGGGTGGCGGCCATGCAAGGGGCGGTCGTGCATCTGCAGCGCGCGA
+CGATACGGCGCGGGGACGCGCCTGCCGGCGGTGCGGTTCCCGGCGGTGCGGTTCCCGGTGGTGCGGTTCC
+CGGCGGCTTCGGTCCCGGCGGCTTCGGTCCCGTCCTCGACGGCTGGTATGGCGTGGACGTATCGGGCTCC
+AGCGTGGAGCTCGCCCAGTCGATCGTCGAGGCGCCGGAGCTGGGCGCCGCAATCCGGGTGGGCCGCGGCG
+CCAGGGTGACGGTGTCGGGCGGCAGCTTGTCCGCACCGCACGGCAATGTCATCGAGACCGGCGGCGCGCG
+TCGCTTTGCGCCTCAAGCCGCGCCCCTGTCGATCACCTTGCAGGCCGGCGCGCATGCCCAGGGGAAAGCG
+CTGCTGTACCGGGTCCTGCCGGAGCCCGTGAAGCTGACGCTGACCGGGGGCGCCGATGCGCAGGGCGACA
+TCGTCGCGACGGAGCTGCCCTCCATTCCCGGCACGTCGATCGGGCCGCTCGACGTGGCGCTGGCCAGCCA
+GGCCCGATGGACGGGCGCTACCCGCGCGGTCGACTCGCTGTCCATCGACAACGCCACCTGGGTCATGACG
+GACAACTCGAACGTCGGTGCGCTACGGCTGGCCAGCGACGGCAGCGTCGATTTCCAGCAGCCGGCCGAAG
+CTGGGCGGTTCAAGGTCCTGACGGTCAATACGCTGGCGGGTTCGGGGCTGTTCCGCATGAATGTCTTCGC
+GGACCTGGGGCTGAGCGACAAGCTGGTCGTCATGCAGGACGCCAGCGGCCAGCACAGGCTGTGGGTCCGC
+AACAGCGGCAGCGAGCCGGCCAGCGCCAACACCCTGCTGCTGGTGCAGACGCCACTAGGCAGCGCGGCGA
+CCTTTACCCTTGCCAACAAGGACGGCAAGGTCGATATCGGTACCTATCGCTATCGATTGGCCGCCAACGG
+CAATGGGCAGTGGAGCCTGGTGGGCGCGAAGGCGCCGCCGGCGCCCAAGCCCGCGCCGCAGCCGGGTCCC
+CAGCCGCCGCAGCCGCCGCAGCCGCAGCCGGAAGCGCCGGCGCCGCAACCGCCGGCGGGCAGGGAGTTGT
+CCGCCGCCGCCAACGCGGCGGTCAACACGGGTGGGGTGGGCCTGGCCAGCACGCTCTGGTACGCCGAAAG
+CAATGCGTTGTCCAAGCGCCTGGGCGAGTTGCGCCTGAATCCGGACGCCGGCGGCGCCTGGGGCCGCGGC
+TTCGCGCAACGCCAGCAGCTGGACAACCGCGCCGGGCGGCGCTTCGACCAGAAGGTGGCCGGCTTCGAGC
+TGGGCGCCGACCACGCGGTGGCGGTGGCCGGCGGACGCTGGCACCTGGGCGGGCTGGCCGGCTATACGCG
+CGGCGACCGCGGCTTCACCGGCGACGGCGGCGGCCACACCGACAGCGTGCATGTCGGGGGCTATGCCACA
+TATATCGCCGACAGCGGTTTCTACCTGGACGCGACGCTGCGCGCCAGCCGCCTGGAGAATGACTTCAAGG
+TGGCGGGCAGCGACGGGTACGCGGTCAAGGGCAAGTACCGCACCCATGGGGTGGGCGCCTCGCTCGAGGC
+GGGCCGGCGCTTTACCCATGCCGACGGCTGGTTCCTCGAGCCGCAGGCCGAGCTGGCGGTATTCCGGGCC
+GGCGGCGGTGCGTACCGCGCGGCCAACGGCCTGCGGGTGCGCGACGAAGGCGGCAGCTCGGTGCTGGGTC
+GCCTGGGCCTGGAGGTCGGCAAGCGCATCGAACTGGCAGGCGGCAGGCAGGTGCAGCCATACATCAAGGC
+CAGCGTGCTGCAGGAGTTCGACGGCGCGGGTACGGTACACACCAACGGCATCGCGCACCGCACCGAACTG
+CGCGGCACGCGCGCCGAACTGGGCCTGGGCATGGCCGCCGCGCTGGGCCGCGGCCACAGCCTGTATGCCT
+CGTACGAGTACTCCAAGGGCCCGAAGCTGGCCATGCCGTGGACCTTCCACGCGGGCTACCGGTACAGCTG
+GTA
+
+</dna_sequence>
+        <protein_sequence>>NP_879839.1 pertactin autotransporter [Bordetella pertussis Tohama I]
+MNMSLSRIVKAAPLRRTTLAMALGALGAAPAAHADWNNQSIVKTGERQHGIHIQGSDPGGVRTASGTTIK
+VSGRQAQGILLENPAAELQFRNGSVTSSGQLSDDGIRRFLGTVTVKAGKLVADHATLANVGDTWDDDGIA
+LYVAGEQAQASIADSTLQGAGGVQIERGANVTVQRSAIVDGGLHIGALQSLQPEDLPPSRVVLRDTNVTA
+VPASGAPAAVSVLGASELTLDGGHITGGRAAGVAAMQGAVVHLQRATIRRGDAPAGGAVPGGAVPGGAVP
+GGFGPGGFGPVLDGWYGVDVSGSSVELAQSIVEAPELGAAIRVGRGARVTVSGGSLSAPHGNVIETGGAR
+RFAPQAAPLSITLQAGAHAQGKALLYRVLPEPVKLTLTGGADAQGDIVATELPSIPGTSIGPLDVALASQ
+ARWTGATRAVDSLSIDNATWVMTDNSNVGALRLASDGSVDFQQPAEAGRFKVLTVNTLAGSGLFRMNVFA
+DLGLSDKLVVMQDASGQHRLWVRNSGSEPASANTLLLVQTPLGSAATFTLANKDGKVDIGTYRYRLAANG
+NGQWSLVGAKAPPAPKPAPQPGPQPPQPPQPQPEAPAPQPPAGRELSAAANAAVNTGGVGLASTLWYAES
+NALSKRLGELRLNPDAGGAWGRGFAQRQQLDNRAGRRFDQKVAGFELGADHAVAVAGGRWHLGGLAGYTR
+GDRGFTGDGGGHTDSVHVGGYATYIADSGFYLDATLRASRLENDFKVAGSDGYAVKGKYRTHGVGASLEA
+GRRFTHADGWFLEPQAELAVFRAGGGAYRAANGLRVRDEGGSSVLGRLGLEVGKRIELAGGRQVQPYIKA
+SVLQEFDGAGTVHTNGIAHRTELRGTRAELGLGMAAALGRGHSLYASYEYSKGPKLAMPWTFHAGYRYSW
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Researchers constructed isogenic mutants of B. pertussis Tohama expressing the alleles ptxA1 or ptxA2 and prn1 or prn2 and compared the efficacies of an acellular pertussis vaccine against the mutants in a mouse model. While the vaccine was effective against all of the B. pertussis strains regardless of the allele expression pattern, the strain expressing ptxA1 and prn2 displayed a survival advantage over the other strains [Ref1021:Komatsu et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene379">
+        <gene_name>PtxA</gene_name>
+        <strain>Bordetella pertussis Tohama I</strain>
+        <vo_id>VO_0011034</vo_id>
+        <ncbi_gene_id>2665068</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33594638</ncbi_protein_id>
+        <gene_locus_tag>BP3783</gene_locus_tag>
+        <gene_refseq>BX470248</gene_refseq>
+        <protein_refseq>NP_882282</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>257313</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>3988257</gene_start>
+        <gene_end>3989066</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>pertussis toxin subunit 1</protein_name>
+        <protein_pi>7.54</protein_pi>
+        <protein_weight>27989.63</protein_weight>
+        <protein_length>269</protein_length>
+        <protein_note>Previously sequenced as Bordetella pertussis pertussis toxin subunit 1 precursor, NAD-dependent ADP-ribosyltransferase, PtxA SW:TOX1_BORPE (P04977) (269 aa) fasta scores: E(): 1.5e-110, 100% id in 269 aa</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002929.2:3988257-3989066 Bordetella pertussis Tohama I chromosome, complete genome
+GATGCGTTGCACTCGGGCAATTCGCCAAACCGCAAGAACAGGCTGGCTGACGTGGCTGGCGATTCTTGCC
+GTCACGGCGCCCGTGACTTCGCCGGCATGGGCCGACGATCCTCCCGCCACCGTATACCGCTATGACTCCC
+GCCCGCCGGAGGACGTTTTCCAGAACGGATTCACGGCGTGGGGAAACAACGACAATGTGCTCGACCATCT
+GACCGGACGTTCCTGCCAGGTCGGCAGCAGCAACAGCGCTTTCGTCTCCACCAGCAGCAGCCGGCGCTAT
+ACCGAGGTCTATCTCGAACATCGCATGCAGGAAGCGGTCGAGGCCGAACGCGCCGGCAGGGGCACCGGCC
+ACTTCATCGGCTACATCTACGAAGTCCGCGCCGACAACAATTTCTACGGCGCCGCCAGCTCGTACTTCGA
+ATACGTCGACACTTATGGCGACAATGCCGGCCGTATCCTCGCCGGCGCGCTGGCCACCTACCAGAGCGAA
+TATCTGGCACACCGGCGCATTCCGCCCGAAAACATCCGCAGGGTAACGCGGGTCTATCACAACGGCATCA
+CCGGCGAGACCACGACCACGGAGTATTCCAACGCTCGCTACGTCAGCCAGCAGACTCGCGCCAATCCCAA
+CCCCTACACATCGCGAAGGTCCGTAGCGTCGATCGTCGGCACATTGGTGCGCATGGCGCCGGTGATAGGC
+GCTTGCATGGCGCGGCAGGCCGAAAGCTCCGAGGCCATGGCAGCCTGGTCCGAACGCGCCGGCGAGGCGA
+TGGTTCTCGTGTACTACGAAAGCATCGCGTATTCGTTCTA
+
+</dna_sequence>
+        <protein_sequence>>NP_882282.1 pertussis toxin subunit 1 [Bordetella pertussis Tohama I]
+MRCTRAIRQTARTGWLTWLAILAVTAPVTSPAWADDPPATVYRYDSRPPEDVFQNGFTAWGNNDNVLDHL
+TGRSCQVGSSNSAFVSTSSSRRYTEVYLEHRMQEAVEAERAGRGTGHFIGYIYEVRADNNFYGAASSYFE
+YVDTYGDNAGRILAGALATYQSEYLAHRRIPPENIRRVTRVYHNGITGETTTTEYSNARYVSQQTRANPN
+PYTSRRSVASIVGTLVRMAPVIGACMARQAESSEAMAAWSERAGEAMVLVYYESIAYSF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB/c mice were immunized with PTx vaccine on day 6 of life and then challenged with B. pertussis using the aerosol challenge model.  These primed mice were significantly better protected against leukocytosis, weight loss, and proliferation of B. pertussis in the lungs following aerosol challenge than the nonprimed group. This protection correlated with levels of anti-PT antibody in serum present on the day of aerosol challenge [Ref1025:Bruss and Siber, 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene384">
+        <gene_name>ptxB</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id>VO_0011037</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>225311180</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:308828
+CDD:280986
+GOA:C0MPK7
+InterPro:IPR003899
+InterPro:IPR005138
+InterPro:IPR008992
+InterPro:IPR016187
+InterPro:IPR020063
+UniProtKB/TrEMBL:C0MPK7</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>pertussis toxin subunit 2 precursor</protein_name>
+        <protein_pi>8.37</protein_pi>
+        <protein_weight>23698.772</protein_weight>
+        <protein_length>302</protein_length>
+        <protein_note>Aerolysin/Pertussis toxin (APT) domain; pfam03440</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAX52304.1 pertussis toxin subunit 2 precursor [Bordetella pertussis]
+MPIDRKTLCHLLSVLPLALLGSHVARASTPGIVIPPQEQITQHGGPYGRCANKTRALTVAELRGSGDLQE
+YLRHVTRGWSIFALYDGTYLGGEYGGVIKDGTPGGAFDLKTTFCIMTTRNTGQPATDHYYSNVTATRLLS
+STNSRLCAVFVRSGQPVIGACTSPYDGKYWSMYSRLRKMLYLIYVAGISVRVHVSKEEQYYDYEDATFET
+YALTGISICNPGSSLC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB/c mice were immunized with PTx vaccine on day 6 of life and then challenged with B. pertussis using the aerosol challenge model.  These primed mice were significantly better protected against leukocytosis, weight loss, and proliferation of B. pertussis in the lungs following aerosol challenge than the nonprimed group. This protection correlated with levels of anti-PT antibody in serum present on the day of aerosol challenge [Ref1025:Bruss and Siber, 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene385">
+        <gene_name>ptxC</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id>VO_0011038</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>225311183</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:308828
+CDD:280986
+GOA:Q546I1
+InterPro:IPR003899
+InterPro:IPR005138
+InterPro:IPR008992
+InterPro:IPR016187
+InterPro:IPR020063
+UniProtKB/TrEMBL:Q546I1</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>pertussis toxin subunit 3 precursor</protein_name>
+        <protein_pi>8.76</protein_pi>
+        <protein_weight>24184.712</protein_weight>
+        <protein_length>303</protein_length>
+        <protein_note>Aerolysin/Pertussis toxin (APT) domain; pfam03440</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAX52307.1 pertussis toxin subunit 3 precursor [Bordetella pertussis]
+MLINNKKLLHHILPILVLALLGMRTAQAVAPGIVIPPKALFTQQGGAYGRCPNGTRALTVAELRGNAELQ
+TYLRQITPGWSIYGLYDGTYLGQAYGGIIKDAPPGAGFIYRETFCITTIYKTGQPAADHYYSKVTATRLL
+ASTNSRLCAVFVRDGQSVIGACASPYEGRYRDMYDALRRLLYMIYMSGLAVRVHVSKEEQYYDYEDATFQ
+TYALTGISLCNPAASIC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB/c mice were immunized with PTx vaccine on day 6 of life and then challenged with B. pertussis using the aerosol challenge model.  These primed mice were significantly better protected against leukocytosis, weight loss, and proliferation of B. pertussis in the lungs following aerosol challenge than the nonprimed group. This protection correlated with levels of anti-PT antibody in serum present on the day of aerosol challenge [Ref1025:Bruss and Siber, 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene377">
+        <gene_name>ptxD</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id>VO_0011032</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>225311181</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:286372
+GOA:C0MPK8
+InterPro:IPR008992
+InterPro:IPR015355
+UniProtKB/TrEMBL:C0MPK8</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>pertussis toxin subunit 4 precursor</protein_name>
+        <protein_pi>10.82</protein_pi>
+        <protein_weight>15542.962</protein_weight>
+        <protein_length>227</protein_length>
+        <protein_note>Pertussis toxin S4 subunit; pfam09275</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAX52305.1 pertussis toxin subunit 4 precursor [Bordetella pertussis]
+MLRRFPTRTTAPGQGGARRSRVRALAWLLASGAMTHLSPALADVPYVLVKTNMVVTSVAMKPYEVTPTRM
+LVCGIAAKLGAAASSPDAHVPFCFGKDLKRPGSSPMEVMLRAVFMQQRPLRMFLGPKQLTFEGKPALELI
+RMVECSGKQDCP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB/c mice were immunized with PTx vaccine on day 6 of life and then challenged with B. pertussis using the aerosol challenge model.  These primed mice were significantly better protected against leukocytosis, weight loss, and proliferation of B. pertussis in the lungs following aerosol challenge than the nonprimed group. This protection correlated with levels of anti-PT antibody in serum present on the day of aerosol challenge [Ref1025:Bruss and Siber, 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene386">
+        <gene_name>ptxE</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id>VO_0011039</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>225311182</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:286373
+GOA:C0MPK9
+InterPro:IPR008992
+InterPro:IPR015356
+UniProtKB/TrEMBL:C0MPK9</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>pertussis toxin subunit 5 precursor</protein_name>
+        <protein_pi>6.49</protein_pi>
+        <protein_weight>14292.102</protein_weight>
+        <protein_length>207</protein_length>
+        <protein_note>Pertussis toxin S5 subunit; pfam09276</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAX52306.1 pertussis toxin subunit 5 precursor [Bordetella pertussis]
+MQRQAGLPLKANPMHTIASILLSVLGIYSPADVAGLPTHLYKNFTVQELALKLKGKNQEFCLTAFMSGRS
+LVRACLSDAGHEHDTWFDTMLGFAISAYALKSRIALTVEDSPYPGTPGDLLELQICPLNGYCE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB/c mice were immunized with PTx vaccine on day 6 of life and then challenged with B. pertussis using the aerosol challenge model. These primed mice were significantly better protected against leukocytosis, weight loss, and proliferation of B. pertussis in the lungs following aerosol challenge than the nonprimed group. This protection correlated with levels of anti-PT antibody in serum present on the day of aerosol challenge [Ref1025:Bruss and Siber, 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1643">
+        <gene_name>S1</gene_name>
+        <strain>Bordetella pertussis Tohama</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>3152313</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:111768
+GOA:Q599G4
+HSSP:P04977
+InterPro:IPR003898
+UniProtKB/TrEMBL:Q599G4</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>toxin subunit S1</protein_name>
+        <protein_pi>7.49</protein_pi>
+        <protein_weight>28321.94</protein_weight>
+        <protein_length>326</protein_length>
+        <protein_note>Pertussis toxin, subunit 1; pfam02917</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA06899.1 toxin subunit S1 [Bordetella pertussis]
+MRCTRAIRQTARTGWLTWLAILAVTAPVTSPAWADDPPATVYRYDSRPPEDVFQNGFTAWGNNDNVLDHL
+TGRSCQVGSSNSAFVSTSSSRRYTEVYLEHRMQEAVEAERAGRGTGHFIGYIYEVRADNNFYGAASSYFE
+YVDTYGDNAGRILAGALATYQSEYLAHRRIPPENIRRVTRVYHNGITGETTTTEYSNARYVSQQTRANPN
+PYTSRRSVASIVGTLVRMAPVIGACMARQAESSEAMAAWSERAGEAMVLVYYESIAYSF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene388">
+        <gene_name>TcfA</gene_name>
+        <strain>Bordetella pertussis</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>282766137</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:154874</xrefs>
+        <taxonomy_id>520</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>tracheal colonization factor</protein_name>
+        <protein_pi>5.91</protein_pi>
+        <protein_weight>62423.78</protein_weight>
+        <protein_length>631</protein_length>
+        <protein_note>Autotransporter beta-domain; cl02365</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|282766137|gb|ADA85103.1| tracheal colonization factor [Bordetella pertussis]
+MHIYGNMNRATPCRGAVRALALALLGAGMWTLSPPSAWALKLPSLLTDDELKLVLPTGMSLEDFKRSLQE
+SAPSALATPPSSSPPVAKPGPGSVAEAPSGSGHKDNPSPPVVGVGPGMAESSGGHNPGVGGGTHENGLPG
+IGKVGGSAPGPDTSTGSGPDAGMASGAGSTSPGASGGAGKDAMPPSEGERPDSGMSDSGRGGESSAGGLN
+PDGAGKPPREEGEPGSKSPADGGQDGPPPPRDGGDADPQPPRDDGNGEQQPPKGGGDEGQRPPPAAGNGG
+NGGNGNAQLPERGDDAGPKPPEGEGGDEGPQPPQGGGEQDAPEVPPVAPAPPAGNGVYDPGTHTLTTPAS
+AAVSLASSSHGVWQAEMNALSKRMGELRLTPVAGGVWGRAFGRRQDVDNRVSREFRQTISGFELGADTAL
+PVADGRWHVGAVAGYTNGRIKFDRGGTGDDDSVHVGAYATYIEDGGFYMDGIVRVSRIRHAFKVDDAKGR
+RVRGQYRGNGVGASLELGKRFTWPGAWYVEPQLEVAAFHAQGADYTASNGLRIKDDGTNSMLGRLGLHVG
+RQFDLGDGRVVQPYMKLSWVQEFDGKGTVRTNDIRHKVRLDGGRTELAVGVASQLGKHGSLFGSYEYAKG
+S</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation>Intranasal administration of IEM101 expressing Tcf induced a significant reduction in bacterial colonization of the tracheas of mice challenged with wild-type B. pertussis. These data are in agreement with the putative role of Tcf in Bordetella tracheal colonization [Ref1027:Chen et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1025">
+		<reference_name>Bruss and Siber, 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bruss JB, Siber GR</authors>
+		<title>Quantitative priming with inactivated pertussis toxoid vaccine in the aerosol challenge model</title>
+		<year>2002</year>
+		<volume>70</volume>
+		<issue>8</issue>
+		<pages>4600-4608</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1024">
+		<reference_name>Cainelli et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cainelli Gebara VC, Risoléo L, Lopes AP, Ferreira VR, Quintilio W, Lépine F, Silva WD, Raw I</authors>
+		<title>Adjuvant and immunogenic activities of the 73kDa N-terminal alpha-domain of BrkA autotransporter and Cpn60/60kDa chaperonin of Bordetella pertussis</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>4</issue>
+		<pages>621-629</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1027">
+		<reference_name>Chen et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen I, Finn TM, Yanqing L, Guoming Q, Rappuoli R, Pizza M</authors>
+		<title>A recombinant live attenuated strain of Vibrio cholerae induces immunity against tetanus toxin and Bordetella pertussis tracheal colonization factor</title>
+		<year>1998</year>
+		<volume>66</volume>
+		<issue>4</issue>
+		<pages>1648-1653</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference940">
+		<reference_name>FDA: Adacel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Adacel</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172481.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference939">
+		<reference_name>FDA: Boostrix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Boostrix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172925.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference941">
+		<reference_name>FDA: DAPTACEL</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: DAPTACEL</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm101572.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference942">
+		<reference_name>FDA: Infanrix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Infanrix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm101568.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4098">
+		<reference_name>FDA: KINRIX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: KINRIX vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM241453.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference933">
+		<reference_name>FDA: Pediarix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Pediarix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm146759.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference936">
+		<reference_name>FDA: Pentacel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Pentacel</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172502.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4099">
+		<reference_name>FDA: Quadracel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Quadracel vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM439903.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference943">
+		<reference_name>FDA: Tripedia</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Tripedia</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm101565.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1044">
+		<reference_name>Fennelly et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fennelly NK, Sisti F, Higgins SC, Ross PJ, van der Heide H, Mooi FR, Boyd A, Mills KH</authors>
+		<title>Bordetella pertussis expresses a functional type III secretion system that subverts protective innate and adaptive immune responses</title>
+		<year>2008</year>
+		<volume>76</volume>
+		<issue>3</issue>
+		<pages>1257-1266</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1805">
+		<reference_name>Feunou et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Feunou PF, Ismaili J, Debrie AS, Huot L, Hot D, Raze D, Lemoine Y, Locht C</authors>
+		<title>Genetic stability of the live attenuated Bordetella pertussis vaccine candidate BPZE1</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>45</issue>
+		<pages>5722-5727</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4096">
+		<reference_name>GSK: Boostrix-Polio</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Boostrix-Polio vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://ca.gsk.com/media/589683/boostrix-polio.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4102">
+		<reference_name>GSK: Infanrix-hexa</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-hexa vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/537989/infanrix-hexa.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4097">
+		<reference_name>GSK: Infanrix-IPV</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-IPV vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/590851/infanrix-ipv.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4100">
+		<reference_name>GSK: Infanrix-IPV/Hib</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-IPV/Hib vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/590970/infanrix-ipv-hib.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1019">
+		<reference_name>Guiso et al., 1989</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guiso N, Rocancourt M, Szatanik M, Alonso JM</authors>
+		<title>Bordetella adenylate cyclase is a virulence associated factor and an immunoprotective antigen</title>
+		<year>1989</year>
+		<volume>7</volume>
+		<issue>5</issue>
+		<pages>373-380</pages>
+		<journal_book_name>Microbial pathogenesis</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2663">
+		<reference_name>Kamachi et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kamachi K, Konda T, Arakawa Y</authors>
+		<title>DNA vaccine encoding pertussis toxin S1 subunit induces protection against Bordetella pertussis in mice</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>31</issue>
+		<pages>4609-4615</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1023">
+		<reference_name>Kinnear et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kinnear SM, Marques RR, Carbonetti NH</authors>
+		<title>Differential regulation of Bvg-activated virulence factors plays a role in Bordetella pertussis pathogenicity</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>4</issue>
+		<pages>1983-1993</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1021">
+		<reference_name>Komatsu et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Komatsu E, Yamaguchi F, Abe A, Weiss AA, Watanabe M</authors>
+		<title>Synergic effect of genotype changes in pertussis toxin and pertactin on adaptation to an acellular pertussis vaccine in the murine intranasal challenge model</title>
+		<year>2010</year>
+		<volume>17</volume>
+		<issue>5</issue>
+		<pages>807-812</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3131">
+		<reference_name>Lee et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lee SF, March RJ, Halperin SA, Faulkner G, Gao L</authors>
+		<title>Surface expression of a protective recombinant pertussis toxin S1 subunit fragment in Streptococcus gordonii</title>
+		<year>1999</year>
+		<volume>67</volume>
+		<issue>3</issue>
+		<pages>1511-1516</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1022">
+		<reference_name>Merkel et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Merkel TJ, Stibitz S, Keith JM, Leef M, Shahin R</authors>
+		<title>Contribution of regulation by the bvg locus to respiratory infection of mice by Bordetella pertussis</title>
+		<year>1998</year>
+		<volume>66</volume>
+		<issue>9</issue>
+		<pages>4367-4373</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2891">
+		<reference_name>Mielcarek et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mielcarek N, Debrie AS, Raze D, Quatannens J, Engle J, Goldman WE, Locht C</authors>
+		<title>Attenuated Bordetella pertussis: new live vaccines for intranasal immunisation</title>
+		<year>2006</year>
+		<volume>24 Suppl 2</volume>
+		<issue></issue>
+		<pages>S2-54-5</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3315">
+		<reference_name>Nascimento et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nascimento IP, Dias WO, Quintilio W, Christ AP, Moraes JF, Vancetto MD, Ribeiro-Dos-Santos G, Raw I, Leite LC</authors>
+		<title>Neonatal immunization with a single dose of recombinant BCG expressing subunit S1 from pertussis toxin induces complete protection against Bordetella pertussis intracerebral challenge</title>
+		<year>2008</year>
+		<volume>10</volume>
+		<issue>2</issue>
+		<pages>198-202</pages>
+		<journal_book_name>Microbes and infection / Institut Pasteur</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1018">
+		<reference_name>Novotny et al., 1985</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Novotny P, Chubb AP, Cownley K, Montaraz JA, Beesley JE</authors>
+		<title>Bordetella adenylate cyclase: a genus specific protective antigen and virulence factor</title>
+		<year>1985</year>
+		<volume>61</volume>
+		<issue></issue>
+		<pages>27-41</pages>
+		<journal_book_name>Developments in biological standardization</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1017">
+		<reference_name>Novotny et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Novotny P, Chubb AP, Cownley K, Charles IG</authors>
+		<title>Biologic and protective properties of the 69-kDa outer membrane protein of Bordetella pertussis: a novel formulation for an acellular pertussis vaccine</title>
+		<year>1991</year>
+		<volume>164</volume>
+		<issue>1</issue>
+		<pages>114-122</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4095">
+		<reference_name>Product Monograph: Adacel-Polio</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Adacel-Polio vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/document.cfm?file=adacel-polio_e.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4101">
+		<reference_name>Product Monograph: Pediacel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Pediacel vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/document.cfm?file=Pediacel_E.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1660">
+		<reference_name>Roberts et al., 1990</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Roberts M, Maskell D, Novotny P, Dougan G</authors>
+		<title>Construction and characterization in vivo of Bordetella pertussis aroA mutants</title>
+		<year>1990</year>
+		<volume>58</volume>
+		<issue>3</issue>
+		<pages>732-739</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1530">
+		<reference_name>Salyers and Whitt., 2002</reference_name>
+		<reference_type>book</reference_type>
+		<authors>Abigail A. Salyers, Dixie D. Whitt</authors>
+		<title>Bordetella pertussis</title>
+		<year>2002</year>
+		<volume></volume>
+		<issue></issue>
+		<pages>263-73</pages>
+		<journal_book_name>Bacterial Pathogenesis: A Molecular Approach</journal_book_name>
+		<publisher>ASM Press</publisher>
+		<publisher_location>Washington D.C. USA</publisher_location>
+		<book_editors></book_editors>
+		<isbn>1-55581-171-x</isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1020">
+		<reference_name>Sato and Sato, 1984</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sato H, Sato Y</authors>
+		<title>Bordetella pertussis infection in mice: correlation of specific antibodies against two antigens, pertussis toxin, and filamentous hemagglutinin with mouse protectivity in an intracerebral or aerosol challenge system</title>
+		<year>1984</year>
+		<volume>46</volume>
+		<issue>2</issue>
+		<pages>415-421</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1026">
+		<reference_name>Sukumar et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sukumar N, Mishra M, Sloan GP, Ogi T, Deora R</authors>
+		<title>Differential Bvg phase-dependent regulation and combinatorial role in pathogenesis of two Bordetella paralogs, BipA and BcfA</title>
+		<year>2007</year>
+		<volume>189</volume>
+		<issue>10</issue>
+		<pages>3695-3704</pages>
+		<journal_book_name>Journal of bacteriology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1409">
+		<reference_name>Wiki: Bordetella pertussis</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Bordetella pertussis</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Bordetella_pertussis</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

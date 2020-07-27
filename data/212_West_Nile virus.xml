@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen68">
+		<pathogen_name>West Nile virus</pathogen_name>
+		<taxon_id>11082</taxon_id>
+		<pathogenesis refs="reference1454">The mechanisms by which WNV and other neurotropic flaviviruses cross the blood-brain barrier (BBB) remain largely unknown, although tumor necrosis factor alpha (TNF-α)-mediated changes in endothelial cell permeability may facilitate CNS entry. It is likely that WNV infects the CNS at least in part via hematogenous spread, as an increased viral burden in serum correlates with earlier viral entry into the brain. Additional mechanisms may contribute to WNV CNS infection, including (i) infection or passive transport through the endothelium or choroid plexus epithelial cells, (ii) infection of olfactory neurons and spread to the olfactory bulb, (iii) a “Trojan horse” mechanism in which the virus is transported by infected immune cells that traffic to the CNS, and (iv) direct axonal retrograde transport from infected peripheral neurons (Samuel and Diamond, 2006).</pathogenesis>
+		<disease_name>West Nile fever</disease_name>
+		<protective_immunity refs="reference1454">T-cell-mediated immunity is essential for controlling WNV infection in the CNS. Both humoral and cellular immune responses are likely essential in protection from WNV infection (Samuel and Diamond, 2006).</protective_immunity>
+		<host_range refs="reference1440">West Nile virus mainly infects birds, but is known to infect humans, horses, dogs, cats, bats, chipmunks, skunks, squirrels, and domestic rabbits. The main route of human infection is through the bite of an infected mosquito (Wiki: West Nile).</host_range>
+		<introduction refs="reference1440 reference1190">West Nile virus (WNV) is a virus of the family Flaviviridae. Part of the Japanese encephalitis (JE) antigenic complex of viruses, it is found in both tropical and temperate regions. It mainly infects birds, but is known to infect humans, horses, dogs, cats, bats, chipmunks, skunks, squirrels, and domestic rabbits. The main route of human infection is through the bite of an infected mosquito (Wiki: West Nile). WNV was first detected in North America in 1999 and spread rapidly across the USA and into Canada, Mexico, and Central and South America. The virus is transmitted via mosquitoes, primarily through the bite of Culex species but also by many other genera of mosquitoes. Birds are the natural hosts and serve as the zoonotic reservoir. Mammals and reptiles are considered to be incidental hosts from which further transmission generally does not occur (Lieberman et al., 2009).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4216">
+		<vaccine_name>ALVAC-WNV-prM/E</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004731</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3251">Three commercially available equine WNV vaccines in horses:  (i) an inactivated WNV vaccine (K-WN), (ii) a modified-live vaccine (CP-WN) containing the WNV prM and E proteins expressed by a canarypox vector, (iii) a live-chimera vaccine (WN-FV) containing WNV prM and E proteins expressed in a YF17D vector (Seino et al., 2007).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1887" host_id="host18">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3251">Twenty-four healthy, WNV-seronegative horses of varying ages and genders were placed, in random and blind manner, into three trial groups consisting of eight horses each; two horses in each group received one of the three vaccines being tested (Seino et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3251">Challenge in horses at between 28 days postvaccination with the chimera vaccine and 56 days postvaccination with the commercial inactivated or modified-live vaccine resulted in 100% survivorship (protection from the onset of WNV encephalitis and viremia). Horses vaccinated with the live-chimera vaccine showed significantly fewer clinical signs than did the control horses and the horses vaccinated with inactivated vaccine (Seino et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3251">The horses were challenged with designated WNV NY99 (Seino et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4222">
+		<vaccine_name>ALVAC-WNV-PrM/E (dogs and cats)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004736</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3255">Canarypox vector expressing PrM and E genes of West Nile virus (WNV) (ALVAC-WNV) (Karaca et al., 2005).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1774" gene_id="gene592">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3255">A canarypox vector expressing PrM and E genes (Karaca et al., 2005).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1775" gene_id="gene590">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3255">A canarypox vector expressing PrM and E genes (Karaca et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1888" host_id="host36">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3255">One group of 17 dogs was vaccinated with 10^5.6 TCID 50 (Karaca et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3255">The first dose of vaccine induced a detectable antibody response in four dogs and five cats (one immunized with low and four with high doses). After the second dose, all the vaccinated dogs and all of the cats, immunized with high dose had detectable antibody titers, whereas only four of eight cats in the low dose group were seropositive. None of the vaccinated dogs and one vaccinated cat developed viremia following the WNV mosquito-challenge. In contrast, 14 of the 15 control dogs and 9 of the 11 control cats developed viremia (Karaca et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3255">The animals were challenged 120 and 135 days after the second immunization, respectively via the bites of Aedes albopictus mosquitoes infected with WNV (Karaca et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response1889" host_id="host37">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3255">Two groups of cats (groups 1 [n=14] vaccinated with 10^7.5 TCID(50) and 2 [n=8] 10^5.6 TCID(50)) were vaccinated twice at 28-day intervals (Karaca et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3255">The first dose of vaccine induced a detectable antibody response in four dogs and five cats (one immunized with low and four with high doses). After the second dose, all the vaccinated dogs and all of the cats, immunized with high dose had detectable antibody titers, whereas only four of eight cats in the low dose group were seropositive. None of the vaccinated dogs and one vaccinated cat developed viremia following the WNV mosquito-challenge. In contrast, 14 of the 15 control dogs and 9 of the 11 control cats developed viremia (Karaca et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3255">The animals were challenged 120 and 135 days after the second immunization, respectively via the bites of Aedes albopictus mosquitoes infected with WNV (Karaca et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1720">
+		<vaccine_name>Encephalomyelitis-Influenza-West Nile Virus Eastern &amp; Western, Killed Virus Vaccine (USDA: 13W5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002115</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2854">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza-West Nile Virus Eastern &amp; Western, Killed Virus, Killed Flavivirus Chimera Vaccine-Tetanus Toxoid (USDA: 4855.R2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002262</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1726">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine (USDA: 14W5.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002128</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2859">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 48W5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002284</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2872">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 48W5.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002287</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1723">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western, Killed Virus Vaccine (USDA: 14W5.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002127</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2863">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western, Killed Virus Vaccine-Tetanus Toxoid (USDA: 48W5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002285</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2867">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western, Killed Virus Vaccine-Tetanus Toxoid (USDA: 48W5.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002286</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1730">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western, Killed Virus, Live Canarypox Vector Vaccine (USDA: 14W7.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002129</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2876">
+		<vaccine_name>Encephalomyelitis-West Nile Virus Eastern &amp; Western, Killed Virus, Live Canarypox Vector Vaccine-Tetanus Toxoid (USDA: 48W9.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002288</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine394">
+		<vaccine_name>PreveNile</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>PreveNile</brand_name>
+		<manufacturer>Intervet</manufacturer>
+		<vo_id>VO_0000947</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference818">Live flavivirus chimera vaccine(Monath et al., 2001)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine396">
+		<vaccine_name>RECOMBITEKEquine WNV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>RECOMBITEKEquine WNV</brand_name>
+		<manufacturer>Merial</manufacturer>
+		<vo_id>VO_0000878</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference820">Canarypox virus-vectored vaccine(Minke et al., 2004)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4197">
+		<vaccine_name>rMV- WNV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004712</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3237">A recombinant MV vaccine expressing the secreted form of WNV envelope glycoprotein (Brandler and Tangy, 2013).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1886" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3237">Mice were immunized with varying doses of MVSchw-sEWN (Brandler and Tangy, 2013).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3237">A single administration of a recombinant MV vaccine expressing the secreted form of WNV envelope glycoprotein elicited protective immunity in mice as early as two weeks after immunization (Brandler and Tangy, 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3237">Mice were challenged with doses ranging from 100 to 100,000 focus-forming units of IS98-ST1 WNV (Brandler and Tangy, 2013).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3141">
+		<vaccine_name>West Nile virus C protein mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002998</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering653" gene_id="gene925">
+			<type>Gene mutation</type>
+			<description refs="reference1784">This C protein is from West Nile virus (Schlick et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response965" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1784">A C protein mutant is attenuated in mice (Schlick et al., 2010).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1784">A C protein mutant protects mice from challenge with wild type West Nile virus (Schlick et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response195" gene_id="gene1161">
+			    <description refs="reference1784">WNV specific IgG titers were also determined 4 weeks post-challenge. Titers had generally increased to values of 10^4–10^5, with the more pronounced increases observed in mice that had been immunized with lower doses of vaccine strains.  All animals inoculated with any of the virus mutants seroconverted, whereas serum samples of animals that had received medium alone showed no WNV specific antibody response.  A statistically significant increase in IgG over control mice was observed (Schlick et al., 2010).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2149">
+		<vaccine_name>West Nile Virus DNA Vaccine (USDA: 1995.D0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0004211</vo_id>
+		<type>DNA vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3673">
+		<vaccine_name>West Nile virus DNA vaccine pCBWN encoding prM and E</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004415</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCBINT [Ref819:Davis et al., 2001]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1207" gene_id="gene590">
+			<type>DNA vaccine construction</type>
+			<description refs="reference819">Vector pCBINT expressed WNV E protein (Davis et al., 2001).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1208" gene_id="gene592">
+			<type>DNA vaccine construction</type>
+			<description refs="reference819">Vector pCBINT expressed WNV prM protein (Davis et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1444" host_id="host3">
+			<immune_response refs="reference819">Recombinant plasmid-transformed COS-1 cells expressed and secreted high levels of WN virus prM and E proteins into the culture medium (Davis et al., 2001).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference819">The lowest dose tested (0.1 μg of DNA per animal) is sufficient to induce complete protective immunity by our vaccine in mice.  It was evident that the presence of WN virus antibody correlated with protective immunity, since all mice immunized with WN virus DNA remained healthy after virus challenge.  All control mice developed symptoms of central nervous system infection 4 to 6 days later and died an average of 6.9 and 7.4 days after i.p. or infected-mosquito challenge, respectively (Davis et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2147">
+		<vaccine_name>West Nile Virus Killed Virus Vaccine (USDA: 1995.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001812</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2148">
+		<vaccine_name>West Nile Virus Killed Virus Vaccine (USDA: 1995.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001813</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2145">
+		<vaccine_name>West Nile Virus Live Canarypox Vector Vaccine (USDA: 1991.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0001814</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2146">
+		<vaccine_name>West Nile Virus Live Flavivirus Chimera Vaccine (USDA: 1991.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001815</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine395">
+		<vaccine_name>West Nile-Innovator DNA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>West Nile-Innovator DNA</brand_name>
+		<manufacturer>Fort Dodge</manufacturer>
+		<vo_id>VO_0001140</vo_id>
+		<type>DNA vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference819">DNA vaccine(Davis et al., 2001)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene925">
+        <gene_name>C protein</gene_name>
+        <strain>West Nile virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>158516889</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:144552
+VBRC:36387</xrefs>
+        <taxonomy_id>11082</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>capsid protein</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>105</protein_length>
+        <protein_note>lineage 1; Vero cell passage 2 after isolation</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|158516889|ref|YP_001527878.1| capsid protein [West Nile virus]
+MSKKPGGPGKSRAVNMLKRGMPRVLSLIGLKRAMLSLIDGKGPIRFVLALLAFFRFTAIAPTRAVLDRWR
+GVNKQTAMKHLLSFKKELGTLTSAINRRSSKQKKR</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A virus with a C protein mutation is attenuated in mice and induces significant protection from challenge with wild type West Nile virus [Ref1784:Schlick et al., 2010]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene590">
+        <gene_name>E protein</gene_name>
+        <strain></strain>
+        <vo_id>VO_0011177</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>111145461</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>2I69</pdb_id>
+        <xrefs>CDD:279241
+CDD:213392
+CDD:213897</xrefs>
+        <taxonomy_id>11082</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>E protein</protein_name>
+        <protein_pi>7.52</protein_pi>
+        <protein_weight>49765.38</protein_weight>
+        <protein_length>559</protein_length>
+        <protein_note>Flavivirus glycoprotein, central and dimerization domains; pfam00869</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABH06950.1 E protein, partial [West Nile virus]
+FNCLGMSNRDFLEGVSGATWVDLVLEGDSCVTIMSKDKPTIDVKMMNMEAANLAEVRSYCYLATVSDLST
+KAACPTMGEAHNDKRADPAFVCRQGVVDRGWGNGCGLFGKGSIDTCAKFACSTKAIGRTILKENIKYEVA
+IFVHGPTTVESHGNYSTQAGATQAGRFSITPAAPSYTLKLGEYGEVTVDCEPRSGIDTNAYYVMTVGTKT
+FLVHREWFMDLNLPWSSAGSTVWRNRETLMEFEEPHATKQSVIALGSQEGALHQALAGAIPVEFSSNTVK
+LTSGHLKCRVKMEKLQLKGTTYGVCSKAFKFLGTPADTGHGTVVLELQYTGTDGPCKVPISSVASLNDLT
+PVGRLVTVNPFVSVATANAKVLIELEPPFGDSYIVVGRGEQQINHHWHKSGSSIGKAFTTTLKGAQRLAA
+LGDTAWDFGSVGGVFTSVGKAVHQVFGGAFRSLFGGMSWITQGLLGALLLWMGINARDRSIALTFLAVGG
+VLLFLSVNVHA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The immunogenicity and protective efficacy of a recombinant subunit West Nile virus (WNV) vaccine was evaluated in rhesus macaques (Macaca mulatta). The vaccine consisted of a recombinant envelope (E) protein truncated at the C-terminal end, resulting in a polypeptide containing 80% of the N-terminal amino acids of the native WNV protein (WN-80E), mixed with an adjuvant (GPI-0100). Groups of monkeys were immunized with the WN-80E/GPI-0100 vaccine or an adjuvant-only control formulation. Animals were then challenged by inoculation of wild-type WNV, and the level of viremia in each animal was monitored daily for 10 days. The results showed that whereas all animals in the control group had detectable viremia for at least 3 days after challenge, all of the vaccinated animals were negative on all days after challenge. Thus, the WN-80E vaccine was 100% efficacious in protecting monkeys against infection with WNV [Ref1190:Lieberman et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1161">
+        <gene_name>IgG</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16059</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AF010213</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>881411</gene_start>
+        <gene_end>914690</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>immunoglobulin heavy chain (V7183 family)</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as IgG; IgH; VI24H; VH7183; B9-scFv; IgVH1(VSG)</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|94393741:881411-914690 Mus musculus strain 129/SvJ chromosome 12 unlocalized genomic contig, MGSCv37 alternate locus group 129/SvJ
+CATGGACTTTGGGCTCAGCTGTGTTTTCCTTGTCCTCATTTTAAGAGGTAATTTGTAGAAATAAGATCCT
+GCCAGTATTGTGTACAGGAGAAATAGAAAAATTTTTCTTTCCTCTATTTTGTTTTGTTTTGTTAGTGACA
+GTTTACAAATAAGCATTCTCTGTTGTGAGGTGCCCAGTGTGAGGTGAAGATGGTGGAGTCTGTGGGAGGC
+TTAGTGCAGCCTGTAGGGTCATTGAAACCCTCCTGTGCAGCCTCTGGATTCATTCTCACTGACTACTGAA
+TGACCTGGATCCTTCAGGCTTCAAAGAAAAGGATGGAGAGGGTGACAATAAAATTTTTCCCACTCACACC
+CACTTGCTGGCCCTGGCGTTCCCCTGTAATGAGGCACATAAAGTTTGCAAAACCAAGGGGCCTCTCTTCT
+CAATGATGGCTGACTAGGACATCTTCTGATACATATGCAGCTAGAGACATGAGCTCCCGGGATACTGGTT
+ACTTCATATTGTTGTTCCCCCACAACAGTTGCAGACCCTTTTATTTCTGTGGGTACTTTCACTAGCTCCT
+CCATTGGGGGCCCTGTGTTCCATCCAATAGCTGACTGTGAGCATCCACTTCTGTAGTTGCTAGGCCCCGG
+CATAGCCTCACAAGAGACAGCTATATCAGGGTCCTTTCAGCAAAATCTTGCTGGTGTATGCAATGGTGTC
+AGAGTTTGGAGTCTGATTATGGGATGGATCCCCAGGTATGGCAAACTCTAGATGGTCCATCCTTTCCCAA
+CAATAATTTTTAATGGTGGAGATAGCACCTACTATCCAGACACAATGAAGGGCCAATTCACTATCTCTAG
+AGATGATGCCAAAAACACACTTTACCTGAAAATAAACAGTCTGAGGTCTGAGTACACAGCCATGTATACA
+TATATTCCTAAGCTTGAGTAAGTGGACTTAAACTGATTCCATCACAACTTGCATGAGATGGATATTCCCC
+AGTGTTAAGACCTGTCACCATCACTGTCAATCAGAAGACAAAGTTTATGCACAACAAAACAAAAAAACCA
+AAAGCAGAGGCCTCCAATTACAAGTAATAGACCCAGACCCACAGTCTCTGAAAACTGACTGTACAGTTGG
+ATCCAGTCTTTTACTTCTTTTCCCTGGATTTTATATTACTGAGGAAATGAGGAAAGCTCTACAATATCTG
+TTCTCCATAGTGCTCAACACCTCCAAGCACAGGTTACCCATATTCATGCCTGCCTTCTGCTACACTTCTT
+GTCTTGTAGACTACTTCAACCTATTTTGTACTCCAGTTAATGAAACTCAAGTCTAGCAGCCTGTCACTGT
+TTATTCTAAAGTATTATGAACAGGTGACCTCCCATCCTTCCCCAACGCAATAATCATATTTAGGAATTTG
+AGGTTTTATGAGATATGATCTCAGGGTAGAGAGAGAAAGCAAACTACATAGAAATATAGACTGACATAAA
+TCAAGACTTGCATAAGCTAGTCCCCAAGTTCCATGTCCCTAAGTGGCAAGGACTATCTTCTGAGCCTAAT
+GAGATGAGATCCAAATCAAACCTCCTGGGTCTTTTTAGATAAACATGTGAGATCAATAGACTAAATGCTT
+TGGCTGGGCTTCCTTGCAATCCAATTCCCAAACAAAAATGGATCTGGCTCCACAGACACCACAAGAATAG
+TCTTAAATAGTTCTTTAAGTAGAATGTCTGATCACTACGAGCCCAATTCCATCCTAAATACTCTTCTGGA
+TTATACATAAATAAAAATTGAACATAGGGCATGGGGCACTGATCTCCCTGTGCTACATGAATGGGGGCTC
+ATTTACTAAATGTTCCCATTTTTCTTTCTAGCGCTGCACAGTGCAAATCCTACAACTTCCTGTTTATCTA
+CAATGTGAACTCCAAACAGTACAAGAAAAAACGTTCCTTATGTTCCTCTCCAGGTTCTCCAACAAGCACA
+GAGCAACCTTCTGTCACCAGGACGGAAAACTGGAAACCTTGCTCACTGCTTCCTTTTATTCCCTCGGGAA
+CCTCCCCCAATGCAAAGCAGCCCTCAGGCAGAGGATAAAAGCTCACACAAAGACGAGAAGCCCCATCCTC
+TTCTCATAGAGCATCCATCAGAGCATGGCTGTCCTGGGGCTGCTTCTCTGCCTGGTGACTTTCCCAAGCT
+GTAAGTGTTTCAGGGTTTCAGAAGAGGGACTAAGACATGTCAGCTAGAAGATGTGTGACTAATGGTGATG
+TTGCTTGTCCCCAGGTGTCCTGTCCCAGGTGCAGCTGAAGGAGTCAGGACCTGGCCTGGTGGCGCCCTCA
+CAGAGCCTGTCCATCACATGCACCGTCTCAGGGTTCTCATTAACTAGCTATGGTGTACACTGGGTTCGCC
+AGCCTCCAGGAAAGGGTCTGGAGTGGCTGGTAGTGATATGGAGTGATGGAAGCACAACCTATAATTCAGC
+TCTCAAATCCAGACTGAGCATCAGCAAGGACAACTCCAAGAGCCAAGTTTTCTTAAAAATGAACAGTCTC
+CAAACTGATGACACAGCCATGTACTACTGTGCCAGAAACACAGTGTGGGAAGTCCAATGTGAGCCTGCAC
+AAATACTTCTCTGCAGGGATGATCACAACCAGCAGGGGGCGCTGATGACCCAAAGGGACTTCCCAGGATC
+TCTTCTGGAATCTAGGGAGTTCTGGCCTGTGTCTATCAGCATGTGTTTCAATGTTAGAGTTGTGAGTTTT
+CCTTCCAGCAACAGAGATATTTTAGAGCCCACTTTTCATGGTCATTCTACTAAATTTGTTCACATAGTGG
+AAAGATTTGTTAAATGATTCTATAGTCTAATAGGGTCAAACAAAAACAAATAATTGAGTTCATATCTACC
+AAAAAAAAAAAAATTCCCTCAAAGTGGACAACTGTGTAGGTGAGGAAAACCAGGGGGATTTGGGAATAGA
+TTATTTCTCTCCCGACTGTGGTGTTAGTCACCTTTCAGCCATTTACTGTATTTAATTCATGTTTAAAGTT
+AATTGTATTCATCTTCCCTAACATGAAGTTTTCAAACACATGTCCACAATTTAATGATGACACAGTTATC
+ATTGTGAATGATAACTCATAAGATCTCTCTCCATATATGAAACACACGATATTCTGTTATTAGCTATAGC
+CAACAAAGTTACATATCATTATTATTACTGAAATAATTCTTCCCATCTAACTGAATAGTTTTCTCACTCG
+ACACTGCCTATGCTGCGATCAGCCTGCTCTAATTTTACCTTTGCTCAGAGCACTGCTTTCTGTTTCATTT
+GATAAGATGGTGCCTGGTTGTCACTGAAAATGTGTCCTCCAGTTTCACAGTGATTAATGTGATTTTCAGT
+ACATTGAGAACAGAGCCACAGCAAAAATGAGATGGAATGTCATCATTTTTACGCCAGGTGCTGCAGAAAT
+AGCTAGGTGGTTAAGAGAGAATATTGAACTTTGAGGGGTTCAGATTAAATTCCTGATACCCACAATGTGC
+ACCTCATAACCACATGTACATATAGAAAACTCAGTATAAATGTGGCCTCCGTGAGCACCACACTACTCCC
+ACAAACACATATACACATAATTAAAAGTAAAGATTTTAGAAAAATGGCTAATCTAATGATAGGAAGTAGT
+CAAAAAGAGAGTTCTTTTGTCATGTACATATGTGTAGCAGACTTAAATGTTAAACATTCAAGAATACATT
+CCTCGATCCACATTAAAATTTTGCAAAGAGTAGCACAGACGGTGGCAATTGCTAAACTTATATCTAGAAA
+CACAATTATGTGTGGTGATATTTAATTACACATTTATACCAGGACATATGACAATATGGAAACCAAACAT
+GTTGTATCCACATGCTCTAAGGAAAACTAAATGGAGTGTGATAAAACCAAAGAAAATGTGAATATGAAAT
+ATTTTTCCAACTCTGCATCTTAAAACGGTTTCTTTCATGTGTCATATCTGCTATGAGGACTTTCTTCTGC
+CCATGTCCAACTCCAGAGCATGCCACAGCAGGAAGACCTACAGGTATTACTTCTCTGCACCCAGGAAAAC
+CACCTCTGTCCTGACCCTGCAGCTCTCAGAAGAGCCCAGACCTTCATTCTCAGGCCCTCATCCAGTAATC
+AGCACTGAATACAGAGCACTCACCATGGACTTTGGGCTCAGCTTGGTTTTCCTTGTCCTTATTTTAAAAG
+GTAATTCATAGAGATAAGATTCTATCTGTTTTGTGTACATGAGAAACAGAAAAATTGTATTGTTTCTCTA
+TTTTGTTTTGTTTTGTTAGTGACAGTTTCTGACTCAAGATTCTCTGTTTGAAGGTACCCAGTGTGAGGTG
+AAGCTGGTGAAGTCTAAGGGGAGGCATAGTGCAGCCTAGAAGGTCCATGATACTCTACTGTGCAGCCTCG
+GATTCACTGTAAGTGACGACTGGTTTGTCCGTGTTTGCCAGGCTCCAAAGAAGGGGCTGCAGTGGGGGAT
+GGGAATAATTTTTCATGGTTGTGGTAGCCCCTCTTATGCAGACACCTTGAAGAAGTGGGTTGGACGTAAC
+ATATTCAGAATCAATATTTAAAGATTCTAATCCTTGAAGATATCACTTTTGACCAAGTATATATGAACCA
+TGTTACTGAGGTTTATGGAGGTTTGAGTATGTTAGGTCCATGGATAGGGAAAATATTAGGGGATTTTAGG
+AGTAACTGAGGCTTGTTGTAGGAAGGACATCACTGTAGGGGTAGGCTCCGTGTTCCTATCTTCAAGCTCT
+ACCCAGTGCAGAATAGAGCCCTCTTCTGCCGGCAAGTGGAAAGAGTTTCTCTTCCTGGCTGCCTTCAATC
+CAAGTTGTAGAATATCAAATCTCCTAACACTATGACTGCGAGCATGCTGACATGCGTCCCACCATAAAAA
+TAGACTGAACCTCTGAAGCTTTAAGCCAGCCTCTAGTAACTGTATTCTTTAATAAGACTGAACTTGGCTA
+TGGTGTCTTTTCACAGTAAAATGGAAACATAGACAAGGTTCTAACTCTCTGTACTAGAGGACCATCTCTA
+TGTCCTTGGTGTTGTATGTAAATTATTGAACAAATACTATAGACAAGTTGTATGGCCAAAAGTCCATCCC
+CTTCAACAATCTACTATCTGGAACCATATAGATTAGATTCCTTTCCTGCACTCATTTCCCTTACTTGCTG
+AGACATTTTGAAGACATGCTCAGAATCCCTGAACTTCCTGCTGAAAAAAAAATACCCCTCCAATTTGAAG
+ACAGTTCTCTTCCAAAATTCATCATAAATACTGATCCACATGTCCAGGCATATCATGTAGTTTTAAAAAA
+CAAACCAATCAATGCTAAAGTGGGTAAGTGCCTACATCATTGGTTTATGTCTGTTCATAACCTGGTATAT
+AGCTAGAGACCAGGACTGCATGTTTCTCCTAGGCCACACCTCTCCCACAAATGCTGGCTCTGCCTCTCCA
+GAATTCCAAGATCATGGATCTCTGGGTCCCCAAGGAACAATAAGTGTGCACTCTTGCCAGCCTGTACACT
+ACTGCACTAGCTTCTCCCCCTGGAGCTTGGTCATTGCTCAATCTTCCCTTTCCAAAGCCTGGCCAAATTC
+CTCCTACCTTTTGTTCTTTCAGTCAGGCCACCTAAGTCATCTTGAATGAAAAACAACACAAAATCTGAAC
+TTAAAATCAACAAATAATACAAGTGCTGCGCACAAAATCAATCATTCTAAACTCATCAACTATTTTATGA
+TGGAAATCTTCCAACATACAAGCTACCACCAGGTCTAAGAATTACTCATCTACATGTTGCTTCCTCTCAC
+TCACAGCCTAACCATAAAAGGGCTGTTTCTTCCTCCCATGTCCCCTCTTTTGCCTTCAGAAGCAGAAGCT
+CCACCTCCTCCTCTTTGCCCAGCAATTGGCTTCTTGTCGTCTTTATTATCATATTAATTACTTAGGGGAA
+AATCCCGTGTAGTGGCTATTCCTGGTTGTCAACTTGACAATATTTGGAATGAACTACAATCCGGAATTGG
+AAGGCTCACCAGTGACCCTTATCTGGAGGCTTGGAGATCCTTATCTGGATCTTGGTTTGAAGATCTTGAG
+CCATAGGGGCTATGGATTCCAGAAGATTGAATCTCCGAGTTTAAGGAACACACCTTTAATCTGGGCTACG
+CCTTTCATCTGGGATTAAAGGTGTGGCGGAACACACCTTTAATCTGGACTACACCTTCTGCTGGAGACAA
+TATAAGGACATTGAAAGAAGGGAGTCTAGCTCTTGCTCTTGCTCCTTCGCCTGCTTGCTGCGTGAGACTG
+AGTAACTGCTAGATCCTTGGACTTCCATTCACAGCTGCGACTGAACAATTGTTGGGAATTGGGCTGCCGA
+CTCTAAGTCATCAATAAATTCCTTTACTATCTAGAGACTATCCATAGTTCTGTGACTCTAGAGAACCCTG
+ACTAATACAGAAGTTGGTACCAGGAGTGGTTCTAGAGTAACAGAAGTACAAGGATGAATCTTTTAAAATA
+CTGGAATTGGCTTGTTGATCCACCAGCACTTTCAACTATTGAAACCTCTCCAGATTCTCTCCCTCCTGGG
+AGCTCAGAGAATTTTGAAGACCCATGGTTGAAACTATATTCCGAACTTAAAGAAGCAAATGCCCTTGATT
+TTCTTAATGAATTAGGTGATTCAGTGCACAAAGCTTTCTACAAGATGGGGAAAAAATTGGAAAATGATTT
+TACTGGCTGGCTGCTCTTAGTATCTGTGGAAAAAATGATGAATGAAAGGAAGGAGTTGTGTGATAAAATC
+GAAAGGCTCCAGACACAAGTAAACGATCTAAAAGTTGCTAAGTGTGTCCTTGAGGAGAATCTTCTCTCTT
+GTAGCAATAGAGCTCAAGTTGCAGAAAATCAAACAGAAACTCTCATTGTAAGGTTGGCTGAACTACAGCG
+AAAATTCAAGTCTCAGCCTCAGAGTGTGTCAACAGTTAAAGTAAGGGCTCTAATTGGCAAAGAATGGGAT
+CCTACAACATGGGACGGGGATGTGTGGGAAGACCATGTTGAAGCTGAGAATTTTGAATCTTCAGATTCTC
+AAGGGTTTGCCCCACCTGAGGAAGTAGTACCCTCAGCCCCACCCCTTGAAATAATGCCTTCCCCACATGA
+GGAAATTAATTTTGCAGAGTCTGATAAACCAGCAATGATTTTCACTACTGATGTTTCTCAAGGCCCACCA
+ATAGTTTCTTCTAGACCTGTAACCAGACTCAAAGCAAAACAGGCTCCTAGAGGGGAGGTAGAAAGTGTAG
+TCCATGAGGAAATTCGCTACACTACTAAGGAGCTTAATGAGTTTGCTAATTCATTCAAGCAGAAACCTGG
+TGAATATGTGTGGGAATGGATTTTAAGGGTGTGGGATAAGGGTGGAAGGAACATAAGACTAGAGCAGGCT
+GAGTTTATTGACATGGGTCCTCTGAGTAGAGATTCTAGGTTTAATACGGAAGCTCGCATAATTAAAAAAG
+GTGTCAAAAGTTTGTTTGAATGGTTGGCTGAGGTGTTTATCAAAAGATGGCCTACTGGAAATGACTTGGA
+GATGCCTGATATTCCGTGGCTTAGTGTTGATGAAGGGATTTTAAGACTTAGGGAAATTGCAATGCTAGAG
+TGGATATATTGTGTAAAGCATAATTGTCCACAATGGGAAGGTCCAGAAGATATGCCTTTCACTAGCTCTA
+TAAGACGCAAATTGGTGAGAGGGGCACCAGCACATTTGAAGGGTTTTGTTCTTTCCCTTTTCCTTGTACC
+AGATCTTAGCATTGGAGATGCTTCTGCTCAATTAGATGAATTAAATTCACTGGGTTTAGTTGGATTCCGA
+GGTAACAAGGGCCAGGTGGCAGCATTGAATCGCCGGAGACAAGGTGATTCTAGTTATTATAATGGACAGC
+GTAGACAAAAGAATGTTTATAATAACATACCCAGCAATGGTCAGCACAGGAGAGGTGAAATTTATAATGG
+CATGACTCGGTTGGACCTTTGGTACTGGCTAACCAATCATGGTGTTTCCAGGAATGAAATACATAGGAAG
+CCTACTGCATATTTGTTTGATCTGTATAAGCAGAAAAATTCTCAAACAAATGAAAGAAAGGCTACATTAG
+ATCATGGTAAACAGCAATCTCGGCCAGTGAATCAATTTCCAGACTTGAGACAGTTTGCAGATCCAGAACC
+CCTTGAATGAAGGGGTGGCCAGGTTCCGCTGAGGAAGGATCTTGATAAGACACCCAAAGGTTTTGCTGTT
+ACCCTTTCTCCAGTTCTTCCCCAGAGGGACCTAAGGCCTTTTACAAGGGTAACTGTACACTGGGGAAAAG
+GAAATAATCAGACTTTTCAGGGTCTGCTGGATACTGGTTCTGAGTTGACACTGATTCCAGGGGATCCCAA
+GAAACATTGTGGCCCTCCAGTTAAAGTAGAGGCTTATGGAGGGCAGGTGATTAATGGAGTTTTGACTGAT
+GTCCGACTCACAATAGGTCCAGTAGGTCCCCAGACACATCCTGTGGTGATTTCCCCAGTTCCAGAATGTA
+TAATTGGGATAGATATACTCAGAAATTGGCAGAATTCTCATATTGGTTCCCTGAACTGTAGAGTGAGGGC
+TATTATGGTTGGAAAGGCCAAATGGAAACCTTTAGAGTTGCCTCTGCCAAAGAAAATAGTGAATCAAAAA
+CAGTATCGTATTCCTGGAGGCATTGCAGAAATTACTGCCACTATCAAGGACTTGAAAGATGCAGGGGTGG
+TGGTTCCCACCACATCTCCGTTTAACTCTCCTATCTGGCCAGTGCAGAAAACAGATGGATCATGGAGAAT
+GACAGTTGATTATCGAAAACTAAATCAGGTAGTAACTCCAATTGCAGCTGCTGTACCAGATGTAGTTTCA
+TTACTTGAGCAAATTAACACATCTCCTGGCACCTGGTATGCGGCTATTGATCTGGCAAATGCCTTCTTCT
+CAGTACCTGTCCATAAGGACCACCAGAAGCAATTTGCTTTCAGTTGGCAAGGCCAACAGTATACTTTCAC
+AGTTTTGCCTCAAGGATATATTAACTCTCCTGCCCTGTGTCATAATTTAGTTAGAAGGGATCTTGATCGT
+TTGGATCTTCCACAAAATATCACATTGGTGCACTATATTGATGACATTATGCTGATTGGACCAAGTGAGC
+AGGAAGTAGCAACCACTTTGGACTCATTGGTAACACATATGCGTATCAGAGGATGGGAAATAAATCCAAC
+CAAAATTCAAGGACCATCTACCTCAGTGAAATTCTTAGGAGTCCAGTGGTGTGGAGCATGCAGAGATATT
+CCTTCTAAGGTGAAAGATAAGTTATTGCACCTGGCCCCTCCTACAACCAAGAAAGAAGCACAACGTTTAG
+TGGGTCTATTTGGATTCTGGAGACAACACATCCCTCACTTGGGTGTGTTACTTAGGCCTATTTACCAAGT
+GACTCGGAAAGCTGCTAGCTTTGTGTGGGGCCTGGAACAGGAGAAGGCCCTTCAACAGGTCCAGGCTGCT
+GTGCAGGCTGCACTACCACTTGGACCATATGACCCAGCAGACCCGATGGTACTTGAGGTGTCTGTGGCTG
+ATAGAGATGCTGTTTGGAGCCTCTGGCAGGCCCCTGTAGGTGAATCACAGAAAAGACCTTTGGGATTTTG
+GAGCAAAGCTCTACCATCATCTGCAGACAACTATTCTCCCTTTGAAAAACAGCTCTTGGCCTGCTATTGG
+GCCTTAGTGGAAACTGAACGTTTGACAATAGGACACCAAGTTACTATGCGACCTGAACTACCCATCATGA
+GCTGGGTACTATCAGACCCTGCAAGTCATAAAGTGGGACGCGCACAGCAGCAGTCTGTTATCAAATGGAA
+GTGGTATATACGTGATCGGGCCAGAGCAGGTCCTGAAGGCACAAGCAAGTTACATGAAGAAGTTGCTCAA
+ATGCCTATGGTTTCTACTCCTGTTACACTGCCATCTGCTGCCAAACATGTGCCTATAGCCTCATGGGGTG
+TTCCCTATGATCGACTGACCGAAGAGGAAAAGACTAGAGCCTGGTTTACTGATGGCTCTGCACGTTATGC
+AGGCACCACCCAGAAGTGGACAGACAGCTGCAGCATTACAACCCCTTTCTGGGACAACCCTGAAAGACAC
+AGGTGAAGGGAAATCTTCACAGTGGGCAGAACTTCGGGCAGTACACATGGTATTACAGTTTGTTTGCAAG
+AAGAAATGGCCAGATGTACGATTATTCACTGACTCATGGGCTGTAGCCAATGGATTGGCTGGATGGTCAG
+GGACTTGGAAAGATCACAATTGGAAAATTGGTGAGAAAGACATCTGGGGAAGAAGTATGTGGATAGATCT
+CTCCAAATGGGCAAAGGATGTGAAGATATTTGTGTCCCATGTAAATGCTCACCAAAAGGTGACTTCAGCT
+GAGGAGGAGTTCAATAATCAAGTGGATAAGATGACCCGTTCTGTGGACAGTCAGCCTCTCTCCCCAGCCA
+TCCCTGTCATTGCTCAATGGGCACATGAACAAAGTGGCCATGGTGGTCGAGATGGAGGTTATGCTTGGGC
+TCAGCAACACGGGCTTCCACTCACCAAGGCTGACCTGGCTACAGCTGCTGCTGATTGCCAGATCTGCCAA
+CAGCAGAAACCAACACTGAGTCCCAGATATGGCACCATTCCTCGAGGTGACCAGCCAGCAACCTGGTGGC
+AGGTTGACTACATTGGACCACTTCCTTCGTGGAAAGGACAGCGTTTTGTTCTTACTGGAGTAGATACTTA
+TTCTGGTTATGGATTTGCCTTTCCTGTACGTAATGCCTCTGCTAAAACCACCATTAACGGACTGACAGAA
+TGCCTTATCTATCGTCATGGTATTCCACACAGTATTGCTTCTGACCAAGGAACTCATTTCACAGCCAGAG
+AAGTACGACAGTGGGCCCACGATCATGGAATTCACTGGTCTTACCACATTCCCCATCATCCTGAAGCAGC
+TGGTCTGATAGAAAGATGGAATGGCCTTCTGAAGACGCAGTTACAGCGCCAATTAGGTGGTAACAGCTTG
+GAAGGCTGGGGTAGAGTTCTTCAGAAGGCAGTATATGCTTTGAATCAGCGCTCGATATATAGTACAGTTT
+CACCCATAGCCAGGATTCATGGGTCCAGGAATCAAGGGGTGGAAAAAGGAATAGTTCCACTTACTATCAC
+TCCTAGTGACCCTCTAGGAAAATTTTTGCTTCCTGTCCCCATAACTCTAGGTTCTGCTGGCTTAGAAGTT
+TTGGCTCCAGAGAGGGGAGTGCTCCTACCAGGAGCTACAACAAACATTCCATTGAACTGGAAGCTCAGAC
+TTCCCCCTGGTCATTTTGGGCTTCTAATGCCCTTAAACCAACAGGCTAAAAAAGGAGTAACAGTGTTAGG
+AGGGGTGATAGATCCAGATTACCATGGGGAAATTGGATTACCTCTTCACAATGGTGGTAAGCAAGATTAT
+GTCTGGAGTGTAGGAGATCCCTTAGGGCGTCTCTTAGTACTACCATGTCCTGTGATTAAAGTCAATGGGA
+AACTACAACAGCCTAATCCAAGCAGGATGACAAAGGACACAGACCCATCAGGAATGAAGGTATGGGTCAA
+TCCTCCAGGAAAAGAGCCAAGACCTGCTGAGGTGCTGACTGAAGGAGAAGGAAATATAGAATGGGTAGTA
+GAGGAAGGTAGTTATAAATACCAATTAAGGCCACGTAACCAGTTGCAGAAACGAGGATTATAAAGTAATA
+TGAATGCCCATTGTAAATTTACTAATGCGTTTGCGATTGTACGAGGGATAGTTATATCATGTTAGGCGTA
+TTTACAAACTTGTTATTGTTTTATGTGAACATGAGATATTATTTGTGTCAAGTTGACAAGGGGTGGATTG
+TAGTGGCTATTCCTGGTTGTCAACTTGACAATATTTGGAATGAACTACAATCCGGAATTGGAAGGCTCAC
+CAGTGACCCTTATCTGGAGGCTTGGAGATCCTTATCTGGATCTTGGTTTGAAGATCTTGAGCCATAGTGG
+CTATGGATTCCAGAAGATTGAATCTCCGAGTTTAAGGAACACACCTTTAATCTGGGCTACGCCTTTCATC
+TGGGATTAAAGGTGTGGCGGAACACACCTTTAATCTGGACTACACCTTCTGCTGGAGACAATATAAGGAC
+ATTGAAAGAAGGGAGTCTAGCTCTTGCTCTTGCTCCTTCGCCTGCTTGCTGCGTGAGACTGAGTAACTAC
+TAGATCCTTGGACTTCCATTCACAGCTGCGACTGAACAATTGTTGGGAATTGGGCTGCCGACTCTAAGTC
+ATCAATAAATTCCTTTACTATCTAGAGACTATCCATAGTTCTGTGACTCTAGAGAACCCTGACTAATACA
+TCCCTACATACAGGAAACTTGATGTATAAGTAAAGAAAATAGTAAATCTAAAAATTTCCTTATCAAATAC
+ATGCAAGAAATCCAAAATACCATGAAAAGACCTGATCTAAAAATAGTAGGAACTGAAGGTGAAGTGTCCC
+AGCTCTGAAAACTAGAAAATGTTTTCAATATTTTTCCTAACAGTGAAGACATGGATCTAATGAGGCCACC
+TCTTATAGCCATGCAAGACTGACAGTGGAGGGATAAGGACACCAATCCACCCACAAAACTTTTGACCCTA
+AATCAGTTTTATCTAAAAGCAATGCAGGGGCACAAATGGAGCAGAGACTGGAGGAATGGTCAAACAATAA
+CCTGTCATATCTGAGACCCACCTAATTGGCATACACCAGTCACTGACATTATTAATAATGTTCCATTATG
+CTTACAGGCATTTCTCTAGCATTACTATTCTTGGAGAGACTTCACACAGCATCTTATTGAAACAGATGCA
+GACACCCAGAACCAAACATTGGATGGAGATTGGGATCCTTAAAGAAGAGTTGGGAGGATAATTGAGAGAC
+CTCAAAGGAATAGCAACCCCATAGAAAGACACGAACAGGGTCAGTAAACCTGGACCCATGGGGTATCTCA
+GAGACTGATCACCAACCAAAAATCACAGAGGGCCTGGATTGATTCCCCTGGCACACATGTAGCAGAGGTC
+TGCCTTGTCCTTCAGTAGGTGAAGATGAGCCTAAGGCTTCAGAGACTTGATATATCAGCATACAGCAACA
+CCCAAGTGTGTCCCACTATCTCAGAGGTGAAGGGGTGGAGATGGGCAGAAGGGTCCTGATAGGGGACAAC
+TGCAAAGAGGCAATATTTGGGACAGAAAGAAAGGAAGAGAGAGGAAGATAAAGAGAGAGATGAAGGAAGG
+AAACAAACAAACCAAGATGAAGAGAGAGAAAAGGGGGAAAATAGCCTTGAATGGTTCAGGGATTCAAAGG
+GACATACCTAAGCATGGTAAAACAATGCACATAATGGCAGCAAGTAGCTAACACTGAATTAAATAGAAAG
+ACACATAAAGCAGTTCTACTAAAGTAAGAGACAGAGTTGCCCAATCTCACCCTATTTATTCAATAATAAT
+GTACTTGAAGTTCTAGCTAGGGCTGTAAGACAACTCAAGGAGATCGGAGGATACAAATTAGAAAGAAAAA
+TTCAAAGAATTGTAATTGGTAGATGATAGGATAATATACATAAATGACCTCAAAATTCTTCCAGAGAACT
+CTGAAAGCTGATAAATACCTTCAGCAAAGTGGCTAGAAACAAAATTACTTCATAGAATTCAGGAGCTATC
+CTTTATAGAAAAGTTAAAGTGGCTGAGAAAGAAATTAGGAAAATCACATTCTTTGCAATAACCAAAAATA
+ATATGAATTAGCTTGGTGTGACTCTAATCTTGCAAGTGAAAGATGTGTGTGACAAGAGCTTCAGGACCCT
+GAAGAAAGAAATCAAAGAACTCAAAGATGCAAAGTACTCTAATGCTCATGGATAGGCAGAATTAACATAA
+TGAAAATGCCAAATTTAACAATTCAATCTACAGATTCAGTGGAATTCCCATTAAATATCCAACCCAATTT
+ATTACATTCTTGAAAAAGCAAATCTCAACTTCATATAGAAAAACAAGAAATTGAGGGTAGCTAACAAAAT
+CCTGAACAATGAAAACACTTCAGGAGAATTCACCATCCCCTACCTCAAGCTGTATTTTAGAGCAATAGTT
+ATTAAAACTGCATGGTATTTGTATAGAAACAGATATGATGATCAATGTAATTGAATTGAATACACTGACA
+TAAAACCACACTGTTATGGACACTTGATTTTTGACAAAGAACCCAATAATCATAATAAAAATCATAATAA
+GAATGCATCCCCCAACAAATGGTCCTGATCTAAATGCAAATAGATTCATATCTATCATCCTGCACGAAAT
+TCAAATCAAAGTGAATTGCAGACTTCGACCTAATACTGGATTAACTAAATCTAAATGAACAAAAAGTAGA
+GAATAGTTTTGAACTCATTGATGCAGGATTCAATTTCCTGAACAGAACCACAATGGCTCAGGCTCTAGGA
+TCATAAATTGGTAGATAGGATCTCATGAAACTGAAAAACTTCTGTAAGGCAAAGGCAATAAAACAAAATG
+GCAACCTACAGATTGGAAAAAAAATAATCTTCAGTATCCCTAAATCCCATTGAAGGCCAATATGCAAAGT
+ATATAAAGAACTCAAGATGTTATCCTCCACAAAACCAAATAAATCAATTAAAAATGAACTACAGAGCTAA
+CAAGAGAATTCTCAACAGAGGAATCACCAATGACTGAGAATCACTTAAAGAAACATTCAATATTTGTAGT
+CACCAGAGAATTGCAAATCAAAACTACCCTGAGATTCTACTTTATACCAATCATAATGGTCAAGATAAAA
+ATTCAAATGACAGCGCATGTTGGTGAGGATGTGTATACTTTTGCATTGCTGGTGAGGAAAACAATCTGGC
+AGCTCCTCAGAAAATTGTAAATAATTCTACCTGAAGATCCAGCCATACCACTCCTGTGCATATACATAAA
+ATGTGCTCCACCATACCACTAGGAGATATGTGCCACTATGCCCATAGCAGCCTTATTTGTTAATAGCCAA
+AAGATGGATACAACCCTGATGTGCCTCAAACAAAGATTGTATATAGAAAATATGGGTTCCCTTACACAAT
+GGTATTCTACTCAGCAATTAAAACGTGAGAACATCATAAAGTTTTCAGGCAAACTGATCAAATGAAAAAG
+TATAATCTTGAGTGAGGTAACAGAACCAAAATGACCTGCATGGGATGTACTCACTGGTAAGTGAATATTA
+GACTAAAAGTATAGAATATCAATGATGAAAGCCACAGACCATAAAGAGTTTAATAAGATGGAAAGCTCAA
+GTACGGATTCTTCAATCCAATATAGAAAGAGGGACAAAATAATCAGGGGAGGCAGAGGGAGAGAGAGACA
+TTTGGTGGAAATGGGAGAAGAAGGGAGAAAGGCAGAAAGGATCAGGCGTTGGGGAACACTGGAAAGCAGC
+CCAGGGGTCCTGGTAAATGGATTAAATATTCAGCTGAATGGAGGTGGGAGGCAGGGGGAAGCTCTGCAAA
+GTCCAAGAGACCTGGGATGTGAGAGGCTCCCCAGATGATAATCTTAGCCTTCATGCCTAACAGTTGTAGA
+TAAACCCTGAAGAGATCACTTCCAATAGATGCAGAGGGCCCTAAGTGGTTGGATGGAGTCCCCCAACTTA
+CCTCAAAATTGTCAATACTCATAGAAATTAGGACAATGAAAATCAAAACACCCTGAGATTGTATCTTATG
+TCTGTCACAATGGTTAAGACCAAAACCTCAAGTGATGGCTTGTGCTGGCAAAGATTCAGAATAGTAAAAG
+TCTCCCCATGGCTTGTGGGAATGCAAACTCTTACAACCTCTTTGGAAGTATATTTGATTGTTACCTGGTA
+TAAAATGGCAAAAAAAAAAAATGGTTGAAGGGGGACTAAAAAAGGAAGAAAGGGGAGAACTATGGGATGC
+GAAACAAGAAAGTTTGTTGCAAAAGAAATATGTTTCCACTGCAAACCCTGAGTCTCAGACAGAAGGGGAC
+CTGGAATTCTTCAGATACAAAGAATCTCTAAACCCTGAGGACATTCTATCACAAATAAGTAAAATTCAGA
+AAATTCTGAGTGCTCCCATCACGGAGATGAATCTGCTATGAACAGCTCATAGGTGTGACCCTCTACAAAA
+GCCATATTATTGAAAAGCCACATTGTGCCCAGACTTTGGAAAGACTGAGCTCATATCCTGAAATACAGTT
+ATGTGTGGTTCTATTTAATTACACATTTACACTAAGAAAACATGGCAGTATGGGAATGAAGCTTGTTCTG
+TACACATTAACAGAGGGAAACTAAACAAAGTATGGTGAATCCCTAACCAAAAGTAAAAAAAAAAAAAGAA
+AGAAAAGAAAATAAAAGTGAAACTACAATATGTTTCAAATGCTGTAACTGAAATCTGGTTTTTTGATGCT
+TATATCTGGTATCATCAGTGACTTCAGATTTAGTCCAACTCCAGAGCATGGTATAGCAGAAAGACATGCA
+AATAAGCCTTCTCTCTGCCCATGAAAAACACCTCGGCCCTGACCCTGCAGCTCTGACAGAGGAGGCCAGT
+CCTGGATTCGATTCCCAGTTCCTCACATTCAGTGATCAGCACTGAACACGGACCCCTCACCATGAACTTG
+GGGCTCAGCTTGATTTTCCTTGTCCTTGTTTTAAAAGGTAATTTATTGAGAAGAGATGACATCTGTTGTA
+TGCTCATGAGACAGAAAAATTGTTTGTTTTGTTAGTGACAGTTTTCCAACCAGTATTCTCTGTTTGCAGG
+TGTCCAGTGTGAAGTGAAGCTGGTGGAGTCTGGGGGAGGCTTAGTGCAGCCTGGAGGGTCCCTGAAACTC
+TCCTGTGCAACCTCTGGATTCACTTTCAGTGACTATTACATGTATTGGGTTCGCCAGACTCCAGAGAAGA
+GGCTGGAGTGGGTCGCATACATTAGTAATGGTGGTGGTAGCACCTATTATCCAGACACTGTAAAGGGCCG
+ATTCACCATCTCCAGAGACAATGCCAAGAACACCCTGTACCTGCAAATGAGCCGTCTGAAGTCTGAGGAC
+ACAGCCATGTATTACTGTGCAAGACACACAATGAGGAAATGTTACTGTGAGCTCAAACTAAAACCTCCTG
+CAGAGCACCCAGGACCAGCAGGGGGCGCAGAGAGCACATGGAGTTCTGATTCACAGAAGAGTTACAGCCT
+GTACAATTAGACCCAATCTTCAACAAACCGTCAAAATATTCGATCCAAAATTGTTCCTGTCTAAAAGTAA
+TTCAAGGACAAAATGGACCAGAGACTGAAGAAATGGCTGACCTGTGACCCTCCCAACTTTGGATCTATCT
+CATAGGCAGGTACCAAACCTTGACATTTGTCACTGACACTGTATTGTGCTTGCAGACAGGAGCATAGCAT
+GGCTGACCTCTAAGAGGCTCTGCAAGCACCTGAATGAGACAGATGTAAATAGAGTGTACAACTGGATTAA
+GTTTGAAGACTGCAATGGAAGAGTTAGAGGAAGGAATGAAAAATCTGAAGGGGATCACAACCCCAGAAGA
+AGACCAACAGTGCCAATTAAACTGGATGCCTGGGAACTCCCAGAGACTAAGCCACAAACCAAGAATCATG
+CAGGCTGGTCTGAGAATCCTGGCACCCAAGTCTCAAGGAACTGCCTTTTCTTGGCTCAGATGGGAGAAGA
+TGAGCCTAAAGCTTTAGACTTGACGCCCCAGGGATGGGCAATACAAAGTTGAGTTTCTTGGGAAAGTGAA
+GAGGATGGTGGGAGGAGGAATAAATCTGGGAAGTGGGACTGGTTGGGGACAACATATTGGTCCTAAATTT
+ATGAAATAATTATCTAATTGATAAAAAGAGTCCTTGGGGTAATGGAGGGCTAGACTCCTCTGTGCCTAGT
+TTGTAACTCTACAGGGATCCTCTTTAAAAGAATAGGGTGCACATAGAGTATATGTGTGTGACACTAATAC
+AGGGGTAAGTGTTTCTGTAAGAACTTTATGAATAAACTTTATTAAAACATCAAAAAGTATAGGTTGTAGC
+AACCCTTGACCTGTACGAATGTTTATAAAACTTTCTATTTTCCTTAATTATATCTGTTTTGCATTTGTTT
+ATTTATTTATTTACTTACTTACTTATTTATGATTTCACTGTGTCTTTCTGTAGTCCTGTATGTGTTTATT
+TGTCTCTTTATTGCTCTGTTTCTGTTTCTTTCTCTCTGTCTAGTATTGTATCTCTCTGTGTCTCTATGTC
+GCCGATTGTGTCTGTGTGTATGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGCATATTGAAA
+TGAGATCTCTTCTTCTATCAGTGTACATAATGACTTTGAAATAAAGTCCATCACTGGGCTTGGATATCAC
+TATCTTGTTAGAATGGTTGCCCAAAGTGTTCCAACCATCACACTGTTTCTACATATAATAGATGGGTTTA
+TTGATTTACTACCAAAACTACCCCATCTTAAGTTATGGATATTAAACACAGATCCTCATGGTGTGTTAAG
+AACTTGAAGCACAGAGCTATATGTACAGCCCACTAAAAATGACTTAAATATAAGATAAACTCTGGCTTGA
+ACAAAACACAGAGCATCACACGAGGCAGAAGTGAATCTCTATGAGGACCAGGATCACATCCCAAAGAACC
+AAAGAACACTTGAGACTGTGGAACCCTAGAGTCAGGGCTGACACTCAGTAAGATTTACTTCATAGAGCAT
+GATGTGGGATTCAAGAAGAAATCAGGCAGGGCCTGTGACCCATGAACCAGATGACTTCCAGTCTCTCCAT
+CATCCTCACACAAACCATAGGCAACAGCTCAGCACTGACTCACCTGTGATGCTGGTGACAAAATGTGTGC
+AAAGCCTCAGAACTGAGACGTGAGGCCAATGTTGCTACCGACACTCAGTGAGCTTCAATTTGCTGCAAAC
+TGCTCCAAAACAACTCAAAGGGTAACTTCTTCTTTTTCTATTTGTACTTGTGATGCCTTGGTAGATATAG
+TTCCCCAATAATTTAATAGGACAAATCATTTTTCCTTTTAACACATTAATCCCCTTTCCTTCCCCCAAGA
+TTCTAAAATTTTTCTTTAACACTGATGTCTGAGAGATATGGCATAATAGATGTTTGTCTTATTCTGAGTT
+GTTCCTTATCAAAAGAAATCAGCTGTGGCACTTTGAACCTAAATATAACAATATTTCACAAAGGCATTCT
+GGGAATATATAGATGGTATTGCTACAAAAGAATAGGAGGATCTATGGCCATACCACCCTTAATGAACCAG
+ATACTATCTAAAAGATTAGGACAGCTGGGCATGTTGGCACAGGCCTTTAATCCCAGCACTAAGGAGGCAG
+AGGCAGGCAGATTTCTGATTCGAGGCCAGACTGGACTACAAAGTGAGTTCCAAGACAACCAGGGCTATAC
+AGAGAAACCCTGTCTCGAAAAAACAAAACAAAACAAAACAAGAGTAGGAGGGTATTAGATGCGAGGTGAT
+GATGGCCATTCAATCAAACCAGAATGTGACCTGAGAAAAGGTCTAAGTTTGTCAGCTTGTCCTGGAGATG
+TGTTGCCTCTGATAAATGCAGAGCTGGAACTGCAATACATTGGATTCCTGTGAGTTACGGAGAAATAAAA
+GGAATAGCCTCTGTTTCCTTTGGTTCATCAAGTTGGCAGTGAGCTAGAAGATGATACTGGGAACCATCAC
+ATGTACTTCTACAGAGTTATTCTACATTCTACAAGTCAGTCTTGCTTGCTTTCGTTTCTGTGAGGAGCTA
+AATACAGAATGTTTTCAATGTCTCATAATGTTCTGTGCACACCCATGGGTGCCTAGCCAAGGATAGAAAC
+TTGTATCTGATAAGGAAAGAGGATGCTGCAGTGGCCACACTCTGAGATCACCTCCTGCCAAATTATACTA
+GAGTGTTTTACATAGTCTTGAAAACACTAGGTCAAATATGTTGTCATCCAGATATGAAAACTCTGTGCAA
+CAATTCAGAAATACAGTGGTCAGGACAACTGGTATGTAACACTTTAGTTCCAGCCCACATTAATCTCACA
+TCTTTTCTGTGGTTTCAATAAAGAGCACACATGTTTGGAACACCATCTCCACTTTGTATGCTTATCCTTA
+TGCATCAAACTTTTCCTGTAATTTCCTACCCCGCACAGGTTCCTGTCTTGATCTCTTTTTCTAATGAACA
+GCAATACAGAAGTGTTGGCCAAATGAACACTTTCACCCCAAGTTGCTTTGCCATTGTGTTTCATCACAGC
+ATTAGTAACTCCCAGTAAGGCTACTGGTTACCCTGCATCTTCTATGTAGATCTTTTGATGAAGTTCCAGG
+CTTGGGGTCTTTATCTGACTGTTATCCTGGTTAATTCATGTCCACCAATAGAATATTGTTCTCATTTTCA
+ATATCATATGAAGTTACCTGTTTATAGGATCTTCCTAAAGCAGAAAACTATATAAAATGTCTGCTTACTT
+TAAGAAAAGTATGTGTCCTTGGAGGTAAATGGAGGAAAGGGTGGAGGATGTTGAGTAATGGAAGACTGGC
+TAATACAGGAAGGTCACAGAATTGAATGATTTTAAAAATTTTAACTCCTCATCAATGAGGTACTTCAAGT
+TGAGGCAGGAGTCCTTGATGCACAGGTGACCCAAAGGCCCCAGCCTCTGTTTCTTGGTCTGCTCCAGTCT
+CCCGGCTCAGCACAGTTCACTGAGTGACAATCTTTAAGATAGTCTTTCAGGATACAGTTATCACAGTTTT
+CAAACTCTCTTCATTGAAACAATATAATGAGTCAGAGTCCAGTGTGCCATTAATAGGCCCTATGCAATAG
+GATTTTACTTCATCTGTGGAAAGAAACCACCATGGCCTCATCAAGGCCTCATTTGATGATTAGTGTAGAA
+AGCGTCCCCAGAGCTTTGCTGGGATGAAAACCCTGGCAAGATGTTTAGGGCACTCTCCATCTGACAGGAC
+AATTCTATCAAGGGTTGCTTCCATATAGAGAGAAATCTCCACATCTGCAGTATTTCCCGATTTATCAACA
+GTTCTTTACCCCGTGTCATATGCATAAAATCTTTTCTCTGTAGAATTTTCAGTACTAAAAACTAACAAGG
+ATGTTGGTCCTGATATCAGACATAATAAATAAATAAACATCAAATTATACCCTAAACATGTGGAGATGGT
+TTTCTGTTATGAATTTATTGGCTCTCTAAAAAGTGTTAATTAAGCCAGGCGTGATGGCACATGCCTTTAA
+TCCCAGCACTTGTGAGGCAGAGGCAGGCGAATTTCTGAGTTTGAGGCCAAACTGATCTACAGAGTGATTT
+CCAGGACAGCCAGGGTTACACAAAAAAACCCTGTCTCCAAAAAGTAACAAAAAGAAAGTGTTAATTAACA
+TCTACACTTTAAGATAATTTGGTGGCAAAGGTTAATAGTCTGAAATACTAGATATGAAAGTATGACACCT
+AAATTGCATGCAGAGAATAAAGCTGAATTCCAATGAGATTCATGCCTTGTGAATCCATTCCAATCTGATC
+TCAATCTTCAAACATGTTTGTGCATAATTTACATCTTAATCAGTTGCTGGAAATTAAAAGGACATAAGCT
+AAACTTAAAACTCTTTCTATTTAATGTGTCAGAATAGAATATGTGCACTGAAGTTTTCATGTGCATAGGA
+TATCATTGTTACAATGATGGTTCAAATACGCACCAGTAGCACAGGTGATGCTTGACATGAAAAAAACTGT
+GACCAGAGCCCAGACGTTGATGTTGGCTGAAAGAGCCTAGTGTCTCACATTTGATCAAGCAAAGTGTTAT
+TCAGAGAAGCAGTGCCAGATTTGGGATCCTTCTTAATGGATCAAGAACATGAGGAAGATTTGGAAGCCAG
+ATTGATGAGATTACTAGAATCCTGGATCTGAACACACAACACACAATAGTAAGTTGAACTTTTCCACGCA
+ATGCTAAAGATAAAGCATCCAGTATCATGTTATACAGGACCAAGGTGAGGATCAGTCTGTGGGTGAAGTA
+CAATGAACTGGAAATTGTTTGGATTTTAAATGTTGGTTTTTAAATTATATATAAAATATATATATATATA
+TATATATATACATATATATATATATATATATATATATATATATATCGGAACCAACATTTAAAATTTGGAT
+TTTAAATGTTGGTTTTTAAATTATATATAAATTATATATATATATATATATATATATATATATATATATA
+TATATATATATATATCGGAACCAACATTTAAATTCCTAATTCTTAAGGACTTCACTTTTGACCAAAAATA
+TTTGAAATGGGTTATTTAGGTCTGTGGTGGTTTGAATATGCATAGCCTATAGGAAGTGGAAGTATGGCCA
+TTTTGTAGTATGTGTAGCCTTGATGGAGGAAGTACATCACTATATGGTGTTGTGAGAGTTGAGATCCTAT
+GTTCAAGTTCTGCCAAAAACAGAAGAGAGTCCCCTCCTGGATATTTGAAACAGATGCAGAGGCCCAAAGC
+CAAACATTGGGTATATCTCAGGGTTTCTTATGGAAAAGTTGGCTGAAGGATTGAAGGCCTTAAAGGGGAT
+AGGAACTTCACAGGAAAACCAACAGATTCATCTAACCTAGACTCTAGGGGTCTTTCAAAGGTTGAGTCAC
+CATACAAAAAGGACACAATGGCTAGACCTAGGTCCCTGATACATATGTAGCAAATGTGCAGCTTAGACTC
+CATGTGGATTCCCCAACGACTAGAGCAGGTATTGTCCCTGAAGTTATTGCTTGTCTGTAGAATACATTTC
+CCAACATAATTGTCTTGTCTGGCCTCAGTAGGAGAGTATGTTCCAATCCTGGAGAGACTTGATATGCCAG
+GATTGAGAGATTAAGGGTCTCCCACCATCTCAAAGTTCATGGGTATGACAGGGGAGGGGCAGTGCAGGTT
+TTCCCCATCTCTGATTTCCAGCATTTGCACCCCCAATATTGAGGGGGAGGTCTAGCAATTGGAGGGGGGA
+CAAACAGTATGAGAAAGCTAACTTTAGTGGTGTTGTCACAGTGTGGGGTATTGTGGGTGGGAGTGGAGAT
+GAATCCTCCTCCTCCTCAGGAGGCTGTAGCAGGTGCTTGCCCTCTTTTGGGACAGTAGAGCTGTGGTCAG
+TACTGGCCTGTTCCTGACAAATTTATTCTGTGCTGTGACCATTTATTCAAGGGAGGAAGATTTAAGACTT
+GCTATGATAACCTGACGAATCTGGACAAACAAGAGACAGGAGGTAACACCTGAGTTACTCTTTTGCTTGC
+TAGTACAGAAGAGCACTATAATCCACAAATTGGGGTCCCACATATTCTTGAGTGGGATCCAAGGTGCCAT
+AATTTCAGCCACATTCCAAAGTCCCTCAAGGTCTGACAGTTTAGTCTTTAGGCTTCTCCTAACCAAATCA
+TATTTGGAGTTCTTTAACATAAAAGGGTAGTTTCCCCATATCACTGCCAGCAAAACAGGTTGAATTTGGA
+CAGACAAGCAAAACTATCACAAACAAGACAGACTATGTGTGCGATCCAAATGTCTTGTGATTAGAGGGGA
+AGTTCTGCAGCTTATTAGGCTGTGTCCTTATGCCCACAAATGTCTTCAGATAGGAAAGGGCCATTGGGTG
+CCAATCCTTAGTTCTTCTGTTTCCTGGGCTGTCAGTTTTTATGTGGAGAAGACATGAACCAAATGCAAAG
+TCATGTATCCTACAAGAACTGACATACACAGACAAACAAGGAATAACAATGAGCTCTCTCATTCACCTAA
+GGGGGTCTTATAACATAGAACAGAAAGGGGCCAACTTAGCAAGAATTGACCAAAAGGTGGTCACCTAGAC
+CACACCACAATGCAGGAAGGATATCAATGAAGGAAGAACAAAGGAAAGGCCAAATCAAGTTTGTTGGCAC
+ATGACATAAAACAGTGCTCAAAAAACAATAGATGCGAGCAAAATGAAGCATTGGAATCATATCGGGGTAC
+ATAGGGGTCACTCTTACCCCTGTTCAAGTGCCAGATGTTGTTTTAGCCTTAGGCTCCCTGAGTTTGTCTT
+TAGGGGAAATGGGTAAGAATACACAAAAATAATGTCACAGAATCTTAGAGGCAGATGAGAAGTCAAAGCA
+GACTCATTTATTGCTATAGAAAAGAATGCCTTTATACCTTCTGTCCATAACACCTCTGCCCATATATGCT
+CATCTCTGTGAGGCAATGGACTACCTGCAGACAGGCTGGTATCCAGTCAAGCTGAGGTCTGAACCACAAT
+GGTCGTAACTCACCTAAAGGACGTGGTAGGCATGACGCGATAGGCGTTCCCTCATGCTCCTGGAACTCCG
+GCCCCTGCCTAAGGTACCACCTCCCACAGCCCCCACAAGAGAAGCATGGTCAGTAGTCATGTAAGCAATG
+GCCCAAGCTTCTGACCTTCAGCCTAAACTCCTCCCCAGTTACCTAGCAACAGTGAAGACCATAAAATGGG
+ATGTTAGGCCCCCACCTCACTCTCTTACTCCTTTGTTCCTTTACCTCTCACTTCTCTCAATTCTCTCTCC
+TCTTCCCTTTCTTTGTCTTCTTCTTTCCTTGTCTCTCTGTCTTTCTCTTTCTCTCTAGCCTTCTCTGCCT
+CTCTCTCTCTCTCTGTCTCTCTGTCTCTCTCTTCTCTCTTTCCCTTGAATTTCTTTTTTTCTTTTTTCTT
+TTTTTGATGAGCACAGTATAAATAGTTTATTGCATTGTTTCTGAATGTGGCTGTATTCTCTATTGTTCTC
+TTTCTTATTTTTTTTCTTTTTTTGGTTGTTTTTGTTTTTATAGTCTCGCACAGAATTCTACATCTACCAA
+ATCCCCATTGTGTACTTTAGTTTTGTCTTGTATTCAAAGGTTCTTTCAGAAAGAATCTTAAAGATGAAAT
+TTGCCTTCCAACTTTTCAAAAATACATATAAAGATAGATGTTACATAGTTCACGGAATAGACACATATAC
+GGAGATGCAGCAATATCTCCTTTGTGCCTCTTGTATATTCATGTTATTTCCTCAACTAAAAATACATAGC
+CACAAAGACATACAATGAGCACTCCACTTAGGAAAATATGGCCATATTTTTTTACATTTTTATGATTTTA
+TGATTAGGTATATTCTTCATTTACATTTCCAATGCTACCCCAAAAGTCCCCCAACCCTTCCCTCACTCCC
+CTTCCCCACTCCCACTTGTTGGCCCTGGAGTTCCCCTGTACTGAGGCATATAAAGTTTGCAAGACCAATG
+GGCCTCTCTTTCCACTGATGGCCCACAAGGTCATCTTCTGATACATATGCAGCTAGATACATATACATAC
+ACGAGCTCCAGGGGGTACTGGTTAGTTCATATTGTTGTTCCACCTATAGGGTTGCAGATCCCTTCAGCTC
+CTTGGGTACTTTCTCTAGCTCCTCCATTGAGGGCCCTGTGATCCATCCAATAGCTGACTGTGAGCATCCA
+CTTCTGTGTTTGCTAGGCCCCATTATAGCCTTGCAAGACAGCTATATCAGGGTCCTTTCAGCAAAATCTT
+GCTAGTGTGTGCAATGGTGTCAGCATTTGGGGGCTGATTATGGCATGGATCCCCGGATATGGCAGTCTCT
+AGATGGTCCATCCTTTCATCTCAGCTCCAATCTTTGTCTCTGTAACTCTTTCCATGGGTGTTTTGTTCCC
+AATTCTAAGAAGGAGCAAAGTGTCCACACATTTGTATTCATTACTCTTGAGTTTCATGTGTTTCCCTTGC
+ATTTCTATAATAAACCATAAGGAGTCTCTGCTCTACCAAGACCCGCTGCACACTCTGGTCAGTGTTGGGA
+ACTTTTCCCCTATTCCCTCTCTCCTATAACTCCGGGGCTACAGGGTGTCTCCTTTGGGTCCCGGTTGGGA
+GCTGTCTCTTCTCAACCCCCTGACTCATGGGTCAGAGGCCTAAATCTCCACCCAAGGCTGTGTGAAAAGC
+ACCGGGTGGTCTCCCCATATCTCCCTGTCCAGAGCACAGGAACTCTGGCCGGACATGGCATATTTTTCCT
+CCCCAACTTCTTCCCCGGCCTCCTCAGGGCTGTCCCTTCATTTTGTTCCCCACACATCTCCACATGGCTG
+CCACCATCCAATTGGCTGCTGAGGTCACACACTCTGTCTTTGTTCTTCTCTGAGTCTCATGCAGGTTTTG
+TGTTAGTAAATGCAAAAGTGCCTGCTGTGCATGCATGAACCATTACAGGCTGCTAGGCAGAACATGCTGA
+CTTGCTCCTGGATTATAAATCCATCACTGTGATAGCAGGACATATCCAGAAGACATTATTTAACAACACT
+CCTCTTCGTGCTCAACCTCTCATGGTCTTTCTACCTCCTCTTTCTTAGTGTTCTCTGAGCCTACATGAAA
+TGTGAACAAACCTGAAAAAAATCTCTGTGTCAAATACATAGTGTGGATTGGGAAGGAAAAACCCTGCACT
+TGTGTGTGGGCAGGGAAATGCTGGTGCTTTAACAGGACAAGTGCGGTGTGGCTAGAGAAAGTGATGAGAA
+GAAGGGAAGCATGAGAACTGGGTGGGTGGATCCCATGTCTACTGAAAATGCTATGTTGATGTCAAGATAT
+TGTGTCTTGTTACAAAAATTCATTGAGTACCTAGGTTATTCTCAGTATATAAAAGGGGAGGAATGAAACT
+AGAATTAAACACACACACACACACACACACACACACACACAAACACACACACACGAGTAGAGAAAAGAAA
+TAGTCATGAGTTGCCTAGTGAATGAAGAGCGGAAAATGGTGCAGTTAATAGGGATCATAGAAAGAACTGG
+GGGATGCACACGAATGGGTTTCCTGTAATTATGTCTTCATAGTAATCTCTGCTCAATAATCAGACAGTGA
+CAATGTATGCCTCATTTACAAGCCCTGATGGCCTCTCAGAGGAAAGCATCTCTCTGAAATGAATAAAGTT
+CAGAAATGTCCTAAGTGTCCCTGTCACAGGAAAGCAGTGTTGGTAACGTTTCCAGGAAGCTCAGTCTTTG
+TCAAATATCCACAACAAGAAGAAGCCATGTCTAGACAGACAACAGACTGGGAAAGACTGAGCTCATGTAT
+GGAAACACAACTATGTGTCATGCTTTTATTTTCACATTATACTGAGGGGATATGACATTATAGAAACACA
+GTTTGTTCTTTGCATATGCTGAGAGAGGAACTAGATGAAGTGTGCTAATTCTTAGCAATAAAAAGATATA
+CAAAGTGGTACTTTACTGTTTCAATTTTTGTAACTGGCATCATTGTCTTTGATATTTTATATCTTCCTTG
+AGCACTGCCTTCTCTCAAGTGTCCAACTTCAGAGTATGCTATAGCAGGAAGACTACCAAATAAGATTAAT
+TTTTTTGTACCCATGAAAAAATTATGTGCCCTGACCCCTGTTCTCTGAAAGAGGAGCCAAGTTCTGGATT
+CCCAGATCCTCATATTCATTGATCAGCAGTGAACACAGATCATTCACCATGGACATGGGGCTCATCTGGA
+TTCTCCTTATTGTTTTTAAAAAAGGATTTCATTGGGAAAAGCTGCCTCATATTTCTATGACCAGGAGAGG
+AAGATACAGCTAGAGACACAAGCCCCACCATGTAAAATCTGTATGGTACTCTCGTTTTCATTTTACAACA
+TTTTGCTTTTGCATTGCAAAGGAGCAATAAGGGTTCAGCAATCAGCACTGTAACTGTACTTTTAAAATTT
+CCACCTCTACCCTCTGTGTCCTCTATCTAGTGATAGAAAGTGAAATAAGCACATAAAGCATGGGACAAGA
+AGAACACACAGAGGAGCAGAGACTGGCTACAAGTGGCAGCCAGCATGGAGCTGGACAGAATTTAAAAAGA
+TAAAGAGAAATGTCATGGCATGAAGCAGTGACTTTTTCTGTTCACAATGCCTGCAAAAACTTTATGGAGC
+CTACTACTGCTGAGATATGCAGGTTTGGTTCCAGAGAGGATTTTCTGTTTTATTTAATTTGCTTTTAAAT
+TTTTCTTCTTTGTATAGTCTGTATTTTTAAAAAGGGGTTGAATGAATACCTAAGCAGTTGGAAAATTTGT
+GAGTAGAAACCGAGGGCCTGAGAAACAAATAAATCAAAATTTTGAAATGGCAAAAGAAAGGGTTCATTCT
+ATTTTCTCTTTTCAGAAAAGGTTGCAAAGTTGGATGTGCAAATGGAGATGTTATGGGTGGACTTGGAACA
+TCTTGGGAAGGAAGGAACCCAGGAAAAGAAAGAATGAAATGGCTCAGCCTCAATGACTGAGCAAGAGAGT
+TAGAGTCACCCACAGGAGAAAAGAAGAAAATAAACAGCACTGGGGTGAATTTGGGTCAGAGAAAACCTTA
+AAATGCCAGAGGACAATGTGATGAAAGAGACCATTTGAAAGAAAGGGTTAACCTCATTCCATCAGTCATG
+CCAGAGTTAGAGAATGGGCAGTCTGGAGTTACAAGATCACGATTAGCCTTCCCAGTATGTATACAGCATA
+TTCCTGATAATGAGATGAAGCAAAGTTTGACAAGGTAAGATTGTATCCTATAGTAATATATAGATCAAAG
+GCATGTTGCAGTAAATCTCCAACAGAAATAAGCCCGGGCAATGAAAACACAACTCAATTAATATGAATAC
+GTGCTGTGCACCTAGACTGGGCAGATCTACCACTCCACTACCATATGAGAGATCCCTTATAACTTGTGGT
+TTCTCCAGGCCAGCTGCTTCTGCTCTACTTTCCTTCCTCCTCCTCCTATGTCATCCTCTCCCTCACTCTT
+TCTCTCCCAAAACTTTCAGCTGCACCTTCCCCTCTTCATCCCCCAATCAGTGGCTCTAGCCTTTATTTAT
+AAATTAAGGTAGGAAGAAGGTTTATAGGAAATTACCTGAGTGTTGACGTGTTGATAACCCCACACAAGAG
+AACAAAATTAATATCAAATATGATTAGCTCCAGGGTTATATGCAACAAAGGCATGATAAAGTGGTCATGA
+TTTCATATGAGATGTACTGGACTCATGTGAAAAAACGTTTAAATACATGGGCTTACTCAAAATATAGACT
+CATACCCCCAAGATGGGAAGAGACTGGTAACATTTGTACTGGAGGCTGGTCTGCTGTGGCAGCCATTAAC
+ACAGTGGAGGGAAGAGCCTCAAAGAGTGAAATAGAGGAAGGGGAACAAATACAGTAAACCACCAGTTACT
+ACTTAAAGGGCAGTGTTCTGATGTCCTAGGGAGGGCACTCCAAAATACCAATGGCCTTATCCTTAAATTT
+ATTGTTTAATGAGCCTACACTGATCTCAGTGGCCCACTACTAAGGAGAAATGACAGGCACTTGAACAGCT
+GATATGAGAACAGCTGGAGGCACAGTATACAGAAGAGTTTACAAGCCTATGGAACTCCCCTGTATTTTTT
+TATGATGAGGAAATCTGAAAAATGTAAAATGTTGAAAGATTTAAGAGCAGTTATTAGAGTAGATCAACCA
+ATGAGTCTCTTGCAGCCTGGAATTCTTTTATCTTGTTTGTAACAACAATCAGGCTCCATAAATTATAAAC
+TATAAAAATTTACTTTATAAATTATAAATATATATATATGTGTGTCTGTAGATAGATAGATAGATAAATA
+GATAGATAGATAGATAGATAGATAGATAGATATATGGATTTGATGGTTGCAGCAAATTCTAATTGGTTCC
+AACAACCCTACTCACATAATACATTCATACAGGTTTGATAGATGGAGCTAAGTTTTAAATAAATTATTTT
+TCTCCCATGGCTTATATATACACCACCAAAATTCTCAAAAATTAAAATGTGATTGTGTTGTATTTTTCTT
+TTACTGAATGACTATAAAAAGTTACAACATTCTCCATAAATTTACATGAAAAAATATTATGTAGTGCAGG
+TAAAGAAAACAAATTGACCCAAGAATGGTGTATATTCATTACTAAGCAACTTTTTAGATTCACAAAGTGT
+GGGTAAACAAGGTAATTTTTTCAATCAGTTTTTTTTAACTGGCAGGCAGCAATTCAGAGTTACAATGAGA
+AGATTAATAATTTTATTGTGTATTTTAAAATAAATCTTACAAAAATATTAATAGAATCACAAATTTATAC
+CTTTGTATAAAAACAATCAGTCATTTCTACTTTAAGAAACAGAACTCACATCTACTCATCAATCATTTTA
+TTAAGTCATATTACAAAGCTGAGTGCTAACATGGGTATAAGAAAACCATAACCTTATTCACCAGCCCAGC
+GTCAAAAAGAAAAAAACCAGTCATATCAGCTGCTGCTTCAAGAGTTCTTGTTCCTTGACATTAACAAAAT
+CCCTAGCTTAACTATTAAATTTTTTTTCAAAACTTCTAATTGATCCCTTAGATAAATGTTTGTGCTAACC
+ATCGGGACACATCCCATGAGTTCTGAAGCAGTGTGTTGTTCTTCATGCATGGCCCTTTTGTAGAGCTGTG
+AGTGTAGGGGAAGAGGGGGGAGAGAGAGCCCGTGTCCAGCCAGAGATCCTGTGCTCTGGGCAGGCAGACA
+CGGGAGGACAACGGAACACTTTTCACTCGGCCTTTGGTGGGCATCTGGCTGTGTGAAGTTACTGACCCCA
+CATGGTGGGGGATGGACAAGGGGCAGCCCCTGGTACCAGGAGCCCCAGGGCTACACTCTCGGCCCCAGAT
+ATACAAGAAGAGGGCAGAGGGAGAGAGGCTCCCACACAGGCGAGAGTCCTTAGTCTGGTCTGTGGCTGGA
+GCAGGGGAATTCCTTCTGATTGGAGATTAGGCACAGCTGATTAGGGGAAAGCCTACCCCATCATCCAAGC
+ACAATGGACTTTGAGGAACAGAGCCAGTCTAAGCTTTTATAGCTTTATGGTAGAAAGGCAGGGAGAAAGG
+AGAGAATGTGGAGAGAGACAGAGAGAGACTGGCCATGGCCAAGAGGAGGGAAGGGGGAAGAGAGAGAAAC
+AGGAAAAGCTAGAAAGTAAGATAAGAGAAAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGCAAAGTG
+GGGCCAAGCAGCCCCTTTTCTAGTGAGCTTGTCATCTCACAGTTGCTAGGTAACTGGGGAGGAGTTTAGT
+CTGAAGGTCAGAAGCTTGGGACCTTGTGTATGTGACTACTAACCACAGCTTCTCCTGTCGGGACTGTGGG
+AGCAGTAACTTTGACAGGAGACAGGGATCCAGGAGACATGAGGGAACACCTTCTGTCCCACATAGGTGGA
+ATCGGTTGTACCAGGGTTCAGAACTCAACTCCACTGGAGACCAGCCTATGTGTGCATAGCCCATTGCCCT
+ACAGCCTTTGACATTCTACAGAGTTCTGAGACTGGTAGAGATACAAAATAGCTAGGATTACACAGAGAAA
+CACTGGCTTGACAATAAAACTTCCAAAACAAATATAAATGAATAAATACACAAATTGGAGCAAGTGAACT
+TGCACTAAATCCATCAAAACTTGCACAGGATGGCTGTCTCCATAATGTTCAGATCTACTTCTATTAATGT
+CATTAAGAAGACAAAGATTATGCACAAAAAGAAACAAAACAAGAAACCCAAAAGGTAAAGGCTCCAATTG
+TAAGTAATAGACCCACAGTCTCTGAGGCCTGACTGTGCAGGTCCTCACCTTTGGTAATCAGCACTGAATG
+CAGACCACTCCTCATGGACTTTGGGCTCAGGTTTGTTTTCCTTGTCCTTATTTTAAAAGGTAATTCATAG
+AAATGAGATCCTGCCAGTATTGTGTACATGAGAAATAGAAAAATTGGTTTTCTTTGCTCTATTTTGTTTT
+GTTTGGTTAATGACAGTTTCCAAATCAGCATTCTTTGCTTTGAGGTGCCCAGTGTGAGGTGAAGCTGGTA
+GGGTCAGGGCAGCCTGGAGGGTCCCTGAAACACTCCTGTGCAGCCTCTGTAGTCACTGTGAGTGACTACT
+GAATGACCTGGGTCCTTCAGGCTCTAAAGAAGGGGCTGGAGAGGGTGGAAATAATTTTTAATGGTGGAGG
+TAGCACCTATTATCCAGACACCATGAAGGGCTGATTCACCATCTACAGAGATGATGCCAGAAACACACTT
+TACCTGAAAATAAACAGTCTGAGGTCTGAGTACACAGCCATGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+TGTGTGTGTGTGTGTGTGTGTGTGAGTGTGTATTCATATATATATATATAGTGTGTATGTATATTCATAT
+ATATATGTATATTCATAAGGTTGAGTAAATGGACTTAAACTGATTCCATCACAACTTCCATGGGATGGAT
+ATTTCCCAGTGTTAAGACCTGTCAACATCACTGTCATTCAGGAGACAATGATTATGCACAACAAAACAAG
+AAACCCAAAAGCAGAGGACTCCAATTACAATAGACCCAGACCCACAGTCTCTGAAGATTGACTGTACAGT
+TCAACCCAGCCCTGTACTTCTCTTCCCTAGAATTTACATTACTGAGTAACTGAGGAAAGCTCTACAATAT
+CTGTTCTCTATAGTGGTCAACACCTCCAAACACAGGTTACCCATATTCATGCCTGCCTTCTGCTACACTT
+CTTGCCATAATGTAGACTACTTCAGCCTATTTTGTACTCCAGTTAACGAAACTCAAGACTAGCTGCATGT
+TAGTCCTTATTCTGAAATATTATGAACAGGTGACCTCCCATCATTCACCAATGCAATAATCATATTTAGG
+AATATGAGGTTTTATGAGATATAAGCACAAGGGAGAGAAAGTAAGAAAACTACATAGATATATAGACTGA
+CATAAATCAAGACTTGCATGAGCTAGTGCCCAAGTACCATGTCCCTAAGTGGCAAGGAGTATCTTTTGAG
+CCTAGTGAGATGAGGTACAAATCGGACTCTTACATCTTTTTAGATAAACATGTGAGATCAATGGACTAAA
+GGCGTGAGCTGGGCTTCCTTGCAATCCATTTTCCATACAAGATAACAATAGATCTGGCTCCACAGACACG
+ATGAGAATAGTCTTAATTAGTTCTTTAAGTAGAATGACTGATCACTAAGAGCCCAATTCCATACTAAATA
+CTCTTCTGGATTATGCACAGATAAAAATTGCACATAGGGCATGGGGCACTGATCTCCCTGCACTACATGA
+ATGGGGGCTCATTTACTAAATGTTCCCATGTTTCTTCCTAGTGCTGCACAGAGCAAATCCTACAACTTCC
+TGCTTGTCTACAATGTAAACTCCAGACAGTACCAGAAAATCATTCCTTATGTTCCTCTCCAGGTGCTTCA
+ACAAGCACAGTGCAAATTTCTGTCACCCTG</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene592">
+        <gene_name>PrM</gene_name>
+        <strain>West Nile virus</strain>
+        <vo_id>VO_0011179</vo_id>
+        <ncbi_gene_id>5714902</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>158516888</ncbi_protein_id>
+        <gene_locus_tag>WNVNY99_gp1</gene_locus_tag>
+        <gene_refseq>DQ211652</gene_refseq>
+        <protein_refseq>YP_001527877</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11082</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>96</gene_start>
+        <gene_end>10397</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>8.52</protein_pi>
+        <protein_weight>353459.58</protein_weight>
+        <protein_length>3433</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_009942.1:96-10397 West Nile virus lineage 1, complete genome
+GATGTCTAAGAAACCAGGAGGGCCCGGCAAGAGCCGGGCTGTCAATATGCTAAAACGCGGAATGCCCCGC
+GTGTTGTCCTTGATTGGACTGAAGAGGGCTATGTTGAGCCTGATCGACGGCAAGGGGCCAATACGATTTG
+TGTTGGCTCTCTTGGCGTTCTTCAGGTTCACAGCAATTGCTCCGACCCGAGCAGTGCTGGATCGATGGAG
+AGGTGTGAACAAACAAACAGCGATGAAACACCTTCTGAGTTTTAAGAAGGAACTAGGGACCTTGACCAGT
+GCTATCAATCGGCGGAGCTCAAAACAAAAGAAAAGAGGAGGAAAGACCGGAATTGCAGTCATGATTGGCC
+TGATCGCCAGCGTAGGAGCAGTTACCCTCTCTAACTTCCAAGGGAAGGTGATGATGACGGTAAATGCTAC
+TGACGTCACAGATGTCATCACGATTCCAACAGCTGCTGGAAAGAACCTATGCATTGTCAGAGCAATGGAT
+GTGGGATACATGTGCGATGATACTATCACTTATGAATGCCCAGTACTGTCGGCTGGTAATGATCCAGAAG
+ACATCGACTGTTGGTGCACAAAGTCAGCAGTCTACGTCAGGTATGGAAGATGCACCAAGACACGCCACTC
+AAGACGCAGTCGGAGGTCACTGACAGTGCAGACACACGGAGAAAGCACTCTAGCGAACAAGAAGGGGGCT
+TGGATGGACAGCACCAAGGCCACAAGGTATTTGGTAAAAACAGAATCATGGATCTTGAGGAACCCTGGAT
+ATGCCCTGGTGGCAGCCGTCATTGGTTGGATGCTTGGGAGCAACACCATGCAGAGAGTTGTGTTTGTCGT
+GCTATTGCTTTTGGTGGCCCCAGCTTACAGCTTCAACTGCCTTGGAATGAGCAACAGAGACTTCTTGGAA
+GGAGTGTCTGGAGCAACATGGGTGGATTTGGTTCTCGAAGGCGACAGCTGCGTGACTATCATGTCTAAGG
+ACAAGCCTACCATCGATGTGAAGATGATGAATATGGAGGCGGCCAACCTGGCAGAGGTCCGCAGTTATTG
+CTATTTGGCTACCGTCAGCGATCTCTCCACCAAAGCTGCGTGCCCGACCATGGGAGAAGCTCACAATGAC
+AAACGTGCTGACCCAGCTTTTGTGTGCAGACAAGGAGTGGTGGACAGGGGCTGGGGCAACGGCTGCGGAC
+TATTTGGCAAAGGAAGCATTGACACATGCGCCAAATTTGCCTGCTCTACCAAGGCAATAGGAAGAACCAT
+CTTGAAAGAGAATATCAAGTACGAAGTGGCCATTTTTGTCCATGGACCAACTACTGTGGAGTCGCACGGA
+AACTACTCCACACAGGTTGGAGCCACTCAGGCAGGGAGACTCAGCATCACTCCTGCGGCGCCTTCATACA
+CACTAAAGCTTGGAGAATATGGAGAGGTGACAGTGGACTGTGAACCACGGTCAGGGATTGACACCAATGC
+ATACTACGTGATGACTGTTGGAACAAAGACGTTCTTGGTCCATCGTGAGTGGTTCATGGACCTCAACCTC
+CCTTGGAGCAGTGCTGGAAGTACTGTGTGGAGGAACAGAGAGACGTTAATGGAGTTTGAGGAACCACACG
+CCACGAAGCAGTCTGTGATAGCATTGGGCTCACAAGAGGGAGCTCTGCATCAAGCTTTGGCTGGAGCCAT
+TCCTGTGGAATTTTCAAGCAACACTGTCAAGTTGACGTCGGGTCATTTGAAGTGTAGAGTGAAGATGGAA
+AAATTGCAGTTGAAGGGAACAACCTATGGCGTCTGTTCAAAGGCTTTCAAGTTTCTTGGGACTCCCGCAG
+ACACAGGTCACGGCACTGTGGTGTTGGAATTGCAGTACACTGGCACGGATGGACCTTGCAAAGTTCCTAT
+CTCGTCAGTGGCTTCATTGAACGACCTAACGCCAGTGGGCAGATTGGTCACTGTCAACCCTTTTGTTTCA
+GTGGCCACGGCCAACGCTAAGGTCCTGATTGAATTGGAACCACCCTTTGGAGACTCATACATAGTGGTGG
+GCAGAGGAGAACAACAGATCAATCACCATTGGCACAAGTCTGGAAGCAGCATTGGCAAAGCCTTTACAAC
+CACCCTCAAAGGAGCGCAGAGACTAGCCGCTCTAGGAGACACAGCTTGGGACTTTGGATCAGTTGGAGGG
+GTGTTCACCTCAGTTGGGAAGGCTGTCCATCAAGTGTTCGGAGGAGCATTCCGCTCACTGTTCGGAGGCA
+TGTCCTGGATAACGCAAGGATTGCTGGGGGCTCTCCTGTTGTGGATGGGCATCAATGCTCGTGATAGGTC
+CATAGCTCTCACGTTTCTCGCAGTTGGAGGAGTTCTGCTCTTCCTCTCCGTGAACGTGCACGCTGACACT
+GGGTGTGCCATAGACATCAGCCGGCAAGAGCTGAGATGTGGAAGTGGAGTGTTCATACACAATGATGTGG
+AGGCTTGGATGGACCGGTACAAGTATTACCCTGAAACGCCACAAGGCCTAGCCAAGATCATTCAGAAAGC
+TCATAAGGAAGGAGTGTGCGGTCTACGATCAGTTTCCAGACTGGAGCATCAAATGTGGGAAGCAGTGAAG
+GACGAGCTGAACACTCTTTTGAAGGAGAATGGTGTGGACCTTAGTGTCGTGGTTGAGAAACAGGAGGGAA
+TGTACAAGTCAGCACCTAAACGCCTCACCGCCACCACGGAAAAATTGGAAATTGGCTGGAAGGCCTGGGG
+AAAGAGTATTTTATTTGCACCAGAACTCGCCAACAACACCTTTGTGGTTGATGGTCCGGAGACCAAGGAA
+TGTCCGACTCAGAATCGCGCTTGGAATAGCTTAGAAGTGGAGGATTTTGGATTTGGTCTCACCAGCACTC
+GGATGTTCCTGAAGGTCAGAGAGAGCAACACAACTGAATGTGACTCGAAGATCATTGGAACGGCTGTCAA
+GAACAACTTGGCGATCCACAGTGACCTGTCCTATTGGATTGAAAGCAGGCTCAATGATACGTGGAAGCTT
+GAAAGGGCAGTTCTGGGTGAAGTCAAATCATGTACGTGGCCTGAGACGCATACCTTGTGGGGCGATGGAA
+TCCTTGAGAGTGACTTGATAATACCAGTCACACTGGCGGGACCACGAAGCAATCACAATCGGAGACCTGG
+GTACAAGACACAAAACCAGGGCCCATGGGACGAAGGCCGGGTAGAGATTGACTTCGATTACTGCCCAGGA
+ACTACGGTCACCCTGAGTGAGAGCTGCGGACACCGTGGACCTGCCACTCGCACCACCACAGAGAGCGGAA
+AGTTGATAACAGATTGGTGCTGCAGGAGCTGCACCTTACCACCACTGCGCTACCAAACTGACAGCGGCTG
+TTGGTATGGTATGGAGATCAGACCACAGAGACATGATGAAAAGACCCTCGTGCAGTCACAAGTGAATGCT
+TATAATGCTGATATGATTGACCCTTTTCAGTTGGGCCTTCTGGTCGTGTTCTTGGCCACCCAGGAGGTCC
+TTCGCAAGAGGTGGACAGCCAAGATCAGCATGCCAGCTATACTGATTGCTCTGCTAGTCCTGGTGTTTGG
+GGGCATTACTTACACTGATGTGTTACGCTATGTCATCTTGGTGGGGGCAGCTTTCGCAGAATCTAATTCG
+GGAGGAGACGTGGTACACTTGGCGCTCATGGCGACCTTCAAGATACAACCAGTGTTTATGGTGGCATCGT
+TTCTCAAAGCGAGATGGACCAACCAGGAGAACATTTTGTTGATGTTGGCGGCTGTTTTCTTTCAAATGGC
+TTATCACGATGCCCGCCAAATTCTGCTCTGGGAGATCCCTGATGTGTTGAATTCACTGGCGGTAGCTTGG
+ATGATACTGAGAGCCATAACATTCACAACGACATCAAACGTGGTTGTTCCGCTGCTAGCCCTGCTAACAC
+CCGGGCTGAGATGCTTGAATCTGGATGTGTACAGGATACTGCTGTTGATGGTCGGAATAGGCAGCTTGAT
+CAGGGAGAAGAGGAGTGCAGCCGCAAAAAAGAAAGGAGCAAGTCTGCTATGCTTGGCTCTAGCCTCAACA
+GGACTTTTCAACCCCATGATCCTTGCTGCTGGACTGATTGCATGTGATCCCAACCGTAAACGCGGATGGC
+CCGCAACTGAAGTGATGACAGCTGTCGGCCTAATGTTTGCCATCGTCGGAGGGCTGGCAGAGCTTGACAT
+TGACTCCATGGCCATTCCAATGACTATCGCGGGGCTCATGTTTGCTGCTTTCGTGATTTCTGGGAAATCA
+ACAGATATGTGGATTGAGAGAACGGCGGACATTTCCTGGGAAAGTGATGCAGAAATTACAGGCTCGAGCG
+AAAGAGTTGATGTGCGGCTTGATGATGATGGAAACTTCCAGCTCATGAATGATCCAGGAGCACCTTGGAA
+GATATGGATGCTCAGAATGGTCTGTCTCGCGATTAGTGCGTACACCCCCTGGGCAATCTTGCCCTCAGTA
+GTTGGATTTTGGATAACTCTCCAATACACAAAGAGAGGAGGCGTGTTGTGGGACACTCCCTCACCAAAGG
+AGTACAAAAAGGGGGACACGACCACCGGCGTCTACAGGATCATGACTCGTGGGCTGCTCGGCAGTTATCA
+AGCAGGAGCGGGCGTGATGGTTGAAGGTGTTTTCCACACCCTTTGGCATACAACAAAAGGAGCCGCTTTG
+ATGAGCGGAGAGGGCCGCCTGGACCCATACTGGGGCAGTGTCAAGGAGGATCGACTTTGTTACGGAGGAC
+CCTGGAAATTGCAGCACAAGTGGAACGGGCAGGATGAGGTGCAGATGATTGTGGTGGAACCTGGCAAGAA
+CGTTAAGAACGTCCAGACGAAACCAGGGGTGTTCAAAACACCTGAAGGAGAAATCGGGGCCGTGACTTTG
+GACTTCCCCACTGGAACATCAGGCTCACCAATAGTGGACAAAAACGGTGATGTGATTGGGCTTTATGGCA
+ATGGAGTCATAATGCCCAACGGCTCATACATAAGCGCGATAGTGCAGGGTGAAAGGATGGATGAGCCAAT
+CCCAGCCGGATTCGAACCTGAGATGCTGAGGAAAAAACAGATCACTGTACTGGATCTCCATCCCGGCGCC
+GGTAAAACAAGGAGGATTCTGCCACAGATCATCAAAGAGGCCATAAACAGAAGACTGAGAACAGCCGTGC
+TAGCGCCAACCAGGGTTGTGGCTGCTGAGATGGCTGAAGCACTGAGAGGACTGCCCATCCGGTACCAGAC
+ATCCGCAGTGCCCAGAGAACATAATGGAAATGAGATTGTTGATGTCATGTGTCATGCTACCCTCACCCAC
+AGGCTGATGTCTCCTCACAGGGTGCCGAACTACAACCTGTTCGTGATGGATGAGGCTCATTTCACCGACC
+CAGCTAGCATTGCAGCAAGAGGTTACATTTCCACAAAGGTCGAGCTAGGGGAGGCGGCGGCAATATTCAT
+GACAGCCACCCCACCAGGCACTTCAGATCCATTCCCAGAGTCCAATTCACCAATTTCCGACTTACAGACT
+GAGATCCCGGATCGAGCTTGGAACTCTGGATACGAATGGATCACAGAATACACCGGGAAGACGGTTTGGT
+TTGTGCCTAGTGTCAAGATGGGGAATGAGATTGCCCTTTGCCTACAACGTGCTGGAAAGAAAGTAGTCCA
+ATTGAACAGAAAGTCGTACGAGACGGAGTACCCAAAATGTAAGAACGATGATTGGGACTTTGTTATCACA
+ACAGACATATCTGAAATGGGGGCTAACTTCAAGGCGAGCAGGGTGATTGACAGCCGGAAGAGTGTGAAAC
+CAACCATCATAACAGAAGGAGAAGGGAGAGTGATCCTGGGAGAACCATCTGCAGTGACAGCAGCTAGTGC
+CGCCCAGAGACGTGGACGTATCGGTAGAAATCCGTCGCAAGTTGGTGATGAGTACTGTTATGGGGGGCAC
+ACGAATGAAGACGACTCGAACTTCGCCCATTGGACTGAGGCACGAATCATGCTGGACAACATCAACATGC
+CAAACGGACTGATCGCTCAATTCTACCAACCAGAGCGTGAGAAGGTATATACCATGGATGGGGAATACCG
+GCTCAGAGGAGAAGAGAGAAAAAACTTTCTGGAACTGTTGAGGACTGCAGATCTGCCAGTTTGGCTGGCT
+TACAAGGTTGCAGCGGCTGGAGTGTCATACCACGACCGGAGGTGGTGCTTTGATGGTCCTAGGACAAACA
+CAATTTTAGAAGACAACAACGAAGTGGAAGTCATCACGAAGCTTGGTGAAAGGAAGATTCTGAGGCCGCG
+CTGGATTGATGCCAGGGTGTACTCGGATCACCAGGCACTAAAGGCGTTCAAGGACTTCGCCTCGGGAAAA
+CGTTCTCAGATAGGGCTCATTGAGGTTCTGGGAAAGATGCCTGAGCACTTCATGGGGAAGACATGGGAAG
+CACTTGACACCATGTACGTTGTGGCCACTGCAGAGAAAGGAGGAAGAGCTCACAGAATGGCCCTGGAGGA
+ACTGCCAGATGCTCTTCAGACAATTGCCTTGATTGCCTTATTGAGTGTGATGACCATGGGAGTATTCTTC
+CTCCTCATGCAGCGGAAGGGCATTGGAAAGATAGGTTTGGGAGGCGCTGTCTTGGGAGTCGCGACCTTTT
+TCTGTTGGATGGCTGAAGTTCCAGGAACGAAGATCGCCGGAATGTTGCTGCTCTCCCTTCTCTTGATGAT
+TGTGCTAATTCCTGAGCCAGAGAAGCAACGTTCGCAGACAGACAACCAGCTAGCCGTGTTCCTGATTTGT
+GTCATGACCCTTGTGAGCGCAGTGGCAGCCAACGAGATGGGTTGGCTAGATAAGACCAAGAGTGACATAA
+GCAGTTTGTTTGGGCAAAGAATTGAGGTCAAGGAGAATTTCAGCATGGGAGAGTTTCTTCTGGACTTGAG
+GCCGGCAACAGCCTGGTCACTGTACGCTGTGACAACAGCGGTCCTCACTCCACTGCTAAAGCATTTGATC
+ACGTCAGATTACATCAACACCTCATTGACCTCAATAAACGTTCAGGCAAGTGCACTATTCACACTCGCGC
+GAGGCTTCCCCTTCGTCGATGTTGGAGTGTCGGCTCTCCTGCTAGCAGCCGGATGCTGGGGACAAGTCAC
+CCTCACCGTTACGGTAACAGCGGCAACACTCCTTTTTTGCCACTATGCCTACATGGTTCCCGGTTGGCAA
+GCTGAGGCAATGCGCTCAGCCCAGCGGCGGACAGCGGCCGGAATCATGAAGAACGCTGTAGTGGATGGCA
+TCGTGGCCACGGACGTCCCAGAATTAGAGCGCACCACACCCATCATGCAGAAGAAAGTTGGACAGATCAT
+GCTGATCTTGGTGTCTCTAGCTGCAGTAGTAGTGAACCCGTCTGTGAAGACAGTACGAGAAGCCGGAATT
+TTGATCACGGCCGCAGCGGTGACGCTTTGGGAGAATGGAGCAAGCTCTGTTTGGAACGCAACAACTGCCA
+TCGGACTCTGCCACATCATGCGTGGGGGTTGGTTGTCATGTCTATCCATAACATGGACACTCATAAAGAA
+CATGGAAAAACCAGGACTAAAAAGAGGTGGGGCAAAAGGACGCACCTTGGGAGAGGTTTGGAAAGAAAGA
+CTCAACCAGATGACAAAAGAAGAGTTCACTAGGTACCGCAAAGAGGCCATCATCGAAGTCGATCGCTCAG
+CGGCAAAACACGCCAGGAAAGAAGGCAATGTCACTGGAGGGCATCCAGTCTCTAGGGGCACAGCAAAACT
+GAGATGGCTGGTCGAACGGAGGTTTCTCGAACCGGTCGGAAAAGTGATTGACCTTGGATGTGGAAGAGGC
+GGTTGGTGTTACTATATGGCAACCCAAAAAAGAGTCCAAGAAGTCAGAGGGTACACAAAGGGCGGTCCCG
+GACATGAAGAGCCCCAACTAGTGCAAAGTTATGGATGGAACATTGTCACCATGAAGAGTGGAGTGGATGT
+GTTCTACAGACCTTCTGAGTGTTGTGACACCCTCCTTTGTGACATCGGAGAGTCCTCGTCAAGTGCTGAG
+GTTGAAGAGCATAGGACGATTCGGGTCCTTGAAATGGTTGAGGACTGGCTGCACCGAGGGCCAAGGGAAT
+TTTGCGTGAAGGTGCTCTGTCCCTACATGCCGAAAGTCATAGAGAAGATGGAGCTGCTCCAACGCCGGTA
+TGGGGGGGGACTGGTCAGAAACCCACTCTCACGGAATTCCACGCACGAGATGTATTGGGTGAGTCGAGCT
+TCAGGCAATGTGGTACATTCAGTGAATATGACCAGCCAGGTGCTCCTAGGAAGAATGGAAAAAAGGACCT
+GGAAGGGACCCCAATACGAGGAAGATGTAAACTTGGGAAGTGGAACCAGGGCGGTGGGAAAACCCCTGCT
+CAACTCAGACACCAGTAAAATCAAGAACAGGATTGAACGACTCAGGCGTGAGTACAGTTCGACGTGGCAC
+CACGATGAGAACCACCCATATAGAACCTGGAACTATCACGGCAGTTATGATGTGAAGCCCACAGGCTCCG
+CCAGTTCGCTGGTCAATGGAGTGGTCAGGCTCCTCTCAAAACCATGGGACACCATCACGAATGTTACCAC
+CATGGCCATGACTGACACTACTCCCTTCGGGCAGCAGCGAGTGTTCAAAGAGAAGGTGGACACGAAAGCT
+CCTGAACCGCCAGAAGGAGTGAAGTACGTGCTCAACGAGACCACCAACTGGTTGTGGGCGTTTTTGGCCA
+GAGAAAAACGTCCCAGAATGTGCTCTCGAGAGGAATTCATAAGAAAGGTCAACAGCAATGCAGCTTTGGG
+TGCCATGTTTGAAGAGCAGAATCAATGGAGGAGCGCCAGAGAAGCAGTTGAAGATCCAAAATTTTGGGAG
+ATGGTGGATGAGGAGCGCGAGGCACATCTGCGGGGGGAATGTCACACTTGCATTTACAACATGATGGGAA
+AGAGAGAGAAAAAACCCGGAGAGTTCGGAAAGGCCAAGGGAAGCAGAGCCATTTGGTTCATGTGGCTCGG
+AGCTCGCTTTCTGGAGTTCGAGGCTCTGGGTTTTCTCAATGAAGACCACTGGCTTGGAAGAAAGAACTCA
+GGAGGAGGTGTCGAGGGCTTGGGCCTCCAAAAACTGGGTTACATCCTGCGTGAAGTTGGCACCCGGCCTG
+GGGGCAAGATCTATGCTGATGACACAGCTGGCTGGGACACCCGCATCACGAGAGCTGACTTGGAAAATGA
+AGCTAAGGTGCTTGAGCTGCTTGATGGGGAACATCGGCGTCTTGCCAGGGCCATCATTGAGCTCACCTAT
+CGTCACAAAGTTGTGAAAGTGATGCGCCCGGCTGCTGATGGAAGAACCGTCATGGATGTTATCTCCAGAG
+AAGATCAGAGGGGGAGTGGACAAGTTGTCACCTACGCCCTAAACACTTTCACCAACCTGGCCGTCCAGCT
+GGTGAGGATGATGGAAGGGGAAGGAGTGATTGGCCCAGATGATGTGGAGAAACTCACAAAAGGGAAAGGA
+CCCAAAGTCAGGACCTGGCTGTTTGAGAATGGGGAAGAAAGACTCAGCCGCATGGCTGTCAGTGGAGATG
+ACTGTGTGGTAAAGCCCCTGGACGATCGCTTTGCCACCTCGCTCCACTTCCTCAATGCTATGTCAAAGGT
+TCGCAAAGACATCCAAGAGTGGAAACCGTCAACTGGATGGTATGATTGGCAGCAGGTTCCATTTTGCTCA
+AACCATTTCACTGAATTGATCATGAAAGATGGAAGAACACTGGTGGTTCCATGCCGAGGACAGGATGAAT
+TGGTAGGCAGAGCTCGCATATCTCCAGGGGCCGGATGGAACGTCCGCGACACTGCTTGTCTGGCTAAGTC
+TTATGCCCAGATGTGGCTGCTTCTGTACTTCCACAGAAGAGACCTGCGGCTCATGGCCAACGCCATTTGC
+TCCGCTGTCCCTGTGAATTGGGTCCCTACCGGAAGAACCACGTGGTCCATCCATGCAGGAGGAGAGTGGA
+TGACAACAGAGGACATGTTGGAGGTCTGGAACCGTGTTTGGATAGAGGAGAATGAATGGATGGAAGACAA
+AACCCCAGTGGAGAAATGGAGTGACGTCCCATATTCAGGAAAACGAGAGGACATCTGGTGTGGCAGCCTG
+ATTGGCACAAGAGCCCGAGCCACGTGGGCAGAAAACATCCAGGTGGCTATCAACCAAGTCAGAGCAATCA
+TCGGAGATGAGAAGTATGTGGACTACATGAGTTCACTAAAGAGATATGAAGACACAACTTTGGTTGAGGA
+CACAGTACTGTA
+
+</dna_sequence>
+        <protein_sequence>>YP_001527877.1 flavivirus polyprotein [West Nile virus]
+MSKKPGGPGKSRAVNMLKRGMPRVLSLIGLKRAMLSLIDGKGPIRFVLALLAFFRFTAIAPTRAVLDRWR
+GVNKQTAMKHLLSFKKELGTLTSAINRRSSKQKKRGGKTGIAVMIGLIASVGAVTLSNFQGKVMMTVNAT
+DVTDVITIPTAAGKNLCIVRAMDVGYMCDDTITYECPVLSAGNDPEDIDCWCTKSAVYVRYGRCTKTRHS
+RRSRRSLTVQTHGESTLANKKGAWMDSTKATRYLVKTESWILRNPGYALVAAVIGWMLGSNTMQRVVFVV
+LLLLVAPAYSFNCLGMSNRDFLEGVSGATWVDLVLEGDSCVTIMSKDKPTIDVKMMNMEAANLAEVRSYC
+YLATVSDLSTKAACPTMGEAHNDKRADPAFVCRQGVVDRGWGNGCGLFGKGSIDTCAKFACSTKAIGRTI
+LKENIKYEVAIFVHGPTTVESHGNYSTQVGATQAGRLSITPAAPSYTLKLGEYGEVTVDCEPRSGIDTNA
+YYVMTVGTKTFLVHREWFMDLNLPWSSAGSTVWRNRETLMEFEEPHATKQSVIALGSQEGALHQALAGAI
+PVEFSSNTVKLTSGHLKCRVKMEKLQLKGTTYGVCSKAFKFLGTPADTGHGTVVLELQYTGTDGPCKVPI
+SSVASLNDLTPVGRLVTVNPFVSVATANAKVLIELEPPFGDSYIVVGRGEQQINHHWHKSGSSIGKAFTT
+TLKGAQRLAALGDTAWDFGSVGGVFTSVGKAVHQVFGGAFRSLFGGMSWITQGLLGALLLWMGINARDRS
+IALTFLAVGGVLLFLSVNVHADTGCAIDISRQELRCGSGVFIHNDVEAWMDRYKYYPETPQGLAKIIQKA
+HKEGVCGLRSVSRLEHQMWEAVKDELNTLLKENGVDLSVVVEKQEGMYKSAPKRLTATTEKLEIGWKAWG
+KSILFAPELANNTFVVDGPETKECPTQNRAWNSLEVEDFGFGLTSTRMFLKVRESNTTECDSKIIGTAVK
+NNLAIHSDLSYWIESRLNDTWKLERAVLGEVKSCTWPETHTLWGDGILESDLIIPVTLAGPRSNHNRRPG
+YKTQNQGPWDEGRVEIDFDYCPGTTVTLSESCGHRGPATRTTTESGKLITDWCCRSCTLPPLRYQTDSGC
+WYGMEIRPQRHDEKTLVQSQVNAYNADMIDPFQLGLLVVFLATQEVLRKRWTAKISMPAILIALLVLVFG
+GITYTDVLRYVILVGAAFAESNSGGDVVHLALMATFKIQPVFMVASFLKARWTNQENILLMLAAVFFQMA
+YHDARQILLWEIPDVLNSLAVAWMILRAITFTTTSNVVVPLLALLTPGLRCLNLDVYRILLLMVGIGSLI
+REKRSAAAKKKGASLLCLALASTGLFNPMILAAGLIACDPNRKRGWPATEVMTAVGLMFAIVGGLAELDI
+DSMAIPMTIAGLMFAAFVISGKSTDMWIERTADISWESDAEITGSSERVDVRLDDDGNFQLMNDPGAPWK
+IWMLRMVCLAISAYTPWAILPSVVGFWITLQYTKRGGVLWDTPSPKEYKKGDTTTGVYRIMTRGLLGSYQ
+AGAGVMVEGVFHTLWHTTKGAALMSGEGRLDPYWGSVKEDRLCYGGPWKLQHKWNGQDEVQMIVVEPGKN
+VKNVQTKPGVFKTPEGEIGAVTLDFPTGTSGSPIVDKNGDVIGLYGNGVIMPNGSYISAIVQGERMDEPI
+PAGFEPEMLRKKQITVLDLHPGAGKTRRILPQIIKEAINRRLRTAVLAPTRVVAAEMAEALRGLPIRYQT
+SAVPREHNGNEIVDVMCHATLTHRLMSPHRVPNYNLFVMDEAHFTDPASIAARGYISTKVELGEAAAIFM
+TATPPGTSDPFPESNSPISDLQTEIPDRAWNSGYEWITEYTGKTVWFVPSVKMGNEIALCLQRAGKKVVQ
+LNRKSYETEYPKCKNDDWDFVITTDISEMGANFKASRVIDSRKSVKPTIITEGEGRVILGEPSAVTAASA
+AQRRGRIGRNPSQVGDEYCYGGHTNEDDSNFAHWTEARIMLDNINMPNGLIAQFYQPEREKVYTMDGEYR
+LRGEERKNFLELLRTADLPVWLAYKVAAAGVSYHDRRWCFDGPRTNTILEDNNEVEVITKLGERKILRPR
+WIDARVYSDHQALKAFKDFASGKRSQIGLIEVLGKMPEHFMGKTWEALDTMYVVATAEKGGRAHRMALEE
+LPDALQTIALIALLSVMTMGVFFLLMQRKGIGKIGLGGAVLGVATFFCWMAEVPGTKIAGMLLLSLLLMI
+VLIPEPEKQRSQTDNQLAVFLICVMTLVSAVAANEMGWLDKTKSDISSLFGQRIEVKENFSMGEFLLDLR
+PATAWSLYAVTTAVLTPLLKHLITSDYINTSLTSINVQASALFTLARGFPFVDVGVSALLLAAGCWGQVT
+LTVTVTAATLLFCHYAYMVPGWQAEAMRSAQRRTAAGIMKNAVVDGIVATDVPELERTTPIMQKKVGQIM
+LILVSLAAVVVNPSVKTVREAGILITAAAVTLWENGASSVWNATTAIGLCHIMRGGWLSCLSITWTLIKN
+MEKPGLKRGGAKGRTLGEVWKERLNQMTKEEFTRYRKEAIIEVDRSAAKHARKEGNVTGGHPVSRGTAKL
+RWLVERRFLEPVGKVIDLGCGRGGWCYYMATQKRVQEVRGYTKGGPGHEEPQLVQSYGWNIVTMKSGVDV
+FYRPSECCDTLLCDIGESSSSAEVEEHRTIRVLEMVEDWLHRGPREFCVKVLCPYMPKVIEKMELLQRRY
+GGGLVRNPLSRNSTHEMYWVSRASGNVVHSVNMTSQVLLGRMEKRTWKGPQYEEDVNLGSGTRAVGKPLL
+NSDTSKIKNRIERLRREYSSTWHHDENHPYRTWNYHGSYDVKPTGSASSLVNGVVRLLSKPWDTITNVTT
+MAMTDTTPFGQQRVFKEKVDTKAPEPPEGVKYVLNETTNWLWAFLAREKRPRMCSREEFIRKVNSNAALG
+AMFEEQNQWRSAREAVEDPKFWEMVDEEREAHLRGECHTCIYNMMGKREKKPGEFGKAKGSRAIWFMWLG
+ARFLEFEALGFLNEDHWLGRKNSGGGVEGLGLQKLGYILREVGTRPGGKIYADDTAGWDTRITRADLENE
+AKVLELLDGEHRRLARAIIELTYRHKVVKVMRPAADGRTVMDVISREDQRGSGQVVTYALNTFTNLAVQL
+VRMMEGEGVIGPDDVEKLTKGKGPKVRTWLFENGEERLSRMAVSGDDCVVKPLDDRFATSLHFLNAMSKV
+RKDIQEWKPSTGWYDWQQVPFCSNHFTELIMKDGRTLVVPCRGQDELVGRARISPGAGWNVRDTACLAKS
+YAQMWLLLYFHRRDLRLMANAICSAVPVNWVPTGRTTWSIHAGGEWMTTEDMLEVWNRVWIEENEWMEDK
+TPVEKWSDVPYSGKREDIWCGSLIGTRARATWAENIQVAINQVRAIIGDEKYVDYMSSLKRYEDTTLVED
+TVL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Starting with a previously designed eukaryotic expression vector, a recombinant plasmid (pCBWN) that expressed the WN virus prM and E proteins was constructed. A single intramuscular injection of pCBWN DNA induced protective immunity, preventing WN virus infection in mice and horses when subjected to challenge with the NY99-6480 strain of WNV [Ref819:Davis et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference3094">
+		<reference_name>Angenvoort et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Angenvoort J, Fischer D, Fast C, Ziegler U, Eiden M, de la Fuente JG, Lierz M, Groschup MH</authors>
+		<title>Limited efficacy of West Nile virus vaccines in large falcons (Falco spp.)</title>
+		<year>2014</year>
+		<volume>45</volume>
+		<issue></issue>
+		<pages>41</pages>
+		<journal_book_name>Veterinary research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3237">
+		<reference_name>Brandler and Tangy, 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brandler S, Tangy F</authors>
+		<title>Vaccines in development against West Nile virus</title>
+		<year>2013</year>
+		<volume>5</volume>
+		<issue>10</issue>
+		<pages>2384-2409</pages>
+		<journal_book_name>Viruses</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference819">
+		<reference_name>Davis et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Davis BS, Chang GJ, Cropp B, Roehrig JT, Martin DA, Mitchell CJ, Bowen R, Bunning ML</authors>
+		<title>West Nile virus recombinant DNA vaccine protects mouse and horse from virus challenge and expresses in vitro a noninfectious recombinant antigen that can be used in enzyme-linked immunosorbent assays</title>
+		<year>2001</year>
+		<volume>75</volume>
+		<issue>9</issue>
+		<pages>4040-4047</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3319">
+		<reference_name>Franco et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Franco D, Li W, Qing F, Stoyanov CT, Moran T, Rice CM, Ho DD</authors>
+		<title>Evaluation of yellow fever virus 17D strain as a new vector for HIV-1 vaccine development</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>35</issue>
+		<pages>5676-5685</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3255">
+		<reference_name>Karaca et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Karaca K, Bowen R, Austgen LE, Teehee M, Siger L, Grosenbaugh D, Loosemore L, Audonnet JC, Nordgren R, Minke JM</authors>
+		<title>Recombinant canarypox vectored West Nile virus (WNV) vaccine protects dogs and cats against a mosquito WNV challenge</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>29</issue>
+		<pages>3808-3813</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1190">
+		<reference_name>Lieberman et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lieberman MM, Nerurkar VR, Luo H, Cropp B, Carrion R Jr, de la Garza M, Coller BA, Clements D, Ogata S, Wong T, Martyak T, Weeks-Levy C</authors>
+		<title>Immunogenicity and protective efficacy of a recombinant subunit West Nile virus vaccine in rhesus monkeys</title>
+		<year>2009</year>
+		<volume>16</volume>
+		<issue>9</issue>
+		<pages>1332-1337</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference820">
+		<reference_name>Minke et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Minke JM, Audonnet JC, Fischer L</authors>
+		<title>Equine viral vaccines: the past, present and future</title>
+		<year>2004</year>
+		<volume>35</volume>
+		<issue>4</issue>
+		<pages>425-443</pages>
+		<journal_book_name>Veterinary research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference818">
+		<reference_name>Monath et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Monath TP, Arroyo J, Miller C, Guirakhoo F</authors>
+		<title>West Nile virus vaccine</title>
+		<year>2001</year>
+		<volume>1</volume>
+		<issue>1</issue>
+		<pages>37-50</pages>
+		<journal_book_name>Current drug targets. Infectious disorders</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1454">
+		<reference_name>Samuel and Diamond, 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Samuel MA, Diamond MS</authors>
+		<title>Pathogenesis of West Nile Virus infection: a balance between virulence, innate and adaptive immunity, and viral evasion</title>
+		<year>2006</year>
+		<volume>80</volume>
+		<issue>19</issue>
+		<pages>9349-9360</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1784">
+		<reference_name>Schlick et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schlick P, Kofler RM, Schittl B, Taucher C, Nagy E, Meinke A, Mandl CW</authors>
+		<title>Characterization of West Nile virus live vaccine candidates attenuated by capsid deletion mutations</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>36</issue>
+		<pages>5903-5909</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3251">
+		<reference_name>Seino et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Seino KK, Long MT, Gibbs EP, Bowen RA, Beachboard SE, Humphrey PP, Dixon MA, Bourgeois MA</authors>
+		<title>Comparative efficacies of three commercially available vaccines against West Nile Virus (WNV) in a short-duration challenge trial involving an equine WNV encephalitis model</title>
+		<year>2007</year>
+		<volume>14</volume>
+		<issue>11</issue>
+		<pages>1465-1471</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1440">
+		<reference_name>Wiki: West Nile</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: West Nile virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/West_Nile_virus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,2864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen43">
+		<pathogen_name>Shigella</pathogen_name>
+		<taxon_id>620</taxon_id>
+		<pathogenesis refs="reference648">Infection is generally limited to the intestinal mucosa and involves a possible enterotoxic or cytoxic diarrhoeal prodrome, cytokine-mediated inflammation of the colon, and necrosis of the colonic epithelium. This inflammation is caused by the invasion of Shigella into the colonic epithelium and the lamina propria. Shigella can enter both M cells and enterocytes, reorganizing the cytoskeleton, beginning with the type II secretion system. The colitis and ulceration of the mucosa result in febrile diarrhoea and/or bloody, mucoid stools (Niyogi, 2005).
+
+Shigella strains produce three distinct enterotoxins: 
+(i) chromosome encoded shigella enterotoxin 1 (SHET1) which is present in all S. flexneri 2a but rarely found in other shigella serotypes. This toxin is enterotoxic, neurotoxic, and cytoxic, with a structure simlilar to the Shiga-like toxins of enterohaemorrhagic E. Coli infection. The toxin is not essential for virulence, but does contribute  to the severity of disease manifestations. Also, this toxin adheres to the small intestine receptors and blocks electrolyte, glucose, and amino acid absorption from the intestinal lumen. The B subunit of this toxin binds host cell glycolipid in the large intestine, A1 domain internalized via receptor-mediated endocytosis and  causes irreversible inactivation of the 60S ribosomal subunit, inhibiting protein synthesis, causing cell death, microvasculature damage to the intestine, and haemorrhage.  
+(ii) shigella enterotoxin 2 (SHET2), which is located on a large plasmid associated with the virulence of shigella. SHET2 was found in many shigella of different serotypes and also in enteroinvasive E. coli.  
+Inactivation of SHET1 and SHET2 through genetic engineering is used for attenuation of new shigella vaccine candidates.
+(iii) phage-born Shiga toxin by S. dysenteriae (Niyogi, 2005).
+
+</pathogenesis>
+		<disease_name>Shigellosis</disease_name>
+		<protective_immunity refs="reference648">Wild type Shigella infection induces protective immunity, which develops after repeated exposure during childhood. This immunity is serotype specific (e.g., directed to the LPS O antigen of this organism). Shigella antigen specific antibody response develops early in infection and follows the typical course for anti-LPS antibodies, that is, an IgM response that peaks within weeks of exposure and wanes after 1-2 year (Niyogi, 2005).</protective_immunity>
+		<host_range refs="reference648">Humans are the only natural host for Shigella, but NHP have also been used in vaccine trials (Niyogi, 2005). </host_range>
+		<introduction refs="reference648">       Shigellosis is caused by Shigella species. It is an important public health problem, espcially in countries with unsafe water supplies and substandard hygiene. The morbidity and mortality due to shigellosis are especially high among children in these developing countries, causing a cycle of impaired nutrition, recurrent infection, and the retardation of growth. The predominant role of transmission is through faecal-oral contact. Shigellosis is characterized by diarrhoea and/or dysentery with frequent bloody, mucoid stools, tenesmus, and abdominal cramps. 
+     Shigella is an uncapsulated, non-motile Gram negative nonsporulating , facultative anaerobic bacilli. Four species of Shigella are able to cause disease: S. dysenteriae, S. flexneri, S. boydii, and S. sonnei. Each of these species are subdivided into serotypes based on their O-specific polysaccharide of the LPS. 
+     A variety of antimicrobial agents are effective for the treatment of shigellosis, but options are becoming limited as a result of global drug resistance. Quinolone was one of the preferred agents for treatment of Shigella in the 1990s. New vaccine development has been hampered by three factors: (i) the ineffectiveness of parenterally injected inactivated whole-cell vaccines which led to the belief that serum antibodies do not confer immunity; (ii) the lack of suitable animal model; (iii) only indirect evidence of immune mechanisms in humans  (Niyogi, 2005).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine265">
+		<vaccine_name>CVD 1204(pGA1-CS2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000733</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference656">This vaccine is a recombinant Shigella flexneri 2a strain CVD 1204 that expresses either Enterotoxigenic Escherichia coli (ETEC) CS2 Fimbriae (Altboum et al., 2001). Vaccines were prepared containing approximately 2 X 10^9 CFU of bacteria per syringe. The bacteria were grown on TSA-Congo red-guanine plates and harvested in PBS (Altboum et al., 2001).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering203" gene_id="gene197">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response338" host_id="host7">
+			<immune_response refs="reference656"> Following a single dose of any CVD 1204 inoculum, half of the animals responded with anti-Shigella LPS mucosal IgA, whereas three-fourths of the animals responded with anti-Shigella LPS serum IgG. All animals immunized with CVD 1204(pGA1-CS2) (groups 3 and 4) developed anti-CS2 mucosal IgA and serum IgG following a single dose. Two immunizations were required to elicit anti-CS2 serum IgG responses in all animals (Altboum et al., 2001).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference656">Guinea pigs were inoculated intranasally on days 1 and 15 with approximately 2  x 10^9 CFU of  bacteria. Five groups of animals were inoculated: group 1 was immunized with CVD 1204; group 2 received CVD 1204-CS3; group 3 received CVD 1204-CS2; group 4 received a mixture of CVD 1204-CS3 plus CVD 1204-CS2; and group 5, serving as a placebo control, received 2 x 10^10 CFU of E. coli HS. Groups 1 to 4 contained 5 animals each, whereas group 5 had 15 guinea pigs. Sera were obtained on days 0, 14, and 30 by anterior vena cava puncture of anesthetized animals. Tears were collected on the same days by lacrimal stimulation (Altboum et al., 2001). </vaccination_protocol>
+			<persistence refs="reference656">CVD 1204-CS3 or CVD 1204-CS3 and CVD 1204-CS2 mixed yielded titers that were boosted to even higher levels following the second dose. Antiﬁmbrial titers were comparable in groups receiving a single strain or a mixture of strains Anti-CS3 IgG titers ranged in group 2 from 51,200 to 204,800 and in group 4 from 12,800 to 204,800. Anti-CS2 IgGtiters ranged in group 3 from 100 to 1,600 and in group 4 from 100 to 1,600. Anti-Shigella LPS IgG titers ranged in group 1 from 400 to 1,600, in group 2 from 800 to 3,200, in group 3 from 400 to 3,200, and in group 4 from 100 to 200 (Altboum et al., 2001).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference656">Upon Sereny test challenge with wild-type S. flexneri 2a, all 15 animals vaccinated intranasally with the placebo strain of E. coli HS developed severe keratoconjunctivitis. In contrast, none of the animals (5 per group) immunized with either native CVD 1204 or CVD 1204 expressing ETEC fimbriae developed severe keratoconjunctivitis (P &lt; 0.01). One animal in the group immunized with CVD 1204(pGA1-CS2) had a score of 1 on day 3. One animal in the group immunized with CVD 1204(pGA1-CS3) had a score of 2 on days 3 and 4 (Altboum et al., 2001).</protection_efficacy>
+			<side_effects refs="reference656">Conjuntivitis (Altboum et al., 2001). </side_effects>
+			<challenge_protocol refs="reference656">The guinea pigs were challenged 21 days following the second dose with 10 micoliters containing 10^8 CFU of wild-type S. ﬂexneri 2a 2457T in the conjunctival sac (Altboum et al., 2001). </challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response131" gene_id="gene1172">
+			    <description refs="reference656">Following a single dose of any CVD 1204 inoculum, half of the animals responded with anti-Shigella LPS mucosal IgA.  After second immunization, the most dramatic difference in IgA titers between pre and post immunization was seen in guinea pigs  (Altboum et al., 2001).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response132" gene_id="gene1171">
+			    <description refs="reference656">Following a single dose of any CVD 1204 inoculum, three-fourths of the animals responded with anti-Shigella LPS serum IgG.  A dramatic increase in IgG titers between pre and post immunized guinea pigs was seen after the second immunization (Altboum et al., 2001).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine442">
+		<vaccine_name>CVD 1204(pGA1-CS3)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000734</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference656">This vaccine is a recombinant Shigella flexneri 2a strain CVD 1204 that expresses either Enterotoxigenic Escherichia coli (ETEC) ETEC CS3 Fimbriae (Altboum et al., 2001). Vaccines were prepared containing approximately 2 X 10^9 CFU of bacteria per syringe. The bacteria were grown on TSA-Congo red-guanine plates and harvested in PBS (Altboum et al., 2001).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response489" host_id="host7">
+			<immune_response refs="reference656">Animals immunized with Shigella expressing CS3 developed serum antibodies that agglutinated Shigella as well as an ETEC strain bearing the homologous ﬁmbriae (Altboum et al., 2001).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference656">Guinea pigs were inoculated intranasally on days 1 and 15 with approximately 2  x 10^9 CFU of  bacteria. Five groups of animals were inoculated: group 1 was immunized with CVD 1204; group 2 received CVD 1204-CS3; group 3 received CVD 1204-CS2; group 4 received a mixture of CVD 1204-CS3 plus CVD 1204-CS2; and group 5, serving as a placebo control, received 2 x 10^10 CFU of E. coli HS. Groups 1 to 4 contained 5 animals each, whereas group 5 had 15 guinea pigs. Sera were obtained on days 0, 14, and 30 by anterior vena cava puncture of anesthetized animals. Tears were collected on the same days by lacrimal stimulation (Altboum et al., 2001).</vaccination_protocol>
+			<persistence refs="reference656">CVD 1204-CS3 or CVD 1204-CS3 and CVD 1204-CS2 mixed yielded titers that were boosted to even higher levels following the second dose. Antiﬁmbrial titers were comparable in groups receiving a single strain or a mixture of strains Anti-CS3 IgG titers ranged in group 2 from 51,200 to 204,800 and in group 4 from 12,800 to 204,800. Anti-CS2 IgGtiters ranged in group 3 from 100 to 1,600 and in group 4 from 100 to 1,600. Anti-Shigella LPS IgG titers ranged in group 1 from 400 to 1,600, in group 2 from 800 to 3,200, in group 3 from 400 to 3,200, and in group 4 from 100 to 200 (Altboum et al., 2001).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference656">Upon Sereny test challenge with wild-type S. flexneri 2a, all 15 animals vaccinated intranasally with the placebo strain of E. coli HS developed severe keratoconjunctivitis. In contrast, none of the animals (5 per group) immunized with either native CVD 1204 or CVD 1204 expressing ETEC fimbriae developed severe keratoconjunctivitis (P &lt; 0.01). One animal in the group immunized with CVD 1204(pGA1-CS3) had a score of 2 on days 3 and 4 (Altboum et al., 2001).</protection_efficacy>
+			<side_effects refs="reference656">Conjuntivitis (Altboum et al., 2001).</side_effects>
+			<challenge_protocol refs="reference656">The guinea pigs were challenged 21 days following the second dose with 10 micoliters containing 10^8 CFU of wild-type S. ﬂexneri 2a 2457T in the conjunctival sac (Altboum et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine441">
+		<vaccine_name>CVD 1208</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000666</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference870">Attenuated (Kotloff et al., 2004).</virulence>
+		<preparation refs="reference870">CVD 1208 is derived from wild type Shigella flexneri 2a strain 2457T and has defined deletions in four genes: (1) the guaBA chromosomal operon that encodes two enzymes (inositol 5'-monophosphate dehydrogenase and guanosine 5'synthase) essential for de novo purine biosynthesis; (2) set, a locus in a chromosomal pathogenicity island that encodes Shigella enterotoxin (ShET); (3) Pic, an autotransporter mucinase encoded on the opposite strand from set; and (4) sen, an invasiveness plasmid gene encoding ShET (Kotloff et al., 2004).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine272">
+		<vaccine_name>CVD 1208S</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000668</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference663">CVD 1208S is the same thing as CVD 1208, but CVD 1208S was prepared using animal-free media (Kotloff et al., 2007). </description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference663">The inocula were derived from frozen master cell banks containing prepared strains of CVD 1208S. Frozen master seed was plated onto SP agar. After incubation, several Congo Red-dyed colonies proven to be Shigella were suspended in sterile saline. This saline was used to inoculate SP plates for the heavy bacterial growth. These resulting colonies were harvested into PBS and diluted to the appropriate bacterial count, which was between 1 x 10^8 and 1 x 10^9 CFU per ml (Kotloff et al., 2007). </preparation>
+		<route refs=""></route>
+		<antigen refs="reference663">The antigen for this vaccine is CVD 1208s, which is Shigella flexneri containing deletions in sen, set, and guaBA (Kotloff et al., 2007). </antigen>
+		<host_response host_response_id="host_response346" host_id="host2">
+			<immune_response refs="reference663">Following vaccination, all subjects mounted an anti-LPS IgA ASC response and 5 exhibited an anti-LPS IgG ASC response. Anti-LPS responses typically reached a peak on Day 14. Some volunteers exhibited a serum antibody response to Ipa and IpaB. All recipients of the higher dose (1 x 10^9 CFU) demonstrated a response in two or more of the immunologic assays (Kotloff et al., 2007).  </immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference663">16 volunteers were assigned to receive between 1 x 10^8 and 1 x 10^9 CFU per ml of CVD 1208S or a placebo. Volunteers ingested a buffer solution, then ingested 1 ml of vaccine or placebo suspended in 30 ml of buffer solution. Vaccine excretion was monitered through the culture of all stools and through collection of blood samples (Kotloff et al., 2007).  </vaccination_protocol>
+			<persistence refs="reference663">Vaccine was detected in the stool of all volunteers that received the 1  x 10^9 CFU dosage for at least one day. The same was true for six of the volunteers that received 1 x 10^8 CFU, with no vaccine detected in the volunteers that received the placebo. Peak excretion occurred on Day 1 and total excretion did not exceed the dosage levels (Kotloff et al., 2007).    </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference663">Side effects included mucoid or loose stools and fever, in some cases (Kotloff et al., 2007). </side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine267">
+		<vaccine_name>EcSf2a-2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000670</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference657">Vaccinated monkeys were protected against shigellosis after challenge with S. flexneri 2a (Kotloff et al., 1992). </virulence>
+		<preparation refs="reference657">The vaccine was suspended in 20 ml of BHI broth and contained 1.5 x 10^11 CFU of bacteria (Kotloff et al., 1992). </preparation>
+		<route refs=""></route>
+		<antigen refs="reference657">This vaccine is an aro-D mutant derivative of  EcSf2a-1 (Kotloff et al., 1992).</antigen>
+		<host_response host_response_id="host_response340" host_id="host2">
+			<immune_response refs="reference657">A fourfold increase in IgA or IgG antibody titers recognizing purified LPS was detected in 61% of those tested, and a seroresponse to IPA was detected in 44% of the 38 recipients of ca. 2.0 x 10^9 CFU. The IgM response was meager. Circulating IgA ASC specific for S. flexneri 2a LPS and for IPA were each detected in 97% and 60%, respectively, of the 30 subjects tested (Kotloff et al., 1992). </immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference657">19 volunteers ingested three doses of either ca. 5.0 x 10^6, 5.0 x 10^7, or 2.0 x 10^9 CFU of bacteria (Kotloff et al., 1992). </vaccination_protocol>
+			<persistence refs="reference657">All 46 vaccine recipients excreted the vaccine strain on at least one occasion. Recipients of three spaced doses of ca. 2.0 x 10^9 CFU shed ca. 10^5 organisms per gram of stool for an average of 7 days. Duodenal colonization was detected in five subjects, all recipients of ca. 2.0 x 10^9 CFU (Kotloff et al., 1992).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference657"> Vaccine efficacy was only 9% in the challenge study, in which 30% of recipients of three doses of ca. 2.0 x 10^9 CFU developed illness, compared 33% of 9 unvaccinated control subjects. Overall, the vaccine efficacy was 36%. Neither class-specific titers in prechallenge sera nor fourfold rises in antibody titer after vaccination could be correlated with protection against challenge (Kotloff et al., 1992).</protection_efficacy>
+			<side_effects refs="reference657">Diarrhea, dysentery, and fever were observed in vaccine recipients (Kotloff et al., 1992). </side_effects>
+			<challenge_protocol refs="reference657">Challenge doses of 1.6 x 10^9 and 1.8 x 10^9 CFU of ECSf2a-2 were given to the volunteers (Kotloff et al., 1992) . </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine268">
+		<vaccine_name>Heat-killed Virulent Shigella flexneri 2a</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000672</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">Protection from diarrhea and dysentary following oral immunization was 100% . </virulence>
+		<preparation refs="reference659">Each vacccine consisted of 10 ml of heat-killed bacteria, and each contained 10^11 CFU of bacteria (Chakrabarti et al., 1999).  </preparation>
+		<route refs=""></route>
+		<antigen refs="reference659">Heat-killed shigella flexneri strain 2a (Chakrabarti et al., 1999).</antigen>
+		<host_response host_response_id="host_response341" host_id="host6">
+			<immune_response refs="reference659">The immune response can only be speculated upon, but it is believed that protective immunity to Shigella may by conferred by serum IgG antibodies to the O-specific polysaccaride of their lipopolysaccarides. There is also evidence that infection also confers type-specific immunity to LPS (Chakrabarti et al., 1999).  </immune_response>
+			<host_strain refs="">New Zealand white </host_strain>
+			<vaccination_protocol refs="reference659">25 male New Zealand white rabbits were given 10 ml of broth culture containing 10^11 CFU of the heat-killed bacteria. The vaccines were administered through injection of the colon. The rabbits were imminized for seven days, and were administered a total of 5 doses (Chakrabarti et al., 1999).  </vaccination_protocol>
+			<persistence refs="">Not noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference659">Challenge was only demonstrated using the same strain present inthe vaccine, and was eveidenced by lack of diarrhea. Death following challenge was 2.5 fold higher for non-immunized rabbits, but this was not significant (Chakrabarti et al., 1999). </protection_efficacy>
+			<side_effects refs="reference659">Side effects included bloody diarrhea and dysentary (Chakrabarti et al., 1999). </side_effects>
+			<challenge_protocol refs="">Challenge specifics were not specifically noted. </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine258">
+		<vaccine_name>Recombinant SFL124-27 expressing S. dysenteriae type 1 O antigen</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000674</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference649">The vaccine was demonstrated to be immunogenic in animal models, leading to 47% full protection and 53% partial protection against challenge with the wild-type strain (Klee et al., 1997).</virulence>
+		<preparation refs="reference649">S. flexneri SFL124-27 is a spontaneous rough mutant of the attenuated S. flexneri auxotrophic strain SFL124, which carries a deletion of the aroD gene. A recombinant strain SFL124-27 that expresses S. dysenteriae 1 O antigen was selected as the vaccine candidate (Klee et al., 1997). </preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response330" host_id="host7">
+			<immune_response refs="reference649">None of the four immunization doses given to the 15 guinea pigs resulted in detectable keratoconjunctivitis, thereby demonstrating the safety of this prototype vaccine candidate in this animal model (Klee et al., 1997).</immune_response>
+			<host_strain refs="">Dunkin Hartley</host_strain>
+			<vaccination_protocol refs="reference649">The Sereny test with guinea pigs was performed as follows: Congo red-positive colonies of the Shigella vaccine candidate were diluted in PBS, and 25 ml was applied to the conjunctival sacs of 15 adult Dunkin Hartley guinea pigs at days 0, 7, 14, and 21 with an average of four immunizing doses, 3.7 x 10^9 bacteria per eye (Klee et al., 1997). </vaccination_protocol>
+			<persistence refs="reference649">Vaccination led to statistically significant amounts of antibodies against S. Dysenteriae (Klee et al., 1997).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference649">In the vaccinated group, 7 of 15 animals developed no signs of keratoconjunctivitis (47% full protection), and in the other 8 animals, later development of the disease was observed (53% partial protection), resulting in a combined protection of 100%, whereas in the nonvaccinated group 71% of challenged animals rapidly developed severe disease.The vaccinated animals developed symptoms of keratoconjunctivitis later than animals of the control group, and the absolute number of guinea pigs showing strong reactions, or purulent inﬂammation of the whole eye, was signiﬁcantly reduced (Klee et al., 1997). </protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference649">At day 35, the animals were challenged with 10^8 bacteria of the virulent strain S. dysenteriae 1 W30864 per eye, and the symptoms of keratoconjunctivitis were recorded for 6 days. As a control, another group of 14 nonvaccinated guinea pigs was also challenged with the virulent strain at day 35 (Klee et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response329" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference649">To assess whether the recombinant O antigen was immunogenic and to compare the immunogenicity with that of wild-type S. dysenteriae 1,  groups of five six-week-old female BALB/c mice were immunized on days 0, 14, and 28 by intraperitoneal injection of 0.2 x 10^8 to 1.0 x 10^8 heat-killed bacteria suspended in PBS. Two weeks after the last immunization, the mice were sacrificed, blood samples were collected, and antibody titers against LPS of S. dysenteriae 1 were determined by enzyme-linked immunosorbent assay (Klee et al., 1997).</vaccination_protocol>
+			<persistence refs="reference649">The antibody titers of mice immunized with S. dysenteriae 1 or S. flexneri SFL124-27::Tn(rfp-rfb)-39 were significantly higher than the titers in the nonimmunized group and in mice immunized with the rough strain SFL124-27. This indicates the synthesis of enough surface-displayed LPS molecules to trigger a specific immune response, a prerequisite for a vaccine strain (Klee et al., 1997).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">No challenge was done on the mice, as this was only to assess the immunogenicity of the recombinant O antigen. </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine263">
+		<vaccine_name>S. dysenteriae 1 strain WRSd1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000676</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference654">Vaccination with WRSd1 conferred protection against challenge with each of three virulent S. dysenteriae 1 strains (Venkatesan et al., 2002).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">Attenuated</virulence>
+		<preparation refs="reference654">S. dysenteriae 1 strain WRSd1 is a attenuated vaccine that contains deletions of the virG(icsA) gene required for intercellular spreading and a 20-kb chromosomal region encompassing the Shiga toxin genes (stxAB) (Venkatesan et al., 2002). The vaccine was made with bacterial culture grown overnight on LB agar plates and harvested in PBS (Venkatesan et al., 2002).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering201" gene_id="gene197">
+			<type>Gene mutation</type>
+			<description refs="reference654">WRSd1 was constructed from S. dysenteriae 1 strain 1617. The virG(icsA) deletion was constructed from a streptomycin-resistant mutant of 1617 by a ﬁlter mating procedures using a virG(icsA) deletion derivative, pvirG2. A colony that was invasive for HeLa cells and negative for the virG(icsA) gene by Southern blotting was grown anaerobically on plates containing chlorate for selection of resistant colonies that had lost the entire Shiga toxin gene. A virG(icsA) stxAB Str^r mutant selected from the chlorate plates was designated WRSd1 (Venkatesan et al., 2002). </description>
+		</gene_engineering>
+		<host_response host_response_id="host_response336" host_id="host5">
+			<immune_response refs="reference654"> Four monkeys showed a 2-to 3-fold rise in serum immunoglobulin G (IgG) response to S. dysenteriae 1 LPS at day 7 or day 14 and one monkey showed a 3-fold rise in serum IgA responseto S. dysenteriae LPS. None of the monkeys had a detectable rectal lavage sample immune response (Venkatesan et al., 2002).</immune_response>
+			<host_strain refs="">Rhesus (Macaca mulatta)</host_strain>
+			<vaccination_protocol refs="reference654">Five rhesus monkeys were a part of the study. 20 ml of saturated sodium bicarbonate was administered intragastrically through a pediatric stomach tube ﬁtted over a disposable plastic syringe, followed by 20 ml
+of the bacterial inoculum (10^9 CFU) of WRSd1) in water. The inoculum was obtained by hydrating the lyophilized vaccine product (Venkatesan et al., 2002). 
+</vaccination_protocol>
+			<persistence refs="reference654"> Two of ﬁve monkeys excreted the vaccine strain in stool cultures for 48 h after the administration of the vaccine, as evidenced by transparent colonies on Hektoen agar plates (Venkatesan et al., 2002). </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference654">The immune response generated was higher than that observed in monkeys given 6 x 10^9 CFU of the cGMP product (Venkatesan et al., 2002). </protection_efficacy>
+			<side_effects refs="">Not noted. </side_effects>
+			<challenge_protocol refs="reference654">Monkeys were challenged with 2 x 10^10 CFU of SC602 vaccine (Venkatesan et al., 2002). 
+</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response335" host_id="host7">
+			<immune_response refs="">Not noted. </immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference654">The eyes of 12 guinea pigs were inoculated with 10^8 CFU of WRSd1. The eyes were observed for 5 to 6 days for evaluation of the Sereny reaction. When eyes were immunized for efﬁcacy studies of vaccine candidates, mmunization was carried out twice at 2-week intervals (Venkatesan et al., 2002). 
+</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference654">WRSd1 protected fully against challenge by Ubon 378 and Shiga. At the single dose used for immunization in this experiment, WRSd1 protected partially against the parent strain 1617 (Venkatesan et al., 2002). </protection_efficacy>
+			<side_effects refs="reference654"> Side effects included purulence and conjunctivitis in some of the eyes tested (Venkatesan et al., 2002). </side_effects>
+			<challenge_protocol refs="reference654">Four weeks after the last immunization, animals were challenged at the same dose using one of three virulent S. dysenteriae 1 strains: 1617, the parent strain of WRSd1; Ubon 378; and Shiga (Venkatesan et al., 2002). </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine902">
+		<vaccine_name>S. flexneri  Invaplex 24 Subunit Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011466</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasally</route>
+		<location_licensed></location_licensed>
+		<description refs="reference967">Isolated invasin complex (invaplex), which contains the major antigens of virulent Shigella, is shown to be immunogenic when delivered by a mucosal route without the need for any additional adjuvant. Western blot analysis of the complex indicates that all of the major virulence antigens of Shigella, including IpaB, IpaC, and IpaD, and LPS are components of this macromolecular complex. (Turbyfill et al., 2000)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference967">A novel method has been developed for isolating a macromolecular complex containing the major known virulence factors and immunogens from intact, viable, virulent shigellae. This structure was referred as the invasin complex, or invaplex. It has been possible to isolate two forms of the invaplex, called invaplex 24 and invaplex 50, by FPLC ion-exchange chromatography from S. flexneri 2a and S. flexneri 5. Both forms contain the invasins (IpaB, IpaC, and IpaD) and LPS, but IpaA and VirG, a truncated form of VirG, were found only in Invaplex 50. Other unidentified proteins were also present in both invaplex preparations (Turbyfill et al., 2000).</preparation>
+		<route refs="">Intranasally</route>
+		<antigen refs="reference967">IpaB, IpaC, and IpaD, and LPS (Turbyfill et al., 2000).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering378" gene_id="gene307">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering379" gene_id="gene308">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering380" gene_id="gene309">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response660" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/cByJ</host_strain>
+			<vaccination_protocol refs="reference967">The ability of the invaplex fractions to promote an immune response in BALB/cByJ mice was tested in groups of five mice. Each mouse was immunized intranasally with 5 μg of invaplex 24 or invaplex 50 from S. flexneri 2a or S. flexneri 5 on days 0, 14, and 28. Saline was used to immunize control animals. A total antigen volume of 25 μl was delivered in 5 to 6 small drops applied to the external nares with a micropipette (Turbyfill et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">A significant level of protection against lethal challenge was achieved in mice immunized with S. flexneri 2a invaplex 24. Invaplex-immunized mice lost weight upon challenge, but by days 3 to 4 they began to recover and gain weight whereas control mice soon died. Similar levels of protection were afforded by invaplex 24 (12 of 15 mice survived).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference967">Three weeks after the final immunization with either S. flexneri 2a invaplex 24, invaplex 50, or saline, mice (15 per group) were challenged intranasally with a lethal dose of S. flexneri 2a 2457T (10^7 CFU/30 μl) as described for the mouse lung model. The mouse challenge dose was prepared from a frozen lot of S. flexneri 2a that had been harvested during the log phase of growth, which is the time of optimal invasiveness for shigellae, and then stored in liquid nitrogen (Turbyfill et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine270">
+		<vaccine_name>S. flexneri 2a LPS vaccine complexed with N. meningitidis proteosomes</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000682</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference661">Strong anamnestic responses were found , so acellular Shigella vaccines can protect against Shigella infection (Orr et al., 1993).</virulence>
+		<preparation refs="reference661">Purified shigella LPS and  group C serotype 2b N. meningitidis outer membrane proteins were mixed at a 1:1 ratio in PBS containing 1% Empigen. The mixture was dialyzed across a dialysis membrane against PBS. Samples of the purified LPS were mixed with PBS and sodium bicarbonate (Orr et al., 1993).   </preparation>
+		<route refs=""></route>
+		<antigen refs="reference661">The antigen for this acellular vaccine is purified Shigella flexneri  LPS (Orr et al., 1993).  </antigen>
+		<host_response host_response_id="host_response343" host_id="host3">
+			<immune_response refs="reference661">Vaccination produced high levels of anti-LPS  IgG and anti-LPS IgA in mice immunized two or three times (Orr et al., 1993). </immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference661">BALB/c mice were were immunized either orally or intranasally with 100 miroliters of PBS containing 100 micrograms of LPS with 0.2 M sodium bicarbonate that was given either alone or complexed with 100 micrograms of proteosomesusing a bent metal tube.   For intranasal immunization, 25 micrograms of LPS either alone or complexed with 10 micrograms of proteosomeswas slowly placed into one or both of the nares. The control group recieved diluent without antigen (Orr et al., 1993). </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference661">All mice in control groups were infected. 14 out of 19 and 11 out of 16 mice were protected from severe infection after intranasal or oral vaccination. 9 out of 16 animals were protected from any illness (Orr et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference661">Mice were challenged with LPS two weeks after their last immunization (Orr et al., 1993).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response344" host_id="host7">
+			<immune_response refs="reference661">Guinea pig titers proved strong anti-LPS IgG antibodies and anti-LPS IgA antibodies (Orr et al., 1993). </immune_response>
+			<host_strain refs="">DH</host_strain>
+			<vaccination_protocol refs="reference661">Anesthetized guinea pigs were immunized.  Orally, they each received 200 microliters of PBS with sodium bicarbonate and 200 micrograms of the LPS complex. Intranasally, each guinea pig received 50 microliters of PBS with 40 micrograms of the LPS complex (Orr et al., 1993).   </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference661">The vaccines elicited an in vivo protection against homologous bacteria (Orr et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference661">The conjunctival sac of one eye of each animal was inoculated with 30 microliters of a suspension containing and estimeted 10^8 of homologous bacteria (Orr et al., 1993). </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine262">
+		<vaccine_name>S. flexneri 2a strain CVD 1203</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002920</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""> Two 10^9-CFU orogastric doses (2 weeks apart) stimulated production of secretory immunoglobulin A antibodies to S.flexneri 2a and protected against conjunctival sac challenge with virulent S. flexneri 2a.</virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs="reference653">The antigen for this vaccine is S. flexneri 2a strain 1203, a strain which contains deletions in chromosomal aroA and invasion plasmid virG (Noriega et al., 1994). </antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering200" gene_id="gene197">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference653">Noriega et al. sequentially introduced precise deletion mutations into chromosomal gene aroA and plasmid gene virG in a wild-type S. flexneri 2a strain known to be virulent in volunteers. In order to do this, they constructed aroA and introduced several deletion cassetes (Noriega et al., 1994).  
+</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response334" host_id="host7">
+			<immune_response refs="reference653">Immunization with CVD 1203 clearly stimulated production of S-IgA antibodies to S. flexneri 2a LPS in tears (Noriega et al., 1994). </immune_response>
+			<host_strain refs="">Hartley</host_strain>
+			<vaccination_protocol refs="reference653">33 guinea pigs were randomly allocated to receive orogastrically 10 CFU of CVD 1203 or control strain E. coli HS. A second immunization was given 15 days later. Tears were collected from 10 guinea pigs (5 immunized with CVD 1203 and 5 immunized with E. coli HS) on days 7, 14, and 21 after the first orogastric dose to measure secretory immunoglobulin A (S-IgA) antibodies against S. flexneri 2a LPS by enzyme-linked immunosorbent assay (Noriega et al., 1994). 
+</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference653">Full-blown keratoconjunctivitis developed in 16 of 17 control animals orogastrically vaccinated with the placebo (a 94% attack rate), in contrast to only 3 of 16 guinea pigs immunized with two spaced orogastric doses of CVD 1203 (a 19% attack rate) (Noriega et al., 1994). </protection_efficacy>
+			<side_effects refs="">Not noted. </side_effects>
+			<challenge_protocol refs="reference652">On the 28th day after the first immunization, 16 vaccinated guinea pigs and 17 control guinea pigs were challenged with 5 x 10^7 CFU of the wild-type 2457T strain in 10 ,ul (Noriega et al., 1996). </challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response133" gene_id="gene1172">
+			    <description refs="reference653">Immunization with CVD 1203 clearly stimulated production of IgA antibodies to S. flexneri 2a LPS in tears.  A significant increase was seen 14 days after immunization, which was compared to the static control immunization with E. coli HS (Noriega et al., 1994).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine261">
+		<vaccine_name>S. flexneri 2a strain CVD 1205</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004143</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference652">Upon Sereny test challenge with wild-type S. ﬂexneri 2a, CVD 1205-vaccinated animals were signiﬁcantly protected against keratoconjunctivitis (Noriega et al., 1996). </virulence>
+		<preparation refs="reference652">Overnight cultures of guaB-A virG S. ﬂexneri 2a strain CVD 1205 and HS strains were harvested and resuspended PBS to an optical density at 600 nm of 0.5 (equivalent to 5 3 10^8 CFU/ml) and concentrated by centrifugation to the desired concentration (Noriega et al., 1996).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference652">The antigen for this vaccine is S. flexneri 2a strain CVD 1205, which carries deletion mutations in the guaB-A operon and in the virG gene (also called icsA) (Noriega et al., 1996). 
+</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering199" gene_id="gene196">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference652">   CVD 1205 is made through deletion of virG from CVD 1204. Producing strain CVD 1205 took many steps and began with construction of the guaB-A deletion cassette pFM726A. In the construction of the guaB-A deletion cassette, DNA segments that included the 59 terminus of guaB and the 39 terminus of guaA were ampliﬁed (from S. ﬂexneri 2a strain 2457T genomic DNA) and fused by PCR, originating the guaB-A allele. With the internal primers (primers 2 and 3) was introduced an in-frame stop sign upstream of two unique restriction sites that were added for the future introduction of foreign genes into the chromosomal DguaB-A allele. The external primers (primers 1 and 4) were designed to introduce unique restriction sites that were used to clone the guaB-A allele into the temperature-sensitive, pSC101-based suicide plasmid pFM307A, originating pFM726A. The same external primers were used to amplify the wild-type guaB-A operon (from strain 2457T), which was subsequently cloned in pGEM-T, yielding pGEM::gua, and in pFM307A, yielding pFM215A. Suicide cassette-driven deletion mutations and repair of the same. Deletion cassette pFM726A was used to introduce the deletion mutation into wild-type S.ﬂexneri 2a strain 2457T by homologous recombination as described in previously published method, yielding strain CVD 1204. Plasmid FM215A was used to repair the deletion mutation by homologous recombination of the chromosomal guaB-A allele in strain CVD 1204 for the wild-type operon contained in the suicide plasmid.
+   A second deletion mutation on the virulence gene virG was performed with a previously described suicide deletion cassette (pDvirG) and methods (24), yielding strain CVD 1205. The deletion mutation corresponds to 900 bases representing amino acids 341 to 640 of the 120-kDa VirG protein. The speciﬁc engineered site for this deletion in the protein represents a highly hydrophobic, poorly antigenic portion of the molecule genic index (Noriega et al., 1996). </description>
+		</gene_engineering>
+		<host_response host_response_id="host_response333" host_id="host7">
+			<immune_response refs="reference652">The serum antibody response was more delayed, since no serum IgG or IgA anti-Shigella LPS was detected after the ﬁrst immunization. However, by day 2 animals immunized with CVD 1205 had speciﬁc anti-S. ﬂexneri 2a LPS IgA (i.e., 78-fold rise in GMT) and IgG (i.e., 60-fold rise in GMT) titers that were highly signiﬁcant with respect to those obtained at day 0 in the same guinea pigs or at days 0 and 28 in the strain HS controls (Noriega et al., 1996).
+</immune_response>
+			<host_strain refs="">Hartley</host_strain>
+			<vaccination_protocol refs="reference652">Randomized, nonpreconditioned Hartley guinea pigs were given intranasally 100 ml of bacterial suspension containing 10^9 CFU as described previously. A booster dose was administered 14 days later in the identical manner (Noriega et al., 1996).
+</vaccination_protocol>
+			<persistence refs="reference652">At 72 h postinoculation, the (blinded) observer grading the inﬂammatory response in the guinea pigs could not distinguish the inoculated eye from the noninoculated one in any of the animals that received the attenuated mutant CVD 1205, while all animals that received wild-type strain 2457T had full-blown purulent keratoconjunctivitis (Noriega et al., 1996).
+</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference652">Full-blown purulent keratoconjunctivitis developed in ﬁve of seven control animals vaccinated with placebo (71% attack rate) versus none of the eight guinea pigs immunized with two spaced intranasal doses of CVD 1205 (Noriega et al., 1996).</protection_efficacy>
+			<side_effects refs="">No side effects were noted. </side_effects>
+			<challenge_protocol refs="reference652">Protection of guinea pigs against wild-type challenge. On day 28 after the ﬁrst immunization, the 16 guinea pigs that had received CVD 1205 or placebo were challenged with 3 x 10^7 CFU of wild-type S. ﬂexneri 2a strain 2457T in 10 ml of PBS (Noriega et al., 1996).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine260">
+		<vaccine_name>S. flexneri 2a strain CVD 1207</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000677</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference651">Protective efﬁcacy against shigellosis following rechallenge was 70% (Kotloff et al., 2000).</virulence>
+		<preparation refs="reference651">Shigella flexneri strain CVD 1207 carries deletions of the plasmid gene virG (also known as icsA), which encodes a protein responsible for cell-to-cell spread of Shigella in the intestinal epithelium; (ii) the chromosomal gene set encoding Shigella enterotoxin 1 (ShET1), which is present almost exclusively in S. ﬂexneri 2a; (iii) the plasmid gene sen, encoding Shigella enterotoxin 2 (ShET2), which is present in virtually all serotypes of Shigella; and (iv) the guaBA chromosomal operon that regulates synthesis of IMP dehydrogenase (encoded by guaB) and GMP synthetase (encoded by guaA), two enzymes employed in the distal de novo purine biosynthesis pathway. CVD 1207 thus expresses type-speciﬁc O-polysaccharide and invades epithelial cells (albeit less competently than the wild type) but undergoes only limited intracellular proliferation and intercellular spread and has no detectable enterotoxic activity (Kotloff et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering198" gene_id="gene193">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference651">CVD 1207 was constructed from wild-type S. ﬂexneri 2a strain 2457T by a series of double homologous recombinations using suicide plasmid deletion cassette technology as described in detail elsewhere. In brief, a speciﬁc, in-frame deletion mutation in the guaBA operon was ﬁrst introduced, followed by a second in-frame deletion mutation in the plasmid virulence gene virG. The chromosomal mutation set was accomplished with
+deletion of 85% of subunit A of set. Finally, a sen cassette was constructed by fusing two 700-bp segments that include the N and C termini of sen minus 300 bp corresponding to the putative active site in the N-terminal region. The ars operon, conferring resistance to arsenite, was cloned into the sen locus to allow facile transfer of the double-deletion mutation (virG and sen) virulence plasmid to candidate Shigella vaccine strains and as a marker to distinguish CVD 1207 in the ﬁeld.  As previously described, CVD 1207 does not grow in minimum medium unless supplemented with guanine. The lack of enterotoxic activity has been conﬁrmed in Ussing chambers. CVD 1207 is signiﬁcantly less invasive for HeLa cells than its wild-type parent strain 2457T (approximately 1 log unit fewer intracellular CFU detected) but does not differ from its single-mutant strain progenitor guaBA CVD 1204 (unpublished observations). CVD 1207 undergoes fewer intracellular generations in HeLa cells than either CVD 204 (10-fold; 4.5 doublings in 4 h) or 2457T (30-fold; 5 doublings in 4 h) (unpublished observations)  (Kotloff et al., 2000). </description>
+		</gene_engineering>
+		<host_response host_response_id="host_response332" host_id="host2">
+			<immune_response refs="reference651">A dose-related, immunoglobulin A antibody-secreting cell (ASC) response to S. ﬂexneri 2a O-speciﬁc lipopolysaccharide was seen, with geometric mean peak values of 6.1 to 35.2 ASCs/10^6 peripheral blood mononuclear cells (PBMC) among recipients of 10^7 to 10^10 CFU. The cytokine response to Shigella-speciﬁc antigens observed in volunteers’ PBMC following vaccination suggested a Th1 pattern with stimulation of gamma interferon and absence of interleukin 4 (IL-4) or interleukin 5(Kotloff et al., 2000).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference651">Groups of 3 to 7 outpatient volunteers were assigned, in an incremental fashion, to receive a single oral dose of CVD 1207 at a desired inoculum (the actual inocula administered are in parentheses) of either 10^6,10^7, 10^8, 10^9, or 10^10 CFU. Fasting volunteers  swallowed the vaccine suspended in a solution of NaHCO3 buffer, as previously described (Kotloff et al., 2000).</vaccination_protocol>
+			<persistence refs="reference651">Fecal excretion of the vaccine strain in the volunteer’s stools was measured on days 1, 2, 3, 7, 10, 14, and 21 after ingestion of the vaccine. The duration of excretion was 1 to 3 days except for two recipients of ca. 10^9 CFU, who each had one additional positive stool culture 2 weeks after vaccination (Kotloff et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference651">Some test subjects experienced diarrhea and  vomiting. No subjects experienced fever or dysentery (Kotloff et al., 2000).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine904">
+		<vaccine_name>S. flexneri Invaplex 50 Subunit Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011468</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasally</route>
+		<location_licensed></location_licensed>
+		<description refs="">Isolated invasin complex (invaplex), which contains the major antigens of virulent Shigella, is shown to be immunogenic when delivered by a mucosal route without the need for any additional adjuvant. Western blot analysis of the complex indicates that all of the major virulence antigens of Shigella, including IpaB, IpaC, and IpaD, and LPS are components of this macromolecular complex.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference967">A novel method has been developed for isolating a macromolecular complex containing the major known virulence factors and immunogens from intact, viable, virulent shigellae. This structure was referred as the invasin complex, or invaplex. It has been possible to isolate two forms of the invaplex, called invaplex 24 and invaplex 50, by FPLC ion-exchange chromatography from S. flexneri 2a and S. flexneri 5. Both forms contain the invasins (IpaB, IpaC, and IpaD) and LPS, but IpaA and VirG, a truncated form of VirG, were found only in Invaplex 50. Other unidentified proteins were also present in both invaplex preparations (Turbyfill et al., 2000).</preparation>
+		<route refs="">Intranasally</route>
+		<antigen refs="reference967">IpaB, IpaC, and IpaD, and LPS (Turbyfill et al., 2000).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering382" gene_id="gene307">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering383" gene_id="gene308">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering384" gene_id="gene309">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response662" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/cByJ</host_strain>
+			<vaccination_protocol refs="reference967">The ability of the invaplex fractions to promote an immune response in BALB/cByJ mice was tested in groups of five mice. Each mouse was immunized intranasally with 5 μg of invaplex 24 or invaplex 50 from S. flexneri 2a or S. flexneri 5 on days 0, 14, and 28. Saline was used to immunize control animals. A total antigen volume of 25 μl was delivered in 5 to 6 small drops applied to the external nares with a micropipette (Turbyfill et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference967">A significant level of protection against lethal challenge was achieved in mice immunized with S. flexneri 2a invaplex 50. Invaplex-immunized mice lost weight upon challenge, but by days 3 to 4 they began to recover and gain weight whereas control mice soon died. Similar levels of protection were afforded by invaplex 50 (10 of 15 mice survived) (Turbyfill et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference967">Three weeks after the final immunization with either S. flexneri 2a invaplex 24, invaplex 50, or saline, mice (15 per group) were challenged intranasally with a lethal dose of S. flexneri 2a 2457T (107 CFU/30 μl) as described for the mouse lung model (18). The mouse challenge dose was prepared from a frozen lot of S. flexneri 2a that had been harvested during the log phase of growth, which is the time of optimal invasiveness for shigellae, and then stored in liquid nitrogen (Turbyfill et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine269">
+		<vaccine_name>S. flexneri strain Sfl 124</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000673</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference660">Homologous protection occurred after the initial infection with the virulent strain (Hartman et al., 1991). </virulence>
+		<preparation refs="reference660">This vaccine is derived from S. flexneri strain SFl 114, which was constructed by making the virulent parent strain Sfl1 an aroD mutant. This rendered it dependent on aromatic metabolites not available in mamillian tissues. The tetracycline resistance properties of Sfl 114 were removed, and this resulting vacccine was called SFl 124 (Hartman et al., 1991).  The vaccines were prepared in a lactose-phosphate-glutamate medium with dextran 10 added, then lypholized. All vaccines were rehydrated from the lypholized state with distilled water and diluted with phosphate-buffered saline. Each vaccine contained 3 x 10^8 to 5 x 10^8 organisms, and contained approximately 0.05 ml of cell suspension (Hartman et al., 1991).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference660">The antigen for this vaccine is Sfl 124, which is an S. flexneri Y strain.  This strain was derived through the strain Sfl 114 (Hartman et al., 1991). </antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering205" gene_id="gene198">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response342" host_id="host7">
+			<immune_response refs="reference660">Sera obtained from guinea pigs reacted with IpA proteins and showed no reaction to the pUC19 control (Hartman et al., 1991). </immune_response>
+			<host_strain refs="">Hartley</host_strain>
+			<vaccination_protocol refs="reference660">Male Hartley guinea pigs were innoculated. Each guinea pig received 0.05 ml of cell suspension in the conjunctival sac of each eye with a dropper. Immunization occurred on days 0,1,14, and 15. Follwing vaccination, guinea pigs were evaluated daily for the development of keroconjunctivitis (Hartman et al., 1991). </vaccination_protocol>
+			<persistence refs="">Not noted. </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference660">The attack rate following previous infection was less than 20%. Protection was still more than 80% 7 weeks postinfection (Hartman et al., 1991).</protection_efficacy>
+			<side_effects refs="reference660">The only side effect was keroconjunctivitis (Hartman et al., 1991). </side_effects>
+			<challenge_protocol refs="reference660">Animals were challenged with the same strain 4, 7, or 13 weeks after infection (Hartman et al., 1991).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine264">
+		<vaccine_name>S. sonnei strain WRSS1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000678</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference655">WRSS1 vaccine is remarkably immunogenic in doses ranging from 10^3 to 10^6 CFU (Kotloff et al., 2002). </virulence>
+		<preparation refs="reference655">WRSS1 is a stable S. sonnei mutant with a deletion in virG (Kotloff et al., 2002). The final composition of the vaccine consisted of 3.7 x 10^10 CFU of WRSS1 per vial in PBS containing 7.5% dextran T10, 2% sucrose, and 1.5% glycerol as a cryopreservative (Kotloff et al., 2002).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering202" gene_id="gene197">
+			<type>Gene mutation</type>
+			<description refs="reference655">WRSS1 was constructed from the Mosely strain of S. sonnei. A parent strain was selected that exhibited stability of the form I colonial phenotype, then sacB suicide vector pCVD422 was used to replace the wild-type virG allele with virG possessing a 212-bp deletion. In preclinical experiments (Kotloff et al., 2002). </description>
+		</gene_engineering>
+		<host_response host_response_id="host_response337" host_id="host2">
+			<immune_response refs="reference655">Vaccination elicited vigorous IgA ASC anti-LPS responses in all of the groups. ASC responses were less common and smaller in magnitude in the IgG anti-LPS assay and in both anti-Ipa assays. Geometric mean peak postvaccination anti-LPS serum IgG and fecal IgA titers were also robust. Most of the subjects exhibited a fourfold rise in serum and/or fecal anti-LPS antibody titers.  Whereas the anti-LPS IgA ASC and fecal antibody responses tended to increase with the dose, a similar trend was not apparent in serum antibody responses.  Postvaccination antigen-speciﬁc proliferative responses and increases in IL-10 production were not seen (Kotloff et al., 2002).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference655">Fasting volunteers ingested 2g of sodium bicarbonate buffer dissolved in 150 ml of water, followed 1 min later by 30 ml of water containing the assigned vaccine dose or no vaccine (placebo) (Kotloff et al., 2002). </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference655">Side effects included fever, loose stools or aysmptomatic diarrhea, and mild cramps (Kotloff et al., 2002). </side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="">This is a Phase I study.</description>
+		</host_response>
+		<host_response host_response_id="host_response488" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="">The protective efficacy and immunogenicity of WRSS1 were measured with the guinea pig keratoconjunctivitis model. Ocular immunization with 3 × 10^8 to 4 × 10^8 CFU of WRSS1/eye on days 0 and 14.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">In animals immunized with WRSS1 grown from overnight plate cultures, 13 of 16 eyes showed no signs of disease (83% complete protection), while 3 eyes showed mild conjunctivitis (17% partial protection). When reconstituted lyophilized cultures were used, 10 of 16 eyes did not develop disease (63% complete protection), while 4 eyes developed mild disease (25% partial protection). In both cases, protection against challenge was significant by the Fisher exact test (P &lt; 0.001), and there was no significant difference in the levels of protection conferred by the two formulations.</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Four weeks after the last immunization, both the immunized animals and the unimmunized control animals were challenged with 4 × 10^8 CFU of virulent S. sonnei 53G/eye.</challenge_protocol>
+			<description refs="reference871">WRSS1 was found to be both immunogenic and protective in the guinea pig keratoconjunctivitis model (Hartman and Venkatesan, 1998).</description>
+              <host_gene_response host_gene_response_id="host_gene_response134" gene_id="gene1173">
+			    <description refs="reference655">WRSS1 elicits vigorous anti-LPS IgA ASC and serum IgA and IgG antibody responses that are similar in magnitude to those elicited by other strains that prevented illness.  IgG responses were significantly greater 7 to 10 days post inoculation in those that received WRSS1 as opposed to the placebo (Kotloff et al., 2002).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response135" gene_id="gene1174">
+			    <description refs="reference655">WRSS1 elicits vigorous anti-LPS IgA ASC and serum IgA and IgG antibody responses that are similar in magnitude to those elicited by other strains that prevented illness.  IgA responses were significantly greater 7 to 10 days post inoculation in those that received WRSS1 as opposed to the placebo (Kotloff et al., 2002).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine259">
+		<vaccine_name>SC602</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000663</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">Attenuated.</virulence>
+		<preparation refs="">The Shigella flexneri 2a SC602 vaccine candidate carries deletions of the plasmid-borne virulence gene icsA (mediating intra- and intercellular spread) and the chromosomal locus iuc (encoding aerobactin).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference650">The antigen for this vaccine is Shigella flexneri 2a strain SC602 (Coster et al., 1999).  </antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering197" gene_id="gene193">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference650">This SC602  vaccine was constructed with S. ﬂexneri 2a strain 454 as the progenitor. The iuc mutation  neccessary for producing SC602 was generated by recombination of iuc::Tn10 into the chromosome by using phage P1 transduction. Spontaneous excision of the tetracycline resistance gene, and its ﬂanking regions including the iuc locus, was selected by growth on fusaric acid medium. The icsA gene was inactivated by double recombination with a kanamycin resistance-sucrose sensitivity cartridge carrying ﬂanking regions of icsA. Deletion of the Kmr-sacB cartridge was selected by growth on sucrose, and the resistant clones were screened for retention of the invasive phenotype in HeLa cells. An isolate designated SC602 had suffered a deletion of the entire icsA gene along with substantial ﬂanking sequences.This SC602 isolate was expanded into a master cell bank and was used in the vaccines (Coster et al., 1999).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response331" host_id="host2">
+			<immune_response refs="reference650">Immune correlates of vaccine efﬁcacy against diarrhea and severe shigellosis included a signiﬁcant IgA ASC response and a threefold or greater rise in serum IgA antibody against S. ﬂexneri 2a LPS. Other correlates of protection against all symptoms included urinary sIgA responses against 2a LPS in addition to IgG ASC and IgG serum responses. ASC levels peaked on day 7 and ELISA titers peaked on day 14 for vaccination(Coster et al., 1999).
+</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference650">Volunteers fasted for 90 minutes before and after vaccination. The inoculum was ingested by each volunteer 2 min after ingestion of 120 ml of the sodium bicarbonate solution. Placebo controls received sodium bicarbonate buffer with no added bacteria. SC602 dose selection studies. Thirty-three subjects were enrolled in the initial, placebo-controlled dose selection trial: eighteen subjects received the SC602 vaccine and ﬁfteen received sodium bicarbonate placebo (Coster et al., 1999). </vaccination_protocol>
+			<persistence refs="reference650">Robust and prolonged intestinal colonization by S. ﬂexneri 2a was observed in all volunteers who had ingested the SC602 vaccine. The peak excretion of vaccine was 10^4 to 10^6 CFU/g of stool regardless of the dose ingested (Coster et al., 1999). </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference650">SC602 gave signiﬁcant protection against fever and severe shigellosis (Coster et al., 1999).</protection_efficacy>
+			<side_effects refs="reference650">Reportable intestinal symptoms included abdominal cramps, nausea, emesis, tenesmus, and gas. Constitutional symptoms in-
+cluded headache, myalgia, arthralgia, loss of appetite, and fatigue (Coster et al., 1999). </side_effects>
+			<challenge_protocol refs="reference650"> The challenge inoculum, containing approximately 10^3 CFU of virulent S. ﬂexneri 2a strain 2457T, was prepared and administered with sodium bicarbonate as described previously. All subjects
+who were vaccinated or challenged with S. ﬂexneri were treated with ciproﬂoxacin (Coster et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response136" gene_id="gene1174">
+			    <description refs="reference650">Immune correlates of vaccine efficacy against diarrhea and severe shigellosis included a significant IgA ASC response and a threefold or greater rise in serum IgA antibody against S. flexneri 2a LPS as compared to titers on day 0.  Four of 12 vaccinees experienced a significant increase in IgA titers (Coster et al., 1999).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response137" gene_id="gene1173">
+			    <description refs="reference650">Correlates of protection against all symptoms included IgG ASC and IgG serum responses.  A majority of volunteers had IgG anti-Ipa responses.  Antibody titers were compared to day 0 titers (Coster et al., 1999).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3151">
+		<vaccine_name>Shigella flexneri aroD mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002923</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering665" gene_id="gene198">
+			<type>Gene mutation</type>
+			<description refs="reference1675">This aroD mutant is from Shigella flexneri (Kärnell et al., 1993).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response975" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1675">An aroD mutant is highly attenuated in monkeys (Kärnell et al., 1993).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1675">An aroD mutant induces significant protection in monkeys from challenge with wild type S. flexneri (Kärnell et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3152">
+		<vaccine_name>Shigella flexneri envZ mutant vaccine</vaccine_name>
+		<proper_name>SC433</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002924</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intragastric immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intragastric immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering666" gene_id="gene1072">
+			<type>Gene mutation</type>
+			<description refs="reference2051">This envZ mutant is from Shigella flexneri (Sansonetti et al., 1991).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response976" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2051">An envZ mutant (SC433) is greatly decreased in virulence in macaque monkeys, though some mild clinical signs were still recorded (Sansonetti et al., 1991).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2051">An envZ mutant is highly protective in macaque monkeys against a challenge of wild type S. flexneri delivered 1 month after inoculation (Sansonetti et al., 1991).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine273">
+		<vaccine_name>Shigella ribosome-based Vaccine (SRB)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000739</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference664">The ribosome acted as the adjuvant in the vaccine, carrying the O-antigen and other cell-wall antigens (Shim et al., 2007). </adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference664">SRV is immunogenic and provides protective efficacy in mice (Shim et al., 2007). </virulence>
+		<preparation refs="reference664">Virulent S. flexneri 2a 2457T strains were incubated, then cultured. The cells were then subjected to a high-pressure homogenizer to break down the bacterial ribosome. The ribosome was then purfied. The O-antigen concentration accounted for approximately 5% of the preparation. This vaccine is composed of O-antigen and ribosome isolated from S. flexneri 2a (Shim et al., 2007).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference664">The protective antigen for this vaccine is O-antigen from S. flexneri 2a (Shim et al., 2007).</antigen>
+		<host_response host_response_id="host_response347" host_id="host3">
+			<immune_response refs="reference664">Both subcutaneous and intranasal vaccination induced high levels of Ag-specific IgG Ab in sera. Intranasal vaccination elicited robust levels of LPS-specific IgA Ab in the mucosal secretions. The heightened levels were identical to those produced by vaccination with the S. flexneri 2a SC602 strain (Shim et al., 2007).  </immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference664">Mice were subcutaneously or intranasally vaccinated on days 0 and 14 with a 2.5 microgram dose of the O-antigen. For a control, attenuated S. flexneri 2a SC602 strain (5 x 10^6 CFU) was administered (Shim et al., 2007).    </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference664">Groups of mice vaccinated intranasally with SRV demonstrated less severe pneumonia than those mice that received subcutaneous vaccines. SRV administration via the parenteral route did not effictively protect against the challenge. Almost 65% of mice that received the intranasal vaccine survived the two vaccine doses compared to about 20% of mice that received the subcutaneous dose. These data suggest that a higher degree of protective immunity is conferred against  Shigella by SRV when it is administered by the intranasal route (Shim et al., 2007). </protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference664">One week after the second vaccination, the mice were challenged with virulent S. flexneri 2a (1 x 10^7 or 5 x 10^7 CFU) to induce pulmonary pneumonia (Shim et al., 2007).  </challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3154">
+		<vaccine_name>Shigella sonnei virG/senA/senB mutant vaccine</vaccine_name>
+		<proper_name>WRSs2</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering671" gene_id="gene194">
+			<type>Gene mutation</type>
+			<description refs="reference2028">This virG/senA/senB mutant is from Shigella sonnei (Barnoy et al., 2010).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering672" gene_id="gene1068">
+			<type>Gene mutation</type>
+			<description refs="reference2028">This virG/senA/senB mutant is from Shigella sonnei (Barnoy et al., 2010).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering673" gene_id="gene1069">
+			<type>Gene mutation</type>
+			<description refs="reference2028">This virG/senA/senB mutant is from Shigella sonnei (Barnoy et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response978" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2028">A virG, senA, and senB mutant is attenuated in guinea pigs (Barnoy et al., 2010).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2028">A virG, senA, and senB mutant induces significant protection in guinea pigs from challenge with wild type Shigella sonnei (Barnoy et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response138" gene_id="gene1172">
+			    <description refs="reference2028">Serum GMTs of LPS-specific and Invaplex-specific IgG and IgA were very similar across the three vaccine candidates, indicating that WRSs2 and WRSs3 elicited comparable levels of humoral immune responses in guinea pigs as WRSS1.  Antibodies were measured days 0, 7, and 14 after inoculation as well as 2 weeks after challenge.  Antibody levels increased greatly between days 0 and 28 (Barnoy et al., 2010).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response139" gene_id="gene1171">
+			    <description refs="reference2028">Serum GMTs of LPS-specific and Invaplex-specific IgG and IgA were very similar across the three vaccine candidates, indicating that WRSs2 and WRSs3 elicited comparable levels of humoral immune responses in guinea pigs as WRSS1.  Antibodies were measured days 0, 7, and 14 after inoculation as well as 2 weeks after challenge.  Antibody levels increased greatly between days 0 and 28 (Barnoy et al., 2010).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3153">
+		<vaccine_name>Shigella sonnei virG/senA/senB/msbB2 mutant vaccine</vaccine_name>
+		<proper_name>WRSs3</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering667" gene_id="gene194">
+			<type>Gene mutation</type>
+			<description refs="reference2028">This virG/senA/senB/msbB2 mutant is from Shigella sonnei (Barnoy et al., 2010).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering668" gene_id="gene1068">
+			<type>Gene mutation</type>
+			<description refs="reference2028">This virG/senA/senB/msbB2 mutant is from Shigella sonnei (Barnoy et al., 2010).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering669" gene_id="gene1069">
+			<type>Gene mutation</type>
+			<description refs="reference2028">This virG/senA/senB/msbB2 mutant is from Shigella sonnei (Barnoy et al., 2010).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering670" gene_id="gene1070">
+			<type>Gene mutation</type>
+			<description refs="reference2028">This virG/senA/senB/msbB2 mutant is from Shigella sonnei (Barnoy et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response977" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2028">A virG, senA, senB, and msbB2 mutant is attenuated in guinea pigs (Barnoy et al., 2010).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2028">A virG, senA, senB, and msbB2 mutant induces protection in guinea pigs from challenge with wild type Shigella sonnei (Barnoy et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response140" gene_id="gene1172">
+			    <description refs="reference2028">Serum GMTs of LPS-specific and Invaplex-specific IgG and IgA were very similar across the three vaccine candidates, indicating that WRSs2 and WRSs3 elicited comparable levels of humoral immune responses in guinea pigs as WRSS1.  Antibodies were measured days 0, 7, and 14 after inoculation as well as 2 weeks after challenge.  Antibody levels increased greatly between days 0 and 28 (Barnoy et al., 2010).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response141" gene_id="gene1171">
+			    <description refs="reference2028">Serum GMTs of LPS-specific and Invaplex-specific IgG and IgA were very similar across the three vaccine candidates, indicating that WRSs2 and WRSs3 elicited comparable levels of humoral immune responses in guinea pigs as WRSS1.  Antibodies were measured days 0, 7, and 14 after inoculation as well as 2 weeks after challenge.  Antibody levels increased greatly between days 0 and 28 (Barnoy et al., 2010).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4188">
+		<vaccine_name>Ty21a-O-Ps (Shigella dysenteriae )</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004703</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3225">A tandemly-linked rfb-rfp gene cassette was cloned into low copy plasmid pGB2 to create pSd1 (Xu et al., 2007).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1879" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3225">Groups of 10 mice were inoculated intraperitoneally with one or two 0.5 ml doses of either vaccine suspension or sterile PBS (Xu et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3225">Animal immunization studies showed that Ty21a (pSd1) induces protective immunity against high stringency challenge with virulent S. dysenteriae 1 strain 1617 (Xu et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3225">Immunized and control mice were challenged 5 weeks after immunization with a lethal dose of 7.5 × 10^5 cfu of the freshly grown, mid-log phase virulent S. dysenteriae 1 stxA-deleted strain (1617Δ stxA) in 0.5 ml of 5% hog gastric mucin (Sigma) in sterile PBS (Xu et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4186">
+		<vaccine_name>Typhi strain Ty21a-LPS-Shigella</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004701</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3223">Ty21a-Ss simultaneously expresses both homologous Ty21a and heterologous S. sonnei O-antigens (Dharmasena et al., 2013).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1878" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3223">Mice were immunized with vaccine candidate strains (Ty21a-Ss) or negative controls Ty21a alone and PBS (Dharmasena et al., 2013).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3223">Ty21a-Ss elicited strong dual anti-LPS serum immune responses and 100% protection in mice against a virulent S. sonnei challenge (Dharmasena et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3223">Immunized and control mice were challenged intraperitoneally, 2 weeks after final immunization, with ∼5 × 10^6 CFU/ml of freshly grown, mid-log-phase virulent S. sonnei strain 53GI in 0.25 ml (∼2 × 10^6 CFU per mouse) of 5% hog gastric mucin (Sigma) dissolved in sterile saline (i.e. approximately 100 times the 50% lethal infectious dose [LD50]) (Dharmasena et al., 2013).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene197">
+        <gene_name>AroA</gene_name>
+        <strain>Shigella flexneri 2a str. 2457T</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1077373</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>30062442</ncbi_protein_id>
+        <gene_locus_tag>S0967</gene_locus_tag>
+        <gene_refseq>NC_004741.1</gene_refseq>
+        <protein_refseq>NP_836613.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>620</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>945133</gene_start>
+        <gene_end>946416</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>3-phosphoshikimate 1-carboxyvinyltransferase</protein_name>
+        <protein_pi>5.14</protein_pi>
+        <protein_weight>46167.3</protein_weight>
+        <protein_length>427</protein_length>
+        <protein_note>catalyzes the formation of 5-O-(1-carboxyvinyl)-3-phosphoshikimate from phosphoenolpyruvate and 3-phosphoshikimate in tryptophan biosynthesis</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>GeneID|1077373 [Shigella flexneri 2a str. 2457T ] 945133..946416
+tacaacccatcgctcgtgtcgatggcactattaatctgcccggttccaagagcgtttctaaccgcgcttt
+attgcttgcggcattagcacacggcaaaacagtattaaccaatctgctggatagcgacgacgtgcgccat
+atgctgaatgcattaacagcgttagggttaagctatacgctttcagccgatcgtacgcgttgcgaaatta
+tcggtaacggcggtccattacacgcagaaggtgccctggagttgttcctcggtaacgccggaacggcaat
+gcgtccgctggcggcagctctttgtctggatagcaatgatattgtgctgaccggtgagccgcgtatgaaa
+gagcgcccgattggtcatctggtggatgcgctgcgcctgggcggggcgaagatcacttacctggaacaag
+aaaattatccgccgttgcgtttacagggcggctttactggcggcaacgttgacgttgatggctccgtttc
+cagccaattcctcaccgcactgttaatgactgcgcctcttgcgccggaagatacggtgattcgtattaaa
+ggcgatctggtttctaaaccttatatcgacatcacactcaatctgatgaagacgtttggtgttgaaattg
+aaaatcagcactatcaacaatttgtcgtaaaaggcgggcagtcttatcagtctccgggtacttatttggt
+cgaaggcgatgcatcttcggcttcttacttcctggcagcagcagcaatcaaaggcggcactgtaaaagtg
+accggtattggacgtaacagtatgcagggtgatattcgctttgctgatgtgctggaaaaaatgggcgcga
+ccatttgctggggcgatgattatatttcctgcacgcgtggtgaactgaacgctattgatatggatatgaa
+ccatattcctgatgcggcgatgaccattgccacggcggcgttatttgcaaaaggcaccaccacgctgcgc
+aatatctataactggcgtgttaaagagaccgatcgcctgtttgcgatggcaacagaactgcgtaaagtcg
+gcgcggaagtggaagaggggcacgattacattcgtatcactcctccggaaaaactgaactttgccgagat
+cgcgacatacaatgatcaccggatggcgatgtgtttctcgctggtggcgttgtcagatacaccagtgacg
+attcttgatcccaaatgcacggccaaaacatttccggattatttcgagcagctggcgcggattagccagg
+cagcctgaatgaacaacgggcaat</dna_sequence>
+        <protein_sequence>>gi|30062442|ref|NP_836613.1| 3-phosphoshikimate 1-carboxyvinyltransferase [Shigella flexneri 2a str. 2457T ]
+MESLTLQPIARVDGTINLPGSKSVSNRALLLAALAHGKTVLTNLLDSDDVRHMLNALTALGLSYTLSADR
+TRCEIIGNGGPLHAEGALELFLGNAGTAMRPLAAALCLDSNDIVLTGEPRMKERPIGHLVDALRLGGAKI
+TYLEQENYPPLRLQGGFTGGNVDVDGSVSSQFLTALLMTAPLAPEDTVIRIKGDLVSKPYIDITLNLMKT
+FGVEIENQHYQQFVVKGGQSYQSPGTYLVEGDASSASYFLAAAAIKGGTVKVTGIGRNSMQGDIRFADVL
+EKMGATICWGDDYISCTRGELNAIDMDMNHIPDAAMTIATAALFAKGTTTLRNIYNWRVKETDRLFAMAT
+ELRKVGAEVEEGHDYIRITPPEKLNFAEIATYNDHRMAMCFSLVALSDTPVTILDPKCTAKTFPDYFEQL
+ARISQAA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An aroA and virG mutant (CVD 1203) is attenuated in guinea pigs, as shown by the Sereny test.  Guinea pigs inoculated with CVD 1203 were also protected from challenge with wild type S. flexneri [Ref653:Noriega et al., 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene198">
+        <gene_name>AroD</gene_name>
+        <strain>Shigella flexneri 2a str. 2457T</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1078189</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>30063207</ncbi_protein_id>
+        <gene_locus_tag>S1855</gene_locus_tag>
+        <gene_refseq>NC_004741.1</gene_refseq>
+        <protein_refseq>NP_837378.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>620</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1794511</gene_start>
+        <gene_end>1795269</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>3-dehydroquinate dehydratase</protein_name>
+        <protein_pi>5.17</protein_pi>
+        <protein_weight>27517.5</protein_weight>
+        <protein_length>252</protein_length>
+        <protein_note>catalyzes the dehydration of 3-dehydroquinate to form 3-dehydroshikimate in aromatic amino acid biosynthesis</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>GeneID|1078189 [Shigella flexneri 2a str. 2457T ] 1794511..1795269
+tcgtcattggtgcgggcgcacctaaaatcatcgtctcgctgatggcgaaagatatcgcccgcgtgaaatc
+cgaagctctcgcctatcgtgaagcggactttgatattctggaatggcgtgtggaccactttgccgacctc
+tccaatgtggagtctgtcatggcggcggcaaaaattctccgtgaaaccatgccagaaaaaccgctgctgt
+ttaccttccgcagtgccaaagaaggcggcgagcaggcgatttccaccgaggcttatattgctctcaatcg
+tgcagccatcgacagcggcctggttgatatgatcgatctggagttatttaccggcgatgatcaggtcaaa
+gaaaccgtcgcctacgcccacgcgcatgatgtgaaagttgtcatgtccaaccatgacttccataaaacgc
+cggaagccgaagaaatcattgcccgtctgcgcaaaatgcagtccttcgacgccgatattcctaagattgc
+gctgatgccgcaaagtaccagcgatgtgctgacgttgcttgccgcgaccctggagatgcaggagcagtat
+gccgatcgtccaatcatcacgatgtcgatggcaaaaactggcgtaatttctcgtctggttggtgaagtat
+ttggctcggcggcaacttttggtgcggtaaaaaaagcctctgcgccagggcaaatctcggtaaatgattt
+gcgcacggtattaactattttacatcaggcataagcaataatatttcggcggaaatacc</dna_sequence>
+        <protein_sequence>>gi|30063207|ref|NP_837378.1| 3-dehydroquinate dehydratase [Shigella flexneri 2a str. 2457T ]
+MKTVTVKDLVIGAGAPKIIVSLMAKDIARVKSEALAYREADFDILEWRVDHFADLSNVESVMAAAKILRE
+TMPEKPLLFTFRSAKEGGEQAISTEAYIALNRAAIDSGLVDMIDLELFTGDDQVKETVAYAHAHDVKVVM
+SNHDFHKTPEAEEIIARLRKMQSFDADIPKIALMPQSTSDVLTLLAATLEMQEQYADRPIITMSMAKTGV
+ISRLVGEVFGSAATFGAVKKASAPGQISVNDLRTVLTILHQA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An aroD mutant is highly attenuated in monkeys and induces significant protection from challenge with wild type S. flexneri [Ref1675:Kärnell et al., 1993].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1072">
+        <gene_name>envZ</gene_name>
+        <strain>Shigella flexneri 5 str. 8401</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>4207729</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>110807236</ncbi_protein_id>
+        <gene_locus_tag>SFV_3409</gene_locus_tag>
+        <gene_refseq>CP000266</gene_refseq>
+        <protein_refseq>YP_690756</protein_refseq>
+        <pdb_id>2LFR</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>373384</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>3465716</gene_start>
+        <gene_end>3467068</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>osmolarity sensor protein</protein_name>
+        <protein_pi>6.81</protein_pi>
+        <protein_weight>46960.53</protein_weight>
+        <protein_length>450</protein_length>
+        <protein_note>Also known as ompBmembrane-localized osmosensor; histidine kinase; in high osmolarity EnvZ autophosphorylates itself and transfers phosphoryl group to OmpR</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|110804074:3465716-3467068 Shigella flexneri 5 str. 8401 chromosome, complete genome
+TTTACCCTTCTTTTGTCGTGCCCTGCGCCCGCGTTACCGGCACTGGCAGCCAGGCGCGAATGGAAAGCCC
+GCCCCGCTCGCTGGTGCCAAGCTCCAGCATCCCGTTATGGTTATCCACGATACGCTGCACAATTGCCAGC
+CCTAATCCCGTGCCGCTAATGGTGCGCGCACTGTCGCCGCGGACAAACGGCTGGAACAGGTGCTTACGTT
+GTTCCGGCGCAATTCCCGGACCGTCATCTTCCACCTGGAACCAGGCGCGATTCGGCTCCGTTCCGCTGCT
+GACTTTGATCCAGCCATTGCCATAACGGGCGGCGTTGACCACCATATTCGCCACCGCGCGTTTGATCGAC
+AGCGGGTGCATTTTCACTTCAATGCTGCCGGGGTAAAGCGCGGTTTCAATTTCCCGCTCATAGCCACTTT
+CGGCAGCAATCACCTCACCGAGCACTGCATTAAGATCCGCCATTTCCATCGGCATCTCCTGCCCGGTGCG
+CAGGTAGTCGATAAACTGCTCAATGATGGCGTTGCACTCTTCGATATCTTTATTGATCGATTCTGCCAGA
+TAGCCATCCTGCTCGCTCATCATCTCAGTCGCCAGGCGAATACGCGTCAGCGGCGTGCGCAAGTCGTGAC
+TTACCCCCGCCATCAGCAGCGTGCGGTCATCCGCCAGTTGCTTAACACCAGCCGCCATATGGTTAAAGGC
+ACGGGTAACGGAACGCACCTCCGAAGCGCCATATTCACGCAGCGGCGGCGGAATAATCCCTTTACCAACC
+TGCAAGGCTGCGTGTTCGAGATCGACCAACGGTCGGTTCTGGATACGAATAAACAGCCACGCCCCGCCTA
+TCGCCAATAGCATAATCGCCAGCGTATAGCGGAACAGCGGAGAGAAATCGCCCTGATGAATTTCGGTCAG
+CGGCACGCGTACCCAGATATTGGGCGACAGCCAGGTTTTCAGCCAGACGACAGGCGAACTTTTGTTGACC
+TCAACGCGCACTTCCGTCGGGCCGCCCAGTTGCTGTGCCATCTGATGGCTTAAGAATTCATAGTGTTGCG
+CCCAACGCAGACCTGCCTCTTCGGCAGCCTCGTTGGAGTAGAGAGAGATCCCCAGCTCACGGTAGATCTC
+CCGACGGAAAGCGGGAGGCACAACCAACTGCGTGCCGTCCTCCAGTTGCAGTTTGTCGGTCATCAACATA
+CGCACTTCGTACGCGAGGACTTTATTAAACTGCTGGAGGCTCGGCAAAATCGCGAAGTTCAGCACCACCA
+GATAAGTCGTCACCAGGCTGGCGAACAGCAAGGTGACGATGAGCAATAACGTACGGGCAAATGAACTTCG
+TGGCGAGAAGCGCAATCGCCTCA</dna_sequence>
+        <protein_sequence>>gi|110807236|ref|YP_690756.1| osmolarity sensor protein [Shigella flexneri 5 str. 8401]
+MRRLRFSPRSSFARTLLLIVTLLFASLVTTYLVVLNFAILPSLQQFNKVLAYEVRMLMTDKLQLEDGTQL
+VVPPAFRREIYRELGISLYSNEAAEEAGLRWAQHYEFLSHQMAQQLGGPTEVRVEVNKSSPVVWLKTWLS
+PNIWVRVPLTEIHQGDFSPLFRYTLAIMLLAIGGAWLFIRIQNRPLVDLEHAALQVGKGIIPPPLREYGA
+SEVRSVTRAFNHMAAGVKQLADDRTLLMAGVSHDLRTPLTRIRLATEMMSEQDGYLAESINKDIEECNAI
+IEQFIDYLRTGQEMPMEMADLNAVLGEVIAAESGYEREIETALYPGSIEVKMHPLSIKRAVANMVVNAAR
+YGNGWIKVSSGTEPNRAWFQVEDDGPGIAPEQRKHLFQPFVRGDSARTISGTGLGLAIVQRIVDNHNGML
+ELGTSERGGLSIRAWLPVPVTRAQGTTKEG</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An envZ mutant (SC433) is greatly decreased in virulence in macaque monkeys, though some mild clinical signs were still recorded.  This mutant is also highly protective against a challenge of wild type S. flexneri delivered 1 month after inoculation [Ref2051:Sansonetti et al., 1991].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene196">
+        <gene_name>GuaB</gene_name>
+        <strain>Shigella flexneri 5 str. 8401</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>4207514</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>110806439</ncbi_protein_id>
+        <gene_locus_tag>SFV_2555</gene_locus_tag>
+        <gene_refseq>CP000266</gene_refseq>
+        <protein_refseq>YP_689959</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>373384</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>2617798</gene_start>
+        <gene_end>2619270</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>inosine 5'-monophosphate dehydrogenase</protein_name>
+        <protein_pi>6.37</protein_pi>
+        <protein_weight>47489.31</protein_weight>
+        <protein_length>490</protein_length>
+        <protein_note>catalyzes the synthesis of xanthosine monophosphate by the NAD+ dependent oxidation of inosine monophosphate</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008258.1:2617798-2619270 Shigella flexneri 5 str. 8401, complete genome
+ATCAGGAGCCCAGACGGTAGTTCGGGGACTCTTTAGTAATGGTCACGTCGTGAACGTGGCTTTCCTGAAT
+GCCCGCACCGCTGATACGTACAAACTCCGCTTTAGTACGCAGTTCGTCGATAGTACCACAGCCGGTCAGA
+CCCATACAGGAGCGCAGGCCGCCCATCTGCTGGTGAATGATCTCTTTCAGGCGACCTTTATAAGCTACGC
+GACCTTCGATACCTTCCGGCACCAGTTTGTCGGCAGCGTTATCGCTCTGGAAATAACGGTCAGAGGAACC
+TTTGGACATCGCGCCCAGGGAACCCATACCACGGTAAGATTTATAAGAACGGCCCTGGTAGAGTTCGATT
+TCACCCGGAGATTCTTCAGTACCCGCCAGCATGGAACCTACCATCACCGCGCTTGCGCCAGCGGCGATAG
+CTTTGGCGATGTCGCCGGAGAAGCGAATACCACCATCTGCGATAACCGGAATACCGGTGCCTTCCAGGGC
+TTCAACTGCGTCAGCAACGGCAGTGATCTGCGGAACACCTACGCCAGTAACGATACGAGTCGTACAGATA
+GAACCAGGGCCGATACCGACTTTAACCGCGCTGCAACCAGCTTCTGCCAAAGCGCGTGCACCTGCAGCTG
+TTGCCACGTTGCCGCCGATGATTTGCAGATCCGGATATTTAGCACGGGTTTCACGGATACGCTGCAAAAC
+GCCTTCTGAGTGACCGTGGGAGGAGTCGATCAGCAGAACGTCAACGCCAGCGGCAACCAGCGCGTCAACA
+CGCTCTTCGTTACCCGCACCTGCGCCAACTGCAGCACCAACACGCAGACGGCCTTGCTCGTCTTTACAGG
+CGTTCGGTTTACGTTCCGCTTTCTGGAAGTCTTTCACGGTGATCATGCCGATCAGGTGGAATTCGTCATC
+AACCACCAGCGCTTTTTCAACGCGTTTTTCGTGCATTTTTGCCAGCACCACTTCACGGGCTTCACCTTCA
+CGCACGGTGACCAGACGCTCTTTCGGCGTCATGTAAACGCTAACCGGCTGGTTCAGGTCGGTAACAAAAC
+GCACGTCACGACCGGTGATAATACCCACCAGTTCGTTTTCTTCGGTAACGACCGGATAGCCCGCAAAACC
+GTTACGCTCGGTCAGTTCTTTCACTTCGCGCAGCGTCGTGGTTGGCAGAACAGTCTGCGGATCAGTCACC
+ACACCAGATTCGTGTTTTTTCACACGGCGAACTTCTTCTGCCTGGCGTTCAATGGACATGTTTTTGTGGA
+TAAAGCCGATACCGCCTTCCTGAGCCAGAGCAATAGCCAGGCGCGCTTCCGTTACGGTATCCATTGCTGC
+GGAAAGCATAGGGATATTCAGACGAATAGTTTTCGTCAGCTGGGTGCTGAGGTCAGCAGTATTCGGCAGA
+ACGGTAGAATGAGCAGGAACGAGGAGAACGTCGTCAAACGTCAGAGCTTCTTTAGCGATACGTAGCATGG
+GCA
+
+</dna_sequence>
+        <protein_sequence>>YP_689959.1 inosine 5'-monophosphate dehydrogenase [Shigella flexneri 5 str. 8401]
+MPMLRIAKEALTFDDVLLVPAHSTVLPNTADLSTQLTKTIRLNIPMLSAAMDTVTEARLAIALAQEGGIG
+FIHKNMSIERQAEEVRRVKKHESGVVTDPQTVLPTTTLREVKELTERNGFAGYPVVTEENELVGIITGRD
+VRFVTDLNQPVSVYMTPKERLVTVREGEAREVVLAKMHEKRVEKALVVDDEFHLIGMITVKDFQKAERKP
+NACKDEQGRLRVGAAVGAGAGNEERVDALVAAGVDVLLIDSSHGHSEGVLQRIRETRAKYPDLQIIGGNV
+ATAAGARALAEAGCSAVKVGIGPGSICTTRIVTGVGVPQITAVADAVEALEGTGIPVIADGGIRFSGDIA
+KAIAAGASAVMVGSMLAGTEESPGEIELYQGRSYKSYRGMGSLGAMSKGSSDRYFQSDNAADKLVPEGIE
+GRVAYKGRLKEIIHQQMGGLRSCMGLTGCGTIDELRTKAEFVRISGAGIQESHVHDVTITKESPNYRLGS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene193">
+        <gene_name>IcsA/VirG</gene_name>
+        <strain>Shigella flexneri 2a str. 301</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1238021</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>31983529</ncbi_protein_id>
+        <gene_locus_tag>CP0182</gene_locus_tag>
+        <gene_refseq>NC_004851.1</gene_refseq>
+        <protein_refseq>NP_858315.1</protein_refseq>
+        <pdb_id>3ML3</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>pCP301</plasmid>
+        <gene_start>149644</gene_start>
+        <gene_end>152952</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>IcsA (VirG), outermembrane protein exposed to the bacterial surface by a C-terminal autotransporter domain and involved in the movement of intracellular bacteria by binding to N-WASP</protein_name>
+        <protein_pi>5.31</protein_pi>
+        <protein_weight>116243.6</protein_weight>
+        <protein_length>1102</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>GeneID|1238021 [Shigella flexneri 2a str. 301 ] 149644..152952
+tcaccagacgctgcagttcagcattacgttcaacttcagctcgcaaggccaacaggtcataagccgcacg
+gaacttaggatgctccagcagtttccatgcgcgtttaccctgacgacgggacatacgcaactgcaactgc
+cagatatcgcgggttaacgtcgtcagacgtttcgggattgccagtgaacggcaggcttcgtccagcacgt
+cgttcatcgccagcgcgaaagcgtcgtgataggtcaggccgctttcctgggcgatcttctgtgccgtctc
+cagcagtgggtaccagaacatggcggcaaacaagaacgccgggttcacgcgcatatcgttatggatacgc
+gtatcggtattcttcagcacctgttcaatgatccgctccatcgggctgtcgccattttccgtgaagtagc
+gggtaatggtcgggaacagcggctggaacagatgatattcacacaacagcttataggtttcgtaaccgta
+gcccgcttgtagcagtttaagcgattcttcaaacaggcgtgccggtgggatatcgttcagcagggtagcg
+aggcgagggatcggttctgcggtttccgggctgatgcgcatacccaatttggcggcaaaacgtaccgcgc
+gcagcatacgtaccggatcttcacggtagcgcgtttccgggttaccaatcagacggataacgccgtcctt
+cagatccttcataccaccaacgtaatcacggacggtaaaatccgctacgctgtaatacaggctgttgata
+gtgaaatcgcggcgctgggcgtcttcttcgatggagccgaaaatgttgtcgcgcagcaacatgccgtttt
+gcccgcgttgggaggtcgtgcggtcgctgacgttaccttcgtggtgtccacggaaggtcgcaacttcgat
+aatctccgggccaaacattacatgagccagacggaaacggcgacccaccaggcggcagttacggaacagt
+ttgcgcacctgctcaggcgtggcgttagtggttacgtcaaaatctttcggctttttgccaagtaacaggt
+cgcgcacgccgccgccaaccagccaggcttcgtatcccgctttgttgagcctgtacattaccttcagggc
+attttcactgatatctttgcgggaaatagcatgctgctcacgcgggatcaccgtcacctgtggacgggcg
+actgcctgttcagcctcgctttcctcgcggcttagcaccttgcggcaaaaattagcgactcgggtaaaaa
+tagtacacctcggtagtgtcaaacatcattcaggacaaaaaaatagcggctaatcatagctcagcatgac
+gcatttgagaatgttgaatttacaattgccgactcgggcacggcggtcagcatccagtttttgacggctg
+actgaaggatttgctcgacgctgaaatcctgccagtgtgcttctgcctgctgccccagaaattgaagtgc
+cgcgattagtaccgggcgtggatcgcctttcggcaacgcaggcgcatgattctgcttggaaagtttagcg
+ccttgtggattaagcgccagcggcagatgaatgtaatctggcactttccagccaaaaagctggtacagcg
+ggatttgccttactgttggttcaatcagatcagccccacgcactatttctgtaacgccctggaaatgatc
+atcaaccacaacagccaggttgtaggcgaacaacccatcacggcgatgaatgataaaatcttcccgtgcc
+agtttttcgtcggcgtgaataatgcctcgcagcaggtcagtaaattgcgtgaccggatgctgctggcgga
+tacgcactgcggcgttgtctggtccatgatgcaacacccggcaatgaccgtcgtaaataccgccaatgct
+ttgaatacgcgcacgcgtacaggtgcagtaataacttagtccttgttcatgtaaccaggcgagtgcttca
+cgataggcgtcgtgacgttgcgattgccagagaacatcgccgtcccagtgcagaccgtaatgttccagct
+ggcgcaggatagtttctgcggcaccgggaacttcacgaggcgggtcgatatcttctatgcgtaccagcca
+gcgaccttgccgggcgcgagcctgcaaatagctgccgagcgcggcgatcagagagccaaaatgaagctcg
+ccggaaggagagggggcgaagcggccaatatactgtgtgtctgtcatctctttgaacaaaaaataaggcg
+ggagcatttcccgcctgtggtaaacgtgatggaacggctgtaattagccagccatctgtttttcgcgaat
+ttcagccagcgttttgcagtcgatgcacagatcggctgtcgggcgcgcttccagacggcgaataccaatt
+tcaacaccgcaggattcgcagtagccgaaatcttcgtcttccacttttttcagcgtcttctcgatctttt
+tgatcagcttacgctcgcgatcgcggttacgcagttcgaggctgaactcttcttcctgggctgcacggtc
+taccgggtccgggaagttggctgcttcatcctgcatatgtgtaacggtgcgatcgacttcatccctgagt
+tgattacgccatgcttccagaatacgacggaagtgcgccagctgggcttcattcatatactcttcgcccg
+gcttctcctgatatggttccaccccagcgatggcgagaatactcagggacgatgttttacggttttgccc
+ttcttgcatgttgcttctccttaacacgcactatcgatccccatgttcgggggaaaaatgaggccgctat
+aaatagcagatgcttttccggatagcaattatctaaacgtaacacttgacaactgtgtgaggaaaagcgt
+atttgcgcacgcgaccagaatgtaaattaaccagttacttactttactacaatgtaaccggcagtgattt
+tttaagagccatgccttcagcagaaatttccgctttgtaagccagaatttctacccccctctgttgagct
+tctgacaatagttgcgcgtatttctcatcgatgtggcgcgcgggtgaaaaccgtgtaatggctgaatgca
+gcacggcgaaaaaaataaccgcacgctggccttcagccgctacgctcatcaactcccgaaggtgtttctg
+acctcgttcagtgaccgcatcgggaaaatatccctgttcgttctccgctaacgtaaccgatttcacttca
+atatagcagtctggacgcgaatccgcctgcaacataaagtcaatacggctgcgttcggagccgtatttta
+cttcgcttttcagcgagct</dna_sequence>
+        <protein_sequence>>gi|31983529|ref|NP_858315.1| IcsA (VirG), outermembrane protein exposed to the bacterial surface by a C-terminal autotransporter domain and involved in the movement of intracellular bacteria by binding to N-WASP [Shigella flexneri 2a str. 301 ]
+MNQIHKFFCNMTQCSQGGAGELPTVKEKTCKLSFSPFVVGASLLLGGPIAFATPLSGTQELHFSEDNYEK
+LLTPVDGLSPLGAGEDGMDAWYITSSNPSHASRTKLRINSDIMISAGHGGAGDNNDGNSCGGNGGDSITG
+SDLSIINQGMILGGSGGSGADHNGDGGEAVTGDNLFIINGEIISGGHGGDSYSDSDGGNGGDAVTGVNLP
+IINKGTISGGNGGNNYGEGDGGNGGDAITGSSLSVINKGTFAGGNGGAAYGYGYDGYGGNAITGDNLSVI
+NNGAILGGNGGHWGDAINGSNMTIANSGYIISGKEDDGTQNVAGNAIHITGGNNSLILHEGSVITGDVQV
+NNSSILKIINNDYTGTTPTIEGDLCAGDCTTVSLSGNKFTVSGDVSFGENSSLNLAGISSLEASGNMSFG
+NNVKVEAIINNWAQKDYKLLSADKGITGFSVSNISIINPLLTTGAIDYTKSYISDQNKLIYGLSWNDTDG
+DSHGEFNLKENAELTVSTILADNLSHHNINSWDGKSLTKSGEGTLILAEKNTYSGFTNINAGILKMGTVE
+AMTRTAGVIVNKGATLNFSGMNQTVNTLLNSGTVLINNINAPFLPDPVIVTGNMTLEKNGHVILNNSSSN
+VGQTYVQKGNWHGKGGILSLGAVLGNDNSKTDRLEIAGHASGITYVAVTNEGGSGDKTLEGVQIISTDSS
+DKNAFIQKGRIVAGSYDYRLKQGTVSGLNTNKWYLTSQMDNQESKQMSNQESTQMSSRRASSQLVSSLNL
+GEGSIHTWRPEAGSYIANLIAMNTMFSPSLYDRHGSTIVDPTTGQLSETTMWIRTVGGHNEHNLADRQLK
+TTANRMVYQIGGDILKTNFTDHDGLHVGIMGAYGYQDSKTHNKYTSYSSRGTVSGYTAGLYSSWFQDEKE
+RTGLYMDAWLQYSWFNNTVKGDGLTGEKYSSKGITGALEAGYIYPTIRWTAHNNIDNALYLNPQVQITRH
+GVKANDYIEHNGTMVTSSGGNNIQAKLGLRTSLISQSCIDKETLRKFEPFLEVNWKWSSKQYGVIMNGMS
+NHQIGNRNVIELKTGVGGRLADNLSIWGNVSQQLGNNSYRDTQGILGVKYTF</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An aroA and virG mutant (CVD 1203) is attenuated in guinea pigs, as shown by the Sereny test. Guinea pigs inoculated with CVD 1203 were also protected from challenge with wild type S. flexneri [Ref653:Noriega et al., 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1172">
+        <gene_name>IgA</gene_name>
+        <strain>Cavia porcellus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1174">
+        <gene_name>IgA</gene_name>
+        <strain>Homo sapiens</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>2632187</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:209398
+CDD:197704</xrefs>
+        <taxonomy_id>9606</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IgA</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>131</protein_length>
+        <protein_note>Immunoglobulin domain; cl11960</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|2632187|emb|CAA10818.1| IgA [Homo sapiens]
+LQQWGAGLLKPSETLSLTCAVYGGSFSGYYWSWIRQPPGKGLEWIGEINHSGSTNYNPSLKSRVTISVDT
+SKNQFSLKLSSVTAADTAVYYCASRVGYCSSTSCYTFDYWGQGTLVTVSSASPTSPKVFPL</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1173">
+        <gene_name>IgG</gene_name>
+        <strain>Homo sapiens</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>185362</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:143182
+CDD:197704
+CDD:143186
+CDD:209398</xrefs>
+        <taxonomy_id>9606</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IgG</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>476</protein_length>
+        <protein_note>putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|185362|gb|AAA02914.1| IgG [Homo sapiens]
+MDWTWRFLFVVAAATGVQSQMQVVQSGAEVKKPGSSVTVSCKASGGTFSNYAISWVRQAPGQGLEWMGGI
+IPLFGTPTYSQNFQGRVTITADKSTSTAHMELISLRSEDTAVYYCATDRYRQANFDRARVGWFDPWGQGT
+LVTVSSASTKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLYS
+LSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGPSVFLFPPKPKDTL
+MISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTYRVVSVLTVLHQDWLNGKEYKC
+KVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNY
+KTTPPVLDSDGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1171">
+        <gene_name>IgG Fc receptor II</gene_name>
+        <strain>Cavia porcellus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>100192391</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>290543543</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>NP_001166520</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10141</taxonomy_id>
+        <chromosome>Un</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>11272753</gene_start>
+        <gene_end>11287230</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>Fc-gamma-1/gamma-2 receptor</protein_name>
+        <protein_pi>6.44</protein_pi>
+        <protein_weight>34213.92</protein_weight>
+        <protein_length>341</protein_length>
+        <protein_note>Also known as FCGR2; FcRII</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|347623371:11272753-11287230 Cavia porcellus strain inbred line 2N unplaced genomic scaffold, Cavpor3.0 supercont2_56, whole genome shotgun sequence
+ATTTGGTTGTTTTCTGGGTGGAGAGAAGCTGCATACTGTAGGAGTCAGCTTGCTGCAGAAGTGATGGCGA
+TCCCTTCGTTCTTACCTGTCCTTGGCACCAAGAGTCACCGAGCTGACTATAAGCCCTTGCAGACTTTGAG
+CCACATGCTGCTGTGGATAACTGTGCTATTCCTGGGTGAGTTGAGGGCCTGAGTAGGGAGGCAGGAGCAG
+GAATACCTGGGTTGAGGCTGATCTTGGGCAGGGATAAGGGTGGCCTAAGAAGCGTGTTGGAAAAATTAGG
+AGTATGGAGGCTGCGTGTTGCAGGTCTGACAACCTACTGGCTTTAGTTAGTAAAGCAAAGTTGGAGGAGT
+GGTTTCTTAACTTACTCGGTTTTAATGAGCACATAGTCTCTGATCCTCTGCCACTGCGTGTATCAGAACC
+TGCTCTGGGGGAAGTTTAATGATTCAACTTAAGTGACAAATGTGTGGCCAAACTATTTCCCTTTGACTCT
+ATTTCACATGAAACCACATCTTAGGCAAGAGAGGCAGTGCTGCTTTAGACAAGGCATGGAGAGGAGCTCT
+AAGATGCATTCTGGGGAGAAGAGCAATTGCTCCTCTCTGTGCTGCTGAAGCCACTTCATGTAGCAGAAGC
+CGGTTCTTTTTGCCCATAAAGAAATTTCCCTGAGAGGAACCACAGGGAACCGGGGCAAGGAGGACCCAAA
+AACATGGGCAGTTTTGGAATTGTCATTTATGGGACCAGAGAAATCATACATGCTTCCTTTCACTGCAGAA
+AGCATGGGCTGGGTCCTGGCACTGATCAGTGAGAAGGTCATTGTTTTAAGCCAAGATAGAGGAGTCTTTT
+CTGATCAGGATCTTTGCTATGAGCAGGGGACAGAAATTAATAGTGCTGTATATTTGAAAGAGGCTGTAGG
+GAGACCTGCAGGCAAGATTTTCCTCCAGTTGTGTTCCTGGGGGTTCCACTGTCACCTCTCACAGGAAGAC
+ACAACAGTCACTCTCCAAGTCACTTGCCCTAACTGACAGCATGCCTGGACACTTTGGGAGCCCTCAGTCC
+TCAATGTTGGATGATGGGGGCCTACAGGAGGCAGGAGTAAGGAAGAGAGTAGCTCCCCATAAAAGTATAA
+CAGTATAGAGTGAACACCAAACTACCTCATTTTTCCCATGGGTGAGCTCAGCCCTAGAGGGGTGATGTCT
+TTGCTTTTTGCATTAATAGCACTTCCAATGTGTTGGGTACCTGAGCAAGAATCCTCAGAAAGACTTTTCT
+TTTCTTCCATTTTCCTTTTGCTAAACTGCCAAGGATCTCCATCTTTTTAGGGGTTCCAGGTTAGGTTTTT
+AACCCGTGATGACTCATTTTTATAATGTTCTCTGATTGTGCCTTCATTGCTCCTGTCTCTGCTCTCCTGG
+ATTCCTGCTACAGGCTAAGGCCACGGAATCTCCAAGTATAGCTGTGGCTGAGTCACTGAACTTTAGTGTT
+GGTCACTGCCTACTGAAAAAGCTCCATTTCTACCCTCGTATGGGTGCGTGTCCCCACTGCACCCCAAATG
+GTTATTTCTTTATAGCCAGGCAGCGTGTATGCTGCACCTTGTTTTCAACACCTTTGTGATTCTCCAGTTG
+CTTTGTTTAAAACTGCTATGAGTTCTATGTATCAGGTACTCTTCAGGGACCTGGGGGCTTATCCCTGAAC
+TCAGCAGACAGTTTTCCTGACCCAAAGTACAAGGTCTTTGGTCCCTTTCACAAGGAATACAGAGTGTGAT
+TTAGTTAATTTCCACTACTTGTTTGTTGAATATGGAATAAAGACCTGATTGCTGGCTTTTCCCTTCTTCT
+CTGATCTCTTTCTTGTATTTTTTATTCCTCCTCCCCCCTTTTATCTACTCTTCCACTGCATTGTCCTCTT
+TGCTGATGCTACATACTCAGGTCTGTGATTATCATTTCTGTGTCAGTAACTCTTCAGATCTATTTGTCTT
+GCTCACTTGTATATAATTTCATAGTTCTACCTCCTGACTGGATATCACCAAGTAAATTTGCCAGTTTAGA
+AGCAAAATATATTTAAAATTCAACTTATCCTCTTCCTCTTACAAGTGTTATTCTTCTAAGATTTATACTT
+GCTTGAGCACACCTACCCTTTTCCTGGTCATACACTTACATCACCTCTATATTCCAATCAGTGCCCGATC
+CTCTGAGTTCTATCTTTTAAATTTCTCTCACATCGATGTTCTCTTCTCTTCCTCCTGTCAATACAGCTGA
+CCAAGTGAAAGCATGGAGATTGCAGGTGCATTTGATAGAAACAGAGAATGGCAAGGGAGGTTAGGGGCAT
+TTGCAGTGAGGTGGTTTCAGTACAAATCATCAAAACCAAGCTTCATAGTGAGGGAGGTAAAGACAAGCAT
+GGGATGAAGGATACAAGGGGAAAGGACAAAAGCTTTCAGATTTTTTTCAGTACTGTGAATCGAACCTGAG
+ACCTGCACACTGAGTTACATCCTTATTCATTTTTAAATTTTTAAATTTTGACACAGTCTCACTAGGTCAC
+TAAGCTGTCCAGGCTGGGCTCCAGTTTGCAAGCCTCCTGCCTCAGCCTCCCAGAATGCTGGGATTATAAG
+CATGCTTTGCCATACTCTGCTCAGTTTTGGGATTCTTGATGAGGTGAAAGCTGATTATGGTGTTTGCACT
+TGACCAGAGAGAATGGAAGTTAAAGAGGTTGTAAGTGGAGCATGAAATGTTCAATGTGGTGGCACAGGCC
+TGTAATCTCAGCACTTCGGAGGCTGAGGCGAGAGAATCAACATGGTTCAAGGCCAATCTGGGCTACATAG
+TGAGACCTTGTTTCAAGAAAAGAGAGAGAGAGGGAGAAATGTTTGATTTTGTGATTTGACATCAGTATGG
+TTTCTGCAATGATGAAGTCTTGCATAAAAGATGAGTGTGTGTGGTTAAAATGTGTGAAAGGAAGAGATAA
+GTACATTGAGCCTGATGCTGAAATTGTCATCCACATGTGTTTCAGATAACTATAGTCATCTCTTTCCTGA
+GAAGTCTCTTGGATAGTTCCCTTTTCCAATTTATCTGACCTGATGCTTTCAGCTATACTTTGGACATTGT
+GACATCCCACTATACACTGAACTATAGGTCAAACTTTAAAATTGCCTTATATTTATTTTATCGTGGGTCA
+GATAAGGTACTGAATACCTTCCTGAGTCATTTCATCCTTACTCTGTAAAGTAGGCACTGCTATCAATATT
+TCCATTTATAATCAGGGAACTAAAACAGGCGTAGAAGATTTGTGTAGGTCACTTAGCAAGCGTGAGGCGA
+ATATTCAGACTCAGTCTGGACTCTTACCCTCTGTCATGTTAACTTAGCATTGGGACTTCCCTTTTTAGTC
+TTTTTCTCATTCTTAGAGTCACTTTTGCGGAGACCCCAAAGCAAGCAGCAAGTGGGCTCAACTCACTAGG
+CATGTTGAGAAGTAACTGTGCGCTCACTGCAGACACCTTCTTCACTCTTACATCACCTCTATATTCCAAT
+CAGTGCCCGATCCTCTGAGTTCTATCTGATCACTCCCAGCACTCGGGAGGCTGAGGCAGCAAGGACTGCC
+ACGAGTTTGAGGCCAGCATGGGCAACATAAGTGAATTCAAGATCAGCCTGCACTCCACAGTGAGACTATC
+TCCAAAACACAAAGATCAACAGCAGCAGCAACAACCACAAAACAAAATCCTATCACTTTTTGGAGGTCCC
+TGAGGAATACTACCTTTTCCACAAGGTTTCCTTCCTTACCAATCCTAAACCCTACCAAACACAGAGCCCT
+AGGACCTTCCCTTCCTCTGAACCCCCTTAGCTCTTTGTTCATACTCCTCCAAGGCCACCAGAGACATGTC
+TTTGATGGTAAATTATATAGATGCTATTTCCACTATTAGAATGTTGCCTACAGTGGGGGCAGAAGCTCAA
+ATTCTTTTCCTTCAAGAACTCAGGAGGAGCTACAAGACTTAGAGGAAGTCAGTGAAGTCAGTGCAGGTTT
+GTTGATAAACTCTGAGTTGCAAAAGAATGAAGTGATCCATATGTATATATATATATATGGACCAGAATCT
+AGTTCTCTGAACCCCAGTACAACACTTTCTGCAGTGCCCCCCAACCCTTGTTTCTGCTTCAATTGCTTTC
+CCTATTTTACCCTTGAAAAGATAGACATATATGGATCTTCTTGACTTTCAGCCCAAATATAAGAGAAAAT
+CCCTACTGATGATGGTCATGTATACATACTCATAGCTGTGTGTGCACACAGACACAAGACTCTAACTCAT
+GCTGCTTTGGTTTTTTACCCAGCAATGCTACCTGCAAACCTTTACCCTTCCATTCAGCTCTCCTAACCCT
+TCCTGACCTGCACTCTGCCTCCACTCAGGATCCCTTCCCCTCACTCTCTCATTCCACTCCTCCACATGAA
+GCCACAGATCTGTTGTCCTTTTTACATTCTCCTTCTCTTTTGAGATTTGCCTAATAGCAAAAATCTAGAA
+GACCTAAGTATCAAGCAATAGGGATATATAATAAATCACTGGAGACTCAAATAGTAGAGTGCAGTCATTA
+AAGATTAAAACATAGCTGGGCACAGTGGTGCAAGCCTATCATTTCAGTTCTCTTGGTGGTTAAGGCAGGA
+GGATCACAAATTCTAGTCTAACTTGGTCAATTTAGTAACCTAGTGAGACCCTGTCTCAAAAAAAAAAAAA
+AGCACTGGAAATAGAGCTCAGTACAATTCAATACACAGGACCAACAATCAATAAATCAATCATATAGAAA
+TACATTAATCTGCTGGGTCTGAAAAATCAGATTAGAAAACACTTTTTCTAGGGTAGTTTAATCTGCTATA
+TACACATATCTGTATATATATAATCAACATGTCAGATGGCATATATAATCTGTATGTAGACTATATATAT
+ATATATGAAGAAAATGTAGCAAGATATATATCAAGACAATACTTCTGGCATGCGTATCTTCTATTCTATG
+TTGATCCTAGGTTACTTGTGAAATCTCTATCTCTCCCCACAAAAGAACAGATCTCACTCTCTGGACAGAC
+CGACAAAGTTATTTACATACATATGGCCCAACAGAGAACTTTCCAAAGCCATTTTAGTCAGTCAGAAGTG
+TGAAGTCCTTCCCAAAAGGAAGACCATTTTATGTGATTTCATTACATTTTCTTCTGCTATTGAGGAAGAA
+ACACTCAGAACTTTTGAAAAGGCACTTCATGGGGGCAGTCCGGGGATGGCCTGGGCAAGAGTTGGTGGAG
+AGGGGGCTCTGGATCTGGTCAGGCTCTTCTCAGGAAAGATGCTCAGGCCCTTGATGACCTTTGCTTTCTT
+TCTTACAGCTCCTGTTGCTGGGACCTCTGGTAAGTTCACTGCCTATTTCCTCTCCATCCCCAGCTCCCTC
+TGTGCTTCTCCCAGTACCCCATTTAGAGATGCTCTGATAGCACTGCAGCCAAGCTCTGTACCAGGAAAGC
+TCTGTCAGGGCCAGGAAAGGGTCGCCACTCTCAGAAGATGCCCTGCCCACCCCTCCCCTACCCCTATGCA
+TACAGGCAGTGGACAGCGTGGTCCACAGGTGTTTCAGCCTTCTGGTTCTGTTATGGTGACATGTTGCAGT
+GTCATAGAAAATGAGAATTCTGCTCTCTTTCAACTGATTTGCACTCTCAAAATCAAGAACTTTGAAAAAA
+TTGATCTCAAAGAAGTAGAATAGTAGTTAATAGAGCTTGCAAGTGGTAGGGGAGGCTGGAGAGAGGATTT
+TTAGTGGGTTCAGGGATATAGCTGGATAGGAAGAAAAACTTCTAGTCTTCTGTAGCACAGAAGGGTAACT
+ATGGTAGACAGCAATTAATAGGTTATTTCAAAATAGCTAGTAGAGAGAATATTTTCTTTTTTGTTGATAG
+ATGTGATATGACTAATTATATTCATTTTGAGGAATAAATATAGAGATAGCATTCTTTTTGATACTCTTAG
+TAGAGACAATTTTGAATGTTCTCAAGCAAATAAATGACACACATTTGTAATGTATGGTAGATAGACAACT
+ATTTTGATCTGATTTTTATAAATTGTATATATGTTAAAGAATTATATGTACCCCATAAATATGTACAGGA
+ATTACACATCAGAGTTTTTTTTAACTTCGCTAGAGAAAAACAAGGGCTTCTTTCCAAGTAAAATCAAAGC
+GCATGTAAAATCACGGGATCTGTGCAGACTGTTGTATGTGTTGACAAATTCCTGCTTTGCATGGATCCAA
+AGGTTCATGGATCCAAGTCCTGTCTCTCTGAGAGGCAGAGCTGTCTTCATATGTTTGGTTGCAGCAAAGT
+GGACTGAGATTTGTTGGGCACTTCTTTGTCTGTCCTCTGGGCCTCTCACCAACCCCCAGGGCTGACTCTG
+GAGGCTCCTATGGGCTTGGGAGTGAGGACTGGTGATCCTGACTGCCTTTCTAAGGGATAAAGAATGACAT
+AGATCAGAGCAGAAACTGATGTCTGACTCTCGGGGCCCACATGTCAGGCAGATGCTGTCACTTGACTTCA
+GCCAGCTCTTGAAACAGTTTATCCAACCACTGTTCAGATGCCTTGGTTTACAAGGAAGGAAAGTGAGTCC
+CGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAAAGGGAAAGAAAGAG
+AGAGAGAGAGAGAGAGAGAGAGAGACAGAGAGACAGAGAGACAGAGAGACAGAGAGACAGAGAGACAGAG
+ACAGAGACAAAGAGAGACAGAGACAGAGGCTCAGAGAGATGCGGGACACACATACAGAGAAGGCTGGGCT
+ATTTCCTGGTAAGGTAGGATATTTCTAGGGAGTTTCCTTGCCACTCTTCCCCCATCTCTTGTCTTAATCC
+CAGAGTATGTCCTTGACTCCTGTGGTTGGCTTCAGCTGCAGAAGCTTTCTGGACCTGGTTTCACTCTTGG
+TACCCATAATGTGAACACAGATGCATCGTTGTCTGAGTTTTAGGGCCTGCTTCAATACCTGGGGCTCCCC
+TTCCTCATGCTGCCTCTGCTCTCTGCCTCTCAGCAGACCCCCCGAAGGCTGTGGTGAGACTGGAGCCCCC
+ATGGATCCAGGTGCTCCGGGGAGACCGCGTGACTCTGACCTGCGAGGGTGCCCCCAGCCCTGGGAACCAC
+TCCACCCAGTGGCTCCACAACGGGAGACTCATCCCTACCCAGGTCCTGCCCAGCTACCGGTTCACTGCCA
+AGGGCAATGACAGCGGAGAGTACAGGTGCCAGGCGGGCGGGACCAGTCTCAGCGACCCTGTGCGTCTGGA
+CGTGATTTCTGGTCAGTAGGGCTGGAGAGGCTGGGAGGCCCAGGAGAGGGGAGTCTGCTGATACTGCAGA
+TGATGGGAGGAAAGGAGGCTGCCTTGATTTCTGGGAAGCACCAGCGTGACTTGCTTGAAGTAATTTTTGC
+GCACTCATTTCCCTTTCCACCCACTCTTTGGCTTTATATGTGTGGATGGGGGTACGTTTCCTAAGAAGTT
+TCTCAGCATGTATGAGTAATTGTTTTTGTCTCTCTCCTGCTTGAGCAGGAAGGTTCCAAGGCCACTGACA
+GGCAACTGGGTATGAGAGAAGCAGAAAGGGGTCTCTGTTTCATAAAAACCCTTTCATTGTCAAGCCAGGC
+ATGATGACACATCTGTAATCCCAGCATTCAGGGAGGCTAAGGCAGAAGGGTTACAAATTTGAGTCAGGCT
+TTGCAATTTATCAGTTGAGACAGATCCTGTCTCAGAATAGAAACTAATTAAAAGGCTCTGGATGTAGCCC
+AATGCGATGGCTCAAGGTTCAATACCCCCCACCACCAAAACACGCAACCATAAATAGACCACAATTTAAT
+AATCCTAAACCTAGAAATAACCACCTGTATAAACATAATCAGTTTATTAATCCTTAGGTCTAAGTTTCCC
+CACCTGTTCAACAGAGTTACTAATGTTGCCTTCATAGGGCTTGGGGAGAGCTGGCTCTTCCCTGATCTCC
+AGCCTCCTTTTCCTACTGGTCTTCATTTTTCTCTCCCTCCAGCACATGGGCAACTTAAAAAGAAAACTGG
+GTCCTATCCATCTCTGCATTTCCCACATCTGGGACAGGGAAGGGCTTAGTATGTGTTTGCCAAATAGATC
+AATGATTTTATAAAGCTCCTGGCAGGAAGTAGTTTCCATAATCATTTTCAGATGAAGAAGAGCCATCATC
+TGGCTAAGTTTATTGTTACTTTTACTCTTTTCTTGGTCCCATCCCTCACTTGATTCTCAAATTTTCCTTA
+AAAGTATACATCTTAGCCAGGTGTGGTGGCATTCATTTGTAACCCCTGCACTTGGGAGGAAGAAGCAGGA
+GGATCACTGAATTCAAGGCCAGTATGGGCTACAGAGTGAATTCAAACCCTTCTGTAACTACATGGTGAGA
+ACCTGTCTCAAAGAAAAAAGTGTACAGTAATTTGTGACACTGCTGCCTTCAGACAAAGTCCCTGTTGACC
+AGAAGCTCCCCATTTATTCATCAGTATACCAACATCTGTTAGAGTTATAAAACCTTCTATTATCGCCAAA
+ACATGTCTCTGCTTCACCTGTACCCTCTTCAGTCCCACTGGGACTCAGTCCCAAGGAAGAGATTCTATCT
+TAGGGTCTCTTGCATATATACTAACAGGACAGGGATGCAACTACCTTCTCTCAGAAAAGGAAAGAGAAGA
+TGAGTATCCTAACACTCGCTGTATGCCAGGAACTGTTGTAGAGTCCTGGTATTATCATGTTTATTTTAAA
+GATGAGGAAACTGTGGCACAGACAGTTAAATTATTACCCCAAGATTATAGAGCTCATAGATGAATGGAGC
+CAGAATTAGAGATCAAGAGTATCTGATTCCAAACTTAGATCCTACCCCCTGCACATTGTGTTCCACTAGA
+TAGGATAGTCTCAGAGTTGAGTCAAGGCCTCCTGGATCTTGTGGCTCTTGTGTCTTTCAGACTGGCTGGT
+GCTCCAGACTTCTCAACTGATTTTCCAGGAGGGGGACGTCATCGTGCTGCGGTGCCACAGCTGGAATAAC
+TGGCCTTTGGCCAAGGTCACATTCTACCACAATGGGGTAGCCAAGAAATATTTCTCTATCAGTAAAAATT
+TCTCCATCCCACAAGCAAACCACAGTCACAGTGGTGCTTACAACTGCACGGGATTAATAGGAAGGACATC
+TCACACATCACCGCCTGTGACCATCACTGTCCAAGGTACAGGAACTCTGTCAAGATGTAAAGATAAGAGA
+AGAGATAATGGACAAGGGTTGAGGTCCTGTAGGCCTGTAAGGAGATCTGAGAAATGCCACACAGCACTGG
+GGCTGAGGAGAGTTTTTGAAGCTTTGCCCAGTGTTGGCCAGTGGGCAGGAGTAGGGACCAGAGCTCACAG
+ACATCCACCTCTAGGTATAGGGGACAAGGCTGTGGCCTCATTCTGTGCATAGTAGTAAAGCAGAGCAGCC
+TCGTTGGCCCACAGCTTTCCTAAGCTCCTAGAATTCTTGAGTGCTGAGGGTGCTGTGTTTCTTCTCCTGT
+CTCATGGTATGGCCATTTACTCCTGGGGCCTGGTGAGTGCTGAACTGTAGTGACACCTCCAACCAGGGCA
+GTTCAGATTGCCCACTTTTTTCCCCAGAGAGCTATCTCTCTGCTCCATGTACTCCCCAGCGTGCCTTTAC
+CTGTGTGGTGGAGAACCTTGGTTCTGGGAGAGGCATAAGTCCAGTCATGGGACCCTCTGCAGATGAGGTT
+GCAGGGGGAAATGTTATACATGTAAGTGACCAGGATACAGAACAATTTGAAGTGATCAGCACTGTGGTAC
+AACACTGGGGGGTGTTGAGGCGGGGTAGGGAAATTACTCATCACCTGTCCTCAAATCTAACTTCCCCAGG
+GCCCAAGTCAAGCGACTCTTCAATGGTGGTGATAATTGTGGCTGCAGTCATTGGGATTGCTACAGCGGCC
+ATTGTTTTTGCTGTAGTAGCTATCATCTGCCTCAAGAAAAAGCGGCCTCCAGGTTAGTGTCTCTCTCTGG
+TCCTGCTTGTTATCAATTTCCATTTGGCTAAGGACCTAAGCCCAGGCACTGTCAGACTAGAGAATTATTA
+GTATTCAACTATCATTCCATTTTTAGTCATTCATTCATTCATTCATTCATTCATTTATTCATTCATCAAG
+GCTTGAACAGAAAGTCAAGCACTGTGGTAAACACTGGACATGATACCAAGATAAAGGAGCCTAGTCCTTT
+CTCTCAGAGAATTCTCAGCATATAGGAAAGATATAAATACAAATGGATAATTACAAGATGGATAAGAGCA
+ATATTAGGGAAGCAAAAAGGCTAGGACAGTGATATAGAAGAGGTGCCATAACCCAGTGTTAGTCAGCTCT
+TTCACTATAACAAAATACCTGGTATAACCAACTTATAAAGCACAGAGGTTTATTTTTGCTCAGAGATTTG
+GAGGTTTCAGTCCATGATCAGTTGATCCCATTCCATTAGGCTGTGACTACACAATGTATTATTGCAGGAG
+CACACCATGGGGCAAAAGTGCTAACCTTATGGCCAGGAAGCAAAGCAGCAAAGAAGAGACCAGGGGTCCC
+CTAGTCCTCTTCAAGGGCACACCCTCAATGACCTAAAGACCTCCCACTAGACTCTGCCTCTTAATGGTCC
+CACCATCTTTCAATATTACCAACCTGGGAACCAAGTGTGTCATTCAGGGGACTTTGAGGGACATTTAAGA
+CATGAATTAAACACCCAGCCTGGGAGGGGACAGTTGGAGAAGGTTTCATGGGGAGGCAATGTACCATAGC
+AATTGAAAACTACAATTAAGGTCCTGCGGCCCAGCTTCAAATCTCATTTTTTAATTCACCAGCTGTATGA
+CCTTGGGTGAGTTGCCCAATCTCTCTGTGCCTCAGTTACCTCATCTGAAAAATAGAGACACTCATAGGAC
+CAACCTCATAGGATTTTTACTATGATGAATGTGGCTGTGAGTCTTATAACAGTTGCCTAATTGGTACTGG
+CCACACATAAATGTGAGCTGTTACCACTACGGAGGAGGGGATGTTTGCAGAGAATTACCTAGATAAAGAG
+GGCTGAAAGGGCATTCCAGGCACAGAGGCCAAGGCATGGAGCCAAGGAATGAGAGAATGATACTACTAAT
+ATCTCACAAAGTTTTGCTGGGGTTCCATAGGGCCCAGTGCCTGATAAGTAAATATTGAGACACTGACATA
+CTCAGAGAAAGAGGTCTGCTTTAAAAGGCAGAGGAAGCCTAAGAAAGATGGAACCAAGTTGCCTTTCTGC
+TGCCCTAGAGTTAGCTGACTTTTGTTTCTCTGGACAGTCATTTCACAGACCTGAGTGTCTCCTGGGTGGA
+GGAGCTGGGAGCTGGGAGGAGCAGAGGCGTCTGTGTGAAGGAAGGGCCTCGTTGATTCTAACCCAACTCT
+ACCCATGATCCTTGGTTCTGAGGACTCAGGCCCCACCCCATAATCCTACTAACCTCCTCTGTGCCCCTCC
+TAACTCTCCCAGGAAACCCTGAGCACAGGGAAATGGGAGAAACCCTCCCCGAGGACCCAGGTGAGTACAG
+CGTTGTCTTTGGGGGCTCAATGATGTCCTGTCCAGGACTGCCAGATGGATTGGAGCCAGCAAGAACTGAC
+TTGTGTGAGTTTGGCTGGAGCACGTGAGGGGGAGGGGCTGGGAGGAGAGTGGGGCTCAAATCACTTGGTG
+AGTTCTGAGTCTAACTCCTGGGCCTGAGAAGGGACTCACTGGAGTTAAGAAAACTAGCACTGATTCCAAA
+TTGAGAAAGGAGAGCTTCACCCACATTTCTGAGGCTAACAATCTGGAGACATTTCCAAAGCAATAAATTA
+TAGAAATTTGGATCTTTCTGTGGATCCAGATCTGGCAAAACACAGGAGTGAAGTTATAAGAAGGCTAGCA
+GAATTAAAGAGGCAGGACTCTAAGAGAACAGCGAAAGGAGTTCTGGGAACAACCCCTAGATTTATTGAGG
+TACTTGTCCCTGTGAAGGGATAGGATGGGCATGGTAGAAACCAACTCTTGGTAGAAAATTAGGAGGAGAT
+TTGGGCTTAAGAAAATCTGGGGAGCTAGGGCTACAAGTGGGTTTTGTTCTTTGGATAAAACTTGGTTCTG
+ATGCCAGTCCGTATCAGTGTATTAGATACTGGCCTGGTGCTGCCACCATCATACAATAAAATCTTCCCAT
+GTTCAGTCACCTCAGTGAGGAAGGAAATGGGTTGGCCTAGACCAACAATGGAGAACCTTTTAGAGATGAG
+CACCCAAAACTTAAAAACCCGCTTATTTATTGGAAAATGCCAACACTGCAACTAAACCTGAATATTGAGG
+TTTTAGTTTTGGAAAGAAAAAAAAAACTCATAGTGAACATTTTGTGTCTAAAAAGAAAAACAAATAACAC
+GTGTGCTATAAATTTGCTACCACTTTGAGCACTGGTATAAAAACCAGTGAATATTCAACCCCTATCCCAA
+GTGGCAGTGGTGTGAGTATACAAGAAGAGGAGGAGAATGCCAGACCATGTCCTAACCACTGTAAAGGTCA
+GATTACAAAGGGAACTGGAGCTTTCTCGGGGGACTTCTCTGACAGCAGGATCAGGCAGGAAAATGAGGCC
+CTTGAATATTGCACCTCATATGGCTGGAGTATGACCTGGGGCAGAGCCAACAGATTTGAGAGCTTGAGCA
+AACTGTAACTCCTCTAGCTGTGCTTTGAGCCTGCGCTGTCTGTTTCTTGGCCAGGCCATGGGGGGAAGCA
+CCAAACCAGACCTTTAAGAAAAGTCCAAACACAACTAGATGGTAAATTTACAACTTGTTTGATTCTGCCT
+ACATTGGCATAAACGCATTTCATCGGAACTGATGTTTTCCCGAAAGATACAGTGAGTCACTGAGGAGTGT
+GTTAGAAGGGGGACTCCAAGCATGGTTTGTTGCAGAGTTTGGAACATGTCACACAGGACTCTTTGTGTCC
+AGCAGATGAGGGAAGAGACTAAGAGCATTGTCTCAGACTCCTCCCTGTCTTCCTGGGAAATGCGGATTCA
+GATACTGAGGCTACTTTTCATTCTGGCAAAGTGATTTATGGCAAAAACATGAGGGAGTTTGGTGTTTTGG
+GTATTTATCAGAGAAAGTTTTTTTCTTCTTTTCTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTTT
+CTTTCTTTCTTTCTTTCTCTTTACTTCCTTCCTATCGCTTCTGCCTTTCATCTACATTTTTCTTCTCTCT
+TCTTGTCTCTTTCTCATCACTTTATTTCTTTTCGATGCCTTGAAGTACCCAATTCTTTACACTTTCAACC
+AAGATGCACTGAGTTTGAACAGTGTGGAAATGGAAGTTGCTCTTCCCTCCCTGAAGCCTATGGCCAGCAA
+AAAGACTAGACTTTTGTTTTACTCTGATACTGAACACCCCCACCTCTTTCTCAATCGTTCAGATGCCCAA
+AGCTGCCTGGTTTGCTTCTAGAAAATCTCACTGATTCTCTACAAATAATGTGGCAAGAATCACTGCTTCC
+CTGTGGCCAGCGAGAGGCTGAGTCTGGGACAACCCCAGCCTGCATGACTGAGAACAACCATATTGACCTG
+GCGCTTGGCCTGCAGTCCTAAGTTGGGGTCAGCAGCCTTTGCCTTGGGCCTGTGAACTTTGGTTTTGCAG
+CTTCAGTGGCAGTACAGGGTGCCTTCTGATCTCGTGGTGCTGGGGCTGATCTCTCTTCTTTTTGTCCACA
+GCCAATCTCTCTGATCCTGAGGAGGTCGCTAAATCTGAGGTGAGTGATCTCAGCCATCTCCTTGTCCTCT
+CACCTCTCTTCTCCCCTGCTGTTGTGTTTCTCAAGATCTTTCCTTGGATGTACCACATGTTTCTGCTTTC
+TCTAGGTTGAAAATACAATCACCTATTCACTTCTCAAGCACCCGGAAGCTCAGGATGATGACACAGAGCA
+TGACTATCAGAACCACATTTAATCTCCATTATCTGGCCCTGGGATTTGGGGGAGAAAAATCAAGAAGTGA
+AGATCTGCTATCTCCAGGCCTAAGGTTCCCTTGGAGAGGTCGAGAGGATGCTGAAGTTCAAAGAAGGAGC
+AGGATTTTTCCAGAGTCCTGTATGTGAGTCCTAAAGTTCTTTGGCCTGACACTAACAGAAAATATGAACT
+CTGAAGGCTGGCTGATTCTGTGCCTCAGCACTTCCCTACATCAGGGCTGTTATACAGCCCCACAGCCAAC
+AAAATGATAAAATTAATATTGCTAAGAGATTTTAACAACATGTGACATGCCTACATTATGAGTAACATGA
+GAAAAATTACATAAGTATATATGATTTCAGAAGTGATAAAATCAACTAACATCTACCAACATATTAAAAA
+TGATTGTTTCAGGGTGATAGAATTATCAGTGGTTTTTGTTCTTTCTTATTTTCCTACAAATCTATAAGTT
+TATTTTCCTATAAATCCTATAAATCATGTACTGTATTTGTAATAAAATATTATGAAAA</dna_sequence>
+        <protein_sequence>>gi|290543543|ref|NP_001166520.1| low affinity immunoglobulin gamma Fc region receptor II precursor [Cavia porcellus]
+MAIPSFLPVLGTKSHRADYKPLQTLSHMLLWITVLFLAPVAGTSADPPKAVVRLEPPWIQVLRGDRVTLT
+CEGAPSPGNHSTQWLHNGRLIPTQVLPSYRFTAKGNDSGEYRCQAGGTSLSDPVRLDVISDWLVLQTSQL
+IFQEGDVIVLRCHSWNNWPLAKVTFYHNGVAKKYFSISKNFSIPQANHSHSGAYNCTGLIGRTSHTSPPV
+TITVQGPKSSDSSMVVIIVAAVIGIATAAIVVAVVAIICLKKKQPPGNPEHREMGETLPEDPGEYSVVFG
+GSMMSCPGLPDGLEPARTDLSNLSDPEEVAKSEVENTITYSLLKHPEAQDDDTEHDYQNHI</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene307">
+        <gene_name>ipaB</gene_name>
+        <strain>Shigella flexneri 2a</strain>
+        <vo_id>VO_0010994</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>22036246</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:293143</xrefs>
+        <taxonomy_id>42897</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IpaB</protein_name>
+        <protein_pi>7.76</protein_pi>
+        <protein_weight>33839.83</protein_weight>
+        <protein_length>371</protein_length>
+        <protein_note>Type III cell invasion protein SipB; pfam16535</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAM89543.1 IpaB, partial (plasmid) [Shigella flexneri 2a]
+MHNVSTTTTGFPLAKILASTELGDNTIQAANDAANKLFSLTIADLTANKNINTTNAHSTSNILIPELKAP
+KSLNASSQLTLLIGNLIQILGEKSLTALTNKITAWKSQQQARQQKNLEFSDKINTLLSETEGLTRDYEKQ
+INKLKNADSKIKDLENKINQIQTRLSELDPESPEKKKLSREEIQLTIKKDAAVKDRTLIEQKTLSIHSKL
+TDKSMQLEKEIDSFSAFSNTASAEQLSTQQKSLTGLASVTQLMATFIQLVGKNNEESLKNDLALFQSLQE
+SRKTEMERKSDEYAAEVRKAEELNGV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The invasiveness and virulence of Shigella spp. are largely due to the expression of plasmid-encoded virulence factors, among which are the invasion plasmid antigens (IpaB, IpaC, and IpaD). Recent observations have indicated that the Ipa proteins (IpaB, IpaC, and possibly IpaD) form a multiprotein complex capable of inducing the phagocytic event which internalizes the bacterium.  Researchers isolated a complex of invasins and LPS from water-extractable antigens of virulent shigellae.  Western blot analysis of the complex indicates that all of the major virulence antigens of Shigella, including IpaB, IpaC, and IpaD, and LPS are components of this macromolecular complex.  Guinea pigs (keratoconjunctivitis model) or mice (lethal lung model) immunized intranasally with purivied invasin complex (invaplex) on days 0, 14, and 28 and challenged 3 weeks later with virulent shigellae were protected from disease (P&gt;0.01 for both animal models) [Ref967:Turbyfill et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene308">
+        <gene_name>IpaC</gene_name>
+        <strain>Shigella flexneri 2a</strain>
+        <vo_id>VO_0010995</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>47056</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:185271
+GOA:P18012
+InterPro:IPR005427
+UniProtKB/Swiss-Prot:P18012</xrefs>
+        <taxonomy_id>42897</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>8.64</protein_pi>
+        <protein_weight>40220.05</protein_weight>
+        <protein_length>458</protein_length>
+        <protein_note>pathogenicity island 1 effector protein SipC; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA33382.1 unnamed protein product (plasmid) [Shigella flexneri 2a]
+MLQKQFCNKLLLDTNKENVMEIQNTKPTQILYTDISTKQTQSSSETQKSQNYQQIAAHIPLNVGKNPVLT
+TTLNDDQLLKLSEQVQHDSEIIARLTDKKMKDLSEMSHTLTPENTLDISSLSSNAVSLIISVAVLLSALR
+TAETKLGSQLSLIAFDATKSAAENIVRQGLAALSSSITGAVTQVGITGIGAKKTHSGISDQKGALRKNLA
+TAQSLEKELAGSKLGLNKQIDTNITSPQTNSSTKFLGKNKLAPDNISLSTEHKTSLSSPDISLQDKIDTQ
+RRTYELNTLSAQQKQNIGRATMETSAVAGNISTSGGRYASALEEEEQLISQASSKQAEEASQVSKEASQA
+TNQLIQKLLNIIDSINQSKNSTASQIAGNIRA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The invasiveness and virulence of Shigella spp. are largely due to the expression of plasmid-encoded virulence factors, among which are the invasion plasmid antigens (IpaB, IpaC, and IpaD). Recent observations have indicated that the Ipa proteins (IpaB, IpaC, and possibly IpaD) form a multiprotein complex capable of inducing the phagocytic event which internalizes the bacterium.  Researchers isolated a complex of invasins and LPS from water-extractable antigens of virulent shigellae.  Western blot analysis of the complex indicates that all of the major virulence antigens of Shigella, including IpaB, IpaC, and IpaD, and LPS are components of this macromolecular complex.  Guinea pigs (keratoconjunctivitis model) or mice (lethal lung model) immunized intranasally with purivied invasin complex (invaplex) on days 0, 14, and 28 and challenged 3 weeks later with virulent shigellae were protected from disease (P&gt;0.01 for both animal models) [Ref967:Turbyfill et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene309">
+        <gene_name>ipaD</gene_name>
+        <strain>Shigella flexneri 2a</strain>
+        <vo_id>VO_0010996</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>22036352</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>2J0O</pdb_id>
+        <xrefs>CDD:297251</xrefs>
+        <taxonomy_id>42897</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IpaD</protein_name>
+        <protein_pi>6.14</protein_pi>
+        <protein_weight>23805.99</protein_weight>
+        <protein_length>282</protein_length>
+        <protein_note>Invasion plasmid antigen IpaD; cl05827</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAM89596.1 IpaD, partial (plasmid) [Shigella flexneri 2a]
+IRTTNQALKKELSQKTLTKTSLEEIALHSSQISMDVNKSAQLLDILSRNEYPINKDARELLHSAPKEAEL
+DGDQMISHRELWAKIANSINDINEQYLKVYEHAVSSYTQMYQDFSAVLSSLAGWISPGGNDGNSVKLQVN
+SLKKALEELKEKYKDKPLYPANNTVSQDQANKWLTELGGTIGKVSQKNRGYGVNINMPPIDNMLKSLDYL
+GGNGEVVL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The invasiveness and virulence of Shigella spp. are largely due to the expression of plasmid-encoded virulence factors, among which are the invasion plasmid antigens (IpaB, IpaC, and IpaD). Recent observations have indicated that the Ipa proteins (IpaB, IpaC, and possibly IpaD) form a multiprotein complex capable of inducing the phagocytic event which internalizes the bacterium.  Researchers isolated a complex of invasins and LPS from water-extractable antigens of virulent shigellae.  Western blot analysis of the complex indicates that all of the major virulence antigens of Shigella, including IpaB, IpaC, and IpaD, and LPS are components of this macromolecular complex.  Guinea pigs (keratoconjunctivitis model) or mice (lethal lung model) immunized intranasally with purivied invasin complex (invaplex) on days 0, 14, and 28 and challenged 3 weeks later with virulent shigellae were protected from disease (P&gt;0.01 for both animal models) [Ref967:Turbyfill et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1070">
+        <gene_name>msbB2</gene_name>
+        <strain>Shigella sonnei Ss046</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3670926</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>74315019</ncbi_protein_id>
+        <gene_locus_tag>SSON_P182</gene_locus_tag>
+        <gene_refseq>CP000039</gene_refseq>
+        <protein_refseq>YP_313437</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>300269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>pSS_046</plasmid>
+        <gene_start>159623</gene_start>
+        <gene_end>160567</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase</protein_name>
+        <protein_pi>10.05</protein_pi>
+        <protein_weight>34698.04</protein_weight>
+        <protein_length>314</protein_length>
+        <protein_note>Transfers myristate or laurate, activated on ACP, to the lipid IVA moiety of (KDO)2-(lauroyl)-lipid IVA</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|74314838:159623-160567 Shigella sonnei Ss046 plasmid pSS_046, complete sequence
+AATGAAAAAATACAAATCCGAGTTTATTCCTGAATTTAAGAAAAATTATCTTTCCCCTGTTTACTGGTTT
+ACATGGTTCGTTTTGGGAATGATTGCAGGTATTTCAATGTTTCCCCCTTCATTCAGAGATCCTGTCTTGG
+CCAAAATAGGGCGTTGGGTGGGCAGATTGAGCAGAAAAGCTCGTCGCAGGGCGACGATTAATTTATCGCT
+TTGTTTCCCGGAAAAGAGTGATACAGAACGGGAAATAATTGTCGACAATATGTTTGCCACAGCATTGCAA
+TCCATAGTGATGATGGCAGAACTGGCAATTCGTGGTCCGGAAAAGTTCCAGAAACGAGTGTTCTGGAAAG
+GCCTCGAAATTCTTGAGGAAATCCGGCACAATAACAGAAATGTGATTTTTCTGGTTCCCCATGGCTGGAG
+CGTGGATATTCCTGCAATGTTGCTGGCAGCTCAGGGGGAAAAAATGGCCGCCATGTTTCATCAGCAACGA
+AATCCAGTGATTGATTATGTCTGGAATTCTGTACGGCGTAAATTCGGGGGGCGCTTACATTCCCGGGAGG
+ATGGGATAAAACCATTTATTCAGTCAGTACGCCAGGGATACTGGGGGTATTACCTTCCAGATCAGGATCA
+TGGTCCTGAATACAGTGAATTTGCTGATTTTTTTGCGACCTATAAAGCGACATTACCAATTATTGGACGT
+CTGATGAACATCAGTCAGGCTATGATTATACCGCTTTTCCCGGTTTATGATGAAAAAAAACATTTCCTGA
+CTATTGAAGTTCGGCCACCAATGGATGCATGCATTGCCAGCGCGGACAATAAAATGATTGCCCGACAAAT
+GAACAAAACAGTGGAAATTTTGGTGGGGTCACATCCGGAACAGTATATCTGGGTTTTAAAATTGTTAAAA
+ACGCGCAAATCAAACGAAGCGGACCCGTACCCTTG</dna_sequence>
+        <protein_sequence>>gi|74315019|ref|YP_313437.1| lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase [Shigella sonnei Ss046]
+MKKYKSEFIPEFKKNYLSPVYWFTWFVLGMIAGISMFPPSFRDPVLAKIGRWVGRLSRKARRRATINLSL
+CFPEKSDTEREIIVDNMFATALQSIVMMAELAIRGPEKFQKRVFWKGLEILEEIRHNNRNVIFLVPHGWS
+VDIPAMLLAAQGEKMAAMFHQQRNPVIDYVWNSVRRKFGGRLHSREDGIKPFIQSVRQGYWGYYLPDQDH
+GPEYSEFADFFATYKATLPIIGRLMNISQAMIIPLFPVYDEKKHFLTIEVRPPMDACIASADNKMIARQM
+NKTVEILVGSHPEQYIWVLKLLKTRKSNEADPYP</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A virG, senA, senB, and msbB2 mutant (WRSs3) is attenuated in guinea pigs and induced significant protection from challenge with wild type S. sonnei. Attenuation and protection from WRSs3 is comparable to live attenuated vaccine strain WRSS1 [Ref2028:Barnoy et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1068">
+        <gene_name>senA</gene_name>
+        <strain>Shigella sonnei Ss046</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3671021</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>74314887</ncbi_protein_id>
+        <gene_locus_tag>SSON_P050</gene_locus_tag>
+        <gene_refseq>CP000039</gene_refseq>
+        <protein_refseq>YP_313305</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>300269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>pSS_046</plasmid>
+        <gene_start>46479</gene_start>
+        <gene_end>48176</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>OspD3</protein_name>
+        <protein_pi>6.74</protein_pi>
+        <protein_weight>60796.75</protein_weight>
+        <protein_length>565</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|74314838:46479-48176 Shigella sonnei Ss046 plasmid pSS_046, complete sequence
+TATGCCATCAGTAAATTTAATTCCATCAAGGAAAATATGTTTGCAAAATATGATAAATAAAGACAACGTC
+TCTGTTGAGACAATCCAGTCTCTATTGCACTCAAAACAATTGCCATATTTTTCTGACAAGAGGAGTTTTT
+TATTAAATCTAAATTGCCAAGTTACCGATCACTCTGGAAGACTTATTGTCTGTCGACATTTAGCTTCCTA
+CTGGATAGCACAGTTTAACAAAAGTAGTGGTCACGTGGATTATCATCACTTTGCTTTTCCGGATGAAATT
+AAAAATTATGTTTCAGTGAGTGAAGAAGAAAAGGCTATTAATGTGCCTGCTATTATTTATTTTGTTGAAA
+ACGGTTCATGGGGAGATATTATTTTTTATATTTTCAATGAAATGATTTTTCATTCCGAAAAAAGCAGAGC
+ACTAGAAATAAGTACATCAAATCACAATATGGCATTAGGCTTGAAGATTAAAGAAACTAAAAATGGGGGG
+GATTTTGTCATTCAGCTTTATGATCCCAACCATACAGCAACTCATTTACGAGCAGAGTTTAACAAATTTA
+ACTTAGCTAAAATAAAAAAACTGACTGTAGATAATTTTCTTGATGAAAAACATCAGAAATGTTATGGTCT
+TATATCCGACGGTATGTCTATATTTGTGGACAGACATACTCCAACAAGCATGTCCTCCATAATCAGATGG
+CCTAATAATTTACTTCACCCCAAAGTTATTTATCACGCGATGCGTATGGGATTGACTGAGCTAATCCAAA
+AAGTAACAAGAGTCGTACAACTATCTGACCTTTCAGACAATACGTTAGAATTACTTTTGGCAGCCAAAAA
+TGACGATGGTTTGTCAGGATTGCTTTTAGCTTTACAAAATGGGCATTCAGATACAATCTTAGCATACGGA
+GAACTCCTGGAAACTTCTGGACTTAACCTTGATAAAACGGTAGAACTACTAACTGCGGAAGGAATGGGAG
+GACGAATATCGGGTTTATCCCAAGCACTTCAAAATGGGCATGCAGAAACTATCAAAACATACGGAAGGCT
+TCTCAAGAAGAGAGCAATAAATATCGAATACAATAAGCTGAAAAATTTGCTGACCGCTTATTATTATGAT
+GAAGTACACAGACAGATACCCGGACTAATGTTTGCTCTTCAAAATGGACATGCAGATGCTATACGCGCAT
+ACGGTGAGCTCATTCTTAGCCCCCCTCTCCTCAACTCAGAGGATATTGTAAATTTGCTGGCCTCAAGGAG
+ATATGACAATGTTCCCGGACTTCTGTTAGCATTGAATAATGGACAGGCTGATGCAATCTTAGCTTATGGT
+GATATCTTGAATGAGGCAAAACTTAACTTGGATAAAAAAGCAGAGCTGTTAGAAGCGAAAGATTCTAATG
+GTTTATCTGGATTGTTTGTAGCCTTGCATAATGGATGTGTAGAAACAATTATTGCTTATGGGAAAATACT
+TCACACTGCAGACCTTACTCCACATCAGGCATCAAAATTACTGGCAGCAGAAGGCCCAAATGGGGTATCT
+GGATTAATTATAGCTTTTCAAAATAGGAATTTTGAGGCAATAAAAACTTATATGGAAATAATAAAAAATG
+AAAATATTACACCTGAAGAAATAGCAGAACACTTGGACAAAAAAAATGGAAGTGATTTTCTGGAAATTAT
+GAAGAATATAAAAAGCTG</dna_sequence>
+        <protein_sequence>>gi|74314887|ref|YP_313305.1| OspD3 [Shigella sonnei Ss046]
+MPSVNLIPSRKICLQNMINKDNVSVETIQSLLHSKQLPYFSDKRSFLLNLNCQVTDHSGRLIVCRHLASY
+WIAQFNKSSGHVDYHHFAFPDEIKNYVSVSEEEKAINVPAIIYFVENGSWGDIIFYIFNEMIFHSEKSRA
+LEISTSNHNMALGLKIKETKNGGDFVIQLYDPNHTATHLRAEFNKFNLAKIKKLTVDNFLDEKHQKCYGL
+ISDGMSIFVDRHTPTSMSSIIRWPNNLLHPKVIYHAMRMGLTELIQKVTRVVQLSDLSDNTLELLLAAKN
+DDGLSGLLLALQNGHSDTILAYGELLETSGLNLDKTVELLTAEGMGGRISGLSQALQNGHAETIKTYGRL
+LKKRAINIEYNKLKNLLTAYYYDEVHRQIPGLMFALQNGHADAIRAYGELILSPPLLNSEDIVNLLASRR
+YDNVPGLLLALNNGQADAILAYGDILNEAKLNLDKKAELLEAKDSNGLSGLFVALHNGCVETIIAYGKIL
+HTADLTPHQASKLLAAEGPNGVSGLIIAFQNRNFEAIKTYMEIIKNENITPEEIAEHLDKKNGSDFLEIM
+KNIKS</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A virG, senA, and senB mutant (WRSs2) is attenuated in guinea pigs and induced significant protection from challenge with wild type S. sonnei.  Attenuation and protection from WRSs2 is comparable to live attenuated vaccine strain WRSS1 [Ref2028:Barnoy et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1069">
+        <gene_name>senB</gene_name>
+        <strain>Shigella sonnei Ss046</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3668265</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>74313104</ncbi_protein_id>
+        <gene_locus_tag>SSON_2665</gene_locus_tag>
+        <gene_refseq>CP000038</gene_refseq>
+        <protein_refseq>YP_311523</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>300269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>2824138</gene_start>
+        <gene_end>2825313</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>putative enterotoxin</protein_name>
+        <protein_pi>7.25</protein_pi>
+        <protein_weight>41801.28</protein_weight>
+        <protein_length>391</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|74310614:2824138-2825313 Shigella sonnei Ss046 chromosome, complete genome
+AATGAATATTTTCACTTTATCCAAAGCACCGCTATACCTGTTAATTTCACTATTTTTACCCACGATGGCC
+ATGGCTATCGATCCACCTGAACGCGAACTTTCGCGATTTGCCCTGAAAACGAATTACCTTCAGTCCCCTG
+ATGAAGGCGTCTATGAACTGGCGTTTGATAATGCCAGTAAAAAGGTGTTTGCAGCAGTCACCGATCGTGT
+AAATCGTGAAGCCAATAAAGGCTATCTGTATTCGTTTAATTCAGATTCGCTGAAAGTCGAAAATAAATAC
+ACGATGCCATACCGGGCATTTTCGCTGGCGATAAATCAGGATAAACATCAGCTCTATATCGGACACACCC
+AGTCAGCGTCCCTGCGTATCAGTATGTTTGACACCCCAACCGGCAAACTGGTAAGAACCAGCGACAGGTT
+AAGTTTTAAAGCGGCAAACGCTGCAGATTCGCGTTTTGAGCATTTTCGCCATATGGTTTACAGCCAGGAT
+TCCGATACCCTGTTTGTGAGTTATAGCAATATGCTGAAAACGGCCGAGGGCATGAAGCCTCTGCATAAGC
+TGTTAATGCTCGACGGGACGACGCTTGCCTTAAAAGGCGAGGTTAAGGATGCTTACAAAGGTACAGCGTA
+TGGTCTGACGATGGATGAAAAAACACAGAAAATCTACGTTGGCGGAAGAGATTACATCAACGAAATTGAT
+GCGAAAAATCAGACGCTGCTGCGTACCATCCCGTTGAAAGATCCGAGACCACAAATCACAAGTGTGCAGA
+ATCTGGCGGTGGACTCCGCTTCTGACCGTGCCTTTGTGGTGGTATTCGACCATGACGATCGTTCCGGTAC
+AAAAGATGGACTCTATATTTTTGACTTACGCGACGGTAAACAGCTTGGCTATGTGCACACAGGAGCCGGA
+GCTAACGCGGTGAAATACAATCCGAAATATAACGAACTGTATGTCACCAACTTCACTAGCGGCACCATCA
+GCGTAGTGGATGCCACCAAATACAGCATCACCCGTGAATTTAACATGCCGGTCTACCCAAACCAGATGGT
+GTTGTCGGACGATATGGATACCCTTTACATTGGCATCAAAGAAGGCTTTAACCGCGATTGGGATCCTGAT
+GTGTTTGTGGAAGGAGCTAAAGAACGTATTCTGAGCATTGATTTGAAAAAGTCGTG</dna_sequence>
+        <protein_sequence>>gi|74313104|ref|YP_311523.1| putative enterotoxin [Shigella sonnei Ss046]
+MNIFTLSKAPLYLLISLFLPTMAMAIDPPERELSRFALKTNYLQSPDEGVYELAFDNASKKVFAAVTDRV
+NREANKGYLYSFNSDSLKVENKYTMPYRAFSLAINQDKHQLYIGHTQSASLRISMFDTPTGKLVRTSDRL
+SFKAANAADSRFEHFRHMVYSQDSDTLFVSYSNMLKTAEGMKPLHKLLMLDGTTLALKGEVKDAYKGTAY
+GLTMDEKTQKIYVGGRDYINEIDAKNQTLLRTIPLKDPRPQITSVQNLAVDSASDRAFVVVFDHDDRSGT
+KDGLYIFDLRDGKQLGYVHTGAGANAVKYNPKYNELYVTNFTSGTISVVDATKYSITREFNMPVYPNQMV
+LSDDMDTLYIGIKEGFNRDWDPDVFVEGAKERILSIDLKKS</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A virG, senA, and senB mutant (WRSs2) is attenuated in guinea pigs and induced significant protection from challenge with wild type S. sonnei. Attenuation and protection from WRSs2 is comparable to live attenuated vaccine strain WRSS1 [Ref2028:Barnoy et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene194">
+        <gene_name>virG</gene_name>
+        <strain>Shigella sonnei Ss046</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3670887</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>74314980</ncbi_protein_id>
+        <gene_locus_tag>SSON_P143</gene_locus_tag>
+        <gene_refseq>CP000039</gene_refseq>
+        <protein_refseq>YP_313398</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>icsA; S0192</xrefs>
+        <taxonomy_id>300269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>pSS_046</plasmid>
+        <gene_start>126065</gene_start>
+        <gene_end>129373</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>IcsA/VirG</protein_name>
+        <protein_pi>5.38</protein_pi>
+        <protein_weight>111073.91</protein_weight>
+        <protein_length>1102</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|74314838:126065-129373 Shigella sonnei Ss046 plasmid pSS_046, complete sequence
+CATGAATCAAATTCACAAATTTTTTTGTAATATGACCCAATGTTCACAGGGGGGGGCCGGAGAATTACCT
+ACGGTAAAGGAAAAAACATGCAAATTGTCTTTTTCTCCTTTTGTTGTTGGTGCATCCCTGTTGCTCGGGG
+GGCCAATAGCTTTTGCTATTCCTCTTTCGGGTACTCAAGAACTTCATTTTTCAGAGGACAATTATGAAAA
+ATTATTAACACCTGTTGATGGACTTTCTCCCTTGGGAGCTGGTGAAGATGGAATGGATGCGTGGTATATA
+ACTTCTTCCAACCCCTCTCATGCATCTAGAACTAAGCTACGGATTAACTCTGATATTATGATTAGCGCAG
+GTCATGGTGGTGCTGGTGATAATAATGATGGTAATAGTTGTGGCGGTAATGGTGGTGACTCTATTACCGG
+ATCTGACTTGTCTATAATCAATCAAGGCATGATTCTTGGTGGTAACGGCGGTAGCGGTGCTGACCATAAC
+GGTGATGGTGGTGAGGCTGTTACAGGAGACAATCTGTTTATAATAAATGGAGAAATTATTTCAGGTGGAC
+ATGGTGGCGATAGTTATAGTGATAGTGATGGGGGGAATGGAGGTGATGCCGTCACAGGAGTCAATCTACC
+CATAATCAACAAAGGGACTATTTCCGGTGGTAATGGAGGTAACAATTATGGTGAGGGTGATGGCGGTAAT
+GGAGGTGATGCCATCACAGGAAGCAGCCTCTCTGTAATCAATAAGGGCACGTTCGCTGGAGGCAACGGAG
+GTGCTGCTTACGGTTATGGTTATGATGGCTACGGTGGTAATGCTATCACAGGAGATAACCTGTCTATAAT
+CAACAATGGAGCTATTTTAGGCGGTAATGGTGGACATTGGGGGGATGCTATAAATGGTAGCAATATGACC
+ATTGCTAATAGCGGATATATAATTTCAGGTAAAGAAGATGATGGAACACAAAATGTAGTAGGTAATGCTA
+TCCACATCACTGGTGGAAACAATTCATTAATACTCCATGAAGGTTCTGTCATTACTGGTGATGTACAGGT
+TAACAATTCATCCATTCTGAAAATTATCAACAATGATTACACTGGGACCACACCAACTATTGAAGGTGAT
+TTATGTGCTGGTGATTGTACAACTGTTTCACTATCAGGTAACAAATTCACTGTTTCAGGTGACGTTTCTT
+TTGGTGAGAACAGTTCTTTAAATTTAGCTGGAATCAGTAGTCTGGAAGCTTCTGGAAATATGTCATTTGG
+CAACAATGTAAAAGTGGAAGCTATTATAAATAACTGGGCGCAGAAGGACTATAAACTGCTAAGTGCAGAT
+AAAGGGATAACAGGTTTCAGTGTTTCTAATATATCTATCATCAATCCGTTACTCACTACTGGTGCTATTG
+ACTATACAAAAAGCTATATCAGTGACCAGAATAAATTGATCTACGGTTTGAGCTGGAATGATACAGATGG
+CGACAGTCATGGAGAGTTCAATCTGAAAGAAAACGCTGAACTTACTGTTAGTACTATTCTGGCAGATAAT
+CTCAGCCATCATAATATAAATAGCTGGGACGGAAAATCCCTAACAAAATCAGGGGAGGGAACTCTCATTT
+TGGCGGAAAAAAATACCTACTCTGGTTTCACCAACATCAATGCAGGCATTCTAAAAATGGGGACAGTTGA
+AGCTATGACACGTACCGCTGGTGTTATTGTTAATAAAGGTGCTACCTTGAATTTTTCAGGCATGAACCAA
+ACTGTTAACACTTTATTAAATAGTGGGACTGTGCTAATCAATAATATTAATGCCCCTTTTTTGCCTGACC
+CCGTCATTGTCACAGGTAACATGACTCTGGAGAAAAACGGTCATGTTATTCTCAATAATAGTTCGTCAAA
+TGTCGGTCAGACCTATGTTCAGAAAGGTAATTGGCATGGAAAGGGCGGAATATTATCTTTGGGCGCGGTT
+CTCGGCAATGACAACAGTAAAACTGACCGGCTGGAAATTGCAGGCCATGCGTCTGGTATTACCTATGTTG
+CAGTGACAAATGAGGGAGGCTCTGGAGATAAAACTCTTGAAGGTGTTCAAATTATTTCGACAGATTCTTC
+TGATAAGAATGCTTTTATTCAGAAAGGCCGTATTGTTGCTGGTAGTTATGACTATCGCCTGAAACAGGGC
+ACTGTATCTGGACTGAATACCAATAAGTGGTATCTAACTAGTCAGATGGATAATCAAGAATCAAAACAGA
+TGAGCAATCAAGAGTCTACTCAAATGAGTAGTCGCCGAGCTAGTTCACAGCTTGTATCTTCACTTAATTT
+GGGTGAAGGTAGTATTCACACATGGCGCCCTGAAGCTGGCAGTTATATTGCTAACCTGATAGCAATGAAC
+ACGATGTTTAGTCCTTCTCTCTATGACCGACACGGTAGCACTATTGTTGATCCTACTACAGGTCAGCTCA
+GCGAAACCACCATGTGGATTCGTACTGTTGGTGGACATAATGAGCATAATTTAGCTGATAGACAATTAAA
+AACCACAGCTAACAGGATGGTTTATCAGATTGGTGGAGATATTTTGAAGACAAACTTCACTGATCATGAT
+GGCTTGCATGTGGGTATTATGGGAGCTTATGGATATCAGGATAGCAAAACTCATAATAAGTATACTAGTT
+ATAGTTCACGAGGAACTGTGAGCGGTTATACTGCCGGTTTGTACAGTTCTTGGTTTCAGAATGAAAAAGA
+ACGAACAGGTCTATATATGGATGCTTGGTTGCAGTACGGTTGGTTTAATAATACAGTCAAAGGAGATGGG
+TTAACTGGTGAGAAATATTCCAGCAAAGGAATAACAGGAGCTTTGGAAGCTGGCTATATCTACCCAACCA
+TACGCTGGACTGCTCATAATAATATTGACAACGCATTGTATCTCAATCCACAAGTCCAGATAACTAGGCA
+TGGGGTAAAAGCAAACGACTATATTGAACACAATGGCACTATGGTCACATCCTCTGGGGTCAATAATATT
+CAAGCAAAATTGGGATTGCGTACATCCTTAATTAGTCAGAGTTGTATCGATAAGGAGACTCTTCGTAAGT
+TCGAACCATTTTTGGAAGTGAATTGGAAATGGAGCTCAAAGCAATATGGTGTAATTATGAATGGCATGTC
+AAATCACCAGATAGGCAACCGTAATGTGATTGAACTCAAAACTGGTGTGGGGGGGCGTCTTGCAGATAAC
+CTAAGCATCTGGGGAAACGTATCTCAGCAATTGGGTAATAACAGTTACAGAGACACCCAAGGTATTTTGG
+GTGTGAAATATACCTTCTG</dna_sequence>
+        <protein_sequence>>gi|74314980|ref|YP_313398.1| IcsA/VirG [Shigella sonnei Ss046]
+MNQIHKFFCNMTQCSQGGAGELPTVKEKTCKLSFSPFVVGASLLLGGPIAFAIPLSGTQELHFSEDNYEK
+LLTPVDGLSPLGAGEDGMDAWYITSSNPSHASRTKLRINSDIMISAGHGGAGDNNDGNSCGGNGGDSITG
+SDLSIINQGMILGGNGGSGADHNGDGGEAVTGDNLFIINGEIISGGHGGDSYSDSDGGNGGDAVTGVNLP
+IINKGTISGGNGGNNYGEGDGGNGGDAITGSSLSVINKGTFAGGNGGAAYGYGYDGYGGNAITGDNLSII
+NNGAILGGNGGHWGDAINGSNMTIANSGYIISGKEDDGTQNVVGNAIHITGGNNSLILHEGSVITGDVQV
+NNSSILKIINNDYTGTTPTIEGDLCAGDCTTVSLSGNKFTVSGDVSFGENSSLNLAGISSLEASGNMSFG
+NNVKVEAIINNWAQKDYKLLSADKGITGFSVSNISIINPLLTTGAIDYTKSYISDQNKLIYGLSWNDTDG
+DSHGEFNLKENAELTVSTILADNLSHHNINSWDGKSLTKSGEGTLILAEKNTYSGFTNINAGILKMGTVE
+AMTRTAGVIVNKGATLNFSGMNQTVNTLLNSGTVLINNINAPFLPDPVIVTGNMTLEKNGHVILNNSSSN
+VGQTYVQKGNWHGKGGILSLGAVLGNDNSKTDRLEIAGHASGITYVAVTNEGGSGDKTLEGVQIISTDSS
+DKNAFIQKGRIVAGSYDYRLKQGTVSGLNTNKWYLTSQMDNQESKQMSNQESTQMSSRRASSQLVSSLNL
+GEGSIHTWRPEAGSYIANLIAMNTMFSPSLYDRHGSTIVDPTTGQLSETTMWIRTVGGHNEHNLADRQLK
+TTANRMVYQIGGDILKTNFTDHDGLHVGIMGAYGYQDSKTHNKYTSYSSRGTVSGYTAGLYSSWFQNEKE
+RTGLYMDAWLQYGWFNNTVKGDGLTGEKYSSKGITGALEAGYIYPTIRWTAHNNIDNALYLNPQVQITRH
+GVKANDYIEHNGTMVTSSGVNNIQAKLGLRTSLISQSCIDKETLRKFEPFLEVNWKWSSKQYGVIMNGMS
+NHQIGNRNVIELKTGVGGRLADNLSIWGNVSQQLGNNSYRDTQGILGVKYTF</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A virG mutant (WRSS1) is attenuated in guinea pigs and induced significant protection from challenge with wild type Shigella sonnei [Ref871:Hartman and Venkatesan, 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference656">
+		<reference_name>Altboum et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Altboum Z, Barry EM, Losonsky G, Galen JE, Levine MM</authors>
+		<title>Attenuated Shigella flexneri 2a Delta guaBA strain CVD 1204 expressing enterotoxigenic Escherichia coli (ETEC) CS2 and CS3 fimbriae as a live mucosal vaccine against Shigella and ETEC infection</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>5</issue>
+		<pages>3150-3158</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2028">
+		<reference_name>Barnoy et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Barnoy S, Jeong KI, Helm RF, Suvarnapunya AE, Ranallo RT, Tzipori S, Venkatesan MM</authors>
+		<title>Characterization of WRSs2 and WRSs3, new second-generation virG(icsA)-based Shigella sonnei vaccine candidates with the potential for reduced reactogenicity</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>6</issue>
+		<pages>1642-1654</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference659">
+		<reference_name>Chakrabarti et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chakrabarti MK, Bhattacharya J, Bhattacharya MK, Nair GB, Bhattacharya SK, Mahalanabis D</authors>
+		<title>Killed oral Shigella vaccine made from Shigella flexneri 2a protects against challenge in the rabbit model of shigellosis</title>
+		<year>1999</year>
+		<volume>88</volume>
+		<issue>2</issue>
+		<pages>161-165</pages>
+		<journal_book_name>Acta paediatrica (Oslo, Norway : 1992)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference650">
+		<reference_name>Coster et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Coster TS, Hoge CW, VanDeVerg LL, Hartman AB, Oaks EV, Venkatesan MM, Cohen D, Robin G, Fontaine-Thompson A, Sansonetti PJ, Hale TL</authors>
+		<title>Vaccination against shigellosis with attenuated Shigella flexneri 2a strain SC602</title>
+		<year>1999</year>
+		<volume>67</volume>
+		<issue>7</issue>
+		<pages>3437-3443</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4705">
+		<reference_name>Gupta et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gupta P, Singh MK, Singh Y, Gautam V, Kumar S, Kumar O, Dhaked RK</authors>
+		<title>Recombinant Shiga toxin B subunit elicits protection against Shiga toxin via mixed Th type immune response in mice</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>45</issue>
+		<pages>8094-8100</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference871">
+		<reference_name>Hartman and Venkatesan, 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hartman AB, Venkatesan MM</authors>
+		<title>Construction of a stable attenuated Shigella sonnei DeltavirG vaccine strain, WRSS1, and protective efficacy and immunogenicity in the guinea pig keratoconjunctivitis model</title>
+		<year>1998</year>
+		<volume>66</volume>
+		<issue>9</issue>
+		<pages>4572-4576</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference660">
+		<reference_name>Hartman et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hartman AB, Powell CJ, Schultz CL, Oaks EV, Eckels KH</authors>
+		<title>Small-animal model to measure efficacy and immunogenicity of Shigella vaccine strains</title>
+		<year>1991</year>
+		<volume>59</volume>
+		<issue>11</issue>
+		<pages>4075-4083</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4690">
+		<reference_name>Heine et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Heine SJ, Diaz-McNair J, Andar AU, Drachenberg CB, van de Verg L, Walker R, Picking WL, Pasetti MF</authors>
+		<title>Intradermal delivery of Shigella IpaB and IpaD type III secretion proteins: kinetics of cell recruitment and antigen uptake, mucosal and systemic immunity, and protection across serotypes</title>
+		<year>2014</year>
+		<volume>192</volume>
+		<issue>4</issue>
+		<pages>1630-1640</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1675">
+		<reference_name>Kärnell et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kärnell A, Cam PD, Verma N, Lindberg AA</authors>
+		<title>AroD deletion attenuates Shigella flexneri strain 2457T and makes it a safe and efficacious oral vaccine in monkeys</title>
+		<year>1993</year>
+		<volume>11</volume>
+		<issue>8</issue>
+		<pages>830-836</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference649">
+		<reference_name>Klee et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Klee SR, Tzschaschel BD, Fält I, Kärnell A, Lindberg AA, Timmis KN, Guzmán CA</authors>
+		<title>Construction and characterization of a live attenuated vaccine candidate against Shigella dysenteriae type 1</title>
+		<year>1997</year>
+		<volume>65</volume>
+		<issue>6</issue>
+		<pages>2112-2118</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference657">
+		<reference_name>Kotloff et al., 1992</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kotloff KL, Herrington DA, Hale TL, Newland JW, Van De Verg L, Cogan JP, Snoy PJ, Sadoff JC, Formal SB, Levine MM</authors>
+		<title>Safety, immunogenicity, and efficacy in monkeys and humans of invasive Escherichia coli K-12 hybrid vaccine candidates expressing Shigella flexneri 2a somatic antigen</title>
+		<year>1992</year>
+		<volume>60</volume>
+		<issue>6</issue>
+		<pages>2218-2224</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference651">
+		<reference_name>Kotloff et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kotloff KL, Noriega FR, Samandari T, Sztein MB, Losonsky GA, Nataro JP, Picking WD, Barry EM, Levine MM</authors>
+		<title>Shigella flexneri 2a strain CVD 1207, with specific deletions in virG, sen, set, and guaBA, is highly attenuated in humans</title>
+		<year>2000</year>
+		<volume>68</volume>
+		<issue>3</issue>
+		<pages>1034-1039</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference655">
+		<reference_name>Kotloff et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kotloff KL, Taylor DN, Sztein MB, Wasserman SS, Losonsky GA, Nataro JP, Venkatesan M, Hartman A, Picking WD, Katz DE, Campbell JD, Levine MM, Hale TL</authors>
+		<title>Phase I evaluation of delta virG Shigella sonnei live, attenuated, oral vaccine strain WRSS1 in healthy adults</title>
+		<year>2002</year>
+		<volume>70</volume>
+		<issue>4</issue>
+		<pages>2016-2021</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference870">
+		<reference_name>Kotloff et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kotloff KL, Pasetti MF, Barry EM, Nataro JP, Wasserman SS, Sztein MB, Picking WD, Levine MM</authors>
+		<title>Deletion in the Shigella enterotoxin genes further attenuates Shigella flexneri 2a bearing guanine auxotrophy in a phase 1 trial of CVD 1204 and CVD 1208</title>
+		<year>2004</year>
+		<volume>190</volume>
+		<issue>10</issue>
+		<pages>1745-1754</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference663">
+		<reference_name>Kotloff et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kotloff KL, Simon JK, Pasetti MF, Sztein MB, Wooden SL, Livio S, Nataro JP, Blackwelder WC, Barry EM, Picking W, Levine MM</authors>
+		<title>Safety and Immunogenicity of CVD 1208S, a Live, Oral DeltaguaBA Deltasen Deltaset Shigella flexneri 2a Vaccine Grown on Animal-Free Media</title>
+		<year>2007</year>
+		<volume>3</volume>
+		<issue>6</issue>
+		<pages></pages>
+		<journal_book_name>Human vaccines</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4789">
+		<reference_name>Malaei et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Malaei F, Hesaraki M, Saadati M, Ahdi AM, Sadraeian M, Honari H, Nazarian S</authors>
+		<title>Immunogenicity of a new recombinant IpaC from Shigella dysenteriae type I in guinea pig as a vaccine candidate</title>
+		<year>2013</year>
+		<volume>10</volume>
+		<issue>2</issue>
+		<pages>110-117</pages>
+		<journal_book_name>Iranian journal of immunology : IJI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference948">
+		<reference_name>Marteyn et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Marteyn B, West NP, Browning DF, Cole JA, Shaw JG, Palm F, Mounier J, Prévost MC, Sansonetti P, Tang CM</authors>
+		<title>Modulation of Shigella virulence in response to available oxygen in vivo</title>
+		<year>2010</year>
+		<volume>465</volume>
+		<issue>7296</issue>
+		<pages>355-358</pages>
+		<journal_book_name>Nature</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference648">
+		<reference_name>Niyogi, 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Niyogi SK</authors>
+		<title>Shigellosis</title>
+		<year>2005</year>
+		<volume>43</volume>
+		<issue>2</issue>
+		<pages>133-143</pages>
+		<journal_book_name>Journal of microbiology (Seoul, Korea)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference653">
+		<reference_name>Noriega et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Noriega FR, Wang JY, Losonsky G, Maneval DR, Hone DM, Levine MM</authors>
+		<title>Construction and characterization of attenuated delta aroA delta virG Shigella flexneri 2a strain CVD 1203, a prototype live oral vaccine</title>
+		<year>1994</year>
+		<volume>62</volume>
+		<issue>11</issue>
+		<pages>5168-5172</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference652">
+		<reference_name>Noriega et al., 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Noriega FR, Losonsky G, Lauderbaugh C, Liao FM, Wang JY, Levine MM</authors>
+		<title>Engineered deltaguaB-A deltavirG Shigella flexneri 2a strain CVD 1205: construction, safety, immunogenicity, and potential efficacy as a mucosal vaccine</title>
+		<year>1996</year>
+		<volume>64</volume>
+		<issue>8</issue>
+		<pages>3055-3061</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4922">
+		<reference_name>Oany et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Oany AR, Pervin T, Mia M, Hossain M, Shahnaij M, Mahmud S, Kibria KMK</authors>
+		<title>Vaccinomics Approach for Designing Potential Peptide Vaccine by Targeting &lt;i&gt;Shigella&lt;/i&gt; spp. Serine Protease Autotransporter Subfamily Protein SigA</title>
+		<year>2017</year>
+		<volume>2017</volume>
+		<issue></issue>
+		<pages>6412353</pages>
+		<journal_book_name>Journal of immunology research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference661">
+		<reference_name>Orr et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Orr N, Robin G, Cohen D, Arnon R, Lowell GH</authors>
+		<title>Immunogenicity and efficacy of oral or intranasal Shigella flexneri 2a and Shigella sonnei proteosome-lipopolysaccharide vaccines in animal models</title>
+		<year>1993</year>
+		<volume>61</volume>
+		<issue>6</issue>
+		<pages>2390-2395</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference966">
+		<reference_name>Orr et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Orr N, Katz DE, Atsmon J, Radu P, Yavzori M, Halperin T, Sela T, Kayouf R, Klein Z, Ambar R, Cohen D, Wolf MK, Venkatesan MM, Hale TL</authors>
+		<title>Community-based safety, immunogenicity, and transmissibility study of the Shigella sonnei WRSS1 vaccine in Israeli volunteers</title>
+		<year>2005</year>
+		<volume>73</volume>
+		<issue>12</issue>
+		<pages>8027-8032</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference662">
+		<reference_name>Osorio et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Osorio M, Bray MD, Walker RI</authors>
+		<title>Vaccine potential for inactivated shigellae</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>9</issue>
+		<pages>1581-1592</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4738">
+		<reference_name>Pore and Chakrabarti, 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pore D, Chakrabarti MK</authors>
+		<title>Outer membrane protein A (OmpA) from Shigella flexneri 2a: a promising subunit vaccine candidate</title>
+		<year>2013</year>
+		<volume>31</volume>
+		<issue>36</issue>
+		<pages>3644-3650</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2051">
+		<reference_name>Sansonetti et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sansonetti PJ, Arondel J, Fontaine A, d'Hauteville H, Bernardini ML</authors>
+		<title>OmpB (osmo-regulation) and icsA (cell-to-cell spread) mutants of Shigella flexneri: vaccine candidates and probes to study the pathogenesis of shigellosis</title>
+		<year>1991</year>
+		<volume>9</volume>
+		<issue>6</issue>
+		<pages>416-422</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference664">
+		<reference_name>Shim et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shim DH, Chang SY, Park SM, Jang H, Carbis R, Czerkinsky C, Uematsu S, Akira S, Kweon MN</authors>
+		<title>Immunogenicity and protective efficacy offered by a ribosomal-based vaccine from Shigella flexneri 2a</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>25</issue>
+		<pages>4828-4836</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference968">
+		<reference_name>Turbyfill et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Turbyfill KR, Joseph SW, Oaks EV</authors>
+		<title>Recognition of three epitopic regions on invasion plasmid antigen C by immune sera of rhesus monkeys infected with Shigella flexneri 2a</title>
+		<year>1995</year>
+		<volume>63</volume>
+		<issue>10</issue>
+		<pages>3927-3935</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference967">
+		<reference_name>Turbyfill et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Turbyfill KR, Hartman AB, Oaks EV</authors>
+		<title>Isolation and characterization of a Shigella flexneri invasin complex subunit vaccine</title>
+		<year>2000</year>
+		<volume>68</volume>
+		<issue>12</issue>
+		<pages>6624-6632</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference654">
+		<reference_name>Venkatesan et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Venkatesan MM, Hartman AB, Newland JW, Ivanova VS, Hale TL, McDonough M, Butterton J</authors>
+		<title>Construction, characterization, and animal testing of WRSd1, a Shigella dysenteriae 1 vaccine</title>
+		<year>2002</year>
+		<volume>70</volume>
+		<issue>6</issue>
+		<pages>2950-2958</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

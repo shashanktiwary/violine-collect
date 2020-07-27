@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen175">
+		<pathogen_name>Feline infectious peritonitis virus</pathogen_name>
+		<taxon_id>11135</taxon_id>
+		<pathogenesis refs="reference1608">The pathogenesis of FIP may be explained by an increased number of mutants, stochastically arising during bursts of replication (eg, under immune suppression), some of them growing to high concentrations in monocytes and macrophages. Mutations have been identified in non-structural genes, and more may remain to be identified. These highly virulent FPIV mutants have consistently induced FIP under experimental conditions, but their virulence has not been traced to a molecular source. The viral load and the cat’s immune response determine whether FIP will develop. Both viral genetics and host immunity are likely to play a role in the development of FIP. The pathology of FIP has been classified into two forms: an effusive (wet) FIP characterised by polyserositis (eg, thoracic and abdominal effusion)and vasculitis, and a non-effusive (dry) FIP characterised by granulomatous lesions in organs (Addie et al., 2009).</pathogenesis>
+		<disease_name>Feline infectious peritonitis (FIP)</disease_name>
+		<protective_immunity refs="reference1608">It has been suggested that cats mounting a strong cell-mediated immune response do not develop FIP, whereas cats showing a predominantly humoral response progress to disease. Hypergammaglobulinaemia is common in cats with FIP. Also, a drastic depletion of T cells from blood and lymphoid tissues has been described (Addie et al., 2009).</protective_immunity>
+		<host_range refs="">Domestic cats</host_range>
+		<introduction refs="reference1608">Feline infectious peritonitis virus (FIPV) is a feline coronavirus that causes feline infectious peritonitis. Infection is ubiquitous in domestic cats, especially where conditions are crowded. FIPV can survive in for 7 weeks in a dry environment and may be transmitted indirectly via fomites. FPIV is an enveloped single stranded RNA virus. Most FIPV-infected cats either stay healthy or show only a mild enteritis. Only a proportion of FPIV-infected cats will develop FIP, a pyogranulomatous
+vasculitis (Addie et al., 2009).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3243">
+		<vaccine_name>Feline infectiour peritonitis virus 3abc mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oronasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oronasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering782" gene_id="gene1046">
+			<type>Gene mutation</type>
+			<description refs="reference1986">This 3abc mutant is from Feline infectious peritonitis virus (Haijema et al., 2004).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering783" gene_id="gene1047">
+			<type>Gene mutation</type>
+			<description refs="reference1986">This 3abc mutant is from Feline infectious peritonitis virus (Haijema et al., 2004).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering784" gene_id="gene1048">
+			<type>Gene mutation</type>
+			<description refs="reference1986">This 3abc mutant is from Feline infectious peritonitis virus (Haijema et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1071" host_id="host37">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1986">A 3abc mutant is attenuated in kittens (Haijema et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1986">A 3abc mutant induces protection in kittens from challenge with wild type FIPV (Haijema et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1771">
+		<vaccine_name>Feline Infectious Peritonitis Modified Live Virus Vaccine (USDA: 15A1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001544</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3244">
+		<vaccine_name>Feline infectious peritonitis virus 7ab mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oronasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oronasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering785" gene_id="gene1049">
+			<type>Gene mutation</type>
+			<description refs="reference1986">This 7ab mutant is from Feline infectious peritonitis virus (Haijema et al., 2004).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering786" gene_id="gene1050">
+			<type>Gene mutation</type>
+			<description refs="reference1986">This 7ab mutant is from Feline infectious peritonitis virus (Haijema et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1072" host_id="host37">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1986">A 7ab mutant is attenuated in kittens (Haijema et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1986">A 7ab mutant induces protection in kittens from challenge with wild type FIPV (Haijema et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1046">
+        <gene_name>3a</gene_name>
+        <strain>Feline infectious peritonitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>10040181</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>315192965</ncbi_protein_id>
+        <gene_locus_tag>FIPV_gp03</gene_locus_tag>
+        <gene_refseq>AY994055</gene_refseq>
+        <protein_refseq>YP_004070195</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11135</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>24860</gene_start>
+        <gene_end>25075</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>putative 3a protein</protein_name>
+        <protein_pi>4.49</protein_pi>
+        <protein_weight>6974.53</protein_weight>
+        <protein_length>71</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|315192962:24860-25075 Feline infectious peritonitis virus, complete genome
+TATGGACATTGTCAAATCTATTGACATATTCGTAGACGCTGTACTTGACGAACTTGACCGTGCATACTTT
+GCTGTAACTCTTAAAGTAGAATTTAAGACTGGTAAACTACTTGTGTGTATAGGTTTTGGTGACACACTTC
+TTGAGGCTAAGGACAAAGCGTATGCTAAGCTTGGTCTCTCCTTTATTGAAGAAGTCAATAGTCATACAGT
+TGTTTA</dna_sequence>
+        <protein_sequence>>gi|315192965|ref|YP_004070195.1| putative 3a protein [Feline infectious peritonitis virus]
+MDIVKSIDIFVDAVLDELDRAYFAVTLKVEFKTGKLLVCIGFGDTLLEAKDKAYAKLGLSFIEEVNSHTV
+V</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A 3abc deletion mutant in Feline infectious peritonitis virus (FIPV) was attenuated and provided protection against virulent FIPV strain 79-1146 challenge in kittens [Ref1986:Haijema et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1047">
+        <gene_name>3b</gene_name>
+        <strain>Feline infectious peritonitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>10040182</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>315192966</ncbi_protein_id>
+        <gene_locus_tag>FIPV_gp04</gene_locus_tag>
+        <gene_refseq>AY994055</gene_refseq>
+        <protein_refseq>YP_004070196</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11135</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>25020</gene_start>
+        <gene_end>25235</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>putative 3b protein</protein_name>
+        <protein_pi>11.43</protein_pi>
+        <protein_weight>7960.26</protein_weight>
+        <protein_length>71</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|315192962:25020-25235 Feline infectious peritonitis virus, complete genome
+TATGCTAAGCTTGGTCTCTCCTTTATTGAAGAAGTCAATAGTCATACAGTTGTTTAGTATTACTGTTTAC
+AAGTTTAAAGCCAAATTTTGGTATAAACTACCTTTTGAAACTAGACTTTGTATCATTAAACACACAAGAC
+CCAAAGCATTAAGTGTTACAAAACAAGTAAAGAGAGATTATAGAAAAATTGCCATTCTAAATTCCATGCG
+AAAATG</dna_sequence>
+        <protein_sequence>>gi|315192966|ref|YP_004070196.1| putative 3b protein [Feline infectious peritonitis virus]
+MLSLVSPLLKKSIVIQLFSITVYKFKAKFWYKLPFETRLCIIKHTRPKALSVTKQVKRDYRKIAILNSMR
+K</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A 3abc deletion mutant in Feline infectious peritonitis virus (FIPV) was attenuated and provided protection against virulent FIPV strain 79-1146 challenge in kittens [Ref1986:Haijema et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1048">
+        <gene_name>3c</gene_name>
+        <strain>Feline infectious peritonitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>10040183</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>FIPV_gp05</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11135</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>25232</gene_start>
+        <gene_end>25966</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|315192962:25232-25966 Feline infectious peritonitis virus, complete genome
+AATGATTGGTGGACTTTTTCTTAACACTCTTAGTTTTGTAATTGTTAGTAACCATGTTATTGTTAATAAC
+ACAGCAAATGTGCATACTACACAACATGAAAATGTTATAGTACAACAGCATTAGGTTGTTAGTGCTAGAA
+CACAAAATTATTACCCAGAGTTCAGCATCGCTGTACTCTTTGTATCATTTTTGGCTTTGTACCGTAGTAC
+AAACTTTAAGACGTGTGTCGGCATCTTAATGTTTAAGATTGTATCAATGACACTTGTAGGGCCTATGCTT
+ATAGCATATGGTTACTACATTGATGGCATTGTTACAATAACTGTCTTAGCTTTAAGATTTTTCTACTTAG
+CATACTTTTGGTATGTTAATAGTAGGTCCGAATTTATTTTATACAATACAACGACACTCATGTTTGTACA
+TGGCAGAGCTGCACCGTTTATGAGAAGTTCTCACAGCTCTATTTATGTCACATTGTATGGTGGCATAAAT
+TATATGTTTGTGAATGACCTCACGTTGCATTTTGTAGACCCTATGCTTGTAAGAATAGCAATACGTGGCT
+TAGCTCATGCTGATCTAACTGTTTTTAGAGCAGTTGAACTTCTCAATGGTGATTTTATATATGTATTTTC
+ACAGGAGCCCGTAGCCGGTGTTTACAATGCAGCCTCTTCTCAGGCGGTTCTAAACGAAATTGACTTAAAA
+GAAGAAGAAGAAGACCATAACTATGACGTTCCCTA</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A 3abc deletion mutant in Feline infectious peritonitis virus (FIPV) was attenuated and provided protection against virulent FIPV strain 79-1146 challenge in kittens [Ref1986:Haijema et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1049">
+        <gene_name>7a</gene_name>
+        <strain>Feline infectious peritonitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>10040187</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>315192970</ncbi_protein_id>
+        <gene_locus_tag>FIPV_gp09</gene_locus_tag>
+        <gene_refseq>AY994055</gene_refseq>
+        <protein_refseq>YP_004070200</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11135</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>28151</gene_start>
+        <gene_end>28456</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>non-structural protein 7a</protein_name>
+        <protein_pi>8.52</protein_pi>
+        <protein_weight>9843.18</protein_weight>
+        <protein_length>101</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|315192962:28151-28456 Feline infectious peritonitis virus, complete genome
+CATGCTCGTTTTCGTCCATGCTGTACTTGTAACAGCTTTAATCTTACTACTAATTGGTAGAATCCAATTA
+CTAGAAAGGTTGTTACTCAGTCATCTGCTTAATCTTACAACAGTCAGTAATGTTTTAGGTGTGCCTGACA
+GTAGTCTGCGTGTAAATTGTTTGCAGCTTTTGAAACCAGACTGCCTTGATTTTAATATCTTACATAAAGT
+TTTAGCAGAAACCAGGTTACTAGTAGTAGTACTGCGAGTGATCTTTCTAGTTCTTCTAGGGTTTTCCTGC
+TATACATTGTTGGGTGCATTATTTTA</dna_sequence>
+        <protein_sequence>>gi|315192970|ref|YP_004070200.1| non-structural protein 7a [Feline infectious peritonitis virus]
+MLVFVHAVLVTALILLLIGRIQLLERLLLSHLLNLTTVSNVLGVPDSSLRVNCLQLLKPDCLDFNILHKV
+LAETRLLVVVLRVIFLVLLGFSCYTLLGALF</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A 7ab deletion mutant in Feline infectious peritonitis virus is attenuated and provides protection against virulent FIPV strain 79-1146 challenge  in kittens [Ref1986:Haijema et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1050">
+        <gene_name>7b</gene_name>
+        <strain>Feline infectious peritonitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>10040188</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>315192971</ncbi_protein_id>
+        <gene_locus_tag>FIPV_gp10</gene_locus_tag>
+        <gene_refseq>AY994055</gene_refseq>
+        <protein_refseq>YP_004070201</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11135</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>28461</gene_start>
+        <gene_end>29081</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>non-structural protein 7b</protein_name>
+        <protein_pi>7.25</protein_pi>
+        <protein_weight>22221.54</protein_weight>
+        <protein_length>206</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|315192962:28461-29081 Feline infectious peritonitis virus, complete genome
+CATGATTGTTGTAATCCTTGTGTGTATCTTTTTGGCTAATGGAATTAAAGCTACTGCTGTGCAAAATGAC
+CTTCATGAACATCCCGTTCTTACCTGGGATTTATTACAGCATTTCATAGGACATACCCTCTACATTACAA
+CACACCAGGTCTTAGCACTACCGCTTGGATCTCGTGTTGAGTGTGAGGGTATCGAAGGTTTCAATTGCAC
+ATGGCCTGGCTTTCAAGATCCTGCACATGATCATATTGATTTCTACTTTGATCTTTCTAATCCTTTCTAT
+TCATTTGTAGATAATTTTTATATTGTAAGTGAGGGAAATCAAAGAATCAATCTCAGATTGGTTGGTGCTG
+TGCCAAAACAAAAGAGATTAAATGTTGGTTGTCATACATCATTTGCTGTTGATCTTCCATTTGGGATTCA
+GATATACCATGACAGGGATTTTCAACACCCTGTTGATGGCAGACATCTAGATTGTACTCACAGAGTGTAC
+TTTGTGAAGTACTGTCCACATAACCTGCATGGTTATTGCTTTAATGAGAGGCTGAAAGTTTATGACTTGA
+AGCAATTCAGAAGCAAGAAGGTCTTCGACAAAATCAACCAACATCATAAAACTGAGTTATA</dna_sequence>
+        <protein_sequence>>gi|315192971|ref|YP_004070201.1| non-structural protein 7b [Feline infectious peritonitis virus]
+MIVVILVCIFLANGIKATAVQNDLHEHPVLTWDLLQHFIGHTLYITTHQVLALPLGSRVECEGIEGFNCT
+WPGFQDPAHDHIDFYFDLSNPFYSFVDNFYIVSEGNQRINLRLVGAVPKQKRLNVGCHTSFAVDLPFGIQ
+IYHDRDFQHPVDGRHLDCTHRVYFVKYCPHNLHGYCFNERLKVYDLKQFRSKKVFDKINQHHKTEL</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A 7ab deletion mutant in Feline infectious peritonitis virus is attenuated and provides protection against virulent FIPV strain 79-1146 challenge in kittens [Ref1986:Haijema et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1608">
+		<reference_name>Addie et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Addie D, Belák S, Boucraut-Baralon C, Egberink H, Frymus T, Gruffydd-Jones T, Hartmann K, Hosie MJ, Lloret A, Lutz H, Marsilio F, Pennisi MG, Radford AD, Thiry E, Truyen U, Horzinek MC</authors>
+		<title>Feline infectious peritonitis. ABCD guidelines on prevention and management</title>
+		<year>2009</year>
+		<volume>11</volume>
+		<issue>7</issue>
+		<pages>594-604</pages>
+		<journal_book_name>Journal of feline medicine and surgery</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1986">
+		<reference_name>Haijema et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Haijema BJ, Volders H, Rottier PJ</authors>
+		<title>Live, attenuated coronavirus vaccines through the directed deletion of group-specific genes provide protection against feline infectious peritonitis</title>
+		<year>2004</year>
+		<volume>78</volume>
+		<issue>8</issue>
+		<pages>3863-3871</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4977">
+		<reference_name>Satoh et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Satoh R, Furukawa T, Kotake M, Takano T, Motokawa K, Gemma T, Watanabe R, Arai S, Hohdatsu T</authors>
+		<title>Screening and identification of T helper 1 and linear immunodominant antibody-binding epitopes in the spike 2 domain and the nucleocapsid protein of feline infectious peritonitis virus</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>9</issue>
+		<pages>1791-1800</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4956">
+		<reference_name>Takano et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Takano T, Tomizawa K, Morioka H, Doki T, Hohdatsu T</authors>
+		<title>Evaluation of protective efficacy of the synthetic peptide vaccine containing the T-helper 1 epitope with CpG oligodeoxynucleotide against feline infectious peritonitis virus infection in cats</title>
+		<year>2014</year>
+		<volume>19</volume>
+		<issue>7</issue>
+		<pages>645-650</pages>
+		<journal_book_name>Antiviral therapy</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

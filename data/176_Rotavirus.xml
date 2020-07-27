@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen57">
+		<pathogen_name>Rotavirus</pathogen_name>
+		<taxon_id>10912</taxon_id>
+		<pathogenesis refs="reference739">Rotavirus is transmitted by the faecal-oral route and possibly by the respiratory route. The diarrhoea is caused by multiple activities of the virus. Malabsorption occurs because of the destruction of gut enterocytes. The toxic rotavirus protein NSP4 induces age- and calcium ion-dependent chloride secretion, and disrupts SGLT1 transporter-mediated reabsorption of water. A recurrence of mild diarrhoea often follows the reintroduction of milk into the child's diet, due to bacterial fermentation of the disaccharide lactose in the gut (Wiki: Rotavirus).</pathogenesis>
+		<disease_name>Gastroenteritis</disease_name>
+		<protective_immunity refs="reference1232">Protective immune responses against rotavirus infections have been correlated with production of rotavirusspecific fecal IgA in vivo in human and porcine studies
+as well as in mice (Herrmann et al., 1999).</protective_immunity>
+		<host_range refs="reference739">In addition to humans, rotaviruses infect and cause diarrhoea in young animals. They have been shown to infect mammals (for example, apes, cattle, pigs, sheep, rats,, cats, and dogs, mice, horses, rabbits) and birds (chickens and turkeys). These rotaviruses are a potential reservoir for genetic exchange with human rotaviruses. There is evidence that animal rotaviruses can infect humans, either by direct transmission of the virus or by contributing one or several RNA segments to reassortants with human strains (Wiki: Rotavirus).</host_range>
+		<introduction refs="reference739">Rotavirus is a genus of double-stranded RNA virus in the family Reoviridae. Rotavirus is a leading cause of severe acute gastroenteritis (severe diarrhoea) in infants and young children, with over 95% of these children infected by the time they are 5 years old. The most severe cases occur among infants and young children between 6 months and 24 months of age. By the age of five, nearly every child in the world has been infected with rotavirus at least once. However, with each infection, immunity develops, subsequent infections are less severe,[3] and adults are rarely affected. There are seven species of this virus, referred to as A, B, C, D, E, F and G. Rotavirus A, the most common, causes more than 90% of infections in humans (Wiki: Rotavirus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1350">
+		<vaccine_name>Bovine Rotavirus-Coronavirus  Modified Killed Virus Vaccine (USDA: 1935.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002016</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1349">
+		<vaccine_name>Bovine Rotavirus-Coronavirus  Modified Live Virus Vaccine (USDA: 1931.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002017</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2520">
+		<vaccine_name>Bovine Rotavirus-Coronavirus Killed Virus Vaccine-Clostridium Perfringens Type C-Escherichia Coli Bacterin-Toxoid (USDA: 4570.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002018</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2524">
+		<vaccine_name>Bovine Rotavirus-Coronavirus Killed Virus Vaccine-Clostridium Perfringens Type C-Escherichia Coli Bacterin-Toxoid (USDA: 4570.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002019</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2528">
+		<vaccine_name>Bovine Rotavirus-Coronavirus Killed Virus Vaccine-Clostridium Perfringens Types C &amp; D-Escherichia Coli Bacterin-Toxoid (USDA: 4575.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002020</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2532">
+		<vaccine_name>Bovine Rotavirus-Coronavirus Killed Virus Vaccine-Escherichia Coli Bacterin (USDA: 4585.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002021</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2535">
+		<vaccine_name>Bovine Rotavirus-Coronavirus Killed Virus Vaccine-Escherichia Coli Bacterin (USDA: 4585.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002022</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4172">
+		<vaccine_name>HSVT[VP7/6/2]</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004687</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3205">Herpes simplex virus type 1 (HSV-1) amplicon vectors were constructed to coexpress the rotavirus (RV) structural genes VP2, VP6, and VP7 (Laimbacher et al., 2012).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1768" gene_id="gene673">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3205">HSV-1 amplicon vectors encoding individual or multiple structural RV proteins from a polycistronic transgene cassette in mammalian cells (Laimbacher et al., 2012).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1769" gene_id="gene638">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3205">HSV-1 amplicon vectors encoding individual or multiple structural RV proteins from a polycistronic transgene cassette in mammalian cells (Laimbacher et al., 2012).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1770" gene_id="gene676">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3205">HSV-1 amplicon vectors encoding individual or multiple structural RV proteins from a polycistronic transgene cassette in mammalian cells (Laimbacher et al., 2012).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1874" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3205">intramuscular injection of mice with the amplicon vectors as a two-dose regimen without adjuvants (Laimbacher et al., 2012).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0001030</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3205">Immunized mice were partially protected at the mucosal level  (Laimbacher et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3205">Immunized mice were challenged with live wild-type (wt) rotavirus infection (Laimbacher et al., 2012).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine343">
+		<vaccine_name>ROTARIX</vaccine_name>
+		<proper_name>Rotavirus Vaccine, Live, Oral</proper_name>
+		<brand_name>ROTARIX</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000093</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>The USA (License #1617)</location_licensed>
+		<description refs="reference737">Indication:  Prevention of rotavirus gastroenteritis caused by G1 and non-G1 types (G3, G4, and G9) in infants and children when administered as a two-dose series between the ages of 6-24 weeks (FDA: ROTARIX).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store the vials of lyophilized ROTARIX refrigerated at 2° to 8°C (36° to 46°F). The diluent may be stored at a controlled room temperature 20° to 25°C (68° to 77°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference737">ROTARIX is a live, attenuated rotavirus vaccine derived from the human 89-12 strain which belongs to G1P[8] type. The rotavirus strain is propagated on Vero cells. The lyophilized vaccine contains amino acids, dextran, Dulbecco’s Modified Eagle Medium (DMEM), sorbitol, and sucrose. The liquid diluent contains calcium carbonate, sterile water, and xanthan. The diluent includes an antacid component (calcium carbonate) to protect the vaccine during passage through the stomach and prevent its inactivation due to the acidic environment of the stomach. ROTARIX contains no preservatives (FDA: ROTARIX).</preparation>
+		<route refs=""></route>
+		<antigen refs="">A live, attenuated rotavirus vaccine derived from the human 89-12 strain which belongs to G1P[8] type.</antigen>
+		<host_response host_response_id="host_response429" host_id="host2">
+			<immune_response refs="reference737">Seroconversion was defined as the appearance of anti-rotavirus IgA antibodies (concentration ≥20 U/mL) post-vaccination in the serum of infants previously negative for rotavirus.  In one clinical trial, it was recorded that 86.5% of 787 recipients of ROTARIX seroconverted compared with 6.7% of 420 placebo recipients and 76.8% of 393 recipients of ROTARIX seroconverted compared with 9.7% of 341 placebo recipients (FDA: ROTARIX).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects of vaccination include: fussiness/irritability, cough/runny nose, fever, loss of appetite, and vomiting.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response430" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference737">A randomized, double-blind, placebo-controlled study was conducted in 6 European countries. A total of 3,994 infants were enrolled to receive ROTARIX or placebo.  Analyses were also done to evaluate the efficacy of ROTARIX against rotavirus gastroenteritis among infants who received at least one vaccination (FDA: ROTARIX).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference737">In this study, the efficacy of ROTARIX against any grade of severity of rotavirus gastroenteritis through one rotavirus seasons was 87.1% and for ROTARIX against any grade of severity of rotavirus gastroenteritis through two rotavirus seasons was 78.9% (FDA: ROTARIX).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine344">
+		<vaccine_name>RotaTeq</vaccine_name>
+		<proper_name>Rotavirus Vaccine, Live, Oral, Pentavalent</proper_name>
+		<brand_name>RotaTeq</brand_name>
+		<manufacturer>Merck &amp; Co., Inc, USA License #0002</manufacturer>
+		<vo_id>VO_0000097</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs="reference737">Indication: Prevention of rotavirus gastroenteritis in infants and children caused by the serotypes G1, G2, G3, and G4 when administered as a 3-dose series to infants between the ages of 6 to 32 weeks (FDA: ROTARIX).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store and transport refrigerated at 2-8°C (36-46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference737">RotaTeq is a live, oral pentavalent vaccine that contains 5 live reassortant rotaviruses. The reassortants are propagated in Vero cells using standard cell culture techniques in the absence of antifungal agents. The reassortants are suspended in a buffered stabilizer solution. RotaTeq contains no preservatives (FDA: ROTARIX).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference737">5 live reassortant rotaviruses:  Four reassortant rotaviruses express one of the outer capsid proteins (G1, G2, G3, or G4) from the human rotavirus parent strain and the attachment protein (serotype P7) from the bovine rotavirus parent strain. The fifth reassortant virus expresses the attachment protein, P1A (genotype P[8]), herein referred to as serotype P1A[8], from the human rotavirus parent strain and the outer capsid protein of serotype G6 from the ovine rotavirus parent strain (FDA: ROTARIX).</antigen>
+		<host_response host_response_id="host_response431" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference738">71,725 infants were evaluated in 3 placebo-controlled clinical trials including 36,165 infants who received RotaTeq and 35,560 infants who received placebo (FDA: RotaTeq).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Possible side effects of vaccinations include: intussusception, vomiting, diarrhea, irrittability</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response432" host_id="host2">
+			<immune_response refs="">92.9% to 100% of 439 recipients of RotaTeq achieved a 3-fold or more rise in serum anti-rotavirus IgA after a three-dose regimen.</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference738">72,324 infants were randomized in 3 placebo-controlled, phase 3 studies conducted in 11 countries on 3 continents. The vaccine was given as a three-dose series to healthy infants with the first dose administered between 6 and 12 weeks of age and followed by two additional doses administered at 4- to 10-week intervals (FDA: RotaTeq).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference738">Primary efficacy against any grade of severity of rotavirus gastroenteritis caused by naturally occurring serotypes G1, G2, G3, or G4 through the first rotavirus season after vaccination was 74.0% (FDA: RotaTeq).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3048">
+		<vaccine_name>Rotavirus Chimeric VP6 protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004224</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference1857">Chimeric VP6 protein (Choi et al., 2002).</antigen>
+		<host_response host_response_id="host_response880" host_id="host3">
+			<immune_response refs="reference1857">Mice immunized with Adjumer®, CTA1-DD or LT(R192G), also developed low titers of fecal rotavirus IgA. Use of Adjumer as an adjuvant had a large IgG1 titer but no increase in IgG2a titer (Choi et al., 2002).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1857">Mice were lightly anaesthetized in a closed vessel with Metafane (methoxyflurane, Pitman–Moore Inc., Mundelein, IL). Vaccine formulations containing chimeric VP6 admixed with different adjuvants were then delivered intranasally or orally into groups of mice. Two i.n. doses (60 μl per dose, 30 μl per nostril) or two oral doses (100 μl per dose), separated by 2 weeks, were delivered. Each dose of immunogen consisted of 9 μg of purified chimeric VP6, which was mixed with LT(R192G) (10 μg), CTA1-DD (10 μg), Adjumer® (50 μg), CpG ODN (10 μg) or QS-21 (20 μg) just before immunization. The amounts of adjuvants used were based on the amounts determined for other immunogens. A group of unimmunized mice served as the control in each experiment (Choi et al., 2002).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1857">Mice immunized with chimeric VP6 and Adjumer had a 35% reduction in shedding of virus compared to unimmunized mice (Choi et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1857">Four weeks after the last immunization, mice were orally (gavage) challenged with 4×10^4 FFUs (100 μl, 100 SD50) of passage-9 EDIM rotavirus (Choi et al., 2002).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine914">
+		<vaccine_name>Rotavirus VP2/VP 6 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004160</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Orally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1264">A detoxified version of cholera toxin, CT-E29H (Siadat-Pajouh and Cai, 2001).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Orally</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering392" gene_id="gene673">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response671" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1264">Four-week-old BALB/c mice were vaccinated twice at Weeks 0 and 2 either orally or i.n.  with 100 and 10 ug of 2/6-VLPs, respectively; each vaccine dose was formulated with 10 mg of CT-E29H. A third group of BALB/c mice (n = 4) received 2/6-VLPs with CT-E29H i.n. followed by an oral booster immunization (i.e., mixed group). Control mice in this experiment were inoculated with CT-E29H, 13 TNC, and 2/6-VLPs alone. Each mouse was inoculated i.n. with 20 uL of inoculums , 2 uL at a time into alternating nares at 1-min intervals (Siadat-Pajouh and Cai, 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1264">In BALB/c mice, intranasal vaccination with 2/6-VLPs and CT-E29H proved protective (PRAS 5 98.7%), in contrast to intranasal immunization with 2/6-VLPs alone (PRAS 5 39%), demonstrating the significant augmentation in protective immune responses due to CT-E29H. BALB/c mice in all three immunization groups showed nearly complete protection from the challenge. PRAS was 99.6, 98.8, and 98.8% for the oral, intranasal, and the mixed groups, respectively. The unimmunized control group shed significantly more viral antigen than the three immunized groups (Siadat-Pajouh and Cai, 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1264">All animals were challenged by gavage with 10 SD50 of wild-type EDIM rotavirus at week 13 (BALB/c mice). The trypsin-activated challenge virus (100 uL) was administered following oral inoculation of 100 uL of 4% sodium bicarbonate solution to neutralize gastric acidity (Siadat-Pajouh and Cai, 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine917">
+		<vaccine_name>Rotavirus VP4/VP7 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004161</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1266">Freund's incomplete adjuvant (Redmond et al., 1993).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering396" gene_id="gene643">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering397" gene_id="gene642">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering399" gene_id="gene678">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response674" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">CD-1</host_strain>
+			<vaccination_protocol refs="reference1266">For primary immunization, each immunogen (based on 10μg of VP6) was emulsified with an equal volume of Freund's complete adjuvant. For the secondary 'booster' immunizations, each immunogen was emulsified with an equal volume of Freund's incomplete adjuvant. Eight groups of mice (Strain CD-1 ; ten animals/group) were immunized intramuscularly with the immunogen preparations. The primary immunization was given to the mice at 7 weeks of age and was followed by two booster immunizations at 2 week intervals. The mice were bred and litters were born to the dams at 12 to 14 weeks of age (Redmond et al., 1993).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1266">The highest antibody and virus neutralization titres were achieved following vaccination with VP4 cell-lysate. The significance of VP4 in the neutralization of virus was clearly defined by the high virus neutralization titres achieved following vaccination with any preparation containing VP4 (Redmond et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1266">Pups were allowed to suckle their dams and ten pups/group were challenged at 7 days of age with one of four rotavirus isolates. The challenge dose for each isolate was ~ 10^6 p.f.u./mouse, suspended in MEM in 100 microliter volume. This dose had been demonstrated to produce diarrhoea in 100% of neonatal mice born to rotavirus antibody-free dams 26. The virus challenge preparations were administered by intubation of the stomach with a soft flexible plastic feeding tube. The appearance of diarrhoea was scored clinically for up to 72 h postchallenge (Redmond et al., 1993).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine877">
+		<vaccine_name>Rotavirus VP6 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004043</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1228">Two adjuvants were used in this study and were either mixed with MBP::VP6 prior to immunization or were administered separately. One was the attenuated E. coli heat-labile toxin LT(R192G). LT(R192G) carries a mutation in the trypsin cleavage site of the A subunit at arginine 192 (replaced by glycine) which abrogates cleavage and attenuates the toxicity of the protein. The other adjuvant was CTA1-DD which is composed of the enzymatically active A1 subunit of cholera toxin combined with a dimer of an immunoglobulin binding element from S. aureus protein A. Pre-clinical evaluations of CTA1-DD have reported it to be nontoxic (McNeal et al., 2007).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering351" gene_id="gene638">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response636" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1228">Under sedation, mice were immunized intrarectally by gently inserting a micropipette tip ca. 0.5 cm and instilling a 10 μl volume. The total volume for all immunogens used was 20 μl split in two doses of 10 μl. Groups of mice received two intrarectal immunizations of 3 μg MBP::VP6 and either LT(R192G) or CTA1-DD (10 μg of either adjuvant). This quantity of MBP::VP6 was used, based on the concentration of the MBP::VP6, to keep the volume under 20 μl to avoid loss from the anus. Groups of control mice were either mock immunized with phosphate-buffered saline (PBS) only or with MBP::VP6, LT(R192G), or CTA1-DD only. Immunizations were separated by 2 weeks (McNeal et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1228">Intranasal or oral delivery of the chimeric rotavirus VP6 protein MBP::VP6 to mice elicited &gt;90% reductions in fecal rotavirus shedding after murine rotavirus challenge (McNeal et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1228">Four weeks after the second immunization, animals were either challenged with 10^5 shedding dose-50 (SD50) of wt EDIM by oral gavage to measure protection against fecal rotavirus shedding or they were sacrificed and their spleen cells were isolated and used for in vitro stimulation studies (McNeal et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response287" gene_id="gene1180">
+			    <description refs="reference1228">Splenic lymphocytes obtained 42 days after first immunization were stimulated for 18 hours with MBP::VP6. LT(R192G)+MBP:VP6 produced significantly more IL-17 than did mock immunized (PBS-vaccinated) mice (McNeal et al., 2007).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response288" gene_id="gene1">
+			    <description refs="reference1228">Splenic lymphocytes obtained 42 days after first immunization were stimulated for 18 hours with MBP::VP6. LT(R192G)+MBP:VP6 and CTA1-DD+MBP:VP6 produced significantly more IFN-gamma than did mock immunized (PBS-vaccinated) mice (McNeal et al., 2007).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene1180">
+        <gene_name>IL-17</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16171</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>6754324</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC159614</gene_refseq>
+        <protein_refseq>NP_034682</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>1</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>20730904</gene_start>
+        <gene_end>20734495</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>interleukin 17A</protein_name>
+        <protein_pi>9.13</protein_pi>
+        <protein_weight>16001.99</protein_weight>
+        <protein_length>158</protein_length>
+        <protein_note>Also known as Il17; Ctla8; IL-17; Ctla-8; IL-17A</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099109:20730904-20734495 Mus musculus strain C57BL/6J chromosome 1, GRCm38 C57BL/6J
+CATCCACCTCACACGAGGCACAAGTGCACCCAGCACCAGCTGATCAGGACGCGCAAACATGAGTCCAGGG
+AGAGCTTCATCTGTGGTGAGTCCTGCACTAATGTACAAGGCGCTTGTTGATTGTGACCAGGTTGCGTTAT
+TGCACGTGATATGAAATGCTCTATTCCAGCTGTTGGGGTCCATGAATCTGTACATGTAGAACTGGAAATG
+AAACCTTTGGTAGATGTCGAAATCATTGTACAGCATTTTCAAGAACTGATAGGCATCAGTCAGAAAGATA
+CGGTTAAAACTGAAGGGTTGCTGTGATGAAACTAACCCACTAAGAAATGTCACATGACGCTATGCAATGA
+GAAAGACTGTCAAAATCTATTCTTCTGAGTGCAAGGGATTTGACGTCATTCTCTCATGTCAGTGCTCTTT
+AATCCAGAATGAAGTGGGCTACTGTTCTTGCAGATTTGAAAGCTTTAGAAGCAAGTTTTCATCCATTGCT
+TTATCCCAAAGTCTTAGGATATCCAAACTATTAGATACATGTATAAGTCTCCTTATGAATAAAGCTTTAT
+ATATTTTAAATACTTAACCTAAAAAATATGCTCTGCACTCGTATTCTCATGATAGAATCAATGCATGCTA
+AATTTAGAACCGGATAATATATACCTAAGAAAACATGAGGGAGGTTCAGTTTCTATCTGGAGGATAGCTG
+GTGTACAAACACTGTTTCTAATTCTAACATGAGTGCCGACAAACAACGGGTAGGTTTTCTGCAGTCCTCT
+CCTCCAAGGTACATGTTTGACTGTGCACGAGGTTTACAGAAGGAGTGACTAAGAACACTAGTGCATAAGG
+ACAAGAAAATCGGGGTCATTCAGCAGCCCACTGACTCATGAGCTAACAGGCTGAGGAGATGGCAGAAGCT
+GACATTTTTATTAGGACCACTGCTGTCTAAGACATCACATGATTGTCCTCAGTCACAAAAAGAATGTAAG
+AAACTGGTTAAAAATAAAATAAATTCTACATTTTTTAGCATGATTTTGGCCATCTTAAAGTTTTTAAATT
+CAGAATTACTTACATATTAGGAGAGATCTTTCCAAAATATCATATGTTTCCTACAGTTAGTTATATACTC
+ATCACAATGAGTTTGTCAGAAAGAAAAGCAGATACTAATCCAATCCCCCATCACCTTATCTTTCCCTTCT
+AGTCTCTGATGCTGTTGCTGCTGCTGAGCCTGGCGGCTACAGTGAAGGCAGCAGCGATCATCCCTCAAAG
+CTCAGCGTGTCCAAACACTGAGGCCAAGGACTTCCTCCAGAATGTGAAGGTCAACCTCAAAGTCTTTAAC
+TCCCTTGGCGCAAAAGTGAGCTCCAGAAGGCCCTCAGACTACCTCAACCGTTCCACGTCACCCTGGACTC
+TCCAGTACGTAAGAACTCCAGACAAAATAATCTGTGTCCTTCCATTCTCTGATGCACCATGTATACCCTA
+AACATGATTTTTCACTTTTTTCCTCTCAGTATCCTCAGAGACCTAGAAGGTCCATTGTGTTAAGCAAAGT
+TTCCTCTACAGAGTTCTTGGATAGAGCAGGGAATACTTCCCCCTAACCTGTTATAGTGGTCAATAATGAG
+AGAGATCAACCCAAATTATTGATAACCATGATTCTAGCATGAGAGCTCAAGTTGAATGCTGACTTTTTTG
+GAAATCAGGATGTTTATGTTTCAACCAGACCTACAATTAAAGAGACTTGATGAAAAATAATTAATAACTA
+ACTAGGTATTTTTGTGTCTGACCTGAAGAAGACATAGGAAAACAAAATTTGAATGGCTGGTAGAGGAAGC
+ATCCTGCTGGATATGTTTTCTCCTTTGTGAGTTGGATAGACTTGACCTCCATCCCAAGCCCTTTTTTACT
+TGACCTGTCTCTGGCATACACTATTTAGACCCCATAAAGGGCTCAGTACTTTGATCATTTGAGGTTATAT
+GAATAAATTTCAATGGCAAGGAACCTGTGGAGCCACCTGTCTATAGGATTTTTCTCCTTTTTCCAAAACC
+AAGGATAATTCAATCAATCAATTCAAAAATCTAAGTGAACTATTTATTCAGATATTGTAAAGGGACAAGA
+AAGAGATTATAAAGGGACTTTTGTTGTTGCTTCTAGCTTTTCATATAACTTCCGTCCCAGGAAGTGTTCT
+CAGATATAATTCTGATATTCCTTCTTTCAAAGACCAATGTCACCAAATCAGATGAACAGCCATTTTACTC
+CTTGGTCATCTGTCCCTTTGTTGTCTCCTGTCAATCAAATGTACCCTTAAAATTTATCTTTTTTTTTTTT
+ATGTTATCTACTTGATGTTAAGTTTCAATCCTCACCTCACTATGGTCTTTAGCTTATTCTGTTTATCTTT
+CAAAAAGCATTCTTCTAAATCATTTCCTAAACTTTAAAATTCAAGTTTGTGAAGCTTCAGGTCCAGTTCC
+ATGATGGAATGGGTGTCCATCATGTGGAAGACACTGGCTTTGATCCTTATTGCTGCGAAAGAGGAGGAGG
+GAGAAAATGAGGAATCCGGGAGGAAAAGATAGAAAGGGGAGAATCTAAATTTTCAGACAAGCCAAAGTTA
+GCAACTAACATGCAGAGCTTTGCAGTGCACATGTGTGTCACAGTGCGTTCTTCCTCCCTCCCCCGTTCCT
+GCTTTTCCTTCCACTTAAGCAGGACTTCATTTCCTCCTGGCTTTTGTCTCCCCTGCAGCCGCAATGAAGA
+CCCTGATAGATATCCCTCTGTGATCTGGGAAGCTCAGTGCCGCCACCAGCGCTGTGTCAATGCGGAGGGA
+AAGCTGGACCACCACATGAATTCTGTTCTCATCCAGCAAGAGATCCTGGTCCTGAAGAGGGAGCCTGAGA
+GCTGCCCCTTCACTTTCAGGGTCGAGAAGATGCTGGTGGGTGTGGGCTGCACCTGCGTGGCCTCGATTGT
+CCGCCAGGCAGCCTAAACAGAGACCCGCGGCTGACCCCTAAGAAACCCCCACGTTTCTCAGCAAACTTAC
+TTGCATTTTTAAAACAGTTCGTGCTATTGATTTTCAGCAAGGAATGTGGATTCAGAGGCAGATTCAGAAT
+TGTCTGCCCTCCACAATGAAAAGAAGGTGTAAAGGGGTCCCAAACTGCTTCGTGTTTGTTTTTCTGTGGA
+CTTTAAATTATTTGTGTATTTACAATATCCCAAGATAGCTTTGAAGCGTAACTTATTTTAATGAAGTATC
+TACATTATTATTATGTTTCTTTCTGAAGAAGACAAAATTCAAGACTCAGAAATTTTATTATTTAAAAGGT
+AAAGCCTATATTTATATGAGCTATTTATGAATCTATTTATTTTTCTTCAGTATTTGAAGTATTAAGAACA
+TGATTTTCAGATCTACCTAGGGAAGTCCTAAGTAAGATTAAATATTAATGGAAATTTCAGCTTTACTATT
+TGTTTATTTAAGGTTCTCTCCTCTGAATGGGGTGAAAACCAAACTTAGTTTTATGTTTAATAACTTTTTA
+AATTATTGAAGATTCAAAAAATTGGATAATTTAGCTCCCTACTCTGTTTTAAAAAAAAATTGTAACAATA
+TCACTGTAATAATAAAGTTTTG</dna_sequence>
+        <protein_sequence>>gi|6754324|ref|NP_034682.1| interleukin-17A precursor [Mus musculus]
+MSPGRASSVSLMLLLLLSLAATVKAAAIIPQSSACPNTEAKDFLQNVKVNLKVFNSLGAKVSSRRPSDYL
+NRSTSPWTLHRNEDPDRYPSVIWEAQCRHQRCVNAEGKLDHHMNSVLIQQEILVLKREPESCPFTFRVEK
+MLVGVGCTCVASIVRQAA</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene673">
+        <gene_name>VP2</gene_name>
+        <strain>Rotavirus sp.</strain>
+        <vo_id>VO_0011254</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>431460</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:282884</xrefs>
+        <taxonomy_id>10970</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>5.78</protein_pi>
+        <protein_weight>97494.97</protein_weight>
+        <protein_length>928</protein_length>
+        <protein_note>Rotavirus VP2 protein; pfam05087</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA47305.1 VP2 [Rotavirus sp.]
+MAYRKRGARRETNLKQDERMQEKEDSKNINNDSPKSQLSEKVLSKKEEIITDNQEEVKISDEVKKSNKEE
+SKQLLEVLKTKEEHQKEVQYEILQKTIPTFEPKESILKKLEDIKPEQAKKQTKLFRIFEPKQLPIYRANG
+ERELRNRWYWKLKRDTLPDGDYDVREYFLNLYDQVLMEMPDYLLLKDMAVENKNSRDAGKVVDSETAAIC
+DAIFQDEETEGAVRRFIAEMRQRVQADRNVVNYPSILHPIDHAFNEYFLQHQLVEPLNNDIIFNYIPERI
+RNDVNYILNMDRNLPSTARYIRPNLLQDRLNLHDNFESLWDTITTSNYILARSVVPDLKELVSTEAQIQK
+MSQDLQLEALTIQSETQFLTGINSQAANDCFKTLIADMLSQRTMSLDFVTTNYMSLISGMWLLTVIPNDM
+FIRESLVACQLAIINTIVYPAFGMQRMHYRNGDPQTPFQIAEQQIQNFQVANWLHFVNYNQFRQVVIDGV
+LNQVLNDNIRNGHVVNQLMEALMQLSRQQFPTMPVDYKRSIQRGILLLSNRLGQLVDLTRLLSYNYETLM
+ACITMNMQHVQTLTTEKLQLTSVTSLCMLIGNATVIPSPQTLFHYYNVNVNFHSNYNERINDAVAIITAA
+NRLNLYQKKMKSIVEDFLKRLQIFDVARVPDDQMYRLRDRLRLLPVEIRRLDIFNLIAMNMEQIERASDK
+IAQGVIIAYRDMQLERDEMYGYVNIARNLDGFQQINLEELMRSGDYAQITNMLLNNQPVALVGALPFITD
+SSVISLIAKLDATVFAQIVKLRKVDTLKPILYKINSDSNDFYLVANYDWIPTSTTKVYKQVPQQFDFRAS
+MHMLTSNLTFTVYSDLLAFVSADTVEPINAVAFDNMRIMNEL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Both inbred BALB/c and outbred CD-1 mice were immunized with rotavirus VP2/6-rVLPs (2/6-VLPs) combined with CT-E29H, orally or intranasally (i.n.), and the comparative efficacy of different formulations was then determined.  Two immunizations with 2-6VLPs and CT-E29H were sufficient to protect BALB/c mice, regardless of the route of administration [Ref1264:Siadat-Pajouh and Cai, 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene643">
+        <gene_name>VP4</gene_name>
+        <strain>Bovine rotavirus</strain>
+        <vo_id>VO_0011227</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>172054621</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:189541</xrefs>
+        <taxonomy_id>10927</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>VP4</protein_name>
+        <protein_pi>5.74</protein_pi>
+        <protein_weight>31092.2</protein_weight>
+        <protein_length>341</protein_length>
+        <protein_note>Outer Capsid protein VP4 (Hemagglutinin); pfam00426</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACB71152.1 VP4, partial [Bovine rotavirus]
+ASLIYRQLLTNSYTVNLSDEIQEIGSAKSQDVTINPGPFAQTGYAPVNWGAGETNDSTTVEPLLDGPYQP
+TTFNPPTSYWVLLAPTVEGVIIQGTNNTDRWLATILIEPNVQTTNRIYNLFGQQVTLSVENTSQTQWKFI
+DVSTTTPTGSYTQHGPLFSTPKLYAVMKFSGRIYTYSGNTPNATTGYYSTTNYDTLNMTSFCDFYIIPRN
+QEEKCTEYINHGLPPIQNTRNVVPVSLSAREIVHTRAQVNEDIVVSKTSLWKEMQYNRDITIRFKFDRTI
+IKAGGLGYKWS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Rotavirus structural proteins VP4, VP6 and VP7 from Bovine Rotavirus Strain C486 were cloned and expressed in a baculovirus expression system.  Challenge of neonates born to animals immunized with VP4 protein on assembled particles or in cell lysates showed protection against challenge with both homologous (bovine C486) and heterologous (SA-11) strains of rotavirus [Ref1266:Redmond et al., 1993].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene638">
+        <gene_name>VP6</gene_name>
+        <strain>Murine rotavirus</strain>
+        <vo_id>VO_0011222</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>268080815</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279341</xrefs>
+        <taxonomy_id>28327</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>VP6</protein_name>
+        <protein_pi>6.05</protein_pi>
+        <protein_weight>42740.75</protein_weight>
+        <protein_length>439</protein_length>
+        <protein_note>grown in MA104 tissue culture</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACY95265.1 VP6 [Murine rotavirus]
+MDVLYSISRTLKDARDKIVEGTLYSNVSDLIQQFNQMLVTMNGNEFQTGGIGNLPLRNWNFDFGLLGTTL
+LNLDANYVESARTTIDYFVDFIDNVCMDEMVRESQRNGIAPQSDALRKLSGVKFRRINFNNSSEYIENWN
+LQNRRQRTGFTFHKPNIFPYSASFTLNRSQPQHDNLMGTMWLNAGSEIQVAGFDYSCAINAPANIQQFEH
+IVQLRRVLTTATITLLPDAERFSFPRVINSADGATTWYFNPVILRPNNVEVEFLLNGQVINTYQARFGTI
+VARNFDTIRLSFQLMRPPNMTPAVTALFPNAQPFEHHATVGLTLRIDSAICESVLADASETMLANVTSVR
+QEYAIPVGPVFPPGMNWTDLITNYSPSREDNLQRVFTVASIRSMLVK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Intranasal or oral delivery of the chimeric rotavirus VP6 protein MBP::VP6 to mice elicited >90% reductions in fecal rotavirus shedding after murine rotavirus challenge [Ref1228:McNeal et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene678">
+        <gene_name>VP6</gene_name>
+        <strain>Bovine rotavirus</strain>
+        <vo_id>VO_0011258</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>195661002</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>1QHD</pdb_id>
+        <xrefs>CDD:279341</xrefs>
+        <taxonomy_id>10927</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>VP6</protein_name>
+        <protein_pi>5.72</protein_pi>
+        <protein_weight>42501.43</protein_weight>
+        <protein_length>439</protein_length>
+        <protein_note>Rotavirus major capsid protein VP6; pfam00980</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACG50679.1 VP6 [Bovine rotavirus]
+MDVLYSLSKTLKDARDKIVEGTLYSNVSDLIQQFNQMIITMNGNEFQTGGIGNLPIRNWNFDFGLLGTTL
+LNLDANYVETARNTIDYFVDFVDNVCIDEMVRESQRNGIAPQSDSLRKLSGIKFKRINFDNSSEYIENWN
+LQNRRQRTGFTFHKPNIFPYSASFTLNRSQPAHDNLMGTMWLNAGSEIQVAGFDYSCAINAPANTQQFEH
+VVQLRRVLTTATITLLPDAERFSFPRVINSADGATTWYFNPVILRPNNVEVEFLLNGQIINTYQARFGTI
+IARNFDTIRLSFQLMRPPNMTPAVAALFPNAQPFEHHATVGLTLRIESAVCESVLADASETMLANVTSVR
+QEYAIPVGPVFPPGMNWTDLITNYSPSREDNLQRVFTVASIRSMLVK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Rotavirus structural proteins VP4, VP6 and VP7 from Bovine Rotavirus Strain C486 were cloned and expressed in a baculovirus expression system.  Challenge of neonates born to animals immunized with VP6 protein showed partial protection [Ref1266:Redmond et al., 1993].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene642">
+        <gene_name>VP7</gene_name>
+        <strain>Bovine rotavirus</strain>
+        <vo_id>VO_0011226</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>195661008</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:278842</xrefs>
+        <taxonomy_id>10927</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>VP7</protein_name>
+        <protein_pi>4.62</protein_pi>
+        <protein_weight>35315.62</protein_weight>
+        <protein_length>367</protein_length>
+        <protein_note>Glycoprotein VP7; pfam00434</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACG50682.1 VP7 [Bovine rotavirus]
+MYGIEYTTILIFLTSITLLNYILKSITRMMDYIIYRFLLIAVILATMINAQNYGVNLPITGSMDTAYANS
+TQSEPFLTSTLCLYYPVEASNEMADTEWKDTISQLFLTKGWPTGSVYFKEYTDIAAFSVEPQLYCDYNLV
+LMKYDSTQKLDMSELADLILNEWLCNPMDITLYYYQQTDEANKWISMGSSCTVKVCPLNTQTLGIGCLIT
+NPDTFETVATTEKLVITDVVDGVNHKLNVTTATCTIRNCKKLGPRENVAVIQVGGANILDITADPTTTPQ
+TERMMRINWKKWWQVFYTVVDYVNQIIQTMSKRSRSLNSSAFYYRV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Rotavirus structural proteins VP4, VP6 and VP7 from Bovine Rotavirus Strain C486 were cloned and expressed in a baculovirus expression system.   Neonates of animals immunized with virus-like particles composed of VP7 assembled on VP6 spherical particles were protected against challenge with the homotypic virus and significantly protected from a heterotypic challenge.  Unassembled VP7 protein provided partial protection against challenge [Ref1266:Redmond et al., 1993].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene676">
+        <gene_name>VP7</gene_name>
+        <strain>Murine rotavirus</strain>
+        <vo_id>VO_0011256</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>475697</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:278842</xrefs>
+        <taxonomy_id>28327</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>VP7</protein_name>
+        <protein_pi>4.84</protein_pi>
+        <protein_weight>35471.05</protein_weight>
+        <protein_length>367</protein_length>
+        <protein_note>Glycoprotein VP7; pfam00434</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA50493.1 VP7 [Murine rotavirus]
+MYGIEYTTALTFLISFLLLRYILKSVVKIMDFIVYRFLFVILILSPCIKAQNYGINLPITGSMDTAYANS
+TQPETFLTSTLCLYYPKEAATEIKDNSWKDTLSQLFLTKGWPIGSVYFKEYTDIAAFSIDPQLYCDYNVV
+LMKYDASLQMDMSELADLILNEWLCNPMDITLYYYQQTDEANKWISMGSSCTIRVCPLNTQTLGIGCLTT
+DVTTFEEIATAEKLAITDVVDGVSHKLNVTTATCTIRNCKKLGPRENVAVIQVGGSDIIDITADPTTAPQ
+TERMMRINWKKWWQVFYTVVDYVNQIISTMSKRSRSLNSAAFYYRV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Plasmid DNA vaccines encoding for murine rotaviral proteins VP4, VP6, and VP7 were tested in adult BALB/c mice for their ability to induce immune responses and provide protection against rotavirus challenge.  Vaccines  encoding VP7 were effective in protecting mice against infection after rotavirus (100 ID50) challenge [Ref1267:Herrmann et al., 1996].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4992">
+		<reference_name>Afchangi et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Afchangi A, Arashkia A, Shahosseini Z, Jalilvand S, Marashi SM, Roohvand F, Mohajel N, Shoja Z</authors>
+		<title>Immunization of Mice by Rotavirus NSP4-VP6 Fusion Protein Elicited Stronger Responses Compared to VP6 Alone</title>
+		<year>2018</year>
+		<volume>31</volume>
+		<issue>3</issue>
+		<pages>233-241</pages>
+		<journal_book_name>Viral immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1857">
+		<reference_name>Choi et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Choi AH, McNeal MM, Flint JA, Basu M, Lycke NY, Clements JD, Bean JA, Davis HL, McCluskie MJ, VanCott JL, Ward RL</authors>
+		<title>The level of protection against rotavirus shedding in mice following immunization with a chimeric VP6 protein is dependent on the route and the coadministered adjuvant</title>
+		<year>2002</year>
+		<volume>20</volume>
+		<issue>13-14</issue>
+		<pages>1733-1740</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference737">
+		<reference_name>FDA: ROTARIX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: ROTARIX vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm133920.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference738">
+		<reference_name>FDA: RotaTeq</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: RotaTeq vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094063.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1268">
+		<reference_name>Garaicoechea et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Garaicoechea L, Olichon A, Marcoppido G, Wigdorovitz A, Mozgovoj M, Saif L, Surrey T, Parreño V</authors>
+		<title>Llama-derived single-chain antibody fragments directed to rotavirus VP6 protein possess broad neutralizing activity in vitro and confer protection against diarrhea in mice</title>
+		<year>2008</year>
+		<volume>82</volume>
+		<issue>19</issue>
+		<pages>9753-9764</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1267">
+		<reference_name>Herrmann et al., 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Herrmann JE, Chen SC, Fynan EF, Santoro JC, Greenberg HB, Robinson HL</authors>
+		<title>DNA vaccines against rotavirus infections</title>
+		<year>1996</year>
+		<volume>12</volume>
+		<issue></issue>
+		<pages>207-215</pages>
+		<journal_book_name>Archives of virology. Supplementum</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1232">
+		<reference_name>Herrmann et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Herrmann JE, Chen SC, Jones DH, Tinsley-Bown A, Fynan EF, Greenberg HB, Farrar GH</authors>
+		<title>Immune responses and protection obtained by oral immunization with rotavirus VP4 and VP7 DNA vaccines encapsulated in microparticles</title>
+		<year>1999</year>
+		<volume>259</volume>
+		<issue>1</issue>
+		<pages>148-153</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3205">
+		<reference_name>Laimbacher et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Laimbacher AS, Esteban LE, Castello AA, Abdusetir Cerfoglio JC, Argüelles MH, Glikmann G, D'Antuono A, Mattion N, Berois M, Arbiza J, Hilbe M, Schraner EM, Seyffert M, Dresch C, Epstein AL, Ackermann M, Fraefel C</authors>
+		<title>HSV-1 amplicon vectors launch the production of heterologous rotavirus-like particles and induce rotavirus-specific immune responses in mice</title>
+		<year>2012</year>
+		<volume>20</volume>
+		<issue>9</issue>
+		<pages>1810-1820</pages>
+		<journal_book_name>Molecular therapy : the journal of the American Society of Gene Therapy</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2334">
+		<reference_name>McClenahan et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McClenahan SD, Krause PR, Uhlenhaut C</authors>
+		<title>Molecular and infectivity studies of porcine circovirus in vaccines</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>29-30</issue>
+		<pages>4745-4753</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1228">
+		<reference_name>McNeal et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McNeal MM, Basu M, Bean JA, Clements JD, Lycke NY, Ramne A, Löwenadler B, Choi AH, Ward RL</authors>
+		<title>Intrarectal immunization of mice with VP6 and either LT(R192G) or CTA1-DD as adjuvant protects against fecal rotavirus shedding after EDIM challenge</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>33</issue>
+		<pages>6224-6231</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1265">
+		<reference_name>Offit et al., 1986</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Offit PA, Clark HF, Blavat G, Greenberg HB</authors>
+		<title>Reassortant rotaviruses containing structural proteins vp3 and vp7 from different parents induce antibodies protective against each parental serotype</title>
+		<year>1986</year>
+		<volume>60</volume>
+		<issue>2</issue>
+		<pages>491-496</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1266">
+		<reference_name>Redmond et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Redmond MJ, Ijaz MK, Parker MD, Sabara MI, Dent D, Gibbons E, Babiuk LA</authors>
+		<title>Assembly of recombinant rotavirus proteins into virus-like particles and assessment of vaccine potential</title>
+		<year>1993</year>
+		<volume>11</volume>
+		<issue>2</issue>
+		<pages>273-281</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1264">
+		<reference_name>Siadat-Pajouh and Cai, 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Siadat-Pajouh M, Cai L</authors>
+		<title>Protective efficacy of rotavirus 2/6-virus-like particles combined with CT-E29H, a detoxified cholera toxin adjuvant</title>
+		<year>2001</year>
+		<volume>14</volume>
+		<issue>1</issue>
+		<pages>31-47</pages>
+		<journal_book_name>Viral immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference739">
+		<reference_name>Wiki: Rotavirus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Rotavirus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Rotavirus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

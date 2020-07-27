@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen133">
+		<pathogen_name>Trypanosoma brucei</pathogen_name>
+		<taxon_id>5691</taxon_id>
+		<pathogenesis refs="reference1456">These obligate parasites have two hosts - an insect vector and mammalian host. Because of the large difference between these hosts the trypanosome undergoes complex changes during its life cycle to facilitate its survival in the insect gut and the mammalian bloodstream. It also features a unique and notable variable surface glycoprotein (VSG) coat in order to avoid the host's immune system (Wiki: T. brucei).</pathogenesis>
+		<disease_name>African trypanosomiasis (African Sleeping Sickness)</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1393">Trypanosomes are hemoflagellated protozoan parasites causing African sleeping sickness in humans and nagana in animals in Africa. African sleeping sickness is caused by the species Trypanosoma brucei. The incidence of disease in humans has increased 100-fold in the past 40 years, where about 55 million people and 25 million cattle have been estimated to be at risk of contracting African sleeping sickness or nagana. A total of 500,000 people estimated to be infected per year with 60,000 annual deaths. Treatment of African sleeping sickness has not advanced greatly in the last 50 years and is often highly toxic. Trypanosomiasis control programs aimed at eradication of the most common vector, the tsetse fly, though adequate if well managed, have not been fully effective (Rasooly and Balaban, 2004).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine836">
+		<vaccine_name>T. brucei DNA Vaccine encoding TSA protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011491</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 [Ref1398:Silva et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering306" gene_id="gene807">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response595" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB-c</host_strain>
+			<vaccination_protocol refs="reference1398">Mice were immunized by injecting 100 μg (200 μl) of plasmid DNA encoding nTSA gene by intramuscular route. As a control groups, five mice were injected with 100 μg of plasmid pVAX1LacZ (Invitrogen—USA) and with 200 μl of PBS by the same route (Silva et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1398">The DNA vaccination process was able to protect 60% of mice submitted to a challenge assay with the infective form of T. brucei brucei parasites (Silva et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1398">After 175 days of immunization, mice in vaccinated and control groups were submitted to the challenge assay, performed by intraperitoneal injection of 500 parasites (T. b. brucei GVR 35 1.5) per animal. The period of survival, defined as the number of days after infection that the infected animals remain alive, was evaluated (Silva et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine837">
+		<vaccine_name>T. brucei Subunit p15 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011492</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1393">Freund’s adjuvant (Rasooly and Balaban, 2004)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering307" gene_id="gene803">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response596" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Swiss</host_strain>
+			<vaccination_protocol refs="reference1393">Swiss male mice were injected three times subcutaneously on days 1, 7 and 21 with the antigen. Antigen contained 10 μg of native p15 isolated from T. brucei brucei KETRI 2693, recombinant p15 purified from Ad-p15 infected HEK293 cells, partially purified subpellicular microtubules as a positive control (subpellicular fraction &gt;30 kDa), or with PIPES buffer used to purify p15 as a negative control. Vaccinations included complete Freund’s adjuvant on first injection and incomplete Freund’s adjuvant on second and third injections. To test the protective potential of the recombinant viral vaccine, mice were injected intramuscularly (on days 1, 7 and 21) with 2×10^9 Ad-p15 virus particles or with control Ad-lacZ (Rasooly and Balaban, 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1393">Vaccination of mice with p15 (native or recombinant) generated up to 100% protection from an otherwise lethal challenge of a heterologous strain of Trypanosoma brucei (Rasooly and Balaban, 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1393">Animals were challenged intraperitoneally on day 31 with 500 T. brucei brucei strain SB1 (Rasooly and Balaban, 2004).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene803">
+        <gene_name>MAPP15</gene_name>
+        <strain></strain>
+        <vo_id>VO_0011334</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>777767</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5691</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>microtubule-associated protein</protein_name>
+        <protein_pi>12.57</protein_pi>
+        <protein_weight>7350.75</protein_weight>
+        <protein_length>161</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA65193.1 microtubule-associated protein, partial [Trypanosoma brucei]
+ARATAVPKKAVAKKAAPKKTVAKKAAPKKAVAKKVAPKKAVAKKVVAKKAVAKKVVAKKVAPKKVVAKKV
+APKKVAGKKAAAKKA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The microtubule-associate protein (MAP p15) was tested as a vaccine in mice, and tests showed that p15 (native or recombinant) generated up to 100% protection from an otherwise lethal challenge of a heterologous strain of Trypanosoma brucei [Ref1393:Rasooly and Balaban, 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene807">
+        <gene_name>TSA</gene_name>
+        <strain></strain>
+        <vo_id>VO_0011338</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>62175539</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:271234
+CDD:290570</xrefs>
+        <taxonomy_id>5691</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>trans-sialidase</protein_name>
+        <protein_pi>6.57</protein_pi>
+        <protein_weight>77957.172</protein_weight>
+        <protein_length>833</protein_length>
+        <protein_note>Non-viral sialidases; cd15482</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAX69677.1 trans-sialidase [Trypanosoma brucei]
+MEELHQQMRMPISRLLLIFTAVCHCCALTSKAAGKGTTREAFLSGGAWALRKKLSEKDGEVWWWQDGPNW
+KDKYDKEWERWFKEEKGPWGGSEKRSEWFARMTGGYITLGKTKILSSAIEGSDKVERTVHSFRIPSFVEV
+DGVLMGIGDARYLTSTDYFFTDTVAKYSADGGKTWKTEVIIENGRVDPTYSRVVDPTVVAKADSVFVLVA
+RYNVTKGYWHNENNAAGIADWEPFMYKGVVTKGADGKTSDVRISWTKTPLKPLYDFTVAGSKGTQFIGGA
+GNGVVTLNGTILFPVQARNEDNAVVSMVMYSVDDGVSWHFARGETALLTSEASLTEWNGKLLMSARTDTS
+GVNVEGGFRKVFESNNLGATWEESLGTISRVIGNSPDRTKPSPTANYPGSSGALITVTLGDVPVMLITHP
+KNTKGAWSRDRLQLWMTDGNRMWLVGQISEGDDNSAYSSLLLARDGLLYCLHEQNIDEVYGLHLVHLVDE
+LEKVNATVRKWKAQDALLAGLCSSSRKKNDPTCSGVPTDGLVGLLAGPVGASVWADVYDCVNASISDGVK
+VSEGVQLGGKRNSRVLWPVSEQGQDQRYYFANTHFTLLATVRFAGEPKAEAPLMGFSNAEGKTSETLSLT
+VGGKKWVLTYGSVRKEGPTTSMDWNQTHQIALTLRDGKVDAHVNGELIIKEVSVGASESSAHLHLSHFFI
+GAPVNDSGEGGNNVIVRNVLLYNRKLDEDELQLLYSNREKIQPVVSAVGIPEGMSAPRLCCLLILMYVLA
+I
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB-c mice immunized intramuscularly with a single dose (100 microg) of a plasmid DNA encoding the 5'-terminal region of the trans-sialidase (nTSA) gene of T. brucei brucei are able to produce IgG antibodies that bind to the bloodstream form of T. brucei-protein extract and recognize the recombinant nTSA protein, expressed in Escherichia coli. Furthermore, this DNA vaccination process was able to protect 60% of mice submitted to a challenge assay with the infective form of T. brucei brucei parasites [Ref1398:Silva et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1393">
+		<reference_name>Rasooly and Balaban, 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rasooly R, Balaban N</authors>
+		<title>Trypanosome microtubule-associated protein p15 as a vaccine for the prevention of African sleeping sickness</title>
+		<year>2004</year>
+		<volume>22</volume>
+		<issue>8</issue>
+		<pages>1007-1015</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1398">
+		<reference_name>Silva et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Silva MS, Prazeres DM, Lança A, Atouguia J, Monteiro GA</authors>
+		<title>Trans-sialidase from Trypanosoma brucei as a potential target for DNA vaccine development against African trypanosomiasis</title>
+		<year>2009</year>
+		<volume>105</volume>
+		<issue>5</issue>
+		<pages>1223-1229</pages>
+		<journal_book_name>Parasitology research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1456">
+		<reference_name>Wiki: T. brucei</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Trypanosoma brucei</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/T._brucei</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen140">
+		<pathogen_name>Streptococcus pyogenes</pathogen_name>
+		<taxon_id>1314</taxon_id>
+		<pathogenesis refs="reference1526">Colonization of tissues by S. pyogenes is thought to result from a failure in the constitutive defenses (normal flora and other nonspecific defense mechanisms) which allows establishment of the bacterium at a portal of entry (often the upper respiratory tract or the skin) where the organism multiplies and causes an inflammatory purulent lesion (Textbook of Bacteriology).</pathogenesis>
+		<disease_name>Group A streptococcal infections, Strep throat, Scarlet fever</disease_name>
+		<protective_immunity refs="reference1526">Macrophages and the antibody mediated response are the major defenses for host protective immunity against S. pyogenes infection (Textbook of Bacteriology).</protective_immunity>
+		<host_range refs="reference1511">S. pyogenes is a human pathogen and mice are the animal model that is used (Okamoto et al., 2005).</host_range>
+		<introduction refs="reference1512">Streptococcus pyogenes is a spherical gram-positive bacterium that grows in long chains and is the cause of Group A streptococcal infections. S. pyogenes displays streptococcal group A antigen on its cell wall. S. pyogenes typically produces large zones of beta-hemolysis (the complete disruption of erythrocytes and the release of hemoglobin) when cultured on blood agar plates and are therefore also called Group A (beta-hemolytic) Streptococcus (abbreviated GAS). S. pyogenes is the cause of many important human diseases ranging from mild superficial skin infections to life-threatening systemic diseases. Infections typically begin in the throat or skin. Examples of mild S. pyogenes infections include pharyngitis (&quot;strep throat&quot;) and localized skin infection (&quot;impetigo&quot;). Erysipelas and cellulitis are characterized by multiplication and lateral spread of S. pyogenes in deep layers of the skin. S. pyogenes invasion and multiplication in the fascia can lead to necrotizing fasciitis, a potentially life-threatening condition requiring surgical treatment (Wiki: S. pyogenes).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3077">
+		<vaccine_name>Group A streptococcal recombinant fusion peptide Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004247</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference1903">A recombinant fusion peptide group A streptococcal vaccine containing N-terminal M protein fragments from serotypes 1, 3, 5, 6, 19, and 24  (Kotloff et al., 2004).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response907" host_id="host2">
+			<immune_response refs="reference1903">Vaccination elicited 4-fold or more increases in 40 (83%) of 48 possible assays (ie, 6 antigens × 8 volunteers) following the 50-µg dose, in 45 (75%) of 60 possible assays (ie, 6 antigens × 10 volunteers) following the 100-µg dose, and in 57 (95%) of 60 possible assays (ie, 6 antigens × 10 volunteers) following the 200-µg dose. The geometric mean antibody titer following vaccination was significantly higher than the prevaccination titer for each antigen measured in all dose groups (Kotloff et al., 2004).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1903">Twenty-eight healthy adults aged 18 to 50 years were vaccinated.  Groups of volunteers received 3 spaced intramuscular injections of either 50-µg (n = 8), 100-µg (n = 10), or 200-µg (n = 10) doses of vaccine into the deltoid muscle of alternating arms. Escalation to a higher dose level required approval by an independent data and safety monitoring committee that reviewed all data from recipients of the lower dose group collected between day 0 until 14 days after the third inoculation. A day 0, 28, and 56 dosing schedule was chosen initially. When 1 of 8 recipients of a 50-µg dose experienced moderate induration and pruritus at the injection site following the third injection, the sponsor and independent data and safety monitoring committee recommended that the dosing schedule for subsequent groups be changed to 0, 28, and 112 days (Kotloff et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference1903">Vaccination was well-tolerated. Local erythema, swelling, or tenderness were detected in 6 (21%) of 29 participants within 7 days after the first inoculation and 12 (43%) of 28 participants each after the second and third inoculations. All local reactions were graded as mild (≤30 mm and easily tolerated) with the exception of the aforementioned participant who developed moderate (31-80 mm) erythema, swelling, and itching for 1 day after the third dose of 50 µg (Kotloff et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1090">
+		<vaccine_name>S. pyogenes FbaA  Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004054</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund’s adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="">Purified FbaA protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering580" gene_id="gene853">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response847" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1509">Mice were immunized subcutaneously with purified FbaA + Freund’s adjuvant at weeks 0, 2, and 4 (Ma et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1509">60% of mice immunized with FbpA were protected from challenge with group A streptococcus (Ma et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1509">Mice immunized with FbaA or PBS were injected i.p. with 1 ml bacterial suspension (equivalent to 2 × 10^8 CFU) and monitored
+survival daily for 15 days (Ma et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response219" gene_id="gene1161">
+			    <description refs="reference1509">Assay for immune response showed that FbaA could induce protein-specific high serum IgG titer in BALB/c mice 10 days after injection.  There was no significant difference between the antibody titers of the FbaA vaccine and an M protein vaccine, which is the best immugen of group A streptococcus, and FbaA induced significantly higher titers than PBS-vaccinated mice (Ma et al., 2009).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1091">
+		<vaccine_name>S. pyogenes FBP54 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004055</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Orally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Orally</route>
+		<antigen refs="">Recombinant FBP54 protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering581" gene_id="gene4152">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response848" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1508">Mice were orally immunized with cholera toxin (CT; 10 μg)-FBP54 (10 μg) or CT (10 μg)-PBS by using an intubation needle. Immunization was performed four times, on days 0, 14, 28, and 42 (Kawabata et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1508">Mice subcutaneously or orally immunized with FBP54 survived significantly longer following the challenge with S. pyogenes than did nonimmunized mice (Kawabata et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1508">Actively immunized mice were intraperitoneally challenged with an appropriate number of CFU of S. pyogenes SSI-1 (M3), SSI-9 (M1), or S42 (M12) on day 51 following immunization (Kawabata et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response220" gene_id="gene1160">
+			    <description refs="reference1508">An enzyme-linked immunosorbent assay revealed that antigen-specific IgG antibodies were induced in the sera of immunized mice, while high salivary levels of IgA antibodies were detected after oral and nasal immunizations.  Nonimmunized control groups did not show any detectable humoral immune responses to FBP54 in sera (Kawabata et al., 2001).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response221" gene_id="gene1161">
+			    <description refs="reference1508">An enzyme-linked immunosorbent assay revealed that antigen-specific IgG antibodies were induced in the sera of immunized mice, while high salivary levels of IgA antibodies were detected after oral and nasal immunizations.  Nonimmunized control groups did not show any detectable humoral immune responses to FBP54 in sera (Kawabata et al., 2001).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1089">
+		<vaccine_name>S. pyogenes M Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004053</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1510">10 μg of CTB or 0.5 μg of the TLR2/6 agonist MALP-2 as mucosal adjuvants (Schulze et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference1510">A polypeptide encompassing a conformational B cell epitope of the M protein conjugated with DT (Schulze et al., 2006).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering579" gene_id="gene854">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1510">A polypeptide encompassing a conformational B cell epitope of the M protein (J8, positions 344–355 of the M1 sequence, accession no. X62131) was synthesised, purified and conjugated with  DT (Schulze et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response846" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1510">Mice were immunised by intranasal route (10 μl per nostril) with either J8-DT (M protein) (30 μg per dose) co-administered with 10 μg of CTB or 0.5 μg of the TLR2/6 agonist MALP-2 as mucosal adjuvants, on day 0, 7, 14, and 28. Control animals received PBS alone (Schulze et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1510">Mice immunized with J8-DT had 60% survival following challenge (Schulze et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1510">Mice were intranasally challenged with 10^8 CFU of the heterologous virulent S. pyogenes strain NS192 in 40 μl of PBS (20 μl per nostril) (Schulze et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1092">
+		<vaccine_name>S. pyogenes SfbI Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004056</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Cholera toxin B subunit</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="">Recombinant SfbI protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering582" gene_id="gene851">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response849" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1507">MIce were immunized intranasally with 20 μL of SfbI (H2 fragment) covalently coupled to CTB or with CTB alone as a control on days 1, 3, 5, and 26 (30 mg/dose) (Guzmán et al., 1999).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1507">SfbI-vaccinated animals showed 80% and 90% protection against homologous and heterologous challenge (Guzmán et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1507">On day 36 mice were challenged with 10^6 cfu of S. pyogenes DSM 2071 or NS239, respectively (Guzmán et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1093">
+		<vaccine_name>S. pyogenes Sib35 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004057</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's complete adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="">Recombinant Sib35 protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering583" gene_id="gene855">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response850" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c, C3H/HeN, C57/BL6 and CD1</host_strain>
+			<vaccination_protocol refs="reference1511">Six-week-old female mice were separated into two groups, which were either subcutaneously immunized with rSib35 (50 μg) in Freund's complete adjuvant  or injected with PBS in FCA on day 0, and given booster injections with rSib35 and Freund's incomplete adjuvant  on days 14, 28, and 42 (Okamoto et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1511">The survival rates of all four-mouse strains were significantly increased by Sib35 vaccination. 100% of the Sib35-immunized C3H/HeN mice survived the potentially lethal GAS challenge, whereas all non-vaccinated C3H/HeN mice died after the challenge (Okamoto et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1511">Actively immunized mice were intraperitoneally challenged with an appropriate number of CFUs of strain SSI-1 on day 56 following primary immunization (Okamoto et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response224" gene_id="gene1161">
+			    <description refs="reference1511">Immunization of mice with Sib 35 induced significantly higher antigen-specific IgG antibodies in their sera beginning 28 days after immunization as compared to non immunized control mice (Okamoto et al., 2005).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4158">
+		<vaccine_name>SL3261 expressing streptococcal M protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004676</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3137">The aroA strain of S. typhimurium SL3261 was transformed with a low-copy plasmid vector pMK207, which contains the cloned gene spm5 encoding streptococcal M protein, the major virulence factor of these organisms (Poirier et al., 1988).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1892" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3137">Mice were immunized orally with the pMK207-transformed Salmonella SL3261 (Poirier et al., 1988).
+.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3137">The orally immunized mice were completely protected against both intranasal and intraperitoneal challenge infections with virulent S. typhimurium SL1344 or M5 streptococci (Poirier et al., 1988).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3137">Immunized and control mice were challenged intraperitoneally with either the homologous M5 or heterologous M24 streptococci, or with wild-type S typhimurium SL1344 (Poirier et al., 1988).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene854">
+        <gene_name>emm1</gene_name>
+        <strain>Streptococcus pyogenes</strain>
+        <vo_id>VO_0012397</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>311757</ncbi_nucleotide_id>
+        <ncbi_protein_id>311758</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>CAA44062.1</protein_refseq>
+        <pdb_id>2OTO</pdb_id>
+        <xrefs>CDD:273479
+CDD:291694
+CDD:295219
+CDD:279132
+GOA:Q10372
+HSSP:1IC2
+InterPro:IPR001899
+InterPro:IPR005877
+InterPro:IPR019931
+InterPro:IPR019948
+InterPro:IPR019950
+UniProtKB/TrEMBL:Q10372</xrefs>
+        <taxonomy_id>1314</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>M protein type 1</protein_name>
+        <protein_pi>6.86</protein_pi>
+        <protein_weight>52910.57</protein_weight>
+        <protein_length>546</protein_length>
+        <protein_note>Gram-positive signal peptide, YSIRK family; TIGR01168</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|311757|emb|X62131.1| S.pyogenes emm1 (29/58) gene for M protein type 1
+GGATCCAATGATAACATAAGGAGCATAAAAATGGCTAAAAATAACACGAATAGACACTATTCGCTTAGAA
+AATTAAAAACAGGAACGGCTTCAGTAGCGGTAGCTTTGACTGTTTTAGGGGCAGGTTTTGCGAATCAAAC
+AGAGGTTAAGGCTAACGGTGATGGTAATCCTAGGGAAGTTATAGAAGATCTTGCAGCAAACAATCCCGCA
+ATACAAAATATACGTTTACGTCACGAAAACAAGGACTTAAAAGCGAGATTAGAGAATGCAATGGAAGTTG
+CAGGAAGAGATTTTAAGAGAGCTGAAGAACTTGAAAAAGCAAAACAAGCCTTAGAAGACCAGCGTAAAGA
+TTTAGAAACTAAATTAAAAGAACTACAACAAGACTATGACTTAGCAAAGGAATCAACAAGTTGGGATAGA
+CAAAGACTTGAAAAAGAGTTAGAAGAGAAAAAGGAAGCTCTTGAATTAGCGATAGACCAGGCAAGTCGGG
+ACTACCATAGAGCTACCGCTTTAGAAAAAGAGTTAGAAGAGAAAAAGAAAGCTCTTGAATTAGCGATAGA
+CCAAGCGAGTCAGGACTATAATAGAGCTAACGTCTTAGAAAAAGAGTTAGATACGATTACTAGAGAACAA
+GAGATTAATCGTAATCTTTTAGGCAATCGAAAACTTGAACTTGATCAACTTTCATCTGAAAAAGAGCAGC
+TAACGATCGAAAAAGCAAAACTTGAGGAAGAAAAACAAATCTCAGACGCAAGTCGTCAAAGCCTTCGTCG
+TGACTTGGACGCATCACGTGAAGCTAAGAAACAGGTTGAAAAAGATTTAGCAAACTTGACTGCTGAACTT
+GATAAGGTTAAAGAAGACAAACAAATCTCAGACGCAAGCCGTCAAGGCCTTCGCCGTGACTTGGACGCAT
+CACGTGAAGCTAAGAAACAGGTTGAAAAAGATTTAGCAAACTTGACTGCTGAACTTGATAAGGTTAAAGA
+AGAAAAACAAATCTCAGACGCAAGCCGTCAAGGCCTTCGCCGTGACTTGGACGCATCACGTGAAGCTAAG
+AAACAAGTTGAAAAAGCTTTAGAAGAAGCAAACAGCAAATTAGCTGCTCTTGAAAAACTTAACAAAGAGC
+TTGAAGAAAGCAAGAAATTAACAGAAAAAGAAAAAGCTGAACTACAAGCAAAACTTGAAGCAGAAGCAAA
+TGTACTTAAAGATCCATTAGCGAAACAAGCTGAAGAACTCGCAAAACTAAGAGCTGGAAAAGCATCAGAC
+TCACAAACCCCTGATACAAAACCAGGAAACAAAGCTGTTCCAGGTAAAGGTCAAGCACCACAAGCAGGTA
+CAAAACCTAACCAAAACAAAGCACCAATGAAGGAAACTAAGAGACAGTTACCATCAACAGGTGAAACAGC
+TAACCCATTCTTCACAGCGGCAGCCCTTACTGTTATGGCAACAGCTGGAGTAGCAGCAGTTGTAAAACGC
+AAAGAAGAAAACTAAGCTGAATTC</dna_sequence>
+        <protein_sequence>>CAA44062.1 M protein type 1 [Streptococcus pyogenes]
+MAKNNTNRHYSLRKLKTGTASVAVALTVLGAGFANQTEVKANGDGNPREVIEDLAANNPAIQNIRLRHEN
+KDLKARLENAMEVAGRDFKRAEELEKAKQALEDQRKDLETKLKELQQDYDLAKESTSWDRQRLEKELEEK
+KEALELAIDQASRDYHRATALEKELEEKKKALELAIDQASQDYNRANVLEKELDTITREQEINRNLLGNR
+KLELDQLSSEKEQLTIEKAKLEEEKQISDASRQSLRRDLDASREAKKQVEKDLANLTAELDKVKEDKQIS
+DASRQGLRRDLDASREAKKQVEKDLANLTAELDKVKEEKQISDASRQGLRRDLDASREAKKQVEKALEEA
+NSKLAALEKLNKELEESKKLTEKEKAELQAKLEAEANVLKDPLAKQAEELAKLRAGKASDSQTPDTKPGN
+KAVPGKGQAPQAGTKPNQNKAPMKETKRQLPSTGETANPFFTAAALTVMATAGVAAVVKRKEEN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice were intranasally immunized with diphtheria toxoid (DT) conjugated polypeptides encompassing a conformational-constrained B cell epitope of the M1 protein (J8). Vaccinated mice were challenged 10 days after the last boost by the intranasal route. Animals had 60% protection against challenge [Ref1510:Schulze et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene853">
+        <gene_name>fbaA</gene_name>
+        <strain>Streptococcus pyogenes SSI-9</strain>
+        <vo_id>VO_0012396</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>14915682</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:273479
+CDD:320995
+CDD:273478</xrefs>
+        <taxonomy_id>1314</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>fibronectin-binding protein</protein_name>
+        <protein_pi>4.73</protein_pi>
+        <protein_weight>36233.27</protein_weight>
+        <protein_length>427</protein_length>
+        <protein_note>Gram-positive signal peptide, YSIRK family; TIGR01168</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>BAB62098.1 fibronectin-binding protein [Streptococcus pyogenes]
+MRRAENNKHSRYSIRKLSVGVTSIAIASLFLGKVAYAVDGIPPISLTQKTTATTSENWHHIDKDGLIPLG
+ISLEAAKEEFKKEVEESRLSEAQKETYKQKIKTAPDKDKLLFTYHSEYMTAVKDLPASTESTTQPVEAPV
+QETQASASDSMVTGDSTSVTTDSPEETPSSESPVAPALSEAPAQPAESEEPSVAASSEETPSPSTPAAPS
+TPAAPETPEEPAAPSQPAESEESSVAATTSPSPSTPAESETQTPPAVTKDSDKPSSAAEKPAASSLVSEQ
+TVQQPTSKRSSDKKEEQEQSYSPNRSLSRQVRAHESGKYLPSTGEKAQPLFIATMTLMSLFGSLLVTKRQ
+KETKK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with FbpA were protected from challenge with group A streptococcus [Ref1509:Ma et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene4152">
+        <gene_name>fbp54</gene_name>
+        <strain>Streptococcus pyogenes </strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>AAR18990</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:224212
+CDD:283353</xrefs>
+        <taxonomy_id>1314</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>fibronectin/fibrinogen-binding protein</protein_name>
+        <protein_pi>8.52</protein_pi>
+        <protein_weight>52434.05</protein_weight>
+        <protein_length>567</protein_length>
+        <protein_note>Predicted component of the ribosome quality control (RQC) complex, YloA/Tae2 family, contains fibronectin-binding (FbpA) and DUF814 domains [Translation, ribosomal structure and biogenesis]; COG1293</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAR18990.1 fibronectin/fibrinogen-binding protein, partial [Streptococcus pyogenes]
+MIMRKYLQGAVIEQLEQIDNDRIIEIKVSNKNEIGDAIQATLIIEIMGKHSNIILVDRAENKIIESIKHV
+GFSQNSYRTILPGSTYIEPPKTAAVNPFTITDVPLFEILQTQELTVKSLQQHFQGLGRDTAKELAELLTT
+DKLKRFREFFARPTQANLTTASFAPVLFSDSHATFETLSDMLDHFYQDKAERDRINQQASDLIHRVQTEL
+DKNRNKLSKQEAELLATENAELFRQKGELLTTYLSMVPNNQDSVVLDNYYTGEKLEIALDKALTPNQNAQ
+RYFKKYQKLKEAVKHLSGLIADTKQSITYFESVDYNLSQASIDDIEDIREELYQAGFLKSRQRDKRHKRK
+KPEQYLASDGKTILMVGRNNLQNEELTFKMAKKGELWFHAKDIPGSHVIIKDNLDPSDEVKTDAAELAAY
+YSKARLSNLVQVDMIEAKKLHKPSGAKPGFVTYTGQKTLRVTPDQAKILSMKLF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>[Ref4815:Kawabata et al., 2001]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1160">
+        <gene_name>IgA</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1161">
+        <gene_name>IgG</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16059</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AF010213</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>881411</gene_start>
+        <gene_end>914690</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>immunoglobulin heavy chain (V7183 family)</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as IgG; IgH; VI24H; VH7183; B9-scFv; IgVH1(VSG)</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|94393741:881411-914690 Mus musculus strain 129/SvJ chromosome 12 unlocalized genomic contig, MGSCv37 alternate locus group 129/SvJ
+CATGGACTTTGGGCTCAGCTGTGTTTTCCTTGTCCTCATTTTAAGAGGTAATTTGTAGAAATAAGATCCT
+GCCAGTATTGTGTACAGGAGAAATAGAAAAATTTTTCTTTCCTCTATTTTGTTTTGTTTTGTTAGTGACA
+GTTTACAAATAAGCATTCTCTGTTGTGAGGTGCCCAGTGTGAGGTGAAGATGGTGGAGTCTGTGGGAGGC
+TTAGTGCAGCCTGTAGGGTCATTGAAACCCTCCTGTGCAGCCTCTGGATTCATTCTCACTGACTACTGAA
+TGACCTGGATCCTTCAGGCTTCAAAGAAAAGGATGGAGAGGGTGACAATAAAATTTTTCCCACTCACACC
+CACTTGCTGGCCCTGGCGTTCCCCTGTAATGAGGCACATAAAGTTTGCAAAACCAAGGGGCCTCTCTTCT
+CAATGATGGCTGACTAGGACATCTTCTGATACATATGCAGCTAGAGACATGAGCTCCCGGGATACTGGTT
+ACTTCATATTGTTGTTCCCCCACAACAGTTGCAGACCCTTTTATTTCTGTGGGTACTTTCACTAGCTCCT
+CCATTGGGGGCCCTGTGTTCCATCCAATAGCTGACTGTGAGCATCCACTTCTGTAGTTGCTAGGCCCCGG
+CATAGCCTCACAAGAGACAGCTATATCAGGGTCCTTTCAGCAAAATCTTGCTGGTGTATGCAATGGTGTC
+AGAGTTTGGAGTCTGATTATGGGATGGATCCCCAGGTATGGCAAACTCTAGATGGTCCATCCTTTCCCAA
+CAATAATTTTTAATGGTGGAGATAGCACCTACTATCCAGACACAATGAAGGGCCAATTCACTATCTCTAG
+AGATGATGCCAAAAACACACTTTACCTGAAAATAAACAGTCTGAGGTCTGAGTACACAGCCATGTATACA
+TATATTCCTAAGCTTGAGTAAGTGGACTTAAACTGATTCCATCACAACTTGCATGAGATGGATATTCCCC
+AGTGTTAAGACCTGTCACCATCACTGTCAATCAGAAGACAAAGTTTATGCACAACAAAACAAAAAAACCA
+AAAGCAGAGGCCTCCAATTACAAGTAATAGACCCAGACCCACAGTCTCTGAAAACTGACTGTACAGTTGG
+ATCCAGTCTTTTACTTCTTTTCCCTGGATTTTATATTACTGAGGAAATGAGGAAAGCTCTACAATATCTG
+TTCTCCATAGTGCTCAACACCTCCAAGCACAGGTTACCCATATTCATGCCTGCCTTCTGCTACACTTCTT
+GTCTTGTAGACTACTTCAACCTATTTTGTACTCCAGTTAATGAAACTCAAGTCTAGCAGCCTGTCACTGT
+TTATTCTAAAGTATTATGAACAGGTGACCTCCCATCCTTCCCCAACGCAATAATCATATTTAGGAATTTG
+AGGTTTTATGAGATATGATCTCAGGGTAGAGAGAGAAAGCAAACTACATAGAAATATAGACTGACATAAA
+TCAAGACTTGCATAAGCTAGTCCCCAAGTTCCATGTCCCTAAGTGGCAAGGACTATCTTCTGAGCCTAAT
+GAGATGAGATCCAAATCAAACCTCCTGGGTCTTTTTAGATAAACATGTGAGATCAATAGACTAAATGCTT
+TGGCTGGGCTTCCTTGCAATCCAATTCCCAAACAAAAATGGATCTGGCTCCACAGACACCACAAGAATAG
+TCTTAAATAGTTCTTTAAGTAGAATGTCTGATCACTACGAGCCCAATTCCATCCTAAATACTCTTCTGGA
+TTATACATAAATAAAAATTGAACATAGGGCATGGGGCACTGATCTCCCTGTGCTACATGAATGGGGGCTC
+ATTTACTAAATGTTCCCATTTTTCTTTCTAGCGCTGCACAGTGCAAATCCTACAACTTCCTGTTTATCTA
+CAATGTGAACTCCAAACAGTACAAGAAAAAACGTTCCTTATGTTCCTCTCCAGGTTCTCCAACAAGCACA
+GAGCAACCTTCTGTCACCAGGACGGAAAACTGGAAACCTTGCTCACTGCTTCCTTTTATTCCCTCGGGAA
+CCTCCCCCAATGCAAAGCAGCCCTCAGGCAGAGGATAAAAGCTCACACAAAGACGAGAAGCCCCATCCTC
+TTCTCATAGAGCATCCATCAGAGCATGGCTGTCCTGGGGCTGCTTCTCTGCCTGGTGACTTTCCCAAGCT
+GTAAGTGTTTCAGGGTTTCAGAAGAGGGACTAAGACATGTCAGCTAGAAGATGTGTGACTAATGGTGATG
+TTGCTTGTCCCCAGGTGTCCTGTCCCAGGTGCAGCTGAAGGAGTCAGGACCTGGCCTGGTGGCGCCCTCA
+CAGAGCCTGTCCATCACATGCACCGTCTCAGGGTTCTCATTAACTAGCTATGGTGTACACTGGGTTCGCC
+AGCCTCCAGGAAAGGGTCTGGAGTGGCTGGTAGTGATATGGAGTGATGGAAGCACAACCTATAATTCAGC
+TCTCAAATCCAGACTGAGCATCAGCAAGGACAACTCCAAGAGCCAAGTTTTCTTAAAAATGAACAGTCTC
+CAAACTGATGACACAGCCATGTACTACTGTGCCAGAAACACAGTGTGGGAAGTCCAATGTGAGCCTGCAC
+AAATACTTCTCTGCAGGGATGATCACAACCAGCAGGGGGCGCTGATGACCCAAAGGGACTTCCCAGGATC
+TCTTCTGGAATCTAGGGAGTTCTGGCCTGTGTCTATCAGCATGTGTTTCAATGTTAGAGTTGTGAGTTTT
+CCTTCCAGCAACAGAGATATTTTAGAGCCCACTTTTCATGGTCATTCTACTAAATTTGTTCACATAGTGG
+AAAGATTTGTTAAATGATTCTATAGTCTAATAGGGTCAAACAAAAACAAATAATTGAGTTCATATCTACC
+AAAAAAAAAAAAATTCCCTCAAAGTGGACAACTGTGTAGGTGAGGAAAACCAGGGGGATTTGGGAATAGA
+TTATTTCTCTCCCGACTGTGGTGTTAGTCACCTTTCAGCCATTTACTGTATTTAATTCATGTTTAAAGTT
+AATTGTATTCATCTTCCCTAACATGAAGTTTTCAAACACATGTCCACAATTTAATGATGACACAGTTATC
+ATTGTGAATGATAACTCATAAGATCTCTCTCCATATATGAAACACACGATATTCTGTTATTAGCTATAGC
+CAACAAAGTTACATATCATTATTATTACTGAAATAATTCTTCCCATCTAACTGAATAGTTTTCTCACTCG
+ACACTGCCTATGCTGCGATCAGCCTGCTCTAATTTTACCTTTGCTCAGAGCACTGCTTTCTGTTTCATTT
+GATAAGATGGTGCCTGGTTGTCACTGAAAATGTGTCCTCCAGTTTCACAGTGATTAATGTGATTTTCAGT
+ACATTGAGAACAGAGCCACAGCAAAAATGAGATGGAATGTCATCATTTTTACGCCAGGTGCTGCAGAAAT
+AGCTAGGTGGTTAAGAGAGAATATTGAACTTTGAGGGGTTCAGATTAAATTCCTGATACCCACAATGTGC
+ACCTCATAACCACATGTACATATAGAAAACTCAGTATAAATGTGGCCTCCGTGAGCACCACACTACTCCC
+ACAAACACATATACACATAATTAAAAGTAAAGATTTTAGAAAAATGGCTAATCTAATGATAGGAAGTAGT
+CAAAAAGAGAGTTCTTTTGTCATGTACATATGTGTAGCAGACTTAAATGTTAAACATTCAAGAATACATT
+CCTCGATCCACATTAAAATTTTGCAAAGAGTAGCACAGACGGTGGCAATTGCTAAACTTATATCTAGAAA
+CACAATTATGTGTGGTGATATTTAATTACACATTTATACCAGGACATATGACAATATGGAAACCAAACAT
+GTTGTATCCACATGCTCTAAGGAAAACTAAATGGAGTGTGATAAAACCAAAGAAAATGTGAATATGAAAT
+ATTTTTCCAACTCTGCATCTTAAAACGGTTTCTTTCATGTGTCATATCTGCTATGAGGACTTTCTTCTGC
+CCATGTCCAACTCCAGAGCATGCCACAGCAGGAAGACCTACAGGTATTACTTCTCTGCACCCAGGAAAAC
+CACCTCTGTCCTGACCCTGCAGCTCTCAGAAGAGCCCAGACCTTCATTCTCAGGCCCTCATCCAGTAATC
+AGCACTGAATACAGAGCACTCACCATGGACTTTGGGCTCAGCTTGGTTTTCCTTGTCCTTATTTTAAAAG
+GTAATTCATAGAGATAAGATTCTATCTGTTTTGTGTACATGAGAAACAGAAAAATTGTATTGTTTCTCTA
+TTTTGTTTTGTTTTGTTAGTGACAGTTTCTGACTCAAGATTCTCTGTTTGAAGGTACCCAGTGTGAGGTG
+AAGCTGGTGAAGTCTAAGGGGAGGCATAGTGCAGCCTAGAAGGTCCATGATACTCTACTGTGCAGCCTCG
+GATTCACTGTAAGTGACGACTGGTTTGTCCGTGTTTGCCAGGCTCCAAAGAAGGGGCTGCAGTGGGGGAT
+GGGAATAATTTTTCATGGTTGTGGTAGCCCCTCTTATGCAGACACCTTGAAGAAGTGGGTTGGACGTAAC
+ATATTCAGAATCAATATTTAAAGATTCTAATCCTTGAAGATATCACTTTTGACCAAGTATATATGAACCA
+TGTTACTGAGGTTTATGGAGGTTTGAGTATGTTAGGTCCATGGATAGGGAAAATATTAGGGGATTTTAGG
+AGTAACTGAGGCTTGTTGTAGGAAGGACATCACTGTAGGGGTAGGCTCCGTGTTCCTATCTTCAAGCTCT
+ACCCAGTGCAGAATAGAGCCCTCTTCTGCCGGCAAGTGGAAAGAGTTTCTCTTCCTGGCTGCCTTCAATC
+CAAGTTGTAGAATATCAAATCTCCTAACACTATGACTGCGAGCATGCTGACATGCGTCCCACCATAAAAA
+TAGACTGAACCTCTGAAGCTTTAAGCCAGCCTCTAGTAACTGTATTCTTTAATAAGACTGAACTTGGCTA
+TGGTGTCTTTTCACAGTAAAATGGAAACATAGACAAGGTTCTAACTCTCTGTACTAGAGGACCATCTCTA
+TGTCCTTGGTGTTGTATGTAAATTATTGAACAAATACTATAGACAAGTTGTATGGCCAAAAGTCCATCCC
+CTTCAACAATCTACTATCTGGAACCATATAGATTAGATTCCTTTCCTGCACTCATTTCCCTTACTTGCTG
+AGACATTTTGAAGACATGCTCAGAATCCCTGAACTTCCTGCTGAAAAAAAAATACCCCTCCAATTTGAAG
+ACAGTTCTCTTCCAAAATTCATCATAAATACTGATCCACATGTCCAGGCATATCATGTAGTTTTAAAAAA
+CAAACCAATCAATGCTAAAGTGGGTAAGTGCCTACATCATTGGTTTATGTCTGTTCATAACCTGGTATAT
+AGCTAGAGACCAGGACTGCATGTTTCTCCTAGGCCACACCTCTCCCACAAATGCTGGCTCTGCCTCTCCA
+GAATTCCAAGATCATGGATCTCTGGGTCCCCAAGGAACAATAAGTGTGCACTCTTGCCAGCCTGTACACT
+ACTGCACTAGCTTCTCCCCCTGGAGCTTGGTCATTGCTCAATCTTCCCTTTCCAAAGCCTGGCCAAATTC
+CTCCTACCTTTTGTTCTTTCAGTCAGGCCACCTAAGTCATCTTGAATGAAAAACAACACAAAATCTGAAC
+TTAAAATCAACAAATAATACAAGTGCTGCGCACAAAATCAATCATTCTAAACTCATCAACTATTTTATGA
+TGGAAATCTTCCAACATACAAGCTACCACCAGGTCTAAGAATTACTCATCTACATGTTGCTTCCTCTCAC
+TCACAGCCTAACCATAAAAGGGCTGTTTCTTCCTCCCATGTCCCCTCTTTTGCCTTCAGAAGCAGAAGCT
+CCACCTCCTCCTCTTTGCCCAGCAATTGGCTTCTTGTCGTCTTTATTATCATATTAATTACTTAGGGGAA
+AATCCCGTGTAGTGGCTATTCCTGGTTGTCAACTTGACAATATTTGGAATGAACTACAATCCGGAATTGG
+AAGGCTCACCAGTGACCCTTATCTGGAGGCTTGGAGATCCTTATCTGGATCTTGGTTTGAAGATCTTGAG
+CCATAGGGGCTATGGATTCCAGAAGATTGAATCTCCGAGTTTAAGGAACACACCTTTAATCTGGGCTACG
+CCTTTCATCTGGGATTAAAGGTGTGGCGGAACACACCTTTAATCTGGACTACACCTTCTGCTGGAGACAA
+TATAAGGACATTGAAAGAAGGGAGTCTAGCTCTTGCTCTTGCTCCTTCGCCTGCTTGCTGCGTGAGACTG
+AGTAACTGCTAGATCCTTGGACTTCCATTCACAGCTGCGACTGAACAATTGTTGGGAATTGGGCTGCCGA
+CTCTAAGTCATCAATAAATTCCTTTACTATCTAGAGACTATCCATAGTTCTGTGACTCTAGAGAACCCTG
+ACTAATACAGAAGTTGGTACCAGGAGTGGTTCTAGAGTAACAGAAGTACAAGGATGAATCTTTTAAAATA
+CTGGAATTGGCTTGTTGATCCACCAGCACTTTCAACTATTGAAACCTCTCCAGATTCTCTCCCTCCTGGG
+AGCTCAGAGAATTTTGAAGACCCATGGTTGAAACTATATTCCGAACTTAAAGAAGCAAATGCCCTTGATT
+TTCTTAATGAATTAGGTGATTCAGTGCACAAAGCTTTCTACAAGATGGGGAAAAAATTGGAAAATGATTT
+TACTGGCTGGCTGCTCTTAGTATCTGTGGAAAAAATGATGAATGAAAGGAAGGAGTTGTGTGATAAAATC
+GAAAGGCTCCAGACACAAGTAAACGATCTAAAAGTTGCTAAGTGTGTCCTTGAGGAGAATCTTCTCTCTT
+GTAGCAATAGAGCTCAAGTTGCAGAAAATCAAACAGAAACTCTCATTGTAAGGTTGGCTGAACTACAGCG
+AAAATTCAAGTCTCAGCCTCAGAGTGTGTCAACAGTTAAAGTAAGGGCTCTAATTGGCAAAGAATGGGAT
+CCTACAACATGGGACGGGGATGTGTGGGAAGACCATGTTGAAGCTGAGAATTTTGAATCTTCAGATTCTC
+AAGGGTTTGCCCCACCTGAGGAAGTAGTACCCTCAGCCCCACCCCTTGAAATAATGCCTTCCCCACATGA
+GGAAATTAATTTTGCAGAGTCTGATAAACCAGCAATGATTTTCACTACTGATGTTTCTCAAGGCCCACCA
+ATAGTTTCTTCTAGACCTGTAACCAGACTCAAAGCAAAACAGGCTCCTAGAGGGGAGGTAGAAAGTGTAG
+TCCATGAGGAAATTCGCTACACTACTAAGGAGCTTAATGAGTTTGCTAATTCATTCAAGCAGAAACCTGG
+TGAATATGTGTGGGAATGGATTTTAAGGGTGTGGGATAAGGGTGGAAGGAACATAAGACTAGAGCAGGCT
+GAGTTTATTGACATGGGTCCTCTGAGTAGAGATTCTAGGTTTAATACGGAAGCTCGCATAATTAAAAAAG
+GTGTCAAAAGTTTGTTTGAATGGTTGGCTGAGGTGTTTATCAAAAGATGGCCTACTGGAAATGACTTGGA
+GATGCCTGATATTCCGTGGCTTAGTGTTGATGAAGGGATTTTAAGACTTAGGGAAATTGCAATGCTAGAG
+TGGATATATTGTGTAAAGCATAATTGTCCACAATGGGAAGGTCCAGAAGATATGCCTTTCACTAGCTCTA
+TAAGACGCAAATTGGTGAGAGGGGCACCAGCACATTTGAAGGGTTTTGTTCTTTCCCTTTTCCTTGTACC
+AGATCTTAGCATTGGAGATGCTTCTGCTCAATTAGATGAATTAAATTCACTGGGTTTAGTTGGATTCCGA
+GGTAACAAGGGCCAGGTGGCAGCATTGAATCGCCGGAGACAAGGTGATTCTAGTTATTATAATGGACAGC
+GTAGACAAAAGAATGTTTATAATAACATACCCAGCAATGGTCAGCACAGGAGAGGTGAAATTTATAATGG
+CATGACTCGGTTGGACCTTTGGTACTGGCTAACCAATCATGGTGTTTCCAGGAATGAAATACATAGGAAG
+CCTACTGCATATTTGTTTGATCTGTATAAGCAGAAAAATTCTCAAACAAATGAAAGAAAGGCTACATTAG
+ATCATGGTAAACAGCAATCTCGGCCAGTGAATCAATTTCCAGACTTGAGACAGTTTGCAGATCCAGAACC
+CCTTGAATGAAGGGGTGGCCAGGTTCCGCTGAGGAAGGATCTTGATAAGACACCCAAAGGTTTTGCTGTT
+ACCCTTTCTCCAGTTCTTCCCCAGAGGGACCTAAGGCCTTTTACAAGGGTAACTGTACACTGGGGAAAAG
+GAAATAATCAGACTTTTCAGGGTCTGCTGGATACTGGTTCTGAGTTGACACTGATTCCAGGGGATCCCAA
+GAAACATTGTGGCCCTCCAGTTAAAGTAGAGGCTTATGGAGGGCAGGTGATTAATGGAGTTTTGACTGAT
+GTCCGACTCACAATAGGTCCAGTAGGTCCCCAGACACATCCTGTGGTGATTTCCCCAGTTCCAGAATGTA
+TAATTGGGATAGATATACTCAGAAATTGGCAGAATTCTCATATTGGTTCCCTGAACTGTAGAGTGAGGGC
+TATTATGGTTGGAAAGGCCAAATGGAAACCTTTAGAGTTGCCTCTGCCAAAGAAAATAGTGAATCAAAAA
+CAGTATCGTATTCCTGGAGGCATTGCAGAAATTACTGCCACTATCAAGGACTTGAAAGATGCAGGGGTGG
+TGGTTCCCACCACATCTCCGTTTAACTCTCCTATCTGGCCAGTGCAGAAAACAGATGGATCATGGAGAAT
+GACAGTTGATTATCGAAAACTAAATCAGGTAGTAACTCCAATTGCAGCTGCTGTACCAGATGTAGTTTCA
+TTACTTGAGCAAATTAACACATCTCCTGGCACCTGGTATGCGGCTATTGATCTGGCAAATGCCTTCTTCT
+CAGTACCTGTCCATAAGGACCACCAGAAGCAATTTGCTTTCAGTTGGCAAGGCCAACAGTATACTTTCAC
+AGTTTTGCCTCAAGGATATATTAACTCTCCTGCCCTGTGTCATAATTTAGTTAGAAGGGATCTTGATCGT
+TTGGATCTTCCACAAAATATCACATTGGTGCACTATATTGATGACATTATGCTGATTGGACCAAGTGAGC
+AGGAAGTAGCAACCACTTTGGACTCATTGGTAACACATATGCGTATCAGAGGATGGGAAATAAATCCAAC
+CAAAATTCAAGGACCATCTACCTCAGTGAAATTCTTAGGAGTCCAGTGGTGTGGAGCATGCAGAGATATT
+CCTTCTAAGGTGAAAGATAAGTTATTGCACCTGGCCCCTCCTACAACCAAGAAAGAAGCACAACGTTTAG
+TGGGTCTATTTGGATTCTGGAGACAACACATCCCTCACTTGGGTGTGTTACTTAGGCCTATTTACCAAGT
+GACTCGGAAAGCTGCTAGCTTTGTGTGGGGCCTGGAACAGGAGAAGGCCCTTCAACAGGTCCAGGCTGCT
+GTGCAGGCTGCACTACCACTTGGACCATATGACCCAGCAGACCCGATGGTACTTGAGGTGTCTGTGGCTG
+ATAGAGATGCTGTTTGGAGCCTCTGGCAGGCCCCTGTAGGTGAATCACAGAAAAGACCTTTGGGATTTTG
+GAGCAAAGCTCTACCATCATCTGCAGACAACTATTCTCCCTTTGAAAAACAGCTCTTGGCCTGCTATTGG
+GCCTTAGTGGAAACTGAACGTTTGACAATAGGACACCAAGTTACTATGCGACCTGAACTACCCATCATGA
+GCTGGGTACTATCAGACCCTGCAAGTCATAAAGTGGGACGCGCACAGCAGCAGTCTGTTATCAAATGGAA
+GTGGTATATACGTGATCGGGCCAGAGCAGGTCCTGAAGGCACAAGCAAGTTACATGAAGAAGTTGCTCAA
+ATGCCTATGGTTTCTACTCCTGTTACACTGCCATCTGCTGCCAAACATGTGCCTATAGCCTCATGGGGTG
+TTCCCTATGATCGACTGACCGAAGAGGAAAAGACTAGAGCCTGGTTTACTGATGGCTCTGCACGTTATGC
+AGGCACCACCCAGAAGTGGACAGACAGCTGCAGCATTACAACCCCTTTCTGGGACAACCCTGAAAGACAC
+AGGTGAAGGGAAATCTTCACAGTGGGCAGAACTTCGGGCAGTACACATGGTATTACAGTTTGTTTGCAAG
+AAGAAATGGCCAGATGTACGATTATTCACTGACTCATGGGCTGTAGCCAATGGATTGGCTGGATGGTCAG
+GGACTTGGAAAGATCACAATTGGAAAATTGGTGAGAAAGACATCTGGGGAAGAAGTATGTGGATAGATCT
+CTCCAAATGGGCAAAGGATGTGAAGATATTTGTGTCCCATGTAAATGCTCACCAAAAGGTGACTTCAGCT
+GAGGAGGAGTTCAATAATCAAGTGGATAAGATGACCCGTTCTGTGGACAGTCAGCCTCTCTCCCCAGCCA
+TCCCTGTCATTGCTCAATGGGCACATGAACAAAGTGGCCATGGTGGTCGAGATGGAGGTTATGCTTGGGC
+TCAGCAACACGGGCTTCCACTCACCAAGGCTGACCTGGCTACAGCTGCTGCTGATTGCCAGATCTGCCAA
+CAGCAGAAACCAACACTGAGTCCCAGATATGGCACCATTCCTCGAGGTGACCAGCCAGCAACCTGGTGGC
+AGGTTGACTACATTGGACCACTTCCTTCGTGGAAAGGACAGCGTTTTGTTCTTACTGGAGTAGATACTTA
+TTCTGGTTATGGATTTGCCTTTCCTGTACGTAATGCCTCTGCTAAAACCACCATTAACGGACTGACAGAA
+TGCCTTATCTATCGTCATGGTATTCCACACAGTATTGCTTCTGACCAAGGAACTCATTTCACAGCCAGAG
+AAGTACGACAGTGGGCCCACGATCATGGAATTCACTGGTCTTACCACATTCCCCATCATCCTGAAGCAGC
+TGGTCTGATAGAAAGATGGAATGGCCTTCTGAAGACGCAGTTACAGCGCCAATTAGGTGGTAACAGCTTG
+GAAGGCTGGGGTAGAGTTCTTCAGAAGGCAGTATATGCTTTGAATCAGCGCTCGATATATAGTACAGTTT
+CACCCATAGCCAGGATTCATGGGTCCAGGAATCAAGGGGTGGAAAAAGGAATAGTTCCACTTACTATCAC
+TCCTAGTGACCCTCTAGGAAAATTTTTGCTTCCTGTCCCCATAACTCTAGGTTCTGCTGGCTTAGAAGTT
+TTGGCTCCAGAGAGGGGAGTGCTCCTACCAGGAGCTACAACAAACATTCCATTGAACTGGAAGCTCAGAC
+TTCCCCCTGGTCATTTTGGGCTTCTAATGCCCTTAAACCAACAGGCTAAAAAAGGAGTAACAGTGTTAGG
+AGGGGTGATAGATCCAGATTACCATGGGGAAATTGGATTACCTCTTCACAATGGTGGTAAGCAAGATTAT
+GTCTGGAGTGTAGGAGATCCCTTAGGGCGTCTCTTAGTACTACCATGTCCTGTGATTAAAGTCAATGGGA
+AACTACAACAGCCTAATCCAAGCAGGATGACAAAGGACACAGACCCATCAGGAATGAAGGTATGGGTCAA
+TCCTCCAGGAAAAGAGCCAAGACCTGCTGAGGTGCTGACTGAAGGAGAAGGAAATATAGAATGGGTAGTA
+GAGGAAGGTAGTTATAAATACCAATTAAGGCCACGTAACCAGTTGCAGAAACGAGGATTATAAAGTAATA
+TGAATGCCCATTGTAAATTTACTAATGCGTTTGCGATTGTACGAGGGATAGTTATATCATGTTAGGCGTA
+TTTACAAACTTGTTATTGTTTTATGTGAACATGAGATATTATTTGTGTCAAGTTGACAAGGGGTGGATTG
+TAGTGGCTATTCCTGGTTGTCAACTTGACAATATTTGGAATGAACTACAATCCGGAATTGGAAGGCTCAC
+CAGTGACCCTTATCTGGAGGCTTGGAGATCCTTATCTGGATCTTGGTTTGAAGATCTTGAGCCATAGTGG
+CTATGGATTCCAGAAGATTGAATCTCCGAGTTTAAGGAACACACCTTTAATCTGGGCTACGCCTTTCATC
+TGGGATTAAAGGTGTGGCGGAACACACCTTTAATCTGGACTACACCTTCTGCTGGAGACAATATAAGGAC
+ATTGAAAGAAGGGAGTCTAGCTCTTGCTCTTGCTCCTTCGCCTGCTTGCTGCGTGAGACTGAGTAACTAC
+TAGATCCTTGGACTTCCATTCACAGCTGCGACTGAACAATTGTTGGGAATTGGGCTGCCGACTCTAAGTC
+ATCAATAAATTCCTTTACTATCTAGAGACTATCCATAGTTCTGTGACTCTAGAGAACCCTGACTAATACA
+TCCCTACATACAGGAAACTTGATGTATAAGTAAAGAAAATAGTAAATCTAAAAATTTCCTTATCAAATAC
+ATGCAAGAAATCCAAAATACCATGAAAAGACCTGATCTAAAAATAGTAGGAACTGAAGGTGAAGTGTCCC
+AGCTCTGAAAACTAGAAAATGTTTTCAATATTTTTCCTAACAGTGAAGACATGGATCTAATGAGGCCACC
+TCTTATAGCCATGCAAGACTGACAGTGGAGGGATAAGGACACCAATCCACCCACAAAACTTTTGACCCTA
+AATCAGTTTTATCTAAAAGCAATGCAGGGGCACAAATGGAGCAGAGACTGGAGGAATGGTCAAACAATAA
+CCTGTCATATCTGAGACCCACCTAATTGGCATACACCAGTCACTGACATTATTAATAATGTTCCATTATG
+CTTACAGGCATTTCTCTAGCATTACTATTCTTGGAGAGACTTCACACAGCATCTTATTGAAACAGATGCA
+GACACCCAGAACCAAACATTGGATGGAGATTGGGATCCTTAAAGAAGAGTTGGGAGGATAATTGAGAGAC
+CTCAAAGGAATAGCAACCCCATAGAAAGACACGAACAGGGTCAGTAAACCTGGACCCATGGGGTATCTCA
+GAGACTGATCACCAACCAAAAATCACAGAGGGCCTGGATTGATTCCCCTGGCACACATGTAGCAGAGGTC
+TGCCTTGTCCTTCAGTAGGTGAAGATGAGCCTAAGGCTTCAGAGACTTGATATATCAGCATACAGCAACA
+CCCAAGTGTGTCCCACTATCTCAGAGGTGAAGGGGTGGAGATGGGCAGAAGGGTCCTGATAGGGGACAAC
+TGCAAAGAGGCAATATTTGGGACAGAAAGAAAGGAAGAGAGAGGAAGATAAAGAGAGAGATGAAGGAAGG
+AAACAAACAAACCAAGATGAAGAGAGAGAAAAGGGGGAAAATAGCCTTGAATGGTTCAGGGATTCAAAGG
+GACATACCTAAGCATGGTAAAACAATGCACATAATGGCAGCAAGTAGCTAACACTGAATTAAATAGAAAG
+ACACATAAAGCAGTTCTACTAAAGTAAGAGACAGAGTTGCCCAATCTCACCCTATTTATTCAATAATAAT
+GTACTTGAAGTTCTAGCTAGGGCTGTAAGACAACTCAAGGAGATCGGAGGATACAAATTAGAAAGAAAAA
+TTCAAAGAATTGTAATTGGTAGATGATAGGATAATATACATAAATGACCTCAAAATTCTTCCAGAGAACT
+CTGAAAGCTGATAAATACCTTCAGCAAAGTGGCTAGAAACAAAATTACTTCATAGAATTCAGGAGCTATC
+CTTTATAGAAAAGTTAAAGTGGCTGAGAAAGAAATTAGGAAAATCACATTCTTTGCAATAACCAAAAATA
+ATATGAATTAGCTTGGTGTGACTCTAATCTTGCAAGTGAAAGATGTGTGTGACAAGAGCTTCAGGACCCT
+GAAGAAAGAAATCAAAGAACTCAAAGATGCAAAGTACTCTAATGCTCATGGATAGGCAGAATTAACATAA
+TGAAAATGCCAAATTTAACAATTCAATCTACAGATTCAGTGGAATTCCCATTAAATATCCAACCCAATTT
+ATTACATTCTTGAAAAAGCAAATCTCAACTTCATATAGAAAAACAAGAAATTGAGGGTAGCTAACAAAAT
+CCTGAACAATGAAAACACTTCAGGAGAATTCACCATCCCCTACCTCAAGCTGTATTTTAGAGCAATAGTT
+ATTAAAACTGCATGGTATTTGTATAGAAACAGATATGATGATCAATGTAATTGAATTGAATACACTGACA
+TAAAACCACACTGTTATGGACACTTGATTTTTGACAAAGAACCCAATAATCATAATAAAAATCATAATAA
+GAATGCATCCCCCAACAAATGGTCCTGATCTAAATGCAAATAGATTCATATCTATCATCCTGCACGAAAT
+TCAAATCAAAGTGAATTGCAGACTTCGACCTAATACTGGATTAACTAAATCTAAATGAACAAAAAGTAGA
+GAATAGTTTTGAACTCATTGATGCAGGATTCAATTTCCTGAACAGAACCACAATGGCTCAGGCTCTAGGA
+TCATAAATTGGTAGATAGGATCTCATGAAACTGAAAAACTTCTGTAAGGCAAAGGCAATAAAACAAAATG
+GCAACCTACAGATTGGAAAAAAAATAATCTTCAGTATCCCTAAATCCCATTGAAGGCCAATATGCAAAGT
+ATATAAAGAACTCAAGATGTTATCCTCCACAAAACCAAATAAATCAATTAAAAATGAACTACAGAGCTAA
+CAAGAGAATTCTCAACAGAGGAATCACCAATGACTGAGAATCACTTAAAGAAACATTCAATATTTGTAGT
+CACCAGAGAATTGCAAATCAAAACTACCCTGAGATTCTACTTTATACCAATCATAATGGTCAAGATAAAA
+ATTCAAATGACAGCGCATGTTGGTGAGGATGTGTATACTTTTGCATTGCTGGTGAGGAAAACAATCTGGC
+AGCTCCTCAGAAAATTGTAAATAATTCTACCTGAAGATCCAGCCATACCACTCCTGTGCATATACATAAA
+ATGTGCTCCACCATACCACTAGGAGATATGTGCCACTATGCCCATAGCAGCCTTATTTGTTAATAGCCAA
+AAGATGGATACAACCCTGATGTGCCTCAAACAAAGATTGTATATAGAAAATATGGGTTCCCTTACACAAT
+GGTATTCTACTCAGCAATTAAAACGTGAGAACATCATAAAGTTTTCAGGCAAACTGATCAAATGAAAAAG
+TATAATCTTGAGTGAGGTAACAGAACCAAAATGACCTGCATGGGATGTACTCACTGGTAAGTGAATATTA
+GACTAAAAGTATAGAATATCAATGATGAAAGCCACAGACCATAAAGAGTTTAATAAGATGGAAAGCTCAA
+GTACGGATTCTTCAATCCAATATAGAAAGAGGGACAAAATAATCAGGGGAGGCAGAGGGAGAGAGAGACA
+TTTGGTGGAAATGGGAGAAGAAGGGAGAAAGGCAGAAAGGATCAGGCGTTGGGGAACACTGGAAAGCAGC
+CCAGGGGTCCTGGTAAATGGATTAAATATTCAGCTGAATGGAGGTGGGAGGCAGGGGGAAGCTCTGCAAA
+GTCCAAGAGACCTGGGATGTGAGAGGCTCCCCAGATGATAATCTTAGCCTTCATGCCTAACAGTTGTAGA
+TAAACCCTGAAGAGATCACTTCCAATAGATGCAGAGGGCCCTAAGTGGTTGGATGGAGTCCCCCAACTTA
+CCTCAAAATTGTCAATACTCATAGAAATTAGGACAATGAAAATCAAAACACCCTGAGATTGTATCTTATG
+TCTGTCACAATGGTTAAGACCAAAACCTCAAGTGATGGCTTGTGCTGGCAAAGATTCAGAATAGTAAAAG
+TCTCCCCATGGCTTGTGGGAATGCAAACTCTTACAACCTCTTTGGAAGTATATTTGATTGTTACCTGGTA
+TAAAATGGCAAAAAAAAAAAATGGTTGAAGGGGGACTAAAAAAGGAAGAAAGGGGAGAACTATGGGATGC
+GAAACAAGAAAGTTTGTTGCAAAAGAAATATGTTTCCACTGCAAACCCTGAGTCTCAGACAGAAGGGGAC
+CTGGAATTCTTCAGATACAAAGAATCTCTAAACCCTGAGGACATTCTATCACAAATAAGTAAAATTCAGA
+AAATTCTGAGTGCTCCCATCACGGAGATGAATCTGCTATGAACAGCTCATAGGTGTGACCCTCTACAAAA
+GCCATATTATTGAAAAGCCACATTGTGCCCAGACTTTGGAAAGACTGAGCTCATATCCTGAAATACAGTT
+ATGTGTGGTTCTATTTAATTACACATTTACACTAAGAAAACATGGCAGTATGGGAATGAAGCTTGTTCTG
+TACACATTAACAGAGGGAAACTAAACAAAGTATGGTGAATCCCTAACCAAAAGTAAAAAAAAAAAAAGAA
+AGAAAAGAAAATAAAAGTGAAACTACAATATGTTTCAAATGCTGTAACTGAAATCTGGTTTTTTGATGCT
+TATATCTGGTATCATCAGTGACTTCAGATTTAGTCCAACTCCAGAGCATGGTATAGCAGAAAGACATGCA
+AATAAGCCTTCTCTCTGCCCATGAAAAACACCTCGGCCCTGACCCTGCAGCTCTGACAGAGGAGGCCAGT
+CCTGGATTCGATTCCCAGTTCCTCACATTCAGTGATCAGCACTGAACACGGACCCCTCACCATGAACTTG
+GGGCTCAGCTTGATTTTCCTTGTCCTTGTTTTAAAAGGTAATTTATTGAGAAGAGATGACATCTGTTGTA
+TGCTCATGAGACAGAAAAATTGTTTGTTTTGTTAGTGACAGTTTTCCAACCAGTATTCTCTGTTTGCAGG
+TGTCCAGTGTGAAGTGAAGCTGGTGGAGTCTGGGGGAGGCTTAGTGCAGCCTGGAGGGTCCCTGAAACTC
+TCCTGTGCAACCTCTGGATTCACTTTCAGTGACTATTACATGTATTGGGTTCGCCAGACTCCAGAGAAGA
+GGCTGGAGTGGGTCGCATACATTAGTAATGGTGGTGGTAGCACCTATTATCCAGACACTGTAAAGGGCCG
+ATTCACCATCTCCAGAGACAATGCCAAGAACACCCTGTACCTGCAAATGAGCCGTCTGAAGTCTGAGGAC
+ACAGCCATGTATTACTGTGCAAGACACACAATGAGGAAATGTTACTGTGAGCTCAAACTAAAACCTCCTG
+CAGAGCACCCAGGACCAGCAGGGGGCGCAGAGAGCACATGGAGTTCTGATTCACAGAAGAGTTACAGCCT
+GTACAATTAGACCCAATCTTCAACAAACCGTCAAAATATTCGATCCAAAATTGTTCCTGTCTAAAAGTAA
+TTCAAGGACAAAATGGACCAGAGACTGAAGAAATGGCTGACCTGTGACCCTCCCAACTTTGGATCTATCT
+CATAGGCAGGTACCAAACCTTGACATTTGTCACTGACACTGTATTGTGCTTGCAGACAGGAGCATAGCAT
+GGCTGACCTCTAAGAGGCTCTGCAAGCACCTGAATGAGACAGATGTAAATAGAGTGTACAACTGGATTAA
+GTTTGAAGACTGCAATGGAAGAGTTAGAGGAAGGAATGAAAAATCTGAAGGGGATCACAACCCCAGAAGA
+AGACCAACAGTGCCAATTAAACTGGATGCCTGGGAACTCCCAGAGACTAAGCCACAAACCAAGAATCATG
+CAGGCTGGTCTGAGAATCCTGGCACCCAAGTCTCAAGGAACTGCCTTTTCTTGGCTCAGATGGGAGAAGA
+TGAGCCTAAAGCTTTAGACTTGACGCCCCAGGGATGGGCAATACAAAGTTGAGTTTCTTGGGAAAGTGAA
+GAGGATGGTGGGAGGAGGAATAAATCTGGGAAGTGGGACTGGTTGGGGACAACATATTGGTCCTAAATTT
+ATGAAATAATTATCTAATTGATAAAAAGAGTCCTTGGGGTAATGGAGGGCTAGACTCCTCTGTGCCTAGT
+TTGTAACTCTACAGGGATCCTCTTTAAAAGAATAGGGTGCACATAGAGTATATGTGTGTGACACTAATAC
+AGGGGTAAGTGTTTCTGTAAGAACTTTATGAATAAACTTTATTAAAACATCAAAAAGTATAGGTTGTAGC
+AACCCTTGACCTGTACGAATGTTTATAAAACTTTCTATTTTCCTTAATTATATCTGTTTTGCATTTGTTT
+ATTTATTTATTTACTTACTTACTTATTTATGATTTCACTGTGTCTTTCTGTAGTCCTGTATGTGTTTATT
+TGTCTCTTTATTGCTCTGTTTCTGTTTCTTTCTCTCTGTCTAGTATTGTATCTCTCTGTGTCTCTATGTC
+GCCGATTGTGTCTGTGTGTATGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGCATATTGAAA
+TGAGATCTCTTCTTCTATCAGTGTACATAATGACTTTGAAATAAAGTCCATCACTGGGCTTGGATATCAC
+TATCTTGTTAGAATGGTTGCCCAAAGTGTTCCAACCATCACACTGTTTCTACATATAATAGATGGGTTTA
+TTGATTTACTACCAAAACTACCCCATCTTAAGTTATGGATATTAAACACAGATCCTCATGGTGTGTTAAG
+AACTTGAAGCACAGAGCTATATGTACAGCCCACTAAAAATGACTTAAATATAAGATAAACTCTGGCTTGA
+ACAAAACACAGAGCATCACACGAGGCAGAAGTGAATCTCTATGAGGACCAGGATCACATCCCAAAGAACC
+AAAGAACACTTGAGACTGTGGAACCCTAGAGTCAGGGCTGACACTCAGTAAGATTTACTTCATAGAGCAT
+GATGTGGGATTCAAGAAGAAATCAGGCAGGGCCTGTGACCCATGAACCAGATGACTTCCAGTCTCTCCAT
+CATCCTCACACAAACCATAGGCAACAGCTCAGCACTGACTCACCTGTGATGCTGGTGACAAAATGTGTGC
+AAAGCCTCAGAACTGAGACGTGAGGCCAATGTTGCTACCGACACTCAGTGAGCTTCAATTTGCTGCAAAC
+TGCTCCAAAACAACTCAAAGGGTAACTTCTTCTTTTTCTATTTGTACTTGTGATGCCTTGGTAGATATAG
+TTCCCCAATAATTTAATAGGACAAATCATTTTTCCTTTTAACACATTAATCCCCTTTCCTTCCCCCAAGA
+TTCTAAAATTTTTCTTTAACACTGATGTCTGAGAGATATGGCATAATAGATGTTTGTCTTATTCTGAGTT
+GTTCCTTATCAAAAGAAATCAGCTGTGGCACTTTGAACCTAAATATAACAATATTTCACAAAGGCATTCT
+GGGAATATATAGATGGTATTGCTACAAAAGAATAGGAGGATCTATGGCCATACCACCCTTAATGAACCAG
+ATACTATCTAAAAGATTAGGACAGCTGGGCATGTTGGCACAGGCCTTTAATCCCAGCACTAAGGAGGCAG
+AGGCAGGCAGATTTCTGATTCGAGGCCAGACTGGACTACAAAGTGAGTTCCAAGACAACCAGGGCTATAC
+AGAGAAACCCTGTCTCGAAAAAACAAAACAAAACAAAACAAGAGTAGGAGGGTATTAGATGCGAGGTGAT
+GATGGCCATTCAATCAAACCAGAATGTGACCTGAGAAAAGGTCTAAGTTTGTCAGCTTGTCCTGGAGATG
+TGTTGCCTCTGATAAATGCAGAGCTGGAACTGCAATACATTGGATTCCTGTGAGTTACGGAGAAATAAAA
+GGAATAGCCTCTGTTTCCTTTGGTTCATCAAGTTGGCAGTGAGCTAGAAGATGATACTGGGAACCATCAC
+ATGTACTTCTACAGAGTTATTCTACATTCTACAAGTCAGTCTTGCTTGCTTTCGTTTCTGTGAGGAGCTA
+AATACAGAATGTTTTCAATGTCTCATAATGTTCTGTGCACACCCATGGGTGCCTAGCCAAGGATAGAAAC
+TTGTATCTGATAAGGAAAGAGGATGCTGCAGTGGCCACACTCTGAGATCACCTCCTGCCAAATTATACTA
+GAGTGTTTTACATAGTCTTGAAAACACTAGGTCAAATATGTTGTCATCCAGATATGAAAACTCTGTGCAA
+CAATTCAGAAATACAGTGGTCAGGACAACTGGTATGTAACACTTTAGTTCCAGCCCACATTAATCTCACA
+TCTTTTCTGTGGTTTCAATAAAGAGCACACATGTTTGGAACACCATCTCCACTTTGTATGCTTATCCTTA
+TGCATCAAACTTTTCCTGTAATTTCCTACCCCGCACAGGTTCCTGTCTTGATCTCTTTTTCTAATGAACA
+GCAATACAGAAGTGTTGGCCAAATGAACACTTTCACCCCAAGTTGCTTTGCCATTGTGTTTCATCACAGC
+ATTAGTAACTCCCAGTAAGGCTACTGGTTACCCTGCATCTTCTATGTAGATCTTTTGATGAAGTTCCAGG
+CTTGGGGTCTTTATCTGACTGTTATCCTGGTTAATTCATGTCCACCAATAGAATATTGTTCTCATTTTCA
+ATATCATATGAAGTTACCTGTTTATAGGATCTTCCTAAAGCAGAAAACTATATAAAATGTCTGCTTACTT
+TAAGAAAAGTATGTGTCCTTGGAGGTAAATGGAGGAAAGGGTGGAGGATGTTGAGTAATGGAAGACTGGC
+TAATACAGGAAGGTCACAGAATTGAATGATTTTAAAAATTTTAACTCCTCATCAATGAGGTACTTCAAGT
+TGAGGCAGGAGTCCTTGATGCACAGGTGACCCAAAGGCCCCAGCCTCTGTTTCTTGGTCTGCTCCAGTCT
+CCCGGCTCAGCACAGTTCACTGAGTGACAATCTTTAAGATAGTCTTTCAGGATACAGTTATCACAGTTTT
+CAAACTCTCTTCATTGAAACAATATAATGAGTCAGAGTCCAGTGTGCCATTAATAGGCCCTATGCAATAG
+GATTTTACTTCATCTGTGGAAAGAAACCACCATGGCCTCATCAAGGCCTCATTTGATGATTAGTGTAGAA
+AGCGTCCCCAGAGCTTTGCTGGGATGAAAACCCTGGCAAGATGTTTAGGGCACTCTCCATCTGACAGGAC
+AATTCTATCAAGGGTTGCTTCCATATAGAGAGAAATCTCCACATCTGCAGTATTTCCCGATTTATCAACA
+GTTCTTTACCCCGTGTCATATGCATAAAATCTTTTCTCTGTAGAATTTTCAGTACTAAAAACTAACAAGG
+ATGTTGGTCCTGATATCAGACATAATAAATAAATAAACATCAAATTATACCCTAAACATGTGGAGATGGT
+TTTCTGTTATGAATTTATTGGCTCTCTAAAAAGTGTTAATTAAGCCAGGCGTGATGGCACATGCCTTTAA
+TCCCAGCACTTGTGAGGCAGAGGCAGGCGAATTTCTGAGTTTGAGGCCAAACTGATCTACAGAGTGATTT
+CCAGGACAGCCAGGGTTACACAAAAAAACCCTGTCTCCAAAAAGTAACAAAAAGAAAGTGTTAATTAACA
+TCTACACTTTAAGATAATTTGGTGGCAAAGGTTAATAGTCTGAAATACTAGATATGAAAGTATGACACCT
+AAATTGCATGCAGAGAATAAAGCTGAATTCCAATGAGATTCATGCCTTGTGAATCCATTCCAATCTGATC
+TCAATCTTCAAACATGTTTGTGCATAATTTACATCTTAATCAGTTGCTGGAAATTAAAAGGACATAAGCT
+AAACTTAAAACTCTTTCTATTTAATGTGTCAGAATAGAATATGTGCACTGAAGTTTTCATGTGCATAGGA
+TATCATTGTTACAATGATGGTTCAAATACGCACCAGTAGCACAGGTGATGCTTGACATGAAAAAAACTGT
+GACCAGAGCCCAGACGTTGATGTTGGCTGAAAGAGCCTAGTGTCTCACATTTGATCAAGCAAAGTGTTAT
+TCAGAGAAGCAGTGCCAGATTTGGGATCCTTCTTAATGGATCAAGAACATGAGGAAGATTTGGAAGCCAG
+ATTGATGAGATTACTAGAATCCTGGATCTGAACACACAACACACAATAGTAAGTTGAACTTTTCCACGCA
+ATGCTAAAGATAAAGCATCCAGTATCATGTTATACAGGACCAAGGTGAGGATCAGTCTGTGGGTGAAGTA
+CAATGAACTGGAAATTGTTTGGATTTTAAATGTTGGTTTTTAAATTATATATAAAATATATATATATATA
+TATATATATACATATATATATATATATATATATATATATATATATCGGAACCAACATTTAAAATTTGGAT
+TTTAAATGTTGGTTTTTAAATTATATATAAATTATATATATATATATATATATATATATATATATATATA
+TATATATATATATATCGGAACCAACATTTAAATTCCTAATTCTTAAGGACTTCACTTTTGACCAAAAATA
+TTTGAAATGGGTTATTTAGGTCTGTGGTGGTTTGAATATGCATAGCCTATAGGAAGTGGAAGTATGGCCA
+TTTTGTAGTATGTGTAGCCTTGATGGAGGAAGTACATCACTATATGGTGTTGTGAGAGTTGAGATCCTAT
+GTTCAAGTTCTGCCAAAAACAGAAGAGAGTCCCCTCCTGGATATTTGAAACAGATGCAGAGGCCCAAAGC
+CAAACATTGGGTATATCTCAGGGTTTCTTATGGAAAAGTTGGCTGAAGGATTGAAGGCCTTAAAGGGGAT
+AGGAACTTCACAGGAAAACCAACAGATTCATCTAACCTAGACTCTAGGGGTCTTTCAAAGGTTGAGTCAC
+CATACAAAAAGGACACAATGGCTAGACCTAGGTCCCTGATACATATGTAGCAAATGTGCAGCTTAGACTC
+CATGTGGATTCCCCAACGACTAGAGCAGGTATTGTCCCTGAAGTTATTGCTTGTCTGTAGAATACATTTC
+CCAACATAATTGTCTTGTCTGGCCTCAGTAGGAGAGTATGTTCCAATCCTGGAGAGACTTGATATGCCAG
+GATTGAGAGATTAAGGGTCTCCCACCATCTCAAAGTTCATGGGTATGACAGGGGAGGGGCAGTGCAGGTT
+TTCCCCATCTCTGATTTCCAGCATTTGCACCCCCAATATTGAGGGGGAGGTCTAGCAATTGGAGGGGGGA
+CAAACAGTATGAGAAAGCTAACTTTAGTGGTGTTGTCACAGTGTGGGGTATTGTGGGTGGGAGTGGAGAT
+GAATCCTCCTCCTCCTCAGGAGGCTGTAGCAGGTGCTTGCCCTCTTTTGGGACAGTAGAGCTGTGGTCAG
+TACTGGCCTGTTCCTGACAAATTTATTCTGTGCTGTGACCATTTATTCAAGGGAGGAAGATTTAAGACTT
+GCTATGATAACCTGACGAATCTGGACAAACAAGAGACAGGAGGTAACACCTGAGTTACTCTTTTGCTTGC
+TAGTACAGAAGAGCACTATAATCCACAAATTGGGGTCCCACATATTCTTGAGTGGGATCCAAGGTGCCAT
+AATTTCAGCCACATTCCAAAGTCCCTCAAGGTCTGACAGTTTAGTCTTTAGGCTTCTCCTAACCAAATCA
+TATTTGGAGTTCTTTAACATAAAAGGGTAGTTTCCCCATATCACTGCCAGCAAAACAGGTTGAATTTGGA
+CAGACAAGCAAAACTATCACAAACAAGACAGACTATGTGTGCGATCCAAATGTCTTGTGATTAGAGGGGA
+AGTTCTGCAGCTTATTAGGCTGTGTCCTTATGCCCACAAATGTCTTCAGATAGGAAAGGGCCATTGGGTG
+CCAATCCTTAGTTCTTCTGTTTCCTGGGCTGTCAGTTTTTATGTGGAGAAGACATGAACCAAATGCAAAG
+TCATGTATCCTACAAGAACTGACATACACAGACAAACAAGGAATAACAATGAGCTCTCTCATTCACCTAA
+GGGGGTCTTATAACATAGAACAGAAAGGGGCCAACTTAGCAAGAATTGACCAAAAGGTGGTCACCTAGAC
+CACACCACAATGCAGGAAGGATATCAATGAAGGAAGAACAAAGGAAAGGCCAAATCAAGTTTGTTGGCAC
+ATGACATAAAACAGTGCTCAAAAAACAATAGATGCGAGCAAAATGAAGCATTGGAATCATATCGGGGTAC
+ATAGGGGTCACTCTTACCCCTGTTCAAGTGCCAGATGTTGTTTTAGCCTTAGGCTCCCTGAGTTTGTCTT
+TAGGGGAAATGGGTAAGAATACACAAAAATAATGTCACAGAATCTTAGAGGCAGATGAGAAGTCAAAGCA
+GACTCATTTATTGCTATAGAAAAGAATGCCTTTATACCTTCTGTCCATAACACCTCTGCCCATATATGCT
+CATCTCTGTGAGGCAATGGACTACCTGCAGACAGGCTGGTATCCAGTCAAGCTGAGGTCTGAACCACAAT
+GGTCGTAACTCACCTAAAGGACGTGGTAGGCATGACGCGATAGGCGTTCCCTCATGCTCCTGGAACTCCG
+GCCCCTGCCTAAGGTACCACCTCCCACAGCCCCCACAAGAGAAGCATGGTCAGTAGTCATGTAAGCAATG
+GCCCAAGCTTCTGACCTTCAGCCTAAACTCCTCCCCAGTTACCTAGCAACAGTGAAGACCATAAAATGGG
+ATGTTAGGCCCCCACCTCACTCTCTTACTCCTTTGTTCCTTTACCTCTCACTTCTCTCAATTCTCTCTCC
+TCTTCCCTTTCTTTGTCTTCTTCTTTCCTTGTCTCTCTGTCTTTCTCTTTCTCTCTAGCCTTCTCTGCCT
+CTCTCTCTCTCTCTGTCTCTCTGTCTCTCTCTTCTCTCTTTCCCTTGAATTTCTTTTTTTCTTTTTTCTT
+TTTTTGATGAGCACAGTATAAATAGTTTATTGCATTGTTTCTGAATGTGGCTGTATTCTCTATTGTTCTC
+TTTCTTATTTTTTTTCTTTTTTTGGTTGTTTTTGTTTTTATAGTCTCGCACAGAATTCTACATCTACCAA
+ATCCCCATTGTGTACTTTAGTTTTGTCTTGTATTCAAAGGTTCTTTCAGAAAGAATCTTAAAGATGAAAT
+TTGCCTTCCAACTTTTCAAAAATACATATAAAGATAGATGTTACATAGTTCACGGAATAGACACATATAC
+GGAGATGCAGCAATATCTCCTTTGTGCCTCTTGTATATTCATGTTATTTCCTCAACTAAAAATACATAGC
+CACAAAGACATACAATGAGCACTCCACTTAGGAAAATATGGCCATATTTTTTTACATTTTTATGATTTTA
+TGATTAGGTATATTCTTCATTTACATTTCCAATGCTACCCCAAAAGTCCCCCAACCCTTCCCTCACTCCC
+CTTCCCCACTCCCACTTGTTGGCCCTGGAGTTCCCCTGTACTGAGGCATATAAAGTTTGCAAGACCAATG
+GGCCTCTCTTTCCACTGATGGCCCACAAGGTCATCTTCTGATACATATGCAGCTAGATACATATACATAC
+ACGAGCTCCAGGGGGTACTGGTTAGTTCATATTGTTGTTCCACCTATAGGGTTGCAGATCCCTTCAGCTC
+CTTGGGTACTTTCTCTAGCTCCTCCATTGAGGGCCCTGTGATCCATCCAATAGCTGACTGTGAGCATCCA
+CTTCTGTGTTTGCTAGGCCCCATTATAGCCTTGCAAGACAGCTATATCAGGGTCCTTTCAGCAAAATCTT
+GCTAGTGTGTGCAATGGTGTCAGCATTTGGGGGCTGATTATGGCATGGATCCCCGGATATGGCAGTCTCT
+AGATGGTCCATCCTTTCATCTCAGCTCCAATCTTTGTCTCTGTAACTCTTTCCATGGGTGTTTTGTTCCC
+AATTCTAAGAAGGAGCAAAGTGTCCACACATTTGTATTCATTACTCTTGAGTTTCATGTGTTTCCCTTGC
+ATTTCTATAATAAACCATAAGGAGTCTCTGCTCTACCAAGACCCGCTGCACACTCTGGTCAGTGTTGGGA
+ACTTTTCCCCTATTCCCTCTCTCCTATAACTCCGGGGCTACAGGGTGTCTCCTTTGGGTCCCGGTTGGGA
+GCTGTCTCTTCTCAACCCCCTGACTCATGGGTCAGAGGCCTAAATCTCCACCCAAGGCTGTGTGAAAAGC
+ACCGGGTGGTCTCCCCATATCTCCCTGTCCAGAGCACAGGAACTCTGGCCGGACATGGCATATTTTTCCT
+CCCCAACTTCTTCCCCGGCCTCCTCAGGGCTGTCCCTTCATTTTGTTCCCCACACATCTCCACATGGCTG
+CCACCATCCAATTGGCTGCTGAGGTCACACACTCTGTCTTTGTTCTTCTCTGAGTCTCATGCAGGTTTTG
+TGTTAGTAAATGCAAAAGTGCCTGCTGTGCATGCATGAACCATTACAGGCTGCTAGGCAGAACATGCTGA
+CTTGCTCCTGGATTATAAATCCATCACTGTGATAGCAGGACATATCCAGAAGACATTATTTAACAACACT
+CCTCTTCGTGCTCAACCTCTCATGGTCTTTCTACCTCCTCTTTCTTAGTGTTCTCTGAGCCTACATGAAA
+TGTGAACAAACCTGAAAAAAATCTCTGTGTCAAATACATAGTGTGGATTGGGAAGGAAAAACCCTGCACT
+TGTGTGTGGGCAGGGAAATGCTGGTGCTTTAACAGGACAAGTGCGGTGTGGCTAGAGAAAGTGATGAGAA
+GAAGGGAAGCATGAGAACTGGGTGGGTGGATCCCATGTCTACTGAAAATGCTATGTTGATGTCAAGATAT
+TGTGTCTTGTTACAAAAATTCATTGAGTACCTAGGTTATTCTCAGTATATAAAAGGGGAGGAATGAAACT
+AGAATTAAACACACACACACACACACACACACACACACACAAACACACACACACGAGTAGAGAAAAGAAA
+TAGTCATGAGTTGCCTAGTGAATGAAGAGCGGAAAATGGTGCAGTTAATAGGGATCATAGAAAGAACTGG
+GGGATGCACACGAATGGGTTTCCTGTAATTATGTCTTCATAGTAATCTCTGCTCAATAATCAGACAGTGA
+CAATGTATGCCTCATTTACAAGCCCTGATGGCCTCTCAGAGGAAAGCATCTCTCTGAAATGAATAAAGTT
+CAGAAATGTCCTAAGTGTCCCTGTCACAGGAAAGCAGTGTTGGTAACGTTTCCAGGAAGCTCAGTCTTTG
+TCAAATATCCACAACAAGAAGAAGCCATGTCTAGACAGACAACAGACTGGGAAAGACTGAGCTCATGTAT
+GGAAACACAACTATGTGTCATGCTTTTATTTTCACATTATACTGAGGGGATATGACATTATAGAAACACA
+GTTTGTTCTTTGCATATGCTGAGAGAGGAACTAGATGAAGTGTGCTAATTCTTAGCAATAAAAAGATATA
+CAAAGTGGTACTTTACTGTTTCAATTTTTGTAACTGGCATCATTGTCTTTGATATTTTATATCTTCCTTG
+AGCACTGCCTTCTCTCAAGTGTCCAACTTCAGAGTATGCTATAGCAGGAAGACTACCAAATAAGATTAAT
+TTTTTTGTACCCATGAAAAAATTATGTGCCCTGACCCCTGTTCTCTGAAAGAGGAGCCAAGTTCTGGATT
+CCCAGATCCTCATATTCATTGATCAGCAGTGAACACAGATCATTCACCATGGACATGGGGCTCATCTGGA
+TTCTCCTTATTGTTTTTAAAAAAGGATTTCATTGGGAAAAGCTGCCTCATATTTCTATGACCAGGAGAGG
+AAGATACAGCTAGAGACACAAGCCCCACCATGTAAAATCTGTATGGTACTCTCGTTTTCATTTTACAACA
+TTTTGCTTTTGCATTGCAAAGGAGCAATAAGGGTTCAGCAATCAGCACTGTAACTGTACTTTTAAAATTT
+CCACCTCTACCCTCTGTGTCCTCTATCTAGTGATAGAAAGTGAAATAAGCACATAAAGCATGGGACAAGA
+AGAACACACAGAGGAGCAGAGACTGGCTACAAGTGGCAGCCAGCATGGAGCTGGACAGAATTTAAAAAGA
+TAAAGAGAAATGTCATGGCATGAAGCAGTGACTTTTTCTGTTCACAATGCCTGCAAAAACTTTATGGAGC
+CTACTACTGCTGAGATATGCAGGTTTGGTTCCAGAGAGGATTTTCTGTTTTATTTAATTTGCTTTTAAAT
+TTTTCTTCTTTGTATAGTCTGTATTTTTAAAAAGGGGTTGAATGAATACCTAAGCAGTTGGAAAATTTGT
+GAGTAGAAACCGAGGGCCTGAGAAACAAATAAATCAAAATTTTGAAATGGCAAAAGAAAGGGTTCATTCT
+ATTTTCTCTTTTCAGAAAAGGTTGCAAAGTTGGATGTGCAAATGGAGATGTTATGGGTGGACTTGGAACA
+TCTTGGGAAGGAAGGAACCCAGGAAAAGAAAGAATGAAATGGCTCAGCCTCAATGACTGAGCAAGAGAGT
+TAGAGTCACCCACAGGAGAAAAGAAGAAAATAAACAGCACTGGGGTGAATTTGGGTCAGAGAAAACCTTA
+AAATGCCAGAGGACAATGTGATGAAAGAGACCATTTGAAAGAAAGGGTTAACCTCATTCCATCAGTCATG
+CCAGAGTTAGAGAATGGGCAGTCTGGAGTTACAAGATCACGATTAGCCTTCCCAGTATGTATACAGCATA
+TTCCTGATAATGAGATGAAGCAAAGTTTGACAAGGTAAGATTGTATCCTATAGTAATATATAGATCAAAG
+GCATGTTGCAGTAAATCTCCAACAGAAATAAGCCCGGGCAATGAAAACACAACTCAATTAATATGAATAC
+GTGCTGTGCACCTAGACTGGGCAGATCTACCACTCCACTACCATATGAGAGATCCCTTATAACTTGTGGT
+TTCTCCAGGCCAGCTGCTTCTGCTCTACTTTCCTTCCTCCTCCTCCTATGTCATCCTCTCCCTCACTCTT
+TCTCTCCCAAAACTTTCAGCTGCACCTTCCCCTCTTCATCCCCCAATCAGTGGCTCTAGCCTTTATTTAT
+AAATTAAGGTAGGAAGAAGGTTTATAGGAAATTACCTGAGTGTTGACGTGTTGATAACCCCACACAAGAG
+AACAAAATTAATATCAAATATGATTAGCTCCAGGGTTATATGCAACAAAGGCATGATAAAGTGGTCATGA
+TTTCATATGAGATGTACTGGACTCATGTGAAAAAACGTTTAAATACATGGGCTTACTCAAAATATAGACT
+CATACCCCCAAGATGGGAAGAGACTGGTAACATTTGTACTGGAGGCTGGTCTGCTGTGGCAGCCATTAAC
+ACAGTGGAGGGAAGAGCCTCAAAGAGTGAAATAGAGGAAGGGGAACAAATACAGTAAACCACCAGTTACT
+ACTTAAAGGGCAGTGTTCTGATGTCCTAGGGAGGGCACTCCAAAATACCAATGGCCTTATCCTTAAATTT
+ATTGTTTAATGAGCCTACACTGATCTCAGTGGCCCACTACTAAGGAGAAATGACAGGCACTTGAACAGCT
+GATATGAGAACAGCTGGAGGCACAGTATACAGAAGAGTTTACAAGCCTATGGAACTCCCCTGTATTTTTT
+TATGATGAGGAAATCTGAAAAATGTAAAATGTTGAAAGATTTAAGAGCAGTTATTAGAGTAGATCAACCA
+ATGAGTCTCTTGCAGCCTGGAATTCTTTTATCTTGTTTGTAACAACAATCAGGCTCCATAAATTATAAAC
+TATAAAAATTTACTTTATAAATTATAAATATATATATATGTGTGTCTGTAGATAGATAGATAGATAAATA
+GATAGATAGATAGATAGATAGATAGATAGATATATGGATTTGATGGTTGCAGCAAATTCTAATTGGTTCC
+AACAACCCTACTCACATAATACATTCATACAGGTTTGATAGATGGAGCTAAGTTTTAAATAAATTATTTT
+TCTCCCATGGCTTATATATACACCACCAAAATTCTCAAAAATTAAAATGTGATTGTGTTGTATTTTTCTT
+TTACTGAATGACTATAAAAAGTTACAACATTCTCCATAAATTTACATGAAAAAATATTATGTAGTGCAGG
+TAAAGAAAACAAATTGACCCAAGAATGGTGTATATTCATTACTAAGCAACTTTTTAGATTCACAAAGTGT
+GGGTAAACAAGGTAATTTTTTCAATCAGTTTTTTTTAACTGGCAGGCAGCAATTCAGAGTTACAATGAGA
+AGATTAATAATTTTATTGTGTATTTTAAAATAAATCTTACAAAAATATTAATAGAATCACAAATTTATAC
+CTTTGTATAAAAACAATCAGTCATTTCTACTTTAAGAAACAGAACTCACATCTACTCATCAATCATTTTA
+TTAAGTCATATTACAAAGCTGAGTGCTAACATGGGTATAAGAAAACCATAACCTTATTCACCAGCCCAGC
+GTCAAAAAGAAAAAAACCAGTCATATCAGCTGCTGCTTCAAGAGTTCTTGTTCCTTGACATTAACAAAAT
+CCCTAGCTTAACTATTAAATTTTTTTTCAAAACTTCTAATTGATCCCTTAGATAAATGTTTGTGCTAACC
+ATCGGGACACATCCCATGAGTTCTGAAGCAGTGTGTTGTTCTTCATGCATGGCCCTTTTGTAGAGCTGTG
+AGTGTAGGGGAAGAGGGGGGAGAGAGAGCCCGTGTCCAGCCAGAGATCCTGTGCTCTGGGCAGGCAGACA
+CGGGAGGACAACGGAACACTTTTCACTCGGCCTTTGGTGGGCATCTGGCTGTGTGAAGTTACTGACCCCA
+CATGGTGGGGGATGGACAAGGGGCAGCCCCTGGTACCAGGAGCCCCAGGGCTACACTCTCGGCCCCAGAT
+ATACAAGAAGAGGGCAGAGGGAGAGAGGCTCCCACACAGGCGAGAGTCCTTAGTCTGGTCTGTGGCTGGA
+GCAGGGGAATTCCTTCTGATTGGAGATTAGGCACAGCTGATTAGGGGAAAGCCTACCCCATCATCCAAGC
+ACAATGGACTTTGAGGAACAGAGCCAGTCTAAGCTTTTATAGCTTTATGGTAGAAAGGCAGGGAGAAAGG
+AGAGAATGTGGAGAGAGACAGAGAGAGACTGGCCATGGCCAAGAGGAGGGAAGGGGGAAGAGAGAGAAAC
+AGGAAAAGCTAGAAAGTAAGATAAGAGAAAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGCAAAGTG
+GGGCCAAGCAGCCCCTTTTCTAGTGAGCTTGTCATCTCACAGTTGCTAGGTAACTGGGGAGGAGTTTAGT
+CTGAAGGTCAGAAGCTTGGGACCTTGTGTATGTGACTACTAACCACAGCTTCTCCTGTCGGGACTGTGGG
+AGCAGTAACTTTGACAGGAGACAGGGATCCAGGAGACATGAGGGAACACCTTCTGTCCCACATAGGTGGA
+ATCGGTTGTACCAGGGTTCAGAACTCAACTCCACTGGAGACCAGCCTATGTGTGCATAGCCCATTGCCCT
+ACAGCCTTTGACATTCTACAGAGTTCTGAGACTGGTAGAGATACAAAATAGCTAGGATTACACAGAGAAA
+CACTGGCTTGACAATAAAACTTCCAAAACAAATATAAATGAATAAATACACAAATTGGAGCAAGTGAACT
+TGCACTAAATCCATCAAAACTTGCACAGGATGGCTGTCTCCATAATGTTCAGATCTACTTCTATTAATGT
+CATTAAGAAGACAAAGATTATGCACAAAAAGAAACAAAACAAGAAACCCAAAAGGTAAAGGCTCCAATTG
+TAAGTAATAGACCCACAGTCTCTGAGGCCTGACTGTGCAGGTCCTCACCTTTGGTAATCAGCACTGAATG
+CAGACCACTCCTCATGGACTTTGGGCTCAGGTTTGTTTTCCTTGTCCTTATTTTAAAAGGTAATTCATAG
+AAATGAGATCCTGCCAGTATTGTGTACATGAGAAATAGAAAAATTGGTTTTCTTTGCTCTATTTTGTTTT
+GTTTGGTTAATGACAGTTTCCAAATCAGCATTCTTTGCTTTGAGGTGCCCAGTGTGAGGTGAAGCTGGTA
+GGGTCAGGGCAGCCTGGAGGGTCCCTGAAACACTCCTGTGCAGCCTCTGTAGTCACTGTGAGTGACTACT
+GAATGACCTGGGTCCTTCAGGCTCTAAAGAAGGGGCTGGAGAGGGTGGAAATAATTTTTAATGGTGGAGG
+TAGCACCTATTATCCAGACACCATGAAGGGCTGATTCACCATCTACAGAGATGATGCCAGAAACACACTT
+TACCTGAAAATAAACAGTCTGAGGTCTGAGTACACAGCCATGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+TGTGTGTGTGTGTGTGTGTGTGTGAGTGTGTATTCATATATATATATATAGTGTGTATGTATATTCATAT
+ATATATGTATATTCATAAGGTTGAGTAAATGGACTTAAACTGATTCCATCACAACTTCCATGGGATGGAT
+ATTTCCCAGTGTTAAGACCTGTCAACATCACTGTCATTCAGGAGACAATGATTATGCACAACAAAACAAG
+AAACCCAAAAGCAGAGGACTCCAATTACAATAGACCCAGACCCACAGTCTCTGAAGATTGACTGTACAGT
+TCAACCCAGCCCTGTACTTCTCTTCCCTAGAATTTACATTACTGAGTAACTGAGGAAAGCTCTACAATAT
+CTGTTCTCTATAGTGGTCAACACCTCCAAACACAGGTTACCCATATTCATGCCTGCCTTCTGCTACACTT
+CTTGCCATAATGTAGACTACTTCAGCCTATTTTGTACTCCAGTTAACGAAACTCAAGACTAGCTGCATGT
+TAGTCCTTATTCTGAAATATTATGAACAGGTGACCTCCCATCATTCACCAATGCAATAATCATATTTAGG
+AATATGAGGTTTTATGAGATATAAGCACAAGGGAGAGAAAGTAAGAAAACTACATAGATATATAGACTGA
+CATAAATCAAGACTTGCATGAGCTAGTGCCCAAGTACCATGTCCCTAAGTGGCAAGGAGTATCTTTTGAG
+CCTAGTGAGATGAGGTACAAATCGGACTCTTACATCTTTTTAGATAAACATGTGAGATCAATGGACTAAA
+GGCGTGAGCTGGGCTTCCTTGCAATCCATTTTCCATACAAGATAACAATAGATCTGGCTCCACAGACACG
+ATGAGAATAGTCTTAATTAGTTCTTTAAGTAGAATGACTGATCACTAAGAGCCCAATTCCATACTAAATA
+CTCTTCTGGATTATGCACAGATAAAAATTGCACATAGGGCATGGGGCACTGATCTCCCTGCACTACATGA
+ATGGGGGCTCATTTACTAAATGTTCCCATGTTTCTTCCTAGTGCTGCACAGAGCAAATCCTACAACTTCC
+TGCTTGTCTACAATGTAAACTCCAGACAGTACCAGAAAATCATTCCTTATGTTCCTCTCCAGGTGCTTCA
+ACAAGCACAGTGCAAATTTCTGTCACCCTG</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene851">
+        <gene_name>SfbI</gene_name>
+        <strain>Streptococcus pyogenes DSM 2071</strain>
+        <vo_id>VO_0012394</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>511149</ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_014407228</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>CAA48133.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:311998
+CDD:331285
+CDD:308566</xrefs>
+        <taxonomy_id>1314</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>fibronectin-binding protein SfbI</protein_name>
+        <protein_pi>4.15</protein_pi>
+        <protein_weight>64222.46</protein_weight>
+        <protein_length>694</protein_length>
+        <protein_note>Thioester domain; pfam08341</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|511149|emb|X67947.1| S.pyogenes Sfb gene for fibronectin-binding protein (partial)
+TAAAGCAATATTTTCTCAAAAAATCATTTTCAAAAACATTAATTTGGTGAAAAATATAATCAAAAAATTG
+TCTTTCTTGACAATAACGTGGTAAGCTCATATATGTTTGTGAGAGGAGAGAAAATGAATAACAAAATGTT
+TTTGAACAAAGAAGCCGGTTTTTTGGCACACACAAAAAGAAAAAGGCGATTTGCTGTCACTTTAGTGGGA
+GTCTTTTTTATGCTTTTGGCATCCGCGGGTGCTATCGGTTTTGGTCAAGTAGCCTATGCTGCCGATGAGA
+AGACTGTGCCTCATAGAGTTAGTCAAAATCCTGAGTTTCCCTGGTATGGTTATGATTTCTACAAAGGACC
+TTACACAAGATATCATAATTTACAGCTAAATCTCAACGGAAGTAAAACATATCAGGCTTATTGTTTTAAT
+TTAAAGAGATTTGAACCTAAGAAAGAAGGTAGTTATTTTCCGAATTGGTATAAGAGGTGGGATGGTAGTG
+AAGAGACATTTGTAAAATATGCTGATAACCCCAGAAAAGATAATGAAAGTTCCAGAGTTATAGATGTAGA
+ATTAGAAAAAAATATATTAAGAGTGCTATATAATGGATATCCGAATAACGGTAATGGAATCATGGAGGGT
+TTAGAACCATTAAATGCTATCTTAGTAACTCAAAATGCTGTTTGGTACTATTCTGATAATTCATCTATTT
+TTAATACTGATAACTTCTTTACGACTGAAGCTAAAGATCTTAATATAAAACCTGAGCAATTATCATTAAT
+GCGTGTTGCATTAAAGAAATTGATAGATCCTAAGTTATCTGAAGAATCATTGAAACCTGTGCCATCTACT
+TTTAGACTGAATATTTTCGAATCTCAGGATAAGCTATATCAAAATCTTCTAAGTGCTGAGTTTGTACCAG
+AAAATCCCCCTAAACCTGGTGAAACCCCTGAACATGGACCCAAAACTCCCGAGTTGGATGGCACTCCAAT
+TCCCGAAGGCCCACAACGTCCAAATGAGAGTTTAGAACCTACGCTTCCACCAGTGATGCTAGACGGACAA
+GAAGTCCCCGAAGTTCCAAGTGAGAGCTTAGAACCTGCGCTTCCCCCATTGATGCCAGAGCTAGATGGCC
+AAGAAGTCCCAGAAGTTCCAAGCGAGAGCTTAGAACCTGCGCTTCCCCCATTGATGCCAGAGTTAGATGG
+TCAAGAAGTCCCTGAAAAACCTAGTGTTGACTTACCTATTGAAGATCCTCGTTATGAGTTTAACAATAAA
+GACCAATCACCTCTAGCGGGTGAGTCTGGTGAGACGGAGTATATTACCGAAGTTTATGGAAATCAACAGA
+ACCCTGTTGATATTGATAAAAAACTTCCGAATGAAACAGGTTTTTCAGGAAATATGGTTGAGACAGAAGA
+TACGAAAGAGCCAGGAGTGTTGATGGGAGGTCAAAGTGAGTCTGTTGAATTTACTAAAGACACTCAAACA
+GGCATGAGTGGTCAAACAACTCCTCAGGTTGAGACAGAAGACACGAAAGAGCCAGGAGTGCTGATGGGAG
+GTCAAAGTGAGTCTGTTGAATTTACCAAAGATACTCAAACAGGCATGAGTGGTCAAACAGCTTCTCAGGT
+TGAGACAGAAGATACGAAAGAGCCAGGAGTGCTGATGGGAGGCCAAAGTGAGTCTGTTGAATTTACTAAA
+GACACTCAAACAGGCATGAGTGGTCAAACAACTCCTCAGGTTGAGACAGAAGACACGAAAGAGCCAGGAG
+TATTGATGGGAGGTCAAAGTGAATCTGTTGAATTTACTAAAGACACTCAAACAGGCATGAGCGGTTTCAG
+TGAAACAGTGACCATTGTTGAAGATACCCGTCCGAAGTTAGTGTTCCATTTTGACAATAATGAGCCCAAA
+GTGGAAGAGAATCGGGAAAAGCCTACAAAAAATATAACACCTATCCTTCCTGCAACAGGAGATATTGAGA
+ATGTTTTGGCCTTTCTTGGAATCCTTATTTTGTCAGTACTTCCTATTTTTAGTCTTTTAAAAAAACAAAC
+AAAACAATAAAGTCTGATCGTAAAAGTGTTCCATAAGAAATAATGCGCAAATATGCTGAATAGTGGATAA
+CTGCTACAGTCAAGACAAGTGTTAATTCAAAAGGTACTACTTATACATCTGATAATAATAAGGTGACAGA
+TAATTCAGAGCAAGTAGGATGGCTAAAAAATGGTGTATTCTATGTATAATAGACTACATAGAAATCAAGT
+TATTGTTAAACGTCGTAAAGCTT</dna_sequence>
+        <protein_sequence>>WP_014407228.1 fibronectin-binding protein SfbI [Streptococcus pyogenes]
+MNNKIFLNKEAGFLAHTKRKRRFAVTLVGVFFMLLACAGAIGFGQVAYAADERTVPNHSSTNPEFPWYGY
+DSYRGIFARYHNLKVNLKGSKEYQAYCFNLTKYFPRPTYSTTNNFYKKIDGSGSAFKSYAANPRVLDENL
+DKLEKNILNVIYNGYKSNANGFMNGIEDLNAILVTQNAIWYYSDSAPLNDVNKMWEREVRNGEISESQVT
+LMREALKKLIDPNLEATAVNKIPSGYRLNIFKSENEDYQNLLSAEYVPDDPPKPGDTSEHNPKTPELDGS
+PIPEDPKHPDDNLEPTLPPVMLDGEEVPEVPSESLEPALPPLMPELDGEEVPEVPSESLEPALPPLMPEL
+DGEEVPEVPSESLEPALPSLMPELDGEEVPEVPSESLEPAFPPLMPELDGQEVPEKPSVDLPIEVPRYEF
+NNKDQSPLAGESGETEYITEVYGNQQNPVDIDKKLPNETGFSGNMVETEDTKEPEVLMGGQSESVEFTKD
+TQTGMSGQTTPQVETEDTKEPGVLMGGQSESVEFTKDTQTGMSGFSETVTIVEDTRPKLVFHFDNNEPKV
+EENREKPTKNIAPILPATGDIGNVLAFLGILILSVLSIFSLLKNKQNNKV</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Intranasal immunization of mice with either SfbI alone or coupled to cholera toxin B subunit (CTB) triggered efficient SfbI-specific humoral (mainly IgG) and lung mucosal (14% of total IgA) responses. SfbI-vaccinated animals showed 80% and 90% protection against homologous and heterologous challenge, respectively [Ref1507:Guzmán et al., 1999].
+Peptides incorporated in the Lipid-Core Peptide (LCP) vaccine delivery system derived from the important streptococcal virulence factors M protein and the fibronectin-binding protein SfbI. The present work clearly demonstrates the potential of these synthetic dual antigen multi-epitope mucosal GAS prophylactic vaccines as an approach to deliver vaccine antigens and adjuvants across mucosal membranes resulting in the stimulation of protective immune responses.[Ref4816:Schulze et al., 2017]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene855">
+        <gene_name>sib35</gene_name>
+        <strain>Streptococcus pyogenes serotype M12</strain>
+        <vo_id>VO_0012398</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>90567992</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:286161</xrefs>
+        <taxonomy_id>342023</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>immunoglobulin-binding protein 35</protein_name>
+        <protein_pi>7.68</protein_pi>
+        <protein_weight>36275.97</protein_weight>
+        <protein_length>431</protein_length>
+        <protein_note>Mac 1; pfam09028</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>BAE92207.1 immunoglobulin-binding protein 35 [Streptococcus pyogenes serotype M12]
+MRKRCYSTSAAVLAAVTLFVLSVDRGVIADSFSANQEIRYSEVTPYHVTSVWTKGVTPPAKFTQGEDVFH
+APYVAKQGWYDITKTFNGKDDLLCGAATAGNMLHWWFDQNNEKIEAYLKKHPDKQKIMFGDQELLDVRKV
+INTKGDQTNSELFNYFRDKAFPGLSARRIGVMPDLVLDMFINGYYLNVYKTQTTDVNRTYQEKDRRGGIF
+DAVFTRGDQSKLLTSRHDFKEKTLKEISDLIKKELTEGKALGLSHTYANVRINHVINLWGADFDSNGNLE
+AIYVTDSDSNASIGMKKYFVGVNSAGKVAISAKEIKEDNIGAQVLGLFTLSTGQDSWNQTN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunization with Sib 35 enhanced survival rates in mice challenged with a GAS strain, while exhibiting no toxicity in hosts [Ref1511:Okamoto et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4862">
+		<reference_name>Bensi et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bensi G, Mora M, Tuscano G, Biagini M, Chiarot E, Bombaci M, Capo S, Falugi F, Manetti AG, Donato P, Swennen E, Gallotta M, Garibaldi M, Pinto V, Chiappini N, Musser JM, Janulczyk R, Mariani M, Scarselli M, Telford JL, Grifantini R, Norais N, Margarit I, Grandi G</authors>
+		<title>Multi high-throughput approach for highly selective identification of vaccine candidates: the Group A Streptococcus case</title>
+		<year>2012</year>
+		<volume>11</volume>
+		<issue>6</issue>
+		<pages>M111.015693</pages>
+		<journal_book_name>Molecular &amp; cellular proteomics : MCP</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4813">
+		<reference_name>Chen et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen X, Li N, Bi S, Wang X, Wang B</authors>
+		<title>Co-Activation of Th17 and Antibody Responses Provides Efficient Protection against Mucosal Infection by Group A Streptococcus</title>
+		<year>2016</year>
+		<volume>11</volume>
+		<issue>12</issue>
+		<pages>e0168861</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4827">
+		<reference_name>Courtney et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Courtney HS, Niedermeyer SE, Penfound TA, Hohn CM, Greeley A, Dale JB</authors>
+		<title>Trivalent M-related protein as a component of next generation group A streptococcal vaccines</title>
+		<year>2017</year>
+		<volume>6</volume>
+		<issue>1</issue>
+		<pages>45-49</pages>
+		<journal_book_name>Clinical and experimental vaccine research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4712">
+		<reference_name>Dale et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dale JB, Niedermeyer SE, Agbaosi T, Hysmith ND, Penfound TA, Hohn CM, Pullen M, Bright MI, Murrell DS, Shenep LE, Courtney HS</authors>
+		<title>Protective immunogenicity of group A streptococcal M-related proteins</title>
+		<year>2015</year>
+		<volume>22</volume>
+		<issue>3</issue>
+		<pages>344-350</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4725">
+		<reference_name>Guerino et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guerino MT, Postol E, Demarchi LM, Martins CO, Mundel LR, Kalil J, Guilherme L</authors>
+		<title>HLA class II transgenic mice develop a safe and long lasting immune response against StreptInCor, an anti-group A streptococcus vaccine candidate</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>46</issue>
+		<pages>8250-8256</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1507">
+		<reference_name>Guzmán et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guzmán CA, Talay SR, Molinari G, Medina E, Chhatwal GS</authors>
+		<title>Protective immune response against Streptococcus pyogenes in mice after intranasal vaccination with the fibronectin-binding protein SfbI</title>
+		<year>1999</year>
+		<volume>179</volume>
+		<issue>4</issue>
+		<pages>901-906</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4902">
+		<reference_name>Kagawa et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kagawa TF, O'Connell MR, Mouat P, Paoli M, O'Toole PW, Cooney JC</authors>
+		<title>Model for substrate interactions in C5a peptidase from Streptococcus pyogenes: A 1.9 A crystal structure of the active form of ScpA</title>
+		<year>2009</year>
+		<volume>386</volume>
+		<issue>3</issue>
+		<pages>754-772</pages>
+		<journal_book_name>Journal of molecular biology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1508">
+		<reference_name>Kawabata et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kawabata S, Kunitomo E, Terao Y, Nakagawa I, Kikuchi K, Totsuka K, Hamada S</authors>
+		<title>Systemic and mucosal immunizations with fibronectin-binding protein FBP54 induce protective immune responses against Streptococcus pyogenes challenge in mice</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>2</issue>
+		<pages>924-930</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4815">
+		<reference_name>Kawabata et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kawabata S, Kunitomo E, Terao Y, Nakagawa I, Kikuchi K, Totsuka K, Hamada S</authors>
+		<title>Systemic and mucosal immunizations with fibronectin-binding protein FBP54 induce protective immune responses against Streptococcus pyogenes challenge in mice</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>2</issue>
+		<pages>924-930</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1903">
+		<reference_name>Kotloff et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kotloff KL, Corretti M, Palmer K, Campbell JD, Reddish MA, Hu MC, Wasserman SS, Dale JB</authors>
+		<title>Safety and immunogenicity of a recombinant multivalent group a streptococcal vaccine in healthy adults: phase 1 trial</title>
+		<year>2004</year>
+		<volume>292</volume>
+		<issue>6</issue>
+		<pages>709-715</pages>
+		<journal_book_name>JAMA : the journal of the American Medical Association</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4760">
+		<reference_name>Lei et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lei B, Liu M, Chesney GL, Musser JM</authors>
+		<title>Identification of new candidate vaccine antigens made by Streptococcus pyogenes: purification and characterization of 16 putative extracellular lipoproteins</title>
+		<year>2004</year>
+		<volume>189</volume>
+		<issue>1</issue>
+		<pages>79-89</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1509">
+		<reference_name>Ma et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ma CQ, Li CH, Wang XR, Zeng RH, Yin XL, Feng HD, Wei L</authors>
+		<title>Similar ability of FbaA with M protein to elicit protective immunity against group A streptococcus challenge in mice</title>
+		<year>2009</year>
+		<volume>6</volume>
+		<issue>1</issue>
+		<pages>73-77</pages>
+		<journal_book_name>Cellular &amp; molecular immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4783">
+		<reference_name>Ma et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ma C, Liu Z, Li W, Qian X, Zhang S, Gao X, Jiang S, Wei L</authors>
+		<title>FbaA- and M protein-based multi-epitope vaccine elicits strong protective immune responses against group A streptococcus in mouse model</title>
+		<year>2014</year>
+		<volume>16</volume>
+		<issue>5</issue>
+		<pages>409-418</pages>
+		<journal_book_name>Microbes and infection</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4836">
+		<reference_name>Mansour and Abdelaziz, 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mansour NM, Abdelaziz SA</authors>
+		<title>Oral immunization of mice with engineered Lactobacillus gasseri NM713 strain expressing Streptococcus pyogenes M6 antigen</title>
+		<year>2016</year>
+		<volume>60</volume>
+		<issue>8</issue>
+		<pages>527-532</pages>
+		<journal_book_name>Microbiology and immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4854">
+		<reference_name>McNeil et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McNeil SA, Halperin SA, Langley JM, Smith B, Warren A, Sharratt GP, Baxendale DM, Reddish MA, Hu MC, Stroop SD, Linden J, Fries LF, Vink PE, Dale JB</authors>
+		<title>Safety and immunogenicity of 26-valent group a streptococcus vaccine in healthy adult volunteers</title>
+		<year>2005</year>
+		<volume>41</volume>
+		<issue>8</issue>
+		<pages>1114-1122</pages>
+		<journal_book_name>Clinical infectious diseases : an official publication of the Infectious Diseases Society of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4741">
+		<reference_name>Morefield et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Morefield G, Touhey G, Lu F, Dunham A, HogenEsch H</authors>
+		<title>Development of a recombinant fusion protein vaccine formulation to protect against Streptococcus pyogenes</title>
+		<year>2014</year>
+		<volume>32</volume>
+		<issue>30</issue>
+		<pages>3810-3815</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4893">
+		<reference_name>Mortensen et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mortensen R, Nissen TN, Fredslund S, Rosenkrands I, Christensen JP, Andersen P, Dietrich J</authors>
+		<title>Identifying protective Streptococcus pyogenes vaccine antigens recognized by both B and T cells in human adults and children</title>
+		<year>2016</year>
+		<volume>6</volume>
+		<issue></issue>
+		<pages>22030</pages>
+		<journal_book_name>Scientific reports</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4730">
+		<reference_name>Niedermeyer et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Niedermeyer SE, Penfound TA, Hohn C, Li Y, Homayouni R, Zhao J, Dale JB</authors>
+		<title>Group A streptococcus expresses a trio of surface proteins containing protective epitopes</title>
+		<year>2014</year>
+		<volume>21</volume>
+		<issue>10</issue>
+		<pages>1421-1425</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1511">
+		<reference_name>Okamoto et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Okamoto S, Tamura Y, Terao Y, Hamada S, Kawabata S</authors>
+		<title>Systemic immunization with streptococcal immunoglobulin-binding protein Sib 35 induces protective immunity against group: a Streptococcus challenge in mice</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>40</issue>
+		<pages>4852-4859</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4861">
+		<reference_name>Okamoto et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Okamoto S, Tamura Y, Terao Y, Hamada S, Kawabata S</authors>
+		<title>Systemic immunization with streptococcal immunoglobulin-binding protein Sib 35 induces protective immunity against group: a Streptococcus challenge in mice</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>40</issue>
+		<pages>4852-4859</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4886">
+		<reference_name>Pandey et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pandey M, Langshaw E, Hartas J, Lam A, Batzloff MR, Good MF</authors>
+		<title>A synthetic M protein peptide synergizes with a CXC chemokine protease to induce vaccine-mediated protection against virulent streptococcal pyoderma and bacteremia</title>
+		<year>2015</year>
+		<volume>194</volume>
+		<issue>12</issue>
+		<pages>5915-5925</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3137">
+		<reference_name>Poirier et al., 1988</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Poirier TP, Kehoe MA, Beachey EH</authors>
+		<title>Protective immunity evoked by oral administration of attenuated aroA Salmonella typhimurium expressing cloned streptococcal M protein</title>
+		<year>1988</year>
+		<volume>168</volume>
+		<issue>1</issue>
+		<pages>25-32</pages>
+		<journal_book_name>The Journal of experimental medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4700">
+		<reference_name>Radcliff et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Radcliff FJ, Fraser JD, Proft T</authors>
+		<title>Vaccination with Streptococcus pyogenes nuclease A stimulates a high antibody response but no protective immunity in a mouse model of infection</title>
+		<year>2015</year>
+		<volume>204</volume>
+		<issue>2</issue>
+		<pages>185-191</pages>
+		<journal_book_name>Medical microbiology and immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4800">
+		<reference_name>Reglinski et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Reglinski M, Lynskey NN, Choi YJ, Edwards RJ, Sriskandan S</authors>
+		<title>Development of a multicomponent vaccine for Streptococcus pyogenes based on the antigenic targets of IVIG</title>
+		<year>2016</year>
+		<volume>72</volume>
+		<issue>4</issue>
+		<pages>450-459</pages>
+		<journal_book_name>The Journal of infection</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4946">
+		<reference_name>Rivera-Hernandez et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rivera-Hernandez T, Pandey M, Henningham A, Cole J, Choudhury B, Cork AJ, Gillen CM, Ghaffar KA, West NP, Silvestri G, Good MF, Moyle PM, Toth I, Nizet V, Batzloff MR, Walker MJ</authors>
+		<title>Differing Efficacies of Lead Group A Streptococcal Vaccine Candidates and Full-Length M Protein in Cutaneous and Invasive Disease Models</title>
+		<year>2016</year>
+		<volume>7</volume>
+		<issue>3</issue>
+		<pages></pages>
+		<journal_book_name>mBio</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4906">
+		<reference_name>Rodr�guez-Ortega et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rodr�guez-Ortega MJ, Norais N, Bensi G, Liberatori S, Capo S, Mora M, Scarselli M, Doro F, Ferrari G, Garaguso I, Maggi T, Neumann A, Covre A, Telford JL, Grandi G</authors>
+		<title>Characterization and identification of vaccine candidate proteins through analysis of the group A Streptococcus surface proteome</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<pages>191-197</pages>
+		<journal_book_name>Nature biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4940">
+		<reference_name>Sagar et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sagar V, Bergmann R, Nerlich A, McMillan DJ, Nitsche Schmitz DP, Chhatwal GS</authors>
+		<title>Variability in the distribution of genes encoding virulence factors and putative extracellular proteins of Streptococcus pyogenes in India, a region with high streptococcal disease burden, and implication for development of a regional multisubunit vaccine</title>
+		<year>2012</year>
+		<volume>19</volume>
+		<issue>11</issue>
+		<pages>1818-1825</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1510">
+		<reference_name>Schulze et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schulze K, Olive C, Ebensen T, Guzmán CA</authors>
+		<title>Intranasal vaccination with SfbI or M protein-derived peptides conjugated to diphtheria toxoid confers protective immunity against a lethal challenge with Streptococcus pyogenes</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>35-36</issue>
+		<pages>6088-6095</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4816">
+		<reference_name>Schulze et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schulze K, Ebensen T, Chandrudu S, Skwarczynski M, Toth I, Olive C, Guzman CA</authors>
+		<title>Bivalent mucosal peptide vaccines administered using the LCP carrier system stimulate protective immune responses against Streptococcus pyogenes infection</title>
+		<year>2017</year>
+		<volume>13</volume>
+		<issue>8</issue>
+		<pages>2463-2474</pages>
+		<journal_book_name>Nanomedicine : nanotechnology, biology, and medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4765">
+		<reference_name>Severin et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Severin A, Nickbarg E, Wooters J, Quazi SA, Matsuka YV, Murphy E, Moutsatsos IK, Zagursky RJ, Olmsted SB</authors>
+		<title>Proteomic analysis and identification of Streptococcus pyogenes surface-associated proteins</title>
+		<year>2007</year>
+		<volume>189</volume>
+		<issue>5</issue>
+		<pages>1514-1522</pages>
+		<journal_book_name>Journal of bacteriology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1526">
+		<reference_name>Textbook of Bacteriology</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Streptococcus pyogenes and Streptococcal Disease</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://textbookofbacteriology.net/streptococcus</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4828">
+		<reference_name>Tsao et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tsao N, Cheng MH, Yang HC, Wang YC, Liu YL, Kuo CF</authors>
+		<title>Determining antibody-binding site of streptococcal pyrogenic exotoxin B to protect mice from group a streptococcus infection</title>
+		<year>2013</year>
+		<volume>8</volume>
+		<issue>1</issue>
+		<pages>e55028</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1512">
+		<reference_name>Wiki: S. pyogenes</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Streptococcus pyogenes</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Streptococcus_pyogenes</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4892">
+		<reference_name>Zhang et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang S, Green NM, Sitkiewicz I, Lefebvre RB, Musser JM</authors>
+		<title>Identification and characterization of an antigen I/II family protein produced by group A Streptococcus</title>
+		<year>2006</year>
+		<volume>74</volume>
+		<issue>7</issue>
+		<pages>4200-4213</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4772">
+		<reference_name>Zhang et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang X, Song Y, Li Y, Cai M, Meng Y, Zhu H</authors>
+		<title>Immunization with Streptococcal Heme Binding Protein (Shp) Protects Mice Against Group A Streptococcus Infection</title>
+		<year>2017</year>
+		<volume>973</volume>
+		<issue></issue>
+		<pages>115-124</pages>
+		<journal_book_name>Advances in experimental medicine and biology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

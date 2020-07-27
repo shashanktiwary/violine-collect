@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen69">
+		<pathogen_name>Marek's disease virus</pathogen_name>
+		<taxon_id>10390</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Marek's disease</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1439">The causative agent of Marek’s disease. Gallid HV2 (Marek's disease virus)is highly contagious in chickens and induces T cell lymphomas in susceptible birds, causing annual losses to the worldwide poultry industry estimated at US$100 billion (Morrow and Fehler 2004). In the 100 years since Marek’s disease was first described, the disease has substantially increased in severity of symptoms. The first vaccines for gallid HV2 were developed in the late 1960’s and early 1970’s; but new, more virulent strains of the virus have emerged that are resistant to vaccine-induced immune responses (Nair 2005).
+
+The virulence of gallid HV2 is expected to be a polygenic trait, with allelic variants at a number of loci playing a role (Shamblin et al. 2004). Thus, homologous recombination is expected to play an important role in the evolution of virulence, because it can bring together new mutations that originally evolved against different genetic backgrounds. DNA replication in alphaherpesviruses is recombination-dependent, providing a mechanism for homologous recombination between genetically distinct viruses infecting the same cell (Thiry et al. 2004). Sequence analysis has provided evidence of past homologous recombination events in several herpesviruses, including alphaherpesviruses (Bowden et al. 2004; Norberg et al. 2004; Peters et al. 2006) (Hughes and Rivailler, 2007).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1450">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotype 3, Live Marek's Disease Vector Vaccine (USDA: 1A88.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc., Biomune Company</manufacturer>
+		<vo_id>VO_0002197</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1422">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotype 3, Live Virus Vaccine (USDA: 1288.42)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002043</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1430">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotype 3, Live Virus Vaccine (USDA: 1288.4A)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002047</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1448">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotype 3, Live Virus Vaccine (USDA: 1A82.50)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002196</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1416">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotypes 1 &amp; 2 &amp; 3, Live Virus, Live Marek's Disease Vector Vaccine (USDA: 1281.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002040</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1418">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotypes 1 &amp; 3, Live Virus, Live Marek's Disease Vector Vaccine (USDA: 1281.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002041</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1424">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 1288.43)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002044</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1426">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 1288.44)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002045</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1428">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 1288.45)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002046</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1456">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 1B82.50)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002200</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1452">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotypes 2 &amp; 3, Live Virus, Live Marek's Disease Vector Vaccine (USDA: 1A88.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002198</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1454">
+		<vaccine_name>Bursal Disease-Marek's Disease Serotypes 2 &amp; 3, Live Virus, Live Marek's Disease Vector Vaccine (USDA: 1A88.R2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002199</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1440">
+		<vaccine_name>Bursal Disease-Marek's Disease Standard &amp; Variant, Serotype 3, Live Virus Vaccine (USDA: 12C8.40)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002051</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1444">
+		<vaccine_name>Bursal Disease-Marek's Disease Standard &amp; Variant, Serotype 3, Live Virus Vaccine (USDA: 12C8.43)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002053</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1442">
+		<vaccine_name>Bursal Disease-Marek's Disease Standard &amp; Variant, Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 12C8.42)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002052</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1446">
+		<vaccine_name>Bursal Disease-Marek's Disease Standard &amp; Variant, Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 12C8.44)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002054</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1436">
+		<vaccine_name>Bursal Disease-Marek's Disease Variant Strain, Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 12C2.52)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002050</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1420">
+		<vaccine_name>Bursal Disease-Marek's Disease Variant, Serotype 3, Live Virus Vaccine (USDA: 1282.50)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002042</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1438">
+		<vaccine_name>Bursal Disease-Marek's Disease Variant, Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: )</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002031</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1432">
+		<vaccine_name>Bursal Disease-Marek's Disease Variant, Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 12C2.50)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002048</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1434">
+		<vaccine_name>Bursal Disease-Marek's Disease Variant, Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 12C2.51)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002049</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1910">
+		<vaccine_name>Fowl Laryngotracheitis-Marek's Disease Serotype 3, Live Marek's Disease Vector Vaccine (USDA: 16J1.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002141</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1912">
+		<vaccine_name>Fowl Laryngotracheitis-Marek's Disease Serotypes 2 &amp; 3, Modified Live &amp; Live Marek's Disease Vector Vaccine (USDA: 16J1.R2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002142</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1922">
+		<vaccine_name>Fowl Pox-Marek's Disease Serotype 3, Live Virus Vaccine (USDA: 15E2.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002140</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1945">
+		<vaccine_name>Marek's Disease Serotype 1, Live Virus Vaccine (USDA: 16L1.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Merial, Inc., Biomune Company</manufacturer>
+		<vo_id>VO_0001683</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1948">
+		<vaccine_name>Marek's Disease Serotype 1, Live Virus Vaccine (USDA: 16L1.04)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001684</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1952">
+		<vaccine_name>Marek's Disease Serotype 1, Live Virus Vaccine (USDA: 16L1.09)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001685</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1934">
+		<vaccine_name>Marek's Disease Serotype 2, Live Virus Vaccine (USDA: 1631.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Merial, Inc., Biomune Company</manufacturer>
+		<vo_id>VO_0001686</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1936">
+		<vaccine_name>Marek's Disease Serotype 3, Live Virus Vaccine (USDA: 1641.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001687</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1937">
+		<vaccine_name>Marek's Disease Serotype 3, Live Virus Vaccine (USDA: 1641.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001688</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1938">
+		<vaccine_name>Marek's Disease Serotype 3, Live Virus Vaccine (USDA: 1641.06)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001689</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1949">
+		<vaccine_name>Marek's Disease Serotype 3, Live Virus Vaccine (USDA: 16L1.06)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0001690</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1946">
+		<vaccine_name>Marek's Disease Serotypes 1 &amp; 2 &amp; 3, Live Virus Vaccine (USDA: 16L1.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Biomune Company</manufacturer>
+		<vo_id>VO_0001691</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1935">
+		<vaccine_name>Marek's Disease Serotypes 1 &amp; 3, Live Herpesvirus Chimera Vaccine (USDA: 1631.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001692</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1944">
+		<vaccine_name>Marek's Disease Serotypes 1 &amp; 3, Live Virus Vaccine (USDA: 16G1.02)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001693</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1947">
+		<vaccine_name>Marek's Disease Serotypes 1 &amp; 3, Live Virus Vaccine (USDA: 16L1.02)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Merial, Inc., Biomune Company</manufacturer>
+		<vo_id>VO_0001694</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1951">
+		<vaccine_name>Marek's Disease Serotypes 1 &amp; 3, Live Virus Vaccine (USDA: 16L1.08)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001695</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1939">
+		<vaccine_name>Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 1651.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001696</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1940">
+		<vaccine_name>Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 1651.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001697</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1941">
+		<vaccine_name>Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 1651.02)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001698</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1942">
+		<vaccine_name>Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 1651.05)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001699</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1943">
+		<vaccine_name>Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 16G1.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001700</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1950">
+		<vaccine_name>Marek's Disease Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 16L1.07)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0001701</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine994">
+		<vaccine_name>Marek's Disease Virus Vaccine rFPV/gB1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011393</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Recombinant fowl poxviruses (rFPVs) were constructed to express genes from serotype 1 Marek's disease virus (MDV) coding for glycoprotein B1 (gB1) [Ref1174:Lee et al., 2003].</vector>
+		<route>wing web (ww) and intra-abdominal (i.a.) routes</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">wing web (ww) and intra-abdominal (i.a.) routes</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering477" gene_id="gene574">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response748" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1174">Groups of 17 chickens were vaccinated at 1 day of age with variable dosage from 10^1 to 10^6 plaque-forming units (PFU) of rFPV vaccines by both the wing web (ww) and intra-abdominal (i.a.) routes in trial 1. Monovalent vaccines of either SB-1 or HVT were administered to chickens by the i.a. route at a dose of 2000 PFU. For rFPV + MDV vaccines, each component was administered by a separate inoculation. The ab+ chickens were used in all the experiments (Lee et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1174">rFPV/gB1 expressing MDV040 conferred 42% protection in maternal antibody-positive chickens when challenged with highly virulent MDV isolates (Lee et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1174">At 6 days posthatch, groups of vaccinated and unvaccinated chickens were challenged by i.a. inoculation of 500 PFU of strain Md5. Mortality during the course of the experiment was recorded, and chickens were examined for gross MD lesions (Lee et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine993">
+		<vaccine_name>Marek's Disease Virus Vaccine rFPV/gI</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011392</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Recombinant fowl poxviruses (rFPVs) were constructed to express genes from serotype 1 Marek's disease virus (MDV) coding for glycoprotein I (gI).</vector>
+		<route>wing web (ww) and intra-abdominal (i.a.) routes</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">wing web (ww) and intra-abdominal (i.a.) routes</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering476" gene_id="gene575">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response746" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1174">Groups of 17 chickens were vaccinated at 1 day of age with variable dosage from 10^1 to 10^6 plaque-forming units (PFU) of rFPV vaccines by both the wing web (ww) and intra-abdominal (i.a.) routes in trial 1. Monovalent vaccines of either SB-1 or HVT were administered to chickens by the i.a. route at a dose of 2000 PFU. For rFPV + MDV vaccines, each component was administered by a separate inoculation. The ab+ chickens were used in all the experiments (Lee et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1174">rFPV/gI expressing MDV095 conferred 43% protection in maternal antibody-positive chickens when challenged with highly virulent MDV isolates (Lee et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1174">At 6 days posthatch, groups of vaccinated and unvaccinated chickens were challenged by i.a. inoculation of 500 PFU of strain Md5. Mortality during the course of the experiment was recorded, and chickens were examined for gross MD lesions (Lee et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1953">
+		<vaccine_name>Marek's Disease-Newcastle Disease Serotype 3, Live Marek's Disease Vector Vaccine (USDA: 16N1.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Biomune Company</manufacturer>
+		<vo_id>VO_0002143</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1957">
+		<vaccine_name>Marek's Disease-Newcastle Disease Serotypes 1 &amp; 2 &amp; 3, Live Virus, Live Marek's Disease Vector Vaccine (USDA: 16N1.R2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002145</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1955">
+		<vaccine_name>Marek's Disease-Newcastle Disease Serotypes 1 &amp; 3, Live Virus, Live Marek's Disease Vector Vaccine (USDA: 16N1.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002144</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1959">
+		<vaccine_name>Marek's Disease-Newcastle Disease Serotypes 2 &amp; 3, Live Virus &amp; Live Marek's Disease Vector Vaccine (USDA: 17H1.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002182</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1961">
+		<vaccine_name>Marek's Disease-Newcastle Disease Serotypes 2 &amp; 3, Live Virus &amp; Live Marek's Disease Vector Vaccine (USDA: 17H1.R2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002183</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1963">
+		<vaccine_name>Marek's Disease-Tenosynovitis Serotypes 2 &amp; 3, Live &amp; Modified Live Virus Vaccine (USDA: 16T1.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002146</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1965">
+		<vaccine_name>Marek's Disease-Tenosynovitis Serotypes 2 &amp; 3, Live Virus Vaccine (USDA: 16T1.03)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002147</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine397">
+		<vaccine_name>Vaxxitek HVT+IBD</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Vaxxitek HVT+IBD</brand_name>
+		<manufacturer>Merial</manufacturer>
+		<vo_id>VO_0011473</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference821">Live recombinant chimera virus expressing VP2 gene of IBD on HTV virus(Darteil et al., 1995)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene574">
+        <gene_name>MDV040</gene_name>
+        <strain>Gallid alphaherpesvirus 2</strain>
+        <vo_id>VO_0011164</vo_id>
+        <ncbi_gene_id>4811501</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>125745079</ncbi_protein_id>
+        <gene_locus_tag>MD5V_040</gene_locus_tag>
+        <gene_refseq>AF147806</gene_refseq>
+        <protein_refseq>YP_001033956</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10390</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>61024</gene_start>
+        <gene_end>63651</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>envelope glycoprotein B</protein_name>
+        <protein_pi>8.4</protein_pi>
+        <protein_weight>92434.87</protein_weight>
+        <protein_length>865</protein_length>
+        <protein_note>glycoprotein BALF4; the Herpesviridae are non-segmented dsDNA viruses with genomes ranging from 120-230kbp; although herpes viruses vary greatly in sequence identity and homology, they all share  four common elements: an envelope, a tegument which is composed of viral enzymes, a capsid of 162 capsomers, and a core composed of genomic DNA; BALF4 is a transmembrane glycoprotein found in the lipid envelope of several herpesviruses</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002229.3:61024-63651 Gallid herpesvirus 2, complete genome
+TTTTATTCAGTTCAAATATAATAGTGCCCACTTACACAGCATCATCTTCTGAGTCTGAATATGTAGTAGG
+TAACTTATCATATTTAGGGTTACTATTTTTAATCCTCATTTTTGCCAGGTGGTCCGATAGAACGGCGGTA
+GTGCCTCGCCTCTTTCTCCGCAGTTTTTTCTCGTGGCGTTCTTCCGCGGAGACTAACGCCATATATTTTA
+TCATTTCTCTAGCTTCTTCTAATTTTCTTTCATCAATAGATGTTCGTTCCAAATCATCTGATTCCTCGCC
+ATGCAACTCACGCGTTGCCTGTGCCTTAAGCACTTCTGTTGTCATAGGATAAAGGGCTTTCATTGGATTG
+CTTTTAAGCTTGTTTACATAACGATATGCTAAAAATGCAGCCACGAGTCCTGCTATAATGATTAAACCGA
+TTGCCAAAGCCCCAAAGGGATTTGACATGAAAGCAGAGACACCAGATATGGTAGATACGATTGCACCGGC
+AGCCCCTACTACAACTTTGCCTATAGCTTGCCCTACCTGACCCATACCGTTAAACAATTCGGCCAAACCG
+TTCATAAACGCGTAATTTGTATCCACTTCTATTACTTTGTTTATGTCATAAAATTTAAGTTCATGTAGTT
+GATTGCGGCGAGCTACTTCTGCATAATCCAATACACCAACATCACGCAACTCTTCTTTTGTGTAAACGGA
+TAAAGGCAAAATTTCCCGATCTTCTAGCAGGGTTAGATTAAGCTCGACAAATGTGCTAGCAATCTGTATA
+TCGGCAGCGTCTACCATCTTAACAAAATTATAGTTTTCAAATAAAGCATAACCGGATCCAAACAGAAAAT
+ATCTACGATGATTAGCCGAGCATGGCTCTACAGCCTCTAGCGTTGGAAGCAACTCGTTGTTTTCACCGAG
+TTGTCCCTGTATGTTTCCTTGGTTTTCTCCATATGAAAATAGAACCAATGGTCGGCTATAACATGTATTA
+GTGGATGTGATAACTCGCATAGAATTTTGCAAAGTGACGGATTCCGCATCTATAGCAGTGCAGCTCGATA
+CAGCAGCGACATCCCCCAACATCTTTGCAGCCACTCTCCTTCCTAATGTTGCACTCGCTGTAGCGCTAGG
+ATTAATCTTTATCCCTTCGTGCCATAAAACAAGTTCTCTATTCTGCAATTCGCACCAAGCTGTGGCAATC
+CTACTAAACATATCATTAATATGGGTTTGTATATGATCATAAAGAAATTGGAGCATGGCGAATTGAACAG
+ACGATGTCGATTTAATAGCTGTGGTGTCGTCTAATGTTATTTTTCTATTTGGTGCATTTCGAATATCTCG
+CCGCAATCGTGACAATGAGGTAGCATTTTTCTTATAAATTGCATGCTTATTGTTTACCAGGTCGAGCATC
+TCATCGGTCCTGTTGTCTCTCATCAATTCTCTGAGGTACATATGAGCCAGGGATTTGGATAGAACAGGCT
+GATATGCTACAATAAATCCCCCGAGAGCCAAGAAATATTGTACATGTCCAACCTTGACGTGACTGTCATT
+ATATTTTGTCCTAAATATCTGCTCGATTGCTGCTTCTGCCTCGCGTTTAATACATTGTCCTAATATGATG
+CGATTTGGATCAAACTCAGTCGTATTACTGATAAACGTTGCCGAAAGTTCACGGGCCATAAATCTGTATC
+TCCCATTAACTGTTGCACGCAACATTTCAGTCACCTCTTTCCACTTAGTCATTGAACATACACGAGTAGT
+TTTTGGAGCCCAGTCCCACCCAACTGTGAAGTGTGATGTGATGAGAAAGTTACGCTTGACTGGAAGGCTT
+GCTTTTCGACGCTTGTCCAAATCCATTGAAAAATAGCTATCTAGTTGTTTGAAATTATCCTGGGGATATC
+CCATGGGTTCTGCGGCAGCCTCTGGTGGGGATAGACCATAAAATGGAGATATGTTCGCGATGTCGCCATT
+GGCCATTGCAAAATATGAATACGGAAACACAGAGCGGGCATCCATTTCCTCTACTATACAATTGACGGAG
+GTTCCCGTTCGATATATCCATGGTGATCCCCACACGGTATACGTCTCATTAGTCGTGTGCCATGCCCTAG
+ATTCGGGCGTGTTGAATTTTGATGGTTTTAGAAGTACTTGTTTTTCTCCCGCATCCCTGTCAAACGCTTC
+AACATATACATTGTTTCTAAGGTATCTTGCTTTAGATGAGCATCTTCCTTTGCCGTCGATTAGATCCGTG
+ATCTCTTCAATGGAAACGGGCGTCCTATCTGTATATCGATTAGTGATCTGTCTATATGTCGTCCCCGTCC
+ATGTCGTCGTCTGAATGATATTTTTATAATAAAGCGTCACTTTAAATTTATATGGACTGATATTCTCTTT
+AAATAATATCGCGATTCCTTCACCCCATTCGGTGGCTTTTCTAGGTTCGGGACATTTTCGCGGCGGTTCT
+AGACGGATCACGGTTGAACCCACTGGTGGGGGACAAAGATAAAACGTAGACTCTTCCTCAGACAACTGGA
+CGCTCGAAACAACTTCTCTTGATGTCACATTTTGGGTACTCGGAGATGAGTTCGTACCATATAGAATAAC
+TATAAGGAAAAAAATGCAATTCCGCCTAAAATAGTGCA
+
+</dna_sequence>
+        <protein_sequence>>YP_001033956.1 envelope glycoprotein B [Gallid alphaherpesvirus 2]
+MHYFRRNCIFFLIVILYGTNSSPSTQNVTSREVVSSVQLSEEESTFYLCPPPVGSTVIRLEPPRKCPEPR
+KATEWGEGIAILFKENISPYKFKVTLYYKNIIQTTTWTGTTYRQITNRYTDRTPVSIEEITDLIDGKGRC
+SSKARYLRNNVYVEAFDRDAGEKQVLLKPSKFNTPESRAWHTTNETYTVWGSPWIYRTGTSVNCIVEEMD
+ARSVFPYSYFAMANGDIANISPFYGLSPPEAAAEPMGYPQDNFKQLDSYFSMDLDKRRKASLPVKRNFLI
+TSHFTVGWDWAPKTTRVCSMTKWKEVTEMLRATVNGRYRFMARELSATFISNTTEFDPNRIILGQCIKRE
+AEAAIEQIFRTKYNDSHVKVGHVQYFLALGGFIVAYQPVLSKSLAHMYLRELMRDNRTDEMLDLVNNKHA
+IYKKNATSLSRLRRDIRNAPNRKITLDDTTAIKSTSSVQFAMLQFLYDHIQTHINDMFSRIATAWCELQN
+RELVLWHEGIKINPSATASATLGRRVAAKMLGDVAAVSSCTAIDAESVTLQNSMRVITSTNTCYSRPLVL
+FSYGENQGNIQGQLGENNELLPTLEAVEPCSANHRRYFLFGSGYALFENYNFVKMVDAADIQIASTFVEL
+NLTLLEDREILPLSVYTKEELRDVGVLDYAEVARRNQLHELKFYDINKVIEVDTNYAFMNGLAELFNGMG
+QVGQAIGKVVVGAAGAIVSTISGVSAFMSNPFGALAIGLIIIAGLVAAFLAYRYVNKLKSNPMKALYPMT
+TEVLKAQATRELHGEESDDLERTSIDERKLEEAREMIKYMALVSAEERHEKKLRRKRRGTTAVLSDHLAK
+MRIKNSNPKYDKLPTTYSDSEDDAV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Recombinant fowl poxviruses (rFPVs) were constructed to express genes from serotype 1 Marek's disease virus (MDV, Gallid herpesvirus 2).  rFPV/gB1 expressing MDV040 conferred 42% protection in maternal antibody-positive chickens when challenged with highly virulent MDV isolates [Ref1174:Lee et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene575">
+        <gene_name>MDV095</gene_name>
+        <strain>Gallid alphaherpesvirus 2</strain>
+        <vo_id>VO_0011165</vo_id>
+        <ncbi_gene_id>4811454</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>125745128</ncbi_protein_id>
+        <gene_locus_tag>MD5V_095</gene_locus_tag>
+        <gene_refseq>AF243438</gene_refseq>
+        <protein_refseq>YP_001034012</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10390</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>161182</gene_start>
+        <gene_end>164094</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>envelope glycoprotein I</protein_name>
+        <protein_pi>6.7</protein_pi>
+        <protein_weight>37988.3</protein_weight>
+        <protein_length>355</protein_length>
+        <protein_note>envelope glycoprotein I; the Herpesviridae are non-segmented dsDNA viruses with genomes ranging from 120-230kbp; although herpes viruses vary greatly in sequence identity and homology, they all share  four common elements: an envelope, a tegument which is composed of viral enzymes, a capsid of 162 capsomers, and a core composed of genomic DNA;virion envelope glycoproteins bind to cellular receptors; envelope glycoprotein E and glycoprotein I form a heterodimer that play important roles in virus cell-to-cell spread</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002229.3:161182-164094 Gallid herpesvirus 2, complete genome
+GATGTATCTACTACAATTATTATTTTGGATCCGCCTCTTTCGAGGCATCTGGTCTATAGTTTATACTGGA
+ACATCTGTTACGTTATCAACGGACCAATCTGCTCTTGTTGCGTTCTGCGGATTAGATAAAATGGTGAATG
+TACGCGGCCAACTTTTATTCCTGGGCGACCAGACTCGGACCAGTTCTTATACAGGAACGACGGAAATCTT
+GAAATGGGATGAAGAATATAAATGCTATTCCGTTCTACATGCGACATCATATATGGATTGTCCTGCTATA
+GACGCCACGGTATTCAGAGGCTGTAGAGACGCTGTGGTATATGCTCAACCTCATGATAGAGTACAACCTT
+TTCCCGAAAAGGGAACATTGTTGAGAATTGTCGAACCCAGAGTATCAGATACAGGCAGCTATTACATACG
+TGTAGCTCTCGCTGGAAGAAATATGAGCGATATATTTAGAATGGCTGTTATTATAAGGAGTAGCAAATCT
+TGGGCCTGTAATCACTCTGCTAGTTCATTTCAGGCCCATAAATGTATTCGCTATGTCGACCGTATGGCCT
+TTGAAAATTATCTGATTGGACATGTAGGCAATTTGCTGGACAGTGACTCGGAATTGCATGCAATTTATAA
+TATTACTCCCCAATCCATTTCCACAGATATTAATATTATAACGACTCCATTTTACGATAATTCGGGAACA
+ATTTATTCACCTACGGTTTTTAATTTGTTTAATAACAATTCCCATGTCGATGCAATGAATTCGACTGGTA
+TGTGGAATACCGTTTTAAAATATACCCTTCCAAGGCTTATTTACTTTTCTACGATGATTGTACTATGTAT
+AATAGCATTGGCAATTTATTTGGTCTGTGAAAGGTGCCGCTCTCCCCATCGTAGGATATACATCGGTGAA
+CCAAGATCTGATGAGGCCCCACTCATCACTTCTGCAGTTAACGAATCATTTCAATATGATTATAATGTAA
+AGGAAACTCCTTCAGATGTTATTGAAAAGGAGTTGATGGAAAAACTGAAGAAGAAAGTCGAATTGTTGGA
+AAGAGAAGAATGTGTATAGGTTTGAGAAACTATTATAGGTAGGTGGTACCTGTTAGCTTAGTATAAGGGG
+AGGAGCCGTTTCTTGTTTTAAAGACACGAACACAAGGCAGTAAGTTTTATATGTGAATTTTGTGCATGTC
+TGCGAGTCAGCGTCATAATGTGTGTTTTCCAAATCCTGATAATAGTGACGACGATCAAAGTAGCTGGAAC
+GGCCAACATAAATCATATAGACGTTCCTGCAGGACATTCTGCTACAACGACGATCCCGCGATATCCACCA
+GTTGTCGATGGGACCCTTTACACCGAGACGTGGACATGGATTCCCAATCACTGCAACGAAACGGCAACAG
+GCTATGTATGTCTGGAAAGTGCTCACTGTTTTACCGATTTGATATTAGGAGTATCCTGCATGAGGTATGC
+GGATGAAATCGTCTTACGAACTGATAAATTTATTGTCGATGCGGGATCCATTAAACAAATAGAATCGCTA
+AGTCTGAATGGAGTTCCGAATATATTCCTATCTACGAAAGCAAGTAACAAGTTGGAGATACTAAATGCTA
+GCCTACAAAATGCGGGTATCTACATTCGGTATTCTAGAAATGGGACGAGGACTGCAAAGCTGGATGTTGT
+TGTGGTTGGCGTTTTGGGTCAAGCAAGGGATCGCCTACCCCAAATGTCCAGTCCTATGATCTCATCCCAC
+GCCGATATCAAGTTGTCATTAAAAAACTTTAAAGCATTAGTATATCACGTGGGAGATACTATCAATGTCT
+CGACGGCGGTTATACTAGGACCTTCTCCGGAGATATTCACATTGGAATTTAGGGTGTTGTTCCTCCGTTA
+TAATCCAACGTGCAAGTTCGTCACGATTTATGAACCTTGTATATTTCACCCCAAAGAACCAGAGTGTATT
+ACTACTGCAGAACAATCGGTATGTCATTTCGCATCCAACATTGACATTCTGCAGATAGCCGCCGCACGTT
+CTGAAAATTGTAGCACAGGGTATCGTAGATGTATTTATGACACGGCTATCGATGAATCTGTGCAGGCCAG
+ATTAACATTCATAGAACCAGGAATTCCTTCCTTTAAAATGAAAGATGTCCAGGTAGACGATGCTGGATTG
+TATGTGGTTGTGGCTTTATACAATGGACGTCCAAGTGCATGGACTTACATTTATTTGTCAACGGTGGAAA
+CATATCTTAATGTATATGAAAACTACCACAAGCCGGGATTTGGGTATAAATCATTTCTACAGAACAGTAG
+TATCGTCGACGAAAATGAGGCTAGCGATTGGTCCAGCTCGTCCATTAAACGGAGAAATAATGGTACTATC
+ATTTATGATATTTTACTCACATCGCTATCAATTGGGGCGATTATTATCGTCATAGTAGGGGGTGTTTGTA
+TTGCCATATTAATTAGGCGTAGGAGACGACGTCGCACGAGGGGGTTATTCGATGAATATCCCAAATATAT
+GACGCTACCAGGAAACGATCTGGGGGGCATGAATGTACCGTATGATAATACATGCTCTGGTAACCAAGTT
+GAATATTATCAAGAAAAGTCGGCTAAAATGAAAAGAATGGGTTCGGGTTATACCGCTTGGCTAAAAAATG
+ATATGCCGAAAATTAGGAAACGCTTAGATTTATACCACTGATATGTACATATTTAAACTTAATGGGATAT
+AGTATATGGACGTCTATATGACGAGAGTAAATAAACTGACACTGCAAATGAAGCTGATCTATATTGTGCT
+TTATATTGGGACAAACCACTCGCACAAGCTCATTCAACACATCCACTCTTGCTATTAAATTCCCCATTAT
+ATAACAATACTGACATAACACTCATATTAAGGGGAGAAAATAA
+
+</dna_sequence>
+        <protein_sequence>>YP_001034012.1 envelope glycoprotein I [Gallid alphaherpesvirus 2]
+MYLLQLLFWIRLFRGIWSIVYTGTSVTLSTDQSALVAFCGLDKMVNVRGQLLFLGDQTRTSSYTGTTEIL
+KWDEEYKCYSVLHATSYMDCPAIDATVFRGCRDAVVYAQPHDRVQPFPEKGTLLRIVEPRVSDTGSYYIR
+VALAGRNMSDIFRMAVIIRSSKSWACNHSASSFQAHKCIRYVDRMAFENYLIGHVGNLLDSDSELHAIYN
+ITPQSISTDINIITTPFYDNSGTIYSPTVFNLFNNNSHVDAMNSTGMWNTVLKYTLPRLIYFSTMIVLCI
+IALAIYLVCERCRSPHRRIYIGEPRSDEAPLITSAVNESFQYDYNVKETPSDVIEKELMEKLKKKVELLE
+REECV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Recombinant fowl poxviruses (rFPVs) were constructed to express genes from serotype 1 Marek's disease virus (MDV, Gallid herpesvirus 2). rFPV/gI expressing MDV095 conferred 43% protection in maternal antibody-positive chickens when challenged with highly virulent MDV isolates [Ref1174:Lee et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference821">
+		<reference_name>Darteil et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Darteil R, Bublot M, Laplace E, Bouquet JF, Audonnet JC, Rivière M</authors>
+		<title>Herpesvirus of turkey recombinant viruses expressing infectious bursal disease virus (IBDV) VP2 immunogen induce protection against an IBDV virulent challenge in chickens</title>
+		<year>1995</year>
+		<volume>211</volume>
+		<issue>2</issue>
+		<pages>481-490</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1439">
+		<reference_name>Hughes and Rivailler, 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hughes AL, Rivailler P</authors>
+		<title>Phylogeny and recombination history of gallid herpesvirus 2 (Marek's disease virus) genomes</title>
+		<year>2007</year>
+		<volume>130</volume>
+		<issue>1-2</issue>
+		<pages>28-33</pages>
+		<journal_book_name>Virus research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1174">
+		<reference_name>Lee et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lee LE, Witter RL, Reddy SM, Wu P, Yanagida N, Yoshida S</authors>
+		<title>Protection and synergism by recombinant fowl pox vaccines expressing multiple genes from Marek's disease virus</title>
+		<year>2003</year>
+		<volume>47</volume>
+		<issue>3</issue>
+		<pages>549-558</pages>
+		<journal_book_name>Avian diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen88">
+		<pathogen_name>Eimeria tenella</pathogen_name>
+		<taxon_id>5802</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Hemorrhagic cecal coccidiosis</disease_name>
+		<protective_immunity refs="reference1079">Protective immunity against Eimeria infections strongly depends on the cellular immune responses involving T cells, natural killer cells (NK) and macrophages (Wang et al., 2009).</protective_immunity>
+		<host_range refs="reference1431">Chickens the only host of Eimeria tenella (Wiki: Eimeria tenella).</host_range>
+		<introduction refs="reference1431">Eimeria tenella is a species of Eimeria that causes hemorrhagic cecal coccidiosis in young poultry.  Monoxeous life cycle with definitive (only) host as chickens. Extremely host-specific. Acquired via fecal contamination of food and water (oral fecal route). Goes thru endogenous merogony in crypts of lieberkuhr (intestinal ceca of chicken) and gametogony in epithelial cells of small intestines. Fusion of microgamete and macrogamete forms unsporulated zygote which is released with feces of chicken. Zygote sporulates after 1-5 days and becomes infective.  Diagnosis is based on finding oocysts in feces.  No effective treatment but can reduce rate of infection via prophylates, anti-coccidial drugs and vaccination of baby chicks (Wiki: Eimeria tenella).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine909">
+		<vaccine_name>E. tenella DNA vaccine EtMIC2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011471</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA vector</vector>
+		<route>in ovo</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">in ovo</route>
+		<antigen refs="">E. tenella microneme 2 (MIC2)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering389" gene_id="gene459">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1078">The EtMIC2 coding sequence was subcloned from EtMIC2-pGEX into the BamHI/HindIII sites of the pMal4c vector with a NH2-terminal maltose-binding protein tag, expressed in E. coli in TY broth (20 g/l tryptone, 10 g/l yeast extract, 10 g/l NaCl) containing 100 μg/ml ampicillin, the bacteria grown to OD600 = 0.5, induced with 1.0 mM isopropyl-β-d-thiogalactopyranoside for 3 h at 37 °C, collected by centrifugation, and disrupted by sonication on ice (Misonix, Farmingdale, NY). The EtMIC2 protein was isolated on an amylose affinity column (New England Biolabs, Beverly, MA) according to the manufacturer's instructions, digested with Factor Xa to release EtMIC2, and re-passed through the amylose column to remove maltose-binding protein (Ding et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response667" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1078">To assess anti-EtMIC2 antibody titers and protective immunity to coccidiosis following in ovo vaccination with the EtMIC2 gene, 75 fertile eggs were distributed into five groups (15/group) and non-injected or injected with 100 μl of sterile PBS, 50 μg/egg of the pcDNA empty vector, or 25 or 50 μg/egg of EtMIC2-pcDNA. To determine the effects of post-vaccination boosting with the EtMIC2 gene, 150 fertile eggs were distributed into 10 groups (15/group) and non-injected or injected with 100 μl of sterile PBS, 50 μg/egg of the pcDNA empty vector, or 25 or 50 μg/egg of EtMIC2-pcDNA (Ding et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1078">Birds vaccinated with Eimeria tenella microneme recombinant gene (EtMIC2) and encoded protein developed protective immunity against infection by E. tenella as assessed by significantly increased body weight gain and decreased fecal oocyst shedding compared with non-vaccinated controls. Vaccination with the EtMIC2 gene also led to protective immunity against infection by E. acervulina, but not E. maxima (Ding et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1078">At day 11 post-hatching, chickens were infected with 10,000 sporulated oocysts of E. tenella. Serum samples were collected at days 1, 10, and 17 post-infection (days 10, 21, and 28 post-hatching) and anti-EtMIC2 antibody titers determined by ELISA (Ding et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine913">
+		<vaccine_name>E. tenella DNA vaccine pcDNA-TA4-IL-2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011449</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref1080:Song et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">E. tenella sporozoite TA4 surface antigen</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering393" gene_id="gene461">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1080">PCR amplification of TA4 (without stop codon) was performed using the gene-specific primers with pET28a-TA4 as template.  After purification, the amplified TA4 (without stop codon) was digested with BamHI and EcoRI and cloned into the BamHI/EcoRI sites of pcDNA3.1b. The recombinant plasmid pcDNA3.1b-TA4 (without stop codon) was confirmed by PCR amplification and endonuclease cleavage. Using the same method above, amplified chIL-2 product was ligated into pcDNA3.1b-TA4 (without stop codon) and pcDNA4.0c (Invitrogen) to construct pcDNA3.1b-TA4-IL2 and pcDNA4.0c-IL-2 (Song et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response670" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1080">At 14 days of age, chickens were randomly distributed into seven groups (30/group), group 1 negative control, group 2 positive control, groups 3, 4, 5 and 6 immunized with 25 μg, 50 μg, 100 μg and 200 μg of DNA vaccine, respectively and group 7 vector control. Experimental groups were immunized with corresponding doses of DNA vaccine pcDNA3.1b–TA4–IL-2 by leg intramuscular injection. Control group chickens were injected with sterile TE or 100 μg pcDNA3.1b at the same injection site to the experimental groups. A booster immunization was given by the same method as the first immunization 7 days later (Song et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1080">The immunization procedure of DNA vaccine pcDNA-TA4-IL-2 of Eimeria tenella, including route, dose, time of immunization and age of primary immunization of chicken, was optimized.  results illustrated that 25 microg was the optimal dose and intramuscular injection was the most effective route to induce protective immunity in Chinese Yellow chickens (Song et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1080">At 28 days of age, the chickens were weighed one-by-one and challenged with 5 × 10^4 sporulated oocysts of E. tenella JS except the negative control group. The chickens were weighed one-by-one and slaughtered 7 days post challenge (Song et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine905">
+		<vaccine_name>E. tenella DNA vaccine proIE</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011469</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>proVAX</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Eimeria tenella antigen gene (3-1E) and chicken interferon gamma gene (ChIFN-gamma)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering385" gene_id="gene463">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1081">The Eimeria tenella antigen gene (3-1E) and chicken interferon gamma gene (ChIFN-gamma) were subcloned into the mammalian expression vector proVAX forming the plasmids proE and prol, and then linked by splicing overlap extension by polymerase chain reaction to construct the chimeric plasmid prolE; the chimeric protein (rlE) was expressed in Escherichia coli harboring the constructed plasmid pGEX/IE (Xu et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response664" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Broiler</host_strain>
+			<vaccination_protocol refs="reference1081">Broilers were administered two intramuscular injections with the constructed DNA vaccines (50 microg); in the protein booster groups 100 microg of the rlE were given following the proIE prime (Xu et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1081">The Eimeria tenella antigen gene (3-1E) and chicken interferon gamma gene (ChIFN-gamma) were subcloned into the mammalian expression vector proVAX forming the plasmids proE and prol.  After challenge the proIE-vaccinated chickens showed protective immunity as demonstrated by significantly reduced oocyst shedding (Xu et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1081">One week following the booster immunization, all chickens except for the unchallenged control group were orally challenged with 5 x 10^4 sporulated E. tenella GS oocysts (Xu et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine907">
+		<vaccine_name>E. tenella GX3262 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011470</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund complete adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">E. tenella sporozoite antigen GX3262</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering387" gene_id="gene464">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1082">To produce the 3-galactosidase-GX3262 fusion protein (Pgal-GX3262), recombinant E. coli cells. grown overnight in Luria-Bertani broth with ampicillin and induced with IPTG, were lysed by sonication and centrifuged, and the insoluble cell pellet was washed extensively with PBS (Miller et al., 1989).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response665" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Hubbard broiler</host_strain>
+			<vaccination_protocol refs="reference1082">The basic experimental design involved immunizing birds subcutaneously or orally with partially purified recombinant antigen preparations, heatkilled bacterins. live E. coli cells, or control materials (Miller et al., 1989).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1082">A cDNA clone derived from sporulated oocysts of Eimeria tenella and encoding the expression product GX3262 was identified using a monoclonal antibody raised against Eimeria acervulina sporozoites.  After challenge with an experimental E. tenella infection, the greatest degree of protection in immunized broiler chickens was seen after only a single immunization of 2-day-old birds with a live recombinant E. coli preparation (Miller et al., 1989).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1082">Broilers were challenged with E. tendell/i oocysts; and then evaluated for cecal lesions (Miller et al., 1989).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine910">
+		<vaccine_name>E. tenella vaccine rBCG pMV261-Rho</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011472</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>BCG</vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs="">Eimeria tenella rhomboid gene (Rho)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering390" gene_id="gene460">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1079">The rhomboid gene segment (GenBank accession no. DQ323509) was generated from the cDNA of E. tenella strains by PCR with primers QF (5’-CTGACTGCAGATGTCGGACATCGAATCCCAGAG-3′) containing PstI restriction site (underlined) and QR (5’-GACTATCGATTTATGCGCATCCCATGGGCAAAGG-3’) containing ClaI restriction site (underlined), and cloned into the pMD18-T vector. The 774-bp rhomboid gene fragment was subcloned into the PstI/ClaI sites of pMV261.  The plasmid pMV261-Rho was electrotransfected into BCG and selected by kanamycin (Sigma) (Wang et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response668" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1079">Chickens were randomly assigned to 4 groups (40 birds in each group) and immunized intranasal (i.n.) with 10^6 CFU/200 μl of BCG or rBCG strains expressing rhomboid protein, respectivelly. Negative control was immunized i.n. with 200 μl PBS only. 2 weeks after the first vaccination, a second immunization was carried out with the same amounts of each sample (Wang et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1079">All the recombinant BCG immunized chickens developed specific immune responses, and there was a significant increases of the percentages of CD4(+) and CD8(+) cells compared to the control (P&lt;0.05). Challenge experiments demonstrated that the two rBCG strains could provide significant protection against E. tenella challenge (Wang et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1079">All groups were challenged with 3 × 10^4 sporulated oocysts of E. tenella per bird 2 weeks after the final immunization (Wang et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine912">
+		<vaccine_name>E. tenella vaccine rBCG pMV361-Rho</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011448</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>BCG</vector>
+		<route>Intranasal</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasal</route>
+		<antigen refs="">E. tenella rhomboid gene (Rho)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering391" gene_id="gene460">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1079">The rhomboid gene segment (GenBank accession no. DQ323509) was generated from the cDNA of E. tenella strains by PCR with primers QF (5’-CTGACTGCAGATGTCGGACATCGAATCCCAGAG-3′) containing PstI restriction site (underlined) and QR (5’-GACTATCGATTTATGCGCATCCCATGGGCAAAGG-3’) containing ClaI restriction site (underlined), and cloned into the pMD18-T vector. The 774-bp rhomboid gene fragment was subcloned into the PvuII/ClaI site of pMV361. The plasmid pMV361-Rho was electrotransfected into BCG and selected by kanamycin (Sigma) (Wang et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response669" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1079">Chickens were randomly assigned to 4 groups (40 birds in each group) and immunized intranasal (i.n.) with 10^6 CFU/200 μl of BCG or rBCG strains expressing rhomboid protein, respectivelly. Negative control was immunized i.n. with 200 μl PBS only. 2 weeks after the first vaccination, a second immunization was carried out with the same amounts of each sample (Wang et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1079">All the recombinant BCG immunized chickens developed specific immune responses, and there was a significant increases of the percentages of CD4(+) and CD8(+) cells compared to the control (P&lt;0.05). Challenge experiments demonstrated that the two rBCG strains could provide significant protection against E. tenella challenge (Wang et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1079">All groups were challenged with 3 × 10^4 sporulated oocysts of E. tenella per bird 2 weeks after the final immunization (Wang et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine426">
+		<vaccine_name>Livacox</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Livacox</brand_name>
+		<manufacturer>BIOPHARM</manufacturer>
+		<vo_id>VO_0001177</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>NA</route>
+		<location_licensed></location_licensed>
+		<description refs="reference844">Precocious and egg-passaged lines(Williams, 2002)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">NA</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene463">
+        <gene_name>3-1E</gene_name>
+        <strain>Eimeria tenella</strain>
+        <vo_id>VO_0011066</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>126362934</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:320770
+CDD:238085</xrefs>
+        <taxonomy_id>5802</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>sporozoite antigen 3-1E</protein_name>
+        <protein_pi>3.96</protein_pi>
+        <protein_weight>17761.05</protein_weight>
+        <protein_length>237</protein_length>
+        <protein_note>Profilin binds actin monomers, membrane polyphosphoinositides such as PI(4,5)P2, and poly-L-proline. Profilin can inhibit actin polymerization into F-actin by binding to monomeric actin (G-actin) and terminal F-actin subunits, but - as a regulator of the...; cl00123</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABO10495.1 sporozoite antigen 3-1E, partial [Eimeria tenella]
+MGEEADTQAWDTSVKEWLVDTGKVYAGGIASIADGCRLFGAAIDNGEDAWSQLVKTGYQIEVLQEDGSST
+QEDCDEAETLRQAIVDGRAPNGVYIGGIKYKLAEVKRDFTYNDQNYDVAILGKNKGGGFLIKTPNDNVVI
+ALYDEEKEQNKADALTTALAFAEYLYQGGF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The Eimeria tenella antigen gene (3-1E) and chicken interferon gamma gene (ChIFN-gamma) were subcloned into the mammalian expression vector proVAX forming the plasmids proE and prol.  After challenge the proIE-vaccinated chickens showed protective immunity as demonstrated by significantly reduced oocyst shedding [Ref1081:Xu et al., 2006].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene464">
+        <gene_name>GX3262</gene_name>
+        <strain>Eimeria tenella</strain>
+        <vo_id>VO_0011067</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>102304</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5802</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>sporozoite antigen</protein_name>
+        <protein_pi>9.06</protein_pi>
+        <protein_weight>11721.58</protein_weight>
+        <protein_length>176</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>pir||A60111 sporozoite antigen - Eimeria tenella (fragment)
+LLLLLLLLLQGAECLLRSSKLALEALLEGARVAATRGLLLVESSKDTVLRSIPHTQEKLAQAYSSFLRGY
+QGAAAGRSLGYGAPAAAYGQQQQPSSYGAPPASSQQPSGFFW
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A cDNA clone derived from sporulated oocysts of Eimeria tenella and encoding the expression product GX3262 was identified using a monoclonal antibody raised against Eimeria acervulina sporozoites.  After challenge with an experimental E. tenella infection, the greatest degree of protection in immunized broiler chickens was seen after only a single immunization of 2-day-old birds with a live recombinant E. coli preparation [Ref1082:Miller et al., 1989].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene459">
+        <gene_name>MIC2</gene_name>
+        <strain>Eimeria tenella</strain>
+        <vo_id>VO_0011063</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>225579627</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:115333</xrefs>
+        <taxonomy_id>5802</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>microneme 2</protein_name>
+        <protein_pi>4.13</protein_pi>
+        <protein_weight>32481.77</protein_weight>
+        <protein_length>390</protein_length>
+        <protein_note>Microneme protein Etmic-2; pfam06670</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACN93990.1 microneme 2 [Eimeria tenella]
+MARALSLVALGLLFSLPPSSAVRTRVPGEDSFSPESGVLSGTDAPERRPIVPGLVEGNCGRLTVRNGPSV
+DETIKVTSAGWTKSERDFIVSLVADETRKVVQLRESEGASGASGPGPAPAEKPPSGQGSAEEAPKGEGGQ
+EKPSVPLIAVRIHGSGGDKGESAPQSAVLLYGNDESEPTEVPLETAAGPTTPLMVLITQQNPKEVEVRVL
+AWISTDATTGKGSWKENSVVVGSSLSGRDLTVNLGDCGPSSLRVYGSASADLVTVKEGMCEADDPELIAL
+TRPHTSAASPLPAEEGDVAQDAQQSAGAQQEAEAQEVGEPQQEAAAAEQGSSAAESDTQQSS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Birds vaccinated with Eimeria tenella microneme recombinant gene (EtMIC2) and encoded protein developed protective immunity against infection by E. tenella as assessed by significantly increased body weight gain and decreased fecal oocyst shedding compared with non-vaccinated controls. Vaccination with the EtMIC2 gene also led to protective immunity against infection by E. acervulina, but not E. maxima [Ref1078:Ding et al., 2005].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene460">
+        <gene_name>Rho</gene_name>
+        <strain>Eimeria tenella</strain>
+        <vo_id>VO_0011064</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>84043169</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:304416</xrefs>
+        <taxonomy_id>5802</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>rhomboid-like protein</protein_name>
+        <protein_pi>8.07</protein_pi>
+        <protein_weight>26568.3</protein_weight>
+        <protein_length>314</protein_length>
+        <protein_note>Rhomboid family; cl21536</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABC50099.1 rhomboid-like protein [Eimeria tenella]
+MSDIESQRVLGAGIPRTGRLIDVAFPNISLDKSIVVITLAQIAVYIMSCAMSSAFEPTERVLYQLGATYG
+PGIRHLQAWRLIMPVFLHVGIVHLLFNVLFILHMGLDKEIKYGRTNFLILYFSSALIGNMFTVLMRPCSL
+AVGASTAGFGLVGSILAEILIVWHKLDERTRNMYTLDMTVFGALMILLSYGQTVDIWGHLGGFVCGFAVT
+CEFNKNIRDLPHWFDLAKNGTRTICFGVVALTLARVFLGLPLPMGCA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Two recombinant Mycobacterium bovis BCG (rBCG) strains carrying the Eimeria tenella rhomboid gene (Rho) delivered by extrachromosomal vector pMV261 and integrative vector pMV361 were evaluated for their ability to protect chickens against E. tenella challenge. Chickens were immunized intranasal with BCG, rBCG pMV261-Rho, or rBCG pMV361-Rho twice at a 2-week interval. All the recombinant BCG immunized chickens developed specific immune responses, and there was a significant increases of the percentages of CD4(+) and CD8(+) cells compared to the control (P&gt;0.05). Challenge experiments demonstrated that the two rBCG strains could provide significant protection against E. tenella challenge [Ref1079:Wang et al., 2009].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene461">
+        <gene_name>TA4</gene_name>
+        <strain>Eimeria tenella</strain>
+        <vo_id>VO_0011065</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>84783094</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:287966</xrefs>
+        <taxonomy_id>5802</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>TA4 antigen protein</protein_name>
+        <protein_pi>4.47</protein_pi>
+        <protein_weight>22659.37</protein_weight>
+        <protein_length>293</protein_length>
+        <protein_note>Sporozoite TA4 surface antigen; pfam11054</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABC61818.1 TA4 antigen protein, partial [Eimeria tenella]
+DYPTAVTLDCKEAMNKMRKAAGLPAFEDAVGDTFVLPAYSHEESRAAPVAETLWKTEICPKVLGGGRSRN
+VTEAVRLTGNFAYYPVTDGKKECSDAVEYWKGGLSQFNDTIPPTFQALNDPVVYNDRAVSFVALYNPKTS
+PVVSCVLLQCPNAGVGGRRLAAGTTDAVICLTNPAPLEARSQPFDDEQWKKIVDSLSLSEEEEEKGGVSP
+VVPSVALISAAVISAFALF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The immunization procedure of DNA vaccine pcDNA-TA4-IL-2 of Eimeria tenella, including route, dose, time of immunization and age of primary immunization of chicken, was optimized.  results illustrated that 25 microg was the optimal dose and intramuscular injection was the most effective route to induce protective immunity in Chinese Yellow chickens [Ref1080:Song et al., 2009].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1078">
+		<reference_name>Ding et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ding X, Lillehoj HS, Dalloul RA, Min W, Sato T, Yasuda A, Lillehoj EP</authors>
+		<title>In ovo vaccination with the Eimeria tenella EtMIC2 gene induces protective immunity against coccidiosis</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>28</issue>
+		<pages>3733-3740</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5046">
+		<reference_name>Lai et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lai L, Bumstead J, Liu Y, Garnett J, Campanero-Rhodes MA, Blake DP, Palma AS, Chai W, Ferguson DJ, Simpson P, Feizi T, Tomley FM, Matthews S</authors>
+		<title>The role of sialyl glycan recognition in host tissue tropism of the avian parasite Eimeria tenella</title>
+		<year>2011</year>
+		<volume>7</volume>
+		<issue>10</issue>
+		<pages>e1002296</pages>
+		<journal_book_name>PLoS pathogens</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1082">
+		<reference_name>Miller et al., 1989</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Miller GA, Bhogal BS, McCandliss R, Strausberg RL, Jessee EJ, Anderson AC, Fuchs CK, Nagle J, Likel MH, Strasser JM</authors>
+		<title>Characterization and vaccine potential of a novel recombinant coccidial antigen</title>
+		<year>1989</year>
+		<volume>57</volume>
+		<issue>7</issue>
+		<pages>2014-2020</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1080">
+		<reference_name>Song et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Song X, Xu L, Yan R, Huang X, Shah MA, Li X</authors>
+		<title>The optimal immunization procedure of DNA vaccine pcDNA-TA4-IL-2 of Eimeria tenella and its cross-immunity to Eimeria necatrix and Eimeria acervulina</title>
+		<year>2009</year>
+		<volume>159</volume>
+		<issue>1</issue>
+		<pages>30-36</pages>
+		<journal_book_name>Veterinary parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1079">
+		<reference_name>Wang et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang Q, Li J, Zhang X, Liu Q, Liu C, Ma G, Cao L, Gong P, Cai Y, Zhang G</authors>
+		<title>Protective immunity of recombinant Mycobacterium bovis BCG expressing rhomboid gene against Eimeria tenella challenge</title>
+		<year>2009</year>
+		<volume>160</volume>
+		<issue>3-4</issue>
+		<pages>198-203</pages>
+		<journal_book_name>Veterinary parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1431">
+		<reference_name>Wiki:  Eimeria tenella</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Eimeria tenella</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Eimeria_tenella</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference844">
+		<reference_name>Williams, 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Williams RB</authors>
+		<title>Fifty years of anticoccidial vaccines for poultry (1952-2002)</title>
+		<year>2002</year>
+		<volume>46</volume>
+		<issue>4</issue>
+		<pages>775-802</pages>
+		<journal_book_name>Avian diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1081">
+		<reference_name>Xu et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xu SZ, Chen T, Wang M</authors>
+		<title>Protective immunity enhanced by chimeric DNA prime-protein booster strategy against Eimeria tenella challenge</title>
+		<year>2006</year>
+		<volume>50</volume>
+		<issue>4</issue>
+		<pages>579-585</pages>
+		<journal_book_name>Avian diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

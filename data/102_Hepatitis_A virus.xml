@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen48">
+		<pathogen_name>Hepatitis A virus</pathogen_name>
+		<taxon_id>12092</taxon_id>
+		<pathogenesis refs="reference717">The virus spreads by the fecal-oral route, and infections often occur in conditions of poor sanitation and overcrowding. HAV enters the bloodstream through the epithelium of the oropharynx or intestine. Once HAV comes to the liver through the blood, it lives and multiplies within hepatocytes and Kupffer cells (i.e., liver macrophages). There is no apparent virus-mediated cytotoxicity, and liver pathology is likely immune-mediated. Virions are secreted into the bile and released in stool. HAV is excreted in large quantities ~11 days prior to appearance of symptoms or anti-HAV IgM antibodies in the blood  (Wiki: Hepatitis A).</pathogenesis>
+		<disease_name>Hepatitis A</disease_name>
+		<protective_immunity refs="reference717">Following infection, the immune system makes antibodies against the hepatitis A virus that confer immunity against future infection (Wiki: Hepatitis A).</protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference717">Hepatitis virus (HAV) is a Picornavirus. It is non-enveloped and contains a single-stranded RNA packaged in a protein shell. There is only one type of the virus. HAV causes Hepatitis A (formerly known as infectious hepatitis), an acute infectious disease of the liver. This disease is most commonly transmitted by the fecal-oral route via contaminated food or drinking water. HAV infects approximately 10 million people every year worldwide, esp. in developing countries. The incubation period is 15-50 days, and mortality is less than 0.5%. Hepatitis A infection causes no clinical signs and symptoms in over 90% of infected children. Hepatitis A does not have a chronic stage and does not cause permanent liver damage. Following infection, the immune system makes antibodies against the hepatitis A virus that confer immunity against future infection (Wiki: Hepatitis A).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine559">
+		<vaccine_name>Avaxim</vaccine_name>
+		<proper_name>Hepatitis A vaccine (inactivated, adsorbed)</proper_name>
+		<brand_name>Avaxim</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010706</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Killed virus. Other components: Formaldehyde.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="reference920">The vaccine must be stored in a refrigerator between 2°C and 8°C (EMC: Avaxim).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine560">
+		<vaccine_name>Avaxim - Pediatric</vaccine_name>
+		<proper_name>Hepatitis A Vaccine Inactivated</proper_name>
+		<brand_name>Avaxim - Pediatric</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010707</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Killed virus. Other components: Formaldehyde.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="reference921">Store at 2˚ to 8˚C (35˚ to 46˚ F). Do not freeze (SP: Avaxim Pediatrix).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine570">
+		<vaccine_name>Epaxal</vaccine_name>
+		<proper_name>Hepatitis A vaccine (inactivated, virosome)</proper_name>
+		<brand_name>Epaxal</brand_name>
+		<manufacturer>Berna Biotech</manufacturer>
+		<vo_id>VO_0010713</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Killed virus. Other components: Formaldehyde.</description>
+		<adjuvant refs="">Virosomes</adjuvant>
+		<storage refs="reference922">Store at 2-8°C (36-46°F) (EMC: Epaxal)</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine320">
+		<vaccine_name>Havrix</vaccine_name>
+		<proper_name>Hepatitis A Vaccine, Inactivated</proper_name>
+		<brand_name>Havrix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000052</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617), Canada</location_licensed>
+		<description refs="reference750">Indication: To support lowering the age indication for Havrix from two years to 12 months of age (FDA: Havrix).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="reference750">Store refrigerated between 2° and 8°C (36° and 46°F) (FDA: Havrix).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference750">HAVRIX (Hepatitis A Vaccine) is a sterile suspension of inactivated virus for intramuscular administration. The virus (strain HM175) is propagated in MRC-5 human diploid cells. After removal of the cell culture medium, the cells are lysed to form a suspension. This suspension is purified through ultrafiltration and gel permeation chromatography procedures. Treatment of this lysate with formalin ensures viral inactivation. Viral antigen activity is detected by ELISA and expressed in terms of ELISA Units (EL.U.) (FDA: Havrix).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Hepatitis A Vaccine, Inactivated</antigen>
+		<host_response host_response_id="host_response416" host_id="host2">
+			<immune_response refs="">In response to vaccination, 32 cases of clinical hepatitis A occurred in the control group. In the HAVRIX group, 2 cases were identified. These 2 cases were mild in terms of both biochemical and clinical indices of hepatitis A disease.</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference750">A double-blind, randomized controlled study was conducted in school children (age 1 to 16 years) in Thailand who were at high risk of Hepatitis A Virus (HAV) infection.  A total of 40,119 children were vaccinated with either HAVRIX or ENGERIX-B at 0, 1, and 12 months. 19,037 children received a primary course (doses at 0 and 1 months) of HAVRIX and 19,120 children received a primary course (doses at 0 and 1 months) of ENGERIX-B (FDA: Havrix).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference750">In response to vaccination, 32 cases of clinical hepatitis A occurred in the control group. In the HAVRIX group, 2 cases were identified. These 2 cases were mild in terms of both biochemical and clinical indices of hepatitis A disease. Therefore, the efficacy rate for prevention of clinical hepatitis A was 94% (FDA: Havrix).</protection_efficacy>
+			<side_effects refs="">Side Effects of HAVRIX included: injection site pain, redness and swelling, irratibility, loss of appetite, and drowsiness.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response420" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference750">A multicenter study administered 720 EL.U./0.5mL of HAVRIX into infants 11 months and older.  The same sample size and concentration was also administered in another study of infants 2 years of age and older (FDA: Havrix).
+
+In the 11 months and older study, each infant was administered either HAVRIX or were coadministered HAVRIX and INFANRIX (Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed) and Haemophilus influenzae type b (Hib) conjugate vaccine (tetanus toxoid conjugate).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">The most common side effects recorded with this dosage concentration and amount were: injection site pain, redness, swelling, irritability, drowsiness, and loss of appetite</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response421" host_id="host2">
+			<immune_response refs="">After subjects were seropositive before each addtional booster was administered.</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference750">A clinical study of children 2 years and older administered HAVRIX at 360 EL.U, and were given the follow-up booster shots at 1 and 6 months after the initial shot (FDA: Havrix).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects recorded included: pain, and redness of the injection site, swelling, irritability, drowsiness and loss of appetite.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine349">
+		<vaccine_name>Twinrix</vaccine_name>
+		<proper_name>Hepatitis A Inactivated &amp; Hepatitis B (Recombinant) Vaccine</proper_name>
+		<brand_name>Twinrix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000113</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617), Canada</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">TWINRIX  should be refrigerated between 2° and 8° C (36° and 46° F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference763">TWINRIX is a sterile suspension of inactivated hepatitis A virus (strain HM175) propagated in MRC-5 cells, and combined with purified surface antigen of the hepatitis B virus (FDA: TWINRIX).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response423" host_id="host2">
+			<immune_response refs="reference763">In clinical trials, it has been found that combining the hepatitis A antigen with the hepatitis B surface antigen in TWINRIX resulted in comparable anti-HAV or anti-HBsAg titers, relative to vaccination with the individual monovalent vaccines or the concomitant administration of each vaccine in opposite arms (FDA: TWINRIX).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects of immunization included: redness, itching and swelling of the injection site, headache and fatigue. Severe adverse effects were limited and resolved in a timely matter.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine638">
+		<vaccine_name>Twinrix Junior</vaccine_name>
+		<proper_name>Combined hepatitis A and hepatitis B vaccine</proper_name>
+		<brand_name>Twinrix Junior</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010743</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Recombinant protein + killed virus. Other components: Yeast protein Formaldehyde, Polysorbate 20.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">between 2° and 8° C (36° and 46° F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine321">
+		<vaccine_name>VAQTA</vaccine_name>
+		<proper_name>Hepatitis A Vaccine, Inactivated</proper_name>
+		<brand_name>VAQTA</brand_name>
+		<manufacturer>Merck &amp; Co, Inc</manufacturer>
+		<vo_id>VO_0000118</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs="reference751">Indication: Lowering the age indication for VAQTA from two years to 12 months of age (FDA: VAQTA).
+
+VAQTA is indicated for active immunization against disease caused by hepatitis A virus in persons 12 months of age and older. Primary immunization should be given at least 2 weeks prior to expected exposure to Hepatitis A Virus (HAV).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store vaccine at 2-8°C (36-46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference751">VAQTA [Hepatitis A Vaccine, Inactivated] is an inactivated whole virus vaccine derived from hepatitis A virus (HAV) grown in cell culture in human MRC-5 diploid fibroblasts. It contains inactivated virus of a strain which was originally derived by further serial passage of a proven attenuated strain. The virus is grown, harvested, purified by a combination of physical and high performance liquid chromatographic techniques developed at the Merck Research Laboratories, formalin inactivated, and then adsorbed onto amorphous aluminum hydroxyphosphate sulfate. One milliliter of the vaccine contains approximately 50 units (U) of hepatitis A virus antigen, which is purified and formulated without a preservative (FDA: VAQTA).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Hepatitis A Vaccine, Inactivated</antigen>
+		<host_response host_response_id="host_response417" host_id="host2">
+			<immune_response refs="">No cases of Hepatitis A have been confirmed in response to vaccination with VAQTA.</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference751">The protective efficacy, immunogenicity and safety of VAQTA were evaluated in a randomized, double-blind, placebo-controlled study involving 1037 healthy children and adolescents ages 2 through 16 years in a U.S. community with recurrent outbreaks of hepatitis A. Subjects were administered with either VAQTA or placebo (FDA: VAQTA)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Injection Site Reactions included: pain, redness and swelling.  Systemic Reactions included: rash and fever.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="">The total duration of protective effect of VAQTA is unknown.</description>
+		</host_response>
+		<host_response host_response_id="host_response422" host_id="host18">
+			<immune_response refs="">When VAQTA was given as a booster dose following HAVRIX, the vaccine produced an adequate immune response, seropositivity and booster response were both high in all subjects.</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference751">A clinical study was performed in 537 healthy adults, 18 to 83 years of age.  The subjects were administered with a booster dose of VAQTA and HAVRIX†† (hepatitis A vaccine, inactivated) given at 6 or 12 months following an initial dose of HAVRIX (FDA: VAQTA).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine644">
+		<vaccine_name>ViVaxim</vaccine_name>
+		<proper_name>Combined Purified Vi Polysaccharide Typhoid and Inactivated Hepatitis A Vaccine</proper_name>
+		<brand_name>ViVaxim</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010748</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Polysaccharide + killed virus. Other components: Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<reference reference_id="reference920">
+		<reference_name>EMC: Avaxim</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>The electronic Medicines Compendium: Avaxim</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://emc.medicines.org.uk/medicine/17385/PIL/AVAXIM/</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference922">
+		<reference_name>EMC: Epaxal</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>EMC: Epaxal Product Information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://emc.medicines.org.uk/medicine/12742/SPC/Epaxal/</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference750">
+		<reference_name>FDA: Havrix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Havrix vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm110016.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference763">
+		<reference_name>FDA: TWINRIX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: TWINRIX</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094035.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference751">
+		<reference_name>FDA: VAQTA</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: VAQTA vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm110017.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference919">
+		<reference_name>GSK: Twinrix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Twinrix Product information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.gsk.ca/english/docs-pdf/Twinrix_PM_20080916_EN.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1269">
+		<reference_name>Karayiannis et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Karayiannis P, O'Rourke S, McGarvey MJ, Luther S, Waters J, Goldin R, Thomas HC</authors>
+		<title>A recombinant vaccinia virus expressing hepatitis A virus structural polypeptides: characterization and demonstration of protective immunogenicity</title>
+		<year>1991</year>
+		<volume>72 ( Pt 9)</volume>
+		<issue></issue>
+		<pages>2167-2172</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference921">
+		<reference_name>SP: Avaxim Pediatrix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>SP: Avaxim Pediatrix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/secure/pdfs/ca/Avaxim_Ped_E.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference717">
+		<reference_name>Wiki: Hepatitis A</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Hepatitis A virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Hepatitis_A_virus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

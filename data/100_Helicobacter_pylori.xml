@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen134">
+		<pathogen_name>Helicobacter pylori</pathogen_name>
+		<taxon_id>210</taxon_id>
+		<pathogenesis refs="reference1531">H. pylori are extremely motile bacteria that colonize the mucin layer of the stomach. The bacteria produces urease which helps it to survive the acidic environment of the stomach and also causes inflammation. The bacteria also possess an adhesin that binds the sugars in the mucin layer. H. pylori also has cytotoxins which can induce inflammation (Salyers and Whitt., 2002).</pathogenesis>
+		<disease_name>Ulcers</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1531">Mice, gnotobiotic piglets, gerbils, and beagle dogs are used as animal model for H. pylori. H. pylori colonizes the human stomach (Salyers and Whitt., 2002).</host_range>
+		<introduction refs="reference1411">Helicobacter pylori is a Gram-negative, microaerophilic bacterium that can inhabit various areas of the stomach, particularly the antrum. It causes a chronic low-level inflammation of the stomach lining and is strongly linked to the development of duodenal and gastric ulcers and stomach cancer. Over 80% of individuals infected with the bacterium are asymptomatic.
+The bacterium was initially named Campylobacter pyloridis, then renamed C. pylori (pylori = genitive of pylorus) to correct a Latin grammar error. When 16S rRNA gene sequencing and other research showed in 1989 that the bacterium did not belong in the genus Campylobacter, it was placed in its own genus, Helicobacter. The genus derived from the ancient Greek hělix/έλιξ &quot;spiral&quot; or &quot;coil&quot;. The specific epithet pylōri means &quot;of the pylorus&quot; or pyloric valve (the circular opening leading from the stomach into the duodenum), from the Ancient Greek word πυλωρός, which means gatekeeper.
+More than 50% of the world's population harbor H. pylori in their upper gastrointestinal tract. Infection is more prevalent in developing countries, and incidence is decreasing in Western countries. H. pylori's helix shape (from which the generic name is derived) is thought to have evolved to penetrate the mucoid lining of the stomach (Wiki: Helicobacter pylori).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine955">
+		<vaccine_name>H. pylori catalase protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011513</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Cholera toxin (CT)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs="">H. pylori catalase</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering439" gene_id="gene808">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1399">When required for use as a vaccine antigen, H. pylori was harvested from plates with 0.1 M phosphate-buffered saline (PBS), pelleted by centrifugation, and disrupted by sonication. The sonicate was stored at 220°C until use. Purified catalase was obtained by the method of Hazell et al. (11). Briefly, H. pylori cells were harvested with 0.1 M sodium phosphate buffer (pH 7.2), centrifuged, and then resuspended in the buffer. Cells were disrupted by sonication, cellular material was removed by centrifugation (5 min, 10,000 3 g), and then the supernatant was collected and filtered (0.22-mm-pore-size filter).  Catalase was eluted by the creation of a gradient with 1 M NaCl in 0.01 M sodium phosphate buffer. The purified catalase was then filter sterilized, stored at 4°C, and protected from light (Radcliff et al., 1997).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response712" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1399">Groups of mice were dosed orogastrically on days 0, 7, 14, and 21 with 200 mg of purified recombinant catalase plus 10 mg of CT, 1 mg of H. pylori 921023 sonicate plus 10 mg of CT, 1 mg of E. coli XLOLR sonicate plus 10 mg of CT, or PBS alone or were left unimmunized and unchallenged. One week after the last immunization dose, animals from the catalase plus CT and untreated groups were bled to obtain prechallenge sera (Radcliff et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1399">Recombinant H. pylori catalase plus CT was used for immunization, and groups of mice were challenged with the Sydney strain of H. pylori. Immunization with recombinant catalase protected a significant proportion (9 of 10) of the mice from H. pylori challenge, indicating that this enzyme should be considered as a candidate for a future vaccine (Radcliff et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1399">Two weeks after the last immunization dose, mice were challenged with three orogastric doses of live H. pylori SS1 cells (;107 organisms/dose) 2 days apart to ensure all animals were infected. After a further 2 weeks, the animals were killed and assessed for H. pylori infection (Radcliff et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3916">
+		<vaccine_name>H. pylori DNA vaccine pcDNA3.1-hspA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004560</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref2682:Todoroki et al., 2000]</vector>
+		<route>Intracutaneous immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intracutaneous immunization</route>
+		<antigen refs="reference2682">HspA from H. pylori SS1 (Todoroki et al., 2000)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1544" gene_id="gene825">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1557" host_id="host3">
+			<immune_response refs="reference2682">Antibody isotypes were predominantly IgG2a (Th1-like) with pcDNA3.1-hspA (Todoroki et al., 2000).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2682">The inflammation scores were significantly lower in pcDNA 3.1-hspA (46.5% reduction) immunized mice groups than in control group (100%). Colonization with H. pylori was verified histologically. There were a lot of bacteria colonies in the mucous layer of stomachs in all control group mice and fewer in HspA group mice (Todoroki et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3917">
+		<vaccine_name>H. pylori DNA vaccine pcDNA3.1-hspB</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004561</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref2682:Todoroki et al., 2000]</vector>
+		<route>Intracutaneous immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intracutaneous immunization</route>
+		<antigen refs="reference2682">HspB from H. pylori SS1 (Todoroki et al., 2000)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1545" gene_id="gene826">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1558" host_id="host3">
+			<immune_response refs="reference2682">Antibody isotypes were predominantly mixed IgG1/IgG2a (Th0-like) with pcDNA3.1-hspB (Todoroki et al., 2000).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2682">The inflammation scores were significantly lower in pcDNA 3.1-hspB (16.5% reduction) immunized mice groups than in control group (100%). Colonization with H. pylori was verified histologically. There were a lot of bacteria colonies in the mucous layer of stomachs in all control group mice and fewer in HspB group mice (Todoroki et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3915">
+		<vaccine_name>H. pylori DNA vaccine poipA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004559</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 [Ref2681:Chen et al., 2012]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2681">IL-2 or B subunit heat-labile toxin of Escherichia coli (Chen et al., 2012)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs="reference2681">oipA from H. pylori SS1 (Chen et al., 2012)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1546" gene_id="gene1701">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1556" host_id="host3">
+			<immune_response refs="reference2681">PoipA administered intradermally ('gene gun' immunization) promoted a strong Th2 immune response, whereas co-delivery of either pIL-2 or pLTB adjuvant elicited a Th1-biased immune response. PoipA administered with both pIL-2 and pLTB adjuvants promoted a strong Th1 immune response (Chen et al., 2012).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2681">Mice immunized with poipA had significant drops in bacterial load in the stomach after challenge compared to the PBS and pVAX1 immunized control groups (P&lt;0.001).  In the groups in which poipA was co-administered with either pIL-2 or pLTB, the mice had almost a 2-log decrease in bacterial load compared to that of the controls (P&lt;0.001).  Mice in the groups in which poipA was co-administered with both pIL-2 and pLTB showed almost a 4-log decrease in bacterial load compared to that of the control groups (P&lt;0.001) (Chen et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1099">
+		<vaccine_name>H. pylori GltA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004062</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intra-Peyer's patch (IPP)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's incomplete adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intra-Peyer's patch (IPP)</route>
+		<antigen refs="">Purified GltA protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering589" gene_id="gene827">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response856" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1487">Mice were immunised by the intra-Peyer's patch (IPP) route with purified GltA (at 0.5 mg protein ml−1) was contained in an homogenate of equal quantities of PBS and Freund's incomplete adjuvant. For IPP immunisation each mouse was anaesthetised by intraperitoneal injection of 200 μl of a ketamine, xylazine  mixture made by mixing 10 ml of ketamine (100 μg ml−1) and 1 ml of xylazine (100 μg ml−1), the abdomen shaved and swabbed with 70% alcohol and a midline incision made in the skin and muscle layers to expose the intestine. Visible Peyer's patches were located along the length of the intestine and approximately 3 μl of homogenate injected directly under the serosa of each Peyer's patch (Dunkley et al., 1999).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1487">Mice were immunised with the citrate synthase (GltA) protein by intra-Peyer's patch immunisation. Pre-immunisation with the citrate synthase protein led to a 84-91% reduction in H. pylori infection compared to unimmunised controls (Dunkley et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1487">Mice were infected 2 weeks after immunisation with H. pylori Sydney strain 1 (SS1) (Dunkley et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1097">
+		<vaccine_name>H. pylori HspA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004060</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Orally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1486">5 μg of cholera toxin (Ferrero et al., 1995).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Orally</route>
+		<antigen refs="">Recombinant HspA protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering587" gene_id="gene825">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1486">The hspA gene was cloned into the expression vector pMAL-C2 and expressed in E. coli as a MalE fusion (Ferrero et al., 1995).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response854" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Swiss</host_strain>
+			<vaccination_protocol refs="reference1486">Mice were orogastrically immunized with 50 μg of recombinant HspA protein and 5 μg of cholera toxin prepared in 0.1 M sodium bicarbonate before delivery (Ferrero et al., 1995).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1486">Orogastric immunization of mice with recombinant H. pylori HspA proteins protected 80% of animals from a challenge dose of 10^4 Helicobacter felis bacteria (Ferrero et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1486">Mice were  challenged with 10^4 H. felis bacteria (Ferrero et al., 1995).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response855" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Swiss</host_strain>
+			<vaccination_protocol refs="reference1486">Mice were orogastrically immunized with 50 μg of recombinant HspB protein and 5 μg of cholera toxin prepared in 0.1 M sodium bicarbonate before delivery (Ferrero et al., 1995).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1486">Orogastric immunization of mice with recombinant H. pylori HspB proteins protected 70% of animals from a challenge dose of 104 Helicobacter felis bacteria (Ferrero et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1486">Mice were challenged with 10^4 H. felis bacteria (Ferrero et al., 1995).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1098">
+		<vaccine_name>H. pylori HspB Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004061</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Orally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1486">5 μg of cholera toxin (Ferrero et al., 1995).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Orally</route>
+		<antigen refs="">Recombinant HspB protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering588" gene_id="gene826">
+			<type>Recombinant protein preparation</type>
+			<description refs="">The hspB gene was cloned into the expression vector pMAL-C2 and expressed in E. coli as a MalE fusion</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response871" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Swiss pathogen free</host_strain>
+			<vaccination_protocol refs="reference1486">Antigen extracts (50 &amp;mu;g of protein) containing 5 &amp;mu;g of cholera toxin were used to immunize mice orogastrically (Ferrero et al., 1995).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1486">Orogastric immunization of mice with recombinant H. pylori HspB proteins protected 70% of animals from a challenge dose of 104 Helicobacter felis bacteria (Ferrero et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1486">Aliquots (0.1 ml) containing 10^4 H. felis bacteria prepared from a low subculture stock suspension of H. felis were administered orogastrically to mice (Ferrero et al., 1995).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine958">
+		<vaccine_name>H. pylori NAP protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011514</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intragastric</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">LTK63 mutant of Escherichia coli heat-labile enterotoxin</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intragastric</route>
+		<antigen refs="">H. pylori neutrophil-activating protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering442" gene_id="gene806">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1397">HP-NAP was cloned and expressed in Bacillus subtilis to avoid contamination with LPS. Two preparations of HP-NAP were isolated from H. pylori CCUG strain (Satin et al., 2000).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response715" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">CD-1</host_strain>
+			<vaccination_protocol refs="reference1397">Groups of 10 mice (Charles River) were immunized intragastrically at days 0, 7, and 14 with saline alone (control) or with saline containing 100 mg of H. pylori CagA, glutathione S-transferase (GST)–HP-NAP, or H. pylori lysate together with 10 mg of LTK63 mutant as a mucosal adjuvant (Satin et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1397">Study shows that vaccination of mice with HP-NAP induces protection against H. pylori challenge, and that the majority of infected patients produce antibodies specific for HP-NAP, suggesting an important role of this factor in immunity (Satin et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1397">At days 21, 23, and 25, all mice were challenged intragastrically with 10^9 CFU of H. pylori strain SPM326, a clinical isolate that has been adapted to colonize the mouse.  At day 35, mice were killed, the stomachs were removed, and colonization was determined.  Mice were considered as protected (not infected) when no H. pylori colony was detected on the stomach culture plates (Satin et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine962">
+		<vaccine_name>H. pylori VacA protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011479</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral</route>
+		<antigen refs="">H. pylori vacuolating cytotoxin VacA</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering446" gene_id="gene810">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1401">VacA was purified from culture supernatant of H. pylori CCUG17874. Formaldehyde treatment was carried out by incubation of VacA (approximately 100 mg/ml) in a solution of phosphate-buffered saline (PBS) containing 25 mM lysine and 0.01% thimerosal (Sigma Chemicals, St. Louis, Mo.) plus different concentrations of formaldehyde for 48 h at 37°C followed by dialysis against PBS. Control VacA was treated in the same manner but in the absence of formaldehyde. VacA biological activity was assessed in a HeLa cell-vacuolating assay (14). Briefly, 104
+HeLa cells/well were seeded into 96-well flat-bottomed microtiter plates. After 16 h of incubation, the cells were treated for a further 8 h at 37°C with 2 mg of acid-activated VacA (2) in 100 ml of RPMI medium containing 2% fetal calf serum plus 5 mM ammonium chloride (Manetti et al., 1997).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response719" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1401">Groups of three 5-week-old male BALB/c mice were treated intragastrically with 5 mg of native or formaldehyde (3.2 mM)-treated VacA. The preparations were exposed to low pH in vitro in order to obtain optimal activation (Manetti et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1401">Treatment of the Helicobacter pylori vacuolating cytotoxin with very low concentrations of formaldehyde resulted in abrogation of toxic activity in both a HeLa cell vacuolation assay and an in vivo assay of gastric epithelial damage. Detoxification had only a minimal effect on the integrity of the oligomeric or monomeric structure. The toxoid retained the ability to bind to target cells and to induce high-titer neutralizing antibodies after immunization of rabbits. Furthermore, oral immunization of mice with the toxoid resulted in protection against infective challenge with mouse-adapted strains of H. pylori (Manetti et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Mice were challenged with H. pylori</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine960">
+		<vaccine_name>H. pylori vaccine encoding UreB</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011477</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>poliovirus</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">H. pylori urease subunit B (ureB)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering444" gene_id="gene804">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1395">UreB replicon was constructed, encapsidated and produced as previously described in detail. Briefly, the plasmid pHP 902 containing the entire gene for the urease B subunit of a type 2 H. pylori (UMAB 41) was kindly provided by HL Mobley, University of Maryland. The urease gene was amplified by PCR using DNA primers with unique Xhol (5′) and HpaI (3′) restriction sites.  The DNA product was cloned into the plasmid pCRII (Invirogen, San Diego, CA), digested with Xhol and HpaI, and ligated into a replicon cDNA. A schematic representation of the replicon encoding the B subunit of H. pylori urease (Smythies et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response717" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6/DAB</host_strain>
+			<vaccination_protocol refs="reference1395">C57BL/6/DAB TgPVR mice were vaccinated intramuscularly with 107 infectious units of UreB replicon or control L1 replicon (5 mice each in Experiment 1 and 10 mice each in Experiment 2) and then boosted with UreB replicon or L1 replicon, respectively, 1 and 2 weeks later. Animals were immunized intramuscularly to assure delivery of equivalent amounts of vaccine to each animal and because poliovirus receptor transgenic mice are not susceptible to poliovirus infection by oral inoculation, even when the poliovirus receptor is overexpressed in the intestinal epithelium. Two weeks after the final boost, animals were inoculated with H. pylori SPM326 (150 μl, 109 CFU/ml) by oral gavage four times during a 10-day period with at least 3 days between each gavage (Smythies et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1395">Vaccination with poliovirus vector containing the gene for the B subunit of H. pylori urease provides significant prophylactic and strong therapeutic protection against H. pylori in mice (Smythies et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1395">Mice were challenged with H. pylori (Smythies et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4173">
+		<vaccine_name>M. S- H. pylori -opm26</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004688</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3206">Recombinant Mycobacterium smegmatis expressing the H. pylori outer membrane protein 26-kilodalton (Omp26) antigen (Lü et al., 2011).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1722" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3206">Six of the recombinant Mycobacterium-immunized mice (60%) were completely protected from H. pylori infection. The severity of H. pylori-associated chronic gastritis assessed histologically was significantly milder in mice vaccinated with recombinant Mycobacterium than in control animals (Lü et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4157">
+		<vaccine_name>SL3261- UreA and UreB</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004675</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1702" gene_id="gene804">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3136">UreA and UreB, two structural subunits of the active enzyme, were expressed in the attenuated Salmonella typhimurium live vaccine SL3261 strain (Gómez-Duarte et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1721" host_id="host3">
+			<immune_response refs="reference3136">Oral immunization of mice with urease subunits delivered by an attenuated Salmonella strain induced a specific immune response (Gómez-Duarte et al., 1998).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3136">Oral immunization of mice with urease subunits delivered by an attenuated Salmonella strain protected mice against H. pylori colonization (Gómez-Duarte et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene827">
+        <gene_name>gltA</gene_name>
+        <strain>Helicobacter pylori</strain>
+        <vo_id>VO_0012379</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>NP_206828</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:180164
+CDD:99867</xrefs>
+        <taxonomy_id>85962</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>type II citrate synthase</protein_name>
+        <protein_pi>8.03</protein_pi>
+        <protein_weight>45749.59</protein_weight>
+        <protein_length>500</protein_length>
+        <protein_note>type II citrate synthase; Reviewed; PRK05614</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>NP_206828.1 type II citrate synthase [Helicobacter pylori 26695]
+MSVTLVNNENNERYEFETIESTRGPKAVDFSKLFETTGFFSYDPGYSSTAGCQSKISYVNGKKGELYYRG
+HRIEDLVAKYKYVDVCKLLLTGELPKNQDESLEFELELRHRSFVHESLLNMFSAFPSNAHPMAKLSSGVS
+ILSTLYSTHQNMHTEEDYQTMARRIVAKIPTLAAICYRNEVGAPIIYPDIARSYVENILFMLRGYPYSRL
+KHTTQGEVEITPLEVEAFDKILTLHADHSQNASSTTVRNVASTGVHPYAAISAGISALWGHLHGGANEKV
+LLQLEEIGDVKNVDKYIARVKDKNDNFKLMGFGHRVYKSYDPRAKILKGLKDELHQKGVKMDERLSEIAA
+KVEEIALKDEYFIERNLYPNVDFYSGTILRALKIPVRFFTPVFVIGRTVGWCAQLLEHVKSPQARITRPR
+QVYVGD</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice were immunised with the citrate synthase protein by intra-Peyer's patch immunisation. Pre-immunisation with the citrate synthase protein led to a 84-91% reduction in H. pylori infection compared to unimmunised controls [Ref1487:Dunkley et al., 1999].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene825">
+        <gene_name>hspA</gene_name>
+        <strain>Helicobacter pylori 85P</strain>
+        <vo_id>VO_0012377</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>712830</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:178988
+CDD:238197</xrefs>
+        <taxonomy_id>210</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>heat shock protein</protein_name>
+        <protein_pi>6.66</protein_pi>
+        <protein_weight>12280.01</protein_weight>
+        <protein_length>174</protein_length>
+        <protein_note>co-chaperonin GroES; Reviewed; PRK00364</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAC41440.1 heat shock protein [Helicobacter pylori]
+MKFQPLGERVLVERLEEENKTSSGIIIPDNAKEKPLMGVVKAVSHKISEGCKCVKEGDVIAFGKYKGAEI
+VLDGVEYMVLELEDILGIVGSGSCCHTGNHDHKHAKEHEACCHDHKKH
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Orogastric immunization of mice with recombinant H. pylori HspA proteins protected 80%  of animals from a challenge dose of 10^4 Helicobacter felis bacteria [Ref1486:Ferrero et al., 1995].
+The highest reduction in bacterial colonization was seen in mice immunized with the fusion protein rHspA-GGT when paired with the mucosal adjuvant LTB. Protection against H. pylori colonization was mediated by a strong systemic and localized humoral immune response [Ref4749:Zhang et al., 2015].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene826">
+        <gene_name>hspB</gene_name>
+        <strain>Helicobacter pylori 85P</strain>
+        <vo_id>VO_0012378</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>712831</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:234573
+CDD:237231
+CDD:239460</xrefs>
+        <taxonomy_id>210</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>heat shock protein</protein_name>
+        <protein_pi>5.47</protein_pi>
+        <protein_weight>53926.66</protein_weight>
+        <protein_length>607</protein_length>
+        <protein_note>chaperonin GroEL; Reviewed; PRK00013</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAC41441.1 heat shock protein [Helicobacter pylori]
+MAKEIKFSDSARNLLFEGVRQLHDAVKVTMGPRGRNVLIQKSYGAPSITKDGVSVAKEIELSCPVANMGA
+QLVKEDASKTADAAGDGTTTATVLAYSIFKEGLRNITAGANPIEVKRGMDKAPEAIINELKKASKKVGGK
+EEITQVATISANSDHNIGKLIADAMEKVGKDGVITVEEAKGIEDELDVVEGMQFDRGYLSPYFVTNAEKM
+TAQLDNAYILLTDKKISSMKDILPLLEKTMKEGKPLLIIAEDIEGEALTTLVVNKLRGVLNIAAVKAPGF
+GDRRKEMLKDIAVLTGGQVISEELGLSLENAEVEFLGKAKIVIDKDNTTIVDGKGHSHDVKDRVAQIKTQ
+IASTTSDYDKEKLQERLAKLSGGVAVIKVGAASEVEMKEKKDRVDDALSATKAAVEEGIVIGGGAALIRA
+AQKVHLNLHDDEKVGYEIIMRAIKAPLAQIAINAGYDGGVVVNEVEKHEGHFGFNASNGKYVDMFKEGII
+DPLKVERIALQNAVSVSSLLLTTEATVHEIKEEKAAPAMPDMGGMGGMGGMGGMM
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Orogastric immunization of mice with recombinant H. pylori HspB proteins protected 70% of animals from a challenge dose of 10^4 Helicobacter felis bacteria [Ref1486:Ferrero et al., 1995].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene808">
+        <gene_name>katA</gene_name>
+        <strain>Helicobacter pylori</strain>
+        <vo_id>VO_0011339</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_000247320</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>1QWL</pdb_id>
+        <xrefs>CDD:163712</xrefs>
+        <taxonomy_id>210</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>catalase</protein_name>
+        <protein_pi>8.69</protein_pi>
+        <protein_weight>55672.85</protein_weight>
+        <protein_length>561</protein_length>
+        <protein_note>Clade 3 of the heme-binding enzyme catalase; cd08156</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>WP_000247320.1 catalase [Helicobacter pylori]
+MVNKDVKQTTAFGAPVWDDNNVITAGPRGPVLLQSTWFLEKLAAFDRERIPERVVHAKGSGAYGTFTVTK
+DITKYTKAKIFSKVGKKTECFFRFSTVAGEKGSADAVRDPRGFAMKYYTEEGNWDLVGNNTPVFFIRDAI
+KFPDFIHTQKRDPQTNLPNPDMVWDFWSNVPESLYQVTWVMSDRGIPKSFRHMDGFGSHTFSLINAKGER
+FWVKFHFETMQGVKHLTNEEAAEVRKYDPDSNQRDLFDAIAGGDFPKWKMSIQVMPEEDAKKYRFHPFDV
+TKIWYLQDYPLMEVGIVELNKNPENYFAEVEQAAFTPANVVPGIGYSPDRMLQGRLFSYGDTHRYRLGVN
+YPQIPVNRPRCPFHSSSRDGYMQNGYYGSLQNYTPSSLPGYKEDKSARDPKFNLAHIEKEFEVWNWDYRA
+EDSDYYTQPGDYYRSLPADEKERLYDTIGGSLAHVTHKEIVDKQLEHFKKADPKYAEGVKKALEKHQKMM
+KDMHAKDMHHMKKKK</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Recombinant H. pylori catalase plus CT was used for immunization, and groups of mice were challenged with the Sydney strain of H. pylori. Immunization with recombinant catalase protected a significant proportion (9 of 10) of the mice from H. pylori challenge, indicating that this enzyme should be considered as a candidate for a future vaccine [Ref1399:Radcliff et al., 1997].
+
+Significant protection against H. pylori colonisation was induced with rSOD, rKatA and rTpx individually [Ref4856:Stent et al., 2012].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene806">
+        <gene_name>NAP</gene_name>
+        <strain>Helicobacter pylori</strain>
+        <vo_id>VO_0011337</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>8777456</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>1JI4</pdb_id>
+        <xrefs>CDD:223854
+CDD:153102</xrefs>
+        <taxonomy_id>210</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>neutrophil-activating protein</protein_name>
+        <protein_pi>6.34</protein_pi>
+        <protein_weight>16292.55</protein_weight>
+        <protein_length>221</protein_length>
+        <protein_note>DNA-binding ferritin-like protein (oxidative damage protectant) [Inorganic ion transport and metabolism, Defense mechanisms]; COG0783</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>BAA96880.1 neutrophil-activating protein, partial [Helicobacter pylori]
+MKTFEILKHLQADAIVLFMKVHNFHWNVKGTDFFNVHKATEEIYEGFADMFDDLAERIAQLGHHPLVTLS
+EALKLTRVKEETKTSFHSKDIFKEILEDYKHLEKEFKELSNTAEKEGDKVTVTYADDQLAKLQKSIWMLQ
+AHLA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A study shows that vaccination of mice with HP-NAP (H. pylori NAP) induces protection against H. pylori challenge, and that the majority of infected patients produce antibodies specific for HP-NAP, suggesting an important role of this factor in immunity [Ref1397:Satin et al., 2000].
+In this study, a multivalent epitope-based vaccine named CWAE against H. pylori urease, neutrophil-activating protein (NAP), heat shock protein 60 (HSP60) and H. pylori adhesin A (HpaA) was constructed based on mucosal adjuvant cholera toxin B subunit (CTB), Th1-type adjuvant NAP, multiple copies of selected B and Th cell epitopes and also the epitope-rich regions of urease B subunit The protection of CWAE was associated with higher levels of mixed CD4+ T cell (Th cell) response, IgG, and secretory IgA (sIgA) antibodies to H. pylori [Ref4782:Guo et al., 2017].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1701">
+        <gene_name>oipA</gene_name>
+        <strain>Helicobacter pylori strain PD529</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_000756902</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:280099</xrefs>
+        <taxonomy_id>210</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>outer membrane protein</protein_name>
+        <protein_pi>10.05</protein_pi>
+        <protein_weight>33030.75</protein_weight>
+        <protein_length>374</protein_length>
+        <protein_note>Helicobacter outer membrane protein; pfam01856</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>WP_000756902.1 outer membrane protein [Helicobacter pylori]
+MKKVLLLTLSLSLSFWLHAERNGFYLGLNFAEGSYIQGQGSIGEKASAENALNQAINNAKNSLFPNTKAI
+RDVQNALNAVKDSNKIANRFAGNGGSGGIFNELSLGYKYFLGKKRIIGFRHSLFFGYQLGGVGSVPGSGL
+IAFLPYGFNTDLLINWTNDKRASQEYVERRVKGLSIFYKDMTGRTLDADTLKRASRHIIRKSSGLVIGME
+LGASTWFASNNLTPFNQVKSRTIFQLQGKFGVRFSSDEYDIDRYGDENYLGGSSVELGVKVPAFKVNYYS
+DDYGDKLDYKRVVSVYLNYTYNFKNKH</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene804">
+        <gene_name>ureB</gene_name>
+        <strain>Helicobacter pylori</strain>
+        <vo_id>VO_0011335</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_000724295</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:184438</xrefs>
+        <taxonomy_id>210</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>urease subunit alpha</protein_name>
+        <protein_pi>5.99</protein_pi>
+        <protein_weight>58828.9</protein_weight>
+        <protein_length>638</protein_length>
+        <protein_note>urease subunit beta; Provisional; PRK13985</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>WP_000724295.1 urease subunit alpha [Helicobacter pylori]
+MKKISRKEYVSMYGPTTGDKVRLGDTDLIAEVEHDYTIYGEELKFGGGKTLREGMSQSNNPSKEELDLII
+TNALIVDYTGIYKADIGIKDGKIAGIGKGGNKDMQDGVKNNLSVGPATEALAGEGLIVTAGGIDTHIHFI
+SPQQIPTAFASGVTTMIGGGTGPADGTNATTITPGRRNLKWMLRAAEEYSMNLGFLAKGNASNDASLADQ
+IEAGAIGFKIHEDWGTTPSAINHALDVADKYDVQVAIHTDTLNEAGCVEDTMAAIAGRTMHTFHTEGAGG
+GHAPDIIKVAGEHNILPASTNPTIPFTVNTEAEHMDMLMVCHHLDKSIKEDVQFADSRIRPQTIAAEDTL
+HDMGIFSITSSDSQAMGRVGEVITRTWQTADKNKKEFGRLKEEKGDNDNFRIKRYLSKYTINPAIAHGIS
+EYVGSVEVGKVADLVLWSPAFFGVKPNMIIKGGFIALSQMGDANASIPTPQPVYYREMFAHHGKAKYDAN
+ITFVSQAAYDKGIKEELGLERQVLPVKNCRNITKKDMQFNDTTAHIEVNPETYHVFVDGKEVTSKPANKV
+SLAQLFSIF</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Vaccination with poliovirus vector containing the gene for the B subunit of H. pylori urease provides significant prophylactic and strong therapeutic protection against H. pylori in mice [Ref1395:Smythies et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene810">
+        <gene_name>vacA</gene_name>
+        <strain>Helicobacter pylori</strain>
+        <vo_id>VO_0011341</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_123946465</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:111576
+CDD:309066</xrefs>
+        <taxonomy_id>210</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>autotransporter vacuolating cytotoxin VacA</protein_name>
+        <protein_pi>9.4</protein_pi>
+        <protein_weight>132293.35</protein_weight>
+        <protein_length>1391</protein_length>
+        <protein_note>Vacuolating cyotoxin; pfam02691</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>WP_123946465.1 autotransporter vacuolating cytotoxin VacA [Helicobacter pylori]
+MEIQQTHRKINRPLVSLVLAGALISAIPQQSHAAFFTTVIIPAIVGGIATGTAVGTVSGLLGWGLKQAEE
+ANKTPDKPDKVWRIQAGKGFNEFPNKEYDLYRSLLSSKIDGGWDWGNAATHYWVKGGQQNKLEVDMKDAV
+GTYKLSGLRNFTGGDLDVNMQKATLRLGQFNGNSFTSFKDSADRTTRVDFNAKNISIDNFVEINNRVGSG
+AGRKASSTVLTLQASEGITSSKNAEISLYDGATLNLASNSVKLNGNVWMGRLQYVGAYLAPSYSTINTSK
+VTGEVDFNHLTVGDKNAAQAGIIASNKTHIGTLDLWQSAGLNIIAPPEGGYKDKPKDKPSNTTQNNANNN
+QQNSAQNNSSTQVINPPNSAQKTEIQPTQVIDGPFAGGKDTVVNIDRINTKADGTIKVGGYKASLTTNAA
+HLHIGKGGVNLSNQASGRTLLVENLTGNITVDGPLRVNNQVGGYALAGSSANFEFKAGTDTKNGTATFNN
+DISLGRFVNLKVDAHTANFKGIDTGNGGFNTLDFSGVTGKVNINKLITASTNVAAKNFNINELIVKTNGV
+SVGEYTHFSEDIGSQSRINTVRLETGTRSIFSGGVKFKSGEKLVIDEFYYSPWNYFDARNIKNVEITRKF
+ASSTPENPWGTSKLMFNNLTLGQNAIMDYSQFSNLTIQGDFINNQGTINYLVRGGQVATLNVGNAAAMMF
+NNDIDSATGFYKPLIKINSAQDLIKNTEHVLLKAKIIGYGNVSTGTNGISNVNLEEQFKERLALYNNNNR
+MDTCVVRNTDDIKACGMAIGNQSMVNNPDNYKYLIGKAWKNIGISKTANGSKISVYYLGNSTPTENGGST
+TNLPTNTTNNARSANYALVKNAPFAHSATPNLVAINQHDFGTIESVFELANRSKDIDTLYTHSGAQGRDL
+LQTLLIDSHDAGYARTMIDATSANEITKQLNAATTTLNNIASLEHKTSGLQTLSLSNAMILNSRLVNLSR
+RHTNHIDSFAQRLQALKDQRFASLESAAEVLYQFAPKYEKPTNVWANAIGGASLNNGSNASLYGTSAGVD
+AFLNGNVEAIVGGFGSYGYSSFSNQANSLNSGANNANFGVYSRIFANQHEFDFEAQGALGSDQSSLNFKS
+ALLQDLNQSYNYLAYSATARASYGYDFAFFRNALVLKPSVGVGYNHLGSTNFKSNSQSQVALKNGASSQH
+LFNANANVEARYYYGDTSYFYMNAGVLQEFANFGSSNAVSLNTFKVNATHNPLNTHARVMMGGELKLAKE
+VFLNLGFVYLHNLISNIGHFASNLGMRYSF</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Treatment of the Helicobacter pylori vacuolating cytotoxin with very low concentrations of formaldehyde resulted in abrogation of toxic activity in both a HeLa cell vacuolation assay and an in vivo assay of gastric epithelial damage. Detoxification had only a minimal effect on the integrity of the oligomeric or monomeric structure. The toxoid retained the ability to bind to target cells and to induce high-titer neutralizing antibodies after immunization of rabbits. Furthermore, oral immunization of mice with the toxoid resulted in protection against infective challenge with mouse-adapted strains of H. pylori [Ref1401:Manetti et al., 1997].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2681">
+		<reference_name>Chen et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen J, Lin L, Li N, She F</authors>
+		<title>Enhancement of Helicobacter pylori outer inflammatory protein DNA vaccine efficacy by co-delivery of interleukin-2 and B subunit heat-labile toxin gene encoded plasmids</title>
+		<year>2012</year>
+		<volume>56</volume>
+		<issue>2</issue>
+		<pages>85-92</pages>
+		<journal_book_name>Microbiology and immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1487">
+		<reference_name>Dunkley et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dunkley ML, Harris SJ, McCoy RJ, Musicka MJ, Eyers FM, Beagley LG, Lumley PJ, Beagley KW, Clancy RL</authors>
+		<title>Protection against Helicobacter pylori infection by intestinal immunisation with a 50/52-kDa subunit protein</title>
+		<year>1999</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<pages>221-225</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1486">
+		<reference_name>Ferrero et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ferrero RL, Thiberge JM, Kansau I, Wuscher N, Huerre M, Labigne A</authors>
+		<title>The GroES homolog of Helicobacter pylori confers protective immunity against mucosal infection in mice</title>
+		<year>1995</year>
+		<volume>92</volume>
+		<issue>14</issue>
+		<pages>6499-6503</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3136">
+		<reference_name>Gómez-Duarte et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gómez-Duarte OG, Lucas B, Yan ZX, Panthel K, Haas R, Meyer TF</authors>
+		<title>Protection of mice against gastric colonization by Helicobacter pylori by single oral dose immunization with attenuated Salmonella typhimurium producing urease subunits A and B</title>
+		<year>1998</year>
+		<volume>16</volume>
+		<issue>5</issue>
+		<pages>460-471</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4782">
+		<reference_name>Guo et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guo L, Yang H, Tang F, Yin R, Liu H, Gong X, Wei J, Zhang Y, Xu G, Liu K</authors>
+		<title>Oral Immunization with a Multivalent Epitope-Based Vaccine, Based on NAP, Urease, HSP60, and HpaA, Provides Therapeutic Effect on &lt;i&gt;H. pylori&lt;/i&gt; Infection in Mongolian gerbils</title>
+		<year>2017</year>
+		<volume>7</volume>
+		<issue></issue>
+		<pages>349</pages>
+		<journal_book_name>Frontiers in cellular and infection microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4801">
+		<reference_name>Guo et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guo L, Yin R, Xu G, Gong X, Chang Z, Hong D, Liu H, Ding S, Han X, Li Y, Tang F, Liu K</authors>
+		<title>Immunologic properties and therapeutic efficacy of a multivalent epitope-based vaccine against four Helicobacter pylori adhesins (urease, Lpp20, HpaA, and CagL) in Mongolian gerbils</title>
+		<year>2017</year>
+		<volume>22</volume>
+		<issue>6</issue>
+		<pages></pages>
+		<journal_book_name>Helicobacter</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1396">
+		<reference_name>Huang et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Huang W, Bai Y, Wang JD, Wu JB, Li GF, Zhang WM, Zhou DY</authors>
+		<title>[Preparation oral liposome-encapsulated recombinant Helicobacter pylori heat shock protein 60 vaccine for prevention of Hp infection]</title>
+		<year>2005</year>
+		<volume>25</volume>
+		<issue>5</issue>
+		<pages>531-534</pages>
+		<journal_book_name>Di 1 jun yi da xue xue bao = Academic journal of the first medical college of PLA</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3206">
+		<reference_name>Lü et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lü L, Zeng HQ, Wang PL, Shen W, Xiang TX, Mei ZC</authors>
+		<title>Oral immunization with recombinant Mycobacterium smegmatis expressing the outer membrane protein 26-kilodalton antigen confers prophylactic protection against Helicobacter pylori infection</title>
+		<year>2011</year>
+		<volume>18</volume>
+		<issue>11</issue>
+		<pages>1957-1961</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4797">
+		<reference_name>Li et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li HB, Zhang JY, He YF, Chen L, Li B, Liu KY, Yang WC, Zhao Z, Zou QM, Wu C</authors>
+		<title>Systemic immunization with an epitope-based vaccine elicits a Th1-biased response and provides protection against Helicobacter pylori in mice</title>
+		<year>2012</year>
+		<volume>31</volume>
+		<issue>1</issue>
+		<pages>120-126</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4715">
+		<reference_name>Li et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li B, Chen L, Sun H, Yang W, Hu J, He Y, Wei S, Zhao Z, Zhang J, Li H, Zou Q, Wu C</authors>
+		<title>Immunodominant epitope-specific Th1 but not Th17 responses mediate protection against Helicobacter pylori infection following UreB vaccination of BALB/c mice</title>
+		<year>2015</year>
+		<volume>5</volume>
+		<issue></issue>
+		<pages>14793</pages>
+		<journal_book_name>Scientific reports</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4702">
+		<reference_name>Li et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li B, Yuan H, Chen L, Sun H, Hu J, Wei S, Zhao Z, Zou Q, Wu C</authors>
+		<title>The influence of adjuvant on UreB protection against &lt;i&gt;Helicobacter pylori&lt;/i&gt; through the diversity of CD4+ T-cell epitope repertoire</title>
+		<year>2017</year>
+		<volume>8</volume>
+		<issue>40</issue>
+		<pages>68138-68152</pages>
+		<journal_book_name>Oncotarget</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4773">
+		<reference_name>Liu et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liu XL, Li SQ, Liu CJ, Tao HX, Zhang ZS</authors>
+		<title>Antigen epitope of Helicobacter pylori vacuolating cytotoxin A</title>
+		<year>2004</year>
+		<volume>10</volume>
+		<issue>16</issue>
+		<pages>2340-2343</pages>
+		<journal_book_name>World journal of gastroenterology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4829">
+		<reference_name>L� et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>L� L, Cao HD, Zeng HQ, Wang PL, Wang LJ, Liu SN, Xiang TX</authors>
+		<title>Recombinant Mycobacterium smegmatis mc(2)155 vaccine expressing outer membrane protein 26 kDa antigen affords therapeutic protection against Helicobacter pylori infection</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>7</issue>
+		<pages>972-978</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1401">
+		<reference_name>Manetti et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Manetti R, Massari P, Marchetti M, Magagnoli C, Nuti S, Lupetti P, Ghiara P, Rappuoli R, Telford JL</authors>
+		<title>Detoxification of the Helicobacter pylori cytotoxin</title>
+		<year>1997</year>
+		<volume>65</volume>
+		<issue>11</issue>
+		<pages>4615-4619</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4847">
+		<reference_name>Mori et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mori J, Vranac T, Smrekar B, Cernilec M, Serbec V?, Horvat S, Ihan A, Ben?ina M, Jerala R</authors>
+		<title>Chimeric flagellin as the self-adjuvanting antigen for the activation of immune response against Helicobacter pylori</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>40</issue>
+		<pages>5856-5863</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4735">
+		<reference_name>O'Riordan et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>O'Riordan AA, Morales VA, Mulligan L, Faheem N, Windle HJ, Kelleher DP</authors>
+		<title>Alkyl hydroperoxide reductase: a candidate Helicobacter pylori vaccine</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>26</issue>
+		<pages>3876-3884</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1399">
+		<reference_name>Radcliff et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Radcliff FJ, Hazell SL, Kolesnikow T, Doidge C, Lee A</authors>
+		<title>Catalase, a novel antigen for Helicobacter pylori vaccination</title>
+		<year>1997</year>
+		<volume>65</volume>
+		<issue>11</issue>
+		<pages>4668-4674</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1531">
+		<reference_name>Salyers and Whitt., 2002</reference_name>
+		<reference_type>book</reference_type>
+		<authors>Abigail A. Salyers, Dixie D. Whitt</authors>
+		<title>Helicobacter pylori, A Resourceful Gastric Pathogen</title>
+		<year>2002</year>
+		<volume></volume>
+		<issue></issue>
+		<pages>339-49</pages>
+		<journal_book_name>Bacterial Pathogenesis: A Molecular Approach</journal_book_name>
+		<publisher>ASM Press</publisher>
+		<publisher_location>Washington D.C. USA</publisher_location>
+		<book_editors></book_editors>
+		<isbn>1-55581-171-x</isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1397">
+		<reference_name>Satin et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Satin B, Del Giudice G, Della Bianca V, Dusi S, Laudanna C, Tonello F, Kelleher D, Rappuoli R, Montecucco C, Rossi F</authors>
+		<title>The neutrophil-activating protein (HP-NAP) of Helicobacter pylori is a protective antigen and a major virulence factor</title>
+		<year>2000</year>
+		<volume>191</volume>
+		<issue>9</issue>
+		<pages>1467-1476</pages>
+		<journal_book_name>The Journal of experimental medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1395">
+		<reference_name>Smythies et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Smythies LE, Novak MJ, Waites KB, Lindsey JR, Morrow CD, Smith PD</authors>
+		<title>Poliovirus replicons encoding the B subunit of Helicobacter pylori urease protect mice against H. pylori infection</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>7</issue>
+		<pages>901-909</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4856">
+		<reference_name>Stent et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Stent A, Every AL, Ng GZ, Chionh YT, Ong LS, Edwards SJ, Sutton P</authors>
+		<title>Helicobacter pylori thiolperoxidase as a protective antigen in single- and multi-component vaccines</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>50</issue>
+		<pages>7214-7220</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2682">
+		<reference_name>Todoroki et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Todoroki I, Joh T, Watanabe K, Miyashita M, Seno K, Nomura T, Ohara H, Yokoyama Y, Tochikubo K, Itoh M</authors>
+		<title>Suppressive effects of DNA vaccines encoding heat shock protein on Helicobacter pylori-induced gastritis in mice</title>
+		<year>2000</year>
+		<volume>277</volume>
+		<issue>1</issue>
+		<pages>159-163</pages>
+		<journal_book_name>Biochemical and biophysical research communications</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1411">
+		<reference_name>Wiki:  Helicobacter pylori</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Helicobacter pylori</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Helicobacter_pylori</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4749">
+		<reference_name>Zhang et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang X, Zhang J, Yang F, Wu W, Sun H, Xie Q, Si W, Zou Q, Yang Z</authors>
+		<title>Immunization with Heat Shock Protein A and ?-Glutamyl Transpeptidase Induces Reduction on the Helicobacter pylori Colonization in Mice</title>
+		<year>2015</year>
+		<volume>10</volume>
+		<issue>6</issue>
+		<pages>e0130391</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

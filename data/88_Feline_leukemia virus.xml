@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen71">
+		<pathogen_name>Feline leukemia virus</pathogen_name>
+		<taxon_id>11768</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Feline leukemia virus infection</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1432">Feline leukemia virus (FeLV) is a retrovirus that infects cats. As a retrovirus, FeLV is transmitted as an RNA virus but the RNA is reverse transcribed into DNA. Retroviruses contradict the Central dogma of molecular biology. FeLV is usually transmitted between infected cats when the transfer of saliva or nasal secretions is involved. If not defeated by the animal’s immune system, the virus can be lethal. The disease caused by this virus is a form of cancer of blood cells called lymphocytes (a leukemia).
+
+Cats infected with FeLV can serve as sources of infection. Cats pass the virus between themselves through saliva and close contact, by biting another cat, through a litter box or food dish used by an infected cat (rarely happens), and from milk during nursing. Transmission can also take place from an infected mother cat to her kittens, either before they are born or while they are nursing.
+
+The signs and symptoms of infection with feline leukemia virus are quite varied and include loss of appetite, poor coat condition, infections of the skin, bladder and respiratory tract, oral disease, seizures, lymphadenopathy (swollen lymph nodes), skin lesions, fatigue, fever, weight loss, stomatitis, gingivitis, litter box avoidance, pancytopenia, poor grooming, reoccurring bacterial and viral illnesses, anaemia, diarrhoea, and jaundice (Wiki: Feline leukemia virus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4226">
+		<vaccine_name>ALVAC-FL- env/gag</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004740</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3258">Two ALVAC (canarypox virus)-based recombinant viruses expressing the feline leukemia virus (FeLV) subgroup A env and gag genes (Tartaglia et al., 1993).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1700" gene_id="gene1411">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3258">Two ALVAC (canarypox virus)-based recombinant viruses expressing the feline leukemia virus (FeLV) subgroup A env and gag genes were assessed for their protective efficacy in cats. Both recombinant viruses contained the entire gag gene. ALVAC-FL also expressed the entire envelope glycoprotein, while ALVAC-FL(dl IS) expressed an env-specific gene product deleted of the putative immunosuppressive region (Tartaglia et al., 1993).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1701" gene_id="gene466">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference3258">Two ALVAC (canarypox virus)-based recombinant viruses expressing the feline leukemia virus (FeLV) subgroup A env and gag genes were assessed for their protective efficacy in cats. Both recombinant viruses contained the entire gag gene. ALVAC-FL also expressed the entire envelope glycoprotein, while ALVAC-FL(dl IS) expressed an env-specific gene product deleted of the putative immunosuppressive region (Tartaglia et al., 1993).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1764" host_id="host37">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3258">Cats were vaccinated with ALVAC-FL(dI IS) or ALVAC-FL, consisting of two subcutaneous inoculations of 10^8 PFU at 5 and 2 weeks prior to challenge (Tartaglia et al., 1993).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3258">Although only 50% of the cats vaccinated with ALVAC-FL(dl IS) were protected against persistent viremia after oronasal exposure to a homologous FeLV isolate, all cats administered ALVAC-FL resisted the challenge exposure. Significantly, protection was afforded in the absence of detectable FeLV-neutralizing antibodies (Tartaglia et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3258">All cats were challenged by oronasal administration of 2 x 10^6 FFU  of FeLV-A/Glasgow-1 isolate to simulate natural transmission (Tartaglia et al., 1993).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine405">
+		<vaccine_name>EURIFEL FeLV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>EURIFEL FeLV</brand_name>
+		<manufacturer>Merial</manufacturer>
+		<vo_id>VO_0000918</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector>Canarypox virus</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="">Canarypox virus-vectored vaccine</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering408" gene_id="gene465">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1083">Canarypox-based recombinant vaccine that expresses the FeLV env and gag protective genes (Poulet et al., 2003)</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering409" gene_id="gene466">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1083">Canarypox-based recombinant vaccine that expresses the FeLV env and gag protective genes (Poulet et al., 2003)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response685" host_id="host37">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1083">The vaccine, (EURIFEL FeLV; Merial) that expresses the FeLV env and gag protective genes, is effective against any oronasal FeLV challenge. The protection was shown to be solid against an oronasal challenge one year after the initial vaccination, and was effective against a very severe 'in-contact' challenge (Poulet et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Oronasal FeLV challenge</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1770">
+		<vaccine_name>Feline Immunodeficiency-Leukemia Virus Killed Virus Vaccine (USDA: 15D5.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001841</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1772">
+		<vaccine_name>Feline Leukemia Killed Virus Vaccine (USDA: 1555.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001545</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1773">
+		<vaccine_name>Feline Leukemia Killed Virus Vaccine (USDA: 1555.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001546</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1774">
+		<vaccine_name>Feline Leukemia Killed Virus Vaccine (USDA: 1555.22</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id></vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1775">
+		<vaccine_name>Feline Leukemia Killed Virus Vaccine (USDA: 1555.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001548</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1776">
+		<vaccine_name>Feline Leukemia Live Canarypox Vector Vaccine (USDA: 1555.R3)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0001549</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1777">
+		<vaccine_name>Feline Leukemia-Chlamydia Psittaci Killed Virus, Killed Chlamydia Vaccine (USDA: 1A69.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001842</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1779">
+		<vaccine_name>Feline Leukemia-Rhinotracheitis-Calici-Panleukopenia Killed Virus Vaccine (USDA: 15B5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001843</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1783">
+		<vaccine_name>Feline Leukemia-Rhinotracheitis-Calici-Panleukopenia Killed Virus Vaccine (USDA: 15B5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001844</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1787">
+		<vaccine_name>Feline Leukemia-Rhinotracheitis-Calici-Panleukopenia Modified Live &amp; Killed Virus Vaccine (USDA: 15B9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001845</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1791">
+		<vaccine_name>Feline Leukemia-Rhinotracheitis-Calici-Panleukopenia Modified Live &amp; Killed Virus Vaccine (USDA: 15B9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001846</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1795">
+		<vaccine_name>Feline Leukemia-Rhinotracheitis-Calici-Panleukopenia-Chlamydia Psittaci Killed Virus, Killed Chlamydia Vaccine (USDA: 1559.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001847</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1800">
+		<vaccine_name>Feline Leukemia-Rhinotracheitis-Calici-Panleukopenia-Chlamydia Psittaci Killed Virus, Killed Chlamydia Vaccine (USDA: 1559.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001848</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1810">
+		<vaccine_name>Feline Leukemia-Rhinotracheitis-Calici-Panleukopenia-Chlamydia Psittaci Modified Live &amp; Killed Virus, Killed Chlamydia Vaccine (USDA: 1559.2C)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001849</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1805">
+		<vaccine_name>Feline Leukemia-Rhinotracheitis-Calici-Panleukopenia-Chlamydia Psittaci Modified Live &amp; Killed Virus, Modified Live Chlamydia Vaccine (USDA: 1559.2B)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001850</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3831">
+		<vaccine_name>FeLV DNA vaccine gag/pol and env</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004492</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pUSE1- is a mammalian expression vector derived from the vector pCI-neo (Promega) [Ref2429:Hanlon et al., 2001]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2429">IL-12, IL-18 (Hanlon et al., 2001)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1363" gene_id="gene1411">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2429">Vector pUSE1 expressed two separate pUSE12 series constructs, one expressing FeLV gag/pol genes and the other expressing the FeLV subgroup A env gene (Hanlon et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1246" host_id="host37">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2429">The vaccine consisting of FeLV DNA with the IL-12 and IL-18 genes conferred significant immunity, protecting completely against transient and persistent viremia, and in five of six kittens protecting against latent infection (Hanlon et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1411">
+        <gene_name>env from FeLV-A/Glasgow</gene_name>
+        <strain>Feline leukemia virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>546071</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:278837</xrefs>
+        <taxonomy_id>11768</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>gp70</protein_name>
+        <protein_pi>8.86</protein_pi>
+        <protein_weight>47116.53</protein_weight>
+        <protein_length>602</protein_length>
+        <protein_note>ENV polyprotein (coat polyprotein); pfam00429</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB30310.1 gp70=envelope protein {endogenous provirus} [feline leukemia virus FeLV, Glasgow-1 islolate, host=cat lymphoid tissues, Peptide, 445 aa]
+MESPTHPKPSKDKTLSWNLAFLVGILFTIDIGMANPSPHQIYNVTWVITNVQTNTQANATSMLGTLTDAY
+PTLHVDLCDLVGDTWEPIVLNPTNVKHGARYSSSKYGCKTTDRKKQQQTYPFYVCPGHAPSLGPKGTHCG
+GAQDGFCAAWGCETTGETWWKPTSSWDYITVKRGSSQDNSCEGKCNPLVLQFTQKGRQASWDGPKMWGLR
+LYRTGYDPIALFTVSRQVSTITPPQAMGPNLVLPDQKPPSRQSQTGSKVATQRPQTNESAPRSVAPTTMG
+PKRIGTGDRLINLVQGTYLALNATDPNKTKDCWLCLVSRPPYYEGIAILGNYSNQTNPPPSCLSIPQHKL
+TISEVSGQGLCIGTVPKTHQALCNKTQQGHTGAHYLAAPNGTYWACNTGLTPCISMAVLNWTSDFCVLIE
+LWPRVTYHQPEYVYTHFAKAVRFRR
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene465">
+        <gene_name>Env from strain FRA</gene_name>
+        <strain>Feline leukemia virus</strain>
+        <vo_id>VO_0011068</vo_id>
+        <ncbi_gene_id>1491868</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9630709</ncbi_protein_id>
+        <gene_locus_tag>FeLVgp2</gene_locus_tag>
+        <gene_refseq>AF052723</gene_refseq>
+        <protein_refseq>NP_047256</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11768</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>5987</gene_start>
+        <gene_end>7915</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Env polyprotein</protein_name>
+        <protein_pi>8.36</protein_pi>
+        <protein_weight>67586.88</protein_weight>
+        <protein_length>642</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001940.1:5987-7915 Feline leukemia virus, complete genome
+GATGGAAAGTCCAACGCACCCAAAACCCTCTAAAGATAAGACTCTCTCGTGGAACTTAGCGTTTCTGGTG
+GGGATCTTATTCACAATAGACATAGGAATGGCCAATCCTAGTCCACACCAAATATATAATGTAACTTGGG
+TAATAACCAATATGCAAACTAACACCCAAGCTAATGCCACCTCTATGTTAGGAACCTTAACCGATGCCTA
+CCCTACCCTACATGTTGACCTATGTGACCTAGTGGGAGACACCTGGGAACCTATAGTCCTAGATCCAACC
+AATGTAAAACACGGGGCACGTTACTCCTCCTCAAAGTATGGATGTAAAACTACAGATAGAAAAAAACAGC
+AACAAACATACCCCTTTTACGTCTGCCCCGGACATGCCCCCTCGCTGGGGCCAAAGGGAACACATTGTGG
+AGGGGCACAAGATGGGTTTTGTGCCGCATGGGGATGTGAGACCACCGGAGAAGCTTGGTGGAAGCCCTCC
+TCCTCATGGGACTATATCACAGTAAAAAGAGGGAGTAGTCAGGACAATAGCTGTGAGGGAAAATGCAACC
+CCCTGATTTTGCAGTTCACCCAGAAGGGAAGACAAGCCTCTTGGGACGGACCTAAGATATGGGGATTGCG
+ACTATACCGTACAGGATATGACCCTATCGCCTTATTCACGGTGTCCCGGCAGGTGTCAGCCATTACGCCG
+CCTCAGGCAATGGGACCAAACCTAGTCTTACCTGATCAAAAACCCCCATCCAGACAATCCCAAACAGGGT
+CCAAAGTGGCGACCCAGAGGCTCCAAACGACTGAAAGCGCCCCAAGGTCTGTTGCCCCCACCACCGTGGG
+TCCCAAACGGATTGGGACCGGAGATAGGTTAATAAATTTAGTACAAGGGACATACCTAGCCTTAAATGCC
+ACCGACCCCAACAAAACTAAAGACTGTTGGCTCTGCCTGGTTTCTCGACCACCCTATTACGAAGGGATTG
+CAATCTTAGGTAACTACAGCAACCAAACAAACCCCCCCCCATCCTGCCTATCTACTCCGCAACACAAACT
+GACCATATCTGAAGTATCAGGGCAAGGACTGTGCATAGGGACTGTTCCTAAGACCCACCAGGCTTTGTGC
+AATGAGACACAACAGGGACATACAGGGGCGCACTATCTAGCCGCCCCCAATGGCGCCTATTGGGCCTGTA
+ACACTGGACTCACCCCATGCATTTCCATGGCGGTGCTCAATTGGACCTCTGATTTTTGTGTCTTAATCGA
+ATTATGGCCCAGAGTGACTTACCATCAACCCGAATATGTGTACACACATTTTGCCAAAGCTGTCAGGTTC
+CGAAGAGAACCAATATCACTAACTGTTGCCCTCATGTTGGGAGGACTCACTGTAGGGGGCATAGCCGCGG
+GGGTCGGAACAGGGACTAAAGCCCTCCTTGAAACAGCCCAGTTCAGACAACTACAAATGGCCATGCACAC
+AGACATCCAGGCCCTAGAAGAGTCAATTAGTGCCTTAGAAAAGTCCCTGACCTCCCTTTCTGAAGTAGTC
+TTACAAAACAGACGGGGCCTAGATATTCTATTCTTACAAGAGGGAGGGCTCTGTGCCGCATTAAAAGAAG
+AATGTTGCTTCTATGCGGATCACACCGGACTCGTCCGAGACAATATGGCTAAATTGAGAGAAAGACTAAA
+ACAGCGGCAACAACTGTTTGACTCCCAACAGGGATGGTTTGAAGGATGGTTCAACAAGTCCCCCTGGTTC
+ACAACCTTAATTTCCTCCATTATGGGCCCCTTACTAATCCTACTCCTAATTCTCCTCTTCGGCCCATGCA
+TCCTTAACAGATTAGTACAATTCGTAAAAGACAGAATATCTGTGGTACAAGCCTTAATTTTAACCCAACA
+GTACCAACAGATAAAGCAATACGATCCGGACCGACCATG
+
+</dna_sequence>
+        <protein_sequence>>NP_047256.1 Env polyprotein [Feline leukemia virus]
+MESPTHPKPSKDKTLSWNLAFLVGILFTIDIGMANPSPHQIYNVTWVITNMQTNTQANATSMLGTLTDAY
+PTLHVDLCDLVGDTWEPIVLDPTNVKHGARYSSSKYGCKTTDRKKQQQTYPFYVCPGHAPSLGPKGTHCG
+GAQDGFCAAWGCETTGEAWWKPSSSWDYITVKRGSSQDNSCEGKCNPLILQFTQKGRQASWDGPKIWGLR
+LYRTGYDPIALFTVSRQVSAITPPQAMGPNLVLPDQKPPSRQSQTGSKVATQRLQTTESAPRSVAPTTVG
+PKRIGTGDRLINLVQGTYLALNATDPNKTKDCWLCLVSRPPYYEGIAILGNYSNQTNPPPSCLSTPQHKL
+TISEVSGQGLCIGTVPKTHQALCNETQQGHTGAHYLAAPNGAYWACNTGLTPCISMAVLNWTSDFCVLIE
+LWPRVTYHQPEYVYTHFAKAVRFRREPISLTVALMLGGLTVGGIAAGVGTGTKALLETAQFRQLQMAMHT
+DIQALEESISALEKSLTSLSEVVLQNRRGLDILFLQEGGLCAALKEECCFYADHTGLVRDNMAKLRERLK
+QRQQLFDSQQGWFEGWFNKSPWFTTLISSIMGPLLILLLILLFGPCILNRLVQFVKDRISVVQALILTQQ
+YQQIKQYDPDRP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study describes experiments which demonstrate that the vaccine, (EURIFEL FeLV; Merial) that expresses the FeLV env and gag protective genes, is effective against any oronasal FeLV challenge. The protection was shown to be solid against an oronasal challenge one year after the initial vaccination, and was effective against a very severe 'in-contact' challenge [Ref1083:Poulet et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene466">
+        <gene_name>gag</gene_name>
+        <strain>Feline leukemia virus</strain>
+        <vo_id>VO_0011069</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>323916</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:307339
+CDD:307969
+CDD:197667</xrefs>
+        <taxonomy_id>11768</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>gag-p15 polyprotein</protein_name>
+        <protein_pi>8.84</protein_pi>
+        <protein_weight>55430.88</protein_weight>
+        <protein_length>555</protein_length>
+        <protein_note>serogroup: B</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA43055.1 gag [Feline leukemia virus]
+MGQTVTTPLSLTLDHWSEVRARAHNQGVEVRKKKWITLCEAEWVMMNVGWPREGTFSLDNISQVEKKIFA
+PGPHGHPDQVPYITTWRSLATDPPSWVRPFLPPPKPPTPLPQPLSPQPSAPLTSSLYPVVPKPDPPKPPV
+LPPDPSSPLIDLLTEEPPPYPGGHGPPPSGPRTPAASPIASRLRERRENPAEESQALPLREGPNNRPQYW
+PFSASDLYNWKSHNPPFSQDPVALTNLIESILVTHQPTWDDCQQLLQALLTGEERQRVLLEARKQVPGED
+GRPTQLPNVIDETFPLTRPNWDFATPAGREHLRLYRQLLLAGLRGAARRPTNLAQVKQVVQGKEETPAAF
+LERLKEAYRMYTPYDPEDPGQAASVILSFIYQSSPDIRNKLQRLEGLQGFTLSDLLKEAEKIYNKRETPE
+EREERLWQRQEERDKKRHKEMTKVLATVVAQNRDKDREENKLGDQRKIPLGKDQCAYCKEKGHWVRDCPK
+RPRKKPANSTLLNLED
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The vaccine, (EURIFEL FeLV; Merial) that expresses the FeLV env and gag protective genes, is effective against any oronasal FeLV challenge. The protection was shown to be solid against an oronasal challenge one year after the initial vaccination, and was effective against a very severe 'in-contact' challenge [Ref1083:Poulet et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference5017">
+		<reference_name>Clark et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Clark N, Kushner NN, Barrett CB, Kensil CR, Salsbury D, Cotter S</authors>
+		<title>Efficacy and safety field trials of a recombinant DNA vaccine against feline leukemia virus infection</title>
+		<year>1991</year>
+		<volume>199</volume>
+		<issue>10</issue>
+		<pages>1433-1443</pages>
+		<journal_book_name>Journal of the American Veterinary Medical Association</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2429">
+		<reference_name>Hanlon et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hanlon L, Argyle D, Bain D, Nicolson L, Dunham S, Golder MC, McDonald M, McGillivray C, Jarrett O, Neil JC, Onions DE</authors>
+		<title>Feline leukemia virus DNA vaccine efficacy is enhanced by coadministration with interleukin-12 (IL-12) and IL-18 expression vectors</title>
+		<year>2001</year>
+		<volume>75</volume>
+		<issue>18</issue>
+		<pages>8424-8433</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4966">
+		<reference_name>Marciani et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Marciani DJ, Kensil CR, Beltz GA, Hung CH, Cronier J, Aubert A</authors>
+		<title>Genetically-engineered subunit vaccine against feline leukaemia virus: protective immune response in cats</title>
+		<year>1991</year>
+		<volume>9</volume>
+		<issue>2</issue>
+		<pages>89-96</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1083">
+		<reference_name>Poulet et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Poulet H, Brunet S, Boularand C, Guiot AL, Leroy V, Tartaglia J, Minke J, Audonnet JC, Desmettre P</authors>
+		<title>Efficacy of a canarypox virus-vectored vaccine against feline leukaemia</title>
+		<year>2003</year>
+		<volume>153</volume>
+		<issue>5</issue>
+		<pages>141-145</pages>
+		<journal_book_name>The Veterinary record</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3258">
+		<reference_name>Tartaglia et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tartaglia J, Jarrett O, Neil JC, Desmettre P, Paoletti E</authors>
+		<title>Protection of cats against feline leukemia virus by vaccination with a canarypox virus recombinant, ALVAC-FL</title>
+		<year>1993</year>
+		<volume>67</volume>
+		<issue>4</issue>
+		<pages>2370-2375</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1432">
+		<reference_name>Wiki:  Feline leukemia virus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Feline leukemia virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Feline_leukemia_virus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

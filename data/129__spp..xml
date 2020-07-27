@@ -1,0 +1,3215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen195">
+		<pathogen_name>Leptospira spp.</pathogen_name>
+		<taxon_id>171</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Leptospirosis</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1629">Leptospirosis is transmitted by the urine of an infected animal and is contagious as long as it is still moist. Although rats, mice and moles are important primary hosts, a wide range of other mammals including dogs, deer, rabbits, hedgehogs, cows, sheep, raccoons, possums, skunks, and certain marine mammals are able to carry and transmit the disease as secondary hosts (Wiki: Leptospirosis).</host_range>
+		<introduction refs="reference1629">Leptospirosis (also known as Weil's disease, Weil's syndrome, canicola fever, canefield fever, nanukayami fever, 7-day fever, Rat Catcher's Yellows, Fort Bragg fever, and Pretibial fever) is a bacterial zoonotic disease caused by spirochaetes of the genus Leptospira that affects humans and a wide range of animals, including mammals, birds, amphibians, and reptiles. The disease was first described by Adolf Weil in 1886 when he reported an &quot;acute infectious disease with enlargement of spleen, jaundice and nephritis&quot;. Leptospira was first observed in 1907 from a post mortem renal tissue slice. In 1908, Inada and Ito first identified it as the causative organism and in 1916 noted its presence in rats. Though recognised among the world's most common zoonoses, leptospirosis is a relatively rare bacterial infection in humans. The infection is commonly transmitted to humans by allowing water that has been contaminated by animal urine to come in contact with unhealed breaks in the skin, the eyes, or with the mucous membranes. Outside of tropical areas, leptospirosis cases have a relatively distinct seasonality with most of them occurring August–September/February–March.
+
+Leptospirosis is caused by a spirochaete bacterium called Leptospira spp. that has at least 5 serovars of importance in the United States and Canada causing disease in dogs (Icterohaemorrhagiae, Canicola, Pomona, Grippotyphosa, and Bratislava).There are other (less common) infectious strains. Genetically different leptospira organisms may be identical serologically and vice versa. Hence, an argument exists on the basis of strain identification. The traditional serologic system is seemingly more useful from a diagnostic and epidemiologic standpoint at the moment (which may change with further development and spread of technologies like PCR).
+
+Leptospirosis is transmitted by the urine of an infected animal and is contagious as long as it is still moist. Although rats, mice and moles are important primary hosts, a wide range of other mammals including dogs, deer, rabbits, hedgehogs, cows, sheep, raccoons, possums, skunks, and certain marine mammals are able to carry and transmit the disease as secondary hosts. Dogs may lick the urine of an infected animal off the grass or soil, or drink from an infected puddle. There have been reports of &quot;house dogs&quot; contracting leptospirosis apparently from licking the urine of infected mice that entered the house. The type of habitats most likely to carry infective bacteria are muddy riverbanks, ditches, gullies, and muddy livestock rearing areas where there is regular passage of either wild or farm mammals. There is a direct correlation between the amount of rainfall and the incidence of leptospirosis, making it seasonal in temperate climates and year-round in tropical climates.
+
+Leptospirosis is also transmitted by the semen of infected animals. Slaughterhouse workers may contract the disease through contact with infected blood or body fluids.
+
+Humans become infected through contact with water, food, or soil containing urine from these infected animals. This may happen by swallowing contaminated food or water, or through skin contact. The disease is not known to be spread from person to person and cases of bacterial dissemination in convalescence are extremely rare in humans. Leptospirosis is common among water-sport enthusiasts in specific areas as prolonged immersion in water is known to promote the entry of the bacteria. Surfers and whitewater paddlers are at especially high risk in areas that have been shown to contain the bacteria, and can contract the disease by swallowing contaminated water, splashing contaminated water into their eyes or nose, or exposing open wounds to infected water. Occupations at risk include veterinarians, slaughterhouse workers, farmers, sewer workers, and people working on derelict buildings. Rowers are also sometimes known to contract the disease (Wiki: Leptospirosis).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine2166">
+		<vaccine_name>Bovine Rhinotracheitis Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4019.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001880</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2168">
+		<vaccine_name>Bovine Rhinotracheitis Modified Live Virus Vaccine-Leptospira Grippotyphosa-Hardjo-Pomona Bacterin (USDA: 4059.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001881</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2170">
+		<vaccine_name>Bovine Rhinotracheitis Modified Live Virus Vaccine-Leptospira Hardjo-Pomona Bacterin (USDA: 4069.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001882</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2172">
+		<vaccine_name>Bovine Rhinotracheitis Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4089.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001883</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2174">
+		<vaccine_name>Bovine Rhinotracheitis Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4089.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Heska Corporation, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001884</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2180">
+		<vaccine_name>Bovine Rhinotracheitis-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4129.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001892</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2183">
+		<vaccine_name>Bovine Rhinotracheitis-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Grippotyphosa-Hardjo-Pomona Bacterin (USDA: 4179.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001893</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2186">
+		<vaccine_name>Bovine Rhinotracheitis-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4209.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001894</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2198">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4145.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001903</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2202">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4145.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001904</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2216">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4335.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001907</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2219">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4336.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001908</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2194">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4141.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id>VO_0001914</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2222">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4339.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001915</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2225">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Grippotyphosa-Hardjo-Pomona Bacterin (USDA: 4359.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001916</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2228">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Hardjo-Pomona Bacterin (USDA: 4399.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001917</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2231">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4389.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001918</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2234">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4389.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001919</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2237">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4389.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001920</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2255">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4435.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001922</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2241">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4560.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001931</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2245">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4560.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001932</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2251">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Haemophilus Somnus-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4489.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001933</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2259">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4439.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001934</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2263">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4439.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Heska Corporation, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001935</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2267">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Grippotyphosa-Hardjo-Pomona Bacterin (USDA: 4479.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001936</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2271">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4509.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company, Heska Corporation</manufacturer>
+		<vo_id>VO_0001937</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2282">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44M5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001951</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2288">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44M5.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001952</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2318">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001953</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2324">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B6.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001954</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2330">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B6.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001955</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2379">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D7.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001959</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2384">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D7.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001960</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2429">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4465.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Merial, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001962</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2433">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4465.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001963</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2437">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4465.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001964</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2441">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4466.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001965</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2445">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4466.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001966</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2485">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona-Mannheimia Haemolytica Bacterin (USDA: 4475.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001967</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2336">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001975</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2342">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B9.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001976</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2457">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001978</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2461">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001979</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2473">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001980</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2481">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001981</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2294">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id>VO_0001982</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2300">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B1.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001983</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2306">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B1.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001984</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2312">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44B1.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001985</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2389">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001990</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2394">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001991</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2399">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D9.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001992</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2404">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Haemophilus Somnus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 44D9.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001993</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2413">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4461.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Intervet Inc., Heska Corporation</manufacturer>
+		<vo_id>VO_0001994</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2417">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4461.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001995</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2421">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4461.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc.</manufacturer>
+		<vo_id>VO_0001996</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2425">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4461.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001997</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2449">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0001998</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2453">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001999</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2465">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002000</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2469">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002001</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2477">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4469.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002002</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2276">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Hardjo Bacterin (USDA: 4L49.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002003</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2511">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4367.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0002013</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2515">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4367.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002014</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2519">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Respiratory Syncytial Virus Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4367.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Heska Corporation</manufacturer>
+		<vo_id>VO_0002015</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2540">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 45B5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002023</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2546">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4595.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002025</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2548">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4595.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002026</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2550">
+		<vaccine_name>Bovine Virus Diarrhea Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4599.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0002027</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2558">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Borrelia Burgdorferi Bacterin-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 47E5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002244</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2555">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Borrelia Burgdorferi Bacterin-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 47E5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002243</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2560">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46E5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002222</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2562">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46E5.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002224</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2564">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 46E5.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002223</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2566">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 46E5.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002225</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2568">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46E5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002221</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2570">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Leptospira Icterohaemorrhagiae Bacterial Extract (USDA: 46D5.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002220</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2573">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2 Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 4629.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002207</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2576">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2 Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4629.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002206</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2595">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Borrelia Burgdorferi Bacterin-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46B9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002219</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2601">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46J9.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002231</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2607">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46J9.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002234</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2613">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterin (USDA: 47L9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002246</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2619">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 46J9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002230</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2625">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 46J9.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002232</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2631">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 46J9.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002233</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2637">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J7.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002226</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2643">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J7.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002227</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2649">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002229</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2661">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Icterohaemorrhagiae Bacterial Extract (USDA: 46L9.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002236</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2655">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live Virus, Live Canarypox Vector Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J9.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002235</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2666">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Icterohaemorrhagiae Bacterial Extract (USDA: 46P9.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002237</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2670">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4659.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002218</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2675">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 4637.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002211</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2680">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 4639.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002214</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2685">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterin (USDA: 47K1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002245</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2690">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 4639.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002215</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2695">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 4639.28)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002216</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2700">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4637.20)_</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2705">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4637.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002209</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2710">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4637.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002210</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2715">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4639.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002212</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2720">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4639.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002213</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2730">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J8.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002228</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2725">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus, Live Canarypox Vector Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4639.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002217</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2735">
+		<vaccine_name>Canine Distemper-Hepatitis-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 47P9.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002247</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2737">
+		<vaccine_name>Canine Parainfluenza Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 47A9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0004213</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2739">
+		<vaccine_name>Canine Parvovirus Modified Live Virus Vaccine-Leptospira Canicola Icterohaemorrhagiae Bacterin (USDA: 47B1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002240</vo_id>
+		<type></type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3918">
+		<vaccine_name>Leptospira interrogans DNA vaccine ompL1-pcDNA3.1(+)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004562</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1(+) [Ref2683:Maneewatch et al., 2007]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1459" gene_id="gene1649">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1559" host_id="host16">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2683">The vaccine was shown to confer the delay in the death time and reduced morbidity in the vaccinated animals when compared to animals immunized with the plasmid alone or PBS.  Hamsters of group 2 (mock) and group 3 (positive leptospirosis) were all dead between days 5 and 6 post-challenge. For the vaccinated group, two hamsters were dead on day 9, one each died on days 11 and 18, respectively. Two hamsters survived the lethal Leptospira challenge until day 21 when they were sacrificed (Maneewatch et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3919">
+		<vaccine_name>Leptospira interrogans DNA vaccine pTARGET/ LigBrep</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004563</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pTARGET [Ref2684:Forster et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1460" gene_id="gene1650">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1560" host_id="host16">
+			<immune_response refs="reference2684">The vaccine induced an IgG antibody response and, additionally, conferred sterilizing immunity in 80% of the surviving animals (Forster et al., 2013).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2684">Immunization with a DNA vaccine encoding LigBrep resulted in the survival of 5/8 (62.5%) hamsters against lethal infection (P &lt; 0.05). None of the control hamsters or animals immunized with the other vaccine preparations survived (Forster et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2921">
+		<vaccine_name>Parainfluenza 3 Modified Live Virus Vaccine-Leptospira Pomona Bacterin (USDA: 4989.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0002295</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2926">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4BC5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002321</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2929">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4BC5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002322</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2932">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4BC5.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002323</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2935">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 48C5.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002277</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2938">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 48C5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002278</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2941">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 48C5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc., Pfizer, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002279</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2944">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 48C5.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002280</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2946">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4975.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002292</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2948">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4975.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002293</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2950">
+		<vaccine_name>Parvovirus Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4975.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0002294</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2952">
+		<vaccine_name>Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4960.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002291</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2956">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus  Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49F6.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002309</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2960">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus  Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49F6.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002310</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2964">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus  Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Bratislava-Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49F6.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002311</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2968">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49G6.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002312</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2972">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49G6.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002313</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2976">
+		<vaccine_name>Parvovirus-Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 49G6.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002314</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2990">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome-Parvovirus Reproductive Form, Modified Live &amp; Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4P19.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002324</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3037">
+		<vaccine_name>Trichomonas Foetus Vaccine, Killed Protozoa-Campylobacter Fetus-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4990.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002296</vo_id>
+		<type></type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene1650">
+        <gene_name>ligB</gene_name>
+        <strain>Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2771118</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>45656362</ncbi_protein_id>
+        <gene_locus_tag>LIC10464</gene_locus_tag>
+        <gene_refseq>AE016823</gene_refseq>
+        <protein_refseq>YP_000448</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>267671</taxonomy_id>
+        <chromosome>I</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>526394</gene_start>
+        <gene_end>532066</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>hypothetical protein</protein_name>
+        <protein_pi>7.03</protein_pi>
+        <protein_weight>190366.08</protein_weight>
+        <protein_length>1890</protein_length>
+        <protein_note>Big; identified by sequence similarity; ORF located using Blastx/Glimmer</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_005823.1:526394-532066 Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130, chromosome I, complete sequence
+ATTATTGATTCTGTTGTCTGTAAATTTTGACCGGTTTATTTTTGTTTCCTACGCTTATATATACGAAATT
+TACACCAAAATTCATTCCGGATATAGCCGAATAAATTTGACGATTGGTAACGTCTCTTAATCCGCCTATT
+CCTATAGGTTCCCAGTTGTGTGATGAACTTCCAGGATTTTCAAGATTTGTTCTCCAGATTTGAATTCCGT
+TTTCGTTATCAAAACCTATGTAGAGATAAGATCCACTTGCAACCATCATCGTCATACTGTGATTGGAATT
+GTCTCCAAAGTTTGTAAATCCGGTTCCGTTATCTCCTACTAAAGACCAATCTTCTGCTTCGCAGGTTGTT
+GTATCGCCGGTTAGAGTCGGATCACATTTCCAAAGTTGGGGTCTTCGATTTGTATAACTTCCGTCCGTAC
+AACCTTCCACAGTTTGTAAACTTTGTCTGAGTCCGGAGTGATCTTCTTTCGTTACGCAGATCGTTCTTGT
+TACATACAATCTTCCGTTAAATTCTGCGAATTGAGAGAATGCTTTATCCGCCGGAATTAAATTCCGATAC
+TTTGTAAGCTCCAGTGAAAACCAATTGTTATGAGGAGAGTTATGCCACTTCGGATTGGATCTAGGTGCTG
+TGTCTTTCCAACTGGAACAACGATTGCTCCCCTCACAAGGACTAGGATTTGCACTGGTAGAGTGTATTAT
+ACTTCCATTATGTAGTGAATTTGGAAATCCTCCGTTTGCGGCGTAAAGTTTTTCTTTAAAAACGAATAGA
+GAATCTATTCCCACATAATAACCCCAGTTGATCGAGGAGTTATCAGATGTATAAGTTTCATAATTGTCTG
+CATCCTCCACGGAGAGGCCGCCGAAATAAGGCATTCTATCGATTCTAAAACGATTACCGCGGTATCCGTC
+AGAGGCGTCACAATTGTTTCCGGCTGCACATCTATTTTGATCGGATGTATTAAAGGTGATTTTACCGAAA
+TCAGGTGCGTTTAGATTTTTATTTTTTTTTGCAAAACCCACATGGATCCGATCGTCTATAACCGCGATAG
+ATGAAGTTCCTGCAGTCGCCGTTCCAGTAATTTCTCCCATATCGATATATTTAAAATTAAGATTTGTATC
+GGTATCTGAGGAATAATAGAGATAGTCGAATCTCCTTGGTCTTGAACCTGCTATAAAAATATGAGATTTT
+TTGTTTAATGATCCGATGGCAAAAACTCCACGTCCATCTTCGTTATCCGGACCACATCCAGTAGTAATGT
+CTGCACTATTGAGAGTACAACCGGTATGACCGATCGTAACGTAATTCGGAACCGGAATTCCTCCATCTCT
+TGAAGACGCACGGTTATCGGCATTTATATCTTTGGTAAAAGAGAAAAAAATAGATTCGGGAAAAGTTCCG
+TCGTAATTGAATCGAGCTGCTTGGTTTCCTTTTACATTCGGTCCTAGATAGATTTGATTGTTGTAATCTA
+CAAGAAAGCCGAAATCGGAACCGTCTCCAAAAGGATCTGACATGATCGGGCCATCCATAAAGTTGAGAGG
+GGAATTTCCACAACCTATAAAGTTGATTCTATCTTTCGGAGAAGATTGTAGGTTTTCTTGATCGAATGAA
+TCTCTAATTGCTCCCCAGGATTTGTTGTCAAAGCCGTCTCCGTTCAAATCATTTGCGGCGATGATCGTAT
+ATTGACCACCTGATTGAAGAAGGGAGTGTGTTAAACATATTTTCGAGGAGTCTGCCGGTGCTCCACCGCA
+TACTTTTCCATCTAAAATTCTAACGCTCGTAATACTTCCCAATGAAGACACACCTGCAAATTTATATCTG
+GATTCACACTGGGACGGATTTGAACATTCCACGGATTTTGTTGCTTCCTTTCCCGAATATAAAGGTTTGG
+AAAAAGAAACGATCACTTGGTTTAAGGAATTACAAACTGCACTTGTAAGTTTGAGTTGTTCTTTTCCTAT
+AAAATCAGAGTTATTTGGACAACTTAAGGAATTTGGAATGGAAGAAAGATCGTGAATTCCTTGTTTGTTG
+ACTACAAGTGTGTATGATTTGTTTAAGATTTGTGAATGTGAAAGTGTGATCGTAAAAGTATTTTTACTTC
+CTTTGATACTACTAAGAGAAAAATCTGCGGTTTGAGAATTGGAATTGAAGTCCGTATTATCTGAACAATG
+TCCTATAAAATTGGAACTATCAATTATTTTGTAATTGGATAAATCAAGGGCTTCCTTATTGTTTATGGAT
+TCTGAATATACAACTTGGATGGTAGTAGGTGATAAGGAAACTACCGATTGAACCGTTGGAGCTATCGTGT
+CCGTTTTGTTTACTGTGAGGATTGTATTTCCAGATACTGAACCGTAGGTCGCTGTGATTATAGAGTTTCC
+AGAAGCAATCCCTGTAACCAATCCTTTCGTTTTAGATGCGTTACTCACCTTTGCCTGAGATTTATTTGAG
+CTGGACCATGTAACCGAAGAAGTTAAATCCGCTTTGGTCCCATCCGAATACGTTCCCACCGCGAAAAATT
+GTTTTGATACGGTTGCGTTTATATTTGTATTGATAGGAGATATTGAAATCGAAGAAAGGGTTGCTGCGCT
+GACCGTTATGTCTATGTTTTCCGAGATGGAATTGTAAGTCGCAGTGATTTTGCTGTTTCCAATCTGTAAA
+GCGGTCGCTTTTCCCTTGGTTTCGGTCGAATTAGAGATGCTGATCGAGTCAGAATTGGAACTGGACCAGG
+TAACTGAATCGCTGATGTCCTGAATGGTGGAGTCTGAATAAACGCCAAGCGCAGTATATTGTTGGGTAAG
+TCCCTTGGCGATGTTATTGTTGACTGGATTGATTTTAATGGAATCTAACGTGGCAGCACTTACATTAAAA
+TTTATTTTATTACTGCTTATAGAATTGTAAATCGCAGAGATGTTGGAAGAACCTATTGAAAGTGCGGTTG
+CTAAACCTTTTGCATTGGCAGCGTTATTGATAGGGGCAACGTCGGATTTGGAAGAATACCAGGTCACAAG
+ATTCGTAATTTCTTGTTCAGAGCCATCTATAAAAGTTCCGATCGCTTTAAATTGCTGGGTCAATCCTTTG
+GCTATTGAACTTGAGGAAGGACTGATAGTTATACTTTTCAGTTTTAAGTCAGTGACTGTAATCGGAATTG
+GGGAGCTTTGGATGAATTTGTAGACGGCCTTAATATTCGAACTTCCTAATTTAGAGGCTGTCGCTATACC
+TTTTTTACCGGAAGTGTTTTCGATCTCAATCTTAGATGGATCGGAAGAAATCCAAGTTACAAGCTGAGTC
+AAATTTTGAGTAGATTTATCTGAAAAGATACCAGTCGCTTTAAATTGTTTTGTAAGACCGTGAGTGATAG
+AGTTAATCGTCGGTGTTATCTCGATAGAAGTAAGAAGTGCAGGAGTGACATTCAAAACGGAAGAGCCAGA
+TATGGAGTCTATCGTTGCTTTAATATTTGTATTTCCGGTAGCCACTGTTGTAACCGAACCTGTAACGTTG
+TTAACCATTGCTTTTCCGGGATTGGAAGAAGACCAGGTAGCTAGGGCAGTCACGTCTTGTACGGAATGAT
+CCGTATATGTTCCGGTGGCTTTAAATTGTCGTATTAGACCTTTTGCAACTGACGGATTTATAGGTGTTAC
+GGCAATGGAAATCAATTGTGCCGGAGTTACCTTTAAAATTACTTTAGAACTTTTGATTGAACCGAGGGCT
+GCGGATATTTCACTCGATCCTGGAGTGAGTGTATTTGTAATACCTTTACTTCCACTGGTATTTTTAATTT
+CAGCAATATCCGTATTAGAGGAATTCCAGGTAACTTGATTTGTAATATCGGAATTTGAGTTATCCGTAAA
+GATACCAGTAGCCTTGAATCTTTCTGTGAGTCCCTTTGCTTTGGAAGCAGCAGCCGGTGTGATTTGGATT
+TCAACAAGCTTTGCAGCTGTAACAGATAACGTAGAAACCGGACTACTTACCTTTCCGAATGTGGCTTTAA
+TATCCGTTGCTCCTGTAGCTGCTCCGTAAGCGTTTCCTTGATTTTTTTGGGCGTTTGAAATCGTCGCGAT
+TGAAGAATCGGATGAGAACCACGTAACAGCGGAAGTAATGTCCTTGTTAGAGTTGTCAGAGTAGATCCCA
+GTAGCCGTAAATTTTTGAGTTAACCCTTTTGCAAGAGAAGGATTTACAGGATTGATTTGAATAGAAGTGA
+GAACCGCAGGAACTACAGTAAACCAAGTGTTACCTGAAACTTTTCCTAAGGTTGCGGTAATAGTCGTGTT
+TCCAACTGAGTTGGTTTTTCCCAGACCTTTATTGTTGTCTAAGTTAGACACGCTTACGATTGCTGAAGAA
+GAATTCCAAGTGACTTGATCCGTAATATCCTTCTTAGAGTTATCCGTAAAAATCCCGATCGCAGTAAACT
+TTTGAGTTAGTCCTTTTGCAATGGAAGTGCGAGTTGGAGAGACTTCGATGGAAGTCAATGCAGCTTGTGT
+AACTTTAAAATCAGTGGATCCTTGTATTCCACCGATGGAAGCAGTGACTTTAACATTCCCTTGGTTGAGT
+GTGGAAGCTAATCCGTGGCTATCACTTGCATTGGAAATTGAGAGAATATCGGTATTAGAAGAATCCCAAG
+TAACTTGGTCGGTAATATCCGAGTTTGAATTATCTGTAAAGATCCCTGTAGCTTTAAAGTTTTCTTGTAA
+ACCTTTTGCAACTGTAGAATTTGTCGGAGAAACAGAAATAGAAACTAAGGCTGCTGGAGTAACGATTAGT
+TTTACGGATCCGATTATATTCTCGCTAGAAGCAGAAACAGTGACAATACCAGTATCAGCTGTTTCTAATA
+TTCCGTTGTTTTGAATATTAGCGATAGTGGAATTAGAAGAATTCCAAATAACAGAAGAGGAAATATCCCT
+GTTAGAGTTATCCGAATAGATTCCCGTAGCTGTTAGTTTTTGTTTTTTTCCGAGAGGAATATTCAGATCG
+TTTGAAGTTACTTGGATTTGAGAGAGAACAGCATCTCCAACGGTCATTTCTTCAGCCCCTTGTTTTGATT
+GAAAGGATGCACGAATATGAGCTGTTCCTAAATTGATCCCTGATGCCAACCCTGAATCATCTACTCGAAC
+CAAATCAGGATTACTGGAAGACCAAACGATCAGTGGTTCGTTGGAAATATCCTGATGAGAACCATCCGAA
+AAGATACCGATGGCTGAGAATTGACGATTAGTACCTTTAGGTAGTATACCTGACTCTAAACTCGTAACTT
+GAATTGAGTTAAGAATGGCTGGTGTAACGGTAATTTTTTGTTCAGAGTATAGGCCGTTGTATTCTGCTTT
+TATAATGGAAGAACCAGAAGCGATTCCTTTGACTCTGTTGCCTTCGATTGTTACAACGGATTGGGAATCG
+GGGACGATGGATGTCAAATCCGTAATATTCTGATTTGTTCCGTTATCAAAGATTGCGGTAACTTCTAGGG
+TTGTACTGGTACCGTTTGCGATAGAAGAATCTTGATAACTAAGTTCGATTCTTGTAATAGTCGGATTGAA
+GTTACCTAACAGAAGGTGGAAAAAGGACAGCCCATTACTTTTTTTACCAGCGGTTAATCCTACCAGACCG
+GTTAAAAGTGGCCAAGACATACAACTTTGAAAAAACATCGAAAGAAAAATCGAAATACAAAATATTTTCT
+TCA
+
+</dna_sequence>
+        <protein_sequence>>YP_000448.1 hypothetical protein LIC10464 [Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130]
+MKKIFCISIFLSMFFQSCMSWPLLTGLVGLTAGKKSNGLSFFHLLLGNFNPTITRIELSYQDSSIANGTS
+TTLEVTAIFDNGTNQNITDLTSIVPDSQSVVTIEGNRVKGIASGSSIIKAEYNGLYSEQKITVTPAILNS
+IQVTSLESGILPKGTNRQFSAIGIFSDGSHQDISNEPLIVWSSSNPDLVRVDDSGLASGINLGTAHIRAS
+FQSKQGAEEMTVGDAVLSQIQVTSNDLNIPLGKKQKLTATGIYSDNSNRDISSSVIWNSSNSTIANIQNN
+GILETADTGIVTVSASSENIIGSVKLIVTPAALVSISVSPTNSTVAKGLQENFKATGIFTDNSNSDITDQ
+VTWDSSNTDILSISNASDSHGLASTLNQGNVKVTASIGGIQGSTDFKVTQAALTSIEVSPTRTSIAKGLT
+QKFTAIGIFTDNSKKDITDQVTWNSSSAIVSVSNLDNNKGLGKTNSVGNTTITATLGKVSGNTWFTVVPA
+VLTSIQINPVNPSLAKGLTQKFTATGIYSDNSNKDITSAVTWFSSDSSIATISNAQKNQGNAYGAATGAT
+DIKATFGKVSSPVSTLSVTAAKLVEIQITPAAASKAKGLTERFKATGIFTDNSNSDITNQVTWNSSNTDI
+AEIKNTSGSKGITNTLTPGSSEISAALGSIKSSKVILKVTPAQLISIAVTPINPSVAKGLIRQFKATGTY
+TDHSVQDVTALATWSSSNPGKAMVNNVTGSVTTVATGNTNIKATIDSISGSSVLNVTPALLTSIEITPTI
+NSITHGLTKQFKATGIFSDKSTQNLTQLVTWISSDPSKIEIENTSGKKGIATASKLGSSNIKAVYKFIQS
+SPIPITVTDLKLKSITISPSSSSIAKGLTQQFKAIGTFIDGSEQEITNLVTWYSSKSDVAPINNAANAKG
+LATALSIGSSNISAIYNSISSNKINFNVSAATLDSIKINPVNNNIAKGLTQQYTALGVYSDSTIQDISDS
+VTWSSSNSDSISISNSTETKGKATALQIGNSKITATYNSISENIDITVSAATLSSISISPINTNINATVS
+KQFFAVGTYSDGTKADLTSSVTWSSSNKSQAKVSNASKTKGLVTGIASGNSIITATYGSVSGNTILTVNK
+TDTIAPTVQSVVSLSPTTIQVVYSESINNKEALDLSNYKIIDSSNFIGHCSDNTDFNSNSQTADFSLSSI
+KGSKNTFTITLSHSQILNKSYTLVVNKQGIHDLSSIPNSLSCPNNSDFIGKEQLKLTSAVCNSLNQVIVS
+FSKPLYSGKEATKSVECSNPSQCESRYKFAGVSSLGSITSVRILDGKVCGGAPADSSKICLTHSLLQSGG
+QYTIIAANDLNGDGFDNKSWGAIRDSFDQENLQSSPKDRINFIGCGNSPLNFMDGPIMSDPFGDGSDFGF
+LVDYNNQIYLGPNVKGNQAARFNYDGTFPESIFFSFTKDINADNRASSRDGGIPVPNYVTIGHTGCTLNS
+ADITTGCGPDNEDGRGVFAIGSLNKKSHIFIAGSRPRRFDYLYYSSDTDTNLNFKYIDMGEITGTATAGT
+SSIAVIDDRIHVGFAKKNKNLNAPDFGKITFNTSDQNRCAAGNNCDASDGYRGNRFRIDRMPYFGGLSVE
+DADNYETYTSDNSSINWGYYVGIDSLFVFKEKLYAANGGFPNSLHNGSIIHSTSANPSPCEGSNRCSSWK
+DTAPRSNPKWHNSPHNNWFSLELTKYRNLIPADKAFSQFAEFNGRLYVTRTICVTKEDHSGLRQSLQTVE
+GCTDGSYTNRRPQLWKCDPTLTGDTTTCEAEDWSLVGDNGTGFTNFGDNSNHSMTMMVASGSYLYIGFDN
+ENGIQIWRTNLENPGSSSHNWEPIGIGGLRDVTNRQIYSAISGMNFGVNFVYISVGNKNKPVKIYRQQNQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1649">
+        <gene_name>ompL1</gene_name>
+        <strain>Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2769678</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>45656861</ncbi_protein_id>
+        <gene_locus_tag>LIC10973</gene_locus_tag>
+        <gene_refseq>AE016823</gene_refseq>
+        <protein_refseq>YP_000947</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>267671</taxonomy_id>
+        <chromosome>I</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1173341</gene_start>
+        <gene_end>1174303</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>outer membrane protein</protein_name>
+        <protein_pi>8.87</protein_pi>
+        <protein_weight>31373.06</protein_weight>
+        <protein_length>320</protein_length>
+        <protein_note>contains porin activity; identified by sequence similarity; ORF located using Blastx/Glimmer</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_005823.1:1173341-1174303 Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130, chromosome I, complete sequence
+CTTAGAGTTCGTGTTTATAACCGAATCTGTAGATTTGCCCACCGACAACGATTGGATATGCAGGAAAAGG
+AGAAAGGTTCGTAGCTCCTCCTGCAGATTGAGTTTTACCAACTGCATACGCAGCAGACATGATCGTTTCT
+AATTCAAGAAAAACGTGTCCTTTATCGGTTACTCTGGCCTGAGTTCCAATTAAAAAGTTAGGAGCAATTC
+CAGAAGTTCTAAATCGAACGTGTTCACGAGTCGTGACTGGATCTGTTCCGTCTGCGATCAAGTTTGCAAC
+ACTTCCCGCTCCCGCTGCAGCTAAAATGTCATGACCTCCTTTGAGGTTGTTTGATCCGTTTAAACTCCAT
+CCACCATTGAAATAGTTTAAACCTGCTCCCATATATATTGCAGCGTCTTCAGTAACATTCAATTTGATAC
+CAACGGTTGCAGGAATGACGATAGAACTAAAACCCCAAGTCATATCTACAATGTTATAACCAGCGATGTC
+TGCTTTTGTAATACCGCCAGAAATTTTTTGAGTATATTCTGCAGCAACTCTCCAGAAAAAATATTTACCA
+AAGTCGGACTCATAACCTACCATCAAGTTTCCTCCGACCATGGCGCCTTTAGTGCTTCTTGCGTTGATCA
+AGCCGCCAGTAGTTCTATCGAGGGTAATCAATTTATTTTCAGCAGGAATCGCTTTTCTGGGAGCAACTCC
+TAGATAATTTCCTTCACCTGTAGGTTTTCCTGGATTTTGTACACAAGTAGGATCGTTTGGACCTACTGTA
+CAAGTATCTGTTGATCGGACCGGGCCATAATAACTTGCAGCGTCTAAACCATCTTTGGTGATGGTTCCTC
+CTAATTGTCCTAGGTCTAACTGTAACCCAAATCCTACAATTGCATATGTTTTTGCACTTAGGCTTGCAGC
+CGAAGATAATGCTACGGCTAAAATGAGCAATGCCTTACTTATGTTACGGATCA
+
+</dna_sequence>
+        <protein_sequence>>YP_000947.1 outer membrane protein [Leptospira interrogans serovar Copenhageni str. Fiocruz L1-130]
+MIRNISKALLILAVALSSAASLSAKTYAIVGFGLQLDLGQLGGTITKDGLDAASYYGPVRSTDTCTVGPN
+DPTCVQNPGKPTGEGNYLGVAPRKAIPAENKLITLDRTTGGLINARSTKGAMVGGNLMVGYESDFGKYFF
+WRVAAEYTQKISGGITKADIAGYNIVDMTWGFSSIVIPATVGIKLNVTEDAAIYMGAGLNYFNGGWSLNG
+SNNLKGGHDILAAAGAGSVANLIADGTDPVTTREHVRFRTSGIAPNFLIGTQARVTDKGHVFLELETIMS
+AAYAVGKTQSAGGATNLSPFPAYPIVVGGQIYRFGYKHEL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4807">
+		<reference_name>Atzingen et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Atzingen MV, Vieira ML, Oliveira R, Domingos RF, Mendes RS, Barros AT, Gon�ales AP, de Morais ZM, Vasconcellos SA, Nascimento AL</authors>
+		<title>Evaluation of immunoprotective activity of six leptospiral proteins in the hamster model of leptospirosis</title>
+		<year>2012</year>
+		<volume>6</volume>
+		<issue></issue>
+		<pages>79-87</pages>
+		<journal_book_name>The open microbiology journal</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4923">
+		<reference_name>Conrad et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Conrad NL, Cruz McBride FW, Souza JD, Silveira MM, F�lix S, Mendon�a KS, Santos CS, Athanazio DA, Medeiros MA, Reis MG, Dellagostin OA, McBride AJ</authors>
+		<title>LigB subunit vaccine confers sterile immunity against challenge in the hamster model of leptospirosis</title>
+		<year>2017</year>
+		<volume>11</volume>
+		<issue>3</issue>
+		<pages>e0005441</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4932">
+		<reference_name>Evangelista et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Evangelista KV, Lourdault K, Matsunaga J, Haake DA</authors>
+		<title>Immunoprotective properties of recombinant LigA and LigB in a hamster model of acute leptospirosis</title>
+		<year>2017</year>
+		<volume>12</volume>
+		<issue>7</issue>
+		<pages>e0180004</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4743">
+		<reference_name>Fernandes et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fernandes LGV, Teixeira AF, Filho AFS, Souza GO, Vasconcellos SA, Heinemann MB, Romero EC, Nascimento ALTO</authors>
+		<title>Immune response and protective profile elicited by a multi-epitope chimeric protein derived from Leptospira interrogans</title>
+		<year>2017</year>
+		<volume>57</volume>
+		<issue></issue>
+		<pages>61-69</pages>
+		<journal_book_name>International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2684">
+		<reference_name>Forster et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Forster KM, Hartwig DD, Seixas FK, Bacelo KL, Amaral M, Hartleben CP, Dellagostin OA</authors>
+		<title>A Conserved Region of Leptospiral Immunoglobulin-Like A and B Proteins as a DNA Vaccine Elicits a Prophylactic Immune Response against Leptospirosis</title>
+		<year>2013</year>
+		<volume>20</volume>
+		<issue>5</issue>
+		<pages>725-731</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4742">
+		<reference_name>Humphryes et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Humphryes PC, Weeks ME, AbuOun M, Thomson G, N��ez A, Coldham NG</authors>
+		<title>Vaccination with leptospiral outer membrane lipoprotein LipL32 reduces kidney invasion of Leptospira interrogans serovar canicola in hamsters</title>
+		<year>2014</year>
+		<volume>21</volume>
+		<issue>4</issue>
+		<pages>546-551</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4710">
+		<reference_name>Lin et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lin X, Xiao G, Luo D, Kong L, Chen X, Sun D, Yan J</authors>
+		<title>Chimeric epitope vaccine against Leptospira interrogans infection and induced specific immunity in guinea pigs</title>
+		<year>2016</year>
+		<volume>16</volume>
+		<issue>1</issue>
+		<pages>241</pages>
+		<journal_book_name>BMC microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2683">
+		<reference_name>Maneewatch et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Maneewatch S, Tapchaisri P, Sakolvaree Y, Klaysing B, Tongtawe P, Chaisri U, Songserm T, Wongratanacheewin S, Srimanote P, Chongsa-nguanz M, Chaicumpa W</authors>
+		<title>OmpL1 DNA vaccine cross-protects against heterologous Leptospira spp. challenge</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<pages>75-82</pages>
+		<journal_book_name>Asian Pacific journal of allergy and immunology / launched by the Allergy and Immunology Society of Thailand</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4755">
+		<reference_name>Umthong et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Umthong S, Buaklin A, Jacquet A, Sangjun N, Kerdkaew R, Patarakul K, Palaga T</authors>
+		<title>Immunogenicity of a DNA and Recombinant Protein Vaccine Combining LipL32 and Loa22 for Leptospirosis Using Chitosan as a Delivery System</title>
+		<year>2015</year>
+		<volume>25</volume>
+		<issue>4</issue>
+		<pages>526-536</pages>
+		<journal_book_name>Journal of microbiology and biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4791">
+		<reference_name>Vijayachari et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vijayachari P, Vedhagiri K, Mallilankaraman K, Mathur PP, Sardesai NY, Weiner DB, Ugen KE, Muthumani K</authors>
+		<title>Immunogenicity of a novel enhanced consensus DNA vaccine encoding the leptospiral protein LipL45</title>
+		<year>2015</year>
+		<volume>11</volume>
+		<issue>8</issue>
+		<pages>1945-1953</pages>
+		<journal_book_name>Human vaccines &amp; immunotherapeutics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1629">
+		<reference_name>Wiki: Leptospirosis</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Leptospirosis</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Leptospirosis</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

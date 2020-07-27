@@ -1,0 +1,2702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen13">
+		<pathogen_name>Ebola virus</pathogen_name>
+		<taxon_id>205488</taxon_id>
+		<pathogenesis refs="reference76">Mononuclear phagocytes are the first targets of infection relevant to disease pathogenesis, followed by connective tissues and parenchymal cells. Cytokines are released when reticuloendothelial cells encounter virus, which can contribute to exaggerated nonprotective inflammatory responses. Ebola virus GP plays a vital role in infection. Virual GP appears to form a trimeric complex and binds preferentially to endothelial cells Infection of endothelial cells also induces a cytopathic effect and damage to the endothelial barrier that, together with cytokine effects, leads to the loss of vascular integrity. Cytokine dysregulation and virus infection may synergize at the endothelial surface, promoting hemorrhage and vasomotor collapse. Severity of infection is influenced by age, immune status, and viral virulence. Infection with species-adapted viruses may be lethal. The amount and location of fibin deposits varies with animal species. Strains show differing levels of virulence both across species and by route of administration. Microvascular damage and activation of the clotting cascade occurs. Death is secondary to massive cell death, fluid shifts, hemorrhages, and vascular abnormalities (Sullivan et al., 2003a).</pathogenesis>
+		<disease_name>Ebola hemorrhagic fever</disease_name>
+		<protective_immunity refs="reference76 reference77">Both adaptive and innate inflammatory systems respond to infection (Sullivan et al., 2003a). Although antibody titres correlate with the protective response, many studies in non-human primates have suggested that the passive transfer of antibody is insufficient to provide long-lasting protection against Ebola virus (Sullivan et al., 2003b). In rodent studies with adapted Ebola virus, passive transfer of antibodies or adoptive transfer of cytotoxic T cells showed protection when given before infection. A more sensitive but less quantitative CD4 lympho-proliferative response correlated with protection in a DNA/ADV prime–boost study. In addition to the antibody response induced by an effective vaccine, both CD4 and CD8 responses were observed after the challenge. The fact that CD4 responses were not observed before challenge whereas CD8 responses were more consistently seen beforehand suggests that the CD8 response is likely to have an important role in protection in non-human primates (Sullivan et al., 2003b). </protective_immunity>
+		<host_range refs="reference76">The natural host for Ebola virus is unknown (Sullivan et al., 2003). </host_range>
+		<introduction refs="reference76">Ebola virus is an aggressive pathogen that causes a highly lethal hemorrhagic fever syndrome in humans and nonhuman primates. Typically, Ebola virus infection runs its course within 14 to 21 days. Infection initially presents with nonspecific flu-like symptoms such as fever, myalgia, and malaise. As the infection progresses, patients exhibit severe bleeding and coagulation abnormalities, including gastrointestinal bleeding, rash, and a range of hematological irregularities, such as lymphopenia and neutrophilia. Cytokines are released when reticuloendothelial cells encounter virus, which can contribute to exaggerated inflammatory responses that are not protective. Damage to the liver, combined with massive viremia, leads to disseminated intravascular coagulopathy. The virus eventually infects microvascular endothelial cells and compromises vascular integrity. The terminal stages of Ebola virus infection usually include diffuse bleeding, and hypotensive shock accounts for many Ebola virus fatalities (Sullivan et al., 2003).
+
+The Ebola virus genome is 19 kb long, with seven open reading frames encoding structural proteins, including the virion envelope glycoprotein (GP), nucleoprotein (NP), and matrix proteins VP24 and VP40; nonstructural proteins, including VP30 and VP35; and the viral polymerase. The GP open reading frame of Ebola virus gives rise to two gene products, a soluble 60- to 70-kDa protein (sGP) and a full-length 150- to 170-kDa protein (GP) that inserts into the viral membrane through transcriptional editing (Sullivan et al., 2003).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4119">
+		<vaccine_name>cAdVax-based bivalent ebola virus vaccine  (Sudan and Zaire species)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004647</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3101">The bivalent cAdVaxE(GPs/z) vaccine includes the SEBOV glycoprotein (GP) and ZEBOV GP genes together in a single complex adenovirus-based vaccine (cAdVax) vector (Wang et al., 2006).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1655" gene_id="gene453">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference3101">The gene was inserted into a single complex adenovirus-based vaccine (cAdVax) vector (Wang et al., 2006).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1656" gene_id="gene452">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference3101">The gene was inserted into a single complex adenovirus-based vaccine (cAdVax) vector (Wang et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1711" host_id="host3">
+			<immune_response refs="reference3101">Vaccination of mice with the bivalent cAdVaxE(GPs/z) vaccine led to efficient induction of EBOV-specific antibody and cell-mediated immune responses to both species of EBOV (Wang et al., 2006).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3101">the cAdVax technology demonstrated induction of a 100% protective immune response in mice, as all vaccinated C57BL/6 and BALB/c mice survived challenge with a lethal dose of ZEBOV (Wang et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3101">Mice were challenged with a lethal dose of ZEBOV (30,000 times the 50% lethal dose) (Wang et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4116">
+		<vaccine_name>CAdVax-Filoviruses (Ebola )</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004644</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference2283">A panfilovirus vaccine based on a complex adenovirus (CAdVax) technology that expresses multiple antigens from five different filoviruses de novo (Swenson et al., 2008).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1759" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2283">The macaques in the vaccine groups (five per group) were anesthetized by intramuscular injection of ketamine HCl (10 mg/kg of body weight), followed by intramuscular vaccination with an equal mixture of 1 × 10^10 PFU of each vaccine component: EBO2, EBO7, M8, and M11 (resulting in 4 × 10^10 total PFU per animal). Control animals received 4 × 10^10 PFU of the HC4 vaccine vector, also via the intramuscular route (Swenson et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2283">All vaccinated animals showed no detectable viremia or hematology abnormalities. We can conclude that the multivalent filovirus vaccine was 100% protective against lethal MARV Musoke and ZEBOV challenges (Swenson et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2283">Group 1 was inoculated subcutaneously with MARV Musoke, while group 2 was inoculated intramuscularly with ZEBOV, using approximately 1,000 PFU of each filovirus. EBOV and MARV each have different established routes of administration (intramuscular and subcutaneous, respectively) (Swenson et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4113">
+		<vaccine_name>CAdVax-ZEBOV/SEBOV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004641</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference2179">A multivalent vaccine candidate (EBO7) that expresses the glycoproteins of Zaire ebolavirus (ZEBOV) and Sudan ebolavirus (SEBOV) in a single complex adenovirus-based vector (CAdVax) (Pratt et al., 2010).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1758" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2179">For the parenteral challenge studies, cynomolgus macaques were vaccinated intramuscularly (i.m.) on day zero with a 1:1 mixture of 1 × 10^10 PFU each of EBO7 and M8 (total 2 × 10^10 PFU). Control animals received an i.m. injection of 2 × 10^10 PFU of HC4. For the initial aerosol infection experiments, cynomolgus macaques were vaccinated by i.m. injection of 1 × 10^10 PFU of EBO7 or 1 × 10^10 PFU of HC4 (Pratt et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2179">EBO7 vaccine provided protection against both Ebola viruses by either route of infection. Significantly, protection against SEBOV given as an aerosol challenge, which has not previously been shown, could be achieved with a boosting vaccination (Pratt et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2179">For the aerosol infection group, twenty-eight days after vaccination, animals were anesthetized and exposed to a target dose of 1,000 PFU of either aerosolized ZEBOV or aerosolized SEBOV. For the parenteral challenge studies, six weeks after the boosting vaccinations, the macaques were anesthetized by i.m. injection of Telazol (2 to 6 mg/kg of body weight) and then inoculated i.m. with SEBOV or ZEBOV challenge stock (Pratt et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine73">
+		<vaccine_name>DNA vaccine expressing sGP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000785</vo_id>
+		<type>DNA vaccine</type>
+		<status></status>
+		<vector>pCMV [Ref103:Xu et al., 1998]</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference103">sGP is a secreted or transmembrane form of glycoprotein (Xu et al., 1998).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference103">Plasmids containing the sGP cDNAs are used to subclone the relevant inserts into CMV expression vectors, which utilize the bovine growth hormone polyadenylation sequence. The plasmid pCRII-sGP is digested with EcoRI and treated with Klenow enzyme, and the resulting fragment is inserted into the BamHI/Bg/II CMV plasmid, which has been incubated with Klenow fragment and calf intestinal phosphate (CIP), and phenol chloroform extracted (Xu et al., 1998).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering237" gene_id="gene10">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response72" host_id="host7">
+			<immune_response refs="reference103">A broad immune response was conferred by sGP which induced both cellular and humoral immunity to the membrane-associated GP. The ability of vectors expressing GP to confer immunity may be explained by the generation of the lower molecular weight degradation products, which could provide sufficient protein for antigen presentation to induce detectable, cellular and humoral immune responses in guinea pigs (Xu et al., 1998).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference103">Two groups of guinea pigs were immunized by injection of 0.5 mg/ml in each hind leg (two injections at each time point) with the plasmed expression vectors. Animals were challenged by inoculation with a stock of Ebola virus that had been passaged once in Vero E6 cells and serially passaged by intraperitoneal injection of slpeen homogenates in Hartley guinea pigs seven times. Immunized guinea pigs were injected intraperitoneally with 0.5 ml of a 1:1000 dillution of spleen cell homogenate in Hanks' balanced salt solution 122 days after the initial plasmid DNA injection. Survival was determined 10 days later at which times animals were killed for serologic and pathologic analysis (Xu et al., 1998).                   </vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference103">For the first group of 6 giunea pigs, animals were challenged within 2 months after the initial immunization. Five of six of the immunized subjects survived in contrast to 0/6 control subjects. In the second group, guinea pigs were challenged 4 months after the initial immunization. Three of the five guinea pigs immunized with sGP showed no ill effects following the viral challenge (Xu et al., 1998).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3591">
+		<vaccine_name>Ebola virus DNA vaccine DNA/rAd5 encoding ZEBOV and SEBOV antigens</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004385</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>Replication-defective rAd5 GP vectors and p1012 [Ref1074:Hensley et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1534" gene_id="gene453">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1535" gene_id="gene452">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1417" host_id="host39">
+			<immune_response refs="reference1074">DNA/rAd prime-boost EBOV immunization generated antigen-specific CD4+ T cell immunity against proteins expressed by the vaccine insert. The magnitude of antigen-specific CD4+ T cells was uniform across the four immunized macaques (Hensley et al., 2010).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1074">Four cynomolgus macaques were injected at 4–6 week intervals with GP(Z) and GP(S/G) DNA, followed by a rest period, and boosted after one year with rAd5 vectors containing the EBOV matched insert (Hensley et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1074">DNA/rAd5 immunization of cynomolgus macaques protects against infection when animals are challenged with a virus species homologous to the vaccine inserts (Hensley et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3576">
+		<vaccine_name>Ebola virus DNA vaccine EBOV GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004036</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pWRG7077 [Ref2280:Riemenschneider et al., 2003]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1114" gene_id="gene452">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2280">Vector pWRG7077 expressed Ebola virus GP gene sequences (Riemenschneider et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1411" host_id="host3">
+			<immune_response refs="reference2280">The mice had low neutralizing antibody responses, yet were protected from challenge. This, as indicated by earlier studies, may be due to gene gun vaccination, which generally elicits a TH2-type response in BALB/c mice (Riemenschneider et al., 2003).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2280">Two vaccinations with the EBOV GP DNA elicited consistently high antibody responses and conferred complete protection from EBOV challenge (Riemenschneider et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine901">
+		<vaccine_name>Ebola virus DNA vaccine encoding ZEBOV GP and SEBOV GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011465</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>Replication-defective rAd5 GP vectors and p1012 [Ref1074:Hensley et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Zaire Ebola virus GP and Sudan Ebola virus GP</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering376" gene_id="gene452">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1074">DNA/rAd5 vaccines expressing ZEBOV and SEBOV glycoprotein (GP) (Hensley et al., 2010).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering377" gene_id="gene453">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1074">DNA/rAd5 vaccines expressing ZEBOV and SEBOV glycoprotein (GP) (Hensley et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response659" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1074">DNA immunizations were administered by Biojector IM injection, bilateral deltoid, with a mixture of 2 mg each of two plasmid vectors encoding GP(Z) and GP(S/G). DNA immunizations were administered at 0, 4, 8, and 14 weeks. Each subject received a boost with 10^11 particle units (PU) of rAd5 GP(Z) at 12 months following the final DNA priming immunization (Hensley et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1074">Vaccinated subjects developed robust, antigen-specific humoral and cellular immune responses against the GP from ZEBOV as well as cellular immunity against BEBOV GP, and immunized macaques were uniformly protected against lethal challenge with BEBOV (Hensley et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1074">All animals were challenged by the intramuscular route with 1,000 TCID50 of BEBOV, 7 weeks post rAd5 GP boost. The challenge virus used in this study was isolated from blood specimen #200706291 from a fatal case infected during the 2007 EBOV outbreak in Bundibugyo district, Uganda. The virus was isolated on Vero E6 cells and passaged twice prior to initiating these experiments (Hensley et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3392">
+		<vaccine_name>Ebola virus DNA vaccine GP DNA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004334</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pWRG7077 [Ref90:Vanderzanden et al., 1998]</vector>
+		<route>PowderJect-XR gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">PowderJect-XR gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering937" gene_id="gene452">
+			<type>DNA vaccine construction</type>
+			<description refs="reference90">Vector pWRG7077 expressed highly glycosylated type 1 transmembrane protein (GP) (Vanderzanden et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1196" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference90">Mice were completely protected from challenge with mouse adapted EBOV with a priming dose of 0.5 microgram of GP DNA followed by three or four subsequent vaccinations with 1.5 micrograms of DNA. Partial protection could be observed for at least 9 months after three immunizations with 0.5 microgram of the GP DNA vaccine (Vanderzanden et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3577">
+		<vaccine_name>Ebola virus EBOV NP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004037</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pWRG7077 [Ref2280:Riemenschneider et al., 2003]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1115" gene_id="gene1296">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2280">Vector pWRG7077 expressed Ebola virus NP gene sequences (Riemenschneider et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1412" host_id="host3">
+			<immune_response refs="reference2280">The mice had low neutralizing antibody responses, yet were protected from challenge. This, as indicated by earlier studies, may be due to gene gun vaccination, which generally elicits a TH2-type response in BALB/c mice (Riemenschneider et al., 2003).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2280">Two vaccinations with the EBOV NP DNA elicited consistently high antibody responses and conferred complete protection from EBOV challenge (Riemenschneider et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3579">
+		<vaccine_name>Ebola virus recombinant adenovirus vaccine AdC7-ZGP encoding GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004382</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>adenoviral (ADV) vector [Ref2281:Kobinger et al., 2006]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1118" gene_id="gene452">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2281">Vector adenoviral (ADV) expressed the Ebola envelope glycoprotein (GP) (Kobinger et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1413" host_id="host3">
+			<immune_response refs="reference2281">AdC7 vaccine stimulated robust T and B cell responses to ZEBOV in naïve mice (Kobinger et al., 2006).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2281">Mice were immunized with a single dose of 5 × 10^10 particles per animal as performed previously and vaccinated animals were challenged with 200 LD50 of the mouse-adapted strain of ZEBOV 21 days later. All control mice (vehicle and AdHu5-LacZ) died between days 5 and 9 post-challenge. In contrast, all mice vaccinated with AdC7-ZGP survived the challenge with mouse-adapted ZEBOV. Weight loss was observed only from control groups (vehicle and AdHu5-LacZ). Complete protection following vaccination with 5 × 10^10 particles of AdC7-ZGP was demonstrated with challenge doses of ZEBOV up to 200,000 LD50, which was the highest dose tested (Kobinger et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine61">
+		<vaccine_name>Ebola virus recombinant adenovirus vector vaccine ADV−GP/NP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004072</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference77">ADV−GP consists of an adenoviral (ADV) vector encoding the Ebola glycoprotein (GP) (Sullivan et al., 2003).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                                                                                                                                                                </virulence>
+		<preparation refs="reference79">To make ADV-GP, the BamHI/EcoRI fragment of GP(Z) was digested from PGEM-3Zf(-)-GP, treated with Klenow, and inserted into HindIII/XbaI/Kle/CIP-treated pRc/CMV plasmid. The resulting plasmid was digested by NruI/DraIII and treated with Klenow. The NruI/DraIII/Kle fragment containing the CMV enhancer, GP(Z) DNA and bovine growth hormone polyadenylation signal was inserted into the BgIII site of the adenoviral shuttle plasmid pAdBgIII26. The adenovirus, a first generation dl 309-based Ad5 vector, contained a deletion in E1 to render the vector replication defective and a partial deletion/substitution in E3, which disrupts the coding sequences for the E3 proteins with a relative molecular mass of 14,700, 14,500 and 10,400, respectively ( Sullivan et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1116" gene_id="gene452">
+			<type>DNA vaccine construction</type>
+			<description refs="reference77">Vector adenoviral (ADV) expressed Ebola glycoprotein (GP) (Sullivan et al., 2003b).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1399" gene_id="gene1296">
+			<type>Recombinant vector construction</type>
+			<description refs="reference77">Vector adenoviral (ADV) expressed Ebola nucleoprotein (NP) (Sullivan et al., 2003b).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response57" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Cynomolgus macaque</host_strain>
+			<vaccination_protocol refs="reference77">Cynomolgus macaques were immunized with ADV−GP and ADV−NP, followed by boosting 9 weeks later (Sullivan et al., 2003).                   </vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference77">In the saline-injected control animals these doses were uniformly fatal 6−12 days afterwards. In contrast, the ADV−GP/NP immunized monkeys were completely protected. Analysis of the cell-mediated and humoral immune responses revealed significant increases in the CD8+ T-cell response to Ebola antigens by intracellular cytokine staining for interferon (IFN)-, seen before exposure to virus, in contrast to control animals where no response was seen. Similarly, antibody titres to the virus were stimulated in vaccinated animals, which minimally increased after the viral challenge (Sullivan et al., 2003).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs="">One week after the boost, animals were challenged with either a low or high dose of a 1995 isolate of Ebola virus Zaire.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3393">
+		<vaccine_name>Ebola virus recombinant rAD-GP encoding GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004335</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>replication-defective adenoviral vectors (rAd) [Ref2177:Sullivan et al., 2006]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering938" gene_id="gene452">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2177">Vector rAd expressed the Ebola glycoprotein (GP) (Sullivan et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1197" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2177">Expression of specific GPs alone vectored by rAd are sufficient to confer protection against lethal challenge in a relevant nonhuman primate model (Sullivan et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3581">
+		<vaccine_name>Ebola virus recombinant vector vaccine Ad-CAGoptZGP encoding the envelope glycoprotein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004384</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Human adenovirus serotype 5 (Ad) [Ref2282:Richardson et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1120" gene_id="gene452">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2282">Vector Human adenovirus serotype 5 (Ad) expressed the Zaire ebolavirus (ZEBOV) envelope glycoprotein (Richardson et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1416" host_id="host3">
+			<immune_response refs="reference2282">Ad-CAGoptZGP at a dose of 1×10^5 IFU/mouse elicited a frequency of 1.3±0.3% positive IFN-γ producing CD8+ T cells. Overall, the average frequency of positive IFN-γ producing CD8+ T cells was slightly higher with a lower dose of Ad-CAGoptZGP than with a higher dose of Ad-CMVZGP (Richardson et al., 2009).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2282">All mice vaccinated with doses of 1×10^4, 1×10^5 and 1×10^6 IFU/mouse of Ad-CAGoptZGP were fully protected from the viral challenge with no weight loss or other clinical signs of disease (Richardson et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3580">
+		<vaccine_name>Ebola virus recombinant vector vaccine Ad-CMVZGP encoding the glycoprotein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004383</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Human adenovirus serotype 5 (Ad) [Ref2282:Richardson et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1119" gene_id="gene452">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2282">Vector Human adenovirus serotype 5 (Ad) expressed the Zaire ebolavirus (ZEBOV) envelope glycoprotein (Richardson et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1415" host_id="host3">
+			<immune_response refs="reference2282">Vaccination following viral challenge produced enhanced T and B cell immune responses with a low dose of Ad-CAGoptZGP. The frequency of IFN-γ+CD8 T cells with Ad-CMVZGP at 1×10^7 IFU/mouse was at 1.6±0.4%, on average (Richardson et al., 2009).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2282">Protection following Zaire ebola virus challenge was complete in mice vaccinated with Ad-CMVZGP at 1×10^6 and 1×10^7 IFU/mouse but was only partially protective at 1×10^5 IFU/mouse (Richardson et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3395">
+		<vaccine_name>Ebola virus recombinant vector vaccine EBO7 encoding GP from SEBOV and ZEBOV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004337</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>a bivalent rAd vector (CAdVax) [Ref2179:Pratt et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering940" gene_id="gene453">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2179">Vector CAdVax expressed GP from SEBOV (Pratt et al., 2010).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering941" gene_id="gene452">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2179">Vector CAdVax expressed GP from ZEBOV (Pratt et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1199" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2179">Significantly, protection against SEBOV given as an aerosol challenge, which has not previously been shown, could be achieved with a boosting vaccination (Pratt et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3574">
+		<vaccine_name>Ebola virus recombinant vector vaccine pVSVXN2∆G/ZEBOVsGP encoding GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004381</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>VSVXN2∆G in vesicular stomatitis virus [Ref2278:Garbutt et al., 2004]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1112" gene_id="gene452">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2278">Vector VSVXN2∆G expressed the transmembrane glycoproteins of Zaire Ebola virus (GP) (Garbutt et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1410" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2278">The rVSV expressing the Zaire Ebola virus transmembrane glycoprotein mediated protection in mice against a lethal Zaire Ebola virus challenge (Garbutt et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3394">
+		<vaccine_name>Ebola virus recombinant VSVΔG-GP encoding GP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004336</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>a replication competent vesicular stomatitis virus vector (VSVΔG) [Ref2178:Jones et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering939" gene_id="gene452">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2178">Vector VSVΔG expressed GP from ZEBOV (Jones et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1198" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2178">A single intramuscular injection of the EBOV or MARV vaccine elicited completely protective immune responses in nonhuman primates against lethal EBOV or MARV challenges (Jones et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine71">
+		<vaccine_name>GP and NP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004073</vo_id>
+		<type>VEEV Replicon</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference86">This immunogen is composed of RNA replicon particles derived from an attenuated strain of Venezuelan equine encephalitis virus (VEEV) expressing EBOV glycoprotein and nucleoprotein (Geisbert et al., 2002).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                                                  </virulence>
+		<preparation refs="reference89">The Ebola NP and GP genes from the Mayinga strain of Ebola virus were derived from pSP64- and pGEM3Zf(-)-based plasmids. The BamHI±EcoRI (2.3 kb) and BamHI±KpnI (2.4 kb) fragments containing the NP and GP genes, respectively, were subcloned into a shuttle vector digested with BamHI and EcoRI within a polylinker sequence flanked by ClaI sites. For cloning of the GP gene, overhanging ends produced by KpnI (in the GP fragment) and EcoRI (in the shuttle vector) were made blunt by incubation with T4 DNA polymerase. From the shuttle vector, NP or GP genes were transferred as ClaI-fragments into the ClaI site of the replicon clone, resulting in plasmids encoding the NP or GP gene in place of the VEE structural protein genes (Pushko et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response69" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Cynomolgus macaques</host_strain>
+			<vaccination_protocol refs="reference86">Groups of three cynomolgus macaques were vaccinated with VRP that expressed EBOV GP, EBOV NP, a mixture of EBOV GP and EBOV NP, or a control antigen (influenza hemagglutinin) that has no effect on EBOV immunity. Animals were vaccinated by subcutaneous injection of 10^7 focus-forming units of VRP in a total of 0.5 mL at one site. Vaccinations were repeated 28 days after the first injection and 28 days after the second (Geisbert et al., 2002).</vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference86">These results indicate that rodent models of EBOV hemorrhagic fever do not consistently predict efficacy of candidate vaccines in nonhuman primates, perhaps because the disease course in rodents differs from that reported in human and nonhuman primates (Geisbert et al., 2002).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference86">All animals, including the four untreated macaques, were challenged with 1,000 PFU of EBOV 49 days after the third vaccine dose. At postchallenge day 3, all animals became ill; two animals from each vaccination group (i.e., GP, NP, GP + NP, influenza HA) died on day 6, and the remaining animals died on day 7 (Geisbert et al., 2002).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine69">
+		<vaccine_name>GP-VRP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000780</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector>VRP: VEE replicon particle</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                            </virulence>
+		<preparation refs="reference89">The Ebola GP genes from the Mayinga strain of Ebola virus were derived from pGEM3Zf(-)-based plasmid. The BamHI±KpnI (2.4 kb) fragment containing the GP gene was subcloned into a shuttle vector. From the shuttle vector, GP gene was transferred as ClaI-fragment into the ClaI site of the replicon clone, resulting in plasmids encoding the GP gene in place of the VEE structural protein genes (Pushko et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering9" gene_id="gene10">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response67" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference89">VRP were diluted in PBS and administered to 6±8 week old BALB/c mice. Groups of 10 BALB/c mice were inoculated on days 0 and 28 with two doses of NP-VRP, GP-VRP, or a mixture of both. Challenge was carried out 4 weeks after final immunization with VRP. Mice were challenged i.p. with mouse-adapted Ebola virus. To determine subsequent viral titers in the serum, liver, and spleen, two mice were taken from VRP-vaccinated or control groups on each of days 1±5 after challenge, anesthetized and exsanguinated. Portions of the liver and spleen were removed aseptically, weighed, and ground in a sterile mortar. Viral titers in the sera and tissues were determined by plaque assay (Pushko et al., 2000).                                    </vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference89">GP-VRP was effective in protecting BALB/c mice against a lethal challenge with mouse-adapted Ebola virus (Pushko et al., 2000). Nine out of ten animals vaccinated with GP-VRP were protected (Pushko et al., 2000).</protection_efficacy>
+			<side_effects refs="">None</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response68" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">strain 2 and strain 13</host_strain>
+			<vaccination_protocol refs="reference89">VRP were diluted in PBS and administered to inbred, strain 2 or strain 13 guinea pigs. Groups of five guinea pigs were inoculated subcutaneously (s.c.) at day 0 with a total of 0.5 ml containing 10^7 IU VRP at one (strain 2) or two (strain 13) dorsal sites. Challenge was carried out 4 weeks after final immunization with VRP. Guinea pigs were challenged s.c. with 1000 LD50 of guinea pig- adapted Ebola virus. Animals were observed daily for 60 days, and morbidity (determined as changes in behavior, appearance, and weight) and survival were recorded. Blood samples were taken
+on the days indicated after challenge and viremia levels were determined by plaque assay (Pushko et al., 2000).</vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference89">At day 7 after challenge, both VRP-vaccinated groups had lower viremia titers than control animals. All mockvaccinated animals or NP-VRP-vaccinated animals became ill, and died at days 8±11 after challenge. However, three out of five guinea pigs vaccinated with GP-VRP showed no signs of illness and survived challenge, and the remaining two showed increased survival times. No clear relationship with survival and antibody titers was observed, as the pre-challenge ELISA and PRNT50 titers of the two GP-VRP-inoculated animals that died were equivalent to those of the three survivors (Pushko et al., 2000).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine443">
+		<vaccine_name>NP-VRP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011387</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>VRP: VEE replicon particle</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference89">The Ebola NP gene from the Mayinga strain of Ebola virus were derived from pSP64-based plasmid. The BamHI±EcoRI (2.3 kb) fragment containing the NPgene, was subcloned into a shuttle vector digested with BamHI and EcoRI within a polylinker sequence flanked by ClaI sites. From the shuttle vector, NP gene was transferred as ClaI-fragments into the ClaI site of the replicon clone, resulting in plasmids encoding the NP gene in place of the VEE structural protein genes (Pushko et al., 2000).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering236" gene_id="gene11">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response493" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">strain 2 and strain 13</host_strain>
+			<vaccination_protocol refs="reference89">VRP were diluted in PBS and administered to inbred, strain 2 or strain 13 guinea pigs. Groups of five guinea pigs were inoculated subcutaneously (s.c.) at day 0 with a total of 0.5 ml containing 10^7 IU VRP at one (strain 2) or two (strain 13) dorsal sites. Challenge was carried out 4 weeks after final immunization with VRP. Guinea pigs were challenged s.c. with 1000 LD50 of guinea pig- adapted Ebola virus. Animals were observed daily for 60 days, and morbidity (determined as changes in behavior, appearance, and weight) and survival were recorded. Blood samples were taken on the days indicated after challenge and viremia levels were determined by plaque assay (Pushko et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference89">At day 7 after challenge, NP-VRP-vaccinated group had lower viremia titers than control animals. All mock vaccinated animals or NP-VRP-vaccinated animals became ill, and died at days 8±11 after challenge (Pushko et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response492" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference89">VRP were diluted in PBS and administered to 6±8 week old BALB/c mice. Groups of 10 BALB/c mice were inoculated on days 0 and 28 with two doses of NP-VRP, GP-VRP, or a mixture of both. Challenge was carried out 4 weeks after final immunization with VRP. Mice were challenged i.p. with mouse-adapted Ebola virus. To determine subsequent viral titers in the serum, liver, and spleen, two mice were taken from VRP-vaccinated or control groups on each of days 1±5 after challenge, anesthetized and exsanguinated. Portions of the liver and spleen were removed aseptically, weighed, and ground in a sterile mortar. Viral titers in the sera and tissues were determined by plaque assay (Pushko et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference89">NP-VRP was effective in protecting BALB/c mice against a lethal challenge with mouse-adapted Ebola virus (Pushko et al., 2000). All mice vaccinated with NP-VRP survived the challenge with no signs of illness (Pushko et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4100">
+		<vaccine_name>rAd-GP (Ebola virus)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004631</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>[Ref3085:O'Brien et al., 2014]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3085">(O'Brien et al., 2014)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1657" gene_id="gene452">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1712" host_id="host3">
+			<immune_response refs="reference3085">the antibody response in IFNR(-/-) mice was similar to that observed in vaccinated wild-type mice (O'Brien et al., 2014).</immune_response>
+			<host_strain refs="">IFNR(-/-) mice</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3085">The recombinant vaccines elicited good levels of protection in the knock-out mouse (O'Brien et al., 2014).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4202">
+		<vaccine_name>rCMV- EBOV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004717</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3241">A mouse CMV (MCMV) vector expressing a CD8+ T cell epitope from the nucleoprotein (NP) of Zaire ebolavirus (ZEBOV) (MCMV/ZEBOV-NP(CTL)) (Tsuda et al., 2011).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1695" gene_id="gene1296">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference3241">A mouse CMV (MCMV) vector expressing a CD8+ T cell epitope from the nucleoprotein (NP) of Zaire ebolavirus (ZEBOV) (MCMV/ZEBOV-NP(CTL)) (Tsuda et al., 2011).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1757" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3241">Mice were vaccinated with rCMV- EBOV (Tsuda et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3241">The vaccine induced high levels of long-lasting (&gt;8 months) CD8+ T cells against ZEBOV NP in mice. Importantly, all vaccinated animals were protected against lethal ZEBOV challenge (Tsuda et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3241">Mice were challenged with a lethal dose of ZEBOV (Tsuda et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4318">
+		<vaccine_name>rVEE-Ebola-NP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004805</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference3332">Ebola virus nucleoprotein (NP) (Wilson and Hart, 2001)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1777" gene_id="gene1296">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1897" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3332">C57BL/6 mice vaccinated with Venezuelan equine encephalitis virus replicons encoding the Ebola virus nucleoprotein (NP) survived lethal challenge with Ebola virus (Wilson and Hart, 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4141">
+		<vaccine_name>rVSV- SEBOV-GP and -VP40</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004661</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3122 reference3121">rVSV-expressing SEBOV-GP and -VP40 (Marzi et al., 2011)(Falzarano et al., 2011).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1666" gene_id="gene1296">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3122">New vectors were generated that contain EBOV viral protein 40 (VP40) or EBOV nucleoprotein (NP) as a second antigen expressed by the same rVSV vector that encodes the heterologous GP (Marzi et al., 2011).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1667" gene_id="gene19">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3122">New vectors were generated that contain EBOV viral protein 40 (VP40) or EBOV nucleoprotein (NP) as a second antigen expressed by the same rVSV vector that encodes the heterologous GP (Marzi et al., 2011).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1756" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3122">The guinea pigs were vaccinated intraperitoneally with a single dose of 2 ×10^5 PFU to guinea pigs of rVSV (Marzi et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3122">After applying a 2-dose immunization approach, we observed an improved cross-protection rate, with 5 of 6 guinea pigs surviving the lethal ZEBOV challenge if vaccinated with rVSV-expressing SEBOV-GP and -VP40 (Marzi et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3122">The guinea pigs were subsequently challenged with 1000 LD50 of GPA-ZEBOV [20] or boosted with the same dose of rVSV and challenged 3 weeks later (Marzi et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4140">
+		<vaccine_name>rVSV-EBOV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004660</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3121">A recombinant vesicular stomatitis virus (rVSV) vector-based monovalent vaccine platform expressing a filovirus glycoprotein (Falzarano et al., 2011).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1664" gene_id="gene452">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3121">The recombinant vesicular stomatitis virus (rVSV) vector-based monovalent vaccine platform expressing a glycoprotein of Zaire ebolavirus (ZEBOV) (Falzarano et al., 2011).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1665" gene_id="gene1297">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3121">The recombinant vesicular stomatitis virus (rVSV) vector-based monovalent vaccine platform expressing a glycoprotein of Côte d’Ivoire ebolavirus (CIEBOV)  (Falzarano et al., 2011).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1755" host_id="host39">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3121">Cynomolgus macaques were vaccinated with an rVSV vaccine expressing either the glycoprotein of Zaire ebolavirus (ZEBOV) or Côte d'Ivoire ebolavirus (CIEBOV) (Falzarano et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3121">A single vaccination with the ZEBOV-specific vaccine provided cross-protection (75% survival) against subsequent BEBOV challenge, whereas vaccination with the CIEBOV-specific vaccine resulted in an outcome similar to mock-immunized animals (33% and 25% survival, respectively) (Falzarano et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3121">The macaques were challenged with Bundibugyo ebolavirus (BEBOV)(Falzarano et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine65">
+		<vaccine_name>VRP expressing VP24</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000781</vo_id>
+		<type>VEEV replicon</type>
+		<status></status>
+		<vector>VRP: virus-like replicon particle</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference88">VP24 is an Ebola virus protein. It is membrane associated and is most likely located on the inside of the membrane. The function of VP24 is not known but it may serve as a minor matrix protein, facilitating the interaction of VP40 and/or GP with the RNP complex, or function in the uncoating of the virion during infection (Wilson et al., 2001).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                                                                        </virulence>
+		<preparation refs="reference88">Replicon RNAs were packaged into particles. Briefly, capped replicon RNAs were produced in vitro by T7 runoff transcription of NotI-digested plasmid templates using the RiboMAX T7 RNA polymerase kit. BHK cells were cotransfected with the replicon RNAs and two RNAs expressing the VEE virus structural proteins. The cell culture supernatants were harvested approximately 30 h after transfection and the replicon particles were concentrated and partially purified by centrifugation through a 20% sucrose cushion. Packaged VRPs were suspended in phosphatebuffered saline and titers were determined as immunofluorescent foci after infection of Vero cells as described using either EBOV-immune rabbit serum or mouse monoclonal antibodies to VP24 (Z-AC01-BG11-01), VP35 (M-HC01-AF11), or VP40 (M-HD06-AD10) (Wilson et al., 2001).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering16" gene_id="gene17">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response63" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c and C57BL/6</host_strain>
+			<vaccination_protocol refs="reference88">Groups of 10 BALB/c or C57BL/6 mice per experiment were subcutaneously injected at the base of the neck with 2(10^6) focus-forming units of VRPs encoding the EBOV-Z genes, or with a control replicon encoding the Lassa N gene. Booster immunizations were administered at 1-month intervals (Wilson et al., 2001).                                                                                                            </vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference88">Vaccination with VRPs encoding the EBOV-Z VP24 protein protected the majority (90±95%) of the BALB/c mice from lethal EBOV challenge. In a similar experiment, two inoculations of VRPs encoding the EBOV-Z VP24 protein also protected 5/5 BALB/c mice from a 3(10^4) LD50 challenge dose and 5/5 BALB/c mice from a 3(10^6) LD50 challenge dose. None of the C57BL/6 mice were protected. Most of the mice had detectable EBOV-Z-specific serum antibodies after vaccination with VRPs encoding the EBOV-Z VP protein (Wilson et al., 2001).  These results indicate that the VP24 protein may be an important component of a vaccine designed to protect humans from Ebola hemorrhagic fever.</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine66">
+		<vaccine_name>VRP expressing VP30</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000782</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector>VRP: virus-like replicon particle</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference88">VP30 is an Ebola virus protein. It associates with the genomic RNA in a ribonucleoprotein complex. The VP30 protein is not essential for replication, but it is necessary for efficient transcription in this system. It has also recently been shown to be essential for the recovery of infectious EBOV-Z from cloned cDNAs (Wilson et al., 2001).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                                                                        </virulence>
+		<preparation refs="reference88">Replicon RNAs were packaged into particles. Briefly, capped replicon RNAs were produced in vitro by T7 runoff transcription of NotI-digested plasmid templates using the RiboMAX T7 RNA polymerase kit. BHK cells were cotransfected with the replicon RNAs and two RNAs expressing the VEE virus structural proteins. The cell culture supernatants were harvested approximately 30 h after transfection and the replicon particles were concentrated and partially purified by centrifugation through a 20% sucrose cushion. Packaged VRPs were suspended in phosphatebuffered saline and titers were determined as immunofluorescent foci after infection of Vero cells as described using either EBOV-immune rabbit serum or mouse monoclonal antibodies to VP24 (Z-AC01-BG11-01), VP35 (M-HC01-AF11), or VP40 (M-HD06-AD10) (Wilson et al., 2001).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering17" gene_id="gene18">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response64" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c and C57BL/6</host_strain>
+			<vaccination_protocol refs="reference88">Groups of 10 BALB/c or C57BL/6 mice per experiment were subcutaneously injected at the base of the neck with 2(10^6) focus-forming units of VRPs encoding the EBOV-Z genes, or with a control replicon encoding the Lassa N gene. Booster immunizations were administered at 1-month intervals (Wilson et al., 2001).                                                       </vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference88">Three injections of VRPs encoding EBOV-Z VP30 induced protection from lethal disease in 85% of the BALB/c mice examined. However, when the vaccination schedule was decreased to two injections, only 55% of the mice immunized with VP30 survived challenge.  None of the C57BL/6 mice were protected. Most of the mice had detectable EBOV-Z-specific serum antibodies after vaccination with VRPs encoding the EBOV-Z VP protein (Wilson et al., 2001). These results indicate that the VP30 protein may be an important component of a vaccine designed to protect humans from Ebola hemorrhagic fever (Wilson et al., 2001).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine67">
+		<vaccine_name>VRP expressing VP35</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000783</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector>VRP: virus-like replicon particle</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference88">VP35 is an Ebola virus protein. It associates with the genomic RNA in a ribonucleoprotein complex. It is essential for replication and encapsidation of the EBOV genome. The VP35 protein has also recently been shown to be essential for the recovery of infectious EBOV-Z from cloned cDNAs. In addition to being an essential component of the replication complex, VP35 was also recently implicated as an interferon antagonist. VP35 may therefore facilitate viral replication in infected cells by blocking the induction of antiviral immune responses normally induced by the production of interferon (Wilson et al., 2001).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                                                                        </virulence>
+		<preparation refs="reference88">Replicon RNAs were packaged into particles. Briefly, capped replicon RNAs were produced in vitro by T7 runoff transcription of NotI-digested plasmid templates using the RiboMAX T7 RNA polymerase kit. BHK cells were cotransfected with the replicon RNAs and two RNAs expressing the VEE virus structural proteins. The cell culture supernatants were harvested approximately 30 h after transfection and the replicon particles were concentrated and partially purified by centrifugation through a 20% sucrose cushion. Packaged VRPs were suspended in phosphatebuffered saline and titers were determined as immunofluorescent foci after infection of Vero cells as described using either EBOV-immune rabbit serum or mouse monoclonal antibodies to VP24 (Z-AC01-BG11-01), VP35 (M-HC01-AF11), or VP40 (M-HD06-AD10) (Wilson et al., 2001).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering15" gene_id="gene16">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response65" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c and C57BL/6</host_strain>
+			<vaccination_protocol refs="reference88">Groups of 10 BALB/c or C57BL/6 mice per experiment were subcutaneously injected at the base of the neck with 2(10^6) focus-forming units of VRPs encoding the EBOV-Z genes, or with a control replicon encoding the Lassa N gene. Booster immunizations were administered at 1-month intervals (Wilson et al., 2001).                                     </vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference88">The VP35 protein was not efficacious in the BALB/c mouse model, as only 20 and 26% of the mice were protected from lethal challenge after either two or three doses, respectively. The mean day of death of the VP-vaccinated mice that succumbed to the EBOV challenge was within 1 day of the control Lassa N-vaccinated mice. C57BL/6 mice were protected from lethal EBOV challenge after vaccination with the EBOV-Z VP35 protein, with 70% of the mice protected after three inoculations. When the viral titers were measured 5 days after challenge, vaccination with VRPs encoding the EBOV-Z VP35 protein reduced the viral load by at least 4 log10 compared to control mice. Most of the mice had detectable EBOV-Z-specific serum antibodies after vaccination with VRPs encoding the EBOV-Z VP protein (Wilson et al., 2001). These results indicate that the VP35 protein may be an important component of a vaccine designed to protect humans from Ebola hemorrhagic fever (Wilson et al., 2001).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine68">
+		<vaccine_name>VRP expressing VP40</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000784</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector>VRP: virus-like replicon particle</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference88">VP40 is an Ebola virus protein.  It is membrane-associated and is most likely located on the inside of the membrane. VP40 has been shown to associate with cell membranes, where it is believed to be involved in maturation of the virus by inducing viral assembly at the plasma membrane of infected cells (Wilson et al., 2001).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                                                                        </virulence>
+		<preparation refs="reference88">Replicon RNAs were packaged into particles. Briefly, capped replicon RNAs were produced in vitro by T7 runoff transcription of NotI-digested plasmid templates using the RiboMAX T7 RNA polymerase kit. BHK cells were cotransfected with the replicon RNAs and two RNAs expressing the VEE virus structural proteins. The cell culture supernatants were harvested approximately 30 h after transfection and the replicon particles were concentrated and partially purified by centrifugation through a 20% sucrose cushion. Packaged VRPs were suspended in phosphatebuffered saline and titers were determined as immunofluorescent foci after infection of Vero cells as described using either EBOV-immune rabbit serum or mouse monoclonal antibodies to VP40 (M-HD06-AD10) (Wilson et al., 2001).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering18" gene_id="gene19">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response66" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c and C57BL/6</host_strain>
+			<vaccination_protocol refs="reference88">Groups of 10 BALB/c or C57BL/6 mice per experiment were subcutaneously injected at the base of the neck with 2 x10^6 focus-forming units of VRPs encoding the EBOV-Z genes, or with a control replicon encoding the Lassa N gene. Booster immunizations were administered at 1-month intervals (Wilson et al., 2001).</vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference88">Vaccination with VRPs encoding the VP40 protein protected 85 and 70% of the BALB/c mice after either two or three injections, respectively. None of the C57BL/6 mice were protected, however most of the mice had detectable EBOV-Z-specific serum antibodies after vaccination with VRPs encoding the EBOV-Z VP protein (Wilson et al., 2001). These results indicate that the VP30 protein may be an important component of a vaccine designed to protect humans from Ebola hemorrhagic fever.</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene11">
+        <gene_name>EBOV NP</gene_name>
+        <strain>Reston ebolavirus</strain>
+        <vo_id>VO_0010859</vo_id>
+        <ncbi_gene_id>955194</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>22789223</ncbi_protein_id>
+        <gene_locus_tag>REBOVgp1</gene_locus_tag>
+        <gene_refseq>AF522874</gene_refseq>
+        <protein_refseq>NP_690580</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186539</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>55</gene_start>
+        <gene_end>3012</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>4.69</protein_pi>
+        <protein_weight>80076.91</protein_weight>
+        <protein_length>739</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_004161.1:55-3012 Reston ebolavirus isolate Reston virus/M.fascicularis-tc/USA/1989/Philippines89-Pennsylvania, complete genome
+TGAGGAAGATTAACAGTTTTCCTCAGTTTAAGATATACACTGAAATTGAGATTGAGATTCTCCTCTTTGC
+TATTCTGTAACTTTCCCTGGTTGTGACAATTGAATCAGTTTTATCTATTACCAATTACCATCAACATGGT
+ATGTCTAGTGATCTTGGGACTCTTCTTCATCTGGTTTTTCCTAGAGCTCTGAATCCATTTTGCGAGAAGT
+TCATCCAAACGACCCAGTGTCTGAAAATACAAAAGGTTCCCCTTTCCGTCAAGTTTAAGGGGTTGTTTTG
+ATTGTGTGTAGATTTTATAATCCTAGAGTGCCAAGGAGTTGCGTGTCATCATTGATTGGGAAGATCAAGG
+AAACAATTTGTTCCAATAATATCGTACATCTTGACTAAGTCGAACAAGGGGAAGTCGATATGGATCGTGG
+GACCAGAAGAATCTGGGTGTCGCAAAATCAAGGTGATACTGATTTAGATTATCATAAAATTTTGACAGCT
+GGCCTTACTGTTCAACAGGGAATTGTCAGGCAGAAAATAATTTCTGTATATCTTGTTGATAACTTGGAGG
+CTATGTGTCAATTGGTAATACAAGCCTTTGAGGCCGGAATTGATTTCCAAGAAAATGCCGACAGCTTCCT
+TCTGATGCTTTGCCTACATCATGCTTACCAAGGTGACTATAAATTGTTCTTGGAGAGCAATGCTGTACAG
+TATTTGGAAGGTCATGGATTCAAATTTGAGCTCCGGAAGAAGGACGGTGTCAATCGGCTCGAGGAATTGC
+TTCCTGCTGCAACGAGTGGAAAAAACATCAGGCGTACGTTGGCCGCACTGCCTGAAGAGGAGACTACAGA
+AGCAAATGCAGGGCAATTTCTCTCATTTGCGAGTTTGTTTCTTCCCAAACTGGTTGTGGGAGAGAAGGCT
+TGCTTGGAAAAAGTCCAGCGACAAATTCAGGTTCATGCAGAACAGGGTTTAATTCAATATCCCACTGCAT
+GGCAATCAGTTGGACACATGATGGTAATCTTCAGATTGATGAGGACTAATTTCTTGATTAAATATTTACT
+GATCCACCAGGGTATGCATATGGTAGCTGGCCACGATGCCAATGATGCTGTCATTGCTAATTCAGTTGCT
+CAGGCTCGCTTTTCAGGACTCCTAATTGTCAAAACCGTTCTTGATCATATTCTGCAAAAAACCGACCAAG
+GAGTAAGACTTCACCCTTTGGCCCGAACAGCCAAAGTGCGTAATGAGGTTAATGCATTTAAGGCCGCCCT
+AAGCTCACTTGCTAAGCATGGGGAATATGCCCCTTTTGCTCGCCTTCTCAATCTCTCGGGAGTTAACAAC
+CTAGAACATGGTCTCTACCCACAGTTATCAGCAATTGCTCTTGGAGTTGCCACAGCACATGGTAGCACCC
+TTGCAGGAGTTAATGTTGGTGAGCAGTATCAGCAGCTTAGAGAGGCTGCCACTGAAGCTGAGAAGCAACT
+CCAACAATATGCTGAGTCCAGAGAACTCGACAGCCTAGGCCTGGACGATCAGGAAAGAAGAATACTAATG
+AACTTCCATCAGAAGAAAAACGAAATTAGTTTCCAGCAGACCAATGCAATGGTAACCCTTAGGAAAGAGC
+GACTGGCTAAATTAACAGAAGCTATAACGCTGGCCTCAAGACCTAACCTCGGGTCTAGACAAGACGACGG
+CAATGAAATACCGTTCCCTGGGCCTATAAGCAACAACCCAGACCAAGATCATCTGGAGGATGATCCTAGA
+GACTCCAGAGACACCATCATTCCTAATGGTGCAATTGACCCCGAGGATGGTGATTTTGAAAATTACAATG
+GCTATCATGATGATGAAGTTGGGACGGCAGGTGACTTGGTCCTGTTCGATCTTGACGATCATGAGGATGA
+CAATAAAGCTTTTGAGCCACAGGACAGCTCGCCACAATCCCAAAGGGAAATAGAGAGAGAAAGATTAATT
+CATCCACCCCCAGGCAACAACAAGGACGACAATCGAGCCTCAGACAACAATCAACAATCAGCAGATTCTG
+AGGAACAAGGAGGTCAATACAACTGGCACCGAGGCCCAGAACGTACGACCGCCAATCGAAGACTCTCACC
+AGTGCACGAAGAGGACACCCTTATGGATCAAGGTGATGATGATCCCTCAAGCTTACCTCCGCTGGAATCT
+GATGATGACGATGCATCAAGTAGCCAACAAGATCCCGATTATACAGCTGTTGCCCCTCCTGCTCCTGTAT
+ACCGCAGTGCAGAAGCCCACGAGCCTCCCCACAAATCCTCGAACGAGCCAGCTGAAACATCACAATTGAA
+TGAAGACCCTGATATCGGTCAATCAAAGTCTATGCAAAAATTAGAAGAGACATATCACCATCTGCTGAGA
+ACTCAAGGTCCATTTGAAGCCATCAATTATTATCACATGATGAAGGATGAGCCGGTAATATTTAGCACTG
+ATGATGGGAAGGAATACACCTACCCGGATTCACTTGAGGAAGCCTATCCTCCATGGCTCACCGAGAAAGA
+ACGACTGGACAAAGAGAATCGCTACATTTACATAAATAATCAACAGTTCTTCTGGCCTGTCATGAGTCCC
+AGAGACAAATTTCTTGCAATCTTGCAGCACCATCAGTAACCACAGCACAAAGCGCGGTCCACTTCGTAAA
+GCTAAATACACTTAAGACTTGACCGATTCATCTACAAAAACTAATCCATTATAACTTATTAGTGCTACTT
+TTCTATAAGTGATTCTTAATCTAAGGCCATTAAGAGTTTAAGTAATATACATATACACTTACACCGGTCT
+ATCCAAGATGTGGCTCAATGTTCTTGATTTGAACATAGTCATAAGGGGATAAATAATACTTTATATTTCT
+GATTGTGGATTGACCCATTCTGCTTAAAATGCTTCGCCCATTGAAAATGTGATCTAATAGATAGCCCTGA
+CTAGACAAATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_690580.1 nucleoprotein [Reston ebolavirus]
+MDRGTRRIWVSQNQGDTDLDYHKILTAGLTVQQGIVRQKIISVYLVDNLEAMCQLVIQAFEAGIDFQENA
+DSFLLMLCLHHAYQGDYKLFLESNAVQYLEGHGFKFELRKKDGVNRLEELLPAATSGKNIRRTLAALPEE
+ETTEANAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPTAWQSVGHMMVIFRLMRTNFLI
+KYLLIHQGMHMVAGHDANDAVIANSVAQARFSGLLIVKTVLDHILQKTDQGVRLHPLARTAKVRNEVNAF
+KAALSSLAKHGEYAPFARLLNLSGVNNLEHGLYPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAATEA
+EKQLQQYAESRELDSLGLDDQERRILMNFHQKKNEISFQQTNAMVTLRKERLAKLTEAITLASRPNLGSR
+QDDGNEIPFPGPISNNPDQDHLEDDPRDSRDTIIPNGAIDPEDGDFENYNGYHDDEVGTAGDLVLFDLDD
+HEDDNKAFEPQDSSPQSQREIERERLIHPPPGNNKDDNRASDNNQQSADSEEQGGQYNWHRGPERTTANR
+RLSPVHEEDTLMDQGDDDPSSLPPLESDDDDASSSQQDPDYTAVAPPAPVYRSAEAHEPPHKSSNEPAET
+SQLNEDPDIGQSKSMQKLEETYHHLLRTQGPFEAINYYHMMKDEPVIFSTDDGKEYTYPDSLEEAYPPWL
+TEKERLDKENRYIYINNQQFFWPVMSPRDKFLAILQHHQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1297">
+        <gene_name>GP from Cote d'Ivoire Ebola virus</gene_name>
+        <strain>Cote d'Ivoire ebolavirus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>9487535</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>302315373</ncbi_protein_id>
+        <gene_locus_tag>CIEBOVp4</gene_locus_tag>
+        <gene_refseq>FJ217162</gene_refseq>
+        <protein_refseq>YP_003815426</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186541</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>5887</gene_start>
+        <gene_end>8292</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>6.6</protein_pi>
+        <protein_weight>70705.96</protein_weight>
+        <protein_length>676</protein_length>
+        <protein_note>small non-structural secreted glycoprotein; sGP</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|302315369:5887-8292 Cote d'Ivoire ebolavirus
+TGATGAAGATTAAGGCAACCAGTGGTGCTATCTTCATCTCTTTGATTTGAGTCTTAAGTGAATACACAGG
+TTCTAATACTGTTCTTCTGTCCAACGGTATAATTCAGCCAGGCCTAAGACAGTAGCTAATCACAGTCATC
+ATGGGAGCGTCAGGGATTCTGCAATTGCCCCGTGAGCGCTTCAGGAAAACATCTTTCTTTGTTTGGGTAA
+TAATCCTATTCCATAAAGTCTTTTCAATCCCGTTGGGGGTTGTACACAACAATACCCTACAAGTGAGTGA
+TATTGACAAGTTTGTGTGCCGAGACAAACTCTCTTCAACTAGCCAATTGAAGTCAGTCGGGTTGAACTTG
+GAGGGCAATGGAGTAGCAACTGATGTACCAACGGCAACCAAAAGATGGGGTTTTCGAGCTGGTGTTCCAC
+CAAAGGTGGTAAATTGCGAAGCTGGAGAATGGGCTGAGAACTGTTATAACCTGGCTATAAAGAAAGTTGA
+TGGTAGTGAGTGCCTACCAGAAGCCCCTGAGGGAGTGAGGGATTTTCCCCGTTGCCGCTATGTACACAAA
+GTCTCAGGAACTGGACCATGCCCAGGAGGACTCGCCTTTCACAAAGAAGGAGCCTTCTTCCTGTATGACC
+GACTCGCATCAACAATCATTTATCGGGGTACAACCTTTGCCGAAGGAGTTATTGCATTTCTGATCTTGCC
+TAAGGCGCGAAAGGATTTTTTCCAGTCTCCTCCATTGCATGAGCCTGCCAACATGACCACGGATCCCTCC
+AGTTACTATCACACGACAACAATAAACTACGTGGTTGATAATTTTGGAACCAACACCACAGAGTTTCTGT
+TCCAAGTCGATCATTTGACGTATGTGCAGCTCGAGGCAAGATTCACACCACAATTCCTTGTCCTCCTAAA
+TGAAACCATCTACTCTGATAACCGCAGAAGTAACACAACAGGAAAACTAATCTGGAAAATAAATCCCACT
+GTTGATACCAGCATGGGTGAGTGGGCTTTCTGGGAAAATAAAAAAACTTCACAAAAACCCTTTCAAGTGA
+AGAGTTGTCTTTCGTACCTGTACCAGAAACCCAGAACCAGGTCCTTGACACGACAGCGACGGTCTCTCCT
+CCCATCTCCGCCCACAACCACGCAGCCGAAGACCACAAAGAATTGGTTTCAGAGGATTCCACTCCAGTGG
+TTCAGATGCAAAACATCAAGGGAAAGGACACAATGCCAACCACAGTGACGGGTGTACCAACAACCACACC
+CTCTCCATTTCCAATCAATGCTCGCAACACTGATCATACCAAATCATTTATCGGCCTGGAGGGGCCCCAA
+GAAGACCACAGCACCACACAGCCTGCCAAGACCACCAGCCAACCAACCAACAGCACAGAATCGACGACAC
+TAAACCCAACATCAGAGCCCTCCAGTAGAGGCACGGGACCATCCAGCCCCACGGTCCCCAACACCACAGA
+AAGCCACGCCGAACTTGGCAAGACAACCCCAACCACACTCCCAGAACAGCACACTGCCGCCAGTGCCATT
+CCAAGAGCCGTGCACCCCGACGAACTCAGTGGACCTGGCTTCCTGACGAACACAATACGGGGGGTTACAA
+ATCTCCTGACAGGATCCAGAAGAAAGCGAAGGGATGTCACTCCCAATACACAACCCAAATGCAACCCAAA
+CCTGCACTATTGGACAGCCTTGGATGAGGGTGCTGCCATAGGTTTAGCCTGGATACCATACTTCGGGCCA
+GCAGCTGAGGGAATTTACACTGAAGGCATAATGGAGAATCAAAATGGATTGATCTGTGGATTGAGGCAGC
+TGGCCAACGAAACGACACAAGCTCTTCAATTGTTCTTAAGGGCAACTACTGAGTTGCGTACATTCTCTAT
+ACTAAATCGGAAAGCAATAGACTTCTTGCTCCAAAGATGGGGAGGAACATGTCACATTCTAGGGCCTGAT
+TGTTGCATTGAACCCCAAGATTGGACCAAAAATATCACTGATAAAATTGATCAAATAATCCATGACTTTG
+TCGATAATAATCTTCCAAATCAGAATGATGGCAGCAACTGGTGGACTGGATGGAAACAATGGGTTCCTGC
+TGGAATAGGAATCACAGGAGTAATCATTGCTATTATTGCTTTGCTGTGCATTTGCAAATTCATGCTTTGA
+ACTAATATAGCATCATACTTTCTAATATTCCCCCAATATGAATTTTTGTTTTCGATTTTATTTAATGATA
+TATCCTCTGTATACCTCACTAATGTACTCGAGCATAATTTCCCTGATAGACTTGATTGTATTTGATGATT
+AAGGACCTCACAAAATTCCTGGGGATTGAAAAGAACTGGATAACTCAATAAATTTTATGCTAGGACCACA
+AATACACTTGATGAAGATTAAGAAAA</dna_sequence>
+        <protein_sequence>>gi|302315373|ref|YP_003815426.1| spike glycoprotein precursor [Tai Forest ebolavirus]
+MGASGILQLPRERFRKTSFFVWVIILFHKVFSIPLGVVHNNTLQVSDIDKFVCRDKLSSTSQLKSVGLNL
+EGNGVATDVPTATKRWGFRAGVPPKVVNCEAGEWAENCYNLAIKKVDGSECLPEAPEGVRDFPRCRYVHK
+VSGTGPCPGGLAFHKEGAFFLYDRLASTIIYRGTTFAEGVIAFLILPKARKDFFQSPPLHEPANMTTDPS
+SYYHTTTINYVVDNFGTNTTEFLFQVDHLTYVQLEARFTPQFLVLLNETIYSDNRRSNTTGKLIWKINPT
+VDTSMGEWAFWENKKNFTKTLSSEELSFVPVPETQNQVLDTTATVSPPISAHNHAAEDHKELVSEDSTPV
+VQMQNIKGKDTMPTTVTGVPTTTPSPFPINARNTDHTKSFIGLEGPQEDHSTTQPAKTTSQPTNSTESTT
+LNPTSEPSSRGTGPSSPTVPNTTESHAELGKTTPTTLPEQHTAASAIPRAVHPDELSGPGFLTNTIRGVT
+NLLTGSRRKRRDVTPNTQPKCNPNLHYWTALDEGAAIGLAWIPYFGPAAEGIYTEGIMENQNGLICGLRQ
+LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPQDWTKNITDKIDQIIHDF
+VDNNLPNQNDGSNWWTGWKQWVPAGIGITGVIIAIIALLCICKFML</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene10">
+        <gene_name>GP from Reston ebolavirus</gene_name>
+        <strain>Reston ebolavirus</strain>
+        <vo_id>VO_0010858</vo_id>
+        <ncbi_gene_id>955190</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>22789230</ncbi_protein_id>
+        <gene_locus_tag>REBOVgp4</gene_locus_tag>
+        <gene_refseq>AF522874</gene_refseq>
+        <protein_refseq>NP_690583</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186539</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>5900</gene_start>
+        <gene_end>8255</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>6.35</protein_pi>
+        <protein_weight>71040.95</protein_weight>
+        <protein_length>677</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_004161.1:5900-8255 Reston ebolavirus isolate Reston virus/M.fascicularis-tc/USA/1989/Philippines89-Pennsylvania, complete genome
+CGATGAAGATTAAGGCGACAACGAGCCGAAACTTCATCTCTTTTAAAGATCTAACATTATCTGTTCCAAA
+GTCATACAAGGACACATTCAAATCAGGGATTGTAAGCTGCTATTTCTTACCTCCCCAAATTACCTATACA
+ACATGGGGTCAGGATATCAACTTCTCCAATTGCCTCGGGAACGTTTTCGTAAAACTTCGTTCTTAGTATG
+GGTAATCATCCTCTTCCAGCGAGCAATCTCCATGCCGCTTGGTATAGTGACAAATAGCACTCTCAAAGCA
+ACAGAAATTGATCAATTGGTTTGTCGGGACAAACTGTCATCAACCAGTCAGCTCAAGTCTGTGGGGCTGA
+ATCTGGAAGGAAATGGAATTGCAACCGATGTCCCATCAGCAACAAAACGCTGGGGATTTCGTTCAGGTGT
+GCCTCCCAAGGTGGTCAGCTATGAAGCCGGAGAATGGGCAGAAAATTGCTACAATCTGGAGATCAAAAAG
+TCAGACGGAAGTGAATGCCTCCCTCTCCCTCCCGACGGTGTACGAGGATTCCCTAGATGTCGCTATGTCC
+ACAAAGTTCAAGGAACAGGTCCTTGTCCTGGTGACTTAGCTTTCCATAAAAATGGGGCTTTTTTCTTGTA
+TGATAGATTGGCCTCAACTGTCATCTACCGAGGGACAACTTTTGCTGAAGGTGTCGTAGCTTTTTTAATT
+CTGTCAGAGCCCAAGAAGCATTTTTGGAAGGCTACACCAGCTCATGAACCGGTGAACACAACAGATGATT
+CCACAAGCTACTACATGACCCTGACACTCAGCTACGAGATGTCAAATTTTGGGGGCAATGAAAGCAACAC
+CCTTTTTAAGGTAGACAACCACACATATGTGCAACTAGATCGTCCACACACTCCGCAGTTCCTTGTTCAG
+CTCAATGAAACACTTCGAAGAAATAATCGCCTTAGCAACAGTACAGGGAGATTGACTTGGACATTGGATC
+CTAAAATTGAACCAGATGTTGGTGAGTGGGCCTTCTGGGAAACTAAAAAAACTTTTCCCAACAACTTCAT
+GGAGAAAACTTGCATTTCCAAATTCCATCAACCCACACCAACAACTCCTCAGATCAGAGCCCGGCGGGAA
+CTGTCCAAGGAAAAATTAGCTACCACCCACCCGCCAACAACTCCGAGCTGGTTCCAACGGATTCCCCTCC
+AGTGGTTTCAGTGCTCACTGCAGGACGGACAGAGGAAATGTCGACCCAAGGTCTAACCAACGGAGAGACA
+ATCACAGGTTTCACCGCGAACCCAATGACAACCACCATTGCCCCAAGTCCAACCATGACAAGCGAGGTTG
+ATAACAATGTACCAAGTGAACAGCCGAACAACACAGCATCCATTGAAGACTCCCCCCCATCGGCAAGCAA
+CGAGACAATTTACCACTCCGAGATGGATCCGATCCAAGGCTCGAACAACTCCGCCCAGAGCCCACAGACC
+AAGACCACGCCAGCACCCACAACATCCCCGATGACCCAGGACCCGCAAGAGACGGCCAACAGCAGCAAAC
+CAGGAACCAGCCCAGGAAGCGCAGCCGGACCAAGTCAGCCCGGACTCACTATAAATACAGTAAGTAAGGT
+AGCTGATTCACTGAGTCCCACCAGGAAACAAAAGCGATCGGTTCGACAAAACACCGCTAATAAATGTAAC
+CCAGATCTTTACTATTGGACAGCTGTTGATGAGGGGGCAGCAGTAGGATTGGCATGGATTCCATATTTCG
+GACCTGCAGCAGAAGGCATCTACATTGAGGGTGTAATGCATAATCAGAATGGGCTTATTTGCGGGCTACG
+TCAGCTAGCCAATGAAACTACCCAGGCTCTTCAATTATTTCTGCGGGCCACAACAGAACTGAGGACTTAC
+TCACTTCTTAACAGAAAAGCTATTGATTTTCTTCTTCAACGATGGGGAGGTACCTGTCGAATCCTAGGAC
+CATCTTGTTGCATTGAGCCACATGATTGGACAAAAAATATTACTGATGAAATTAACCAAATTAAACATGA
+CTTTATTGACAATCCCCTACCAGACCACGGAGATGATCTTAATCTATGGACAGGTTGGAGACAATGGATC
+CCGGCTGGAATTGGGATTATTGGAGTTATAATTGCTATAATAGCCCTACTTTGTATATGTAAGATTTTGT
+GTTGATTTATTCTGAGATCTGAGAGAGAAAAATCTCAGGGTTACTCTAAGGAGAAATATTATTTTTAAAA
+TTTACTTGAATGCTGACCACTTATCTTAAATGAGCAATTAATAATATGTTTTTCTGCTTCTTTGCTTGAT
+TTACAATATGATATTTCTCTTAATAATGATTAATATATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_690583.1 spike glycoprotein [Reston ebolavirus]
+MGSGYQLLQLPRERFRKTSFLVWVIILFQRAISMPLGIVTNSTLKATEIDQLVCRDKLSSTSQLKSVGLN
+LEGNGIATDVPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKSDGSECLPLPPDGVRGFPRCRYVH
+KVQGTGPCPGDLAFHKNGAFFLYDRLASTVIYRGTTFAEGVVAFLILSEPKKHFWKATPAHEPVNTTDDS
+TSYYMTLTLSYEMSNFGGNESNTLFKVDNHTYVQLDRPHTPQFLVQLNETLRRNNRLSNSTGRLTWTLDP
+KIEPDVGEWAFWETKKNFSQQLHGENLHFQIPSTHTNNSSDQSPAGTVQGKISYHPPANNSELVPTDSPP
+VVSVLTAGRTEEMSTQGLTNGETITGFTANPMTTTIAPSPTMTSEVDNNVPSEQPNNTASIEDSPPSASN
+ETIYHSEMDPIQGSNNSAQSPQTKTTPAPTTSPMTQDPQETANSSKPGTSPGSAAGPSQPGLTINTVSKV
+ADSLSPTRKQKRSVRQNTANKCNPDLYYWTAVDEGAAVGLAWIPYFGPAAEGIYIEGVMHNQNGLICGLR
+QLANETTQALQLFLRATTELRTYSLLNRKAIDFLLQRWGGTCRILGPSCCIEPHDWTKNITDEINQIKHD
+FIDNPLPDHGDDLNLWTGWRQWIPAGIGIIGVIIAIIALLCICKILC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene453">
+        <gene_name>GP from Sudan ebolavirus</gene_name>
+        <strain>Sudan ebolavirus</strain>
+        <vo_id>VO_0010911</vo_id>
+        <ncbi_gene_id>3160774</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>55770812</ncbi_protein_id>
+        <gene_locus_tag>SEVgp4</gene_locus_tag>
+        <gene_refseq>AY316199</gene_refseq>
+        <protein_refseq>YP_138523</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186540</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>5882</gene_start>
+        <gene_end>8240</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>6.35</protein_pi>
+        <protein_weight>71813.2</protein_weight>
+        <protein_length>676</protein_length>
+        <protein_note>forms dimers linked by disulfide bonds (parallel orientation); processed by furin to yield SGP and delta peptide</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_006432.1:5882-8240 Sudan ebolavirus isolate Sudan virus/H.sapiens-tc/UGA/2000/Gulu-808892, complete genome
+TGATGAAGATTAAGCCTGATGAAGGCCCAACCTTCATCTTTTTACCATAATCTTGTTCTCAGTACCATTT
+GATAAGGGTACACTTGCCAATACGCCCCCATCCTAAGGGTCTCGCAATGGGGGGTCTTAGCCTACTCCAA
+TTGCCCAGGGACAAATTTCGGAAAAGCTCTTTCTTTGTTTGGGTCATCATCTTATTCCAAAAGGCCTTTT
+CCATGCCTTTGGGTGTTGTGACTAACAGCACTTTAGAAGTAACAGAGATTGACCAGCTAGTCTGCAAGGA
+TCATCTTGCATCTACTGACCAGCTGAAATCAGTTGGTCTCAACCTCGAGGGGAGCGGAGTATCTACTGAT
+ATCCCATCTGCAACAAAGCGTTGGGGCTTCAGATCTGGTGTTCCTCCCAAGGTGGTCAGCTATGAAGCGG
+GAGAATGGGCTGAAAATTGCTACAATCTTGAAATAAAGAAGCCGGACGGGAGCGAATGCTTACCCCCACC
+GCCAGATGGTGTCAGAGGCTTTCCAAGGTGCCGCTATGTTCACAAAGCCCAAGGAACCGGGCCCTGCCCA
+GGTGACTACGCCTTTCACAAGGATGGAGCTTTCTTCCTCTATGACAGGCTGGCTTCAACTGTAATTTACA
+GAGGAGTCAATTTTGCTGAGGGGGTAATTGCATTCTTGATATTGGCTAAACCAAAAGAAACGTTCCTTCA
+GTCACCCCCCATTCGAGAGGCAGTAAACTACACTGAAAATACATCAAGTTATTATGCCACATCCTACTTG
+GAGTATGAAATCGAAAATTTTGGTGCTCAACACTCCACGACCCTTTTCAAAATTGACAATAATACTTTTG
+TTCGTCTGGACAGGCCCCACACGCCTCAGTTCCTTTTCCAGCTGAATGATACCATTCACCTTCACCAACA
+GTTGAGTAATACAACTGGGAGACTAATTTGGACACTAGATGCTAATATCAATGCTGATATTGGTGAATGG
+GCTTTTTGGGAAAATAAAAAAATCTCTCCGAACAACTACGTGGAGAAGAGCTGTCTTTCGAAGCTTTATC
+GCTCAACGAGACAGAAGACGATGATGCGGCATCGTCGAGAATTACAAAGGGAAGAATCTCCGACCGGGCC
+ACCAGGAAGTATTCGGACCTGGTTCCAAAGAATTCCCCTGGGATGGTTCCATTGCACATACCAGAAGGGG
+AAACAACATTGCCGTCTCAGAATTCGACAGAAGGTCGAAGAGTAGGTGTGAACACTCAGGAGACCATTAC
+AGAGACAGCTGCAACAATTATAGGCACTAACGGCAACCATATGCAGATCTCCACCATCGGGATAAGACCG
+AGCTCCAGCCAAATCCCGAGTTCCTCACCGACCACGGCACCAAGCCCTGAGGCTCAGACCCCCACAACCC
+ACACATCAGGTCCATCAGTGATGGCCACCGAGGAACCAACAACACCACCGGGAAGCTCCCCCGGCCCAAC
+AACAGAAGCACCCACTCTCACCACCCCAGAAAATATAACAACAGCGGTTAAAACTGTCCTGCCACAGGAG
+TCCACAAGCAACGGTCTAATAACTTCAACAGTAACAGGGATTCTTGGGAGTCTTGGGCTTCGAAAACGCA
+GCAGAAGACAAACTAACACCAAAGCCACGGGTAAGTGCAATCCCAACTTACACTACTGGACTGCACAAGA
+ACAACATAATGCTGCTGGGATTGCCTGGATCCCGTACTTTGGACCGGGTGCGGAAGGCATATACACTGAA
+GGCCTGATGCATAACCAAAATGCCTTAGTCTGTGGACTTAGGCAACTTGCAAATGAAACAACTCAAGCTC
+TGCAGCTTTTCTTAAGAGCCACAACGGAGCTGCGGACATATACCATACTCAATAGGAAGGCCATAGATTT
+CCTTCTGCGACGATGGGGCGGGACATGCAGGATCCTGGGACCAGATTGTTGCATTGAGCCACATGATTGG
+ACAAAAAACATCACTGATAAAATCAACCAAATCATCCATGATTTCATCGACAACCCCTTACCTAATCAGG
+ATAATGATGATAATTGGTGGACGGGCTGGAGACAGTGGATCCCTGCAGGAATAGGCATTACTGGAATTAT
+TATTGCAATTATTGCTCTTCTTTGCGTTTGCAAGCTGCTTTGCTGAATATCAATTTGAATCATCAATTTA
+AGCTTGATACATTTCTAGCATTTTAAATTATAAACCGATACTGATACTTGAAAATCAGGCTAATGCCAAG
+TTCTGTGCAAAACTTGAAAGTAGGTTTACAAAAATCCTTTGGACTGGAATGCTTTGATACTCTTTCTCAA
+TACTATATAAGTTCCTTCCCAAGAATAATATTGATGAAGATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>YP_138523.1 spike glycoprotein [Sudan ebolavirus]
+MGGLSLLQLPRDKFRKSSFFVWVIILFQKAFSMPLGVVTNSTLEVTEIDQLVCKDHLASTDQLKSVGLNL
+EGSGVSTDIPSATKRWGFRSGVPPKVVSYEAGEWAENCYNLEIKKPDGSECLPPPPDGVRGFPRCRYVHK
+AQGTGPCPGDYAFHKDGAFFLYDRLASTVIYRGVNFAEGVIAFLILAKPKETFLQSPPIREAVNYTENTS
+SYYATSYLEYEIENFGAQHSTTLFKIDNNTFVRLDRPHTPQFLFQLNDTIHLHQQLSNTTGRLIWTLDAN
+INADIGEWAFWENKKNLSEQLRGEELSFEALSLNETEDDDAASSRITKGRISDRATRKYSDLVPKNSPGM
+VPLHIPEGETTLPSQNSTEGRRVGVNTQETITETAATIIGTNGNHMQISTIGIRPSSSQIPSSSPTTAPS
+PEAQTPTTHTSGPSVMATEEPTTPPGSSPGPTTEAPTLTTPENITTAVKTVLPQESTSNGLITSTVTGIL
+GSLGLRKRSRRQTNTKATGKCNPNLHYWTAQEQHNAAGIAWIPYFGPGAEGIYTEGLMHNQNALVCGLRQ
+LANETTQALQLFLRATTELRTYTILNRKAIDFLLRRWGGTCRILGPDCCIEPHDWTKNITDKINQIIHDF
+IDNPLPNQDNDDNWWTGWRQWIPAGIGITGIIIAIIALLCVCKLLC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Cynomolgus macaques were immunized with DNA/rAd5 vaccines expressing ZEBOV (GP) and SEBOV glycoprotein (GP) prior to lethal challenge with BEBOV. Vaccinated subjects developed robust, antigen-specific humoral and cellular immune responses against the GP from ZEBOV as well as cellular immunity against BEBOV GP, and immunized macaques were uniformly protected against lethal challenge with BEBOV [Ref1074:Hensley et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene452">
+        <gene_name>GP from Zaire ebolavirus</gene_name>
+        <strain>Zaire ebolavirus</strain>
+        <vo_id>VO_0010910</vo_id>
+        <ncbi_gene_id>911829</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10313995</ncbi_protein_id>
+        <gene_locus_tag>ZEBOVgp4</gene_locus_tag>
+        <gene_refseq>AF272001</gene_refseq>
+        <protein_refseq>NP_066246</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>5899</gene_start>
+        <gene_end>8304</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>6.6</protein_pi>
+        <protein_weight>70989.69</protein_weight>
+        <protein_length>676</protein_length>
+        <protein_note>sGP secreted as a anti-parallel oriented homodimer</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002549.1:5899-8304 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome
+CGATGAAGATTAAGCCGACAGTGAGCGTAATCTTCATCTCTCTTAGATTATTTGTTTTCCAGAGTAGGGG
+TCGTCAGGTCCTTTTCAATCGTGTAACCAAAATAAACTCCACTAGAAGGATATTGTGGGGCAACAACACA
+ATGGGCGTTACAGGAATATTGCAGTTACCTCGTGATCGATTCAAGAGGACATCATTCTTTCTTTGGGTAA
+TTATCCTTTTCCAAAGAACATTTTCCATCCCACTTGGAGTCATCCACAATAGCACATTACAGGTTAGTGA
+TGTCGACAAACTAGTTTGTCGTGACAAACTGTCATCCACAAATCAATTGAGATCAGTTGGACTGAATCTC
+GAAGGGAATGGAGTGGCAACTGACGTGCCATCTGCAACTAAAAGATGGGGCTTCAGGTCCGGTGTCCCAC
+CAAAGGTGGTCAATTATGAAGCTGGTGAATGGGCTGAAAACTGCTACAATCTTGAAATCAAAAAACCTGA
+CGGGAGTGAGTGTCTACCAGCAGCGCCAGACGGGATTCGGGGCTTCCCCCGGTGCCGGTATGTGCACAAA
+GTATCAGGAACGGGACCGTGTGCCGGAGACTTTGCCTTCCATAAAGAGGGTGCTTTCTTCCTGTATGATC
+GACTTGCTTCCACAGTTATCTACCGAGGAACGACTTTCGCTGAAGGTGTCGTTGCATTTCTGATACTGCC
+CCAAGCTAAGAAGGACTTCTTCAGCTCACACCCCTTGAGAGAGCCGGTCAATGCAACGGAGGACCCGTCT
+AGTGGCTACTATTCTACCACAATTAGATATCAGGCTACCGGTTTTGGAACCAATGAGACAGAGTACTTGT
+TCGAGGTTGACAATTTGACCTACGTCCAACTTGAATCAAGATTCACACCACAGTTTCTGCTCCAGCTGAA
+TGAGACAATATATACAAGTGGGAAAAGGAGCAATACCACGGGAAAACTAATTTGGAAGGTCAACCCCGAA
+ATTGATACAACAATCGGGGAGTGGGCCTTCTGGGAAACTAAAAAAACCTCACTAGAAAAATTCGCAGTGA
+AGAGTTGTCTTTCACAGTTGTATCAAACGGAGCCAAAAACATCAGTGGTCAGAGTCCGGCGCGAACTTCT
+TCCGACCCAGGGACCAACACAACAACTGAAGACCACAAAATCATGGCTTCAGAAAATTCCTCTGCAATGG
+TTCAAGTGCACAGTCAAGGAAGGGAAGCTGCAGTGTCGCATCTAACAACCCTTGCCACAATCTCCACGAG
+TCCCCAATCCCTCACAACCAAACCAGGTCCGGACAACAGCACCCATAATACACCCGTGTATAAACTTGAC
+ATCTCTGAGGCAACTCAAGTTGAACAACATCACCGCAGAACAGACAACGACAGCACAGCCTCCGACACTC
+CCTCTGCCACGACCGCAGCCGGACCCCCAAAAGCAGAGAACACCAACACGAGCAAGAGCACTGACTTCCT
+GGACCCCGCCACCACAACAAGTCCCCAAAACCACAGCGAGACCGCTGGCAACAACAACACTCATCACCAA
+GATACCGGAGAAGAGAGTGCCAGCAGCGGGAAGCTAGGCTTAATTACCAATACTATTGCTGGAGTCGCAG
+GACTGATCACAGGCGGGAGAAGAACTCGAAGAGAAGCAATTGTCAATGCTCAACCCAAATGCAACCCTAA
+TTTACATTACTGGACTACTCAGGATGAAGGTGCTGCAATCGGACTGGCCTGGATACCATATTTCGGGCCA
+GCAGCCGAGGGAATTTACATAGAGGGGCTAATGCACAATCAAGATGGTTTAATCTGTGGGTTGAGACAGC
+TGGCCAACGAGACGACTCAAGCTCTTCAACTGTTCCTGAGAGCCACAACTGAGCTACGCACCTTTTCAAT
+CCTCAACCGTAAGGCAATTGATTTCTTGCTGCAGCGATGGGGCGGCACATGCCACATTCTGGGACCGGAC
+TGCTGTATCGAACCACATGATTGGACCAAGAACATAACAGACAAAATTGATCAGATTATTCATGATTTTG
+TTGATAAAACCCTTCCGGACCAGGGGGACAATGACAATTGGTGGACAGGATGGAGACAATGGATACCGGC
+AGGTATTGGAGTTACAGGCGTTATAATTGCAGTTATCGCTTTATTCTGTATATGCAAATTTGTCTTTTAG
+TTTTTCTTCAGATTGCTTCATGGAAAAGCTCAGCCTCAAATCAATGAAACCAGGATTTAATTATATGGAT
+TACTTGAATCTAAGATTACTTGACAAATGATAATATAATACACTGGAGCTTTAAACATAGCCAATGTGAT
+TCTAACTCCTTTAAACTCACAGTTAATCATAAACAAGGTTTGACATCAATCTAGTTATCTCTTTGAGAAT
+GATAAACTTGATGAAGATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_066246.1 spike glycoprotein [Zaire ebolavirus]
+MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNL
+EGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHK
+VSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPS
+SGYYSTTIRYQATGFGTNETEYLFEVDNLTYVQLESRFTPQFLLQLNETIYTSGKRSNTTGKLIWKVNPE
+IDTTIGEWAFWETKKNLTRKIRSEELSFTVVSNGAKNISGQSPARTSSDPGTNTTTEDHKIMASENSSAM
+VQVHSQGREAAVSHLTTLATISTSPQSLTTKPGPDNSTHNTPVYKLDISEATQVEQHHRRTDNDSTASDT
+PSATTAAGPPKAENTNTSKSTDFLDPATTTSPQNHSETAGNNNTHHQDTGEESASSGKLGLITNTIAGVA
+GLITGGRRTRREAIVNAQPKCNPNLHYWTTQDEGAAIGLAWIPYFGPAAEGIYIEGLMHNQDGLICGLRQ
+LANETTQALQLFLRATTELRTFSILNRKAIDFLLQRWGGTCHILGPDCCIEPHDWTKNITDKIDQIIHDF
+VDKTLPDQGDNDNWWTGWRQWIPAGIGVTGVIIAVIALFCICKFVF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Cynomolgus macaques were immunized with DNA/rAd5 vaccines expressing ZEBOV (GP) and SEBOV glycoprotein (GP) prior to lethal challenge with BEBOV. Vaccinated subjects developed robust, antigen-specific humoral and cellular immune responses against the GP from ZEBOV as well as cellular immunity against BEBOV GP, and immunized macaques were uniformly protected against lethal challenge with BEBOV [Ref1074:Hensley et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1296">
+        <gene_name>NP from Zaire Ebola virus</gene_name>
+        <strain>Ebola virus - Mayinga, Zaire, 1976</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>911830</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10314000</ncbi_protein_id>
+        <gene_locus_tag>ZEBOVgp1</gene_locus_tag>
+        <gene_refseq>AF086833</gene_refseq>
+        <protein_refseq>NP_066243</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>128952</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>55</gene_start>
+        <gene_end>3025</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>4.77</protein_pi>
+        <protein_weight>79118.19</protein_weight>
+        <protein_length>739</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|10313991:55-3025 Ebola virus - Mayinga, Zaire, 1976 strain Mayinga
+TGAGGAAGATTAATAATTTTCCTCTCATTGAAATTTATATCGGAATTTAAATTGAAATTGTTACTGTAAT
+CACACCTGGTTTGTTTCAGAGCCACATCACAAAGATAGAGAACAACCTAGGTCTCCGAAGGGAGCAAGGG
+CATCAGTGTGCTCAGTTGAAAATCCCTTGTCAACACCTAGGTCTTATCACATCACAAGTTCCACCTCAGA
+CTCTGCAGGGTGATCCAACAACCTTAATAGAAACATTATTGTTAAAGGACAGCATTAGTTCACAGTCAAA
+CAAGCAAGATTGAGAATTAACCTTGGTTTTGAACTTGAACACTTAGGGGATTGAAGATTCAACAACCCTA
+AAGCTTGGGGTAAAACATTGGAAATAGTTAAAAGACAAATTGCTCGGAATCACAAAATTCCGAGTATGGA
+TTCTCGTCCTCAGAAAATCTGGATGGCGCCGAGTCTCACTGAATCTGACATGGATTACCACAAGATCTTG
+ACAGCAGGTCTGTCCGTTCAACAGGGGATTGTTCGGCAAAGAGTCATCCCAGTGTATCAAGTAAACAATC
+TTGAAGAAATTTGCCAACTTATCATACAGGCCTTTGAAGCAGGTGTTGATTTTCAAGAGAGTGCGGACAG
+TTTCCTTCTCATGCTTTGTCTTCATCATGCGTACCAGGGAGATTACAAACTTTTCTTGGAAAGTGGCGCA
+GTCAAGTATTTGGAAGGGCACGGGTTCCGTTTTGAAGTCAAGAAGCGTGATGGAGTGAAGCGCCTTGAGG
+AATTGCTGCCAGCAGTATCTAGTGGAAAAAACATTAAGAGAACACTTGCTGCCATGCCGGAAGAGGAGAC
+AACTGAAGCTAATGCCGGTCAGTTTCTCTCCTTTGCAAGTCTATTCCTTCCGAAATTGGTAGTAGGAGAA
+AAGGCTTGCCTTGAGAAGGTTCAAAGGCAAATTCAAGTACATGCAGAGCAAGGACTGATACAATATCCAA
+CAGCTTGGCAATCAGTAGGACACATGATGGTGATTTTCCGTTTGATGCGAACAAATTTTCTGATCAAATT
+TCTCCTAATACACCAAGGGATGCACATGGTTGCCGGGCATGATGCCAACGATGCTGTGATTTCAAATTCA
+GTGGCTCAAGCTCGTTTTTCAGGCTTATTGATTGTCAAAACAGTACTTGATCATATCCTACAAAAGACAG
+AACGAGGAGTTCGTCTCCATCCTCTTGCAAGGACCGCCAAGGTAAAAAATGAGGTGAACTCCTTTAAGGC
+TGCACTCAGCTCCCTGGCCAAGCATGGAGAGTATGCTCCTTTCGCCCGACTTTTGAACCTTTCTGGAGTA
+AATAATCTTGAGCATGGTCTTTTCCCTCAACTATCGGCAATTGCACTCGGAGTCGCCACAGCACACGGGA
+GTACCCTCGCAGGAGTAAATGTTGGAGAACAGTATCAACAACTCAGAGAGGCTGCCACTGAGGCTGAGAA
+GCAACTCCAACAATATGCAGAGTCTCGCGAACTTGACCATCTTGGACTTGATGATCAGGAAAAGAAAATT
+CTTATGAACTTCCATCAGAAAAAGAACGAAATCAGCTTCCAGCAAACAAACGCTATGGTAACTCTAAGAA
+AAGAGCGCCTGGCCAAGCTGACAGAAGCTATCACTGCTGCGTCACTGCCCAAAACAAGTGGACATTACGA
+TGATGATGACGACATTCCCTTTCCAGGACCCATCAATGATGACGACAATCCTGGCCATCAAGATGATGAT
+CCGACTGACTCACAGGATACGACCATTCCCGATGTGGTGGTTGATCCCGATGATGGAAGCTACGGCGAAT
+ACCAGAGTTACTCGGAAAACGGCATGAATGCACCAGATGACTTGGTCCTATTCGATCTAGACGAGGACGA
+CGAGGACACTAAGCCAGTGCCTAATAGATCGACCAAGGGTGGACAACAGAAGAACAGTCAAAAGGGCCAG
+CATATAGAGGGCAGACAGACACAATCCAGGCCAATTCAAAATGTCCCAGGCCCTCACAGAACAATCCACC
+ACGCCAGTGCGCCACTCACGGACAATGACAGAAGAAATGAACCCTCCGGCTCAACCAGCCCTCGCATGCT
+GACACCAATTAACGAAGAGGCAGACCCACTGGACGATGCCGACGACGAGACGTCTAGCCTTCCGCCCTTG
+GAGTCAGATGATGAAGAGCAGGACAGGGACGGAACTTCCAACCGCACACCCACTGTCGCCCCACCGGCTC
+CCGTATACAGAGATCACTCTGAAAAGAAAGAACTCCCGCAAGACGAGCAACAAGATCAGGACCACACTCA
+AGAGGCCAGGAACCAGGACAGTGACAACACCCAGTCAGAACACTCTTTTGAGGAGATGTATCGCCACATT
+CTAAGATCACAGGGGCCATTTGATGCTGTTTTGTATTATCATATGATGAAGGATGAGCCTGTAGTTTTCA
+GTACCAGTGATGGCAAAGAGTACACGTATCCAGACTCCCTTGAAGAGGAATATCCACCATGGCTCACTGA
+AAAAGAGGCTATGAATGAAGAGAATAGATTTGTTACATTGGATGGTCAACAATTTTATTGGCCGGTGATG
+AATCACAAGAATAAATTCATGGCAATCCTGCAACATCATCAGTGAATGAGCATGGAACAATGGGATGATT
+CAACCGACAAATAGCTAACATTAAGTAGTCAAGGAACGAAAACAGGAAGAATTTTTGATGTCTAAGGTGT
+GAATTATTATCACAATAAAAGTGATTCTTATTTTTGAATTTAAAGCTAGCTTATTATTACTAGCCGTTTT
+TCAAAGTTCAATTTGAGTCTTAATGCAAATAGGCGTTAAGCCACAGTTATAGCCATAATTGTAACTCAAT
+ATTCTAACTAGCGATTTATCTAAATTAAATTACATTATGCTTTTATAACTTACCTACTAGCCTGCCCAAC
+ATTTACACGATCGTTTTATAATTAAGAAAAA</dna_sequence>
+        <protein_sequence>>gi|10314000|ref|NP_066243.1| NP gene product [Ebola virus - Mayinga, Zaire, 1976]
+MDSRPQKIWMAPSLTESDMDYHKILTAGLSVQQGIVRQRVIPVYQVNNLEEICQLIIQAFEAGVDFQESA
+DSFLLMLCLHHAYQGDYKLFLESGAVKYLEGHGFRFEVKKRDGVKRLEELLPAVSSGKNIKRTLAAMPEE
+ETTEANAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPTAWQSVGHMMVIFRLMRTNFLI
+KFLLIHQGMHMVAGHDANDAVISNSVAQARFSGLLIVKTVLDHILQKTERGVRLHPLARTAKVKNEVNSF
+KAALSSLAKHGEYAPFARLLNLSGVNNLEHGLFPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAATEA
+EKQLQQYAESRELDHLGLDDQEKKILMNFHQKKNEISFQQTNAMVTLRKERLAKLTEAITAASLPKTSGH
+YDDDDDIPFPGPINDDDNPGHQDDDPTDSQDTTIPDVVVDPDDGSYGEYQSYSENGMNAPDDLVLFDLDE
+DDEDTKPVPNRSTKGGQQKNSQKGQHIEGRQTQSRPIQNVPGPHRTIHHASAPLTDNDRRNEPSGSTSPR
+MLTPINEEADPLDDADDETSSLPPLESDDEEQDRDGTSNRTPTVAPPAPVYRDHSEKKELPQDEQQDQDH
+TQEARNQDSDNTQSEHSFEEMYRHILRSQGPFDAVLYYHMMKDEPVVFSTSDGKEYTYPDSLEEEYPPWL
+TEKEAMNEENRFVTLDGQQFYWPVMNHKNKFMAILQHHQ</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene17">
+        <gene_name>VP24 from Zaire ebolavirus</gene_name>
+        <strain>Zaire ebolavirus</strain>
+        <vo_id>VO_0010866</vo_id>
+        <ncbi_gene_id>911828</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10313998</ncbi_protein_id>
+        <gene_locus_tag>ZEBOVgp6</gene_locus_tag>
+        <gene_refseq>AY142960</gene_refseq>
+        <protein_refseq>NP_066250</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>9884</gene_start>
+        <gene_end>11517</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>10.1</protein_pi>
+        <protein_weight>27225.61</protein_weight>
+        <protein_length>251</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002549.1:9884-11517 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome
+TGATGAAGATTAATGCGGAGGTCTGATAAGAATAAACCTTATTATTCAGATTAGGCCCCAAGAGGCATTC
+TTCATCTCCTTTTAGCAAAGTACTATTTCAGGGTAGTCCAATTAGTGGCACGTCTTTTAGCTGTATATCA
+GTCGCCCCTGAGATACGCCACAAAAGTGTCTCTAAGCTAAATTGGTCTGTACACATCCCATACATTGTAT
+TAGGGGCAATAATATCTAATTGAACTTAGCCGTTTAAAATTTAGTGCATAAATCTGGGCTAACACCACCA
+GGTCAACTCCATTGGCTGAAAAGAAGCTTACCTACAACGAACATCACTTTGAGCGCCCTCACAATTAAAA
+AATAGGAACGTCGTTCCAACAATCGAGCGCAAGGTTTCAAGGTTGAACTGAGAGTGTCTAGACAACAAAA
+TATTGATACTCCAGACACCAAGCAAGACCTGAGAAAAAACCATGGCTAAAGCTACGGGACGATACAATCT
+AATATCGCCCAAAAAGGACCTGGAGAAAGGGGTTGTCTTAAGCGACCTCTGTAACTTCTTAGTTAGCCAA
+ACTATTCAGGGGTGGAAGGTTTATTGGGCTGGTATTGAGTTTGATGTGACTCACAAAGGAATGGCCCTAT
+TGCATAGACTGAAAACTAATGACTTTGCCCCTGCATGGTCAATGACAAGGAATCTCTTTCCTCATTTATT
+TCAAAATCCGAATTCCACAATTGAATCACCGCTGTGGGCATTGAGAGTCATCCTTGCAGCAGGGATACAG
+GACCAGCTGATTGACCAGTCTTTGATTGAACCCTTAGCAGGAGCCCTTGGTCTGATCTCTGATTGGCTGC
+TAACAACCAACACTAACCATTTCAACATGCGAACACAACGTGTCAAGGAACAATTGAGCCTAAAAATGCT
+GTCGTTGATTCGATCCAATATTCTCAAGTTTATTAACAAATTGGATGCTCTACATGTCGTGAACTACAAC
+GGATTGTTGAGCAGTATTGAAATTGGAACTCAAAATCATACAATCATCATAACTCGAACTAACATGGGTT
+TTCTGGTGGAGCTCCAAGAACCCGACAAATCGGCAATGAACCGCATGAAGCCTGGGCCGGCGAAATTTTC
+CCTCCTTCATGAGTCCACACTGAAAGCATTTACACAAGGATCCTCGACACGAATGCAAAGTTTGATTCTT
+GAATTTAATAGCTCTCTTGCTATCTAACTAAGGTAGAATACTTCATATTGAGCTAACTCATATATGCTGA
+CTCAATAGTTATCTTGACATCTCTGCTTTCATAATCAGATATATAAGCATAATAAATAAATACTCATATT
+TCTTGATAATTTGTTTAACCACAGATAAATCCTCACTGTAAGCCAGCTTCCAAGTTGACACCCTTACAAA
+AACCAGGACTCAGAATCCCTCAAACAAGAGATTCCAAGACAACATCATAGAATTGCTTTATTATATGAAT
+AAGCATTTTATCACCAGAAATCCTATATACTAAATGGTTAATTGTAACTGAACCCGCAGGTCACATGTGT
+TAGGTTTCACAGATTCTATATATTACTAACTCTATACTCGTAATTAACATTAGATAAGTAGATTAAGAAA
+AAAGCCTGAGGAAGATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_066250.1 membrane-associated protein [Zaire ebolavirus]
+MAKATGRYNLISPKKDLEKGVVLSDLCNFLVSQTIQGWKVYWAGIEFDVTHKGMALLHRLKTNDFAPAWS
+MTRNLFPHLFQNPNSTIESPLWALRVILAAGIQDQLIDQSLIEPLAGALGLISDWLLTTNTNHFNMRTQR
+VKEQLSLKMLSLIRSNILKFINKLDALHVVNYNGLLSSIEIGTQNHTIIITRTNMGFLVELQEPDKSAMN
+RMKPGPAKFSLLHESTLKAFTQGSSTRMQSLILEFNSSLAI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>VP24 expressed from alphavirus replicons induced a protective immune response in BALB/c mice when challenged with Ebola virus Zaire [Ref88:Wilson et al., 2001].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene18">
+        <gene_name>VP30 from Zaire ebolavirus</gene_name>
+        <strain>Zaire ebolavirus</strain>
+        <vo_id>VO_0010867</vo_id>
+        <ncbi_gene_id>911826</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10313997</ncbi_protein_id>
+        <gene_locus_tag>ZEBOVgp5</gene_locus_tag>
+        <gene_refseq>AF272001</gene_refseq>
+        <protein_refseq>NP_066249</protein_refseq>
+        <pdb_id>2I8B</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>8287</gene_start>
+        <gene_end>9739</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>8.23</protein_pi>
+        <protein_weight>31130.81</protein_weight>
+        <protein_length>288</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002549.1:8287-9739 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome
+TGATGAAGATTAAGAAAAAGGTAATCTTTCGATTATCTTTAATCTTCATCCTTGATTCTACAATCATGAC
+AGTTGTCTTTAGTGACAAGGGAAAGAAGCCTTTTTATTAAGTTGTAATAATCAGATCTGCGAACCGGTAG
+AGTTTAGTTGCAACCTAACACACATAAAGCATTGGTCAAAAAGTCAATAGAAATTTAAACAGTGAGTGGA
+GACAACTTTTAAATGGAAGCTTCATATGAGAGAGGACGCCCACGAGCTGCCAGACAGCATTCAAGGGATG
+GACACGACCACCATGTTCGAGCACGATCATCATCCAGAGAGAATTATCGAGGTGAGTACCGTCAATCAAG
+GAGCGCCTCACAAGTGCGCGTTCCTACTGTATTTCATAAGAAGAGAGTTGAACCATTAACAGTTCCTCCA
+GCACCTAAAGACATATGTCCGACCTTGAAAAAAGGATTTTTGTGTGACAGTAGTTTTTGCAAAAAAGATC
+ACCAGTTGGAGAGTTTAACTGATAGGGAATTACTCCTACTAATCGCCCGTAAGACTTGTGGATCAGTAGA
+ACAACAATTAAATATAACTGCACCCAAGGACTCGCGCTTAGCAAATCCAACGGCTGATGATTTCCAGCAA
+GAGGAAGGTCCAAAAATTACCTTGTTGACACTGATCAAGACGGCAGAACACTGGGCGAGACAAGACATCA
+GAACCATAGAGGATTCAAAATTAAGAGCATTGTTGACTCTATGTGCTGTGATGACGAGGAAATTCTCAAA
+ATCCCAGCTGAGTCTTTTATGTGAGACACACCTAAGGCGCGAGGGGCTTGGGCAAGATCAGGCAGAACCC
+GTTCTCGAAGTATATCAACGATTACACAGTGATAAAGGAGGCAGTTTTGAAGCTGCACTATGGCAACAAT
+GGGACCGACAATCCCTAATTATGTTTATCACTGCATTCTTGAATATTGCTCTCCAGTTACCGTGTGAAAG
+TTCTGCTGTCGTTGTTTCAGGGTTAAGAACATTGGTTCCTCAATCAGATAATGAGGAAGCTTCAACCAAC
+CCGGGGACATGCTCATGGTCTGATGAGGGTACCCCTTAATAAGGCTGACTAAAACACTATATAACCTTCT
+ACTTGATCACAATACTCCGTATACCTATCATCATATATTTAATCAAGACGATATCCTTTAAAACTTATTC
+AGTACTATAATCACTCTCGTTTCAAATTAATAAGATGTGCATGATTGCCCTAATATATGAAGAGGTATGA
+TACAACCCTAACAGTGATCAAAGAAAATCATAATCTCGTATCGCTCGTAATATAACCTGCCAAGCATACC
+TCTTGCACAAAGTGATTCTTGTACACAAATAATGTTTTACTCTACAGGAGGTAGCAACGATCCATCCCAT
+CAAAAAATAAGTATTTCATGACTTACTAATGATCTCTTAAAATATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_066249.1 minor nucleoprotein [Zaire ebolavirus]
+MEASYERGRPRAARQHSRDGHDHHVRARSSSRENYRGEYRQSRSASQVRVPTVFHKKRVEPLTVPPAPKD
+ICPTLKKGFLCDSSFCKKDHQLESLTDRELLLLIARKTCGSVEQQLNITAPKDSRLANPTADDFQQEEGP
+KITLLTLIKTAEHWARQDIRTIEDSKLRALLTLCAVMTRKFSKSQLSLLCETHLRREGLGQDQAEPVLEV
+YQRLHSDKGGSFEAALWQQWDRQSLIMFITAFLNIALQLPCESSAVVVSGLRTLVPQSDNEEASTNPGTC
+SWSDEGTP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>VP30 expressed from alphavirus replicons induced a protective immune response in BALB/c mice when challenged with Ebola virus Zaire [Ref88:Wilson et al., 2001].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene16">
+        <gene_name>VP35 from Zaire ebolavirus</gene_name>
+        <strain>Zaire ebolavirus</strain>
+        <vo_id>VO_0010864</vo_id>
+        <ncbi_gene_id>911827</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10313992</ncbi_protein_id>
+        <gene_locus_tag>ZEBOVgp2</gene_locus_tag>
+        <gene_refseq>AF272001</gene_refseq>
+        <protein_refseq>NP_066244</protein_refseq>
+        <pdb_id>3FKE</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>3031</gene_start>
+        <gene_end>4406</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>6.62</protein_pi>
+        <protein_weight>35575.45</protein_weight>
+        <protein_length>340</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002549.1:3031-4406 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome
+TGATGAAGATTAAAACCTTCATCATCCTTACGTCAATTGAATTCTCTAGCACTCGAAGCTTATTGTCTTC
+AATGTAAAAGAAAAGCTGGTCTAACAAGATGACAACTAGAACAAAGGGCAGGGGCCATACTGCGGCCACG
+ACTCAAAACGACAGAATGCCAGGCCCTGAGCTTTCGGGCTGGATCTCTGAGCAGCTAATGACCGGAAGAA
+TTCCTGTAAGCGACATCTTCTGTGATATTGAGAACAATCCAGGATTATGCTACGCATCCCAAATGCAACA
+AACGAAGCCAAACCCGAAGACGCGCAACAGTCAAACCCAAACGGACCCAATTTGCAATCATAGTTTTGAG
+GAGGTAGTACAAACATTGGCTTCATTGGCTACTGTTGTGCAACAACAAACCATCGCATCAGAATCATTAG
+AACAACGCATTACGAGTCTTGAGAATGGTCTAAAGCCAGTTTATGATATGGCAAAAACAATCTCCTCATT
+GAACAGGGTTTGTGCTGAGATGGTTGCAAAATATGATCTTCTGGTGATGACAACCGGTCGGGCAACAGCA
+ACCGCTGCGGCAACTGAGGCTTATTGGGCCGAACATGGTCAACCACCACCTGGACCATCACTTTATGAAG
+AAAGTGCGATTCGGGGTAAGATTGAATCTAGAGATGAGACCGTCCCTCAAAGTGTTAGGGAGGCATTCAA
+CAATCTAAACAGTACCACTTCACTAACTGAGGAAAATTTTGGGAAACCTGACATTTCGGCAAAGGATTTG
+AGAAACATTATGTATGATCACTTGCCTGGTTTTGGAACTGCTTTCCACCAATTAGTACAAGTGATTTGTA
+AATTGGGAAAAGATAGCAACTCATTGGACATCATTCATGCTGAGTTCCAGGCCAGCCTGGCTGAAGGAGA
+CTCTCCTCAATGTGCCCTAATTCAAATTACAAAAAGAGTTCCAATCTTCCAAGATGCTGCTCCACCTGTC
+ATCCACATCCGCTCTCGAGGTGACATTCCCCGAGCTTGCCAGAAAAGCTTGCGTCCAGTCCCACCATCGC
+CCAAGATTGATCGAGGTTGGGTATGTGTTTTTCAGCTTCAAGATGGTAAAACACTTGGACTCAAAATTTG
+AGCCAATCTCCCTTCCCTCCGAAAGAGGCGAATAATAGCAGAGGCTTCAACTGCTGAACTATAGGGTACG
+TTACATTAATGATACACTTGTGAGTATCAGCCCTGGATAATATAAGTCAATTAAACGACCAAGATAAAAT
+TGTTCATATCTCGCTAGCAGCTTAAAATATAAATGTAATAGGAGCTATATCTCTGACAGTATTATAATCA
+ATTGTTATTAAGTAACCCAAACCAAAAGTGATGAAGATTAAGAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_066244.1 polymerase complex protein [Zaire ebolavirus]
+MTTRTKGRGHTAATTQNDRMPGPELSGWISEQLMTGRIPVSDIFCDIENNPGLCYASQMQQTKPNPKTRN
+SQTQTDPICNHSFEEVVQTLASLATVVQQQTIASESLEQRITSLENGLKPVYDMAKTISSLNRVCAEMVA
+KYDLLVMTTGRATATAAATEAYWAEHGQPPPGPSLYEESAIRGKIESRDETVPQSVREAFNNLNSTTSLT
+EENFGKPDISAKDLRNIMYDHLPGFGTAFHQLVQVICKLGKDSNSLDIIHAEFQASLAEGDSPQCALIQI
+TKRVPIFQDAAPPVIHIRSRGDIPRACQKSLRPVPPSPKIDRGWVCVFQLQDGKTLGLKI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>VP35 expressed from alphavirus replicons induced a protective immune response in C57BL/6 mice when challenged with Ebola virus Zaire [Ref88:Wilson et al., 2001].</phi_annotation>
+        <phi_function2>Protective antigen</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene19">
+        <gene_name>VP40 from Zaire ebolavirus</gene_name>
+        <strain>Zaire ebolavirus</strain>
+        <vo_id>VO_0010868</vo_id>
+        <ncbi_gene_id>911825</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10313993</ncbi_protein_id>
+        <gene_locus_tag>ZEBOVgp3</gene_locus_tag>
+        <gene_refseq>AF272001</gene_refseq>
+        <protein_refseq>NP_066245</protein_refseq>
+        <pdb_id>1ES6</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>186538</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>4389</gene_start>
+        <gene_end>5893</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>mRNA</protein_name>
+        <protein_pi>9.02</protein_pi>
+        <protein_weight>33197.88</protein_weight>
+        <protein_length>326</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002549.1:4389-5893 Zaire ebolavirus isolate Ebola virus/H.sapiens-tc/COD/1976/Yambuku-Mayinga, complete genome
+TGATGAAGATTAAGAAAAACCTACCTCGGCTGAGAGAGTGTTTTTTCATTAACCTTCATCTTGTAAACGT
+TGAGCAAAATTGTTAAAAATATGAGGCGGGTTATATTGCCTACTGCTCCTCCTGAATATATGGAGGCCAT
+ATACCCTGTCAGGTCAAATTCAACAATTGCTAGAGGTGGCAACAGCAATACAGGCTTCCTGACACCGGAG
+TCAGTCAATGGGGACACTCCATCGAATCCACTCAGGCCAATTGCCGATGACACCATCGACCATGCCAGCC
+ACACACCAGGCAGTGTGTCATCAGCATTCATCCTTGAAGCTATGGTGAATGTCATATCGGGCCCCAAAGT
+GCTAATGAAGCAAATTCCAATTTGGCTTCCTCTAGGTGTCGCTGATCAAAAGACCTACAGCTTTGACTCA
+ACTACGGCCGCCATCATGCTTGCTTCATACACTATCACCCATTTCGGCAAGGCAACCAATCCACTTGTCA
+GAGTCAATCGGCTGGGTCCTGGAATCCCGGATCATCCCCTCAGGCTCCTGCGAATTGGAAACCAGGCTTT
+CCTCCAGGAGTTCGTTCTTCCGCCAGTCCAACTACCCCAGTATTTCACCTTTGATTTGACAGCACTCAAA
+CTGATCACCCAACCACTGCCTGCTGCAACATGGACCGATGACACTCCAACAGGATCAAATGGAGCGTTGC
+GTCCAGGAATTTCATTTCATCCAAAACTTCGCCCCATTCTTTTACCCAACAAAAGTGGGAAGAAGGGGAA
+CAGTGCCGATCTAACATCTCCGGAGAAAATCCAAGCAATAATGACTTCACTCCAGGACTTTAAGATCGTT
+CCAATTGATCCAACCAAAAATATCATGGGAATCGAAGTGCCAGAAACTCTGGTCCACAAGCTGACCGGTA
+AGAAGGTGACTTCTAAAAATGGACAACCAATCATCCCTGTTCTTTTGCCAAAGTACATTGGGTTGGACCC
+GGTGGCTCCAGGAGACCTCACCATGGTAATCACACAGGATTGTGACACGTGTCATTCTCCTGCAAGTCTT
+CCAGCTGTGATTGAGAAGTAATTGCAATAATTGACTCAGATCCAGTTTTATAGAATCTTCTCAGGGATAG
+TGATAACATCTATTTAGTAATCCGTCCATTAGAGGAGACACTTTTAATTGATCAATATACTAAAGGTGCT
+TTACACCATTGTCTTTTTTCTCTCCTAAATGTAGAACTTAACAAAAGACTCATAATATACTTGTTTTTAA
+AGGATTGATTGATGAAAGATCATAACTAATAACATTACAAATAATCCTACTATAATCAATACGGTGATTC
+AAATGTTAATCTTTCTCATTGCACATACTTTTTGCCCTTATCCTCAAATTGCCTGCATGCTTACATCTGA
+GGATAGCCAGTGTGACTTGGATTGGAAATGTGGAGAAAAAATCGGGACCCATTTCTAGGTTGTTCACAAT
+CCAAGTACAGACATTGCCCTTCTAATTAAGAAAAA
+
+</dna_sequence>
+        <protein_sequence>>NP_066245.1 matrix protein [Zaire ebolavirus]
+MRRVILPTAPPEYMEAIYPVRSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTIDHASHTPGSVS
+SAFILEAMVNVISGPKVLMKQIPIWLPLGVADQKTYSFDSTTAAIMLASYTITHFGKATNPLVRVNRLGP
+GIPDHPLRLLRIGNQAFLQEFVLPPVQLPQYFTFDLTALKLITQPLPAATWTDDTPTGSNGALRPGISFH
+PKLRPILLPNKSGKKGNSADLTSPEKIQAIMTSLQDFKIVPIDPTKNIMGIEVPETLVHKLTGKKVTSKN
+GQPIIPVLLPKYIGLDPVAPGDLTMVITQDCDTCHSPASLPAVIEK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Vaccination of BALB/c or C57BL/6 mice with eVLPs, composed of the EBOV glycoprotein and matrix viral protein (VP)40 with a lipid membrane, in conjunction with QS-21 adjuvant resulted in mixed IgG subclass responses, a Th1-like memory cytokine response, and protection from lethal EBOV challenge [Ref1076:Warfield et al., 2005].
+
+VP40 expressed from alphavirus replicons induced a protective immune response in BALB/c mice when challenged with Ebola virus Zaire [Ref88:Wilson et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1075">
+		<reference_name>Bukreyev et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bukreyev A, Yang L, Zaki SR, Shieh WJ, Rollin PE, Murphy BR, Collins PL, Sanchez A</authors>
+		<title>A single intranasal inoculation with a paramyxovirus-vectored vaccine protects guinea pigs against a lethal-dose Ebola virus challenge</title>
+		<year>2006</year>
+		<volume>80</volume>
+		<issue>5</issue>
+		<pages>2267-2279</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3121">
+		<reference_name>Falzarano et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Falzarano D, Feldmann F, Grolla A, Leung A, Ebihara H, Strong JE, Marzi A, Takada A, Jones S, Gren J, Geisbert J, Jones SM, Geisbert TW, Feldmann H</authors>
+		<title>Single immunization with a monovalent vesicular stomatitis virus-based vaccine protects nonhuman primates against heterologous challenge with Bundibugyo ebolavirus</title>
+		<year>2011</year>
+		<volume>204 Suppl 3</volume>
+		<issue></issue>
+		<pages>S1082-1089</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference78">
+		<reference_name>Feldmann et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Feldmann H, Jones S, Klenk HD, Schnittler HJ</authors>
+		<title>Ebola virus: from discovery to vaccine</title>
+		<year>2003 Aug</year>
+		<volume>3</volume>
+		<issue>8</issue>
+		<pages>677-85</pages>
+		<journal_book_name>Nature reviews. Immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2278">
+		<reference_name>Garbutt et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Garbutt M, Liebscher R, Wahl-Jensen V, Jones S, MÃ¶ller P, Wagner R, Volchkov V, Klenk HD, Feldmann H, StrÃ¶her U</authors>
+		<title>Properties of replication-competent vesicular stomatitis virus vectors expressing glycoproteins of filoviruses and arenaviruses</title>
+		<year>2004</year>
+		<volume>78</volume>
+		<issue>10</issue>
+		<pages>5458-5465</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4835">
+		<reference_name>Garufi et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Garufi G, Wang YT, Oh SY, Maier H, Missiakas DM, Schneewind O</authors>
+		<title>Sortase-conjugation generates a capsule vaccine that protects guinea pigs against Bacillus anthracis</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>23</issue>
+		<pages>3435-3444</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference86">
+		<reference_name>Geisbert et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Geisbert TW, Pushko P, Anderson K, Smith J, Davis KJ, Jahrling PB</authors>
+		<title>Evaluation in nonhuman primates of vaccines against Ebola virus</title>
+		<year>2002 May</year>
+		<volume>8</volume>
+		<issue>5</issue>
+		<pages>503-7</pages>
+		<journal_book_name>Emerging infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1074">
+		<reference_name>Hensley et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hensley LE, Mulangu S, Asiedu C, Johnson J, Honko AN, Stanley D, Fabozzi G, Nichol ST, Ksiazek TG, Rollin PE, Wahl-Jensen V, Bailey M, Jahrling PB, Roederer M, Koup RA, Sullivan NJ</authors>
+		<title>Demonstration of cross-protective vaccine immunity against an emerging pathogenic Ebolavirus Species</title>
+		<year>2010</year>
+		<volume>6</volume>
+		<issue>5</issue>
+		<pages>e1000904</pages>
+		<journal_book_name>PLoS pathogens</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2178">
+		<reference_name>Jones et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jones SM, Feldmann H, StrÃ¶her U, Geisbert JB, Fernando L, Grolla A, Klenk HD, Sullivan NJ, Volchkov VE, Fritz EA, Daddario KM, Hensley LE, Jahrling PB, Geisbert TW</authors>
+		<title>Live attenuated recombinant vaccine protects nonhuman primates against Ebola and Marburg viruses</title>
+		<year>2005</year>
+		<volume>11</volume>
+		<issue>7</issue>
+		<pages>786-790</pages>
+		<journal_book_name>Nature medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2281">
+		<reference_name>Kobinger et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kobinger GP, Feldmann H, Zhi Y, Schumer G, Gao G, Feldmann F, Jones S, Wilson JM</authors>
+		<title>Chimpanzee adenovirus vaccine protects against Zaire Ebola virus</title>
+		<year>2006</year>
+		<volume>346</volume>
+		<issue>2</issue>
+		<pages>394-401</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2279">
+		<reference_name>Martin et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Martin JE, Sullivan NJ, Enama ME, Gordon IJ, Roederer M, Koup RA, Bailer RT, Chakrabarti BK, Bailey MA, Gomez PL, Andrews CA, Moodie Z, Gu L, Stein JA, Nabel GJ, Graham BS</authors>
+		<title>A DNA vaccine for Ebola virus is safe and immunogenic in a phase I clinical trial</title>
+		<year>2006</year>
+		<volume>13</volume>
+		<issue>11</issue>
+		<pages>1267-1277</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3122">
+		<reference_name>Marzi et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Marzi A, Ebihara H, Callison J, Groseth A, Williams KJ, Geisbert TW, Feldmann H</authors>
+		<title>Vesicular stomatitis virus-based Ebola vaccines with improved cross-protective efficacy</title>
+		<year>2011</year>
+		<volume>204 Suppl 3</volume>
+		<issue></issue>
+		<pages>S1066-1074</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5021">
+		<reference_name>Mel�n et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mel�n K, Kakkola L, He F, Airenne K, Vapalahti O, Karlberg H, Mirazimi A, Julkunen I</authors>
+		<title>Production, purification and immunogenicity of recombinant Ebola virus proteins - A comparison of Freund's adjuvant and adjuvant system 03</title>
+		<year>2017</year>
+		<volume>242</volume>
+		<issue></issue>
+		<pages>35-45</pages>
+		<journal_book_name>Journal of virological methods</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3085">
+		<reference_name>O'Brien et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>O'Brien LM, Stokes MG, Lonsdale SG, Maslowski DR, Smither SJ, Lever MS, Laws TR, Perkins SD</authors>
+		<title>Vaccination with recombinant adenoviruses expressing Ebola virus glycoprotein elicits protection in the interferon alpha/beta receptor knock-out mouse</title>
+		<year>2014</year>
+		<volume>452-453</volume>
+		<issue></issue>
+		<pages>324-333</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2179">
+		<reference_name>Pratt et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pratt WD, Wang D, Nichols DK, Luo M, Woraratanadharm J, Dye JM, Holman DH, Dong JY</authors>
+		<title>Protection of nonhuman primates against two species of Ebola virus infection with a single complex adenovirus vector</title>
+		<year>2010</year>
+		<volume>17</volume>
+		<issue>4</issue>
+		<pages>572-581</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference89">
+		<reference_name>Pushko et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pushko P, Bray M, Ludwig GV, Parker M, Schmaljohn A, Sanchez A, Jahrling PB, Smith JF</authors>
+		<title>Recombinant RNA replicons derived from attenuated Venezuelan equine encephalitis virus protect guinea pigs and mice from Ebola hemorrhagic fever virus</title>
+		<year>2000 Aug 15</year>
+		<volume>19</volume>
+		<issue>1</issue>
+		<pages>142-53</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2282">
+		<reference_name>Richardson et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Richardson JS, Yao MK, Tran KN, Croyle MA, Strong JE, Feldmann H, Kobinger GP</authors>
+		<title>Enhanced protection against Ebola virus mediated by an improved adenovirus-based vaccine</title>
+		<year>2009</year>
+		<volume>4</volume>
+		<issue>4</issue>
+		<pages>e5308</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2280">
+		<reference_name>Riemenschneider et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Riemenschneider J, Garrison A, Geisbert J, Jahrling P, Hevey M, Negley D, Schmaljohn A, Lee J, Hart MK, Vanderzanden L, Custer D, Bray M, Ruff A, Ivins B, Bassett A, Rossi C, Schmaljohn C</authors>
+		<title>Comparison of individual and combination DNA vaccines for B. anthracis, Ebola virus, Marburg virus and Venezuelan equine encephalitis virus</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>25-26</issue>
+		<pages>4071-4080</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2284">
+		<reference_name>Sheets et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sheets RL, Stein J, Manetz TS, Duffy C, Nason M, Andrews C, Kong WP, Nabel GJ, Gomez PL</authors>
+		<title>Biodistribution of DNA plasmid vaccines against HIV-1, Ebola, Severe Acute Respiratory Syndrome, or West Nile virus is similar, without integration, despite differing plasmid backbones or gene inserts</title>
+		<year>2006</year>
+		<volume>91</volume>
+		<issue>2</issue>
+		<pages>610-619</pages>
+		<journal_book_name>Toxicological sciences : an official journal of the Society of Toxicology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference79">
+		<reference_name>Sullivan et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sullivan NJ, Sanchez A, Rollin PE, Yang ZY, Nabel GJ</authors>
+		<title>Development of a preventive vaccine for Ebola virus infection in primates</title>
+		<year>2000 Nov 30</year>
+		<volume>408</volume>
+		<issue>6812</issue>
+		<pages>605-9</pages>
+		<journal_book_name>Nature</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference76">
+		<reference_name>Sullivan et al., 2003a</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sullivan N, Yang ZY, Nabel GJ</authors>
+		<title>Ebola virus pathogenesis: implications for vaccines and therapies</title>
+		<year>2003 Sep</year>
+		<volume>77</volume>
+		<issue>18</issue>
+		<pages>9733-7</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference77">
+		<reference_name>Sullivan et al., 2003b</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sullivan NJ, Geisbert TW, Geisbert JB, Xu L, Yang ZY, Roederer M, Koup RA, Jahrling PB, Nabel GJ</authors>
+		<title>Accelerated vaccination for Ebola virus haemorrhagic fever in non-human primates</title>
+		<year>2003 Aug 7</year>
+		<volume>424</volume>
+		<issue>6949</issue>
+		<pages>681-4</pages>
+		<journal_book_name>Nature</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2177">
+		<reference_name>Sullivan et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sullivan NJ, Geisbert TW, Geisbert JB, Shedlock DJ, Xu L, Lamoreaux L, Custers JH, Popernack PM, Yang ZY, Pau MG, Roederer M, Koup RA, Goudsmit J, Jahrling PB, Nabel GJ</authors>
+		<title>Immune protection of nonhuman primates against Ebola virus with single low-dose adenovirus vectors encoding modified GPs</title>
+		<year>2006</year>
+		<volume>3</volume>
+		<issue>6</issue>
+		<pages>e177</pages>
+		<journal_book_name>PLoS medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2285">
+		<reference_name>Swenson et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Swenson DL, Warfield KL, Negley DL, Schmaljohn A, Aman MJ, Bavari S</authors>
+		<title>Virus-like particles exhibit potential as a pan-filovirus vaccine for both Ebola and Marburg viral infections</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>23</issue>
+		<pages>3033-3042</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2283">
+		<reference_name>Swenson et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Swenson DL, Wang D, Luo M, Warfield KL, Woraratanadharm J, Holman DH, Dong JY, Pratt WD</authors>
+		<title>Vaccine to confer to nonhuman primates complete protection against multistrain Ebola and Marburg virus infections</title>
+		<year>2008</year>
+		<volume>15</volume>
+		<issue>3</issue>
+		<pages>460-467</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3241">
+		<reference_name>Tsuda et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tsuda Y, Caposio P, Parkins CJ, Botto S, Messaoudi I, Cicin-Sain L, Feldmann H, Jarvis MA</authors>
+		<title>A replicating cytomegalovirus-based vaccine encoding a single Ebola virus nucleoprotein CTL epitope confers protection against Ebola virus</title>
+		<year>2011</year>
+		<volume>5</volume>
+		<issue>8</issue>
+		<pages>e1275</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference90">
+		<reference_name>Vanderzanden et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vanderzanden L, Bray M, Fuller D, Roberts T, Custer D, Spik K, Jahrling P, Huggins J, Schmaljohn A, Schmaljohn C</authors>
+		<title>DNA vaccines expressing either the GP or NP genes of Ebola virus protect mice from lethal challenge</title>
+		<year>1998 Jun 20</year>
+		<volume>246</volume>
+		<issue>1</issue>
+		<pages>134-44</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3101">
+		<reference_name>Wang et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang D, Raja NU, Trubey CM, Juompan LY, Luo M, Woraratanadharm J, Deitz SB, Yu H, Swain BM, Moore KM, Pratt WD, Hart MK, Dong JY</authors>
+		<title>Development of a cAdVax-based bivalent ebola virus vaccine that induces immune responses against both the Sudan and Zaire species of Ebola virus</title>
+		<year>2006</year>
+		<volume>80</volume>
+		<issue>6</issue>
+		<pages>2738-2746</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1076">
+		<reference_name>Warfield et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Warfield KL, Olinger G, Deal EM, Swenson DL, Bailey M, Negley DL, Hart MK, Bavari S</authors>
+		<title>Induction of humoral and CD8+ T cell responses are required for protection against lethal Ebola virus infection</title>
+		<year>2005</year>
+		<volume>175</volume>
+		<issue>2</issue>
+		<pages>1184-1191</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3332">
+		<reference_name>Wilson and Hart, 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wilson JA, Hart MK</authors>
+		<title>Protection from Ebola virus mediated by cytotoxic T lymphocytes specific for the viral nucleoprotein</title>
+		<year>2001</year>
+		<volume>75</volume>
+		<issue>6</issue>
+		<pages>2660-2664</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference88">
+		<reference_name>Wilson et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wilson JA, Bray M, Bakken R, Hart MK</authors>
+		<title>Vaccine potential of Ebola virus VP24, VP30, VP35, and VP40 proteins</title>
+		<year>2001 Aug 1</year>
+		<volume>286</volume>
+		<issue>2</issue>
+		<pages>384-90</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference103">
+		<reference_name>Xu et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xu L, Sanchez A, Yang Z, Zaki SR, Nabel EG, Nichol ST, Nabel GJ</authors>
+		<title>Immunization for Ebola virus infection</title>
+		<year>1998 Jan</year>
+		<volume>4</volume>
+		<issue>1</issue>
+		<pages>37-42</pages>
+		<journal_book_name>Nature medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

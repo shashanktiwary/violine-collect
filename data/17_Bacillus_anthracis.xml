@@ -1,0 +1,3032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen7">
+		<pathogen_name>Bacillus anthracis</pathogen_name>
+		<taxon_id>1392</taxon_id>
+		<pathogenesis refs="reference15 reference16">In general, spores are phagocytosed by macrophages and germinate within phagolysosomes. Vegetative bacteria release many toxins leading to macrophage death. Lethal toxin acts on host macrophages and induces the release of proinflammatory cytokines responsible for inducing sudden and fatal shock (Hanna et al., 1999). Edema toxin causes localized edema and systemic shock (Hirsh et al, 2004). Other virulence factors allow for survival within phagolysosomes and on mucosal surfaces (Inh and MprF), escape from phagolysosomes and phagocytic cells (anthrolysins), iron acquiring products (Dlp), and regulation of cellular products (AtxA and AcpA) (Hirsh et al, 2004).</pathogenesis>
+		<disease_name>Anthrax</disease_name>
+		<protective_immunity refs="reference181 reference19">Since protection against anthrax is induced by vaccines containing PA as the major immunogen, with minor amounts of EF and LF, antibodies against PA and other toxin components are essential in the protection against anthrax. Serum therapy has been used in the past for the treatment of human anthrax with some success. PA is a key immunogen for antianthrax vaccine development since it induces the production of toxin-neutralizing Abs. However, vital, anti-PA Abs are not the only, or completely sufficient, means for an immune host to impede the development of anthrax (Glomski et al., 2007). Immune serum containing antibodies to PA can be effective in the therapy of established experimental infection in guinea pigs. However, The identification of anti-toxic immunity as the most important means for protection against B. anthracis has been complicated by lack of an entirely well-accepted animal model for evaluating immunity to LeTx and to spores of different anthrax isolates, due to varying susceptibility of animal models to spores of different origin  (Brey, 2005). 
+
+Anti-capsule antibodies may also be important in controlling the outgrowth phase of anthrax infection, since they would be presumed to fix complement and kill vegetative cells. However, antibodies to the poly γ-d-glutamate capsule have not been well studied, because the capsule is poorly immunogenic and is a T cell-independent antigen. Recently, a series of murine monoclonal antibodies to the capsule has been obtained by immunizing mice with an anthrax capsule isoform isolated from B. licheniformis. The capsule is a major virulence factor in mice. Although there is a definitive role for anti-toxin antibodies in protection against anthrax, it is not yet clear what levels of antibodies will be required to protect humans against anthrax after vaccination or passive injection of protective antibodies. This consideration is important since challenge studies cannot be performed in humans, and correlates of immunity have to be extrapolated from animal studies (Brey, 2005). 
+
+Humoral immunity does not protect from nontoxinogenic capsulated bacteria; however, a cellular immune response by IFN-{gamma}-producing CD4 T lymphocytes protect mice. These results provide evidence of protective cellular immunity against capsulated B. anthracis and suggest that future antianthrax vaccines should strive to augment cellular adaptive immunity (Glomski et al., 2007).</protective_immunity>
+		<host_range refs="reference115">Host ranges include the following:  livestock or other herbivores (eg, cattle, sheep, goats, pigs, bison, water buffalo) acquire infection by consuming contaminated soil or feed; spores are infectious agents that can enter the human body through skin lesions, ingestion, or inhalation; and laboratory animal models include Guinea pigs, Syrian hamsters, and various mouse models (PathPort).</host_range>
+		<introduction refs="reference19">The pathology of anthrax is almost entirely mediated by expression of two secreted toxins: lethal toxin (LeTx) and edema toxin (EdTx). The natural form of anthrax is extremely rare in the United States, with only 244 cases reported between 1944 and 1999. Natural infection of humans occurs through direct exposure to spores from infected animals or their products, such as hides or wool. Anthrax is primarily a disease of animals and is probably propagated in the environment through spores present in soil at sites of infected carcasses. The causative agent of anthrax is B. anthracis, which produces transmissible and infectious spores. The vegetative anthrax bacillus is not readily transmissible, but the spores are environmentally robust for years and can be easily transmitted to humans. This phenomenon is the core of anthrax biowarfare and bioterrorism concern, since infective spores can be obtained from fermentation cultures and purified in large quantities in a pure non-aggregable form suitable for aerosol dissemination. This could potentially result in the intentional dissemination of spores to cause human infection (Brey, 2005).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1122">
+		<vaccine_name>Anthrax Spore live culture Vaccine (USDA: 1011.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001557</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine17">
+		<vaccine_name>Anthrax Spore Vaccine</vaccine_name>
+		<proper_name>B. anthracis Sterne strain spore vaccine</proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0000874</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference878">Anthrax Spore Vaccine is prepared with a relatively nonpathogenic, noncapsulated variant strain of B. anthracis, originally developed at the Onderstepoort Laboratory, Pretoria, South Africa. Further work was conducted in England, India and in many other countries. Vaccine Strain is Sterne 34F2. The vaccine is a suspension of viable Bacillus anthracis spores in saponin (Spore vaccine).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering31" gene_id="gene32">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response29" host_id="host7">
+			<immune_response refs="reference40">A high ELISA titer was obtained after immunization, as demonstrated by immunization with Sterne strain spores or PA vaccine + LF. However, it did not reflect the level of expected protection.  This was demonstrated after challenge with a vaccine-resistant isolate.  Comparison of the vaccine-resistant isolates with the Vollum cultures suggested that it is not the difference in the LD50s of the isolates that determines vaccine resistance but some other factors  (Little et al., 1986).</immune_response>
+			<host_strain refs="">Female Hartley guinea pigs </host_strain>
+			<vaccination_protocol refs="reference40">Three 0.5-ml doses of the PA vaccine were administered at 2-week intervals.  The commercial live veterinary Sterne strain spore vaccine was administered in three doses: 0.2, 0.3, and 0.5 ml i.m. at 2-week intervals.  The stock spore vaccine contained 5 x 10^6 to 6 x 10^6 spores per ml  (Little et al., 1986).                  </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference40">With Vollum and Vollum 1B, strains of B. anthracis killed 50% or more of the PA-immunized animals.  The data confirm earlier findings: although guinea pigs were immunized effectively against a Vollum challenge, they were not protected against challenge with some isolates of B. anthracis. The study tested 4 of the10 strains used from the earlier study challenging their guinea pigs.  In total 9 of 27 isolates tested were found to be resistant to immunization with the PA vaccine. Vaccination of guinea pigs with Sterne strain spores appears to provide broad protection against i.m. challenge with various anthrax isolates.  A dose-response curve of the Sterne spore vaccine was obtained by injecting guinea pigs with 0.5 ml i.m. in a single dose or as two doses 14 days apart.  The data indicate that excellent protection and antibody response to PA antigen can be achieved with two immunization doses of 10^6 Sterne spores  (Little et al., 1986).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">The animals were then challenged i.m. with 2,500 spores of Vollum 1B 2 weeks after immunization.</challenge_protocol>
+			<description refs="reference40">Although various antigen preparations appear to provide a substantial degree of protection when immunized animals are challenged with the standard Vollum strain, earlier studies demonstrated that certain B. anthracis isolates were able to override this immunity in guinea pigs.  This current study seeks an overall effort to evaluate and improve the PA vaccine presently used for humans and to confirm and expand upon those earlier studies  (Little et al., 1986).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine15">
+		<vaccine_name>Anthrax Vaccine Adsorbed (AVA)</vaccine_name>
+		<proper_name>Anthrax Vaccine Adsorbed</proper_name>
+		<brand_name>Biothrax</brand_name>
+		<manufacturer>BioPort Corp</manufacturer>
+		<vo_id>VO_0000014</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1260)</location_licensed>
+		<description refs="reference19">AVA is the only licensed human anthrax vaccine in the United States. This vaccine was developed in the early 1950s and was licensed by the FDA in 1970.  AVA has been shown to have a 92.5% efficacy for protection in both cutaneous and inhalational anthrax cases  ( Brey, 2005).</description>
+		<adjuvant refs="reference19">aluminum hydroxide (Brey, 2005).</adjuvant>
+		<storage refs="">Vaccine should be stored at 2°C TO 8°C (36 TO 46°F). Do not freeze.</storage>
+		<virulence refs="reference18">Most studies show that AVA only induces localized, minor, and self-limited adverse effects. No studies have definitively documented any occurrence of chronic diseases (e.g. cancer or infertility) following anthrax vaccination (CDC, 2000).                                                                                                                                                                     </virulence>
+		<preparation refs="reference19 reference18">This vaccine is prepared by adsorbing filtered culture supernatants of an attenuated strain (V770-NP1-R) to aluminum hydroxide (Alhydrogel) as an adjuvant ( Brey, 2005). The strain V770-NP1-R used for AVA preparation is a toxigenic, nonencapsulated strain.  The filtrate contains a mix of cellular products including all three toxin components (LF, EF, and PA)  (Amphogel, Wyeth Laboratories) (CDC, 2000).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">A cell-free filtrate of B. anthracis culture</antigen>
+		<host_response host_response_id="host_response14" host_id="host2">
+			<immune_response refs="reference36">A total of 671 sera were analyzed for IgG to PA.  All subjects seroconverted after receiving AVA, as defined by a fourfold or greater increase over baseline in dilutional IgG to PA titer.  The mean time after receipt of the initial AVA injection to seroconversion was 27.7 days (range = 14–63 days).  The mean number of days after the first vaccine dose needed to reach a serum concentration of IgG to PA of 3 μg/mL was 24.2 days  (Pittman et al., 2006).</immune_response>
+			<host_strain refs="">Most of the study subjects were male (70.9%) and Caucasian (83.7%; 11.6% were African–American). The median age of study subjects was 33 years (range 19–61).</host_strain>
+			<vaccination_protocol refs="reference36">The vaccinations followed a minimal-risk protocol reviewed and administratively approved by the institutional review board at USAMRIID and the Human Subjects Research Review Board at the U.S. Army Surgeon General's office. Overall, AVA was given in a 6-dose series (subcutaneous injections at 0, 2, and 4 weeks and 6, 12, and 18 months with subsequent yearly boosters). Specifically, Vaccinations occurred within defined time intervals after receipt of the initial AVA injection (day 0 [dose #1], day 14 [range 11–21], day 28 [range 25–35], day 182 [range 154–216], day 364 [range 336–413], day 546 [range 518–609]) ( Pittman et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference36">A serum concentration of IgG to PA ≥ 3 μg/mL was observed in all subjects after vaccination. This level of antibody was reached by 39.5% of subjects after the first injection, by a total of 96.5% after the second injection, and by 100% after the third injection.  The analysis confirms that AVA is an effective immunogen, and significant increases in antibody concentration occurred after each injection, with peak responses achieved after the fourth (6-month) dose.  No cases of anthrax disease have been observed among individuals receiving the 6-month dose of AVA (Pittman et al., 2006).  </protection_efficacy>
+			<side_effects refs="reference36 reference43">No side effects were noted in this study (Pittman et al., 2006). In another independent report, AVA was linked to the development of adverse side effects including joint pain, gastrointestinal disorders, and pneumonia, leading many U.S. soldiers to refuse vaccination (Xie et al., 2005).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference36">The antibody profile during and after the six-dose primary vaccination series with anthrax vaccine adsorbed (AVA) was characterized in 86 human volunteers.  The present study describes the kinetics of IgG antibodies to Bacillus anthracis protective antigen (PA) in AVA vaccinees receiving the entire six-dose primary series using sera obtained as part of the occupational health program and stored in the USAMRIID archive (Pittman et al., 2006).
+</description>
+		</host_response>
+		<host_response host_response_id="host_response15" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Male A/J mice obtained from the National Cancer Institute</host_strain>
+			<vaccination_protocol refs="reference43">Mice were immunized with AVA formulated with and without CpG ODN, PLG, or CpG ODN adsorbed onto PLG (CpG ODN-PLG).  The mice were bled weekly, and their serum was stored at –20°C until use.  Mice were challenged intraperitoneally with 3 x 102 to 9 x 103 50% lethal doses (LD50) of STI spores suspended in 0.5 ml of sterile phosphate-buffered saline (1 LD50 = 1.1 x 103 STI spores).  Survival was monitored for 21 days  (Xie et al., 2005). 
+                                                                                                                                        </vaccination_protocol>
+			<persistence refs="reference43">Immunized mice were protected from lethal anthrax challenge within 1 week of vaccination with CpG ODN-PLG plus AVA, with the level of protection correlating with serum immunoglobulin G anti-protective antigen titers  (Xie et al., 2005). </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference43">Coadministering CpG ODN-PLG with 8 to 25 µl of AVA boosted the resultant IgG anti-PA antibody response by nearly 50-fold compared to AVA alone  (Xie et al., 2005).</protection_efficacy>
+			<side_effects refs="">No side effects noted.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference43">This work examines the ability of immunostimulatory CpG oligodeoxynucleotides (ODN) adsorbed onto cationic polylactide-co-glycolide (PLG) microparticles (CpG ODN-PLG) to accelerate and boost the protective immunity elicited by AVA. The results indicate that coadministering CpG ODN-PLG with AVA induces a stronger and faster immunoglobulin G response against the protective antigen of anthrax than AVA alone  (Xie et al., 2005).  </description>
+		</host_response>
+		<host_response host_response_id="host_response17" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus Macaques</host_strain>
+			<vaccination_protocol refs="reference37">In the first experiment, rhesus macaques were immunized at 0 and 6 weeks with 0.5 ml of AVA plus 250 μg of an equimolar mixture of 3 CpG ODN, and then challenged with 105 Sterne strain anthrax spores when serum anti-PA titers returned to baseline at week 26. 
+In the second experiment, macaques were immunized with 0.5 ml of AVA plus 500 ug of ODN 7909 or the above mixture of 3 CpG ODN ( Klinman et al., 2004).</vaccination_protocol>
+			<persistence refs="reference37">The results show that co-administering CpG ODN with AVA generates high levels of toxin neutralizing antibodies very rapidly, exceeding AVA alone by 17-fold at 11 days post-immunization  (Klinman et al., 2004). </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference37">Macaques immunized with AVA+ODN 7909 had on average a 17-fold higher toxin neutralizing titer than those immunized with AVA alone (Klinman et al., 2004).</protection_efficacy>
+			<side_effects refs="reference37">No serious local or systemic adverse reactions were observed in any of the macaques treated with CpG ODN plus AVA (Klinman et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference37">Synthetic oligodeoxynucleotides (ODN) containing immunostimulatory CpG motifs can improve the immune response to co-administered antigens. In mice, CpG ODN have been shown to boost the protective efficacy of vaccines against bacterial, viral and parasitic pathogens. However, due to evolutionary divergence in CpG recognition between species, ODNs that are highly active in rodents may be less efficacious in primates. Thus, pre-clinical studies to examine whether CpG ODN can accelerate and boost the immune response elictied by AVA must be conducted in a pertinent primate model. This study shows that co-administering GMP-grade CpG ODN with AVA to rhesus macaques does indeed increase rapidity, titer, affinity, and protective efficacy of their resultant IgG anti-PA response  (Klinman et al., 2004).</description>
+		</host_response>
+		<host_response host_response_id="host_response433" host_id="host2">
+			<immune_response refs="">During the trial, there were 26 cases of anthrax reported across the four mills - five inhalation and 21 cutaneous.</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference765">This study included 1,249 workers [379 received anthrax vaccine, 414 received placebo, 116 received incomplete inoculations (with either vaccine or placebo) and 340 were in the observational group (no treatment)] in four mills in the northeastern United States that processed imported animal hides (FDA: Anthrax Vaccine Adsorbed).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference765">In a comparison of anthrax cases between the placebo and vaccine groups, including only those who were completely vaccinated, the calculated vaccine efficacy level against all reported cases of anthrax combined was 92.5% (FDA: Anthrax Vaccine Adsorbed).</protection_efficacy>
+			<side_effects refs="">Side effects after vaccination were mostly limited to local site reactions, fever, chills, nausea and general body aches.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3076">
+		<vaccine_name>Anthrax vaccine adsorbed with Squalene adjuvant</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004246</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response906" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Hartley</host_strain>
+			<vaccination_protocol refs="reference1902">Mice were immunized intramuscularly (i.m.) at 0 and 4 weeks (Ivins et al., 1995).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1902">The vaccine adjuvanted with SLT (squalene) was more protective than the vaccine without the squalene adjuvant (Ivins et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1902">Animals were challenged at 10 weeks post vaccination with an aerosol of spores of B. anthracis Ames strain (Ivins et al., 1995).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3897">
+		<vaccine_name>B. anthracis DNA Vaccine expressing PA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004543</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pIMS-120 [Ref2662:Livingston et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1443" gene_id="gene374">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1539" host_id="host39">
+			<immune_response refs="reference2662">EP delivery effectively induced anti-PA neutralizing antibody responses in 100% of subjects at both dose levels (Livingston et al., 2010).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2662">Four groups of five animals each were assigned to the vaccine recipient groups; two animals were held as unimmunized controls. All experimental groups received intramuscular injection of vaccine at days 0 and 56 in the quadriceps. One group of rhesus macaques was immunized with 0.5 mL of Biothrax, the approved human dose. Another group was injected intramuscularly with 1.5 mg of pIMS-120. Two groups of animals were immunized with either 0.3 or 1.5 mg of pIMS-120 using an EP device referred to as the TriGrid Delivery System (TDS) (Livingston et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2662">For the animals administered the pIMS-120 candidate by EP delivery, 40% (2/5) of the animals administered the 0.3 mg DNA dose and 80% (4/5) administered the 1.5 mg DNA dose survived the challenge (Livingston et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2662">One year after the first immunization, the rhesus macaques were exposed to a targeted dose of 100 LD50 spores of Ames isolate of B. anthracis (Livingston et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3678">
+		<vaccine_name>B. anthracis DNA vaccine LF pDNA encoding LF</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004417</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VR1012 [Ref34:Hermanson et al., 2004]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1214" gene_id="gene38">
+			<type>DNA vaccine construction</type>
+			<description refs="reference34">This DNA vaccine expressed lethal factor (LF) (Hermanson et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1446" host_id="host6">
+			<immune_response refs="reference34">High titers of anti-LF and neutralizing antibody to lethal toxin (Letx) were achieved in all rabbits (Hermanson et al., 2004).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference34">Eight or nine animals in each group were challenged with 100x LD(50) of aerosolized anthrax spores 5 or 9 weeks after vaccination and 5 of 9 animals receiving LF pDNA survived. In addition, the time to death was significantly delayed in the others (Hermanson et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3593">
+		<vaccine_name>B. anthracis DNA vaccine PA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004386</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pWRG7079 [Ref2286:Riemenschneider et al., 2003]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1131" gene_id="gene374">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2286">Vector pWRG7079 expressed protective (PA) gene of  B. anthracis (Riemenschneider et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1418" host_id="host6">
+			<immune_response refs="reference2286">All rabbits vaccinated with the DNA vaccine or with AVA vaccine developed antibody responses predictive of protective immunity to anthrax challenge (Riemenschneider et al., 2003).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2286">Evaluating antibody responses by ELISA and TNA revealed that all rabbits vaccinated with the DNA vaccine developed antibody responses predictive of protective immunity to anthrax challenge.  After a fourth vaccination, titers rebounded and the rabbits were challenged by subcutaneous injection of 100 LD50 of B. anthracis Ames strain heat-shocked spores - 9/10 rabbits given the PA DNA vaccine survived (Riemenschneider et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3802">
+		<vaccine_name>B. anthracis DNA vaccine PA83 furin</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004481</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VR1012 [Ref34:Hermanson et al., 2004]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1339" gene_id="gene1397">
+			<type>DNA vaccine construction</type>
+			<description refs="reference34">Vector VR1012 expressed the PA construct that was chemically synthesized (Retrogen, San Diego) to include an amino terminal human tissue plasminogen activator (hTPA) leader peptide (replacing the Bacillus leader peptide) fused to a PA83 sequence (Hermanson et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1225" host_id="host6">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference34">All animals receiving PA or PA plus LF pDNA vaccines were protected (Hermanson et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3801">
+		<vaccine_name>B. anthracis DNA vaccine pCPA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004480</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1338" gene_id="gene374">
+			<type>DNA vaccine construction</type>
+			<description refs="reference32">The gene fragment encoding amino acids 175 to 764 of a B. anthracis PA protein was PCR amplified using the forward primer 5′-ACA AGT CTC GAG ACC ATG GTT CCA GAC CGT GAC-3′ and the reverse primer 3′-CTC TAT CCT ATT CCA TTA AGA TCT ACT AAA-5′, with the pYS2 template. The PA gene fragment expressed corresponds to the biologically active, protease-cleaved PA63 fragment of the full-length 83-kDa protein. The PCR product was then digested with two restriction enzymes XhoI and XbaI and ligated into the eucaryotic expression plasmid pCI (Promega, Inc., Madison, Wis.) (Price et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1224" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference32">All mice immunized with pCLF4, pCPA, or the combination of both survived the challenge, whereas all unimmunized mice did not survive (Price et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3677">
+		<vaccine_name>B. anthracis DNA vaccine pDNA encoding PA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004416</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VR1012 [Ref34:Hermanson et al., 2004]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference34">Vaxfectin or DMRIE/DOPE (Hermanson et al., 2004)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1213" gene_id="gene1397">
+			<type>DNA vaccine construction</type>
+			<description refs="reference34">This DNA vaccine expressed the protective antigen (PA) (Hermanson et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1445" host_id="host6">
+			<immune_response refs="reference34">High titers of anti-PA and neutralizing antibody to lethal toxin (Letx) were achieved in all rabbits (Hermanson et al., 2004).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference34">Eight or nine animals in each group were challenged with 100x LD(50) of aerosolized anthrax spores 5 or 9 weeks after vaccination. An additional 10 animals vaccinated with PA pDNA were challenged &gt;7 months postvaccination. All animals receiving PA pDNA vaccines were protected (Hermanson et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3796">
+		<vaccine_name>B. anthracis DNA vaccine pIMS-120 encoding PA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004479</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 [Ref2417:Luxembourg et al., 2008]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1333" gene_id="gene374">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2417">Vector pVAX1 expressed the mature 83 kDa full-length PA protein (without the 29 aminoacid prokaryotic secretory signal sequence) (Luxembourg et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1222" host_id="host6">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2417">Anthrax toxin neutralizing antibodies were also induced in rabbits immunized with electroporation with ED50 values comparable to those previously found to be protective in rabbits immunized with rPA (Luxembourg et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3793">
+		<vaccine_name>B. anthracis DNA vaccine pLAMP1-PA63</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004477</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1330" gene_id="gene1394">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2415">This DNA vaccine expressed C-terminal LAMP1 membrane anchor and 63 kDa mature protein (Midha and Bhatnagar, 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1219" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2415">Highest survival was elicited by all groups when they were challenged at week 12 and 14. Challenge was 100% fatal in control mice immunized with vector and PBS.  Time-to-death analysis revealed that DNA vaccination with constructs pTPA-PA63, pPA63-LAMP1 and pTPA-PA63- LAMP1 was more protective than the native PA encoding construct (Midha and Bhatnagar, 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3795">
+		<vaccine_name>B. anthracis DNA vaccine pTPA-P</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004478</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1332" gene_id="gene1395">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2415">This DNA vaccine expressed A63-LAMP1 N-terminal TPA signal, C-terminal LAMP1 membrane anchor and 63 kDa mature protein (Midha and Bhatnagar, 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1221" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2415">Highest survival was elicited by all groups when they were challenged at week 12 and 14. Challenge was 100% fatal in control mice immunized with vector and PBS (Midha and Bhatnagar, 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3792">
+		<vaccine_name>B. anthracis DNA vaccine pTPA-PA63</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004476</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1329" gene_id="gene1392">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2415">This DNA vaccine expressed the N-terminal TPA signal, and 63 kDa mature protein (Midha and Bhatnagar, 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1218" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2415">Highest survival was elicited by all groups when they were challenged at week 12 and 14. Challenge was 100% fatal in control mice immunized with vector and PBS.  Time-to-death analysis revealed that DNA vaccination with constructs pTPA-PA63, pPA63-LAMP1 and pTPA-PA63- LAMP1 was more protective than the native PA encoding construct (Midha and Bhatnagar, 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3104">
+		<vaccine_name>B. anthracis PA protein Vaccine with TMDP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004270</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2046">B. anthracis PA protein (Ivins et al., 1992).</antigen>
+		<host_response host_response_id="host_response933" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Hartley</host_strain>
+			<vaccination_protocol refs="reference2046">Several adjuvant preparations combined with PA were compared with each other and with MDPH-PA with respect to protection and elicitation of anti-PA antibody. In the first experiment, guinea pigs received one or more injections of each preparation (Ivins et al., 1992).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2046">12/18 guinea pigs survived challenge after immunization with 1 dose of PA + TMDP and  13/20 survived after 2 doses of PA + TMDP (Ivins et al., 1992).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2046">Guinea pigs were challenged i.m. 10 weeks after the first immunization with 7,300 (73 LD50) of B. anthracis Ames spores (Ivins et al., 1992).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3047">
+		<vaccine_name>B. anthracis rPA Vaccine with Rehydragel HPA adjuvant</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004223</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference1856">purified rPA (Rhie et al., 2005).</antigen>
+		<host_response host_response_id="host_response879" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Hartley</host_strain>
+			<vaccination_protocol refs="reference1856">Groups of female Hartley guinea pigs (Damul Science, Korea) weighing 300–320 g were immunized by intramuscular injection on days 0, 14, and 28 with 50 μg of the purified rPA. rPA was dissolved in 500 μl PBS containing Rehydragel HPA (alum hydroxide fluid gel, 250 μg; Reheis Inc., USA), according to the manufacturer's protocol. Phosphate-buffered saline (PBS) was used as a negative control (Rhie et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1856">Guinea pigs immunized with rPA + Rehydragel HPA had 100% survival rate to challenge with B. anthracis ATCC14578 spores (Rhie et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1856">Fourteen days after the third immunization, the guinea pigs were challenged with 100 LD50 of B. anthracis ATCC14578 spores by intramuscular injection. After injection with B. anthracis spores, guinea pigs were observed for a period of 14 days. Animals surviving for 14 days after the challenge were considered survivors (Rhie et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3115">
+		<vaccine_name>Bacillus anthracis mntA deletion mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002775</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Other</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1993">An mntA deletion, generated by allelic replacement resulted in complete loss of MntA expression (Gat et al., 2005).</preparation>
+		<route refs="">Other</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering643" gene_id="gene1056">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response958" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1993">The mntA mutant resulted in severe attenuation; a 10(4)-fold drop in LD(50) in a guinea pig model (Gat et al., 2005).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1993">All the guinea pigs were challenged with 60 LD50 of the virulent Vollum strain. All guinea pigs survived this challenge and exhibited antibody titers 103−105 of either anti-PA or anti-LF (Gat et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine24">
+		<vaccine_name>DAAV using PA and PGA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000522</vo_id>
+		<type>Conjugate vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference26">Anthrax involves a dual process of bacterial replication and toxin production. The dually active anthrax vaccine (DAAV) confers simultaneous protection against both bacilli and toxins was highly sought after through research. The weakly immunogenic and antiphagocytic PGA capsule disguises the bacilli from immune surveillance in a similar manner to the role of capsular polysaccharides in protecting pathogens, such as pneumococci and meningococci. Encapsulated B. anthracis strains grow unimpeded in the infected host, whereas isolates lacking the capsule are phagocytized and are virtually avirulent. Anthrax toxins are formed by PA, lethal factor (LF), and edema factor (EF), which are secreted separately as nontoxic monomers. The binding of LF or EF to PA results in the formation of active lethal toxin (LT) or edema toxin (ET), respectively. Because of its ability to elicit a protective immune response against both anthrax toxins, PA is the target antigen of existing anthrax vaccine. However, a vaccine based on both PGA and PA might allow direct targeting of bacillar growth, as well as inhibiting toxin activity, making it more effective than a vaccine based on PA alone. PGA is an attractive antigen because it consists of d-glutamic acid residues linked by γ peptide bonds, and thus bears no resemblance to mammalian host molecules ( Rhie et al., 2003).</description>
+		<adjuvant refs="reference26">Al(OH)3 gel adjuvant (Rhie et al., 2003)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference26">(Rhie et al., 2003)</virulence>
+		<preparation refs="reference26">This conjugate vaccine is constructed by conjugating two major virulence factors of B. anthracis, the capsular poly-γ-D-glutamic acid (PGA) and the essential toxin component and protective antigen (PA). This is a DAAV that confers simultaneous protection against both bacilli and toxins. Two sets of conjugates with 1:2 and 1:1 (wt/wt) PGA-to-PA ratios, designated DAAV-1 and DAAV-2, respectively (Rhie et al., 2003).</preparation>
+		<route refs=""></route>
+		<antigen refs="">Two antigens: PA-B and capsular poly-γ-d-glutamate. Both antigens are conjugated.</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering33" gene_id="gene32">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response21" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference26">Groups of female BALB/c mice at 6–8 weeks of age were immunized by i.p. injection on days 0, 14, and 28. DAAV-1 was tested at 10- and 20-µg doses, and DAAV-2 was tested at 2-, 10-, and 20-µg doses (doses refer to PA content). Controls include PA and PGA at 20-µg doses, unconjugated PGA–PA mixture including 20 µg of PGA and 20 µg of PA. Each dose was dissolved in 50 µl of PBS and adsorbed to an equal volume of Al(OH)3 gel adjuvant (equivalent to 0.187 mg per dose). PBS/Al(OH)3 was used as a negative control (Rhie et al., 2003).</vaccination_protocol>
+			<persistence refs="reference26">(Rhie et al., 2003)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference26">After three immunizations in mice, DAAV-1 induced high levels of serum anti-PGA IgG, and booster injections significantly enhanced the IgG response. PGA-specific antibodies bound to encapsulated bacilli and promoted the killing of bacilli by complement. PA-specific antibodies neutralized toxin activity and protected immunized mice against lethal challenge with anthrax toxin. Thus, DAAV combines both antibacterial and antitoxic components in a single vaccine against anthrax (Rhie et al., 2003).</protection_efficacy>
+			<side_effects refs="reference26">None were noted (Rhie et al., 2003).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference26">PGA-specific antibodies bound to encapsulated bacilli and promoted the killing of bacilli by complement. PA-specific antibodies neutralized toxin activity and protected immunized mice against lethal challenge with anthrax toxin. Thus, DAAV combines both antibacterial and antitoxic components in a single vaccine against anthrax. DAAV introduces a vaccine design that may be widely applicable against infectious diseases and provides additional tools in medicine and biodefense (Rhie et al., 2003).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine23">
+		<vaccine_name>DNA vaccine encoding PA (PA63)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000518</vo_id>
+		<type>DNA vaccine</type>
+		<status></status>
+		<vector>pJW4303 [Ref25:Gu et al., 1999]</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference25">There have been many attempts to improve the safety and immunogenicity of the current licensed anthrax vaccine, including the formulation of PA in different adjuvants, the use of recombinant, mutant PA, expression of PA by attenuated salmonellae, and the generation of attenuated B. anthracis strains lacking one or more toxin components. Current studies have examined the possibility of inducing protection against anthrax toxin by immunizing with a DNA vaccine encoding PA. Studies in other model systems indicate that antigen-encoding DNA plasmids can stimulate strong cellular and humoral immune responses against proteins from pathogens (Gu et al., 1999).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Not virulent.</storage>
+		<virulence refs="reference25">Virulent strains of B. anthracis are characterized by their expression of a polyglutamic acid capsule and the production of a protein toxin. In vivo studies to determine whether cell mediated immunity provided protection against virulent B. anthracis could not be performed, since such studies require BL3 con-tainment facilities (Gu et al., 1999).</virulence>
+		<preparation refs="reference25">The gene fragment encoding AAs 173–764 of PA was PCR amplified. The PCR product was digested with NheI and BamHI and ligated into the pJW4303 vector, which was cut with the same two restriction enzymes. Both PA plasmid and control DNA were purified from E. coli DH5a using Endo-free plasmid preparation kits (Qiagen) and resuspended in PBS before use ( Gu et al., 1999).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference25">B. anthracis PA (Gu et al., 1999)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering36" gene_id="gene32">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response20" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference25">BALB/c mice were immunized at 6–8 weeks of age by bilateral injection into the gastrocnemius muscle three times at 3-week intervals with 50 μg of purified plasmid in 50 μl of saline. Mice were bled two weeks after each vaccination. Some mice were challenged by tail vein injection of PA (60 μg/mouse) and LF (25–30 μg/mouse), a combination equivalent to approximately five LD50 ( Gu et al., 1999).</vaccination_protocol>
+			<persistence refs="reference25">(Gu et al., 1999)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference25">The PA DNA vaccine protects against lethal challenge with a combination of anthrax PA + LF (Gu et al., 1999).</protection_efficacy>
+			<side_effects refs="reference25">none (Gu et al., 1999)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference25">Splenocytes from immunized BALB/c mice were stimulated to secrete IFNγ and IL-4 when exposed to PA in vitro. Immunized mice also mounted a humoral immune response dominated by IgG1 anti-PA antibody production. A 1:100 dilution of serum from these animals protected cells in vitro against cytotoxic concentrations of PA. Moreover, 7/8 mice immunized three times with the PA DNA vaccine were protected against lethal challenge with a combination of anthrax PA plus LF (Gu et al., 1999).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine30">
+		<vaccine_name>DNA vaccine encoding PA83 and LF</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000521</vo_id>
+		<type>DNA vaccine</type>
+		<status></status>
+		<vector>VR1012 [Ref34:Hermanson et al., 2004]</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference34">DNA vaccines provide an attractive technology platform against bioterrorism agents due to their safety record in humans and ease of construction, testing, and manufacture. Monovalent and bivalent anthrax plasmid DNA (pDNA) vaccines encoding genetically detoxified protective antigen (PA) and lethal factor (LF) proteins have been designed and tested for their immunogenicity and ability to protect rabbits from an aerosolized inhalation spore challenge. Immune responses after two or three injections of cationic lipid-formulated PA, PA + LF, or LF pDNAs were at least equivalent to two doses of anthrax vaccine adsorbed (AVA) ( Hermanson et al., 2004).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference34">The virulence of B. anthracis in rabbits, non-human primates, and humans is primarily the result of a multicomponent toxin secreted by the organism. The toxin consists of three separate gene products, designated protective antigen (PA), lethal factor (LF), and edema factor (EF), that are encoded on a 184-kb plasmid designated pXO1 (Hermanson et al., 2004).</virulence>
+		<preparation refs="reference34">The PA construct is chemically synthesized to include an amino terminal human tissue plasminogen activator (hTPA) leader peptide fused to a PA83 sequence (amino acids 30–764) with the furin cleavage site deleted (SRKKRS, amino acids 192–197). This construct, designated PA83 furin, is cloned into the mammalian expression vector VR1012. The LF coding sequences are derived from the B. anthracis LF93 protein sequence, codon-optimized, and chemically synthesized as above to include the hTPA leader peptide. The LF domain I–III is PCR amplified from this clone by using a forward and reverse primer pair to amplify the 1,740-bp fragment encoding the hTPA leader peptide fused to LF amino acids 34–583. The LF domain I is also derived from the LF93 plasmid by PCR amplification using forward and reverse primer pairs to amplify an 876-bp fragment encoding an hTPA leader peptide fused to LF amino acids 34–295. Both LF genes are cloned into the VR1012 vector (Hermanson et al., 2004).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference34">B. anthracis PA and LF (Hermanson et al., 2004)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering4" gene_id="gene5">
+			<type>Protein</type>
+			<description refs="">contains Bacillus anthracis lethal factor x-ray crystal structure derived domain I; LF; vaccine construct</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering221" gene_id="gene32">
+			<type>DNA vaccine construction</type>
+			<description refs="reference34">The PA construct is chemically synthesized to include an amino terminal human tissue plasminogen activator (hTPA) leader peptide fused to a PA83 sequence (amino acids 30–764) with the furin cleavage site deleted (SRKKRS, amino acids 192–197). This construct, designated PA83 furin, is cloned into the mammalian expression vector VR1012 (Hermanson et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response27" host_id="host6">
+			<immune_response refs="reference34">Both the PA and the LF pDNAs generate anti-PA and anti-LF antibody responses, respectively, when injected alone or co-injected. Furthermore, co-injection of PA and LF pDNAs does not cause detectable interference in the immunogenicity of either of the pDNAs (Hermanson et al., 2004). Immune responses after two or three injections of cationic lipid-formulated PA, PA + LF, or LF pDNAs were at least equivalent to two doses of anthrax vaccine adsorbed (AVA). High titers of anti-PA, anti-LF, and neutralizing antibody to lethal toxin were achieved in all rabbits.</immune_response>
+			<host_strain refs="">New Zealand White</host_strain>
+			<vaccination_protocol refs="reference34">Plasmid DNA was prepared from overnight cultures of transformed XL-2 Blue bacteria in Terrific Broth plus 50 µg/ml kanamycin sulfate and processed by using Endo-free Giga kits. One milliliter of sterile water for irrigation (SWFI) was added to a vial containing a dried film of 3.75 µmol each of a 1:1 mixture of cationic lipid and colipid and vortex mixed for 5 minutes. The liposome suspension was diluted to 1.5 mM with SWFI and added to an equal volume of pDNA and vortex mixed briefly. The final molar ratio of all formulations was 4:1, DNA/cationic lipid (Hermanson et al., 2004). Two- to five-kilogram female New Zealand White rabbits were injected bilaterally in the quadriceps muscles with 1 ml of pDNA formulated with Vaxfectin or DMRIE/DOPE (0.5 ml per leg). Rabbits vaccinated with PA, LF, or vector received 1 mg of that pDNA whereas rabbits co-injected with PA + LF pDNAs received a mixture of 0.5 mg of each plasmid. Groups of rabbits receiving three doses were injected on days 0, 28, and 56; rabbits receiving only two doses were injected on study days 0 and 28. Rabbits immunized with AVA were injected unilaterally with 50 µl of AVA diluted to 0.5 ml in PBS on days 28 and 56. Prebleeds and biweekly postvaccination bleeds were taken for all groups for analysis of serum antibodies ( Hermanson et al., 2004).</vaccination_protocol>
+			<persistence refs="reference34">Spore challenge induced a significant increase in the Letx neutralization titer in group 4 rabbits, suggesting that there was limited spore germination after challenge in these animals. This post-challenge increase in Letx neutralization titer, however, was smaller than the increase seen in AVA- or LF pDNA-vaccinated rabbits challenged at week 12 (Hermanson et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference34">All animals receiving PA or PA + LF pDNA vaccines were protected. In addition, 5/9 animals receiving LF pDNA survived, and the time to death was significantly delayed in the others. Groups receiving three immunizations with PA or PA + LF pDNA showed no increase in anti-PA, anti-LF, or Letx neutralizing antibody titers post-challenge, suggesting little or no spore germination ( Hermanson et al., 2004).</protection_efficacy>
+			<side_effects refs="reference34">none reported (Hermanson et al., 2004)</side_effects>
+			<challenge_protocol refs="">Eight or nine animals in each group were challenged with 100x LD50 of aerosolized anthrax spores 5 or 9 weeks after vaccination. An additional 10 animals vaccinated with PA pDNA were challenged over 7 months post-vaccination.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine28">
+		<vaccine_name>pCLF4</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000880</vo_id>
+		<type>DNA vaccine</type>
+		<status></status>
+		<vector>pCl [Ref32:Price et al., 2001]</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference32">Plasmid pCLF4 contains the N-terminal region (amino acids [aa] 10-254) of Bacillus anthracis LF cloned into the pCI expression plasmid. Plasmid pCPA contains a biologically active portion (aa 175-764) of B. anthracis PA cloned into the pCI expression vector. PA, LF, and LFE687C (LF7) were expressed and purified. LFE687C is the full-length enzymatically inactive LF protein containing the indicated aa substitution within the zinc-binding active site ( Price et al., 2001).</preparation>
+		<route refs=""></route>
+		<antigen refs="">B. anthracis lethal factor (LF)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering37" gene_id="gene38">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering38" gene_id="gene32">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response24" host_id="host3">
+			<immune_response refs="reference32">Titers of anti-LF antibody remain at high levels for much longer periods of time than do titers of anti-PA antibody. The LF antigen appears to be much more immunogenic and produces an immune response which lasts much longer than the response to the PA antigen. Co-administration of the pCPA and pCLF4 plasmids followed by a final protein booster immunization with the recombinant PA and LF7 antigens produced a substantially higher endpoint titer against either PA or LF at the same time-point than the antibody titers resulting from DNA-based immunization alone ( Price et al., 2001).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference32">Micrometer-diameter gold particles were coated with plasmid pCLF4, pCPA, or a 1:1 mixture of both. Separate groups of female BALB/c mice at 4-5 weeks of age were immunized i.d. in the abdomen via biolistic particle injection on d 0, 14, and 28 with approximately 1 µg of plasmid DNA-coated gold particles for each injection. Immunization groups included mice injected with the same microparticles coated with pCPA, pCLF4, a 1:1 mixture of the pCPA and pCLF4 plasmids, or, as a vector control, the pCI plasmid. For the prime-boost immunization experiments, groups of BALB/c mice were first immunized twice with plasmid DNA as described above and then with a third and final boost of purified antigen emulsified in Freund's incomplete adjuvant. The protein immunizations were administered i.m. Blood samples were obtained 2 weeks following each vaccination, and the sera were pooled and stored at -20°C until analyzed ( Price et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference32">All mice immunized with pCLF4, pCPA, or the combination of both survived the challenge, whereas all unimmunized mice did not survive. A significant antibody response is generated using DNA-based immunization alone and the levels of antibody produced are sufficient to protect animals against an Letx challenge that is 5 times the LD50. Also, co-administration of the pCPA and pCLF4 plasmids followed by a final protein booster immunization with the recombinant PA and LF7 antigens produced a substantially higher endpoint titer against either PA or LF at the same time point than the antibody titers resulting from DNA-based immunization alone ( Price et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference32">Plasmid-immunized BALB/c mice that had received a total of three injections were challenged with purified Letx 2 weeks following the third and final injection. The challenge was conducted by tail vein injection of a previously mixed combination of purified PA and LF proteins (60 μg of PA and 25 to 30 μg of LF per mouse), the equivalent of approximately 5 50% lethal doses (LD50) of Letx (Price et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response25" host_id="host6">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">NZW</host_strain>
+			<vaccination_protocol refs="reference35">Groups of rabbits were immunized with various vaccine preparations. The first group was immunized (i.m.) twice using the needleless Biojector device with 500 ug of plasmid DNA (pCPA and/or pCLF4) resuspended in 0.5 ml of sterile phosphate buffered saline (PBS) at 4-week intervals. These animals were boosted by needle (i.m.) 4 weeks later with 200 ug of purified full-length rPA protein or full-length recombinant lethal factor (LF) protein LF7 with a point mutation resuspended in incomplete Freund’s adjuvant. The second group was immunized three times by gene gun with 10 ug plasmid DNA containing the PA63 gene fragment and/or the LF4 gene fragment bound to gold beads, at 4-week intervals. The third group of animals was immunized (s.c.) at 4-week intervals with AVA (lot FAV059), 800 ug rPA protein with Alum, or a mixture of 400 ug rPA and 400 ug rLF7 protein with Alum. Controls consisted of either non-immunized animals or a plasmid vector control not containing the PA and/or LF genes.  All rabbits were aerosol challenged with B. anthracis spores, Ames strain, with an average dose of 50 LD50s with a range of 18-169 LD50s. Rabbit sera were collected prior to and following aerosol challenge and titrated for PA antibodies by indirect ELISA ( Galloway et al., 2004).</vaccination_protocol>
+			<persistence refs="reference35">(Galloway et al., 2004)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference35">The results of this study indicate that DNA-based immunization against PA and LF followed by protein boosting induces significant protective immunity against aerosol challenge in the rabbit model and compares favorably with protein-based immunization ( Galloway et al., 2004).</protection_efficacy>
+			<side_effects refs="reference35">None were noted (Galloway et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference35">None of the rabbits immunized with the DNA vaccines i.d. survived the challenge. Of the 5 vaccinated rabbits that survived, 2 were immunized i.m. with DNA followed with a protein boost and 3 were immunized subcutaneously (s.q.) with recombinant protein. DNA prime-boosted animals mount a protective response against aerosol challenge more than 1 year following the final immunization. Priming immunizations with plasmid DNA appear to set up a substantial memory response which is recalled upon protein boosting. A major factor predicting survival was the ability of the animal to mount a lasting antibody response to PA ( Galloway et al., 2004).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine29">
+		<vaccine_name>pCMV/ER-PA83</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000876</vo_id>
+		<type>DNA vaccine</type>
+		<status></status>
+		<vector>pCMV/myc/ER [Ref33:Hahn et al., 2004]</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference33">For the pCMV/ER PA83 construct, PA83 was cloned into the eukaryotic expression plasmid pCMV/myc/ER. A gene fragment coding for PA83 was amplified by PCR, and the resulting 2205-bp PCR fragment was digested with Pau I and Not I and ligated into the plasmid pCMV/myc/ER ( Hahn et al., 2004).</preparation>
+		<route refs=""></route>
+		<antigen refs="">B. anthracis PA</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1503" gene_id="gene374">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response26" host_id="host3">
+			<immune_response refs="reference33">26 d after the final immunization, the mice were killed, bled, and the serum samples analyzed for PA-specific antibody titers. All three plasmids induced anti-PA Ig and IgG1 antibody titers. Sera from mice vaccinated with pCMV/ER PA83 had significantly higher anti-PA total immunoglobulin titers than sera from mice vaccinated with pSecTag PA83, or pCMV/ER PA63. The GMT for PA-specific IgG1 of mice immunized with pCMV/ER PA83 was higher but not significantly different than PA-specific IgG1 responses of mice vaccinated with pSecTag PA83 or pCMV/ER PA63. There were no statistically significant differences between the titers of A/J mice immunized with pSecTag PA83 and A/J mice that received the pCMV/ER PA83 plasmid ( Hahn et al., 2004).</immune_response>
+			<host_strain refs="">BALB/c and A/J</host_strain>
+			<vaccination_protocol refs="reference33">In the first vaccination trial, groups of 5 BALB/c mice were vaccinated on days 0, 14 and 28, with one of the three different PA-expressing plasmid constructs. A fourth group of five negative control mice received pCMV/ myc/ER vector DNA without insert. Each immunization consisted of a dose of approximately 1 mg plasmid DNA, precipitated onto 1.6 mm gold carriers per mouse. The DNA was applied to the shaved abdomen of anesthetized mice using a Helios gene gun. DNA-coated gold particles were discharged with 250 psi helium pressure. In the second vaccination trial, A/J mice were immunized according to the same vaccination protocol, except that the helium pressure for discharge of the DNA-coated gold carriers was increased to 400 psi. The treatment groups in this trial were pSecTag PA83 (13 mice), pCMV/ER PA83 (14 mice), and pCMV/myc/ER as a negative control group (10 mice). In the third vaccination trial, A/J mice were immunized with two shots per immunization using an increased DNA dose of 2.5 mg per shot, which were discharged with 400 psi. Six mice were vaccinated with pCMV/ER PA83 and eight with pSecTag PA83 ( Hahn et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference33">Vaccination with either pSecTag PA83 or pCMV/ER PA83 showed significant protection of A/J mice against infection with B. anthracis STI spores ( Hahn et al., 2004).</protection_efficacy>
+			<side_effects refs="reference33">Commercial anthrax vaccines can cause transient side effects, such as local pain and edema, which are probably due to trace amounts of LF and EF. None of these were noted in conjunction with the use of vaccine candidates studied here (Hahn et al., 2004).</side_effects>
+			<challenge_protocol refs="reference33">14 A/J mice were vaccinated with pCMV/ER PA83, and 13 A/J mice with pSecTag PA83. The negative control group (10 A/J mice) received pCMV/myc/ER plasmid DNA without insert. Ten days after the third immunization, all mice were bled and their individual anti-PA titers were determined by ELISA. The mice of each treatment group were then marked to be challenged with either 10 LD50 of B. anthracis STI spores or 100 LD50 of STI spores. A/J mice immunized with the increased amount of plasmid DNA were all challenged with 100 LD50. After injection with B. anthracis spores, mice were observed for a period of 14 days.Surviving mice were killed and bled. The post-challenge serum samples were also analyzed by anti-PA ELISA and for toxin neutralization titers (Hahn et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine451">
+		<vaccine_name>pSecTag-PA83</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000875</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference33">The vector pSecTag PA83, encoding the full-length PA protein, has a signal sequence for secretion of the expressed protein. For the pSecTag PA83 construct, DNA encoding the full-length B. anthracis PA83 was cloned into the eukaryotic expression plasmid pSecTag 2B. A gene fragment coding for the PA83 protein, without its own signal sequence, was amplified by PCR from DNA of a pXO2 strain of B. anthracis. The resulting 2204-bp PCR fragment was digested with Apa I and Kpn I and ligated into the vector pSecTag 2B (Hahn et al., 2004).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Protective antigen</antigen>
+		<host_response host_response_id="host_response499" host_id="host3">
+			<immune_response refs="reference33">26 d after the final immunization, the mice were killed, bled, and the serum samples analyzed for PA-specific antibody titers. All three plasmids induced anti-PA Ig and IgG1 antibody titers. Sera from mice vaccinated with pCMV/ER PA83 had significantly higher anti-PA total immunoglobulin titers than sera from mice vaccinated with pSecTag PA83, or pCMV/ER PA63. The GMT for PA-specific IgG1 of mice immunized with pCMV/ER PA83 was higher but not significantly different than PA-specific IgG1 responses of mice vaccinated with pSecTag PA83 or pCMV/ER PA63. There were no statistically significant differences between the titers of A/J mice immunized with pSecTag PA83 and A/J mice that received the pCMV/ER PA83 plasmid (Hahn et al., 2004).</immune_response>
+			<host_strain refs="">BALB/c and A/J</host_strain>
+			<vaccination_protocol refs="reference33">In the first vaccination trial, groups of 5 BALB/c mice were vaccinated on days 0, 14 and 28, with one of the three different PA-expressing plasmid constructs. A fourth group of five negative control mice received pCMV/ myc/ER vector DNA without insert. Each immunization consisted of a dose of approximately 1 mg plasmid DNA, precipitated onto 1.6 mm gold carriers per mouse. The DNA was applied to the shaved abdomen of anesthetized mice using a Helios gene gun. DNA-coated gold particles were discharged with 250 psi helium pressure. In the second vaccination trial, A/J mice were immunized according to the same vaccination protocol, except that the helium pressure for discharge of the DNA-coated gold carriers was increased to 400 psi. The treatment groups in this trial were pSecTag PA83 (13 mice), pCMV/ER PA83 (14 mice), and pCMV/myc/ER as a negative control group (10 mice). In the third vaccination trial, A/J mice were immunized with two shots per immunization using an increased DNA dose of 2.5 mg per shot, which were discharged with 400 psi. Six mice were vaccinated with pCMV/ER PA83 and eight with pSecTag PA83 (Hahn et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference33">Vaccination with either pSecTag PA83 or pCMV/ER PA83 showed significant protection of A/J mice against infection with B. anthracis STI spores (Hahn et al., 2004).</protection_efficacy>
+			<side_effects refs="reference33">Commercial anthrax vaccines can cause transient side effects, such as local pain and edema, which are probably due to trace amounts of LF and EF. None of these were noted in conjunction with the use of vaccine candidates studied here (Hahn et al., 2004).</side_effects>
+			<challenge_protocol refs="reference33">14 A/J mice were vaccinated with pCMV/ER PA83, and 13 A/J mice with pSecTag PA83. The negative control group (10 A/J mice) received pCMV/myc/ER plasmid DNA without insert. Ten days after the third immunization, all mice were bled and their individual anti-PA titers were determined by ELISA. The mice of each treatment group were then marked to be challenged with either 10 LD50 of B. anthracis STI spores or 100 LD50 of STI spores. A/J mice immunized with the increased amount of plasmid DNA were all challenged with 100 LD50. After injection with B. anthracis spores, mice were observed for a period of 14 days.Surviving mice were killed and bled. The post-challenge serum samples were also analyzed by anti-PA ELISA and for toxin neutralization titers (Hahn et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response209" gene_id="gene1107">
+			    <description refs="reference33">pSecTag PA83 induced PA-specific humoral immune responses, predominantly IgG1 antibodies, in mice (Hahn et al., 2004).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response210" gene_id="gene1105">
+			    <description refs="reference33">Spleen cells collected from plasmid-vaccinated BALB/c mice 26 days after the third immunization produced PA-specific interleukin-4, interleukin-5, and interferon-gamma in vitro.  All levels were significantly higher than those from negative control mice immunized with pCMV/myc/ER, a eukaryotic expression plasmid without the insert (Hahn et al., 2004).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response211" gene_id="gene125">
+			    <description refs="reference33">Spleen cells collected from plasmid-vaccinated BALB/c mice 26 days after the third immunization produced PA-specific interleukin-4, interleukin-5, and interferon-gamma in vitro. All levels were significantly higher than those from negative control mice immunized with pCMV/myc/ER, a eukaryotic expression plasmid without the insert (Hahn et al., 2004).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response212" gene_id="gene1">
+			    <description refs="reference33">Spleen cells collected from plasmid-vaccinated BALB/c mice 26 days after the third immunization produced PA-specific interleukin-4, interleukin-5, and interferon-gamma in vitro. All levels were significantly higher than those from negative control mice immunized with pCMV/myc/ER, a eukaryotic expression plasmid without the insert (Hahn et al., 2004).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine20">
+		<vaccine_name>Recombinant PA domain 4</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000629</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference21">Domain 4 contains the dominant protective epitopes of PA and comprises amino acids 596-735 of the carboxy terminus of the PA polypeptide.  Cell intoxication is thought to occur when full-length PA (PA83) binds to the cell surface receptor via domain 4, which contains the host cell receptor binding site.  After binding to the host cell receptor, the N-terminal amino acids (1-167, i.e. domain 1a) of domain 1, which contains a furin protease cleavage site, are cleaved off, exposing the LF or EF binding site located in domain 1b and the adjacent domain 3.  Domains 2 and 3 then form part of a heptameric pore on the cell surface, the LF or EF binds to its receptor, and the whole toxin complex undergoes receptor-mediated endocytosis into the cell.  After acidification of the endosome, the toxin is translocates into the cell cytosol, where it exerts its cytotoxic effect.  Therefore, inhibition of the binding and entry of the toxin complex, particularly lethal toxin, into the host cell is clearly important for the prevention of infection.  The crystal structure of PA shows domain 4 to be more exposed than the other three domains, which are closely associated with each other.  This structural arrangement may make the epitopes in domain 4 the most prominent for recognition by immune effector cells (Flick-Smith et al., 2002).</description>
+		<adjuvant refs="">Alhydrogel </adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference21">(Flick-Smith et al., 2002)</virulence>
+		<preparation refs="reference21">DNA encoding the PA domains, which comprise amino acids 1-258, 168-487, 1-487, 168-595, 1-595, 259-735, 488-735, 596-735, and 1-735 (fusion proteins GST1, GST1b-2, GST1-2, GST1b-3, GST1-3, GST2-4, GST3-4, GST4, and GST1-4, respectively), was PCR amplified from B. anthracis strain Sterne DNA and cloned into the XhoI and BamHI sites of the expression vector pGEX-6-P3.  Proteins produced by this system were expressed as fusion proteins with an N-terminal glutathione S-transferase (GST) protein.  Immunization was done with rPA, with recombinant GST control protein, or with fusion proteins comprising domains 1, 4, and 1 to 4, which had the GST tag removed by incubation with PreScission Protease and removal of the GST on a glutathione Sepharose column ( Flick-Smith et al., 2002).</preparation>
+		<route refs=""></route>
+		<antigen refs="">PA domain 4 from B. anthracis strain Sterne</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering35" gene_id="gene32">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response32" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Female A/J mice</host_strain>
+			<vaccination_protocol refs="reference21">Mice were vaccinated with 10 µg of protein adsorbed to a 20% (vol/vol) solution of 1.3% Alhydrogel on days 1 and 28 of the study.  Also included were groups of mice that were immunized with rPA (expressed and purified from B. subtilis), with recombinant GST control protein, or with fusion proteins comprising domains 1, 4, and 1-4, which had the GST tag removed by incubation with PreScission Protease and removal of the GST on a glutathione Sepharose column.  Blood samples from mice were collected 37 days after primary immunization for serum antibody analysis by enzyme-linked immunosorbent assay.  Mice were challenged i.p. with either 10^5 or 10^6 spores of the B. anthracis STI strain (equivalent to 10^2 or 10^3 minimum lethal doses [MLDs], respectively) on day 70 of the immunization regimen and were monitored for 14 days postchallenge to determine their protected status (Flick-Smith et al., 2002).</vaccination_protocol>
+			<persistence refs="reference21">(Flick-Smith et al., 2002)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference19">At the lower challenge level of 10^2 MLDs, mice in the GST1-2-, GST4-, and cleaved 4-immunized groups were all fully protected. All mice in the groups immunized with fusion proteins containing domain 4 were fully protected against challenge with 10^3 MLDs of STI spores (Brey, 2005).</protection_efficacy>
+			<side_effects refs="reference21">No side effects noted (Flick-Smith et al., 2002).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3086">
+		<vaccine_name>Recombinant PA with Poly(I:C) Adjuvant</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004255</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference1951">Recombinant PA (Sloat and Cui, 2006).</antigen>
+		<host_response host_response_id="host_response916" host_id="host3">
+			<immune_response refs="reference1951">Mice nasally immunized with rPA adjuvanted with pI:C developed strong systemic and mucosal anti-PA responses with lethal toxin neutralization activity. These immune responses compared favorably to that induced by nasal immunization with rPA adjuvanted with cholera toxin. Poly(I:C) enhanced the proportion of DCs in local draining lymph nodes and stimulated DC maturation (Sloat and Cui, 2006).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1951">Mice were lightly anesthetized and given a total volume of 20 mL of rPA/pI:C solution in two 10-mL doses, with 10-15 min between each dose, half in each nare. As controls, mice (n = 5) were subcutaneously (s.c.) injected with rPA (5 mg/mouse) admixed with aluminum hydroxide gel, nasally dosed with rPA admixed with cholera toxin as a mucosal adjuvant, or left untreated. Mice were dosed on days 0, 7, and 14 (Sloat and Cui, 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4200">
+		<vaccine_name>rLAG- PA-DCpep</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004715</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3240">Targeted B. anthracis protective antigen (PA) genetically fused to a DC-binding peptide (DCpep) was delivered by Lactobacillus acidophilus (Mohamadzadeh et al., 2010)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1659" gene_id="gene374">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1793" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3240">Groups of mice were orally vaccinated with 100 µl (108 CFU) L. gasseri expressing PA–DCpep, PA–Ctrlpep, or cells harboring the empty vector. Oral vaccination was administered four times on a weekly basis (Mohamadzadeh et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3240">L. gasseri expressing PA–DCpep fusion was 100% efficacious in protection of the mice compared with 30% survival when vaccinated with L. gasseri expressing PA–Ctrl pep (Figure 3A &amp; B). Additionally, vaccinated mice with recombinant PA plus alhydrogel were fully protected from Sterne lethal challenge (Mohamadzadeh et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3240">The groups of mice were challenged intraperitoneally with B. anthracis Sterne pXO1+/pXO2- (5 × 10^4 CFU/mouse) (Mohamadzadeh et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine309">
+		<vaccine_name>rPA with adjuvant Nanoemulsion</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0000526</vo_id>
+		<type>Toxoid vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference705">A soybean oil-and-water nanoemulsion (NEs). The NE was manufactured by the emulsification of cetyl pyridum chloride, Tween 20, and ethanol in water with hot-pressed soybean oil, using a high-speed emulsifier (Bielinska et al., 2007).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference705">The NE was manufactured by the emulsification of cetyl pyridum chloride, Tween 20, and ethanol in water with hot-pressed soybean oil, using a high-speed emulsifier. Every rPA-NE formulation was prepared by mixing rPA protein solution with NE, using saline as a diluent 30 to 60 min prior to immunization. For immunization with immunostimulants, 20 μg rPA was mixed with either 5 μg of MPL A or 10 μg CpG oligonucleotides in saline (Bielinska et al., 2007).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference705">For this vaccine, recombinant Bacillus anthracis protective antigen was used (Bielinska et al., 2007).</antigen>
+		<host_response host_response_id="host_response395" host_id="host3">
+			<immune_response refs="reference705">rPA-NE immunization was effective in inducing both serum anti-PA IgG and bronchial anti-PA IgA and IgG antibodies after either one or two mucosal administrations. Serum anti-PA IgG2a and IgG2b antibodies and PA-specific cytokine induction after immunization indicate a Th1-polarized immune response. rPA-NE immunization also produced high titers of lethal-toxin-neutralizing serum antibodies in mice (Bielinska et al., 2007).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference705">Groups of mice were immunized intranasally with either one or two administrations of experimental vaccine 3 weeks apart. rPA-NE mixes were applied to the nares with a pipette tip administering 10 μl per nare, and the animals were then allowed to inhale the material (Bielinska et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">The immune responses of mice were not challenged.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response396" host_id="host7">
+			<immune_response refs="reference705">serum anti-PA immunoglobulin G and bronchial anti-PA IgA and IgG antibodies were produced following either one of two mucosal immunizations of rPA-NE. The anti-PA IgG2a and IgG2b antibodies and PA-specific cytokine induction found in the serum indicated a Th-1-polarized immune response. High titers of lethal-toxin-neatralizing antibodies were also found after rPA-NE immunization (Bielinska et al., 2007).</immune_response>
+			<host_strain refs="">Hartley</host_strain>
+			<vaccination_protocol refs="reference705">Hartley guinea pigs were vaccinated intranasally with one or two administrations of vaccine, each about 50 μl per nare, 4 weeks apart (Bielinska et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference705">Nasal immunization resulted in 70% and 40% survival rates against intranasal challenge with 1.2 × 10^6 and 1.2 × 10^7 Ames strain spores (Bielinska et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference705">The guinea pigs were challenged intradermaly with ~1,000 times the 50% lethal dose of B. anthracis Ames strain spores, which was about 1.38 × 10^3 spores (Bielinska et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4187">
+		<vaccine_name>Typhi strain Ty21a-PA (Bacillus anthracis)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004702</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3224">Anthrax protective antigen was delivered by Salmonella enterica serovar Typhi Ty21a (Osorio et al., 2009)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1792" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3224">Control mice received three doses of Ty21a alone. Mice that were immunized i.n. received 5 × 10^8 CFU per dose, and mice that were immunized i.p. received 5 × 10^7 CFU per dose. i.n. immunization was performed by administering 20 μl of a bacterial solution to the nares (Osorio et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3224">Vaccinated mice demonstrated 100% protection against a lethal intranasal challenge with aerosolized spores of B. anthracis 7702 (Osorio et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3224">Mice were exposed for 90 min to aerosolized spores (5 × 10^9 spores per ml in deionized water with 0.01% Tween 80) prepared from B. anthracis strain 7702(pXO1+, pXO2−) (Osorio et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene1107">
+        <gene_name>Ighg1</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16017</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC160982</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene125">
+        <gene_name>Il4 (interleukin 4)</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16189</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10946584</ncbi_protein_id>
+        <gene_locus_tag>RP23-188H3.4</gene_locus_tag>
+        <gene_refseq>NM_021283.1</gene_refseq>
+        <protein_refseq>NM_021283.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IL-4, Interleukin 4</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|10946583|ref|NM_021283.1| Mus musculus interleukin 4 (Il4), mRNA
+GGATCCCCGGGCAGAGCTGGGGGGGGATTTGTTAGCATCTCTTGATAAACTTAATTGTCTCTCGTCACTG
+ACGGCACAGAGCTATTGATGGGTCTCAACCCCCAGCTAGTTGTCATCCTGCTCTTCTTTCTCGAATGTAC
+CAGGAGCCATATCCACGGATGCGACAAAAATCACTTGAGAGAGATCATCGGCATTTTGAACGAGGTCACA
+GGAGAAGGGACGCCATGCACGGAGATGGATGTGCCAAACGTCCTCACAGCAACGAAGAACACCACAGAGA
+GTGAGCTCGTCTGTAGGGCTTCCAAGGTGCTTCGCATATTTTATTTAAAACATGGGAAAACTCCATGCTT
+GAAGAAGAACTCTAGTGTTCTCATGGAGCTGCAGAGACTCTTTCGGGCTTTTCGATGCCTGGATTCATCG
+ATAAGCTGCACCATGAATGAGTCCAAGTCCACATCACTGAAAGACTTCCTGGAAAGCCTAAAGAGCATCA
+TGCAAATGGATTACTCGTAGTACTGAGCCACCATGCTTTAACTTATGAATTTTTAATGGTTTTATTTTAA
+TATTTATATATTTATAATTCATAAAATAAAATATTTGTATAATGT</dna_sequence>
+        <protein_sequence>>gi|10946584|ref|NP_067258.1| interleukin 4 [Mus musculus]
+MGLNPQLVVILLFFLECTRSHIHGCDKNHLREIIGILNEVTGEGTPCTEMDVPNVLTATKNTTESELVCR
+ASKVLRIFYLKHGKTPCLKKNSSVLMELQRLFRAFRCLDSSISCTMNESKSTSLKDFLESLKSIMQMDYS</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation>IL-4 plays an important role in Th2 immune response.</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1105">
+        <gene_name>Il5</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16191</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>6754336</ncbi_protein_id>
+        <gene_locus_tag>RP23-239O19.2</gene_locus_tag>
+        <gene_refseq>AC084392</gene_refseq>
+        <protein_refseq>NP_034688</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>11</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>53720793</gene_start>
+        <gene_end>53725102</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>interleukin 5</protein_name>
+        <protein_pi>8.9</protein_pi>
+        <protein_weight>14616.09</protein_weight>
+        <protein_length>133</protein_length>
+        <protein_note>Also known as Il-5</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099099:53720793-53725102 Mus musculus strain C57BL/6J chromosome 11, GRCm38 C57BL/6J
+GCGCTCTTCCTTTGCTGAAGGCCAGCGCTGAAGACTTCAGAGTCATGAGAAGGATGCTTCTGCACTTGAG
+TGTTCTGACTCTCAGCTGTGTCTGGGCCACTGCCATGGAGATTCCCATGAGCACAGTGGTGAAAGAGACC
+TTGACACAGCTGTCCGCTCACCGAGCTCTGTTGACAAGCAATGAGGTAAAGTATAACTTATTCCTTCAGC
+TTTGTTTTTAAGATCAGGACCTTGCTATACCGCTCTGACTGGCCTCAAACTTGCTATGTAGGGTAGGCTG
+TCCTAACCCCTACCAGATCTCCTTACCTATGTCTCCCAAATACTAGGATTACAGACACATTACCTTGCCT
+GACGCTATGGTTCTTCAGAATGCATAAATAGCTGCATTTGGCCTTTAATCCCAGAACTTGGGAGGCAGGG
+TCAGGTGGATCTCTGTGAGTTCAAGGCCAGACTTGTCTACGTGGCCAGTTACAGGACAGCCAGAGCTAAA
+GCAAGACCCTGATTCAAAATAATTTTTTTTCAAAACAAAAAAAAAAAACCCAAACCATTTGTGGCAATTC
+ATTTCTAAACATAAAGATCTGCTTTAAATAGTGCAATTATGGCTTGTTCCCTTGCCTTCTTGCTCCCGTT
+CTGTCCTCTTGTCCCACTCTCTCCCCATTCCACCCCCACCATGTGCTCATGGCCCGCATCTCTACTTCTC
+TACTCTCTTTCTCTCCCTCTCCCCTCCTTCTTCCTTTCCCTCTCTCTCTCCCTCTTCTTCTCCTCCTCTC
+TTTCTCTCTCTCTCCCTCTCTCTCTCTCTTTCTCTCTCTCTCTGCTTTTTTCTATCTCTACTACCCTCTC
+AACTCCCCTCTCCATGCCCTGAATAAGCTCTATTCTATACTAAAAAAAAAAAGTGCAATTATGAATGTGT
+TAGTGTTAATGCACAGGTGATAACCCTATCACCAGCAAGCATTGCATTAAAAAAGGCAACGGACTCTCTT
+TAGGATGACCCTATGATGTTCTTTCCTTTGCAGACGATGAGGCTTCCTGTCCCTACTCATAAAAATGTAA
+GTTATTCTTTACTGCCGTGCTTGCATGAGTAAGTCAGCTTCGCATACTAAGCTATAAGTCATCTGCATCT
+AGCTTTCTGGTGTTGTGTGTGTCTGGGATGGGGACCTCTCTAGGTCTCAAGCTCCTGGGTTCAAGTGATT
+CTCTTGCCTTGATAGAGCAGCTGGGACACAGGCCTGTGCCACCACACCCAGCAGAGCTTTTGATTTCAGT
+TAAACTGTTTGACTTTCTTGGAAAAGAAAATTTATGTAGGTAGATATGAAAGTTTGTGCTTATAAATAAA
+AAGAATATGAGAGTGGCAAATTATGTAATCCCAGTACTTGGGAGCCAAAGGCAGGGGTAGTCTGAGTCTA
+GGGCCAGCTTAGATACATTGCCCTGTATGTATCAAAAGTAAATCCTATAAATAAATAAACAAAAACATTA
+GAGGGCTGGAGATATAAGCTCTGTTGATAGATGGCCTAATATGCTGGGTTGACTCTTAGCACCCCATAAA
+CTAAACATGGAAGTACCTGGCTGTAATCTCATGATGGTGAAATGGAGGCGGGAAGATCATAGGTTCAAGG
+TCATCCTCAGCTACATTTTTGAGCTAGAGGCCAGCCTGGGCTATGAGACACGCAAAAACCACCAGCCAAT
+TAATATTAGGAATGGCTTTGAGCTAGATCTGTTATGTAAGTGGCCAGCTGGAGCTGTCAGTCATACATCT
+CACAGCCTCACAAGATTCTTTGCATGGCGAGAGGTCCTGCTGGGCTCCCTTTGGCTCTGTCCATGGCTCT
+CTTCATCCTAGTGCCTCTCTTTGTTTTCCTTGTCTTATTTCTTACTGCTGAGGATCAAGCCCAGGGCCTT
+CAGTGTGTGAAGTGAGCACTCTACCACTGAATTCCAGAGCCCGCCCACTCTAATGCCTTTCTGAAAGTAT
+TAAGAGTTTAGGGTTATATATTCCTTTTGTTTATTTTATGTGTATGAGCATTTTGCCTGCATATATATAT
+ATATATATATATATATATGTGTGTGTGTGTGTGTGTGTGTGTGTATATATATATGTATGTATGTATGTAT
+GTATGTATGTATGTATATGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTTCCACGTATGTGTCTATGTG
+TCTGGTGTTCCTGAAGGCTAAAAGAAGGGCATCAGATCACCTGGGGCTGGATATGCAGATGGTTGTGAGC
+CAACCATCTGGATGCTGGGAACTGCATCAAGTGTTCTTAACCACTGAGCCATCTCTCCCGCTCAGAGGGT
+TATATTCTTAGGTAATGATAGAAAGACATAAAAATATCATGAATGCCTTTATTAATAATTTCTAAACAGT
+TTAATGAATATGACTATGTAGTGATATTGTATACATTTCAATATTATCTTATTCTAGCGTAAAGTACATT
+ATTTAACTTTTTCTAAATAGAAGAAAATTCATCAGCCTAAATTTCAAAAGAAAATATTAATATGGGTGTG
+GTACCACTCACCTTTAATCCAGATGGTTGTGAGCCACCACAAGGGTGCTGGTAACTGAACCCAGGTCCTC
+TGGAAGAGGACCCAGTGATCTTAACCACTGAGCCATCTCCCCAGCCCCAATCCTAACTTTGGGTTCATTT
+TTTTGAAATGATCTCATGTAGCACTAGCTGGCCTCAAACTCTATGTATCAGAGGCTGGCCTTCAACTCCT
+GATCCTCTTACCTCAACTTCCTGAATGCTGGCATTACAGATAAGCACCATCACATCTTGTATTGTCTGGG
+GTTTTTTATTGATGCATTTAAATTGCATGTATTTATTGCATATGGCATGATATTTCAAAATATGTGTACG
+TTGTGGGCAGTCTGATCTATTTGCTTCTTGATAATCTTCTTTCAGCACCAGCTATGCATTGGAGAAATCT
+TTCAGGGGCTAGACATACTGAAGAATCAAACTGTCCGTGGGGGTACTGTGGAAATGCTATTCCAAAACCT
+GTCATTAATAAAGAAATACATTGACCGCCAAAAAGTAAGTTCCCCAGGGACCCTGTGAATCCGGCTGCAG
+CTGGTTCTCCAGGAGCCAACCTGACAGTCTGTTCTTTTCACAGGAGAAGTGTGGCGAGGAGAGACGGAGG
+ACGAGGCAGTTCCTGGATTACCTGCAAGAGTTCCTTGGTGTGATGAGTACAGAGTGGGCAATGGAAGGCT
+GAGGCTGAGCTGCTCCATGGTGACAGGACTTCACAATTTAAGTTAAATTGTCAACAGATGCAAAAACCCC
+ACAAAACTGTGCAAATGCAAGGGATACCATATGCTGTTTCCATTTATATTTATGTCCTGTAGTCAGTTAA
+ACCTATCTATGTCCATATATGCAAAGTGTTTAACCTTTTTGTATACGCATAAAAGAAATTCCTGTAGCGC
+AGGCTGGCCTCAAACTGGTAATGTAGCCAAGGATAACCTTGAATTTCTGATCCTCCTGCCTCCTCTTCCT
+GAAGGCTGAGGTTACAGACATGCACCATTGCCACTAGTTCATGAAGTGCTGGAGATGGAACCCAAGGCTT
+TGTGCATGTTACCAACTGAGTTATACTCCCTCCCCCTCATCCTCTTCGTTGCATCAGGGTCTCAAGTATT
+CCAGGCTGACTTTGAACTCAGTGTGTAGCCAAGGGTGACCCTGAACTCTTGGTCCAGATGGACGCAGGAG
+GATCACATACCCAACCTTAGCATCCTTTCTCCTAGCCCCTTTAGATAGATGATACTTAATGACTCTCTTG
+CTGAGGGATGCCACACCGGGGCTTCCTGCTCCTATCTAACTTCAATTTAATACCCACTAGTCAATCTCTC
+CTCAACTCCCTGCTACTCTCCCCAAACTCTAGTAAGCCCACTTCTATTTCTTGGGGAGAGAGAAGGTTGA
+CTTTTCTTATGTCCTATGTATGAATCAGACTGTGCCATGACTGTGCCTCTGTGCCTGGAGCAGCTGGATT
+TTGGAAAAGAAAAGGGACATCTCCTTGCAGTGTGAATGAGAGCCAGCCACATGCTGGGCCTTACTTCTCC
+GTGTAACTGAACTTAAGAAGCAAAGTAAATACCACAACCTTACTACCCCATGCCAACAGAAAGCATAAAA
+TGGTTGGGATGTTATTCAGGTATCAGGGTCACTGGAGAAGCCTCCCCCAGTTTACTCCAGGAAAAACAGA
+TGTATGCTTTTATTTAATTCTGTAAGATGTTCATATTATTTATGATGGATTCAGTAAGTTAATATTTATT
+ACAACGTATATAATATTCTAATAAAGCAGAAGGGACAACT</dna_sequence>
+        <protein_sequence>>gi|6754336|ref|NP_034688.1| interleukin-5 precursor [Mus musculus]
+MRRMLLHLSVLTLSCVWATAMEIPMSTVVKETLTQLSAHRALLTSNETMRLPVPTHKNHQLCIGEIFQGL
+DILKNQTVRGGTVEMLFQNLSLIKKYIDRQKEKCGEERRRTRQFLDYLQEFLGVMSTEWAMEG</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene38">
+        <gene_name>Lef</gene_name>
+        <strain>Bacillus anthracis str. 'Ames Ancestor'</strain>
+        <vo_id>VO_0010873</vo_id>
+        <ncbi_gene_id>2820148</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>47566484</ncbi_protein_id>
+        <gene_locus_tag>GBAA_pXO1_0172</gene_locus_tag>
+        <gene_refseq>AE017336</gene_refseq>
+        <protein_refseq>YP_016503</protein_refseq>
+        <pdb_id>1J7N</pdb_id>
+        <xrefs>CDD:285037
+CDD:286266
+CDD:238144</xrefs>
+        <taxonomy_id>261594</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>pXO1</plasmid>
+        <gene_start>149356</gene_start>
+        <gene_end>151785</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>lethal factor</protein_name>
+        <protein_pi>5.69</protein_pi>
+        <protein_weight>89799.18</protein_weight>
+        <protein_length>809</protein_length>
+        <protein_note>Anthrax toxin lethal factor, N- and C-terminal domain; pfam07737</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_007322.2:149356-151785 Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1, complete sequence
+CTTATGAGTTAATAATGAACTTAATCTGATCGTTAATAAATTGGAAAGTTTTCGGAGCATTTTTTTGAAC
+TTTTAAACGTTCAGCATGGTCCGTAGAATGCATTAACCTAAAGGCTTCTGCAAAAAATTCCGCTTCATTT
+GTTCTCCCATACGAAGTTAAATTACTCCCTTCTTCCTTAAAAATATCAATGAATTTTTTAGAATTTGTAA
+CTAAATCAGATTGGTTCTTATCTAATAGATATCCAGCATAATCATCCACAGCATGTCCAAATTCGTGTAT
+AAAACCCTCACTATCATTCCTTAATTCTACACCTTTTGAAGGTCCATGGAGTAATATAGAACGGGATTCT
+GGAACATATAACCCTTTTGAATGAACTTGCTCATATATCTCATCTTGATGTGTATATTGTTCAGCTATAT
+TAGGGAGAGTAATATCGGTAAAAACAAATCTTCCATTACCATCAACTAAGTAATTTGTTACCTTTTTTAT
+AAGATCACTTTGAATATTATTTTTCCATTCATTCAATATTAAATAAGCACTTTCTACAATATTGGATGCA
+TATCTATTATGCACGTTGAATGTAATAAGCTTTGTATATTTTGGTAACCCTAATGCTTTATTCCATTCCT
+GATTTATATTTAACTGTGCTTCTTGAATTTTTGTATCTATTTTACTCTTTGGCACTACTTTCGCATCAAT
+CCTTATATATTCTTTTTCGGATTGCTTAATTATTTGTACATCCTTTATTTCCAGACCGATGTTTCTTTGT
+AATATAAGCTTTCCATTTTCTAAATATCCTGCTCGAGTATCTGGTGATAATTGGATTCTCCATTTCAAAC
+GCTCATTATCTAATGCAGGCCTTTCATTTATATCAACAATCATATAGTTACTAGAAATACTATATTTGAA
+ATTTTTTTTGAATTCATTGAAAATACCTCTATTAATTTTAGTATTATCAGTGGAATCAACTAAATCCGCA
+CCTAGGGTTGCTGTAAGGTTATTGATATTCATATTTTCATACAAATAAATTTTATTGTACAAGGTACTTC
+CAATGGATTGATGTAATAAAGCATCAATATTTTGAATATCCCTTTTATACTGCTTTCTTACATCAAGATT
+AATTGACGGACTATCAATTAACCCTCCTGTATCTTGCAACCTTTGATTAATATCATATGGTTGAATATCA
+AGTTTCAGCTTTTTTAAAAACTCTTTTTCTTTTTCAGATAAAGGATTACTACTATCCACCTGTATTCTAT
+TTAAAAGCTCTTTTTCTTCTTCAGATAAAGAATCACGAATATCAATTTGTAGCTTTTTTAAAAACTCTTT
+TTCCTCAGTAGATAAAAAATCACTACTATCAATTTGTATTCTTTTTAGAAGCTCTTTTTCTTCTTGAGAT
+AAAGAATGAATTATGTCATCTTTCTTTGGCTCAATAGGAATCTGCAGCTTTTTTAAAAGTCCTCTTCCTT
+CTTCAGATAAAGAATCGCTCCAGTGTTGATAGTGCTGTTTTATCTTTTCCCATTTTTCATATCTTGCCAG
+CATCCGTTGATCTTTAAGTTCTTCCAAGGATAGATTTATTTCTTGTTCGTTAAATTTATCCATGTAATTA
+AAAGCTTCCGGTGCATAAAGCTGTAAAACATCACGATGCTGTGGCTCGATATAATATGCAAAAGCTTTCG
+CAAATACTTCTTGTACCTCATTGCTATTTTGTTCCAAGAATTCTACAGAAAAGTCTGTGGGATGTTCCTT
+AAGCTGATTAGTAAATAAAAGATCTTGTCCATCTGAATCAGATGCATTTTTAATGGTATTTAATACATCT
+AAAAATTTCTGATATGGTTGATTAATTTTACTTAAAATATCCCTTGATAATATCTTACCTATTTCATAAT
+AAACGTTCAGTGCCTTTTCAGTATTTTCTACATAATCTTCCGAAGATTGGATTACAAGTACGGGTTCATA
+TCCTTCTTTTGCATATACATAATGTTCATGTAATAAAGCATCTTTCCCATAAATGTCTTTTATTTTTTTC
+TTATCTTCAGATAATGCTTCTAAAGATATATGTTTTGTAATATCACCATCCACAATATATATCTTTCCTC
+CAATTGCTTTATACATCTCTAAAACATCAGATGGTACTTTCTCAAGTAGCTTTTCTGCTGCCTCTTTTTT
+AACAGCTTCCTCCCCTTTTACTTCTATTTTTACAATGTGTTTCATGATTTCCTTTAAATGCTCTTCCTGT
+GTTTTATTTCGTTCTTCATCTTTTCTCTTATTCTCATCTTTATTTTTCTCTTTCTCTTTTACGTGCATAC
+CTACATCACCATGACCGCCCGCCCCCTGTACAAGGGGGATAAAGACGGGACCACTCAAAGTAATTGCTGT
+TACTAAACATGACATACTAATTACTTTTATAAATTCTTTTTTTATATTCA
+
+</dna_sequence>
+        <protein_sequence>>YP_016503.2 lethal factor (plasmid) [Bacillus anthracis str. 'Ames Ancestor']
+MNIKKEFIKVISMSCLVTAITLSGPVFIPLVQGAGGHGDVGMHVKEKEKNKDENKRKDEERNKTQEEHLK
+EIMKHIVKIEVKGEEAVKKEAAEKLLEKVPSDVLEMYKAIGGKIYIVDGDITKHISLEALSEDKKKIKDI
+YGKDALLHEHYVYAKEGYEPVLVIQSSEDYVENTEKALNVYYEIGKILSRDILSKINQPYQKFLDVLNTI
+KNASDSDGQDLLFTNQLKEHPTDFSVEFLEQNSNEVQEVFAKAFAYYIEPQHRDVLQLYAPEAFNYMDKF
+NEQEINLSLEELKDQRMLARYEKWEKIKQHYQHWSDSLSEEGRGLLKKLQIPIEPKKDDIIHSLSQEEKE
+LLKRIQIDSSDFLSTEEKEFLKKLQIDIRDSLSEEEKELLNRIQVDSSNPLSEKEKEFLKKLKLDIQPYD
+INQRLQDTGGLIDSPSINLDVRKQYKRDIQNIDALLHQSIGSTLYNKIYLYENMNINNLTATLGADLVDS
+TDNTKINRGIFNEFKKNFKYSISSNYMIVDINERPALDNERLKWRIQLSPDTRAGYLENGKLILQRNIGL
+EIKDVQIIKQSEKEYIRIDAKVVPKSKIDTKIQEAQLNINQEWNKALGLPKYTKLITFNVHNRYASNIVE
+SAYLILNEWKNNIQSDLIKKVTNYLVDGNGRFVFTDITLPNIAEQYTHQDEIYEQVHSKGLYVPESRSIL
+LHGPSKGVELRNDSEGFIHEFGHAVDDYAGYLLDKNQSDLVTNSKKFIDIFKEEGSNLTSYGRTNEAEFF
+AEAFRLMHSTDHAERLKVQKNAPKTFQFINDQIKFIINS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene5">
+        <gene_name>Lef from B. anthracis str. A2012</gene_name>
+        <strain>Bacillus anthracis str. A2012</strain>
+        <vo_id>VO_0010857</vo_id>
+        <ncbi_gene_id>1158731</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>21392848</ncbi_protein_id>
+        <gene_locus_tag>BXA0172</gene_locus_tag>
+        <gene_refseq>AE011190</gene_refseq>
+        <protein_refseq>NP_652928</protein_refseq>
+        <pdb_id>1J7N</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>191218</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>149356</gene_start>
+        <gene_end>151785</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>lethal factor</protein_name>
+        <protein_pi>5.69</protein_pi>
+        <protein_weight>89799.18</protein_weight>
+        <protein_length>809</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_003980.1:149356-151785 Bacillus anthracis str. A2012 plasmid pXO1, complete sequence
+CTTATGAGTTAATAATGAACTTAATCTGATCGTTAATAAATTGGAAAGTTTTCGGAGCATTTTTTTGAAC
+TTTTAAACGTTCAGCATGGTCCGTAGAATGCATTAACCTAAAGGCTTCTGCAAAAAATTCCGCTTCATTT
+GTTCTCCCATACGAAGTTAAATTACTCCCTTCTTCCTTAAAAATATCAATGAATTTTTTAGAATTTGTAA
+CTAAATCAGATTGGTTCTTATCTAATAGATATCCAGCATAATCATCCACAGCATGTCCAAATTCGTGTAT
+AAAACCCTCACTATCATTCCTTAATTCTACACCTTTTGAAGGTCCATGGAGTAATATAGAACGGGATTCT
+GGAACATATAACCCTTTTGAATGAACTTGCTCATATATCTCATCTTGATGTGTATATTGTTCAGCTATAT
+TAGGGAGAGTAATATCGGTAAAAACAAATCTTCCATTACCATCAACTAAGTAATTTGTTACCTTTTTTAT
+AAGATCACTTTGAATATTATTTTTCCATTCATTCAATATTAAATAAGCACTTTCTACAATATTGGATGCA
+TATCTATTATGCACGTTGAATGTAATAAGCTTTGTATATTTTGGTAACCCTAATGCTTTATTCCATTCCT
+GATTTATATTTAACTGTGCTTCTTGAATTTTTGTATCTATTTTACTCTTTGGCACTACTTTCGCATCAAT
+CCTTATATATTCTTTTTCGGATTGCTTAATTATTTGTACATCCTTTATTTCCAGACCGATGTTTCTTTGT
+AATATAAGCTTTCCATTTTCTAAATATCCTGCTCGAGTATCTGGTGATAATTGGATTCTCCATTTCAAAC
+GCTCATTATCTAATGCAGGCCTTTCATTTATATCAACAATCATATAGTTACTAGAAATACTATATTTGAA
+ATTTTTTTTGAATTCATTGAAAATACCTCTATTAATTTTAGTATTATCAGTGGAATCAACTAAATCCGCA
+CCTAGGGTTGCTGTAAGGTTATTGATATTCATATTTTCATACAAATAAATTTTATTGTACAAGGTACTTC
+CAATGGATTGATGTAATAAAGCATCAATATTTTGAATATCCCTTTTATACTGCTTTCTTACATCAAGATT
+AATTGACGGACTATCAATTAACCCTCCTGTATCTTGCAACCTTTGATTAATATCATATGGTTGAATATCA
+AGTTTCAGCTTTTTTAAAAACTCTTTTTCTTTTTCAGATAAAGGATTACTACTATCCACCTGTATTCTAT
+TTAAAAGCTCTTTTTCTTCTTCAGATAAAGAATCACGAATATCAATTTGTAGCTTTTTTAAAAACTCTTT
+TTCCTCAGTAGATAAAAAATCACTACTATCAATTTGTATTCTTTTTAGAAGCTCTTTTTCTTCTTGAGAT
+AAAGAATGAATTATGTCATCTTTCTTTGGCTCAATAGGAATCTGCAGCTTTTTTAAAAGTCCTCTTCCTT
+CTTCAGATAAAGAATCGCTCCAGTGTTGATAGTGCTGTTTTATCTTTTCCCATTTTTCATATCTTGCCAG
+CATCCGTTGATCTTTAAGTTCTTCCAAGGATAGATTTATTTCTTGTTCGTTAAATTTATCCATGTAATTA
+AAAGCTTCCGGTGCATAAAGCTGTAAAACATCACGATGCTGTGGCTCGATATAATATGCAAAAGCTTTCG
+CAAATACTTCTTGTACCTCATTGCTATTTTGTTCCAAGAATTCTACAGAAAAGTCTGTGGGATGTTCCTT
+AAGCTGATTAGTAAATAAAAGATCTTGTCCATCTGAATCAGATGCATTTTTAATGGTATTTAATACATCT
+AAAAATTTCTGATATGGTTGATTAATTTTACTTAAAATATCCCTTGATAATATCTTACCTATTTCATAAT
+AAACGTTCAGTGCCTTTTCAGTATTTTCTACATAATCTTCCGAAGATTGGATTACAAGTACGGGTTCATA
+TCCTTCTTTTGCATATACATAATGTTCATGTAATAAAGCATCTTTCCCATAAATGTCTTTTATTTTTTTC
+TTATCTTCAGATAATGCTTCTAAAGATATATGTTTTGTAATATCACCATCCACAATATATATCTTTCCTC
+CAATTGCTTTATACATCTCTAAAACATCAGATGGTACTTTCTCAAGTAGCTTTTCTGCTGCCTCTTTTTT
+AACAGCTTCCTCCCCTTTTACTTCTATTTTTACAATGTGTTTCATGATTTCCTTTAAATGCTCTTCCTGT
+GTTTTATTTCGTTCTTCATCTTTTCTCTTATTCTCATCTTTATTTTTCTCTTTCTCTTTTACGTGCATAC
+CTACATCACCATGACCGCCCGCCCCCTGTACAAGGGGGATAAAGACGGGACCACTCAAAGTAATTGCTGT
+TACTAAACATGACATACTAATTACTTTTATAAATTCTTTTTTTATATTCA
+
+</dna_sequence>
+        <protein_sequence>>NP_652928.1 lethal factor (plasmid) [Bacillus anthracis str. A2012]
+MNIKKEFIKVISMSCLVTAITLSGPVFIPLVQGAGGHGDVGMHVKEKEKNKDENKRKDEERNKTQEEHLK
+EIMKHIVKIEVKGEEAVKKEAAEKLLEKVPSDVLEMYKAIGGKIYIVDGDITKHISLEALSEDKKKIKDI
+YGKDALLHEHYVYAKEGYEPVLVIQSSEDYVENTEKALNVYYEIGKILSRDILSKINQPYQKFLDVLNTI
+KNASDSDGQDLLFTNQLKEHPTDFSVEFLEQNSNEVQEVFAKAFAYYIEPQHRDVLQLYAPEAFNYMDKF
+NEQEINLSLEELKDQRMLARYEKWEKIKQHYQHWSDSLSEEGRGLLKKLQIPIEPKKDDIIHSLSQEEKE
+LLKRIQIDSSDFLSTEEKEFLKKLQIDIRDSLSEEEKELLNRIQVDSSNPLSEKEKEFLKKLKLDIQPYD
+INQRLQDTGGLIDSPSINLDVRKQYKRDIQNIDALLHQSIGSTLYNKIYLYENMNINNLTATLGADLVDS
+TDNTKINRGIFNEFKKNFKYSISSNYMIVDINERPALDNERLKWRIQLSPDTRAGYLENGKLILQRNIGL
+EIKDVQIIKQSEKEYIRIDAKVVPKSKIDTKIQEAQLNINQEWNKALGLPKYTKLITFNVHNRYASNIVE
+SAYLILNEWKNNIQSDLIKKVTNYLVDGNGRFVFTDITLPNIAEQYTHQDEIYEQVHSKGLYVPESRSIL
+LHGPSKGVELRNDSEGFIHEFGHAVDDYAGYLLDKNQSDLVTNSKKFIDIFKEEGSNLTSYGRTNEAEFF
+AEAFRLMHSTDHAERLKVQKNAPKTFQFINDQIKFIINS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1056">
+        <gene_name>mntA</gene_name>
+        <strain>Bacillus anthracis str. A0248</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>7848141</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>229600559</ncbi_protein_id>
+        <gene_locus_tag>BAA_3238</gene_locus_tag>
+        <gene_refseq>CP001598</gene_refseq>
+        <protein_refseq>YP_002867390</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>592021</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>2936644</gene_start>
+        <gene_end>2937579</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>manganese ABC transporter, manganese-binding protein</protein_name>
+        <protein_pi>5.78</protein_pi>
+        <protein_weight>32608.66</protein_weight>
+        <protein_length>311</protein_length>
+        <protein_note>identified by match to protein family HMM PF01297</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|229599883:2936644-2937579 Bacillus anthracis str. A0248, complete genome
+TTTACTTTTGTAACCCATTAATAATGGTATCTATATTCCATTTCATCATTTTTAAATACGTATCTCCATC
+CTCACCTGATTTACCTAGTGAATCTGTAAAAATTGTACCTGCAATTGGCACGTTTGTTTCTTTTGAAACA
+GTTTCCATGCTGCGTCGATCTACACTAGTTTCTACAAATAGAGCCGGAACTTTATTTGTTTGAATTACAC
+TTACAACATCTCGAATTTGATCTGGTGTACCTTGATTTTCTGAGTTAATTTCCCAAATGTATCCCGTTTT
+AATATCATATGCTTTTCCAAAGTATTTAAAAGCACCTTCACTAGAGATTAAGAACCGTTTCTCCTCAGGG
+ATTTGATGAATTCTGTTTACTGTCTCATCATGTAACTTTTGAAGTTCTGCTACATAGTTGTCAGCATTTT
+TAGTATAGAACTCTTTATTTTTAGGGTCTTCTTTAATTAATGCCTTTTTCACATTTTCAGCATATAAAAT
+ACCATTTTTAATGTTCATCCATGCATGCGGGTCTGGTTCTTTTTCTAATCCTTTTGTCTCTAAATAAATA
+GCTTCTACGCCTTCACTTACTTTATAAACCGGTGCATCTTTCTCTGATTTATTTGCCGTTTTTAATAGCT
+TTTTAAACCACGCTCCACCTTCTTCTAGGTTCAATCCATTGTAAAGAACCATATCTGCATCTGTCATTTT
+CATAACATCTTTTGGTAGTGGATCATATTCATGCGGGTTAGCTCCAATTGGAACAAGACTATGAATCTCA
+ACTTTCTCTCCGCCAATTTGCTTCACCATATCATATATAATGGAGTATGTAGTTACAACTTTTAATTTTC
+CACTGCCCTCTTCTTTTCCATTTGTGTTACTAGAACACGCTGTTAATGCAAATACGAAAATACAAAGTAT
+CGATAATACAACATTTTTAAATTTCA</dna_sequence>
+        <protein_sequence>>gi|229600559|ref|YP_002867390.1| manganese ABC transporter, manganese-binding protein [Bacillus anthracis str. A0248]
+MKFKNVVLSILCIFVFALTACSSNTNGKEEGSGKLKVVTTYSIIYDMVKQIGGEKVEIHSLVPIGANPHE
+YDPLPKDVMKMTDADMVLYNGLNLEEGGAWFKKLLKTANKSEKDAPVYKVSEGVEAIYLETKGLEKEPDP
+HAWMNIKNGILYAENVKKALIKEDPKNKEFYTKNADNYVAELQKLHDETVNRIHQIPEEKRFLISSEGAF
+KYFGKAYDIKTGYIWEINSENQGTPDQIRDVVSVIQTNKVPALFVETSVDRRSMETVSKETNVPIAGTIF
+TDSLGKSGEDGDTYLKMMKWNIDTIINGLQK</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An mntA deletion mutant, generated by allelic replacement, in Bacillus anthracis was attenuated and provided protection for guinea pigs against lethal spore dose (60 LD50) of the virulent B. anthracis Vollum strain [Ref1993:Gat et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1394">
+        <gene_name>PA63-LAMP1</gene_name>
+        <strain>synthetic construct derived from Bacillus anthracis</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>193873761</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:281492
+CDD:213052</xrefs>
+        <taxonomy_id>32630</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>PA63-LAMP1</protein_name>
+        <protein_pi>6.22</protein_pi>
+        <protein_weight>64720.28</protein_weight>
+        <protein_length>659</protein_length>
+        <protein_note>Clostridial binary toxin B/anthrax toxin PA; pfam03495</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACF23538.1 PA63-LAMP1 [synthetic construct]
+MPTVPDRDNDGIPDSLEVEGYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTG
+RIDKNVSPEARHPLVAAYPIVHVDMENIILSKNEDQSTQNTDSQTRTISKNTSTSRTHTSEVHGNAEVHA
+SFFDIGGSVSAGFSNSNSSTVAIDHSLSLAGERTWAETMGLNTADTARLNANIRYVNTGTAPIYNVLPTT
+SLVLGKNQTLATIKAKENQLSQILAPNNYYPSKNLAPIALNAQDDFSSTPITMNYNQFLELEKTKQLRLD
+TDQVYGNIATYNFENGRVRVDTGSNWSEVLPQIQETTARIIFNGKDLNLVERRIAAVNPSDPLETTKPDM
+TLKEALKIAFGFNEPNGNLQYQGKDITEFDFNFDQQTSQNIKNQLAELNATNIYTVLDKIKLNAKMNILI
+RDKRFHYDRNNIAVGADESVVKEAHREVINSSTEGLLLNIDKDIRKISSGYIVEIEDTEGLKEVINDRYD
+MLNISSLRQDGKTFIDFKKYNDKLPLYISNPNYKVNVYAVTKENTIINPSENGDTSTNGIKKILIFSKKG
+YEIGGLNNMLIPIAVGGALAGLVLIVLIAYLIGRKRSHAGYQTI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1397">
+        <gene_name>PA83</gene_name>
+        <strain>synthetic construct</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>40646953</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAR88321.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:284994
+CDD:281492</xrefs>
+        <taxonomy_id>32630</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>protective antigen PA83</protein_name>
+        <protein_pi>5.32</protein_pi>
+        <protein_weight>80526.18</protein_weight>
+        <protein_length>822</protein_length>
+        <protein_note>Homo sapiens tissue plasminogen activator signal peptide</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAR88321.1 protective antigen PA83 [synthetic construct]
+MDAMKRGLCCVLLLCGAVFVSPSEVKQENRLLNESESSSQGLLGYYFSDLNFQAPMVVTSSTTGDLSIPS
+SELENIPSENQYFQSAIWSGFIKVKKSDEYTFATSADNHVTMWVDDQEVINKASNSNKIRLEKGRLYQIK
+IQYQRENPTEKGLDFKLYWTDSQNKKEVISSDNLQLPELKQKSSNTSAGPTVPDRDNDGIPDSLEVEGYT
+VDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDKNVSPEARHPLVAAYPIVH
+VDMENIILSKNEDQSTQNTDSETRTISKNTSTSRTHTSEVHGNAEVHASFFDIGGSVSAGFSNSNSSTVA
+IDHSLSLAGERTWAETMGLNTADTARLNANIRYVNTGTAPIYNVLPTTSLVLGKNQTLATIKAKENQLSQ
+ILAPNNYYPSKNLAPIALNAQDDFSSTPITMNYNQFLELEKTKQLRLDTDQVYGNIATYNFENGRVRVDT
+GSNWSEVLPQIQETTARIIFNGKDLNLVERRIAAVNPSDPLETTKPDMTLKEALKIAFGFNEPNGNLQYQ
+GKDITEFDFNFDQQTSQNIKNQLAELNATNIYTVLDKIKLNAKMNILIRDKRFHYDRNNIAVGADESVVK
+EAHREVINSSTEGLLLNIDKDIRKILSGYIVEIEDTEGLKEVINDRYDMLNISSLRQDGKTFIDFKKYND
+KLPLYISNPNYKVNVYAVTKENTIINPSENGDTSTNGIKKILIFSKKGYEIG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene374">
+        <gene_name>pagA</gene_name>
+        <strain>Bacillus anthracis</strain>
+        <vo_id>VO_0011029</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9280533</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>1ACC</pdb_id>
+        <xrefs>ATCC:14185
+CDD:311565
+CDD:281492</xrefs>
+        <taxonomy_id>1392</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>protective antigen</protein_name>
+        <protein_pi>6.09</protein_pi>
+        <protein_weight>81760.71</protein_weight>
+        <protein_length>838</protein_length>
+        <protein_note>PA14 domain; pfam07691</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAF86457.1 protective antigen (plasmid) [Bacillus anthracis]
+MKKRKVLIPLMALSTILVSSTGNLEVIQAEVKQENRLLNESESSSQGLLGYYFSDLNFQAPMVVTSSTTG
+DLSIPSSELENIPSENQYFQSAIWSGFIKVKKSDEYTFATSADNHVTMWVDDQEVINKASNSNKIRLEKG
+RLYQIKIQYQRENPTEKGLDFKLYWTDSQNKKEVISSDNLQLPELKQKSSNSRKKRSTSAGPTVPDRDND
+GIPDSLEVEGYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDKNVSPEA
+RHPLVAAYPIVHVDMENIILSKNEDQSTQNTDSQTRTISKNTSTSRTHTSEVHGNAEVHASFFDIGGSVS
+AGFSNSNSSTVAIDHSLSLAGERTWAETMGLNTADTARLNANIRYVNTGTAPIYNVLPTTSLVLGKNQTL
+ATIKAKENQLSQILAPNNYYPSKNLAPIALNAQDDFSSTPITMNYNQFLELEKTKQLRLDTDQVYGNIAT
+YNFENGRVRVDTGSNWSEVLPQIQETTARIIFNGKDLNLVERRIAAVNPSDPLETTKPDMTLKEALKIAF
+GFNEPNGNLQYQGKDITEFDFNFDQQTSQNIKNQLAELNVTNIYTVLDKIKLNAKMNILIRDKRFHYDRN
+NIAVGADESVVKEAHREVINSSTEGLLLNIDKDIRKILSGYIVEIEDTEGLKEVINDRYDMLNISSLRQD
+GKTFIDFKKYNDKLPLYISNPNYKVNVYAVTKENTIINPSENGDTSTNGIKKILIFSKKGYEIG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study described the construction and evaluation of an adenovirus vaccine expressing domain 4 of Bacillus anthracis protective antigen, Ad.D4. Ad.D4 elicited antibodies to protective antigen 14 days after a single intramuscular injection, which were further increased upon boosting. Furthermore, two doses of Ad.D4 4 weeks apart were sufficient to protect 67% of mice from toxin challenge [Ref1016:McConnell et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene32">
+        <gene_name>PagA from B. anthracis str. 'Ames Ancestor'</gene_name>
+        <strain>Bacillus anthracis str. 'Ames Ancestor'</strain>
+        <vo_id>VO_0010872</vo_id>
+        <ncbi_gene_id>2820165</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>47566476</ncbi_protein_id>
+        <gene_locus_tag>GBAA_pXO1_0164</gene_locus_tag>
+        <gene_refseq>AE017336</gene_refseq>
+        <protein_refseq>YP_016495</protein_refseq>
+        <pdb_id>1ACC</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>261594</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>pXO1</plasmid>
+        <gene_start>143778</gene_start>
+        <gene_end>146072</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>protective antigen</protein_name>
+        <protein_pi>6.09</protein_pi>
+        <protein_weight>81542.47</protein_weight>
+        <protein_length>764</protein_length>
+        <protein_note>similar to SP:P13423; identified by sequence similarity; putative</protein_note>
+        <protein_annotation>Protective antigen (PA) is the dominant antigen in both natural and vaccine-induced immunity to anthrax infection and consists of four distinct and functionally independent domains.  Domain 1 is divided into domains 1a (consisting of amino acids 1-167) and 1b (consisting of aa 168-258).  Domain 2 comprises aa 259-487 and domain 3 aa 488-595.  After the antigen binds to the host cell receptor via the binding site of domain 4, the N-terminal amino acids (1-167, i.e. domain 1a) of domain 1, which contain a furin protease cleavage site, are cleaved off, exposing the LF or EF binding site located in domain 1b and the adjacent domain 3.  Domains 2 and 3 then form part of a heptameric pore on the cell surface, the LF or EF binds to its receptor, and the whole toxin complex undergoes receptor-mediated endocytosis into the cell.  After acidification of the endosome, the toxin is translocated into the cell cytosol where it exerts its cytotoxic effect.  Therefore, inhibition of the binding and entry of the toxin complex, particularly lethal toxin, into the host cell is clearly important for the prevention of infection [Ref21:Flick-Smith et al., 2002].</protein_annotation>
+        <dna_sequence>>NC_007322.2:143778-146072 Bacillus anthracis str. 'Ames Ancestor' plasmid pXO1, complete sequence
+TATGAAAAAACGAAAAGTGTTAATACCATTAATGGCATTGTCTACGATATTAGTTTCAAGCACAGGTAAT
+TTAGAGGTGATTCAGGCAGAAGTTAAACAGGAGAACCGGTTATTAAATGAATCAGAATCAAGTTCCCAGG
+GGTTACTAGGATACTATTTTAGTGATTTGAATTTTCAAGCACCCATGGTGGTTACCTCTTCTACTACAGG
+GGATTTATCTATTCCTAGTTCTGAGTTAGAAAATATTCCATCGGAAAACCAATATTTTCAATCTGCTATT
+TGGTCAGGATTTATCAAAGTTAAGAAGAGTGATGAATATACATTTGCTACTTCCGCTGATAATCATGTAA
+CAATGTGGGTAGATGACCAAGAAGTGATTAATAAAGCTTCTAATTCTAACAAAATCAGATTAGAAAAAGG
+AAGATTATATCAAATAAAAATTCAATATCAACGAGAAAATCCTACTGAAAAAGGATTGGATTTCAAGTTG
+TACTGGACCGATTCTCAAAATAAAAAAGAAGTGATTTCTAGTGATAACTTACAATTGCCAGAATTAAAAC
+AAAAATCTTCGAACTCAAGAAAAAAGCGAAGTACAAGTGCTGGACCTACGGTTCCAGACCGTGACAATGA
+TGGAATCCCTGATTCATTAGAGGTAGAAGGATATACGGTTGATGTCAAAAATAAAAGAACTTTTCTTTCA
+CCATGGATTTCTAATATTCATGAAAAGAAAGGATTAACCAAATATAAATCATCTCCTGAAAAATGGAGCA
+CGGCTTCTGATCCGTACAGTGATTTCGAAAAGGTTACAGGACGGATTGATAAGAATGTATCACCAGAGGC
+AAGACACCCCCTTGTGGCAGCTTATCCGATTGTACATGTAGATATGGAGAATATTATTCTCTCAAAAAAT
+GAGGATCAATCCACACAGAATACTGATAGTCAAACGAGAACAATAAGTAAAAATACTTCTACAAGTAGGA
+CACATACTAGTGAAGTACATGGAAATGCAGAAGTGCATGCGTCGTTCTTTGATATTGGTGGGAGTGTATC
+TGCAGGATTTAGTAATTCGAATTCAAGTACGGTCGCAATTGATCATTCACTATCTCTAGCAGGGGAAAGA
+ACTTGGGCTGAAACAATGGGTTTAAATACCGCTGATACAGCAAGATTAAATGCCAATATTAGATATGTAA
+ATACTGGGACGGCTCCAATCTACAACGTGTTACCAACGACTTCGTTAGTGTTAGGAAAAAATCAAACACT
+CGCGACAATTAAAGCTAAGGAAAACCAATTAAGTCAAATACTTGCACCTAATAATTATTATCCTTCTAAA
+AACTTGGCGCCAATCGCATTAAATGCACAAGACGATTTCAGTTCTACTCCAATTACAATGAATTACAATC
+AATTTCTTGAGTTAGAAAAAACGAAACAATTAAGATTAGATACGGATCAAGTATATGGGAATATAGCAAC
+ATACAATTTTGAAAATGGAAGAGTGAGGGTGGATACAGGCTCGAACTGGAGTGAAGTGTTACCGCAAATT
+CAAGAAACAACTGCACGTATCATTTTTAATGGAAAAGATTTAAATCTGGTAGAAAGGCGGATAGCGGCGG
+TTAATCCTAGTGATCCATTAGAAACGACTAAACCGGATATGACATTAAAAGAAGCCCTTAAAATAGCATT
+TGGATTTAACGAACCGAATGGAAACTTACAATATCAAGGGAAAGACATAACCGAATTTGATTTTAATTTC
+GATCAACAAACATCTCAAAATATCAAGAATCAGTTAGCGGAATTAAACGCAACTAACATATATACTGTAT
+TAGATAAAATCAAATTAAATGCAAAAATGAATATTTTAATAAGAGATAAACGTTTTCATTATGATAGAAA
+TAACATAGCAGTTGGGGCGGATGAGTCAGTAGTTAAGGAGGCTCATAGAGAAGTAATTAATTCGTCAACA
+GAGGGATTATTGTTAAATATTGATAAGGATATAAGAAAAATATTATCAGGTTATATTGTAGAAATTGAAG
+ATACTGAAGGGCTTAAAGAAGTTATAAATGACAGATATGATATGTTGAATATTTCTAGTTTACGGCAAGA
+TGGAAAAACATTTATAGATTTTAAAAAATATAATGATAAATTACCGTTATATATAAGTAATCCCAATTAT
+AAGGTAAATGTATATGCTGTTACTAAAGAAAACACTATTATTAATCCTAGTGAGAATGGGGATACTAGTA
+CCAACGGGATCAAGAAAATTTTAATCTTTTCTAAAAAAGGCTATGAGATAGGATA
+
+</dna_sequence>
+        <protein_sequence>>YP_016495.2 protective antigen (plasmid) [Bacillus anthracis str. 'Ames Ancestor']
+MKKRKVLIPLMALSTILVSSTGNLEVIQAEVKQENRLLNESESSSQGLLGYYFSDLNFQAPMVVTSSTTG
+DLSIPSSELENIPSENQYFQSAIWSGFIKVKKSDEYTFATSADNHVTMWVDDQEVINKASNSNKIRLEKG
+RLYQIKIQYQRENPTEKGLDFKLYWTDSQNKKEVISSDNLQLPELKQKSSNSRKKRSTSAGPTVPDRDND
+GIPDSLEVEGYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDKNVSPEA
+RHPLVAAYPIVHVDMENIILSKNEDQSTQNTDSQTRTISKNTSTSRTHTSEVHGNAEVHASFFDIGGSVS
+AGFSNSNSSTVAIDHSLSLAGERTWAETMGLNTADTARLNANIRYVNTGTAPIYNVLPTTSLVLGKNQTL
+ATIKAKENQLSQILAPNNYYPSKNLAPIALNAQDDFSSTPITMNYNQFLELEKTKQLRLDTDQVYGNIAT
+YNFENGRVRVDTGSNWSEVLPQIQETTARIIFNGKDLNLVERRIAAVNPSDPLETTKPDMTLKEALKIAF
+GFNEPNGNLQYQGKDITEFDFNFDQQTSQNIKNQLAELNATNIYTVLDKIKLNAKMNILIRDKRFHYDRN
+NIAVGADESVVKEAHREVINSSTEGLLLNIDKDIRKILSGYIVEIEDTEGLKEVINDRYDMLNISSLRQD
+GKTFIDFKKYNDKLPLYISNPNYKVNVYAVTKENTIINPSENGDTSTNGIKKILIFSKKGYEIG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1392">
+        <gene_name>TPA-PA63</gene_name>
+        <strain>synthetic construct derived from Bacillus anthracis</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>193873765</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:281492</xrefs>
+        <taxonomy_id>32630</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>TPA-PA63</protein_name>
+        <protein_pi>5.74</protein_pi>
+        <protein_weight>62856.12</protein_weight>
+        <protein_length>640</protein_length>
+        <protein_note>Clostridial binary toxin B/anthrax toxin PA; pfam03495</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACF23540.1 TPA-PA63 [synthetic construct]
+MDAMKRGLCCVLLLCGAVFVSPSMPTVPDRDNDGIPDSLEVEGYTVDVKNKRTFLSPWISNIHEKKGLTK
+YKSSPEKWSTASDPYSDFEKVTGRIDKNVSPEARHPLVAAYPIVHVDMENIILSKNEDQSTQNTDSQTRT
+ISKNTSTSRTHTSEVHGNAEVHASFFDIGGSVSAGFSNSNSSTVAIDHSLSLAGERTWAETMGLNTADTA
+RLNANIRYVNTGTAPIYNVLPTTSLVLGKNQTLATIKAKENQLSQILAPNNYYPSKNLAPIALNAQDDFS
+STPITMNYNQFLELEKTKQLRLDTDQVYGNIATYNFENGRVRVDTGSNWSEVLPQIQETTARIIFNGKDL
+NLVERRIAAVNPSDPLETTKPDMTLKEALKIAFGFNEPNGNLQYQGKDITEFDFNFDQQTSQNIKNQLAE
+LNATNIYTVLDKIKLNAKMNILIRDKRFHYDRNNIAVGADESVVKEAHREVINSSTEGLLLNIDKDIRKI
+LSGYIVEIEDTEGLKEVINDRYDMLNISSLRQDGKTFIDFKKYNDKLPLYISNPNYKVNVYAVTKENTII
+NPSENGDTSTNGIKKILIFSKKGYEIG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1395">
+        <gene_name>TPA-PA63-LAMP1</gene_name>
+        <strain>synthetic construct derived from Bacillus anthracis</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>193873763</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:281492
+CDD:213052</xrefs>
+        <taxonomy_id>32630</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>TPA-PA63-LAMP1</protein_name>
+        <protein_pi>6.22</protein_pi>
+        <protein_weight>67115.01</protein_weight>
+        <protein_length>686</protein_length>
+        <protein_note>Clostridial binary toxin B/anthrax toxin PA; pfam03495</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACF23539.1 TPA-PA63-LAMP1 [synthetic construct]
+MDAMKRGLCCVLLLCGAVFVSPSMPTVPDRDNDGIPDSLEVEGYTVDVKNKRTFLSPWISNIHEKKGLTK
+YKSSPEKWSTASDPYSDFEKVTGRIDKNVSPEARHPLVAAYPIVHVDMENIILSKNEDQSTQNTDSQTRT
+ISKNTSTSRTHTSEVHGNAEVHASFFDIGGSVSAGFSNSNSSTVAIDHSLSLAGERTWAETMGLNTADTA
+RLDANIRYVNTGTAPIYNVLPTTSLVLGKNQTLATIKAKENQLSQILAPNNYYPSKNLAPIALNAQDDFS
+STPITMNYNQFLELEKTKQLRLDTDQVYGNIATYNFENGRVRVDTGSNWSEVLPQIQETTARIIFNGKDL
+NLVERRIAAVNPSDPLETTKPDMTLKEALKIAFGFNEPNGNLQYQGKDITEFDFNFDQQTSQNIKNQLAE
+LNATNIYTVLDKIKLNAKMNILIRDKRFHYDRNNIAVGADESVVKEAHREVINSSTEGLLLNIDKDIRKI
+LSGYIVEIEDTEGLKEVINDRYDMLNISSLRQDGKTFIDFKKYNDKLPLYISNPNYKVNVYAVTKENTII
+NPSENGDTSTNGIKKILIFSKKGYEIGGLNNMLIPIAVGGALAGLVLIVLIAYLIGRKRSHAGYQTI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4704">
+		<reference_name>Balderas et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Balderas MA, Nguyen CT, Terwilliger A, Keitel WA, Iniguez A, Torres R, Palacios F, Goulding CW, Maresso AW</authors>
+		<title>Progress toward the Development of a NEAT Protein Vaccine for Anthrax Disease</title>
+		<year>2016</year>
+		<volume>84</volume>
+		<issue>12</issue>
+		<pages>3408-3422</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference705">
+		<reference_name>Bielinska et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bielinska AU, Janczak KW, Landers JJ, Makidon P, Sower LE, Peterson JW, Baker JR Jr</authors>
+		<title>Mucosal immunization with a novel nanoemulsion-based recombinant anthrax protective antigen vaccine protects against Bacillus anthracis spore challenge</title>
+		<year>2007</year>
+		<volume>75</volume>
+		<issue>8</issue>
+		<pages>4020-4029</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference19">
+		<reference_name>Brey, 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brey RN</authors>
+		<title>Molecular basis for improved anthrax vaccines</title>
+		<year>2005 Jun 17</year>
+		<volume>57</volume>
+		<issue>9</issue>
+		<pages>1266-92</pages>
+		<journal_book_name>Advanced drug delivery reviews</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference18">
+		<reference_name>CDC, 2000</reference_name>
+		<reference_type>website</reference_type>
+		<authors>Centers for Disease Control and Prevention</authors>
+		<title>Use of anthrax vaccine in the United States: recommendations of the Advisory Committee on Immunization Practices (ACIP)</title>
+		<year>MMWR 2000;49(No. RR-15)</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.cdc.gov/mmwr/PDF/rr/rr4915.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference29">
+		<reference_name>Chabot et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chabot DJ, Scorpio A, Tobery SA, Little SF, Norris SL, Friedlander AM</authors>
+		<title>Anthrax capsule vaccine protects against experimental infection</title>
+		<year>2004 Nov 15</year>
+		<volume>23</volume>
+		<issue>1</issue>
+		<pages>43-7</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference117">
+		<reference_name>Chekanov et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chekanov AV, Remacle AG, Golubkov VS, Akatov VS, Sikora S, Savinov AY, Fugere M, Day R, Rozanov DV, Strongin AY</authors>
+		<title>Both PA63 and PA83 are endocytosed within an anthrax protective antigen mixed heptamer: a putative mechanism to overcome a furin deficiency</title>
+		<year>2006 Feb 1</year>
+		<volume>446</volume>
+		<issue>1</issue>
+		<pages>52-9</pages>
+		<journal_book_name>Archives of biochemistry and biophysics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2335">
+		<reference_name>Chitlaru et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chitlaru T, Gat O, Grosfeld H, Inbar I, Gozlan Y, Shafferman A</authors>
+		<title>Identification of in vivo-expressed immunogenic proteins by serological proteome analysis of the Bacillus anthracis secretome</title>
+		<year>2007</year>
+		<volume>75</volume>
+		<issue>6</issue>
+		<pages>2841-2852</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference23">
+		<reference_name>Coeshott et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Coeshott CM, Smithson SL, Verderber E, Samaniego A, Blonder JM, Rosenthal GJ, Westerink MA</authors>
+		<title>Pluronic F127-based systemic vaccine delivery systems</title>
+		<year>2004 Jun 23</year>
+		<volume>22</volume>
+		<issue>19</issue>
+		<pages>2396-405</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference42">
+		<reference_name>Coker et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Coker PR, Smith KL, Fellows PF, Rybachuck G, Kousoulas KG, Hugh-Jones ME</authors>
+		<title>Bacillus anthracis virulence in Guinea pigs vaccinated with anthrax vaccine adsorbed is linked to plasmid quantities and clonality</title>
+		<year>2003 Mar</year>
+		<volume>41</volume>
+		<issue>3</issue>
+		<pages>1212-8</pages>
+		<journal_book_name>Journal of clinical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference44">
+		<reference_name>Cui et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cui Z, Sloat BR</authors>
+		<title>Topical immunization onto mouse skin using a microemulsion incorporated with an anthrax protective antigen protein-encoding plasmid</title>
+		<year>2006 Jul 24</year>
+		<volume>317</volume>
+		<issue>2</issue>
+		<pages>187-91</pages>
+		<journal_book_name>International journal of pharmaceutics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference765">
+		<reference_name>FDA: Anthrax Vaccine Adsorbed</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Anthrax Vaccine Adsorbed for Bacillus anthracis</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm093863.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference21">
+		<reference_name>Flick-Smith et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Flick-Smith HC, Walker NJ, Gibson P, Bullifent H, Hayward S, Miller J, Titball RW, Williamson ED</authors>
+		<title>A recombinant carboxy-terminal domain of the protective antigen of Bacillus anthracis protects mice against anthrax infection</title>
+		<year>2002 Mar</year>
+		<volume>70</volume>
+		<issue>3</issue>
+		<pages>1653-6</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference35">
+		<reference_name>Galloway et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Galloway D, Liner A, Legutki J, Mateczun A, Barnewall R, Estep J</authors>
+		<title>Genetic immunization against anthrax</title>
+		<year>2004 Apr 16</year>
+		<volume>22</volume>
+		<issue>13-14</issue>
+		<pages>1604-8</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1993">
+		<reference_name>Gat et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gat O, Mendelson I, Chitlaru T, Ariel N, Altboum Z, Levy H, Weiss S, Grosfeld H, Cohen S, Shafferman A</authors>
+		<title>The solute-binding component of a putative Mn(II) ABC transporter (MntA) is a novel Bacillus anthracis virulence determinant</title>
+		<year>2005</year>
+		<volume>58</volume>
+		<issue>2</issue>
+		<pages>533-551</pages>
+		<journal_book_name>Molecular microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference181">
+		<reference_name>Glomski et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Glomski IJ, Corre JP, Mock M, Goossens PL</authors>
+		<title>Cutting Edge: IFN-gamma-producing CD4 T lymphocytes mediate spore-induced immunity to capsulated Bacillus anthracis</title>
+		<year>2007 Mar 1</year>
+		<volume>178</volume>
+		<issue>5</issue>
+		<pages>2646-50</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference25">
+		<reference_name>Gu et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gu ML, Leppla SH, Klinman DM</authors>
+		<title>Protection against anthrax toxin by vaccination with a DNA plasmid encoding anthrax protective antigen</title>
+		<year>1999 Jan 28</year>
+		<volume>17</volume>
+		<issue>4</issue>
+		<pages>340-4</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference33">
+		<reference_name>Hahn et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hahn UK, Alex M, Czerny CP, Bohm R, Beyer W</authors>
+		<title>Protection of mice against challenge with Bacillus anthracis STI spores after DNA vaccination</title>
+		<year>2004 Jul</year>
+		<volume>294</volume>
+		<issue>1</issue>
+		<pages>35-44</pages>
+		<journal_book_name>International journal of medical microbiology : IJMM</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference15">
+		<reference_name>Hanna et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hanna PC, Ireland JA</authors>
+		<title>Understanding Bacillus anthracis pathogenesis</title>
+		<year>1999 May</year>
+		<volume>7</volume>
+		<issue>5</issue>
+		<pages>180-2</pages>
+		<journal_book_name>Trends in microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference34">
+		<reference_name>Hermanson et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hermanson G, Whitlow V, Parker S, Tonsky K, Rusalov D, Ferrari M, Lalor P, Komai M, Mere R, Bell M, Brenneman K, Mateczun A, Evans T, Kaslow D, Galloway D, Hobart P</authors>
+		<title>A cationic lipid-formulated plasmid DNA vaccine confers sustained antibody-mediated protection against aerosolized anthrax spores</title>
+		<year>2004 Sep 14</year>
+		<volume>101</volume>
+		<issue>37</issue>
+		<pages>13601-6</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference16">
+		<reference_name>Hirsh et al, 2004</reference_name>
+		<reference_type>book</reference_type>
+		<authors>Hirsh DC, Biberstrein EL.</authors>
+		<title>Bacillus. </title>
+		<year>2004</year>
+		<volume></volume>
+		<issue></issue>
+		<pages>170-174.</pages>
+		<journal_book_name>Veterinary Microbiology, 2nd Ed.</journal_book_name>
+		<publisher>Blackwell Publishing</publisher>
+		<publisher_location>Ames, Iowa..</publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2046">
+		<reference_name>Ivins et al., 1992</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ivins BE, Welkos SL, Little SF, Crumrine MH, Nelson GO</authors>
+		<title>Immunization against anthrax with Bacillus anthracis protective antigen combined with adjuvants</title>
+		<year>1992</year>
+		<volume>60</volume>
+		<issue>2</issue>
+		<pages>662-668</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1902">
+		<reference_name>Ivins et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ivins B, Fellows P, Pitt L, Estep J, Farchaus J, Friedlander A, Gibbs P</authors>
+		<title>Experimental anthrax vaccines: efficacy of adjuvants combined with protective antigen against an aerosol Bacillus anthracis spore challenge in guinea pigs</title>
+		<year>1995</year>
+		<volume>13</volume>
+		<issue>18</issue>
+		<pages>1779-1784</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference22">
+		<reference_name>Klaschik et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Klaschik S, Gursel I, Klinman DM</authors>
+		<title>CpG-mediated changes in gene expression in murine spleen cells identified by microarray analysis</title>
+		<year>2007 Feb</year>
+		<volume>44</volume>
+		<issue>6</issue>
+		<pages>1095-104</pages>
+		<journal_book_name>Molecular immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference37">
+		<reference_name>Klinman et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Klinman DM, Xie H, Little SF, Currie D, Ivins BE</authors>
+		<title>CpG oligonucleotides improve the protective immune response induced by the anthrax vaccination of rhesus macaques</title>
+		<year>2004 Jul 29</year>
+		<volume>22</volume>
+		<issue>21-22</issue>
+		<pages>2881-6</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference158">
+		<reference_name>Kutsenko et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kutsenko AS, Gizatullin RZ, Al-Amin AN, Wang F, Kvasha SM, Podowski RM, Matushkin YG, Gyanchandani A, Muravenko OV, Levitsky VG, Kolchanov NA, Protopopov AI, Kashuba VI, Kisselev LL, Wasserman W, Wahlestedt C, Zabarovsky ER</authors>
+		<title>NotI flanking sequences: a tool for gene discovery and verification of the human genome</title>
+		<year>2002 Jul 15</year>
+		<volume>30</volume>
+		<issue>14</issue>
+		<pages>3163-70</pages>
+		<journal_book_name>Nucleic acids research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference27">
+		<reference_name>Leppla et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Leppla SH, Robbins JB, Schneerson R, Shiloach J</authors>
+		<title>Development of an improved vaccine for anthrax</title>
+		<year>2002 Jul</year>
+		<volume>110</volume>
+		<issue>2</issue>
+		<pages>141-4</pages>
+		<journal_book_name>The Journal of clinical investigation</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference40">
+		<reference_name>Little et al., 1986</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Little SF, Knudson GB</authors>
+		<title>Comparative efficacy of Bacillus anthracis live spore vaccine and protective antigen vaccine against anthrax in the guinea pig</title>
+		<year>1986 May</year>
+		<volume>52</volume>
+		<issue>2</issue>
+		<pages>509-12</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2662">
+		<reference_name>Livingston et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Livingston BD, Little SF, Luxembourg A, Ellefsen B, Hannaman D</authors>
+		<title>Comparative performance of a licensed anthrax vaccine versus electroporation based delivery of a PA encoding DNA vaccine in rhesus macaques</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>4</issue>
+		<pages>1056-1061</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2417">
+		<reference_name>Luxembourg et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Luxembourg A, Hannaman D, Nolan E, Ellefsen B, Nakamura G, Chau L, Tellez O, Little S, Bernard R</authors>
+		<title>Potentiation of an anthrax DNA vaccine with electroporation</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>40</issue>
+		<pages>5216-5222</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1016">
+		<reference_name>McConnell et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McConnell MJ, Hanna PC, Imperiale MJ</authors>
+		<title>Cytokine response and survival of mice immunized with an adenovirus expressing Bacillus anthracis protective antigen domain 4</title>
+		<year>2006</year>
+		<volume>74</volume>
+		<issue>2</issue>
+		<pages>1009-1015</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2415">
+		<reference_name>Midha and Bhatnagar, 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Midha S, Bhatnagar R</authors>
+		<title>Anthrax protective antigen administered by DNA vaccination to distinct subcellular locations potentiates humoral and cellular immune responses</title>
+		<year>2009</year>
+		<volume>39</volume>
+		<issue>1</issue>
+		<pages>159-177</pages>
+		<journal_book_name>European journal of immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4874">
+		<reference_name>Mikshis et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mikshis NI, Popova PIu, Kudriavtseva OM, Semakova AP, Novikova LN, Kravtsov AL, Bugorkova SA, Shchukovskaia TN, Popov IuA, Kutyrev VV</authors>
+		<title>[Immunogenicity and safety of a prototype chemical anthrax vaccine in laboratory animal models]</title>
+		<year>2014</year>
+		<volume></volume>
+		<issue>4</issue>
+		<pages>22-30</pages>
+		<journal_book_name>Zhurnal mikrobiologii, epidemiologii, i immunobiologii</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3240">
+		<reference_name>Mohamadzadeh et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mohamadzadeh M, Durmaz E, Zadeh M, Pakanati KC, Gramarossa M, Cohran V, Klaenhammer TR</authors>
+		<title>Targeted expression of anthrax protective antigen by Lactobacillus gasseri as an anthrax vaccine</title>
+		<year>2010</year>
+		<volume>5</volume>
+		<issue>8</issue>
+		<pages>1289-1296</pages>
+		<journal_book_name>Future microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3224">
+		<reference_name>Osorio et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Osorio M, Wu Y, Singh S, Merkel TJ, Bhattacharyya S, Blake MS, Kopecko DJ</authors>
+		<title>Anthrax protective antigen delivered by Salmonella enterica serovar Typhi Ty21a protects mice from a lethal anthrax spore challenge</title>
+		<year>2009</year>
+		<volume>77</volume>
+		<issue>4</issue>
+		<pages>1475-1482</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference115">
+		<reference_name>PathPort</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Virginia Bioinformatics Institute</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://pathport.vbi.vt.edu/pathinfo/pathogens/Bacillus-anthracis_Info.shtml</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference36">
+		<reference_name>Pittman et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pittman PR, Norris SL, Barrera Oro JG, Bedwell D, Cannon TL, McKee KT Jr</authors>
+		<title>Patterns of antibody response in humans to the anthrax vaccine adsorbed (AVA) primary (six-dose) series</title>
+		<year>2006 Apr 24</year>
+		<volume>24</volume>
+		<issue>17</issue>
+		<pages>3654-60</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference32">
+		<reference_name>Price et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Price BM, Liner AL, Park S, Leppla SH, Mateczun A, Galloway DR</authors>
+		<title>Protection against anthrax lethal toxin challenge by genetic immunization with a plasmid encoding the lethal factor protein</title>
+		<year>2001 Jul</year>
+		<volume>69</volume>
+		<issue>7</issue>
+		<pages>4509-15</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference26">
+		<reference_name>Rhie et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rhie GE, Roehrl MH, Mourez M, Collier RJ, Mekalanos JJ, Wang JY</authors>
+		<title>A dually active anthrax vaccine that confers protection against both bacilli and toxins</title>
+		<year>2003 Sep 16</year>
+		<volume>100</volume>
+		<issue>19</issue>
+		<pages>10925-30</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1856">
+		<reference_name>Rhie et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rhie GE, Park YM, Chun JH, Yoo CK, Seong WK, Oh HB</authors>
+		<title>Expression and secretion of the protective antigen of Bacillus anthracis in Bacillus brevis</title>
+		<year>2005</year>
+		<volume>45</volume>
+		<issue>2</issue>
+		<pages>331-339</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2418">
+		<reference_name>Ribeiro et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ribeiro S, Rijpkema SG, Durrani Z, Florence AT</authors>
+		<title>PLGA-dendron nanoparticles enhance immunogenicity but not lethal antibody production of a DNA vaccine against anthrax in mice</title>
+		<year>2007</year>
+		<volume>331</volume>
+		<issue>2</issue>
+		<pages>228-232</pages>
+		<journal_book_name>International journal of pharmaceutics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference24">
+		<reference_name>Ribot et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ribot WJ, Powell BS, Ivins BE, Little SF, Johnson WM, Hoover TA, Norris SL, Adamovicz JJ, Friedlander AM, Andrews GP</authors>
+		<title>Comparative vaccine efficacy of different isoforms of recombinant protective antigen against Bacillus anthracis spore challenge in rabbits</title>
+		<year>2006 Apr 24</year>
+		<volume>24</volume>
+		<issue>17</issue>
+		<pages>3469-76</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2286">
+		<reference_name>Riemenschneider et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Riemenschneider J, Garrison A, Geisbert J, Jahrling P, Hevey M, Negley D, Schmaljohn A, Lee J, Hart MK, Vanderzanden L, Custer D, Bray M, Ruff A, Ivins B, Bassett A, Rossi C, Schmaljohn C</authors>
+		<title>Comparison of individual and combination DNA vaccines for B. anthracis, Ebola virus, Marburg virus and Venezuelan equine encephalitis virus</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>25-26</issue>
+		<pages>4071-4080</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference30">
+		<reference_name>Schneerson et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schneerson R, Kubler-Kielb J, Liu TY, Dai ZD, Leppla SH, Yergey A, Backlund P, Shiloach J, Majadly F, Robbins JB</authors>
+		<title>Poly(gamma-D-glutamic acid) protein conjugates induce IgG antibodies in mice to the capsule of Bacillus anthracis: a potential addition to the anthrax vaccine</title>
+		<year>2003 Jul 22</year>
+		<volume>100</volume>
+		<issue>15</issue>
+		<pages>8945-50</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1951">
+		<reference_name>Sloat and Cui, 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sloat BR, Cui Z</authors>
+		<title>Nasal immunization with anthrax protective antigen protein adjuvanted with polyriboinosinic-polyribocytidylic acid induced strong mucosal and systemic immunities</title>
+		<year>2006</year>
+		<volume>23</volume>
+		<issue>6</issue>
+		<pages>1217-1226</pages>
+		<journal_book_name>Pharmaceutical research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference17">
+		<reference_name>Smith et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Smith ME, Koser M, Xiao S, Siler C, McGettigan JP, Calkins C, Pomerantz RJ, Dietzschold B, Schnell MJ</authors>
+		<title>Rabies virus glycoprotein as a carrier for anthrax protective antigen</title>
+		<year>2006 Sep 30</year>
+		<volume>353</volume>
+		<issue>2</issue>
+		<pages>344-56</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference878">
+		<reference_name>Spore vaccine</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Anthrax Spore Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.atozvetsupply.com/Anthrax-Vaccine-p/313-csav.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2416">
+		<reference_name>Tucker et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tucker SN, Lin K, Stevens S, Scollay R, Bennett MJ, Olson DC</authors>
+		<title>Systemic and mucosal antibody responses following retroductal gene transfer to the salivary gland</title>
+		<year>2003</year>
+		<volume>8</volume>
+		<issue>3</issue>
+		<pages>392-399</pages>
+		<journal_book_name>Molecular therapy : the journal of the American Society of Gene Therapy</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2419">
+		<reference_name>Vilalta et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vilalta A, Mahajan RK, Hartikka J, Leamy V, Martin T, Rusalov D, Bozoukova V, Lalor P, Hall K, Kaslow DC, Rolland A</authors>
+		<title>II. Cationic lipid-formulated plasmid DNA-based Bacillus anthracis vaccine: evaluation of plasmid DNA persistence and integration potential</title>
+		<year>2005</year>
+		<volume>16</volume>
+		<issue>10</issue>
+		<pages>1151-1156</pages>
+		<journal_book_name>Human gene therapy</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference28">
+		<reference_name>Wang et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang TT, Fellows PF, Leighton TJ, Lucas AH</authors>
+		<title>Induction of opsonic antibodies to the gamma-D-glutamic acid capsule of Bacillus anthracis by immunization with a synthetic peptide-carrier protein conjugate</title>
+		<year>2004 Apr 9</year>
+		<volume>40</volume>
+		<issue>3</issue>
+		<pages>231-7</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference43">
+		<reference_name>Xie et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xie H, Gursel I, Ivins BE, Singh M, O'Hagan DT, Ulmer JB, Klinman DM</authors>
+		<title>CpG oligodeoxynucleotides adsorbed onto polylactide-co-glycolide microparticles improve the immunogenicity and protective activity of the licensed anthrax vaccine</title>
+		<year>2005 Feb</year>
+		<volume>73</volume>
+		<issue>2</issue>
+		<pages>828-33</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

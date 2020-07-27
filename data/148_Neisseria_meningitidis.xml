@@ -1,0 +1,1860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen46">
+		<pathogen_name>Neisseria meningitidis</pathogen_name>
+		<taxon_id>487</taxon_id>
+		<pathogenesis refs="reference713">Meningococcus is spread through the exchange of saliva and other respiratory secretions during activities like coughing, kissing, and chewing on toys. Those with impaired immunity may be easier to get meningococcus. Meningococcal virulence is related to both capsule expression, expression of other surface structures, and underlying genotype. N meningitidis pathogenesis is related to its ability to express and modify capsule with serogroups A, B, C, W-135, X, and Y. Capsules of N meningitidis facilitate transmission and colonisation, and protect the meningococcus from desiccation, phagocytic killing, opsonisation, and complement-mediated bactericidal killing. Outer membrane proteins (e.g., PorB, PorA , Opa and Opc) contribute to meningococcal virulence. Outer membrane porins are involved in host-cell interactions and as targets for bactericidal antibodies. Endotoxin, or lipo-oligosaccharide, a major component of the outer membrane, differs in structure from enteric endotoxins and is crucial in inflammatory signalling via Toll-like receptor 4 (TLR4) (Stephens et al., 2007).</pathogenesis>
+		<disease_name>Meningitis</disease_name>
+		<protective_immunity refs="reference1544">N. mengingitidis establishes systemic infections only in individuals who lack serum bacterial antibodies directed against the capsular or noncapsular (cell wall) antigens of the invading strain, or in patients deficient in the late-acting complement components. The presence of serum bactericidal IgG and IgM is probably the most important host factor in preventing invasive disease. The role of bactericidal antibodies in prevention of invasive disease explains why high attack rates are seen in infants from 6 to 9 months old, the time at which maternal antibodies are being lost. Individuals with complement deficiencies (C5, C6, C7, or C8) may develop meningococcemia despite protective antibody. This emphasizes the importance of the complement system in defense against meningococcal disease (Textbook of Bacteriology).</protective_immunity>
+		<host_range refs="">It only infects humans; there is no animal reservoir.</host_range>
+		<introduction refs="reference713">Neisseria meningitidis, also simply known as meningococcus, is a Gram-negative β-proteobacterium and member of the bacterial family Neisseriaceaeis. There are 13 serogroups based on different capsular polysaccharide structures. Among them, six serogroups (A, B, C, W-135, X, and Y) cause most life-threatening disease (Stephens et al., 2007).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine438">
+		<vaccine_name>5CVMB</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011348</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference860">aluminum hydroxide combined with CpG oligonucleotides (Giuliani et al., 2006)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference860">Five antigens are included: GNA2132, GNA1870, NadA, GNA1030, and GNA2091 (Giuliani et al., 2006)</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5576">
+		<vaccine_name>BEXSERO</vaccine_name>
+		<proper_name>Meningococcal Group B Vaccine</proper_name>
+		<brand_name>BEXSERO</brand_name>
+		<manufacturer>Novartis Vaccines and Diagnostics, Inc</manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA, Canada</location_licensed>
+		<description refs="reference4092">BEXSERO (Meningococcal Group B Vaccine) is a sterile, white, opalescent, suspension for intramuscular injection. Each 0.5 mL dose of BEXSERO is formulated to contain 50 micrograms each of recombinant proteins Neisserial adhesin A (NadA), Neisserial Heparin Binding Antigen (NHBA), and factor H binding protein (fHbp), 25 micrograms of Outer Membrane Vesicles (OMV), 1.5 mg aluminum hydroxide (0.519 mg of Al3+), 3.125 mg sodium chloride, 0.776 mg histidine, and 10 mg sucrose at pH 6.4 – 6.7.(FDA: BEXSERO)</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store at 2°C to 8°C (36°F to 46°F), do not freeze, and keep away from light.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine953">
+		<vaccine_name>CCPS-P64kR</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004165</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Not specified</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1194">Al(OH)3 (Carmenate et al., 2004).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Not specified</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering437" gene_id="gene596">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response710" host_id="host4">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1194">Rat pups, aged 5 or 6 days, were injected i.p. with 100 μl of sera ( from immunized mice) previously diluted 1:10 and ferric dextran (Carmenate et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1194">Sera of the challenge group of mice immunized with CCPS-P64kR showed a three-fold higher bactericidal response than the sera of the group immunized with the plain CCPS and they were able to protect against challenge with Neisseria meningococci in the infant rat protection model (Carmenate et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1194">One hour after immunization, infant rats were challenged with 10^7 cfu of meningococcal strain Z4181. The development of bacteremia was assessed by culturing the blood samples taken 4 h after challenge (Carmenate et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response711" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1194">Two experiments were carried out; in both cases mice were immunized with 2.5 μg of either plain or conjugated CCPS, and Al(OH)3 as adjuvant. Two doses were given 15 days apart and 7 days after the last dose mice were bled, sera were stored at −20°C. In the first experiment four groups of 10 mice each were immunized with the following immunogens: CCPS–P64kR, CCPS–P64kC, carrier protein P64k, and plain polysaccharide. For the second experiment, four groups of 10 mice each were immunized with the three conjugates obtained from different size polysaccharides using the reductive amination method and with plain CCPS as control (Carmenate et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1194">Sera of the challenge group immunized with CCPS-P64kR showed a three-fold higher bactericidal response than the sera of the group immunized with the plain CCPS and they were able to protect against challenge with Neisseria meningococci in the infant rat protection model (Carmenate et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1194">Sera of immunized mice was used in rats to detect an immune response (Carmenate et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine381">
+		<vaccine_name>Menactra</vaccine_name>
+		<proper_name>Meningococcal Polysaccharide (Serogroups A, C, Y and W-135) Diphtheria Toxoid Conjugate Vaccine</proper_name>
+		<brand_name>Menactra</brand_name>
+		<manufacturer>Sanofi Pasteur Inc.</manufacturer>
+		<vo_id>VO_0000071</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1725), Canada</location_licensed>
+		<description refs="reference799">Contains Neisseria meningitidis serogroup A, C, Y and W-135 capsular polysaccharide antigens individually conjugated to diphtheria toxoid protein.  Menactra vaccine is not indicated for immunization against diphtheria (FDA: Menactra).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F). DO NOT FREEZE.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference799">Cultured on Mueller Hinton agar and grown in Watson Scherp media. The polysaccharides are extracted from the N meningitidis cells and purified by centrifugation, detergent precipitation, alcohol precipitation, solvent extraction and diafiltration (FDA: Menactra).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response474" host_id="host2">
+			<immune_response refs="reference799">Clinical studies reported antibodies were seen in 90-100% of those who were vaccinated with Menactra (FDA: Menactra).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects of vaccination include: injection site reactions, headache, fatigue, irritability and fever.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3833">
+		<vaccine_name>MenHibrix</vaccine_name>
+		<proper_name>Meningococcal Groups C and Y and Haemophilus b Tetanus Toxoid Conjugate Vaccine</proper_name>
+		<brand_name>MenHibrix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000031</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>United States</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2431">Neisseria meningitidis serogroup C and Y capsular polysaccharide antigens and 
+Haemophilus b capsular polysaccharide (polyribosyl-ribitol-phosphate [PRP]) (FDA: MenHibrix).</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine598">
+		<vaccine_name>Meningitec</vaccine_name>
+		<proper_name>Meningococcal Group C Conjugate Vaccine (Diphtheria CRM197 Protein)</proper_name>
+		<brand_name>Meningitec</brand_name>
+		<manufacturer>Berna Biotech, Wyeth Canada</manufacturer>
+		<vo_id>VO_0010724</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Conjugate.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">2°C to 8°C (36°F to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine599">
+		<vaccine_name>Meningococcal Polysaccharide Vaccine, Groups A &amp; C, Menomune A/C</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Meningococcal Polysaccharide Vaccine, Groups A &amp; C, Menomune A/C</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010725</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Polysaccharide. Other components: Lactose.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine600">
+		<vaccine_name>Menjugate</vaccine_name>
+		<proper_name>Meningococcal Group C CRM-197 Conjugate Vaccine</proper_name>
+		<brand_name>Menjugate</brand_name>
+		<manufacturer>Novartis Vaccines and Diagnostics</manufacturer>
+		<vo_id>VO_0010726</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Conjugate.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Do not store above 25° C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine316">
+		<vaccine_name>Menomune-A/C/Y/W-135</vaccine_name>
+		<proper_name>Meningococcal Polysaccharide Vaccine, Groups A, C, Y, W135 Combined</proper_name>
+		<brand_name>Menomune-A/C/Y/W-135</brand_name>
+		<manufacturer>Sanofi Pasteur, Inc.</manufacturer>
+		<vo_id>VO_0000072</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed>USA (License #1725)</location_licensed>
+		<description refs="reference766">Meningococcal Polysaccharide Vaccine, Groups A, C, Y and W-135 Combined, is indicated for active immunization against invasive meningococcal disease caused by these serogroups (FDA: Menomune– A/C/Y/W-135).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store the freeze-dried vaccine and reconstituted vaccine, when not in use, at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference766">MEMOMUNE is cultivated with Mueller Hinton agar and Watson Scherp media and is freeze-dried with the group-specific polysaccharide antigens from Neisseria meningitidis, Group A, Group C, Group Y and Group W-135 (FDA: Menomune– A/C/Y/W-135).</preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="">Meningococcal Polysaccharide Vaccine, Groups A, C, Y and W-135 Combined</antigen>
+		<host_response host_response_id="host_response436" host_id="host2">
+			<immune_response refs="reference766">Measurable levels of antibodies against the group A and C polysaccharides decrease markedly during the first 3 years following a single dose of vaccine (FDA: Menomune– A/C/Y/W-135).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference766">The serogroup A polysaccharide induces and antibody response in children as young as 3 months of age, the serogroup C component can be poorly immunogenic in recipients who are less than 18 to 24 months of age 5.  The serogroups A and C have demonstrated estimated clinical efficacies of 85% to 100% in older children and adults.  Serogroups Y and W-135 polysaccharides are safe and immunogenic in adults and in children greater than 2 years of age (FDA: Menomune– A/C/Y/W-135).</protection_efficacy>
+			<side_effects refs="reference766">Side effects of vaccination include: pain and redness of injection site, fever and/or headache (FDA: Menomune– A/C/Y/W-135).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1113">
+		<vaccine_name>Menveo</vaccine_name>
+		<proper_name>Meningococcal (Groups A, C, Y and W-135) Oligosaccharide Diphtheria CRM197 Conjugate Vaccine</proper_name>
+		<brand_name>Menveo</brand_name>
+		<manufacturer>Novartis Vaccines and Diagnostics, Inc.</manufacturer>
+		<vo_id>VO_0001246</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA, Canada</location_licensed>
+		<description refs="reference1558">MENVEO [Meningococcal (Groups A, C, Y and W-135) Oligosaccharide Diphtheria CRM197 Conjugate Vaccine] is a sterile liquid vaccine administered by intramuscular injection that contains N. meningitidis serogroup A, C, Y and W-135 oligosaccharides conjugated individually to Corynebacterium diphtheriae CRM197 protein (FDA: Menveo).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="reference1558">Store refrigerated, away from the freezer compartment, at 36°F to 46°F (2°C to 8°C). Keep away from light (FDA: Menveo).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1558">The polysaccharides are produced by bacterial fermentation of N. meningitidis (serogroups A, C, Y or W-135). N. meningitidis strains A, C, Y and W-135 are each cultured and grown on Franz Complete medium and treated with formaldehyde. MenA, MenW-135 and MenY polysaccharides are purified by several extraction and precipitation steps. MenC polysaccharide is purified by a combination of chromatography and precipitation steps. The protein carrier (CRM197) is produced by bacterial fermentation and is purified by a series of chromatography and ultrafiltration steps. C. diphtheriae is cultured and grown on CY medium containing yeast extracts and amino acids. The oligosaccharides are prepared for conjugation from purified polysaccharides by hydrolysis, sizing, and reductive amination. After activation, each oligosaccharide is covalently linked to the CRM197 protein. The resulting glycoconjugates are purified to yield the four drug substances, which compose the final vaccine (FDA: Menveo).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference1558">N. meningitidis serogroup A, C, Y and W-135 oligosaccharides conjugated individually to Corynebacterium diphtheriae CRM197 protein (FDA: Menveo).</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3926">
+		<vaccine_name>N. meningitidis DNA vaccine P3A</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004569</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref2700:Prinz et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2700">aluminium-phosphate gel adjuvant (Prinz et al., 2003)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2700">a T-cell helper epitope and a peptide mimic of N. meningitidis serogroup C (Prinz et al., 2003)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1607" gene_id="gene1730">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2700">The T-cell epitope used was from HIV gp120 (Prinz et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1573" host_id="host3">
+			<immune_response refs="reference2700">Mice immunized with P3A DNA produced an anti-MCPS IgM antibody response that was significantly higher (P &lt; 0.05) than that of mice immunized with P3C DNA (negative control) (Prinz et al., 2003).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2700">Mice immunized with P3A DNA were protected against meningococcal infection, with 100% survival. Five of the six mice immunized with P3C DNA (negative control) died within 24 hr postchallenge (Prinz et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine947">
+		<vaccine_name>N. meningitidis ExbB Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004011</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1198">Freund's incomplete adjuvant (Sun et al., 2005).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering431" gene_id="gene601">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response703" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1198">To examine the protective efficacy of recombinant proteins, adult mice (6-week-old, female BALB/c animals, 35 per group) were immunised on days 1 and 21 with 25 μg of antigen given by subcutaneous (s.c.) injection. Each protein was mixed with Freund's incomplete adjuvant (50% v/v) prior to administration. Mice in control groups were immunised with adjuvant alone or recombinant homologous PorA prior to challenge (Sun et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1198">ExbB, which is required for iron acquisition, elicited protective immunity and was able to protect mice from bacterial challenge (Sun et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1198">28 days after immunization, animals were challenged with live bacteria at either a high (10^7 CFU, 15 mice) or low (10^6 CFU, 15 mice) dose of MC58 (Sun et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine948">
+		<vaccine_name>N. meningitidis LctP Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004012</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1198">Freund's incomplete adjuvant (Sun et al., 2005).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering432" gene_id="gene600">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response704" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1198">To examine the protective efficacy of recombinant proteins, adult mice (6-week-old, female BALB/c animals, 35 per group) were immunised on days 1 and 21 with 25 μg of LctP given by subcutaneous (s.c.) injection. Each protein was mixed with Freund's incomplete adjuvant (50% v/v) prior to administration. Mice in control groups were immunised with adjuvant alone or recombinant homologous PorA prior to challenge (Sun et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1198">LctP which is required for iron acquisition, elicited protective immunity and was able to protect mice from bacterial challenge (Sun et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1198">28 days after immunization, animals were challenged with live bacteria at either a high (10^7 CFU, 15 mice) or low (10^6 CFU, 15 mice) dose of MC58 (Sun et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine956">
+		<vaccine_name>N. meningitidis NspA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004013</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference859">QuilA (CedarLane Laboratories, Hornby, Ontario, Canada) (Martin et al., 1997).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering440" gene_id="gene271">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response713" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference859">Groups of mice were injected three times at 3-wk intervals with 10 or 20 μg of affinity-purified NspA recombinant protein and 25 μg of QuilA (CedarLane Laboratories, Hornby, Ontario, Canada) as the adjuvant. Control mice were injected with either 20 μg of BSA (Sigma), concentrated E. coli BL21(DE3) supernatant, or PBS. 2 wk after the third injection the mice were used for the protection experiments (Martin et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference859">80% of the mice immunized with three injections of either 10 or 20 μg of purified recombinant meningococcal NspA protein survived the bacterial challenge comparatively to 0 to 20% in the control groups. Survivors at 72 h did not succumb during an additional two weeks of observation. The mice in the control group injected with concentrated E. coli culture supernatant were not protected against the bacterial challenge indicating that the components present in the culture media and other E. coli antigens that might be present in small amounts after purification do not contribute to the observed protection against N. meningitidis (Martin et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference859">For inoculation of mice, meningococci were removed from the chocolate agar plates after ∼20 h of incubation and suspended in PBS and injected into mice (Martin et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1101">
+		<vaccine_name>N. meningitidis TbpA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004064</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1488">Vaccines were prepared with an equal volume of either Freund's complete adjuvant (first immunization) or Freund's incomplete adjuvant (subsequent immunizations) (West et al., 2001).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="">rTbpA</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering591" gene_id="gene833">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response858" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">NIH</host_strain>
+			<vaccination_protocol refs="reference1488">Each mouse received 0.2 ml, containing 10 μg of rTbpA protein and Freund's complete adjuvant, by subcutaneous injection.  All animals were immunized on days 1, 21, and 28 (West et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1488">100% protection was afforded by vaccination with rTbpA  at the 2 × 10^7 CFU challenge dose andat the 2 × 10^8 CFU challenge dose, the rTbpA-vaccinated group had an 85% survival rate (West et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1488">Mice were infected by intraperitoneal injection of N. meningitidis at several challenge doses (West et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine957">
+		<vaccine_name>N. miningitidis TBP2 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004014</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous Injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1195">Aluminum hydroxide (Lissolo et al., 1995).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous Injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering441" gene_id="gene597">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response714" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1195">Groups of 48 mice were immunized subcutaneously on days 0, 21, and 35 with different vaccine preparations containing 5 mg of protein adsorbed onto 0.1 mg of aluminum hydroxide per 0.5 ml; PBS containing aluminum hydroxide and heat-inactivated N. meningitidis B16B6 were used as controls (Lissolo et al., 1995).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1195">Mice immunized with purified Tbp2 survived a lethal challenge to a similar degree as animals immunized with the Tbp1-Tbp2 complex, demonstrating that Tbp2 played an important role in the protective activity observed with the complex, eliciting antibodies that are not only bactericidal but also inhibitory for meningococcal growth (Lissolo et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1195">41 days after immunization, mice within a group were subdivided into groups of eight, and each subgroup received by the intraperitoneal route 24 mg of iron-loaded hTf (Sigma) and, immediately after by the intraperitoneal route, 0.5 ml of N. meningitidis grown under iron restriction. The bacterial load varied from 10^4 to 10^8 CFU. Mortality rates were measured for 5 days following challenge (Lissolo et al., 1995).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3200">
+		<vaccine_name>Neisseria meningitidis metH/siaD mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering732" gene_id="gene947">
+			<type>Gene mutation</type>
+			<description refs="reference1804">This metH/siaD mutant is from Neisseria meningitidis (Li et al., 2004).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering733" gene_id="gene945">
+			<type>Gene mutation</type>
+			<description refs="reference1804">This metH/siaD mutant is from Neisseria meningitidis (Li et al., 2004).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering734" gene_id="gene945">
+			<type>Gene mutation</type>
+			<description refs="reference1804">This metH/siaD mutant is from Neisseria meningitidis (Li et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1025" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1804">A metH/siaD mutant is attenuated in mice (Li et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1804">A metH/siaD mutant induces significant protection in mice from challenge with wild type neisseria meningitidis (Li et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3201">
+		<vaccine_name>Neisseria meningitidis rfaF/siaD mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering735" gene_id="gene946">
+			<type>Gene mutation</type>
+			<description refs="reference1804">This rfaF/siaD mutant is from Neisseria meningitidis (Li et al., 2004).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering736" gene_id="gene945">
+			<type>Gene mutation</type>
+			<description refs="reference1804">This rfaF/siaD mutant is from Neisseria meningitidis (Li et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1026" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1804">A rfaF/siaD mutant is attenuated in mice (Li et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1804">An rfaF/siaD mutant induces significant protection in mice from challenge with wild type Neisseria meningitidis (Li et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine603">
+		<vaccine_name>Neisvac-C</vaccine_name>
+		<proper_name>Meningococcal Group C-TT Conjugate Vaccine, Adsorbed</proper_name>
+		<brand_name>Neisvac-C</brand_name>
+		<manufacturer>Baxter Healthcare Corporation, GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010729</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Conjugate.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store at 2°C to 8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5578">
+		<vaccine_name>NIMENRIX</vaccine_name>
+		<proper_name>Meningococcal polysaccharide groups A, C, W-135 and Y conjugate vaccine</proper_name>
+		<brand_name>NIMENRIX</brand_name>
+		<manufacturer>Pfizer Inc.</manufacturer>
+		<vo_id></vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="reference4094">NIMENRIX® (meningococcal polysaccharide groups A, C, W-135 and Y conjugate vaccine) is a tetravalent meningococcal polysaccharide conjugated vaccine consisting of Neisseria
+meningitidis capsular polysaccharides A, C, W-135 and Y each coupled to tetanus toxoid as a carrier protein. The Neisseria meningitidis serogroups A and C polysaccharides are conjugated with an adipic dihydrazide (AH) spacer and indirectly conjugated to the tetanus toxoid whereas the W-135 and Y polysaccharides are conjugated directly to tetanus toxoid. (Pfizer: NIMENRIX)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at 2°C to 8°C (36°F to 46°F), do not freeze, and protect from light.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5577">
+		<vaccine_name>TRUMENBA</vaccine_name>
+		<proper_name>Meningococcal Group B Vaccine</proper_name>
+		<brand_name>TRUMENBA</brand_name>
+		<manufacturer>Pfizer Inc.</manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA</location_licensed>
+		<description refs="reference4093">Trumenba is a sterile suspension composed of two recombinant lipidated factor H binding protein (fHBP) variants from N. meningitidis serogroup B, one from fHBP subfamily A and one from subfamily B (A05 and B01, respectively). The proteins are individually produced in E. coli. Production strains are grown in defined fermentation growth media to a specific density. The recombinant proteins are extracted from the production strains and purified through a series of column chromatography steps. Polysorbate 80 (PS80) is added to the drug substances and is present in the final drug product. (FDA: TRUMENBA)</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2°C to 8°C (36°F to 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene601">
+        <gene_name>ExbB</gene_name>
+        <strain>Neisseria meningitidis MC58</strain>
+        <vo_id>VO_0011186</vo_id>
+        <ncbi_gene_id>903370</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15677575</ncbi_protein_id>
+        <gene_locus_tag>NMB1729</gene_locus_tag>
+        <gene_refseq>AE002098</gene_refseq>
+        <protein_refseq>NP_274732</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>122586</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1812128</gene_start>
+        <gene_end>1812790</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>biopolymer transport protein</protein_name>
+        <protein_pi>9.81</protein_pi>
+        <protein_weight>22358.4</protein_weight>
+        <protein_length>220</protein_length>
+        <protein_note>identified by similarity to EGAD:145333; match to protein family HMM PF01618</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_003112.2:1812128-1812790 Neisseria meningitidis MC58 chromosome, complete genome
+ATCAGCTATCCTTTTGATTAAGCAGGCGGACGTGCAAATCGTGCGCCATCGCATCCAAATCCTGGGTCAG
+TATTTTTGTGCCGCGATTGAGGAAGTTGTATGCCAACACCGCCGGAATCGCCACGAACAAACCCGCCGCC
+GTCGCCACCAGTGCCTCGCCAATCGGGCCGGCAACCGCCGCAATACTCATCTGCCCGCTTTGCCCGATAT
+TGATCAGGGCGTGGTAAATCCCCCAAACCGTGCCGAACAGCCCGATAAACGGCGCGGTCGCGCCGATGGA
+GGCAAGCGCGGTCATCCCGTAATCAAACCGGCGCATAATCTGCGCCATACTGTTGCGGATTTGAATGACC
+AAATACTCGTTCAACGGCAAAGCCTGCGCCAGTTCGGACGCTTCGTTTCGGCGGTAGTTGCGGTAAGACT
+GCAATGCCTCTTGCGCCAGTTTGGACAAAGGCGCATCGACGGCGCGCACTTTTTCGACCGCGTCGTTCAG
+CGACAAAGTATCGCGCATATGCCGTTTGACGGCGGCATTCCCTTTGCGCGCCCGATACAGCTTGATGCAG
+CGCAAGACAACCAAACACCACGTTACGATACTCATCAACAGCATCAACACAAACACACCAATCAGGACGG
+GATCGCCCGATTCAAACACTAATTTCAAATTCA
+
+</dna_sequence>
+        <protein_sequence>>NP_274732.1 biopolymer transport protein [Neisseria meningitidis MC58]
+MNLKLVFESGDPVLIGVFVLMLLMSIVTWCLVVLRCIKLYRARKGNAAVKRHMRDTLSLNDAVEKVRAVD
+APLSKLAQEALQSYRNYRRNEASELAQALPLNEYLVIQIRNSMAQIMRRFDYGMTALASIGATAPFIGLF
+GTVWGIYHALINIGQSGQMSIAAVAGPIGEALVATAAGLFVAIPAVLAYNFLNRGTKILTQDLDAMAHDL
+HVRLLNQKDS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A total of 11 meningococcal proteins that are necessary for establishing systemic infection were expressed as recombinant antigens and assessed for their ability to protect mice against live bacterial challenge against N. meningitidis; ExbB, which is required for iron acquisition, elicited protective immunity [Ref1198:Sun et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1730">
+        <gene_name>gp120</gene_name>
+        <strain>Human immunodeficiency virus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>2326505</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:278917
+GOA:O40515
+InterPro:IPR000777
+UniProtKB/TrEMBL:O40515</xrefs>
+        <taxonomy_id>11676</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>9.81</protein_pi>
+        <protein_weight>11668</protein_weight>
+        <protein_length>172</protein_length>
+        <protein_note>Envelope glycoprotein GP120; pfam00516</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA74764.1 gp120, partial [Human immunodeficiency virus 1]
+NGSLAEGEVVIRSENFTDNAKTIIVQLNESVVINCTRPNNNTRKNIHLGRGRSVYATEKIIGNVKQAHCN
+ISRAKWNDTLKQIVEKLREQFGKNKTIVFNQSSGGDPEI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>he DNA construct induced a significant anti-polysaccharide antibody response that was bactericidal. Mice immunized with the DNA construct were subsequently protected against challenge with a lethal dose of N. meningitidis serogroup C.[Ref2700:Prinz et al., 2003]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene600">
+        <gene_name>lctP</gene_name>
+        <strain>Neisseria meningitidis</strain>
+        <vo_id>VO_0011185</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>254667969</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:224535
+EnsemblGenomes-Gn:NMO_0425
+EnsemblGenomes-Tr:CBA04244
+GOA:C6S5G4
+InterPro:IPR003804
+UniProtKB/TrEMBL:C6S5G4</xrefs>
+        <taxonomy_id>662598</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>L-lactate permease</protein_name>
+        <protein_pi>8.92</protein_pi>
+        <protein_weight>52305.14</protein_weight>
+        <protein_length>601</protein_length>
+        <protein_note>L-lactate permease [Energy production and conversion]; COG1620</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CBA04244.1 L-lactate permease [Neisseria meningitidis alpha14]
+MALFLSIFPIVLLIWLMVKKNSMPSYVALPITAVLIYAIKLFYFGDAGMLLNATAASGLVKTLTPITVIF
+GAIMFNRMMETTGCIDVIRKWLATISPNPVAQLMIIGWAFAFMIEGASGFGTPAAIAAPILMSLGFNPLK
+VAIFTLVMNSVPVSFGAVGTPTWFGFAPLNLSAEDILAIGRQTGVMHFFAGFVIPVIGLGFIVPWSEIRK
+NLGFVAIAVFSCTIPYVALAMVNEEFPSLVAGAIGLMVSVFAANQGWGLSKDHAKDPNAEKVPFAQVAKA
+LAPLGMLIGMLVVTRIKQLGIKGILTSKEEWFSFQLPFDLSKITVSDSLTITFGNIFGQDVSASYQTLYV
+PAWIPFVLTVWICILLYKTKFKDAWTIYSVTFNQTKKPLLALMGALIMVQLMLVGGDNSMVKIIGKEFAA
+MAGEHWVYFSPYLGAIGAFFSGSNTVSNLTFGPIQQQIALDTGLSVTLILALQSVGGAMGNMVCLNNIIA
+VCTVLDVKNSEGAIIKKTVIPMAIYGVIAVVAAMIFFL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A total of 11 meningococcal proteins that are necessary for establishing systemic infection were expressed as recombinant antigens and assessed for their ability to protect mice against live bacterial challenge against N. meningitidis; the lactate permease (LctP) elicited protective immunity [Ref1198:Sun et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene596">
+        <gene_name>lpdA</gene_name>
+        <strain>Neisseria meningitidis</strain>
+        <vo_id>VO_0011181</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1017430</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:133458
+CDD:304358
+CDD:180579
+CDD:278498
+CDD:280934
+GOA:Q51191
+HSSP:1OJT
+InterPro:IPR000089
+InterPro:IPR000815
+InterPro:IPR001327
+InterPro:IPR003016
+InterPro:IPR004099
+InterPro:IPR006258
+InterPro:IPR011053
+InterPro:IPR012999
+InterPro:IPR013027
+InterPro:IPR016156
+UniProtKB/TrEMBL:Q51191</xrefs>
+        <taxonomy_id>487</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>outer membrane protein P64k or PM-6</protein_name>
+        <protein_pi>4.94</protein_pi>
+        <protein_weight>56755.94</protein_weight>
+        <protein_length>685</protein_length>
+        <protein_note>Lipoyl domain of the dihydrolipoyl acyltransferase component (E2) of 2-oxo acid dehydrogenases. 2-oxo acid dehydrogenase multienzyme complexes, like pyruvate dehydrogenase (PDH), 2-oxoglutarate dehydrogenase (OGDH) and branched-chain 2-oxo acid...; cd06849</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA57206.1 outer membrane protein P64k or PM-6, partial [Neisseria meningitidis]
+MALVELKVPDIGGHENVDIIAVEVNVGDTIAVDDTLITLETDKATMDIPAEVAGVVKEVKVKVGDKISEG
+GLIVVVEAEGAATAPKAEAPATPAQEAPKAAAPAPQAAQFGGSADAEYDVVLGGGPGGYSAAFAAADEGL
+KVAIVERYKTLGGVCLNVGCIPSKALLHNAAVIDEVRHLAANGIKYPEPELDIDMLRAYKNGVVSRLTGG
+LAGMAKRRKVDVIQGDGQFLDPHHLEVSLTAGDAYEQAAPTGEKKIVAFKNCIIAAGSRVTKLPFIPEDP
+RIIDSSGALALKEVPGKLLIIGAGIIGLEMGTVYSTLGSRLDVVEMMDGLMQGADRDLVKVWQKQNEYRF
+DNIMVNTKTVAVEPKEDGVYVTFEGANAPKEPQRYDAVLVAAGRAPNGKLISAEKAGVAVTDRGFIEVDK
+QMRTNVPHIYAIVDIVGQPMLAHKAVHEGHVAAENCAGHKAYFDARVIPGVAYTSPEVAWVGETELSAKA
+SGRKITKANFPWAASGRAIANGCDNGFTKLIFDAETGRIIGGGIVGPNGGDMIGEVCLAIEMGCDAADIG
+KTIHPHPTLGESIGMAAEVALGTCTDLPPQKKK
+
+</protein_sequence>
+        <phi_function>Other</phi_function>
+        <phi_annotation>Sera of the challenge group immunized with CCPS-P64kR showed a three-fold higher bactericidal response than the sera of the group immunized with the plain CCPS and they were able to protect against challenge with Neisseria meningococci in the infant rat protection model [Ref1194:Carmenate et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene947">
+        <gene_name>metH</gene_name>
+        <strain>Neisseria meningitidis MC58</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>903064</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15676837</ncbi_protein_id>
+        <gene_locus_tag>NMB0944</gene_locus_tag>
+        <gene_refseq>AE002098</gene_refseq>
+        <protein_refseq>NP_273982</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>122586</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>957284</gene_start>
+        <gene_end>959560</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase</protein_name>
+        <protein_pi>5.08</protein_pi>
+        <protein_weight>79718.7</protein_weight>
+        <protein_length>758</protein_length>
+        <protein_note>catalyzes the transfer of a methyl group from 5-methyltetrahydrofolate to homocysteine to form methionine</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|77358697:957284-959560 Neisseria meningitidis MC58, complete genome
+CATGACAACATTACATTTCTCAGGCTTCCCGCGTGTCGGCGCCTTCCGCGAATTGAAATTCGCACAAGAA
+AAATACTGGCGCAAAGAAATCAGCGAGCAAGAATTGCTGGCTGTTGCTAAAGACTTGCGCGAGAAAAACT
+GGAAACACCAGGTCGCTGCCAACGCCGATTTCGTTGCCGTAGGCGATTTCACTTTCTACGACCACATCCT
+CGACCTGCAAGTCGCCACCGGCGCGATTCCCGCCCGCTTCGGCTTCGACAGCCAAAACCTGTCTTTGGAA
+CAATTCTTCCAACTGGCGCGCGGTAACAAAGACCAATTCGCTATCGAAATGACCAAATGGTTCGACACCA
+ACTACCACTACTTGGTGCCTGAATTCCACGCCGATACCGAATTCAAAGCCAATGCCAAACACTATGTTCA
+ACAACTGCAAGAAGCCCAAGCCCTCGGTCTGAAAGCCAAACCGACCGTTGTAGGTCCGTTGACTTTCCTG
+TGGGTGGGTAAAGAAAAAGGCGCCGTCGAATTCGACCGTCTGAGCCTGTTGCCTAAACTGTTGCCTGTTT
+ACGTTGAAATCCTGACTGCTTTGGTTGAAGCCGGTGCCGAGTGGATTCAAATCGACGAGCCTGCTTTGGC
+TGTCGATTTGCCTAAAGAATGGGTGGAAGCCTACAAAGACGTTTACGCTACTTTGAGCAAAGTAAGTGCC
+AAAATCCTGTTGAGCACTTACTTCGGTTCTGTTGCCGAACACGCCGCATTGTTGAAAGCCCTGCCTGTTG
+ACGGTCTGCACATCGACTTGGTACGCGCCCCCGAGCAACTGGACGCGTTCGCCGACTACGACAAAGTCCT
+GTCTGCCGGCGTGATTGACGGCCGCAACATTTGGCGCGCCAACCTGAACAAAGTTTTGGAAACTGTCGAG
+CCTCTGCAAGCCAAACTGGGTGACCGTTTGTGGATTTCCAGCTCTTGCTCGCTGCTGCACACTCCATTTG
+ACTTGTCAGTTGAAGAAAAACTGAAAGCCAACAAACCCGACCTGTACTCTTGGTTGGCATTCACCCTGCA
+AAAAACCCAAGAATTGCGCGTTCTGAAAGCTGCATTGAACGAAGGCCGTGATTCTGTTGCCGAAGAACTC
+GCCGCCAGCCAAGCTGCTGCCGACTCCCGTGCCAACAGCAGCGAAATCCATCGTGCAGACGTTGCCAAAC
+GCCTGGCCGATTTGCCTGCCAACGCAGACCAACGCAAATCTCCATTTGCCGACCGTATCAAAGCGCAACA
+AGCATGGTTGAACCTACCTCTGCTACCGACTACCAACATCGGTTCTTTCCCGCAAACCACCGAAATCCGC
+CAGGCACGCTCAGCCTTCAAAAAAGGCGAACTGTCTGCCGCCGATTACGAAGCCGCGATGAAAAAAGAAA
+TCGCCTTGGTGGTTGAAGAGCAAGAAAAACTGGACTTGGACGTACTGGTACACGGCGAAGCCGAGCGTAA
+CGACATGGTTGAATACTTCGGCGAATTGTTGAGCGGTTTTGCATTCACTCAATACGGCTGGGTACAAAGC
+TACGGCTCACGCTGCGTGAAACCACCGATTATCTTTGGCGACGTAAGCCGTCCTGAAGCCATGACCGTGG
+CTTGGTCTACTTACGCACAAAGCCTGACCAAACGCCCGATGAAAGGTATGTTGACCGGCCCTGTAACCAT
+TCTGCAATGGTCTTTCGTCCGCAACGACATTCCTCGCTCTACCGTGTGCAAACAAATCGCACTGGCTCTG
+AACGACGAAGTATTGGATCTGGAAAAAGCCGGCATCAAAGTCATCCAAATTGACGAACCTGCCATCCGCG
+AAGGCTTGCCGCTGAAACGCGCCGATTGGGATGCCTACCTGAACTGGGCGGGCGAATCCTTCCGCCTGTC
+CTCTGCCGGTTGCGAAGACAGCACCCAAATCCACACTCATATGTGTTACTCCGAGTTCAACGATATCCTG
+CCTGCGATTGCTGCAATGGATGCGGACGTGATCACCATCGAGACTTCACGTTCCGACATGGAACTCTTGA
+CCGCGTTCGGCGAATTCCAATACCCGAACGACATCGGCCCGGGGGTTTACGACATCCACAGCCCGCGCGT
+ACCGACAGAAGCCGAAGTGGAGCACCTGTTGCGCAAAGCCATCGAGGTTGTACCGGTTGAACGTCTGTGG
+GTTAACCCGGACTGCGGCCTGAAAACACGCGGCTGGAAAGAAACTCTGGAACAACTCCAAGTAATGATGA
+ACGTAACCCGAAAACTGCGTGCCGAATTGGCGAAATA</dna_sequence>
+        <protein_sequence>>gi|15676837|ref|NP_273982.1| 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [Neisseria meningitidis MC58]
+MTTLHFSGFPRVGAFRELKFAQEKYWRKEISEQELLAVAKDLREKNWKHQVAANADFVAVGDFTFYDHIL
+DLQVATGAIPARFGFDSQNLSLEQFFQLARGNKDQFAIEMTKWFDTNYHYLVPEFHADTEFKANAKHYVQ
+QLQEAQALGLKAKPTVVGPLTFLWVGKEKGAVEFDRLSLLPKLLPVYVEILTALVEAGAEWIQIDEPALA
+VDLPKEWVEAYKDVYATLSKVSAKILLSTYFGSVAEHAALLKALPVDGLHIDLVRAPEQLDAFADYDKVL
+SAGVIDGRNIWRANLNKVLETVEPLQAKLGDRLWISSSCSLLHTPFDLSVEEKLKANKPDLYSWLAFTLQ
+KTQELRVLKAALNEGRDSVAEELAASQAAADSRANSSEIHRADVAKRLADLPANADQRKSPFADRIKAQQ
+AWLNLPLLPTTNIGSFPQTTEIRQARSAFKKGELSAADYEAAMKKEIALVVEEQEKLDLDVLVHGEAERN
+DMVEYFGELLSGFAFTQYGWVQSYGSRCVKPPIIFGDVSRPEAMTVAWSTYAQSLTKRPMKGMLTGPVTI
+LQWSFVRNDIPRSTVCKQIALALNDEVLDLEKAGIKVIQIDEPAIREGLPLKRADWDAYLNWAGESFRLS
+SAGCEDSTQIHTHMCYSEFNDILPAIAAMDADVITIETSRSDMELLTAFGEFQYPNDIGPGVYDIHSPRV
+PTEAEVEHLLRKAIEVVPVERLWVNPDCGLKTRGWKETLEQLQVMMNVTRKLRAELAK</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A metH mutant, in combination with a siaD mutation, is attenuated in mice and induces significant protection from challenge with wild type N. meningitidis [Ref1804:Li et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene271">
+        <gene_name>NspA from N. meningitidis MC58</gene_name>
+        <strain>Neisseria meningitidis MC58</strain>
+        <vo_id>VO_0010979</vo_id>
+        <ncbi_gene_id>902774</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15676561</ncbi_protein_id>
+        <gene_locus_tag>NMB0663</gene_locus_tag>
+        <gene_refseq>AE002098</gene_refseq>
+        <protein_refseq>NP_273705</protein_refseq>
+        <pdb_id>1P4T</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>122586</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>690297</gene_start>
+        <gene_end>690821</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>outer membrane protein</protein_name>
+        <protein_pi>10.02</protein_pi>
+        <protein_weight>17106.9</protein_weight>
+        <protein_length>174</protein_length>
+        <protein_note>identified by similarity to EGAD:137514; match to protein family HMM PF02462</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_003112.2:690297-690821 Neisseria meningitidis MC58 chromosome, complete genome
+ATCAGAATTTGACGCGCACACCGGCGGACAGTTCGCCGGAACGGACGTTTTTGACAGTGTTGACTTTGCC
+GATGTAGTTGTAGCGGTAGCCGGCATCCAAATCGACATTCGGGGTAACGGCATAGCTTACGCCCGTCAAT
+ACGCCGAGGCCGATGGAGGTTTGGCTGAAGCTGTCGCTGCCGCCCAAGTCGACGGAGGCGCGGTTGAGGC
+TCAAGCGCGCGCCGAGATACGGTTTGACGGGCGATTGGGTGTCGAAGTCGTAAATGGCGGACGCGCCGAT
+GCTGTAAAGTTTGAAATCGGTGGATGGGGCTTTATAGTTTTTGTAGCGCGTGTAATCGACGGCGAAGCGG
+AGGTCGTTGATGCGGTAGCCTGCGGAGATGCGCGGGCTGAAGCCTTTGGCAGAACCTAAAGAGCTTGAGG
+CTTTTGCGTGTGCGGCATCGGCTTGGACGTAAAAGCCGGATGCGCCTTCCGCCAGTGCGGCGGCCGGGAG
+AGCGAGGGCAATCAGTGTGGCAAGTGCTTTTTTCA
+
+</dna_sequence>
+        <protein_sequence>>NP_273705.1 outer membrane protein [Neisseria meningitidis MC58]
+MKKALATLIALALPAAALAEGASGFYVQADAAHAKASSSLGSAKGFSPRISAGYRINDLRFAVDYTRYKN
+YKAPSTDFKLYSIGASAIYDFDTQSPVKPYLGARLSLNRASVDLGGSDSFSQTSIGLGVLTGVSYAVTPN
+VDLDAGYRYNYIGKVNTVKNVRSGELSAGVRVKF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Protective antigen [Ref859:Martin et al., 1997]
+NspA-containing outer membrane vesicles conferred protection against otherwise lethal intraperitoneal challenge of mice with N. meningitidis serogroup B, and sera raised against them mediated opsonophagocytosis of meningococcal strains expressing this antigen [Ref1197:O'dwyer et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene946">
+        <gene_name>rfaF</gene_name>
+        <strain>Neisseria meningitidis MC58</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>904029</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15677379</ncbi_protein_id>
+        <gene_locus_tag>NMB1527</gene_locus_tag>
+        <gene_refseq>AE002098</gene_refseq>
+        <protein_refseq>NP_274534</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>122586</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1577173</gene_start>
+        <gene_end>1578183</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>ADP-heptose:LPS heptosyltransferase II</protein_name>
+        <protein_pi>7.02</protein_pi>
+        <protein_weight>35354.86</protein_weight>
+        <protein_length>336</protein_length>
+        <protein_note>identified by similarity to EGAD:40767; match to protein family HMM PF01075; match to protein family HMM TIGR02195</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|77358697:1577173-1578183 Neisseria meningitidis MC58, complete genome
+ATCATACCGCCTCTTCAACCGCCTGCACAATCTTCTCGGGATACAGCCTGTTGAGGCAGTCGGTATGCCC
+CAGCGGACATTCCCGCTTAAAACACGGCGAACATTCCAAGTGCAGGCTGACGATTTTCGCCCTATCGCTC
+AAAGGCGGCGTATGCGTCGGGCTGGAAGAACCGTAAACCGCCACCACCTTCCTGCCCAAAGCTGCCGCCA
+AATGCATCAATCCGCTGTCGTTACACACGACCGTGTCCGCCAACGACAGCAAATCCATTGCCTGCGACAA
+ATCGGTTTTGCCGCACAAATTGACACACATACCGTCTGAAAGGCGGTTGATTTCCTCGGCAATTTCATCA
+TCTTTTTGCGAACCGAACAGCCAAACCTGCCAACCCGCCGCCAGATAATGTTTGCCCAACTCGGCAAAAT
+GCCTTGTCGGCCAACGCTTTGCCGGCCCGAATTCCGCACCCGGACAAAAAGCCAGAACAGGCTTTCCAAT
+ATCCAAGCCAAAGGTTTCGACAGAAATTTCCCGCCGCCGTTCATCAATGGAAAACTCGGGGAATCCCGAA
+TGCCCGTCAAAATCTTCCTGACTCGGATGCGCGAGAGCCGTATATCGATCCACCATCAAAGGCAGACGTT
+CCTTATCCAGCCTGCGTATATCGTTCAACAGAAAATAACGGCTTTCACCGACATAACCCGTCCTTTTACC
+GATACCTGTCGCCAGCGCGATGATTGCCGATTTCAAAGAACCGGGCAACACGATAACCTGATCGTATCCG
+CGCCGCCCCAAATCCCTACCGACCCGCCAACGGCGTTTCAACTCCAACGCACCATGTCCGAACGAATTCT
+CAAGAATTTCATTCACTTCCGGCATACGCTCGAACACCGCCATCGACCACTTCGGTGCGAACACATCAAT
+CGTGCAACCGGGGTGAAGTTCCTTCAAACGGCGGAACAAGGGCTGGGTCATCACGCAGTCGCCTATCCAA
+CTGGGGGAAATAATCAGGATTTTGATGGACA</dna_sequence>
+        <protein_sequence>>gi|15677379|ref|NP_274534.1| ADP-heptose:LPS heptosyltransferase II [Neisseria meningitidis MC58]
+MSIKILIISPSWIGDCVMTQPLFRRLKELHPGCTIDVFAPKWSMAVFERMPEVNEILENSFGHGALELKR
+RWRVGRDLGRRGYDQVIVLPGSLKSAIIALATGIGKRTGYVGESRYFLLNDIRRLDKERLPLMVDRYTAL
+AHPSQEDFDGHSGFPEFSIDERRREISVETFGLDIGKPVLAFCPGAEFGPAKRWPTRHFAELGKHYLAAG
+WQVWLFGSQKDDEIAEEINRLSDGMCVNLCGKTDLSQAMDLLSLADTVVCNDSGLMHLAAALGRKVVAVY
+GSSSPTHTPPLSDRAKIVSLHLECSPCFKRECPLGHTDCLNRLYPEKIVQAVEEAV</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An rfaF mutant, in combination with a siaD mutation, is attenuated in mice and induces significant protection from challenge with wild type N. meningitidis [Ref1804:Li et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene945">
+        <gene_name>siaD</gene_name>
+        <strain>Neisseria meningitidis MC58</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>903210</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15677983</ncbi_protein_id>
+        <gene_locus_tag>NMB0067</gene_locus_tag>
+        <gene_refseq>AE002098</gene_refseq>
+        <protein_refseq>NP_273131</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>122586</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>76612</gene_start>
+        <gene_end>77289</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>polysialic acid capsule biosynthesis protein SiaD</protein_name>
+        <protein_pi>10.48</protein_pi>
+        <protein_weight>25814.56</protein_weight>
+        <protein_length>225</protein_length>
+        <protein_note>identified by similarity to GP:530041</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|77358697:76612-77289 Neisseria meningitidis MC58, complete genome
+CTTAATCGCCTTGCAGCACATCCCCCTTTCGCCAGGCAAAAAACCGGTTATATTTTTTTGCATTAAATAT
+TTTTTTAGCATATTCAGGAAAGGGGACATGCAATATGTCAAAATGATCTATATATCCTTTAATATTAAGA
+TTATTTCCAATCAAATAACGTTCTAATTTTGTTGGATGATATGAAAATGATTCTAATAAAGGAGCATATG
+TTCCAGTCCCTTCATCAATTAAATGAGTCGTAATATTCTTTTTTTTTGCAATACTAATCAGATAGGAGTA
+GTGGCCTGTAAAAGACAGCATATAGAGATGAGCAGGCTGTATAATATTAAGGATTTTTTTGTAACTTCTA
+TAAATATAAAGTAATTTTTTAGGAGTTATATTATTAGGGCTTCTAGGAAGCTCAAATAGATAAATAGATT
+CAAATAGATTCTTGTTAGCTGATTGATGAACTAACTTAGGCATTTTTAAGTTTTTAGAAGTATATAAAAT
+TACTAGTAAATTATTGGTTAATTTTTGTATTTTAATTAGGCTTTGGACTTGGTTAAGCTGACCTAAATTA
+GATATGACAAATAAATTGTTACGTGGGGGGGTAAGATAAAATGGAGATGTTGTCAACCACATTGAATCTT
+GAAAAAACTTTTTAGGCTGAAAAAGAGCTTTTTTTATTTTCTTTAGCA</dna_sequence>
+        <protein_sequence>>gi|15677983|ref|NP_273131.1| polysialic acid capsule biosynthesis protein SiaD [Neisseria meningitidis MC58]
+MLKKIKKALFQPKKFFQDSMWLTTSPFYLTPPRNNLFVISNLGQLNQVQSLIKIQKLTNNLLVILYTSKN
+LKMPKLVHQSANKNLFESIYLFELPRSPNNITPKKLLYIYRSYKKILNIIQPAHLYMLSFTGHYSYLISI
+AKKKNITTHLIDEGTGTYAPLLESFSYHPTKLERYLIGNNLNIKGYIDHFDILHVPFPEYAKKIFNAKKY
+NRFFAWRKGDVLQGD</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A siaD mutant, in combination with either a metH or rfaF mutation, is attenuated in mice and induces protection from challenge with wild type N. meningitidis [Ref1804:Li et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene597">
+        <gene_name>tbp2</gene_name>
+        <strain>Neisseria meningitidis</strain>
+        <vo_id>VO_0011182</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>NP_273507</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:307461</xrefs>
+        <taxonomy_id>122586</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>transferrin-binding protein B</protein_name>
+        <protein_pi>5.85</protein_pi>
+        <protein_weight>74897.85</protein_weight>
+        <protein_length>797</protein_length>
+        <protein_note>Transferrin binding protein-like solute binding protein; pfam01298</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>NP_273507.1 transferrin-binding protein B [Neisseria meningitidis MC58]
+MNNPLVNQAAMVLPVFLLSACLGGGGSFDLDSVDTEAPRPAPKYQDVFSEKPQAQKDQGGYGFAMRLKRR
+NWYPQAKEDEVKLDESDWEATGLPDEPKELPKRQKSVIEKVETDSDNNIYSSPYLKPSNHQNGNTGNGIN
+QPKNQAKDYENFKYVYSGWFYKHAKREFNLKVEPKSAKNGDDGYIFYHGKEPSRQLPASGKITYKGVWHF
+ATDTKKGQKFREIIQPSKSQGDRYSGFSGDDGEEYSNKNKSTLTDGQEGYGFTSNLEVDFHNKKLTGKLI
+RNNANTDNNQATTTQYYSLEAQVTGNRFNGKATATDKPQQNSETKEHPFVSDSSSLSGGFFGPQGEELGF
+RFLSDDQKVAVVGSAKTKDKPANGNTAAASGGTDAAASNGAAGTSSENGKLTTVLDAVELKLGDKEVQKL
+DNFSNAAQLVVDGIMIPLLPEASESGNNQANQGTNGGTAFTRKFDHTPESDKKDAQAGTQTNGAQTASNT
+AGDTNGKTKTYEVEVCCSNLNYLKYGMLTRKNSKSAMQAGESSSQADAKTEQVEQSMFLQGERTDEKEIP
+SEQNIVYRGSWYGYIANDKSTSWSGNASNATSGNRAEFTVNFADKKITGTLTADNRQEATFTIDGNIKDN
+GFEGTAKTAESGFDLDQSNTTRTPKAYITDAKVQGGFYGPKAEELGGWFAYPGDKQTKNATNASGNSSAT
+VVFGAKRQQPVR</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with purified Tbp2 survived a lethal challenge to a similar degree as animals immunized with the Tbp1-Tbp2 complex, demonstrating that Tbp2 played an important role in the protective activity observed with the complex, eliciting antibodies that are not only bactericidal but also inhibitory for meningococcal growth [Ref1195:Lissolo et al., 1995].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene833">
+        <gene_name>tbpA</gene_name>
+        <strain>Neisseria meningitidis K454</strain>
+        <vo_id>VO_0012380</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>8926211</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:273799
+CDD:238657</xrefs>
+        <taxonomy_id>487</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>transferrin-binding protein A</protein_name>
+        <protein_pi>9.8</protein_pi>
+        <protein_weight>96910.19</protein_weight>
+        <protein_length>997</protein_length>
+        <protein_note>TbpA</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAF81744.1 transferrin-binding protein A [Neisseria meningitidis]
+MQQQHLFRFNILCLSLMTALPAYAENVQAGQAQEKQLDTIQVKAKKQKTRRDNEVTGLGKLVKSSDTLSK
+EQVLNIRDLTRYDPGIAVVEQGRGASSGYSIRGMDKNRVSLTVDGVSQIQSYTAQAALGGTRTAGSSGAI
+NEIEYENVKAVEISKGSNSVEQGSGALAGSVAFQTKTADDVIGEGRQWGIQSKTAYSGKNRGLTQSIALA
+GRIGGAEALLIHTGRRAGEIRAHEDAGRGVQSFNRLVPVEDSSNYAYFIVKEECKNGSYETCKANPKKDV
+VGKDERQTVSTRDYTGPNRFLADPLSYESRSWLFRPGFRFENKRHYIGGILEHTQQTFDTRDMTVPAFLT
+KAVFDANKKQAGSLPGNGKYAGNHKYGGLFTNGENGALVGAEYGTGVFYDETHTKSRYGLEYVYTNADKD
+TWADYARLSYDRQGVGLDNHFQQTHCSADGSDKYCRPSADKPFSYYKSDRVIYGESHRLLQAAFKKSFDT
+AKIRHNLSVNLGFDRFGSNLRHQDYYYQHANRAYSSNTPPQNNGKKISPNGSETSPYWVTIGRGNVVTGQ
+ICRLGNNTYTDCTPRSINGKSYYAAVRDNVRLGRWADVGAGLRYDYRSTHSDDGSVSTGTHRTLSWNAGI
+VLKPTDWLDLTYRTSTGFRLPSFAEMYGWRAGVQSKAVKIDPEKSFNKEAGIVFKGDFGNLEASWFNNAY
+RDLIVRGYEAQIKDGKEEAKGDPAYLNAQSARITGINILGKIDWNGVWDKLPEGWYSTFAYNRVRVRDIK
+KRADRTDIQSHLFDAIQPSRYVVGLGYDQPEGKWGVNGMLTYSKAKEITELLGSRALLNGNSRNTKATAR
+RTRPWYIVDVSGYYTVKKHFTLRAGVYNLLNYRYVTWENVRQTAGGAVNQHKNVGVYNRYAAPGRNYTFS
+LEMKF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Recombinant TbpA protein was used in a mouse intraperitoneal-infection model to determine their ability to protect against meningococcal infection and to induce cross-reactive and bactericidal antibodies. TbpA was found to afford protection against meningococcal challenge when administered as the sole immunogen [Ref1488:West et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1194">
+		<reference_name>Carmenate et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Carmenate T, Canaán L, Alvarez A, Delgado M, González S, Menéndez T, Rodés L, Guillén G</authors>
+		<title>Effect of conjugation methodology on the immunogenicity and protective efficacy of meningococcal group C polysaccharide-P64k protein conjugates</title>
+		<year>2004</year>
+		<volume>40</volume>
+		<issue>3</issue>
+		<pages>193-199</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference875">
+		<reference_name>Comanducci et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Comanducci M, Bambini S, Brunelli B, Adu-Bobie J, Aricò B, Capecchi B, Giuliani MM, Masignani V, Santini L, Savino S, Granoff DM, Caugant DA, Pizza M, Rappuoli R, Mora M</authors>
+		<title>NadA, a novel vaccine candidate of Neisseria meningitidis</title>
+		<year>2002</year>
+		<volume>195</volume>
+		<issue>11</issue>
+		<pages>1445-1454</pages>
+		<journal_book_name>The Journal of experimental medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4092">
+		<reference_name>FDA: BEXSERO</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: BEXSERO vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM431447.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference799">
+		<reference_name>FDA: Menactra</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Menactra</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM131170.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2431">
+		<reference_name>FDA: MenHibrix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: MenHibrix Package insert</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm308566.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference766">
+		<reference_name>FDA: Menomune– A/C/Y/W-135</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA Menomune– A/C/Y/W-135 Neisseria meningitidis vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM308370.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1558">
+		<reference_name>FDA: Menveo</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Menveo</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm201342.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4093">
+		<reference_name>FDA: TRUMENBA</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: TRUMENBA vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM421139.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference860">
+		<reference_name>Giuliani et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Giuliani MM, Adu-Bobie J, Comanducci M, Aricò B, Savino S, Santini L, Brunelli B, Bambini S, Biolchi A, Capecchi B, Cartocci E, Ciucchi L, Di Marcello F, Ferlicca F, Galli B, Luzzi E, Masignani V, Serruto D, Veggi D, Contorni M, Morandi M, Bartalesi A, Cinotti V, Mannucci D, Titta F, Ovidi E, Welsch JA, Granoff D, Rappuoli R, Pizza M</authors>
+		<title>A universal vaccine for serogroup B meningococcus</title>
+		<year>2006</year>
+		<volume>103</volume>
+		<issue>29</issue>
+		<pages>10834-10839</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4090">
+		<reference_name>GSK: Menjugate</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Menjugate vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://ca.gsk.com/media/1213633/menjugate.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1804">
+		<reference_name>Li et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li Y, Sun YH, Ison C, Levine MM, Tang CM</authors>
+		<title>Vaccination with attenuated Neisseria meningitidis strains protects against challenge with live Meningococci</title>
+		<year>2004</year>
+		<volume>72</volume>
+		<issue>1</issue>
+		<pages>345-351</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3342">
+		<reference_name>Li et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li S, Rouphael N, Duraisingham S, Romero-Steiner S, Presnell S, Davis C, Schmidt DS, Johnson SE, Milton A, Rajam G, Kasturi S, Carlone GM, Quinn C, Chaussabel D, Palucka AK, Mulligan MJ, Ahmed R, Stephens DS, Nakaya HI, Pulendran B</authors>
+		<title>Molecular signatures of antibody responses derived from a systems biology study of five human vaccines</title>
+		<year>2014</year>
+		<volume>15</volume>
+		<issue>2</issue>
+		<pages>195-204</pages>
+		<journal_book_name>Nature immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1195">
+		<reference_name>Lissolo et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lissolo L, Maitre-Wilmotte G, Dumas P, Mignon M, Danve B, Quentin-Millet MJ</authors>
+		<title>Evaluation of transferrin-binding protein 2 within the transferrin-binding protein complex as a potential antigen for future meningococcal vaccines</title>
+		<year>1995</year>
+		<volume>63</volume>
+		<issue>3</issue>
+		<pages>884-890</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference859">
+		<reference_name>Martin et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Martin D, Cadieux N, Hamel J, Brodeur BR</authors>
+		<title>Highly conserved Neisseria meningitidis surface protein confers protection against experimental infection</title>
+		<year>1997</year>
+		<volume>185</volume>
+		<issue>7</issue>
+		<pages>1173-1183</pages>
+		<journal_book_name>The Journal of experimental medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1197">
+		<reference_name>O'dwyer et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>O'dwyer CA, Reddin K, Martin D, Taylor SC, Gorringe AR, Hudson MJ, Brodeur BR, Langford PR, Kroll JS</authors>
+		<title>Expression of heterologous antigens in commensal Neisseria spp.: preservation of conformational epitopes with vaccine potential</title>
+		<year>2004</year>
+		<volume>72</volume>
+		<issue>11</issue>
+		<pages>6511-6518</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4091">
+		<reference_name>Pfizer: NeisVac-C</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Pfizer: NeisVac-C vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.pfizer.ca/sites/g/files/g10017036/f/201505/NeisVac-C_PM_182023_31Mar2015_EN.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4094">
+		<reference_name>Pfizer: NIMENRIX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Pfizer: NIMENRIX vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.pfizer.ca/sites/g/files/g10028126/f/201604/Nimenrix_PM_184020_23Mar2016_E.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference858">
+		<reference_name>Pizza et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pizza M, Scarlato V, Masignani V, Giuliani MM, Aricò B, Comanducci M, Jennings GT, Baldi L, Bartolini E, Capecchi B, Galeotti CL, Luzzi E, Manetti R, Marchetti E, Mora M, Nuti S, Ratti G, Santini L, Savino S, Scarselli M, Storni E, Zuo P, Broeker M, Hundt E, Knapp B, Blair E, Mason T, Tettelin H, Hood DW, Jeffries AC, Saunders NJ, Granoff DM, Venter JC, Moxon ER, Grandi G, Rappuoli R</authors>
+		<title>Identification of vaccine candidates against serogroup B meningococcus by whole-genome sequencing</title>
+		<year>2000</year>
+		<volume>287</volume>
+		<issue>5459</issue>
+		<pages>1816-1820</pages>
+		<journal_book_name>Science (New York, N.Y.)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference861">
+		<reference_name>Pizza et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pizza M, Donnelly J, Rappuoli R</authors>
+		<title>Factor H-binding protein, a unique meningococcal vaccine antigen</title>
+		<year>2008</year>
+		<volume>26 Suppl 8</volume>
+		<issue></issue>
+		<pages>I46-48</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2700">
+		<reference_name>Prinz et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Prinz DM, Smithson SL, Kieber-Emmons T, Westerink MA</authors>
+		<title>Induction of a protective capsular polysaccharide antibody response to a multiepitope DNA vaccine encoding a peptide mimic of meningococcal serogroup C capsular polysaccharide</title>
+		<year>2003</year>
+		<volume>110</volume>
+		<issue>2</issue>
+		<pages>242-249</pages>
+		<journal_book_name>Immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1193">
+		<reference_name>Saukkonen et al., 1989</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Saukkonen K, Leinonen M, Abdillahi H, Poolman JT</authors>
+		<title>Comparative evaluation of potential components for group B meningococcal vaccine by passive protection in the infant rat and in vitro bactericidal assay</title>
+		<year>1989</year>
+		<volume>7</volume>
+		<issue>4</issue>
+		<pages>325-328</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference713">
+		<reference_name>Stephens et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Stephens DS, Greenwood B, Brandtzaeg P</authors>
+		<title>Epidemic meningitis, meningococcaemia, and Neisseria meningitidis</title>
+		<year>2007</year>
+		<volume>369</volume>
+		<issue>9580</issue>
+		<pages>2196-2210</pages>
+		<journal_book_name>Lancet</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1198">
+		<reference_name>Sun et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sun Y, Li Y, Exley RM, Winterbotham M, Ison C, Smith H, Tang CM</authors>
+		<title>Identification of novel antigens that protect against systemic meningococcal infection</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>32</issue>
+		<pages>4136-4141</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1544">
+		<reference_name>Textbook of Bacteriology</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Staphylococcus bacteriaPrint this Page Pathogenic Neisseriae: Gonorrhea, Neonatal Ophthalmia and Meningococcal Meningitis</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://textbookofbacteriology.net/neisseria</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1488">
+		<reference_name>West et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>West D, Reddin K, Matheson M, Heath R, Funnell S, Hudson M, Robinson A, Gorringe A</authors>
+		<title>Recombinant Neisseria meningitidis transferrin binding protein A protects against experimental meningococcal infection</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>3</issue>
+		<pages>1561-1567</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

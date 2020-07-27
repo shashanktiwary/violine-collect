@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen81">
+		<pathogen_name>Streptococcus equi</pathogen_name>
+		<taxon_id>1336</taxon_id>
+		<pathogenesis refs="reference1462">S. equi enters via the mouth or nose and attaches to cells in the crypt of the tonsil and adjacent superficial lymphoid nodules. After a few hours, the organism is difficult to detect on the mucosal surface because it is translocated below the mucosa into the local lymphatics where it may be found in one or more of the lymph nodes that drain the pharyngeal/tonsillar region. Complement-derived chemotactic factors generated after interaction of C1 with bacterial peptidoglycan attract large numbers of PMN. The inability of PMN to phagocytose and kill the streptococci appears to be due to a combination of the hyaluronic acid capsule, antiphagocytic M protein, and a leukocidal toxin released by the organism. This culminates in accumulation of many extracellular streptococci in the form of long chains and large numbers of degenerating PMN. Final disposal  of these organisms is dependent on lysis of the abscess capsule and evacuation of its contents (Timoney, 2004).</pathogenesis>
+		<disease_name>Strangles (also equine distemper)</disease_name>
+		<protective_immunity refs="reference1462">Most horses develop a solid immunity during recovery from strangles which persists for up to five years in about 75% of animals. Acquired resistance appears to be primarily humoral and mediated by antibodies to SeM and other as yet unidentified antigens unique to S. equi (Timoney, 2004).</protective_immunity>
+		<host_range refs="reference1539 reference1217">S. equi primarily is a pathogen of equids, but can also cause disease in cattle, rabbits, swine, sheep and humans (MicrobeWiki: S. zooepidemicus). Mice can be used as a model of disease (Flock et al., 2006).</host_range>
+		<introduction refs="reference1449">Strangles (also equine distemper) is a contagious, upper respiratory tract infection of horses and other equines caused by a bacterium, Streptococcus equi var equi.  The disease is spread when the nasal discharge or material from the draining abscess contaminates pastures, barns, feed troughs, etc.  Clinical signs include fever, heavy nasal discharge, and swollen or enlarged lymph nodes in the neck and throatlatch. Affected animals may also stop eating and have a dull affect. Mortality may be up to 1 in 10 horses affected with strangles, especially bastard strangles. For cases without complications, mortality is usually lower. The disease is very contagious and morbidity is high. Precautions to limit the spread of the illness are necessary and those affected are normally isolated. An isolation period of 6 weeks is usually necessary to ensure that the disease is not still incubating before ending the isolation (Wiki: Strangles).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine416">
+		<vaccine_name>Equilis StrepE</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Equilis StrepE</brand_name>
+		<manufacturer>Intervet</manufacturer>
+		<vo_id>VO_0001054</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference835">Live submucosal vaccine; deletions in aroA gene(Jacobs et al., 2000)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine834">
+		<vaccine_name>S. equi Subunit CNE Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011546</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1217">Matrix-S (Flock et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasally</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering304" gene_id="gene629">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response593" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">NMRI mice</host_strain>
+			<vaccination_protocol refs="reference1217">Fifteen to twenty microgram of each antigen and 10 μg of the adjuvant in a total volume of 12–16 μl were given to the mice by placing the antigens onto the nares and allowing the mice to inhale. This was done at three occasions at 1-week intervals. In each experiment, control animals were given only adjuvant at the same concentration omitting the antigen (Flock et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1217">Mice immunized with recombinant CNE lost less weight and had less nasal colonization than the unvaccinated controls (Flock et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1217">A dose containing 10^6 CFU in a 10-μl volume was used for infection of mice (Flock et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine832">
+		<vaccine_name>S. equi Subunit EAG, FNZ and SFS Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011544</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneously</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1220">The adjuvant used was EtxB, a recombinant form of the B subunit of Escherichia coli heat-labile enterotoxin (Flock et al., 2004).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneously</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering301" gene_id="gene627">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering302" gene_id="gene630">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering303" gene_id="gene631">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response591" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1220">Mice were immunized either subcutaneously (s.c.) or intranasally (i.n.). For each antigen (FNZ, SFS, and EAG), 12 μg of antigen was mixed with an equal amount of EtxB so that all components achieved a final concentration of 300 μg/ml. In the case of i.n. immunization, the total volume was kept to less than 40 μl and applied into the nostrils of anaesthetized mice . For both s.c. and i.n. immunizations, four doses were given with 1-week intervals (Flock et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1220">It was shown that nasal colonization of S. equi subsp. equi and weight loss due to infection were significantly reduced after vaccination compared with a mock-vaccinated control group. This effect was more pronounced after intranasal vaccination than after subcutaneous vaccination; nearly complete eradication of nasal colonization was obtained after intranasal vaccination (P &lt; 0.001) (Flock et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1220">Challenge i.n. with S. equi subsp. equi (10^6 CFU in a 10-μl volume) was given 1 week after the last booster dose (Flock et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response304" gene_id="gene1160">
+			    <description refs="reference1220">An analysis of the bronchoalveolar lavage (BAL) fluid taken after the last immunization revealed significant IgA levels to EAG in the animals immunized with the three antigens and the EtxB adjuvant. By contrast, mice immunized with the three S. equi antigens in the absence of EtxB gave significantly lower IgA responses (Flock et al., 2004).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2127">
+		<vaccine_name>Streptococcus Equi Live Culture Vaccine (USDA: 1831.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001784</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3148">
+		<vaccine_name>Streptococcus equi vicK mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002798</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering662" gene_id="gene891">
+			<type>Gene mutation</type>
+			<description refs="reference1650">This vicK mutant is from Streptococcus equi (Liu et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response972" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1650">A vicK mutant is attenuated in mice (Liu et al., 2008).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1650">A vicK mutant induces protection in mice from challenge with wild type S. equi (Liu et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene627">
+        <gene_name>binding protein Eag</gene_name>
+        <strain>Streptococcus equi subsp. equi 4047</strain>
+        <vo_id>VO_0011211</vo_id>
+        <ncbi_gene_id>7696154</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>225870123</ncbi_protein_id>
+        <gene_locus_tag>SEQ_0721</gene_locus_tag>
+        <gene_refseq>FM204883</gene_refseq>
+        <protein_refseq>YP_002746070</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:144825</xrefs>
+        <taxonomy_id>553482</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>711797</gene_start>
+        <gene_end>713086</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Ig, alpha2-macroglobulin and albumin binding protein Eag</protein_name>
+        <protein_pi>4.57</protein_pi>
+        <protein_weight>41524.96</protein_weight>
+        <protein_length>429</protein_length>
+        <protein_note>B domain; pfam01378</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_012471.1:711797-713086 Streptococcus equi subsp. equi 4047, complete genome
+AATGGAAAAAAACAAAAAGGTATCCTACTTTTTACGTCAATCAGCTGTTGGTTTAGCTTCAGTGTCGGCA
+GCCTTTCTGGTTGGAACGACTTCAGTGGGTGCTTTAGACGCAGCAACAGTGTTAGAGCCTACAACAGCCT
+TCATTAGAGAAGCTGTTAGGGAAATCAATCAGCTGAGTGATGACTACGCTGACAATCAAGAGCTTCAGGC
+TGTTCTTGCTAATGCTGGAGTTGAGGCACTTGCTGCAGATACTGTTGATCAGGCTAAAGCAGCTCTTGAC
+AAAGCAAAGGCAGCTGTTGCTGGTGTTCAGCTTGATGAAGCAAGACGTGAGGCTTACAGAACAATCAATG
+CCTTAAGTGATCAGCACAAAAGCGATCAAAAGGTTCAGCTAGCTCTAGTTGCTGCAGCAGCTAAGGTGGC
+AGATGCTGCTTCAGTTGATCAAGTGAATGCAGCCATTAATGATGCTCATACAGCTATTGCGGACATTACA
+GGAGCAGCCTTGTTGGAGGCTAAAGAAGCTGCTATCAATGAACTAAAGCAGTATGGCATTAGTGATTACT
+ATGTGACCTTAATCAACAAAGCCAAAACTGTTGAAGGTGTCAATGCGCTTAAGGCAGAGATTTTATCAGC
+TCTACCGAGTTCTGAGGTCATTGACGCAGCAGAACTAACACCAGCCTTGACTAGCTATAAGCTTGTCATC
+AAGGGAGCAACTTTTTCAGGTGAAACAGCTACTAAGGCAGTAGACGCAGCTGTAGCTGAGCAGACCTTCA
+GAGACTATGCTAATAAAAATGGTGTAGACGGCGTTTGGGCTTATGATGCTGCCACAAAGACATTTACAGT
+CACTGAACAGCCTGTAGCTGAGACTATTGAGGCGGCAGAATTAACACCAGCTTTGACCACCTATAGGCTT
+GTTATTAAGGGGGTTACCTTCTCAGGTGAAACAGCTACCAAGGCAGTAGACGCAGCCACAGCCGAGCAGA
+CCTTCAGGCAATATGCCAATGACAATGGCGTTACTGGTGAATGGGCTTATGACGCTGCTACAAAGACATT
+TACAGTCACTGAGGCTTTAGAGGAGAGTCCAGCTGATCCAGAAAAGCCATCAGCTTCTCTTCCGTTGACA
+CCGCTTACACCAGCAACTAAGACAGCACCAGCTAAGCAAAAAGATAAGCAAAAGGCTAAGACTCTTCCAA
+CGACTGGTGAGAAGGCTAATCCATTCTTTACAGCAGCGGCTCTTGCCATTATGGCGAGTGCAGGTGCTTT
+AGCAGTGACTTCAAAGCGTCAGCAGGACTA
+
+</dna_sequence>
+        <protein_sequence>>YP_002746070.1 Ig, alpha2-macroglobulin and albumin binding protein Eag [Streptococcus equi subsp. equi 4047]
+MEKNKKVSYFLRQSAVGLASVSAAFLVGTTSVGALDAATVLEPTTAFIREAVREINQLSDDYADNQELQA
+VLANAGVEALAADTVDQAKAALDKAKAAVAGVQLDEARREAYRTINALSDQHKSDQKVQLALVAAAAKVA
+DAASVDQVNAAINDAHTAIADITGAALLEAKEAAINELKQYGISDYYVTLINKAKTVEGVNALKAEILSA
+LPSSEVIDAAELTPALTSYKLVIKGATFSGETATKAVDAAVAEQTFRDYANKNGVDGVWAYDAATKTFTV
+TEQPVAETIEAAELTPALTTYRLVIKGVTFSGETATKAVDAATAEQTFRQYANDNGVTGEWAYDAATKTF
+TVTEALEESPADPEKPSASLPLTPLTPATKTAPAKQKDKQKAKTLPTTGEKANPFFTAAALAIMASAGAL
+AVTSKRQQD
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Vaccination of mice with EAG (α2-macroglobulin, albumin, and immunoglobulin G [IgG] binding protein) as a single antigen with EtxB (as an adjuvant) induced protection in mice against bacterial challenge, but was less protective than at affording protection than immunization with FNZ, SFS, EAG, and EtxB [Ref1220:Flock et al., 2004].
+The antigens used were EAG (alpha2-macroglobulin, albumin, and IgG-binding protein), CNE (a collagen-binding protein), and SclC (a collagen-like protein). The vaccinated horses showed significantly reduced bacterial growth (p=0.02).[Ref4703:Waller et al., 2007]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene629">
+        <gene_name>collagen binding, ancillary pilus subunit Cne</gene_name>
+        <strain>Streptococcus equi subsp. equi 4047</strain>
+        <vo_id>VO_0011213</vo_id>
+        <ncbi_gene_id>7695900</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>225870316</ncbi_protein_id>
+        <gene_locus_tag>SEQ_0935</gene_locus_tag>
+        <gene_refseq>FM204883</gene_refseq>
+        <protein_refseq>YP_002746263</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:283410
+CDD:212461
+CDD:273478</xrefs>
+        <taxonomy_id>553482</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>914185</gene_start>
+        <gene_end>916158</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>collagen binding, ancillary pilus subunit Cne</protein_name>
+        <protein_pi>6.61</protein_pi>
+        <protein_weight>68135.68</protein_weight>
+        <protein_length>657</protein_length>
+        <protein_note>Collagen binding domain; pfam05737</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_012471.1:914185-916158 Streptococcus equi subsp. equi 4047, complete genome
+TTTGAAACAACTGACAAAGATCGTTAGTGTGGTCTTGTTGCTGGTCTTTACCCTTAGTGCTAGCCTGCAC
+AAGGTTCGGGCAACTAATCTTAGTGACAACATCACATCATTGACGGTTGCTTCTTCATCACTCCGAGATG
+GAGAGAGAACGACGGTAAAGGTTGCGTTTGATGACAAAAAACAGAAAATCAAGGCAGGGGATACGATAGA
+GGTCACCTGGCCTACAAGTGGTAATGTCTACATTCAGGGCTTTAATAAAACCATACCGCTTAATATTAGA
+GGGGTAGATGTTGGTACCTTGGAGGTCACGCTAGACAAGGCTGTTTTCACATTCAATCAAAATATTGAAA
+CAATGCATGATGTCTCTGGTTGGGGAGAGTTTGATATTACTGTTAGAAATGTGACACAAACCACCGCTGA
+AACATCAGGAACGACCACAGTAAAGGTAGGCAATCGCACTGCTACTATCACTGTTACTAAGCCTGAGGCA
+GGCACTGGTACCAGCTCATTTTATTATAAGACTGGTGATATGCAGCCCAATGATACTGAGCGTGTGAGAT
+GGTTCCTGCTGATTAACAACAACAAGGAATGGGTGGCCAATACTGTTACAGTCGAAGACGATATTCAAGG
+TGGTCAAACCTTGGATATGAGCAGCTTTGACATCACCGTATCTGGTTATCGTAACGAGCGCTTCGTTGGG
+GAAAACGCTCTGACAGAGTTTCATACAACATTTCCAAATTCTGTCATTACGGCAACAGATAATCACATTA
+GTGTGCGGTTAGATCAATATGATGCCTCACAAAACACTGTCAACATTGCTTATAAGACAAAGATAACGGA
+CTTTGACCAAAAAGAATTTGCCAACAACAGTAAAATCTGGTACCAGATTTTATACAAGGATCAGGTATCG
+GGTCAAGAGTCAAACCACCAAGTAGCCAATATCAATGCTAACGGCGGGGTTGATGGCAGTCGCTATACCA
+GCTTTACTGTCAAGAAAATTTGGAATGACAAGGAAAATCAAGACGGTAAGCGTCCAAAGACTATTACTGT
+TCAGCTTTACGCCAATGATCAGAAAGTTAATGATAAGACCATTGAATTGAGTGATACTAATAGCTGGCAA
+GCAAGTTTTGGTAAGCTGGATAAGTATGACAGTCAGAACCAAAAAATTACCTACAGTGTCAAGGAAGTGA
+TGGTTCCTGTTGGCTACCAATCGCAGGTTGAGGGGGATAGTGGAGTAGGATTTACCATTACCAACACCTA
+TACACCAGAGGTCATTAGCATTACCGGTCAAAAAACTTGGGACGACAGGGAAAACCAAGACGGTAAACGT
+CCTAAGGAGATTACGGTTCGTTTATTGGCAAATGACGCTGCAACTGACAAGGTAGCAACTGCTTCAGAGC
+AAACCGGCTGGAAGTATACATTTACCAATCTACCGAAATACAAAGATGGTAAACAGATCACCTACACGAT
+CCAAGAGGACCCTGTGGCAGATTACACCACAACCATTCAGGGATTTGATATTACCAATCATCATGAGGTA
+GCCTTGACCAGCCTAAAGGTCATCAAGGTTTGGAATGATAAGGACGATTATTACCATAAACGTCCCAAGG
+AGATTACCATTTTGCTAAAGGCAGATGGCAAGGTGATTCGTGAACATCAGATGACACCGGATCAGCAAGG
+AAAATGGGAATACACCTTTGACCAGCTGCCGGTCTATCAGACAGGCAAGAAAATCAGCTACAGCATTGAG
+GAAAAACAGGTTGCTGGCTATCAAGCCCCTGTCTATGAGGTTGATGAAGGCTTGAAGCAGGTCACTGTAA
+CCAACACCCTTAACCCAAGCTACAAGCTGCCTGACACCGGAGGACAAGGAGTGAAATGGTACCTGTTAAT
+CGGTGGCGGTTTTATCATCGTCGCAATCCTTGTACTGATCAGCCTTTATCAAAAACACAAGCGCCATAAC
+ATGTCAAAACCATA
+
+</dna_sequence>
+        <protein_sequence>>YP_002746263.1 collagen binding, ancillary pilus subunit Cne [Streptococcus equi subsp. equi 4047]
+MKQLTKIVSVVLLLVFTLSASLHKVRATNLSDNITSLTVASSSLRDGERTTVKVAFDDKKQKIKAGDTIE
+VTWPTSGNVYIQGFNKTIPLNIRGVDVGTLEVTLDKAVFTFNQNIETMHDVSGWGEFDITVRNVTQTTAE
+TSGTTTVKVGNRTATITVTKPEAGTGTSSFYYKTGDMQPNDTERVRWFLLINNNKEWVANTVTVEDDIQG
+GQTLDMSSFDITVSGYRNERFVGENALTEFHTTFPNSVITATDNHISVRLDQYDASQNTVNIAYKTKITD
+FDQKEFANNSKIWYQILYKDQVSGQESNHQVANINANGGVDGSRYTSFTVKKIWNDKENQDGKRPKTITV
+QLYANDQKVNDKTIELSDTNSWQASFGKLDKYDSQNQKITYSVKEVMVPVGYQSQVEGDSGVGFTITNTY
+TPEVISITGQKTWDDRENQDGKRPKEITVRLLANDAATDKVATASEQTGWKYTFTNLPKYKDGKQITYTI
+QEDPVADYTTTIQGFDITNHHEVALTSLKVIKVWNDKDDYYHKRPKEITILLKADGKVIREHQMTPDQQG
+KWEYTFDQLPVYQTGKKISYSIEEKQVAGYQAPVYEVDEGLKQVTVTNTLNPSYKLPDTGGQGVKWYLLI
+GGGFIIVAILVLISLYQKHKRHNMSKP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice were immunised i.n. with collagen-binding protein (CNE) and were subsequently subjected to infection with S. equi subsp. equi. A control group of mice was given only adjuvant. The CNE vaccinated group had a delayed onset of infection compared to the control group. Immunization with CNE led to significant protection from infection [Ref1217:Flock et al., 2006].
+The antigens used were EAG (alpha2-macroglobulin, albumin, and IgG-binding protein), CNE (a collagen-binding protein), and SclC (a collagen-like protein). The vaccinated horses showed significantly reduced bacterial growth (p=0.02).[Ref4703:Waller et al., 2007]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene630">
+        <gene_name>Fnz</gene_name>
+        <strain>Streptococcus equi subsp. zooepidemicus</strain>
+        <vo_id>VO_0011214</vo_id>
+        <ncbi_gene_id>7695217</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>754170878</ncbi_protein_id>
+        <gene_locus_tag>SZO_RS08670</gene_locus_tag>
+        <gene_refseq>FM204884</gene_refseq>
+        <protein_refseq>WP_041790586</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>40041</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1860617</gene_start>
+        <gene_end>1862326</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>thioester-forming surface-anchored protein</protein_name>
+        <protein_pi>4.75</protein_pi>
+        <protein_weight>58938.07</protein_weight>
+        <protein_length>569</protein_length>
+        <protein_note>Ortholog of S. equi 4047 (FM204883) SEQ0375</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_012470.1:1860617-1862326 Streptococcus equi subsp. zooepidemicus H70, complete genome
+TATGGAGAGAAGAGAGTTGAAAACAAAATCATTTAGAAAGGTACTGACGACGTCAGCTACCTGTATTGTG
+CTGGCAACAAGCTTTGCCGGAGGAACCCTACGCGTCTGGGCAGAGCAGCTTTATTATGGGTGGGATGATG
+GAACGAGACATGATTCACCCTCCTTTTTATATGTAACGCCTACTACTGAAAGTCAAAGAAGCCCCAAAAC
+TATTGTATACTGTTTTAATCGAAACAATTATTGGCCGGATAATTGGGAAACCCATGTCTTAAAACCAGAT
+AATCTACCTACTTATAATAAATTAACAGGAACTGCGAAGTTATTTCAAAATAAAGCTACCAAACCAAGAT
+CGGTAGCAGATATCGAGAAGTCCTTAGTTTCTGTCCTAAGTAAAGGGTATCCAACAAGTAATCTCTCTCA
+ATTTGGCATCAGTAATGAGTCAGCTAGAATAGTGACACAATTAGCCATTTGGTATTTTAGTGATAGTGTG
+AACGATCCTGAAAGCGTACTTAGACAAAGATTAGGGGGCAATGAATCTAAAGCATTAAAATACCTTATTG
+AGGTTGGTGAAAAACCACAATTGAGCGAAGCTGAGCAAAAGCAAACGTTAGATATATACGTTTACAACTC
+AGGAGGTTATCGTAGAACAGGTTACCAAAATCTTCTCGGCTCTACCTTAATTCCTAAAACACCAGAAAAG
+CCTTCTTCTGAATCTGTAACTCAGAGTAACCTTATTCTACTTGAACAGGAGAATCATTCTGGTACTATTT
+CAGGTGGTTCAGGAAATACTGAAACTGAGGAGAATACTCCTCATCTAATGGGGATAGGTGGCGGTCTAGC
+TGGTGAATCAGGAGAAAACACACCTAAACCAGGGGAAACTGGTGGGCACTCCCCTATAGTTGAAGAAAAC
+TACGGTAGTACTGAAGAATTTCATGGGAATTCAGAAATTATTAGTGAAACCGAAGATACTAATCCTGGTA
+TCATTTTAGGTGGCTCAGGAAATGTCGAAACACATGAAGATACTAGGAATCCTCATCTGATGGGGCTTGG
+CGGTGGTCTAGCTGGCGAATCAGGAGAAACGACACCTAAACCAGGACAGACTGGTGGTCATGGACCAATC
+ATCGAGACAACAGAGGACACACAAAAAGGCATGTCTGGGCAATCTGGCGGCACTATCGAGTCAGAAAACA
+CCAAAAAGCCTGAGGTCATGATTGGTGGGCAGGGACAAACCATCGAAACAACAGAGGACACACAAAAAGG
+CATGTCTGGGCAATCTGGCGGTACTATCGAGTCAGAAGACACTAAAAAACCTGAGGTCATGATTGGCGGT
+CAGGGACAAATCATCGACTTCTCTGAAAACACGCAATCAGGTATGTCTGGACAGTCTGGAGACACTACGG
+TCATTGAGGATACCAAGAAGTCTGAGATAATCATTGGTGGGCAAGGACAAATCATCGACTTCTCTGAGGA
+TACTCAGCCGGGTATGTCTGGGCAATCTGGAGGCACCACAATTGTCGAAGACACCAAGAAGCCGACACCT
+AAGCCTAAACCTGCACCTGCGCCAATTGTTAATGACGAAAAACCTAACAAAGGCACTCAGCTCCCACAGA
+CAAATGATATGAAGCAACTCACCCTAAGCATCATCGGTGCAATGTCAATGCTGCTTGTCCTATGTCTGTC
+TCTATTCAAGCGACCATCTAAAAAAGACTA
+
+</dna_sequence>
+        <protein_sequence>>WP_041790586.1 thioester-forming surface-anchored protein [Streptococcus equi]
+MERRELKTKSFRKVLTTSATCIVLATSFAGGTLRVWAEQLYYGWDDGTRHDSPSFLYVTPTTESQRSPKT
+IVYCFNRNNYWPDNWETHVLKPDNLPTYNKLTGTAKLFQNKATKPRSVADIEKSLVSVLSKGYPTSNLSQ
+FGISNESARIVTQLAIWYFSDSVNDPESVLRQRLGGNESKALKYLIEVGEKPQLSEAEQKQTLDIYVYNS
+GGYRRTGYQNLLGSTLIPKTPEKPSSESVTQSNLILLEQENHSGTISGGSGNTETEENTPHLMGIGGGLA
+GESGENTPKPGETGGHSPIVEENYGSTEEFHGNSEIISETEDTNPGIILGGSGNVETHEDTRNPHLMGLG
+GGLAGESGETTPKPGQTGGHGPIIETTEDTQKGMSGQSGGTIESENTKKPEVMIGGQGQTIETTEDTQKG
+MSGQSGGTIESEDTKKPEVMIGGQGQIIDFSENTQSGMSGQSGDTTVIEDTKKSEIIIGGQGQIIDFSED
+TQPGMSGQSGGTTIVEDTKKPTPKPKPAPAPIVNDEKPNKGTQLPQTNDMKQLTLSIIGAMSMLLVLCLS
+LFKRPSKKD
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Parts of the three recombinant proteins (FNZ (cell surface-bound fibronectin binding protein), SFS (secreted fibronectin binding protein), and EAG (alpha2-macroglobulin, albumin, and immunoglobulin G [IgG] binding protein)) were used to immunize mice, either subcutaneously or intranasally, prior to nasal challenge with S. equi subsp. equi. The adjuvant used was EtxB, a recombinant form of the B subunit of Escherichia coli heat-labile enterotoxin. It was shown that nasal colonization of S. equi subsp. equi and weight loss due to infection were significantly reduced after vaccination compared with a mock-vaccinated control group. This effect was more pronounced after intranasal vaccination than after subcutaneous vaccination; nearly complete eradication of nasal colonization was obtained after intranasal vaccination (P &gt; 0.001) [Ref1220:Flock et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1160">
+        <gene_name>IgA</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene631">
+        <gene_name>Sfs</gene_name>
+        <strain>Streptococcus equi subsp. equi 4047</strain>
+        <vo_id>VO_0011215</vo_id>
+        <ncbi_gene_id>7696331</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>225869898</ncbi_protein_id>
+        <gene_locus_tag>SEQ_0466</gene_locus_tag>
+        <gene_refseq>FM204883</gene_refseq>
+        <protein_refseq>YP_002745845</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>553482</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>452509</gene_start>
+        <gene_end>453624</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>fibronectin-binding protein Sfs</protein_name>
+        <protein_pi>8.97</protein_pi>
+        <protein_weight>39068.51</protein_weight>
+        <protein_length>371</protein_length>
+        <protein_note>Previously sequenced as Streptococcus equi fibronectin-binding protein Sfs UniProt:Q9X6F4 (EMBL:AF136451 (371 aa) fasta scores: E()=1.8e-153, 100.000% id in 371 aa</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_012471.1:452509-453624 Streptococcus equi subsp. equi 4047, complete genome
+TATGAGAAAAACAGAAGGACGTTTTCGCACATGGAAGTCCAAAAAACAATGGCTATTTGCCGGTGCAGTG
+GTGACCAGCTTGCTGCTGGGAGCTGCACTTGTCTTTGGAGGTTTATTAGGAAGTCTTGGTGGCTCATCCC
+ATCAAGCGAGGCCAAAGGAGCAGCCAGTCAGCTCGATTGGAGATGACGATAAGTCGCACAAGAGCTCATC
+AGATTCAATGGTCAGTCGGCCACCGAAAAAGGATAACTTGCAGCCTAAGCCTTCAGATCAGCCTACTAAT
+CATCAGCATCAGGCTACTAGCCCGTCCCAGCCGACAGCAAAGAGCTCAGGTCATCATGGGAATCAACCTC
+AGTCTCTCAGTGTGAACAGCCAAGGAAATAGTAGTGGACAGGCCTCAGAGCCTCAGGCTATTCCTAATCA
+AGGGCCTTCCCAGCCACTGGGGCTGAGAGGAGGTAACAGCTCTGGTTCAGGTCATCACCATCAGCCACAA
+GGAAAGCCACAGCACTTAGATCTAGGTAAGGATAATTCTAGCCCGCAGCCTCAACCAAAGCCTCAGGGCA
+ATAGTCCCAAGCTGCCAGAAAAAGGCTTGAATGGTGAAAATCAGAAGGAACCGGAGCAAGGTGAACGAGG
+TGAGGCTGGTCCCCCACTTTCAGGGTTGAGTGGTAATAATCAAGGCCGTCCTTCGCTTCCAGGCTTGAAT
+GGTGAGAATCAGAAGGAACCAGAGCAAGGTGAACGAGGTGAAGCCGGTCCCCCATCAACTCCGAATTTAG
+AAGGAAATAATCGTAAAAATCCTTTAAAAGGATTAGATGGAGAGAATAAGCCAAAGGAAGATTTAGACGG
+TAAAGGCTTAAGCGGAGAAAATGATGAATCACCAAAACTTAAAGACGAACACCCCTACAATCATGGTCGT
+CGTGATGGTTACCGAGTTGGCTATGAGGATGGATATGGTGGCAAAAAGCACAAAGGAGATTATCCTAAGC
+GGTTTGATGAGTCTAGTCCAAAGGAATATAATGACTATAGTCAAGGGTATAATGATAATTATGGAAATGG
+CTATTTAGATGGTCTAGCTGATAGAGGTGGTAAGAGAGGATACGGCTATTCTTACAATCCCGACTA
+
+</dna_sequence>
+        <protein_sequence>>YP_002745845.1 fibronectin-binding protein Sfs [Streptococcus equi subsp. equi 4047]
+MRKTEGRFRTWKSKKQWLFAGAVVTSLLLGAALVFGGLLGSLGGSSHQARPKEQPVSSIGDDDKSHKSSS
+DSMVSRPPKKDNLQPKPSDQPTNHQHQATSPSQPTAKSSGHHGNQPQSLSVNSQGNSSGQASEPQAIPNQ
+GPSQPLGLRGGNSSGSGHHHQPQGKPQHLDLGKDNSSPQPQPKPQGNSPKLPEKGLNGENQKEPEQGERG
+EAGPPLSGLSGNNQGRPSLPGLNGENQKEPEQGERGEAGPPSTPNLEGNNRKNPLKGLDGENKPKEDLDG
+KGLSGENDESPKLKDEHPYNHGRRDGYRVGYEDGYGGKKHKGDYPKRFDESSPKEYNDYSQGYNDNYGNG
+YLDGLADRGGKRGYGYSYNPD
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Parts of the three recombinant proteins (FNZ (cell surface-bound fibronectin binding protein), SFS (secreted fibronectin binding protein), and EAG (alpha2-macroglobulin, albumin, and immunoglobulin G [IgG] binding protein)) were used to immunize mice, either subcutaneously or intranasally, prior to nasal challenge with S. equi subsp. equi. The adjuvant used was EtxB, a recombinant form of the B subunit of Escherichia coli heat-labile enterotoxin. It was shown that nasal colonization of S. equi subsp. equi and weight loss due to infection were significantly reduced after vaccination compared with a mock-vaccinated control group. This effect was more pronounced after intranasal vaccination than after subcutaneous vaccination; nearly complete eradication of nasal colonization was obtained after intranasal vaccination (P &gt; 0.001) [Ref1220:Flock et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene891">
+        <gene_name>vicK</gene_name>
+        <strain>Streptococcus equi subsp. zooepidemicus MGCS10565</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>6760966</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>195978500</ncbi_protein_id>
+        <gene_locus_tag>Sez_1395</gene_locus_tag>
+        <gene_refseq>CP001129</gene_refseq>
+        <protein_refseq>YP_002123744</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>552526</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1433586</gene_start>
+        <gene_end>1434938</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>TCS sensor kinase VicK</protein_name>
+        <protein_pi>5.4</protein_pi>
+        <protein_weight>49245.51</protein_weight>
+        <protein_length>450</protein_length>
+        <protein_note>similar to ref|YP_600051.1| Two-component sensor histidine kinase VicK [Streptococcus pyogenes MGAS2096]</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|195977156:1433586-1434938 Streptococcus equi subsp. zooepidemicus MGCS10565, complete genome
+ATTAATCAATATCATCCTCCCATTCATCATAGATAGCAGCATCCTTTTCATAAGGTAACACAATGGTAAA
+GGTTGAGCCCTTGCCATAATCACTCTTAGCCCAAATAAAGCCTCGGTGCTGCTTAATAATTTCTTTAGCA
+ATCGCTAGGCCTAGCCCGGTCCCTCCTTGAGCTCTACTCCTAGCCTTATCCACTCGGTAAAAACGGTCAA
+AAATCAAAGGCAGGTCCTTTTTTGGAATACCCAAGCCCTCATCAGAAATCGAAATGATTAGCTGGGTATC
+TGTTGTTTTCATGTTGACGACAATTTTTCCGCCATCGGGTGAATATTTGATCGCATTGTTTAAAATATTT
+TCGATAACCTGCGTCATTTTGTCATCGTCAATTTCTAGCCAAATAGAGGTAATGGGGTAATCTCTGACAA
+TTTCATAGGATTTTCCTGTGCTTGTGTGCTGATTTTTCACCAAATCAAAGCGGTTTAAGATAGAGGTCAT
+AAAGGCTGTAAAGTTGGTCATTTCAACAGACAGCTGTGTCACATGATTATCAATTCTTGAGAGGTTGAGC
+AAATCTGAAATCATGCGCATCATGCGATTGGTTTCATCTAGTGAGACCTTTATAAAGCTTGGAGCGATGT
+CCTCCTTTAGCGCGCCCTCATCTAGAGCCTCTAGGTATGACTTGACAGAGGTCAAAGGTGTCCGCAGCTC
+ATGGCTAACATTTGAAACAAAGAGTCTGCGCTCGCGCTCTTCCTTTTCCTGCTCAGTCGTGTCATGAAGT
+ACAACAACCAGACCTGAAATAAAGCCGCTCTCTCGCCTATTAAGCGCAAAGCGCAGCCGCAGGGAAACAA
+ATTCTCCTGTATCATTACGACGGTTTAAGGTCACAATCGGTGTTTTTGAGACCAGCTCTCGGTAGGTATA
+AGGGGAGTCACTGTCTAATAAATCTGTAATGTTTTTTTCCAAGGCCTGCTCGCGATTTAAATTGAGCTGC
+TTTTGAGCAGTCTCATTAATCATGATAATCTTGCCGGAACGATTGGTCGCAAGGACCCCATCTGTCATAT
+AAGCCAAAATACTAGCAAGACGATTTTTTTCTTGAGCAAGGTTTTCATGAGTCAGACGAAAAACATCTGA
+TAGGTCATTGAGCTGCTCAGACAGCTCCATCAATTCAATATCAGCCTTTTCATTGATCGTATCAGTATAG
+CGACCATTGATCAAATCTCTTATCTTGTGGCTCATCAGACGAATGATCCGAGCATTGCGATAATCACGAA
+TGGCTAAATGAATGAAATAAAAAGCAACAAAAACAAGCAATAAGAGTATGGCTAGCTCAAATGCAGAAAG
+GTTTCCAATGATGTCCTTAGTCA</dna_sequence>
+        <protein_sequence>>gi|195978500|ref|YP_002123744.1| TCS sensor kinase VicK [Streptococcus equi subsp. zooepidemicus MGCS10565]
+MTKDIIGNLSAFELAILLLLVFVAFYFIHLAIRDYRNARIIRLMSHKIRDLINGRYTDTINEKADIELME
+LSEQLNDLSDVFRLTHENLAQEKNRLASILAYMTDGVLATNRSGKIIMINETAQKQLNLNREQALEKNIT
+DLLDSDSPYTYRELVSKTPIVTLNRRNDTGEFVSLRLRFALNRRESGFISGLVVVLHDTTEQEKEERERR
+LFVSNVSHELRTPLTSVKSYLEALDEGALKEDIAPSFIKVSLDETNRMMRMISDLLNLSRIDNHVTQLSV
+EMTNFTAFMTSILNRFDLVKNQHTSTGKSYEIVRDYPITSIWLEIDDDKMTQVIENILNNAIKYSPDGGK
+IVVNMKTTDTQLIISISDEGLGIPKKDLPLIFDRFYRVDKARSRAQGGTGLGLAIAKEIIKQHRGFIWAK
+SDYGKGSTFTIVLPYEKDAAIYDEWEDDID</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A vicK mutant is attenuated in mice and induced protection from challenge with wild type S. equi [Ref1650:Liu et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1563">
+		<reference_name>Chanter et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chanter N, Ward CL, Talbot NC, Flanagan JA, Binns M, Houghton SB, Smith KC, Mumford JA</authors>
+		<title>Recombinant hyaluronate associated protein as a protective immunogen against Streptococcus equi and Streptococcus zooepidemicus challenge in mice</title>
+		<year>1999</year>
+		<volume>27</volume>
+		<issue>3</issue>
+		<pages>133-143</pages>
+		<journal_book_name>Microbial pathogenesis</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1220">
+		<reference_name>Flock et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Flock M, Jacobsson K, Frykberg L, Hirst TR, Franklin A, Guss B, Flock JI</authors>
+		<title>Recombinant Streptococcus equi proteins protect mice in challenge experiments and induce immune response in horses</title>
+		<year>2004</year>
+		<volume>72</volume>
+		<issue>6</issue>
+		<pages>3228-3236</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4794">
+		<reference_name>Flock et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Flock M, Jacobsson K, Frykberg L, Hirst TR, Franklin A, Guss B, Flock JI</authors>
+		<title>Recombinant Streptococcus equi proteins protect mice in challenge experiments and induce immune response in horses</title>
+		<year>2004</year>
+		<volume>72</volume>
+		<issue>6</issue>
+		<pages>3228-3236</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1217">
+		<reference_name>Flock et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Flock M, Karlström A, Lannergård J, Guss B, Flock JI</authors>
+		<title>Protective effect of vaccination with recombinant proteins from Streptococcus equi subspecies equi in a strangles model in the mouse</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>19</issue>
+		<pages>4144-4151</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4756">
+		<reference_name>Fu et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fu Q, Wei Z, Liu X, Xiao P, Lu Z, Chen Y</authors>
+		<title>Glyceraldehyde-3-phosphate dehydrogenase, an immunogenic Streptococcus equi ssp. zooepidemicus adhesion protein and protective antigen</title>
+		<year>2013</year>
+		<volume>23</volume>
+		<issue>4</issue>
+		<pages>579-585</pages>
+		<journal_book_name>Journal of microbiology and biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4947">
+		<reference_name>Fu et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fu Q, Wei Z, Chen Y, Xiao P, Lu Z, Liu X</authors>
+		<title>Identification of a surface protective antigen, CSP of Streptococcus equi ssp. zooepidemicus</title>
+		<year>2013</year>
+		<volume>31</volume>
+		<issue>10</issue>
+		<pages>1400-1405</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference835">
+		<reference_name>Jacobs et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jacobs AA, Goovaerts D, Nuijten PJ, Theelen RP, Hartford OM, Foster TJ</authors>
+		<title>Investigations towards an efficacious and safe strangles vaccine: submucosal vaccination with a live attenuated Streptococcus equi</title>
+		<year>2000</year>
+		<volume>147</volume>
+		<issue>20</issue>
+		<pages>563-567</pages>
+		<journal_book_name>The Veterinary record</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4869">
+		<reference_name>Lin et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lin HX, Huang DY, Wang Y, Lu CP, Fan HJ</authors>
+		<title>A novel vaccine against Streptococcus equi ssp. zooepidemicus infections: the recombinant swinepox virus expressing M-like protein</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>40</issue>
+		<pages>7027-7034</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1650">
+		<reference_name>Liu et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liu M, McClure MJ, Zhu H, Xie G, Lei B</authors>
+		<title>The Two-Component Regulatory System VicRK is Important to Virulence of Streptococcus equi Subspecies equi</title>
+		<year>2008</year>
+		<volume>2</volume>
+		<issue></issue>
+		<pages>89-93</pages>
+		<journal_book_name>The open microbiology journal</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1221">
+		<reference_name>Meehan et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Meehan M, Nowlan P, Owen P</authors>
+		<title>Affinity purification and characterization of a fibrinogen-binding protein complex which protects mice against lethal challenge with Streptococcus equi subsp. equi</title>
+		<year>1998</year>
+		<volume>144 ( Pt 4)</volume>
+		<issue></issue>
+		<pages>993-991003</pages>
+		<journal_book_name>Microbiology (Reading, England)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1539">
+		<reference_name>MicrobeWiki: S. zooepidemicus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>MicrobeWiki: S. zooepidemicus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://microbewiki.kenyon.edu/index.php/Streptococcus_zooepidemicus</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4740">
+		<reference_name>Nally et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nally JE, Artiushin S, Sheoran AS, Burns PJ, Simon B, Gilley RM, Gibson J, Sullivan S, Timoney JF</authors>
+		<title>Induction of mucosal and systemic antibody specific for SeMF3 of Streptococcus equi by intranasal vaccination using a sucrose acetate isobutyrate based delivery system</title>
+		<year>2000</year>
+		<volume>19</volume>
+		<issue>4-5</issue>
+		<pages>492-497</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1462">
+		<reference_name>Timoney, 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Timoney JF</authors>
+		<title>The pathogenic equine streptococci</title>
+		<year>2004</year>
+		<volume>35</volume>
+		<issue>4</issue>
+		<pages>397-409</pages>
+		<journal_book_name>Veterinary research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4878">
+		<reference_name>Velineni and Timoney, 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Velineni S, Timoney JF</authors>
+		<title>Characterization and protective immunogenicity of the SzM protein of Streptococcus zooepidemicus NC78 from a clonal outbreak of equine respiratory disease</title>
+		<year>2013</year>
+		<volume>20</volume>
+		<issue>8</issue>
+		<pages>1181-1188</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4703">
+		<reference_name>Waller et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Waller A, Flock M, Smith K, Robinson C, Mitchell Z, Karlstr�m A, Lannerg�rd J, Bergman R, Guss B, Flock JI</authors>
+		<title>Vaccination of horses against strangles using recombinant antigens from Streptococcus equi</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>18</issue>
+		<pages>3629-3635</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4920">
+		<reference_name>Wei et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wei Z, Fu Q, Liu X, Xiao P, Lu Z, Chen Y</authors>
+		<title>Identification of Streptococcus equi ssp. zooepidemicus surface associated proteins by enzymatic shaving</title>
+		<year>2012</year>
+		<volume>159</volume>
+		<issue>3-4</issue>
+		<pages>519-525</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4873">
+		<reference_name>Wei et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wei Z, Fu Q, Chen Y, Li M, Cong P, Mo D, Liu X</authors>
+		<title>Streptococcus equi ssp. zooepidemicus C5a peptidase, a putative invasin, induces protective immune response in mice</title>
+		<year>2013</year>
+		<volume>95</volume>
+		<issue>2</issue>
+		<pages>444-450</pages>
+		<journal_book_name>Research in veterinary science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1449">
+		<reference_name>Wiki:  Strangles</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Strangles</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Streptococcus_equi</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

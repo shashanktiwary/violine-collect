@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen90">
+		<pathogen_name>Theileria annulata</pathogen_name>
+		<taxon_id>5874</taxon_id>
+		<pathogenesis refs="reference1460">Three stages in the life cycle of the parasite--tick-derived sporozoites, intramononuclear schizonts, and erythrocytic merozoites--infect cattle. When cattle are inoculated with schizont-infected cells, the parasite is transferred from the donor cell to the recipient. The main pathological damage in cattle is induced by the schizont stage. Each development stage of T. annulata elicits a specific immune response. Schizont-infected lymphoid cells can be grown indefinitely in culture and prolonged cultivation results in loss of virulence. Blood-derived schizonts induce stronger immunity than culture-derived schizonts, which suggests that restrictions on the parasite population or antigenic variation occur during prolonged cultivation. The duration of immunity following sporozoite or schizont infections has not yet been determined, but does not appear to be lifelong (Pipano and Shkap, 2000).</pathogenesis>
+		<disease_name>Theileriosis</disease_name>
+		<protective_immunity refs="reference1460">Each of the three developmental stages of T. annulata that are infective for cattle (sporozoites, schizonts, and erythrocytic merozoites) induces a specific immune response that may result in partial or no protection against infection with the heterologous stages (Pipano and Shkap, 2000).</protective_immunity>
+		<host_range refs="reference1460">Tropical theileriosis is maintained in nature by a cattle-tick-cattle cycle, both taurine (Bos taurus) and zebu (Bos indicus) cattle being susceptible to the disease. The yak (Bos grunniens) is also highly susceptible and suffers severe clinical symptoms and mortality following infection with T. annulata.  The water buffalo (Bubalus bubalis) does not usually exhibit clinical manifestation on infection, but may act as a reservoir for the infection of ticks (Pipano and Shkap, 2000).</host_range>
+		<introduction refs="reference1459">Tropical theileriosis or Mediterranean theileriosis is a theileriosis of cattle from the Mediterranean and Middle East area, from Morocco to Western parts of India and China. It is a tick-borne disease, caused by Theileria annulata. The vector ticks are of the genus Hyalomma. The most prominent symptoms are fever and lymph node enlargement. But there is a wide range of clinical manifestations, especially in enzootic areas. Among them, the Doukkala area of Morocco, where the epidemiology and symptomatology of the disease were minutely studied (Wiki: T. annulata).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine873">
+		<vaccine_name>T. annulata Subunit SPAG-1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011517</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1199">RWL, a proprietary saponin-based adjuvant supplied by SmithKline Beecham (Boulter et al., 1998).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering345" gene_id="gene602">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response632" host_id="host12">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1199">Three immunizations were given at 28 day intervals. The vaccination trials took place at two sites, the Centre for Tropical Veterinary Medicine (CTVM) in Edinburgh and Utrecht University, the Netherlands. The four CTVM groups (groups I, II, III and IV) were immunized with His6-SPAG-1 in RWL, NS1-p67 in RWL, His6-SPAG-1 incorporated into ISCOMs and PBS-RWL control, respectively, at the doses indicated. RWL is a proprietary saponin-based adjuvant supplied by SmithKline Beecham. The NS1-p67 has been previously described 8 and was supplied by collaborators at ILRI, Nairobi, Kenya. The four groups of cattle at Utrecht University (groups V, VI, VII and VIII) were immunized with His6-SPAG-1, His6-TAMS 1-1/1-2, His6-SPAG-1 plus TAMS 1-1/1-2, all incorporated into ISCOMs and an ISCOM control, at the doses indicated (Boulter et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1199">All the data collected from these two trials indicate that SPAG-1 administered with RWL is better at inducing an effective immune response than SPAG-1 incorporated into ISCOMs, with or without the presence of merozoite antigens. The SPAG-1 RWL group appeared to be the best protected to challenge. The prepatent period in this group, i.e. the time to when the first macroschizont is seen in lymph node smears, is significantly increased compared to controls, as is the incubation period. Furthermore, 3 of the animals in this group survived challenge (Boulter et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Fourteen days after the third immunization all the calves were challenged with an ∼LD50 (0.2 tick equivalents) of the same T. annulata Hissar sporozoite stabilate.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1055">
+		<vaccine_name>T. annulata Tams1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004181</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1200">Immunostimulating complexes (ISCOMs) (d'Oliveira et al., 1997).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering543" gene_id="gene603">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response812" host_id="host12">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1200">Calves were immunized via intramuscular injection with 1 ml ISCOM vaccine given intramuscularly, containing 20 μg re-(Tamsl-l or Tams1 -2) (d'Oliveira et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1200">All calves vaccinated with ISCOMs proved to be protected from T. annulata infection and had generated antibodies against both re-(Tams1-1 and Tams1-2) at the time of challenge (d'Oliveira et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1200">Calves were challenged with T. annulata Ankara strain (d'Oliveira et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine428">
+		<vaccine_name>Theileria annulata vaccine by Local veterinary institutes</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Local veterinary institutes</manufacturer>
+		<vo_id>VO_0011476</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>NA</route>
+		<location_licensed></location_licensed>
+		<description refs="reference846">Culture-derived schizonts(Shkap and Pipano, 2000). Host speices also include Theileria hirci.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">NA</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene602">
+        <gene_name>spag-1</gene_name>
+        <strain>Theileria annulata</strain>
+        <vo_id>VO_0011187</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>161885</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:253298</xrefs>
+        <taxonomy_id>5874</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>sporozoite surface antigen</protein_name>
+        <protein_pi>4.77</protein_pi>
+        <protein_weight>83569.63</protein_weight>
+        <protein_length>981</protein_length>
+        <protein_note>Sporozoite P67 surface antigen; pfam05642</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAA30134.1 sporozoite surface antigen [Theileria annulata]
+MNIIHFLLTIPAIFVSGADKMPAGESSRTSKPSPLVTLESAVTQPSKDPFKTISALSKATKVWKSAVSVS
+GDSKTVPTPVSEPMITRSFQEPVSQELEFQSDTEINESGSGSDEDEDDDDDEEEEEDDKSTSSKNGKGSP
+KAQPGVSSSSTSSASPTSPTTTLSQTGLGPSGSHAQQDPGVGVPGVGVPGVGVPGVGVPGVGVPGVGVPG
+VGGVPGVGVAPGVGVPGVGVAPGVGVGADSSGLPGSGGLGAGAKAGKGQGSGLQGPGGVGVVPGVGVAAS
+SSSPGKPPGVGAGVMPGVGVRAQGGVIIGAPGVAGVPGGKPGQPVSQELELKSDTEINESGSSSEGEDDD
+DEEEEEENKSTSSKGAGGKAGKGQGSVSPGGGSSASQTSPTTTPQSGLASSGSHAQQSPQQDPAPSKPSG
+GGVPGVGVPGVGVPGVGVPGVGVAPGVGVVPGVGGATTSSSSTTSTSTSTTTTTTTSSGKPSDQGSHGTS
+PRNAVTRQTDSISGPIPSPGDPRAITGQMGEGERFAVQFLGDFKPKPRRYEGQGTDAVKLKQFIFEEVKS
+LVQTLINLKLAIANDFVEISEKLKKKNQNYVPKLKLLKGEQFDTKQKVANVLKGFNSLYFVFFMNLNLAK
+EVNKPEELAEFLWKLNTIPDKVGREFELAIEKTKGSEKKKELEEAFNSIGLGFKIAQYATNDILSSITNS
+VYSLIKLKNFGDDFVTEVRKSLQMVPHQKNLNGSAFIVKISEIINKKGTEDQDQTSGSGSKGTEGGSLRG
+QDLTEEEVLKVLDELVKDVSEEHVGIGDLSDPSSRTPNAKPAELGPSLVIQNVPSDPSKVTPTQPSNLPQ
+VPTTGPGNGTDGTTTGPGGNGEGGKDLKEGEKKEGLFQKIKNKLLGSGFEVASIIIPMTTIIFSIVH
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The trial vaccination of cattle against T. annulata using recombinant sporozoite antigens (SPAG-1 and p67) and/or merozoite antigens (TAMS 1-1 and 1-2). The aim of these trials was to try and enhance the levels of protection induced compared with previous trials. Different approaches were tried. SPAG-1 was expressed as a fusion protein with a His6 tag and then either incorporated into ISCOMs, with or without TAMS 1-1 and 1-2, or administered with RWL, a proprietary saponin-based adjuvant. Cross-protection studies were also performed by immunizing cattle with the T. parva sporozoite antigen, p67, and then challenging with a T. annulata sporozoite stabilate.All the data collected from these two trials indicate that SPAG-1 administered with RWL is better at inducing an effective immune response than SPAG-1 incorporated into ISCOMs, with or without the presence of merozoite antigens [Ref1199:Boulter et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene603">
+        <gene_name>TA17050 merozoite-piroplasm surface antigen Tams1</gene_name>
+        <strain>Theileria annulata</strain>
+        <vo_id>VO_0011188</vo_id>
+        <ncbi_gene_id>3864438</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>84997996</ncbi_protein_id>
+        <gene_locus_tag>TA17050</gene_locus_tag>
+        <gene_refseq>AF214915</gene_refseq>
+        <protein_refseq>XP_953719</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5874</taxonomy_id>
+        <chromosome>1</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>371414</gene_start>
+        <gene_end>372259</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>9.46</protein_pi>
+        <protein_weight>29651.5</protein_weight>
+        <protein_length>281</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NW_001091929.1:371414-372259 Theileria annulata strain Ankara isolate clone C9 chromosome 1, *** SEQUENCING IN PROGRESS ***
+TTTAAAGGAAGTAAAGGACTGATGAGAAGACGATGAGTACTGAGGCGAAGACTGCAAGGGGGGAGAACTT
+GTCGACAACTGGTTTGTAATCGGTTGACCAGGATGAGTTCATGGCATTCAAGGCCTTGTTTGCATCTGCC
+TGTGTCATTTGAACCCACTTATCGTCCTTAAGCTCGAAGTAGGTCTCCTTCAACCTTGAGTCACCGGTAT
+AGAAGTAGTAGAGTTTGACGAACTTCTTGGAATCAGAACCAACAAAAACAACAACTTCAAGATACTTGGC
+ATTGTTTGGTTTTCCGACTTCTTTCTTGTCGAAGGTGACTTTGGAAGGTTTAAATTCCTTTTTAAAGGTG
+TACATCTTTCCAGTGCCGAAGGCGGAGGAGGTGAACAAAGATGTATCTTCGAACTTGGAAGCATCTAGTT
+CCTTGGCGGATTTTCCCTTGAACAAGACATCATCGTAGTAGGTCTCGAATTTGACCTCAGAATATTCCTT
+GTCTCCCTTCTTCTTGAACATCTTTGGCTGGGCAGGGTGAAGATTAAGTCTGAACCACTCATCGGATTCA
+TGCTTAAGTTTGAATGCCTGTACTGGGGTATGTTTTGAGGTGTCAACATTGAACAAGGTCTTGTCTCCGA
+CCTTAAGGGTCTTGAAACGGTAGCCATCCGCGACAGTTAACTCAGTGGTGTTAGAGTCGACGTTTTTAAA
+GGTTACATTCTCACATGAAGTGAGAGTAACATCAAGAACAACATCTTTTTTTTCCTCCTTTTTCTTTTCA
+TCCTCATTTGCAGCATTAACGGATGAGATAACGAAGAAGCTCAAATATAAGAACTTGAGGGTGGTCCTGG
+ACAACA
+
+</dna_sequence>
+        <protein_sequence>>XP_953719.1 merozoite-piroplasm surface antigen Tams1 [Theileria annulata]
+MLSRTTLKFLYLSFFVISSVNAANEDEKKKEEKKDVVLDVTLTSCENVTFKNVDSNTTELTVADGYRFKT
+LKVGDKTLFNVDTSKHTPVQAFKLKHESDEWFRLNLHPAQPKMFKKKGDKEYSEVKFETYYDDVLFKGKS
+AKELDASKFEDTSLFTSSAFGTGKMYTFKKEFKPSKVTFDKKEVGKPNNAKYLEVVVFVGSDSKKFVKLY
+YFYTGDSRLKETYFELKDDKWVQMTQADANKALNAMNSSWSTDYKPVVDKFSPLAVFASVLIVFSSVLYF
+L
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>To test the potential of subunit vaccines against T. annulata infection, we immunized four groups of three calves with either recombinant (re-) (Tams1-1 and Tams1-2) proteins or naked DNA encoding these antigens. All calves vaccinated with ISCOMs proved to be protected from T. annulata infection and had generated antibodies against both re-(Tams1-1 and Tams1-2) at the time of challenge [Ref1200:d'Oliveira et al., 1997].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1199">
+		<reference_name>Boulter et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Boulter NR, Brown CG, Kirvar E, Glass E, Campbell J, Morzaria S, Nene V, Musoke A, D'Oliveira C, Gubbels MJ, Jongejan F, Hall FR</authors>
+		<title>Different vaccine strategies used to protect against Theileria annulata</title>
+		<year>1998</year>
+		<volume>849</volume>
+		<issue></issue>
+		<pages>234-246</pages>
+		<journal_book_name>Annals of the New York Academy of Sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1200">
+		<reference_name>d'Oliveira et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>d'Oliveira C, Feenstra A, Vos H, Osterhaus AD, Shiels BR, Cornelissen AW, Jongejan F</authors>
+		<title>Induction of protective immunity to Theileria annulata using two major merozoite surface antigens presented by different delivery systems</title>
+		<year>1997</year>
+		<volume>15</volume>
+		<issue>16</issue>
+		<pages>1796-1804</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1460">
+		<reference_name>Pipano and Shkap, 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pipano E, Shkap V</authors>
+		<title>Vaccination against tropical theileriosis</title>
+		<year>2000</year>
+		<volume>916</volume>
+		<issue></issue>
+		<pages>484-500</pages>
+		<journal_book_name>Annals of the New York Academy of Sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5069">
+		<reference_name>Schnittger et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schnittger L, Katzer F, Biermann R, Shayan P, Boguslawski K, McKellar S, Beyer D, Shiels BR, Ahmed JS</authors>
+		<title>Characterization of a polymorphic Theileria annulata surface protein (TaSP) closely related to PIM of Theileria parva: implications for use in diagnostic tests and subunit vaccines</title>
+		<year>2002</year>
+		<volume>120</volume>
+		<issue>2</issue>
+		<pages>247-256</pages>
+		<journal_book_name>Molecular and biochemical parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference846">
+		<reference_name>Shkap and Pipano, 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shkap V, Pipano E</authors>
+		<title>Culture-derived parasites in vaccination of cattle against tick-borne diseases</title>
+		<year>2000</year>
+		<volume>916</volume>
+		<issue></issue>
+		<pages>154-171</pages>
+		<journal_book_name>Annals of the New York Academy of Sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1459">
+		<reference_name>Wiki: T. annulata</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: T. annulata</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Theileria_annulata</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

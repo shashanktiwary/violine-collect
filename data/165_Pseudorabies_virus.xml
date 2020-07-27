@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen65">
+		<pathogen_name>Pseudorabies virus</pathogen_name>
+		<taxon_id>10345</taxon_id>
+		<pathogenesis refs="reference1464">After natural infection, the primary site of viral replication is nasal, pharyngeal, or tonsillar epithelium. The virus spreads via the lymphatics to regional lymph nodes, where replication continues. Virus also spreads via nervous tissue to the brain, where it replicates, preferentially in neurons of the pons and medulla. In addition, virus has been isolated from alveolar macrophages, bronchial epithelium, spleen, lymph nodes, trophoblasts, embryos, and luteal cells (Merck Vet Manual: Pseudorabies).</pathogenesis>
+		<disease_name>Aujeszky's disease</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1464">Although the pig is the only natural host, the virus can infect cattle, sheep, cats, dogs, and goats as well as wildlife, including raccoons, opossums, skunks, and rodents. Experimental studies in nonhuman primates indicate that rhesus monkeys and marmosets are susceptible but chimpanzees are not. Reports of human infection are limited and are based on seroconversion rather than virus isolation. Infections in horses are rare (Merck Vet Manual: Pseudorabies).</host_range>
+		<introduction refs="reference1446">Pseudorabies is a viral disease in swine that is endemic in most parts of the world. It is caused by porcine herpesvirus 1, which is also called pseudorabies virus (PRV) or suid herpesvirus-1 (SHV-1) and is also known as Aujeszky's disease, and in cattle as mad itch. PRV is considered to be the most economically important viral disease of swine in areas where hog cholera has been eradicated. Other domestic and wild mammals, such a cattle, sheep, dogs, raccoons are also susceptible. The disease is usually fatal in these hosts. The virus is shed in the saliva and nasal secretions of infected swine and is spread through oral or nasal contact. Aerosolization of the virus and transmission by fomites also may occur. The virus may potentially survive for seven hours in humid air and spread up to two kilometers. Furthermore, it may survive on well water for up to seven hours, in green grass, soil, and feces for up to two days, in contaminated feed for up to three days, and in straw bedding for up to four days (Wiki: Pseudorabies).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4270">
+		<vaccine_name>NYVAC-PRV- gII/ gp50</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004778</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1255">(Brockmeier and Mengeling, 1996) A NYVAC vaccinia vector containing genes for PRV  gII and gp50 .</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1671" gene_id="gene665">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1255">A NYVAC vaccinia vector containing genes for pseudorables virus glycoproteins gII and gp50 (Brockmeier and Mengeling, 1996).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1672" gene_id="gene1039">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1255">A NYVAC vaccinia vector containing genes for pseudorables virus glycoproteins gII and gp50 (Brockmeier and Mengeling, 1996).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1783" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1255">The pigs were vaccinated via intramuscular injection in the thigh with 10^7 CCID50 of NYVAC/gp50 or NYVAC/gpII,gp50, 4 weeks apart (Brockmeier and Mengeling, 1996).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1255">Both NYVAC vectors protected pigs similarly from virulent pseudorabies virus challenge (Brockmeier and Mengeling, 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1255">Vaccinated pigs were challenged with 10^8 PFU of Indiana-Funkhauser strain of PRV oronasally, 4 weeks after the second vaccination (Brockmeier and Mengeling, 1996).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine820">
+		<vaccine_name>Pseduorabies Subunit Glycoprotein C Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004155</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">ISA-70 oil adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering286" gene_id="gene655">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1253">Psuedorabies glycoprotein C was purified from pseudorabies infected cell lysates (Katayama et al., 1997).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response579" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1253">Pigs of each group were immunized intramuscularly with one ml of the different trial vaccines at two week intervals. Control pigs were vaccinated with unifected cell lysate antigens (Katayama et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1253">Immunized pigs had a high (87.5%) rate of survival against lethal PRV challenge (Katayama et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1253">One week after immunization pigs were challenged intranasally with 10^6 TCID50 of PRV Yamagata S-81 strain (Katayama et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2107">
+		<vaccine_name>Pseudorabies Modified Live Virus Vaccine (USDA: 1891.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001806</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2108">
+		<vaccine_name>Pseudorabies Modified Live Virus Vaccine (USDA: 1891.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001807</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2109">
+		<vaccine_name>Pseudorabies Modified Live Virus Vaccine (USDA: 1891.R2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001808</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2110">
+		<vaccine_name>Pseudorabies Modified Live Virus Vaccine (USDA: 1891.R4)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001809</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine827">
+		<vaccine_name>Pseudorabies recombinant vector vaccine encoding gp50 and gII protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004156</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector>NYVAC vaccinia vector [Ref1255:Brockmeier and Mengeling, 1996].</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering293" gene_id="gene664">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering294" gene_id="gene665">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response586" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1255">4-6 wk old male pigs from a PRV negative herd were vaccinated intramuscularly with two injections in the thigh of 10^7 CCID50 of NYVAC/gp50gpII 4 weeks apart. The control group was not vaccinated (Brockmeier and Mengeling, 1996).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1255">Vaccinated pigs were protected from PRV challenge (Brockmeier and Mengeling, 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1255">Challenge consisted of administering 10^8 PFU of Indiana-Funkhauser strain of PRV oranasally, 4 weeks after the 2nd immunization (Brockmeier and Mengeling, 1996).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine826">
+		<vaccine_name>Pseudorabies recombinant vector vaccine encoding gp50 protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004003</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>NYVAC vaccinia vector [Ref1255:Brockmeier and Mengeling, 1996].</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering292" gene_id="gene664">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response585" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1255">4-6 wk old male pigs from a PRV negative herd were vaccinated intramuscularly with two injections in the thigh of 10^7 CCID50 of NYVAC/gpSO 4 weeks apart. The control group was not vaccinated (Brockmeier and Mengeling, 1996).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1255">Vaccinated pigs were protected from PRV challenge (Brockmeier and Mengeling, 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1255">Challenge consisted of administering 10^8 PFU of Indiana-Funkhauser strain of PRV oranasally, 4 weeks after the 2nd immunization (Brockmeier and Mengeling, 1996).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine830">
+		<vaccine_name>Pseudorabies Subunit gB Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004041</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Replication-incompetent adenovirus [Ref1250:Han et al., 2008].</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering297" gene_id="gene654">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response589" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1250">Groups of female mice were immunized with replication-incompetent adenoviruses expressing PrV glycoprotein (rAd-gB) by either the intranasal (i.n.) or intramuscular (i.m.) route. For i.m. administration, recombinant adenoviruses (10^6 pfu/mouse) were injected into the anterior tibialis muscle three times at weekly intervals (0, 7, and 14 days). The i.n. immunizations were also performed three times at weekly intervals (0, 7, and 14 days) by depositing 10^6 pfu of recombinant adenovirus onto the nares of deeply anesthetized mice. Control mice were immunized with replication-incompetent adenovirus expressing the LacZ gene (rAd-LacZ) (Han et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1250">Recombinant adenovirus expressing gB (rAd-gB) was found to induce effective protective immunity against a virulent viral infection, regardless of whether it was administered via the muscular or systemic route (Han et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1250">The immunized mice were infected i.n. with the virulent PrV YS strain (10 LD50) two weeks after the final immunization. The challenged mice were examined daily to quantify the number of dead animals. Mice generally began to exhibit clinical signs of illness 3 to 4 days post-challenge (Han et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response284" gene_id="gene1121">
+			    <description refs="reference1250">In splenocytes and popliteal lymph node cells, IL-2 was induced to a significantly higher level in immunized animals as compared to replication-incompetent adenovirus expressing LacZ (rAd-LacZ) vaccinated mice. These elevated levels were detected 2 weeks after the final immunization (Han et al., 2008).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response285" gene_id="gene125">
+			    <description refs="reference1250">In splenocytes and popliteal lymph node cells, IL-4 was induced to a significantly higher level in immunized animals as compared to replication-incompetent adenovirus expressing LacZ (rAd-LacZ) vaccinated mice. These elevated levels were detected 2 weeks after the final immunization (Han et al., 2008).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response286" gene_id="gene1">
+			    <description refs="">In splenocytes and popliteal lymph node cells, IFN-gamma was induced to a significantly higher level in immunized animals as compared to replication-incompetent adenovirus expressing LacZ (rAd-LacZ) vaccinated mice. These elevated levels were detected 2 weeks after the final immunization</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine829">
+		<vaccine_name>Pseudorabies Subunit gI Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004040</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering295" gene_id="gene668">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response587" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/10</host_strain>
+			<vaccination_protocol refs="reference1258">For active immunization mice were injected i.m. (hind leg) with different concentrations of emulsified purified (by electroelution) fusion protein (Fuchs et al., 1990).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1258">Vaccination of mice with fusion proteins containing the N terminus of gI from Suid herpesvirus 1 are able to confer protection to mice against a lethal challenge of PRV (Fuchs et al., 1990).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1258">Twenty-four h later the animals were infected intramuscularly (i.m.) into a hind leg using 0-1 ml of a lethal dose ( &gt; 100 LD50) of strain Phylaxia, and the mice were observed for at least 10 days (Fuchs et al., 1990).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3189">
+		<vaccine_name>Pseudorabies virus glycoprotein E/G/UL23 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering717" gene_id="gene1017">
+			<type>Gene mutation</type>
+			<description refs="reference1962">This glycoprotein E/G/UL23 mutant is from Suid herpesvirus 1 (Weigel et al., 2003).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering718" gene_id="gene1018">
+			<type>Gene mutation</type>
+			<description refs="reference1962">This glycoprotein E/G/UL23 mutant is from Suid herpesvirus 1 (Weigel et al., 2003).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering719" gene_id="gene1016">
+			<type>Gene mutation</type>
+			<description refs="reference1962">This glycoprotein E/G/UL23 mutant is from Suid herpesvirus 1 (Weigel et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1014" host_id="host56">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1962">A glycoprotein E/G/UL23 is attenuated in raccoons (Weigel et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1962">A glycoprotein E/G/UL23 mutant provides some protection in raccoons from challenge with wild type Pseudorabies virus (Weigel et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3191">
+		<vaccine_name>Pseudorabies virus gp50/gp63 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering721" gene_id="gene1039">
+			<type>Gene mutation</type>
+			<description refs="reference1980">This gp50/gp63 mutant is from Suid herpesvirus 1 (Peeters et al., 1994).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering722" gene_id="gene1040">
+			<type>Gene mutation</type>
+			<description refs="reference1980">This gp50/gp63 mutant is from Suid herpesvirus 1 (Peeters et al., 1994).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1016" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1980">A gp50/gp63 mutant is attenuated in pigs (Peeters et al., 1994).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1980">A gp50/gp63 mutant vaccine induces protection in pigs from challenge with wild type Pseudorabies virus (Peeters et al., 1994).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3192">
+		<vaccine_name>Pseudorabies virus UL50 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002989</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering723" gene_id="gene1024">
+			<type>Gene mutation</type>
+			<description refs="reference1969">This UL50 mutant is from Suid herpesvirus 1 (Jöns et al., 1997).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1017" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1969">A UL50 mutant is attenuated in pigs (Jöns et al., 1997).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1969">A UL50 mutant induces protection in pigs from challenge with wild type Pseudorabies virus (Jöns et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3193">
+		<vaccine_name>Pseudorabies virus US3 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002990</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering724" gene_id="gene666">
+			<type>Gene mutation</type>
+			<description refs="reference1256">This US3 mutant is from Suid herpesvirus 1 (Kimman et al., 1994).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1018" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1256">A US3 mutant is attenuated in pigs (Kimman et al., 1994).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1256">A US3 mutant induces complete protection in pigs from challenge with wild type Pseudorabies virus (Kimman et al., 1994).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine822">
+		<vaccine_name>Psuedorabies DNA vaccine encoding IE180 protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004039</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref1246:Chang et al., 1998]</vector>
+		<route>Gene Gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene Gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering288" gene_id="gene658">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response581" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c, C3H/HeJ, and C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1246">Two shots of DNA/mouse (1 /Ag/shot) were delivered with helium at 200 psi via the Helios Gene Gun to the shaven abdominal skin of 10 male mice of each strain, BALB/c, C57BL/6, C3H/HeJ. The mice received a booster once 14 days later with the same dose of DNA. In some experiments, pregnant mice of each strain were vaccinated immediately before mating and a booster was given 2 weeks later (Chang et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1246">Seven months after immunization with pcDNAIE180, an overall 25% of BALB/c, C3H/HeJ, and C57BL/6 mice receiving a lethal PrV challenge were protected (Chang et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1246">Six months after second vaccination, groups of pcDNAIE180 immunized mice were challenged intraperitoneally with a precalibrated mouse acute lethal dose of wild-type PrV-Ka TK+ (15 plaque-forming units (PFU)/g of body weight). The challenged mice were observed three times daily for clinical signs, and percent survival was assessed within 4 to 5 days postchallenge (Chang et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3190">
+		<vaccine_name>Psuedorabies virus glycoprotein M mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002985</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering720" gene_id="gene1026">
+			<type>Gene mutation</type>
+			<description refs="reference1970">This glycoprotein M mutant is from Pseudorabies virus (Dijkstra et al., 1997).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1015" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1970">A glycoprotein M mutant is attenuated in piglets (Dijkstra et al., 1997).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1970">A glycoprotein M mutant induces protection in piglets from challenge with wild type Pseudorabies virus (Dijkstra et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4261">
+		<vaccine_name>rORFV-PRV-gC/gD</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004770</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3285">Based on the attenuated ORFV strain D1701-V, recombinants were produced that express the glycoproteins gC (D1701-VrVgC) or gD (D1701-VrVgD) of the alphaherpesvirus of swine, pseudorabies virus (PRV) (Fischer et al., 2003).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1782" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3285">Mice were injected intramuscularly (i.m.) with 107 TCID50s of the ORFV recombinants expressing the PRV glycoproteins in a total volume of 0.2 ml (0.1 ml for each hind leg). Immunization was repeated at 2-week intervals (Fischer et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3285">Single or combined immunization with the ORFV recombinants protected different mouse strains of a host species nonpermissive for ORFV against a fulminant, lethal PRV challenge infection equal to immunization with PRV live vaccine. Most notably, even a single immunization with D1701-VrVgC was protective, whereas two applications of D1701-VrVgD were required for immune protection (Fischer et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Mice were challenge infected intraperitoneally (i.p.) with 10^2 PFU of the highly virulent PRV strain NIA-3, and the C57BL/6 and 129/Sv/Ev mice were infected with 10^3 PFU</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine389">
+		<vaccine_name>Suvaxyn Aujeszky</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Suvaxyn Aujeszky</brand_name>
+		<manufacturer>Fort Dodge</manufacturer>
+		<vo_id>VO_0000936</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference811">gE- and thymidine kinase-deleted marker vaccine(Ferrari et al., 2000)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene654">
+        <gene_name>gB</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id>VO_0011238</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>4138504</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>UniProtKB/TrEMBL:Q9WJ33</xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>16807</gene_start>
+        <gene_end>19721</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>envelope glycoprotein B</protein_name>
+        <protein_pi>3.29</protein_pi>
+        <protein_weight>1207.11</protein_weight>
+        <protein_length>60</protein_length>
+        <protein_note>strains Kaplan (Ka), Becker (Be), Rice, Indiana-Funkhauser (In-Fh), NIA-33 and TNL</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA09075.1 gB, partial [Suid alphaherpesvirus 1]
+ESEDPDAL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Recombinant adenovirus expressing gB (rAd-gB) was found to induce effective protective immunity against a virulent viral infection, regardless of whether it was administered via the muscular or systemic route [Ref1250:Han et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene668">
+        <gene_name>GI</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id>VO_0011251</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>255957222</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:177577
+CDD:165547</xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>envelope glycoprotein gI</protein_name>
+        <protein_pi>9.1</protein_pi>
+        <protein_weight>35302.37</protein_weight>
+        <protein_length>440</protein_length>
+        <protein_note>envelope glycoprotein I; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACU43467.1 envelope glycoprotein gI, partial [Suid alphaherpesvirus 1]
+RDVTRLPAGLLLAALTLAALTPRVGGVLFRGAGVSVHVAGSAVLVPGDAPNLTIDGTLLFLEGPSPSNYS
+GRVELLRLDPKRACYTREYAAEYDLCPRVHHEAFRGCLRKREPLARRASAAVEARRLLFVSRPAPPDAGS
+YVLRVRVNGTTDLFVLTALVPPRGRPHHPTPSSADECRPVVGSWHDSLRAVDPAEDAVFTTQPPPEPEPP
+TTPAPPRGTGATPEPRSDEEEEDEEGATTAMTPAPGTLDANGTMVLNASVVSRVLLAAANATAGARGPGK
+IAMVLGPTIVVLLIFLGGVACAARRCARNRIYRPRPGRGPAVHAPPPRRPPPSPVAGAPVPQPKMTLAEL
+RQKLATIAEEQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Vaccination of mice with fusion proteins containing the N terminus of gI from Suid herpesvirus 1 are able to confer protection to mice against a lethal challenge of PRV [Ref1258:Fuchs et al., 1990].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene665">
+        <gene_name>GII</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id>VO_0011249</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1335775</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:223014</xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein gII</protein_name>
+        <protein_pi>11.38</protein_pi>
+        <protein_weight>14546.78</protein_weight>
+        <protein_length>200</protein_length>
+        <protein_note>glycoprotein BALF4; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB26946.1 glycoprotein gII, partial [Suid alphaherpesvirus 1]
+PFGALAIGLLVLAGLVAAFLAYRHISRLRRNPMKALYPVTTKALKEDGVEEGDVDEAKLDQARDMIRYMS
+IVSALEQQEHRRARRTAGPRSWPAGSGRWLRAAGTTSASRARTPTPCSPLPRETIKMRLFGNT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A NYVAC vaccinia vector containing genes for pseudorables virus glycoproteins gII and gp50 was administered to pigs to determine if it would have a greater protective effect than a vector containing the gene for gp50 alone. Both NYVAC vectors protected pigs similarly from virulent pseudorabies virus challenge [Ref1255:Brockmeier and Mengeling, 1996].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1018">
+        <gene_name>glycoprotein E</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>307634504</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:177575
+CDD:190321</xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein E</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>578</protein_length>
+        <protein_note>envelope glycoprotein E; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|307634504|gb|ADN78283.1| glycoprotein E [Suid herpesvirus 1]
+MRPFLLRAAQLLALLALALSTEAPSLSAETTPGPVTEVPSPSVEVWDDLSTEAGDDDLNGDLDGDDRRAG
+FGSALASLREAPPAHLVNVSEGANFTLDARGDGAVLAGIWTFLPVRGCDAVSVTTACFETACHPDLVLGR
+ACVPEAPEMGIGDYLPPEVPRLRREPPIVTPERWSPHLSVLRATPNDTGLYTLHDASGPRAVFFVAVGDR
+PPAPADPVGPARHEPRFHALGFHSQLFSPGDTFDLMPRVVSDMGDSRENFTATLDWYYARAPPRCLLYYA
+YEPCIYHPRAPECLRPVDPACSFTSPARARLVARRAYASCSPLLGDRWLTACPFDAFGEEVHTNATADES
+GLYVLVMTHNGHVATWDYTLVATAAEYVTVIKELTAPARAPGTPWGPGGGDDPIYVDGVTTPAPPARPWN
+PYGRTTPGRLFVLALGSFVMTCVVGGAVWLCVLCSRRRAASRPFRVPTRARTHMLSPVYTSLPTHEDYYD
+GDDDDEEAGVIRRRPASPGGDSGYEGSYASLDPEDEFSSDEDNGLYVRPEEAPRSGFDVWFRDPEKPEVT
+NGPNYGVTANRLLNARPA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A glycoprotein E mutant, in combination with UL23 and glycoprotein G mutations, is attenuated in raccoons, with a 75% survival rate. This mutant also provides some protection from wild type PRV [Ref1962:Weigel et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1017">
+        <gene_name>glycoprotein G</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15422177</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:186820</xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein G</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>499</protein_length>
+        <protein_note>Herpesvirus glycoprotein D/GG/GX domain; cl08328</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|15422177|gb|AAK95859.1| glycoprotein G [Suid herpesvirus 1]
+MKWATWILALGLLVVRTVVAREAPRELCYGHPVHDDRRPVGPATDAQPVNPLAPANATGTDYSRGCEMRL
+LDPPLDVSSRSSDPVNVTVAWFFDGGHCKVPLVHREYYGCPGDAMPSVETCTGGYSYTRTRIDTLMEYAL
+VNASLVLQPGLYDAGLYIVVLVFGDDAYLGTVSLSVEANLDYPCGMKHGLTITRPGATLPPIAPTAGDHQ
+RWRGCFPSTDEGAWENVTAAEKGLSDDYADYYDVHIFRLESDDEVVHGDAPEAPEGEEVTEEEAELTSSD
+LDNIEIEVVGSPAAPVEGAGDGEEGHGDEEDEELTSSDLDNIEIEVVGSPAAARFFAASTTPRAPTRAAE
+ITTMTTVTTVRTTEDPSGITDCRRSDFVSPSDIFVTPTGSPALLLGFLGSALASRPLHLTAGETAQHVRE
+AQQKSRHVRSLGGLQLSVETETTNTTTTQTGLSGDIRTSIYICVALAGLVVVGIVIMCLHMAIIRARARN
+DGYRHVASA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A glycoprotein G mutant, in combination with UL23 and glycoprotein E mutations, is attenuated in raccoons, with a 75% survival rate. This mutant also provides some protection from wild type PRV [Ref1962:Weigel et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1026">
+        <gene_name>glycoprotein M</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1478255</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:177566
+GOA:Q85041
+InterPro:IPR000785
+UniProtKB/Swiss-Prot:Q85041</xrefs>
+        <taxonomy_id>33703</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>UL10</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>525</protein_length>
+        <protein_note>envelope glycoprotein M; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|1478255|emb|CAA65905.1| UL10 [Suid herpesvirus 1 strain Kaplan]
+MTYASESKYVTNPRPASSIRLARVRVKLRRQDRTSALISVAASAAESHFSSAVVLPEPIGARATRTRRQA
+VSCGDGSSTGASRCRSRETPGQRLRTTAGRSQPYSIRASDTLEANAPPSSSAPPRRPPASAAMCGPRNAE
+AVSWRSWLIEVCGFALAALTLVLTLIFASLPEMGFPCFYATVADYDTLNDTSGGVWTRQPLVAPALFLET
+PTVTSFFGFTATVLLAHALYAVAGAVVLRREAGRLAFQPSVVLYAASTVAAPGTLMLGALCAWTLQAVVL
+LMAHKQAGLAAAAYITHFVFLALFGACHACKGTGDVRAALAASPPLRRVAVHARAVVTNVVLGAVGLGAA
+VVGLMLGVLLANSFHISLWKTAEAALAVFTLLALALMVFVEVVVSGYVQVLPTPAFCVLVASAAFGVSAH
+RYFAKFSEALGETHGVVIGTRAVLAVLSLIALAMIVVRLVRACIAHRARGSRFYANVDKARTTARRYLQK
+RLHGRGNDEYLLAPGSGDDEFDDGDEVVYENLGFE</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A glycoprotein M, gM, deletion in pseudorabies virus was attenuated and induced protection in piglets against intranasal challenge with 10^8 p.f.u. of the highly virulent PrV strain NIA-3 ([Ref1970:Dijkstra et al., 1997].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene664">
+        <gene_name>gp50</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id>VO_0011248</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>2440155</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279830
+InterPro:IPR002896
+UniProtKB/TrEMBL:O41201</xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein gp50</protein_name>
+        <protein_pi>5.27</protein_pi>
+        <protein_weight>25087.4</protein_weight>
+        <protein_length>307</protein_length>
+        <protein_note>isolated from camels</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA75105.1 glycoprotein gp50, partial [Suid alphaherpesvirus 1]
+MLLAALLAALVARTTLGADVDAVPAPTLPPPAYPYTESWQLTLTTVPSPFVGPADVYHTRPPEDPCGVVA
+LISDPQVDRLLNEAVAHRRPTYRAHVAWYRIADGCAHLLYFIEYADCDPRQIFGRCRRRTTPMWWTPSAD
+YMFPTEDELGLLMVAPGRFNEGQYRRLVSVDGVNILTDFMVALPEGQECPFARVDQHRTYKFGACWSDDS
+FNGGVDVMRFLTPFYQQPPHREVVNYW
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A NYVAC vaccinia vector containing genes for pseudorables virus glycoproteins gII and gp50 was administered to pigs to determine if it would have a greater protective effect than a vector containing the gene for gp50 alone. Both NYVAC vectors protected pigs similarly from virulent pseudorabies virus challenge [Ref1255:Brockmeier and Mengeling, 1996].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1039">
+        <gene_name>gp50</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2952548</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>51557533</ncbi_protein_id>
+        <gene_locus_tag>SuHV1_gp50</gene_locus_tag>
+        <gene_refseq>BK001744</gene_refseq>
+        <protein_refseq>YP_068367</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>83052</gene_start>
+        <gene_end>86540</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>9.08</protein_pi>
+        <protein_weight>46944.96</protein_weight>
+        <protein_length>470</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|51557483:83052-86540 Suid herpesvirus 1, complete genome
+CATGTTCGCCTACGTGAAGCCGATGGCGCACGGCCCGGACATGGCCTCCGTCTACCAGTCCACGGGGCGC
+GTGCGGCGGCTGCTGCGCGACGAGCTCTTCGTGTACGTGGACGGCTCCGGCGCGCGCGGCGAGCCCATCT
+TCACGCCCGTGCTGCTGAACCACGTCGTGGGCTCGGGCTGGCCGGCGCGCCTGTCGCAGGTGACGAACCT
+CGTGTGCGCGCAGTTCCAGCGCCGCTGCCGCCCGGCGTTCGCGGCGGCGCGCGGGATGCGCCTCTTCTCC
+CGCTTCAAGTTCAAGCACCTGTTCGAGCGCTGCACGCTGACGAGCGTCAACGACAGCCTCAACATCCTGC
+ACGCGCTGCTGGAGAACAACCGCCTGCGGGTGGCGCTCGAGGGCTGCGAGCCGCCGCTGACGGCGCGCGC
+CTTCTGCGACTTTCTGCGCGACGCGCGCCTGGACGCCTTCGCCAGCCAGCAGGTGCTGCGGCAGCTGCGC
+CCCCCGGACCGGCCGGTGGCGGCCGACATCGCGGACAGCGGCGAGGTGGCCACCTTCGTGGAGAAGTACC
+TCGTGGCCGACGTGCCCGAGGACGAGCTGCAGGAGCTGCTGCGCGCGCTCGCCAACCCCGTGACGCGGGA
+GCAGTTTGTGGGCCTGGCCGTGCTCGGCGCGTGCGCGCGCGTCCCCGAGGCGCTGCGCAGCGAGCGCGTC
+TTCGGGGCCGTGTACGGGCACTACGCCTCCGGGGCCGTGCCCGTGGTGGCCGACGGGCGGCTGGAGCTGG
+CGGCGCTGGCCCCCGACTTCAACGTGCCCGCGCGCTGGGCCCTCACGCGGCGCTGCGCGCGCGTCGCGGA
+GGCCGCCGGGCTCTTCGAGGGCGCCTCGCCGGAGGTGGACTCGGCCGCGGTCGCGGCGGCGGCGGCCGAC
+GCCGAGCTGGCGCCGCTGCTGCTCGAGGTGCTGCGGTGCCACGTGCTGGACGCGACGACGGCCGCGCGGC
+GCCCCGTGCGCGCGGCCCTGAGCGCGCTGGGGGCGGGCGGGGGCGCGGGCCCGCTGAGCCGCGGGCGCCA
+CGCCGCGCTCGTGTTCAAGGTGATGTGGGAGGAGGCCTTCGGCGTGCGCGTCGGCCGCAGCCGGCAGACG
+TTCCCGGGGCCCACGCGCGTGAAGAACCTGCGCAAGGCCGAGATCGCCGCGCTGCTGCGCGACGCCGGCC
+TGGACCCGCCCGCGGGCGCCACCCACCGGCAGCTGTACGCCCTGCTGATGGAACGCCGGGGGGACTTTGC
+GGGGGAGAGGTATAAACTGCGCCTGCCCGCCTGGAGCCGGCTCATGTACCTGACCCAGGGCGGCTTCGAC
+GCGCCGCTGGACGCCGCGCTCTCGCTCGTGCCCGCGGAGGCGTGGCCGCGCACCGAGGGGGCCGTGGACT
+TTGCGGCGCTATGACGGCCGCGGCGGGGGAGCGCGTGTGCGCGGCCGGGATCTACACGGCCTGGACGGAG
+CCCGGCGCGCCGGGCGAGCTCCACGCGCTGGCGCACCTGCTGTGCCGCGACGGGGCCGGCGCGTACGCGG
+CGCGCTTCGTCCACGTGACGGCGGCGCCGTGGACGGGCTCGGCGGCCGCGGTGGCCGCGGCGCTGCGCGA
+CGCGAGCGGCACGGGGGCGCTGGCGGACCCGGCGCTGTGGCGCGGCGCGCACGGCGCGGTCATGGCGGCC
+CTGCGCCGCGCCCTCCCGGCGCTGGCCTTCTACGAGCCGCTGCGCTTCGAGACGGACCCGGCCACGAACC
+TGGTCACGGCCGCGACGCCGGCGGGCGGCGGCGGCGAAGAGGAGACGACCGGGGAGGGCGGCGAGGAGGA
+CGAGGACGAGGCCGGCCCGCGCGCGGGCATCATCCACGTGGACGCCGACGTCGTCGTGGACCGCGACGCC
+GCGCGCGCGCACGCCACCGAGGCGTGGCTGCCGCACGCCCAGCTGCGCGCCATGGCCGGCTGCGCCGCGC
+TCTCCGTCGAGATCACGACGCGGCGGACCAGCTTCGCGCGCGCCTACGCGGAGGCCGGCGCGCCGCCGCT
+GAAACGCCGGGGCGAGATGAGCGACCCCTTTGACGTGCGCGAGACGGTGCTGCGGCCCGCGGGCCGGCGC
+GTGGCGGCGCGCGTGCTCGTCCCGCGCGGCTTCGACTGCCTGGTGGCCCACGGCGTGAGCAACGCGGCGC
+TGGTGGCGCTCTACCGCCGGTGGCACGCGGCCGCGTACGGCGCGGGCGACGCGACCCCGCCCGTCTTCGC
+CTTCCTGGGGCCCGAGCTCGCCCGCGAGGGCGCGGACGAGGACTACTACTGCGCGCTGGGCTTCCCCCTG
+TTTGCGACGATCAAGGTGGCCGCGGCCGCGCCGGAGGCGGTCCGCGGCGCGCTCGCCGCCCACCGGCTCA
+CGGACGGGCTGTGGCCCGCGCTCGGCTTCCGCGCCTTCCACGCCCTCGGGCCCGTGAGCTGCGGCCTGCG
+CCTGCGCTGCGACGTCTGGCCGGCGGGGCGCGCGACCAGCGCCGTGGAGCACCCGTGCGCCCTCCGCGGG
+GCCTGGCTGGCCAAGTTTGACTTCGCGGCCTTCTTCCCCAACCTGTTTCTGGCCCTGTGCCCGGGCCACG
+AGCGGCTGCGGCGCGCCGTGCGGGCGCGCGCGGTCAAGCCGGCGCTCGTGGCCTTCTTCGGCGGGCTCAA
+GCACACGTGCCCGGAGGCGTACCACAGCGTCATCGCGCTGGCCAACGGGGTCTCGCGCGCCGTCGAGGCG
+GCCGCGGCCGAGGCCGGCCTGGTCACGTGCGCCTACGTCAAGGACGGCTTCTGGGGCGTGCTCGGCGACG
+TGCCCGCGGCCGCGCCGGAGGCGGCCGCCGCCGCCGCGGCCGAGCGCGTGCGCGTCGCCTGCGAGGCCGC
+CGCGGCGCGGCACCTGGCCGACGCGGGGGCCGCCGCGACGGACGTGACGCTGCGCTGCGAGGGCGTCTTC
+GACGCGGCCCTGGCCTGGTCCTGCCACGCCTACTGGCTGCGGCGGCGCGAGGGCCCCGCGGACTTTGTCG
+GCTTCCCGTCGCGCAGCGGCTTCGGCCGCGCCGCCAAGGCCGCGCTGGACGCCCTGCTGCGCGAGGCCGT
+CGAGGGCCGCGCGGACGCCGAGGCCGCGCGCGCCGCCTGCGACGGCCTCGTCGAGCGGGCCTTCGCCTCG
+CGCCACGACCCCGACTTCTGGGCCGCGCCGGGGGACGCCCTCGCCCCCGCCGCGTGCGCAGGGGCGACCG
+CCGGGCGCGGCGGCGCGCGCTGCTCGCGGCGCTGCGTGCGCCTGCGCGGCGCCGGCCCGGTGCCCTACGA
+GCAGCTGCGCCCCCCGCTGATCCTGCCCTGGATAGACTGTCTGGCCCACATGGAGCCCATCTTCGCCGCC
+CTCGTCGGCATGTACAACCGCGCGCTCGAGGCGCTGAGCGCCGGCGACGCCCCGCCGCCATTTGTGTTTA
+CATACACGCCGGACGCGTTTCTGTTTGGGTAAACAATAAAGTCTGTTTATTGTCAGAAC</dna_sequence>
+        <protein_sequence>>gi|51557533|ref|YP_068367.1| UL8.5 protein [Suid herpesvirus 1]
+MFAYVKPMAHGPDMASVYQSTGRVRRLLRDELFVYVDGSGARGEPIFTPVLLNHVVGSGWPARLSQVTNL
+VCAQFQRRCRPAFAAARGMRLFSRFKFKHLFERCTLTSVNDSLNILHALLENNRLRVALEGCEPPLTARA
+FCDFLRDARLDAFASQQVLRQLRPPDRPVAADIADSGEVATFVEKYLVADVPEDELQELLRALANPVTRE
+QFVGLAVLGACARVPEALRSERVFGAVYGHYASGAVPVVADGRLELAALAPDFNVPARWALTRRCARVAE
+AAGLFEGASPEVDSAAVAAAAADAELAPLLLEVLRCHVLDATTAARRPVRAALSALGAGGGAGPLSRGRH
+AALVFKVMWEEAFGVRVGRSRQTFPGPTRVKNLRKAEIAALLRDAGLDPPAGATHRQLYALLMERRGDFA
+GERYKLRLPAWSRLMYLTQGGFDAPLDAALSLVPAEAWPRTEGAVDFAAL</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A gp50+gp63 deletion mutant in Pseudorabies virus was attenuated and provided protection from clinical signs of Aujeszky's disease after a challenge inoculation with the virulent wild-type PRV strain NIA-3 [Ref1980:Peeters et al., 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1040">
+        <gene_name>gp63</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2952540</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>51557548</ncbi_protein_id>
+        <gene_locus_tag>SuHV1_gp63</gene_locus_tag>
+        <gene_refseq>BK001744</gene_refseq>
+        <protein_refseq>YP_068382</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>102695</gene_start>
+        <gene_end>107803</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>transcriptional regulator ICP4</protein_name>
+        <protein_pi>8.04</protein_pi>
+        <protein_weight>141692.15</protein_weight>
+        <protein_length>1446</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|51557483:102695-107803 Suid herpesvirus 1, complete genome
+CAGAAAATACAGCACAAACTTTATTTTCTCACTCTGAAAACAAACTCTTTTCTCACCCGATGGGAGAAGG
+AGGAGAAGGGGACCGGGGGACCGCGGGAGGAGGAGAAGGGGACCGGGACGATCCTCCGCCGCCGAGCCCT
+CCGCCGCGGCCGCCGCCGCCGCTTCCACCACCGCCGCCACCTCCGCCGCCGCCGCAGCCACCTCCGGCCG
+GGGGATCCGCGCGGAGGAGAAGGAGAGGAGGAGGGCCACCGGGCCGGGGAGGCAGGCGCCGGGGAGGCAA
+GCGCCGCCGGGCCGAGGGGACCGAGGCCGCCGCCGCGGACGCAGAGGAGGAGGAGGACGGGGACGGGGAC
+GAGGACGAGGACGAGGACCGGGCCGAGGGCGAGGGGAGAGAAGACGGAGGAGAAGGGCCTCGAGGAGCCG
+GTGGAGGGGCCGGAGAGTCAGAGTCAGAGTCCGGCCGGGCCGAGGGGGCGCCCCGCTCAGCGGAGCAGCA
+GGTAGGGGTTGCCGGCGTCCTCGGCCTCCTCGTCGTCCGAGATGGCCTCCACCTTGATGGGCCCGAGCGG
+GCCGCGGGGCCGGCCGTCGCCGCCGCGGACGCCGACGATCTCCACAGAGTCCCCGTCCTCGCCGGGGCCG
+GCCCCGGCGCCCGAGGCCCCCGCGGGCCGGTGGGTCTCCACGGCGCCCCCGGCGGCGGCGCGGACGCTGG
+TCTCGAAGGGGGCAAAGTCCCAGAGCACGGCCGGCGGGGCGCCCGCGGCGGCGACGGCGCCCGGGGTCAG
+CACCAGCGGGGCGGCCTCGGCGTCGGGCTCCAGCAGCGCCGCGGCGCAGAAGGCGCGCAACTCGGCCGGC
+AGGCCCTCGGGGCCGCGGAGCTCGGCGAGGCCCCGGCGGCCGCAGGAGACGAAGACGGGCCGCAGCGGGG
+CGCCGAGCCCCCAGCGGTTGGCCGCGCGGTGCCCGAAGGCGGCGCCCGCGTCAAAGTCCGGGTCCCCGAG
+CCCGAGCGCGGAGCGCTGGCGGGCCATGTCCTTGCAGCCGTCCACGGTGGGGAGCACGCGCTGGCGGTAG
+GCGCGCGGCGGCAGCGGGACCGGGGTCCGGGGCCCGGCGCGGGTGCTCACCGTGTAGCGCACGTTGTCCT
+GGCGGCAGAGGCGCAGCGGCTCGGCCCCGGGGTGCAGGCGGGCGAAGGAGGCCTCCACGCGGGCGAAGCA
+GGCCGGGCCCACGATGGAGCTAGAGTCCAGCACGGCCGCGCGGAGCTCGCGGCACCCGGGCCAGCGCACG
+GCGCACTGGGCGGCCGGGTCCAGGCGGACGCGGACGTAGACGTGGTAGTCCCCCACGGCCGGGCCGTCCG
+CGGGCCAGTCCTCGATGGTGTCCAGCACGATGAGCCGGCGCCGCGCCGCGCCGAGCCGCGAGCAGAGGTA
+CTCCACGGCGCCGGCGAAGCCGAGGTCCCGCGCCGAGAGCAGCAGCACCCCCTGGGCGTTGAGGCGGCCG
+ATGTCGGGGCGCCCGGTCCAGTTCCCGGCCCAGGCGTGCGAGTCCGGCGTGCAGAGGCGGTGGGCGAAGG
+CGGCGAGCAGCGCCGAGAGGCCGCCGCGGCGCGGGTCCCAGGCCGGGCGCGGGGCGCCCTCGGCGGGCTC
+GGCGCAGAGCTCCTCGTGGGGCAGCGGGTCGTAGAGCACCACCACGCGCACGTCCTCGGGGTCGGCTATC
+TGCCGCATCCAGGCGGCGCGGCGGCGGAGCGGGGCGCCGCGGCGCGCGGCGATGTGCGCCAGGGCGGCCG
+GGTCGAAGGTGAGCGCCGGGCGCCAGAGTTCGGGGAAGACCTCCTGGTCCACGAGGGCGCGGGCCACCTC
+GGGCGGGCAGTAGGCGGCGAGGGCCGCCTCGGAGGGCCGCGGCGTGTGGGTCTCGCCGGCCGGGACGCGG
+CGGAAGCCGCCGTCGGGCGCGGGGTGCTCGGGCATGGGCCCGAGCGGGCGCCGGAGCCGGTCGTCCTCGG
+AGGAGGAGGAGGAGGAGGACAGCAGCGCGGGAGCGGGGTCCGGAGCGGGCCCGAGTCCGAGGGAGCGGCG
+CTTGCGCCGGGGCCCCCGGTCCTCTTCGTCGTCGCGGTGGCCGTGGCCGTCCCCGCGGAGGGCCGCGCCG
+GAGAGCCCCTCGTCCTCCTCGCCGTCCCCGGGGCGGCGGGCCCCGGGCGCGCGGCGCTTCTTCTTGCGCC
+GCTCGGGCGCTGGGTCCGGGCCGGCGGCGGGGGAGCTGGCGTAGCCGGAGGAGCCGGAGAGGCCGGACTT
+GGTGCTGGAGCTGGACTTGGTGCTGGAGCTGGACTTGGTGCTGGCGGGGCTGGAGGGCCCGGAGCCGGGG
+AGGCCGGAGGGGGCGCCCGCCGCCGCCGGCGCCGGCGCTGGGACGACGAGGCCGGGCTGCTCGGGCCAGA
+GCGGGGGCAGGCCGGGCGCGGGCTCCGCGGGCCCGGGCCGCGCGGCGGCCTCGGCGAGCCGGGCCGCGGC
+CACGTTGGCCGGGGCGAAGAGGGCCGCGGCGTAGGTCCAGGCGGCCTCGCGGGCGCGGGCCCCGTCCACG
+CTGTAGCGCACCAGCGGCGCCACGGTGCGGGCGACGAGGGCGACAGAGTCCGCGGCCTGCCGCCGCTCGG
+CCGGGCCGGCCCCGGGGATCGCGTCGCGGAGCGCGAGCAGCGCGGCCGTCACCTCCTCGAGGCAGGCGGG
+CCCGAGGGCGGCCGGGGCGCGGGCGGGCGCGGGCAGCCGGAGCGGGCAGGGCAGCAGGCGCTCGAGGACG
+CCGCGGCAGGCCAGGACGCAGGCGTCCGCCAGCTCGCGGGGCACGCGGCCGGGCTGCGCGGCGGCGAAGG
+CGGCGCGGACGCGGGCGCAGAGGGCCTCGACGGTCGCCTCCCCGGCGCGGGGGTCCGCGGCGCGGCCCGG
+GTAGGCCATGTCGGCGTAGGCCCGGCGGAGGCTCTGCAGGATGAAGGTCTTCTGGGTGCGATCGTAGCGG
+CGGCTCATGGCCACGGCGCTCACCGCGTGCGGCAGGGCCCAGAGCGGGTCCTGGGCGGCCATGGCGTCCC
+CGATGTGCGGCAGCGGCGGGGTCACGCTGCCGGTGATGAAGGAGCCGTGGCCGTGGGGCGCGTGGACCCG
+GCGCTGGCAGAACTGGTTGAAGCGCTGGTCGGGGGCCTGCATCCGCGGGTTCTGCAGCCAGGACATGGCC
+TCGCCGGCGGCCCCGCTGTAGATGAGGCGCACGAGGGCCTCGTGCTGCTTCCTCGAGTCCCCCATCTCCG
+GGATGAAGACGGGCACGGGCCCGGCCGCGGCGCGGTAGCGGGCCGCGGCCTGGCGGACGTCGTCCTCGTC
+CCAGAGCCCCTCGCGGGAGTCCCCGGCGCCGCCGTAGCGGACGCGGCCGTCGGCCGGAGGGTCGGAGCCG
+GGCCAGGGCTCCCCGAGCGGGGTGAGCAGCGGCCCGTCGGTCGGCGGGGGCCCGTCGGCCATGAGCGAGA
+GGTGGTTGTTGGTGGAGCGGCGCTTCCTGCGCGGGGGCCGGGCGGGCTCCGGGGCCGGGGCCGGGGAGGC
+CGCGGCGGAGGAGGAGGCGGAGGAGGCCGAGGGCCGCGGGGCCGCGGCGGGCGCCGGCGGAGACGGTGGC
+GGCCCGGCGCGGGCGAGTGGGGCGCCGGGCCGGACTCCTTCGTCTTCTTCTCCCTCGGAGGAGGACGAGG
+ACGAGGAGGACGAGGAGGACGAGGAGGACGAGGACGAGGAGGAGGCCGAGCGCCGCGCGGCGGCGGCGGG
+GGCCCGGGGGGCGGAGGGCGAGCGGGCCGGGGAGAGGTCCGAGTCGCTGCCGCTGCTGCTGGAGCTGCTG
+AAGCCGCGGCCGCGGCGGAGGGCGCCCTCTCCGGCGCGGCGCCGGCGGGGCTGTCTCTGCGGGGGCGCCC
+CGCCGTCCCCGGCGAGGCCGAGTCCGTCCTCGTCCTTCTCGGGGCCGCGGGCGACGGTCTCGACGGCGAC
+GGTGGTGGTGGAGTTGGAGTTGGAGTTGGGGTTGGAGGAGACGGGGCTCCGGGCGCCAAGCGGCCGAGGA
+TCGAGCCGCCTCGCGGCGGCGGGCTCGTCGAGCAGGGGCTCGCGGTGCTGGTGATGGTGACGACCGCGGT
+CCCCTCCGGCGGAGGGGGCGCCGCCGCCGCCGGGCGCCGAGACCGGCCCGGCGGCGGGGGAGGCTGGGGA
+AGCGGGCCCCCGCCGTGCCGGCGCTGCGGCCACCGCTGCTGGCTGTGCTGGTGGCGCCGGGGTCCGAGGC
+CGCGCCGCCGGCCCGGGCTCACCGACCGGGTCCCCCCTCGCGGGGGACCATCTCCGCGGGGCTGCCGAGG
+GGCCGGGAGAGCCGGAGGAGGAGGCCGGGGAGGCTGCGGAGGGGGACGAGCGCCCGGGGCCGCCGGGGGC
+CCCGGCCTCTGCCGCTGCGAGTGCTGCCGGGGTCGGCGGCCGGGGCCCGGAGCCGGCCCGGGACCGGGGC
+CCGAGGACGAGGTGACCGTGCTCGGAGCCCTGATGGAGAGCCCGACCGGGGGACCCGGCGGCCGGGGACC
+CGGGCTCGTCCTCCTCCTCGTCTTCGTCGTCTAGCACCACGATCTCGCCCGAGCCCCGGCGGGGCTGCTG
+CTGCTGCTGGGCCGAAGGAGGACGGGGCGGCCTCGTGGCTCCGGCCGCGGCCGCGAGGACGGCGGCCTCG
+GCCTCGGCGGCGTCGTCGGAGAAGAGGCCGCCCGGGCCGAAGAGGAGATCCTCGCCGGAGGAGCCGCGGC
+GCCGGGAGCCCTGGCTGCCGCCGTCGGGGCCGGACGCGATGCCCTCTTCCTCGGCCGCGGCGGCGGCCGC
+CAGGAGCTGGCTGAAGTTGCCCTCGGTCTCGATGAAGTCAAAGAGATCGTCGGCCATGGTCTCGATCGGG
+GTCTTTCTGCCTGAGCGAGGCCGGGCGCCGAGCGCGGAGAGCGGGCGGCGGAGAAGAAGGAGGAAGGCGG
+CCGGAGGAGGAGAAGAAGAAGACTCTTCTCTGGCGGGCCGAGAGCCTCGGTGGGTCGGGCGTCCGTCGAG
+GGCTGATAGCCGCCGGAGAGCCGGAGTCTTCAGAGTCCGCGCCGGAGCGGAGACGGTCGGATCCCCTCGG
+GTTGGCAGAGAACGATGCTGTCCGTACCTGCACCGCAGTGAAGTGCTACGATGGAGACCGCGCTTATAA</dna_sequence>
+        <protein_sequence>>gi|51557548|ref|YP_068382.1| transcriptional regulator ICP4 [Suid herpesvirus 1]
+MADDLFDFIETEGNFSQLLAAAAAAEEEGIASGPDGGSQGSRRRGSSGEDLLFGPGGLFSDDAAEAEAAV
+LAAAAGATRPPRPPSAQQQQQPRRGSGEIVVLDDEDEEEDEPGSPAAGSPGRALHQGSEHGHLVLGPRSR
+AGSGPRPPTPAALAAAEAGAPGGPGRSSPSAASPASSSGSPGPSAAPRRWSPARGDPVGEPGPAARPRTP
+APPAQPAAVAAAPARRGPASPASPAAGPVSAPGGGGAPSAGGDRGRHHHQHREPLLDEPAAARRLDPRPL
+GARSPVSSNPNSNSNSTTTVAVETVARGPEKDEDGLGLAGDGGAPPQRQPRRRRAGEGALRRGRGFSSSS
+SSGSDSDLSPARSPSAPRAPAAAARRSASSSSSSSSSSSSSSSSSSSEGEEDEGVRPGAPLARAGPPPSP
+PAPAAAPRPSASSASSSAAASPAPAPEPARPPRRKRRSTNNHLSLMADGPPPTDGPLLTPLGEPWPGSDP
+PADGRVRYGGAGDSREGLWDEDDVRQAAARYRAAAGPVPVFIPEMGDSRKQHEALVRLIYSGAAGEAMSW
+LQNPRMQAPDQRFNQFCQRRVHAPHGHGSFITGSVTPPLPHIGDAMAAQDPLWALPHAVSAVAMSRRYDR
+TQKTFILQSLRRAYADMAYPGRAADPRAGEATVEALCARVRAAFAAAQPGRVPRELADACVLACRGVLER
+LLPCPLRLPAPARAPAALGPACLEEVTAALLALRDAIPGAGPAERRQAADSVALVARTVAPLVRYSVDGA
+RAREAAWTYAAALFAPANVAAARLAEAAARPGPAEPAPGLPPLWPEQPGLVVPAPAPAAAGAPSGLPGSG
+PSSPASTKSSSSTKSSSSTKSGLSGSSGYASSPAAGPDPAPERRKKKRRAPGARRPGDGEEDEGLSGAAL
+RGDGHGHRDDEEDRGPRRKRRSLGLGPAPDPAPALLSSSSSSSEDDRLRRPLGPMPEHPAPDGGFRRVPA
+GETHTPRPSEAALAAYCPPEVARALVDQEVFPELWRPALTFDPAALAHIAARRGAPLRRRAAWMRQIADP
+EDVRVVVLYDPLPHEELCAEPAEGAPRPAWDPRRGGLSALLAAFAHRLCTPDSHAWAGNWTGRPDIGRLN
+AQGVLLLSARDLGFAGAVEYLCSRLGAARRRLIVLDTIEDWPADGPAVGDYHVYVRVRLDPAAQCAVRWP
+GCRELRAAVLDSSSIVGPACFARVEASFARLHPGAEPLRLCRQDNVRYTVSTRAGPRTPVPLPPRAYRQR
+VLPTVDGCKDMARQRSALGLGDPDFDAGAAFGHRAANRWGLGAPLRPVFVSCGRRGLAELRGPEGLPAEL
+RAFCAAALLEPDAEAAPLVLTPGAVAAAGAPPAVLWDFAPFETSVRAAAGGAVETHRPAGASGAGAGPGE
+DGDSVEIVGVRGGDGRPRGPLGPIKVEAISDDEEAEDAGNPYLLLR</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A gp50+gp63 deletion mutant in Pseudorabies virus was attenuated and provided protection from clinical signs of Aujeszky's disease after a challenge inoculation with the virulent wild-type PRV strain NIA-3 [Ref1980:Peeters et al., 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene658">
+        <gene_name>IE180</gene_name>
+        <strain>Suid alphaherpesvirus 1</strain>
+        <vo_id>VO_0011242</vo_id>
+        <ncbi_gene_id>2952540</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>51557548</ncbi_protein_id>
+        <gene_locus_tag>SuHV1_gp63</gene_locus_tag>
+        <gene_refseq>BK001744</gene_refseq>
+        <protein_refseq>YP_068382</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>102695</gene_start>
+        <gene_end>107803</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>transcriptional regulator ICP4</protein_name>
+        <protein_pi>8.04</protein_pi>
+        <protein_weight>141692.15</protein_weight>
+        <protein_length>1446</protein_length>
+        <protein_note>transcriptional regulator ICP4; the Herpesviridae are non-segmented dsDNA viruses with genomes ranging from 120-230kbp; although herpes viruses vary greatly in sequence identity and homology, they all share  four common elements: an envelope, a tegument which is composed of viral enzymes, a capsid of 162 capsomers, and a core composed of genomic DNA; transcriptional regulator ICP4 ( infected-cell polypeptide 4) is a sequence-specific transcriptional activator that is required for efficient transcription of early and late viral genes; ICP4 is essential for productive infection</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_006151.1:102695-107803 Suid herpesvirus 1, complete genome
+CAGAAAATACAGCACAAACTTTATTTTCTCACTCTGAAAACAAACTCTTTTCTCACCCGATGGGAGAAGG
+AGGAGAAGGGGACCGGGGGACCGCGGGAGGAGGAGAAGGGGACCGGGACGATCCTCCGCCGCCGAGCCCT
+CCGCCGCGGCCGCCGCCGCCGCTTCCACCACCGCCGCCACCTCCGCCGCCGCCGCAGCCACCTCCGGCCG
+GGGGATCCGCGCGGAGGAGAAGGAGAGGAGGAGGGCCACCGGGCCGGGGAGGCAGGCGCCGGGGAGGCAA
+GCGCCGCCGGGCCGAGGGGACCGAGGCCGCCGCCGCGGACGCAGAGGAGGAGGAGGACGGGGACGGGGAC
+GAGGACGAGGACGAGGACCGGGCCGAGGGCGAGGGGAGAGAAGACGGAGGAGAAGGGCCTCGAGGAGCCG
+GTGGAGGGGCCGGAGAGTCAGAGTCAGAGTCCGGCCGGGCCGAGGGGGCGCCCCGCTCAGCGGAGCAGCA
+GGTAGGGGTTGCCGGCGTCCTCGGCCTCCTCGTCGTCCGAGATGGCCTCCACCTTGATGGGCCCGAGCGG
+GCCGCGGGGCCGGCCGTCGCCGCCGCGGACGCCGACGATCTCCACAGAGTCCCCGTCCTCGCCGGGGCCG
+GCCCCGGCGCCCGAGGCCCCCGCGGGCCGGTGGGTCTCCACGGCGCCCCCGGCGGCGGCGCGGACGCTGG
+TCTCGAAGGGGGCAAAGTCCCAGAGCACGGCCGGCGGGGCGCCCGCGGCGGCGACGGCGCCCGGGGTCAG
+CACCAGCGGGGCGGCCTCGGCGTCGGGCTCCAGCAGCGCCGCGGCGCAGAAGGCGCGCAACTCGGCCGGC
+AGGCCCTCGGGGCCGCGGAGCTCGGCGAGGCCCCGGCGGCCGCAGGAGACGAAGACGGGCCGCAGCGGGG
+CGCCGAGCCCCCAGCGGTTGGCCGCGCGGTGCCCGAAGGCGGCGCCCGCGTCAAAGTCCGGGTCCCCGAG
+CCCGAGCGCGGAGCGCTGGCGGGCCATGTCCTTGCAGCCGTCCACGGTGGGGAGCACGCGCTGGCGGTAG
+GCGCGCGGCGGCAGCGGGACCGGGGTCCGGGGCCCGGCGCGGGTGCTCACCGTGTAGCGCACGTTGTCCT
+GGCGGCAGAGGCGCAGCGGCTCGGCCCCGGGGTGCAGGCGGGCGAAGGAGGCCTCCACGCGGGCGAAGCA
+GGCCGGGCCCACGATGGAGCTAGAGTCCAGCACGGCCGCGCGGAGCTCGCGGCACCCGGGCCAGCGCACG
+GCGCACTGGGCGGCCGGGTCCAGGCGGACGCGGACGTAGACGTGGTAGTCCCCCACGGCCGGGCCGTCCG
+CGGGCCAGTCCTCGATGGTGTCCAGCACGATGAGCCGGCGCCGCGCCGCGCCGAGCCGCGAGCAGAGGTA
+CTCCACGGCGCCGGCGAAGCCGAGGTCCCGCGCCGAGAGCAGCAGCACCCCCTGGGCGTTGAGGCGGCCG
+ATGTCGGGGCGCCCGGTCCAGTTCCCGGCCCAGGCGTGCGAGTCCGGCGTGCAGAGGCGGTGGGCGAAGG
+CGGCGAGCAGCGCCGAGAGGCCGCCGCGGCGCGGGTCCCAGGCCGGGCGCGGGGCGCCCTCGGCGGGCTC
+GGCGCAGAGCTCCTCGTGGGGCAGCGGGTCGTAGAGCACCACCACGCGCACGTCCTCGGGGTCGGCTATC
+TGCCGCATCCAGGCGGCGCGGCGGCGGAGCGGGGCGCCGCGGCGCGCGGCGATGTGCGCCAGGGCGGCCG
+GGTCGAAGGTGAGCGCCGGGCGCCAGAGTTCGGGGAAGACCTCCTGGTCCACGAGGGCGCGGGCCACCTC
+GGGCGGGCAGTAGGCGGCGAGGGCCGCCTCGGAGGGCCGCGGCGTGTGGGTCTCGCCGGCCGGGACGCGG
+CGGAAGCCGCCGTCGGGCGCGGGGTGCTCGGGCATGGGCCCGAGCGGGCGCCGGAGCCGGTCGTCCTCGG
+AGGAGGAGGAGGAGGAGGACAGCAGCGCGGGAGCGGGGTCCGGAGCGGGCCCGAGTCCGAGGGAGCGGCG
+CTTGCGCCGGGGCCCCCGGTCCTCTTCGTCGTCGCGGTGGCCGTGGCCGTCCCCGCGGAGGGCCGCGCCG
+GAGAGCCCCTCGTCCTCCTCGCCGTCCCCGGGGCGGCGGGCCCCGGGCGCGCGGCGCTTCTTCTTGCGCC
+GCTCGGGCGCTGGGTCCGGGCCGGCGGCGGGGGAGCTGGCGTAGCCGGAGGAGCCGGAGAGGCCGGACTT
+GGTGCTGGAGCTGGACTTGGTGCTGGAGCTGGACTTGGTGCTGGCGGGGCTGGAGGGCCCGGAGCCGGGG
+AGGCCGGAGGGGGCGCCCGCCGCCGCCGGCGCCGGCGCTGGGACGACGAGGCCGGGCTGCTCGGGCCAGA
+GCGGGGGCAGGCCGGGCGCGGGCTCCGCGGGCCCGGGCCGCGCGGCGGCCTCGGCGAGCCGGGCCGCGGC
+CACGTTGGCCGGGGCGAAGAGGGCCGCGGCGTAGGTCCAGGCGGCCTCGCGGGCGCGGGCCCCGTCCACG
+CTGTAGCGCACCAGCGGCGCCACGGTGCGGGCGACGAGGGCGACAGAGTCCGCGGCCTGCCGCCGCTCGG
+CCGGGCCGGCCCCGGGGATCGCGTCGCGGAGCGCGAGCAGCGCGGCCGTCACCTCCTCGAGGCAGGCGGG
+CCCGAGGGCGGCCGGGGCGCGGGCGGGCGCGGGCAGCCGGAGCGGGCAGGGCAGCAGGCGCTCGAGGACG
+CCGCGGCAGGCCAGGACGCAGGCGTCCGCCAGCTCGCGGGGCACGCGGCCGGGCTGCGCGGCGGCGAAGG
+CGGCGCGGACGCGGGCGCAGAGGGCCTCGACGGTCGCCTCCCCGGCGCGGGGGTCCGCGGCGCGGCCCGG
+GTAGGCCATGTCGGCGTAGGCCCGGCGGAGGCTCTGCAGGATGAAGGTCTTCTGGGTGCGATCGTAGCGG
+CGGCTCATGGCCACGGCGCTCACCGCGTGCGGCAGGGCCCAGAGCGGGTCCTGGGCGGCCATGGCGTCCC
+CGATGTGCGGCAGCGGCGGGGTCACGCTGCCGGTGATGAAGGAGCCGTGGCCGTGGGGCGCGTGGACCCG
+GCGCTGGCAGAACTGGTTGAAGCGCTGGTCGGGGGCCTGCATCCGCGGGTTCTGCAGCCAGGACATGGCC
+TCGCCGGCGGCCCCGCTGTAGATGAGGCGCACGAGGGCCTCGTGCTGCTTCCTCGAGTCCCCCATCTCCG
+GGATGAAGACGGGCACGGGCCCGGCCGCGGCGCGGTAGCGGGCCGCGGCCTGGCGGACGTCGTCCTCGTC
+CCAGAGCCCCTCGCGGGAGTCCCCGGCGCCGCCGTAGCGGACGCGGCCGTCGGCCGGAGGGTCGGAGCCG
+GGCCAGGGCTCCCCGAGCGGGGTGAGCAGCGGCCCGTCGGTCGGCGGGGGCCCGTCGGCCATGAGCGAGA
+GGTGGTTGTTGGTGGAGCGGCGCTTCCTGCGCGGGGGCCGGGCGGGCTCCGGGGCCGGGGCCGGGGAGGC
+CGCGGCGGAGGAGGAGGCGGAGGAGGCCGAGGGCCGCGGGGCCGCGGCGGGCGCCGGCGGAGACGGTGGC
+GGCCCGGCGCGGGCGAGTGGGGCGCCGGGCCGGACTCCTTCGTCTTCTTCTCCCTCGGAGGAGGACGAGG
+ACGAGGAGGACGAGGAGGACGAGGAGGACGAGGACGAGGAGGAGGCCGAGCGCCGCGCGGCGGCGGCGGG
+GGCCCGGGGGGCGGAGGGCGAGCGGGCCGGGGAGAGGTCCGAGTCGCTGCCGCTGCTGCTGGAGCTGCTG
+AAGCCGCGGCCGCGGCGGAGGGCGCCCTCTCCGGCGCGGCGCCGGCGGGGCTGTCTCTGCGGGGGCGCCC
+CGCCGTCCCCGGCGAGGCCGAGTCCGTCCTCGTCCTTCTCGGGGCCGCGGGCGACGGTCTCGACGGCGAC
+GGTGGTGGTGGAGTTGGAGTTGGAGTTGGGGTTGGAGGAGACGGGGCTCCGGGCGCCAAGCGGCCGAGGA
+TCGAGCCGCCTCGCGGCGGCGGGCTCGTCGAGCAGGGGCTCGCGGTGCTGGTGATGGTGACGACCGCGGT
+CCCCTCCGGCGGAGGGGGCGCCGCCGCCGCCGGGCGCCGAGACCGGCCCGGCGGCGGGGGAGGCTGGGGA
+AGCGGGCCCCCGCCGTGCCGGCGCTGCGGCCACCGCTGCTGGCTGTGCTGGTGGCGCCGGGGTCCGAGGC
+CGCGCCGCCGGCCCGGGCTCACCGACCGGGTCCCCCCTCGCGGGGGACCATCTCCGCGGGGCTGCCGAGG
+GGCCGGGAGAGCCGGAGGAGGAGGCCGGGGAGGCTGCGGAGGGGGACGAGCGCCCGGGGCCGCCGGGGGC
+CCCGGCCTCTGCCGCTGCGAGTGCTGCCGGGGTCGGCGGCCGGGGCCCGGAGCCGGCCCGGGACCGGGGC
+CCGAGGACGAGGTGACCGTGCTCGGAGCCCTGATGGAGAGCCCGACCGGGGGACCCGGCGGCCGGGGACC
+CGGGCTCGTCCTCCTCCTCGTCTTCGTCGTCTAGCACCACGATCTCGCCCGAGCCCCGGCGGGGCTGCTG
+CTGCTGCTGGGCCGAAGGAGGACGGGGCGGCCTCGTGGCTCCGGCCGCGGCCGCGAGGACGGCGGCCTCG
+GCCTCGGCGGCGTCGTCGGAGAAGAGGCCGCCCGGGCCGAAGAGGAGATCCTCGCCGGAGGAGCCGCGGC
+GCCGGGAGCCCTGGCTGCCGCCGTCGGGGCCGGACGCGATGCCCTCTTCCTCGGCCGCGGCGGCGGCCGC
+CAGGAGCTGGCTGAAGTTGCCCTCGGTCTCGATGAAGTCAAAGAGATCGTCGGCCATGGTCTCGATCGGG
+GTCTTTCTGCCTGAGCGAGGCCGGGCGCCGAGCGCGGAGAGCGGGCGGCGGAGAAGAAGGAGGAAGGCGG
+CCGGAGGAGGAGAAGAAGAAGACTCTTCTCTGGCGGGCCGAGAGCCTCGGTGGGTCGGGCGTCCGTCGAG
+GGCTGATAGCCGCCGGAGAGCCGGAGTCTTCAGAGTCCGCGCCGGAGCGGAGACGGTCGGATCCCCTCGG
+GTTGGCAGAGAACGATGCTGTCCGTACCTGCACCGCAGTGAAGTGCTACGATGGAGACCGCGCTTATAA
+
+</dna_sequence>
+        <protein_sequence>>YP_068382.1 transcriptional regulator ICP4 [Suid alphaherpesvirus 1]
+MADDLFDFIETEGNFSQLLAAAAAAEEEGIASGPDGGSQGSRRRGSSGEDLLFGPGGLFSDDAAEAEAAV
+LAAAAGATRPPRPPSAQQQQQPRRGSGEIVVLDDEDEEEDEPGSPAAGSPGRALHQGSEHGHLVLGPRSR
+AGSGPRPPTPAALAAAEAGAPGGPGRSSPSAASPASSSGSPGPSAAPRRWSPARGDPVGEPGPAARPRTP
+APPAQPAAVAAAPARRGPASPASPAAGPVSAPGGGGAPSAGGDRGRHHHQHREPLLDEPAAARRLDPRPL
+GARSPVSSNPNSNSNSTTTVAVETVARGPEKDEDGLGLAGDGGAPPQRQPRRRRAGEGALRRGRGFSSSS
+SSGSDSDLSPARSPSAPRAPAAAARRSASSSSSSSSSSSSSSSSSSSEGEEDEGVRPGAPLARAGPPPSP
+PAPAAAPRPSASSASSSAAASPAPAPEPARPPRRKRRSTNNHLSLMADGPPPTDGPLLTPLGEPWPGSDP
+PADGRVRYGGAGDSREGLWDEDDVRQAAARYRAAAGPVPVFIPEMGDSRKQHEALVRLIYSGAAGEAMSW
+LQNPRMQAPDQRFNQFCQRRVHAPHGHGSFITGSVTPPLPHIGDAMAAQDPLWALPHAVSAVAMSRRYDR
+TQKTFILQSLRRAYADMAYPGRAADPRAGEATVEALCARVRAAFAAAQPGRVPRELADACVLACRGVLER
+LLPCPLRLPAPARAPAALGPACLEEVTAALLALRDAIPGAGPAERRQAADSVALVARTVAPLVRYSVDGA
+RAREAAWTYAAALFAPANVAAARLAEAAARPGPAEPAPGLPPLWPEQPGLVVPAPAPAAAGAPSGLPGSG
+PSSPASTKSSSSTKSSSSTKSGLSGSSGYASSPAAGPDPAPERRKKKRRAPGARRPGDGEEDEGLSGAAL
+RGDGHGHRDDEEDRGPRRKRRSLGLGPAPDPAPALLSSSSSSSEDDRLRRPLGPMPEHPAPDGGFRRVPA
+GETHTPRPSEAALAAYCPPEVARALVDQEVFPELWRPALTFDPAALAHIAARRGAPLRRRAAWMRQIADP
+EDVRVVVLYDPLPHEELCAEPAEGAPRPAWDPRRGGLSALLAAFAHRLCTPDSHAWAGNWTGRPDIGRLN
+AQGVLLLSARDLGFAGAVEYLCSRLGAARRRLIVLDTIEDWPADGPAVGDYHVYVRVRLDPAAQCAVRWP
+GCRELRAAVLDSSSIVGPACFARVEASFARLHPGAEPLRLCRQDNVRYTVSTRAGPRTPVPLPPRAYRQR
+VLPTVDGCKDMARQRSALGLGDPDFDAGAAFGHRAANRWGLGAPLRPVFVSCGRRGLAELRGPEGLPAEL
+RAFCAAALLEPDAEAAPLVLTPGAVAAAGAPPAVLWDFAPFETSVRAAAGGAVETHRPAGASGAGAGPGE
+DGDSVEIVGVRGGDGRPRGPLGPIKVEAISDDEEAEDAGNPYLLLR
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>To examine the response by IE180 more closely, a vaccine trial in mice with a vector DNA construct that contains the gene encoding for IE180, designated pcDNAIE180 was conducted.  Seven months after immunization with pcDNAIE180, an overall 25% of BALB/c, C3H/HeJ, and C57BL/6 mice receiving a lethal PrV challenge were protected [Ref1246:Chang et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene1121">
+        <gene_name>Il2</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16183</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>7110653</ncbi_protein_id>
+        <gene_locus_tag>DN-144H19.3</gene_locus_tag>
+        <gene_refseq>AF195954</gene_refseq>
+        <protein_refseq>NP_032392</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>3</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>37120712</gene_start>
+        <gene_end>37125953</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>interleukin 2</protein_name>
+        <protein_pi>4.63</protein_pi>
+        <protein_weight>18506.61</protein_weight>
+        <protein_length>169</protein_length>
+        <protein_note>Also known as Il-2</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099107:37120712-37125953 Mus musculus strain C57BL/6J chromosome 3, GRCm38 C57BL/6J
+ATTTTTTTTTAGAGGAGAGCTTTATTTCTTGAAAACACTGATTAACATAGAGTTCACAGGAATAACTGAG
+AAGTTATTTTAGCGCTTACTTTGTGCTGTCCTAAAAATGACAGACATCTGAGCTTATTTATATTTGAATC
+ATCTAAATACTTTTATTAATGAGTCTACCTACACATGATATTTAACAATTCAATATAATAAATAATTTCA
+GATAAATAGTTTAAAACATTTTTGAGCCCTTGGGGCTTACAAAAAGAATCTTTAAAGATCCATATTTATC
+ATCTGAAGACTAGTAGTTACAAAAGATAGTAAACAATACATCCAAAAATAAATTAAAGTTAAATATTTAA
+ATAAATAGAGAGCCTTATGTGTTGTAAGCAGGAGGTACATAGTTATTGAGGGCTTGTTGAGATGATGCTT
+TGACAGAAGGCTATCCATCTCCTCAGAAAGTCCACCACAGTTGCTGACTCATCATCGAATTGGCACTCAA
+ATGTGTTGTCAGAGCCCTAAAAAAGAATATAAAATTGTAGGCTAAGGTAGCTTACTTTGCATATAATTAT
+TCTTCACGGAAGCTTTTAGGCATTTATTTTAACACTGGTTAAATATATTGAACATTCACATTTCTGAAAT
+GATCACAATTATTGGGTTATGTTTTATTATGATATCAAATGGTAAAGCATAAAAAATAAAGCTCTCCAGA
+GTTGATTACCAACGAGCATTTGATGGGAACACTGAACACTTCTGTAGAATTCAGTTGCTTGACCACTTTT
+TCTCTGGTAAGTGTACACAGCTATGCATCAATTTAGGCTTCAGGAATGGAGAAATGATACTTGTTATATG
+TTCTTTGCTAAATCTTAAGAGTCTATTATTCAATTCTTTCCCCCCCAAGTCAGAATGGGAACAACCCAGA
+GTAGGTTAGGACAAGCATCTATTGGGGGAAATTTGGAGAATTTTGTTATAGATATACCTACCCTGATACC
+AGTGTAGATGAATCACAAAGTTTGTACATGTATAAATATTATAAATTTGTTCTGTGGATTAGCTTTTTGA
+AAGCTAACCCTCTTTGCTAAAGGAGATATTTTAATTCTGTTTTTAGGTGACAAGCTGAGAAGGAAATATT
+TTGACAAATTTATGGGATGGCTTTTCCAAATCTGACTAATTCCTTGTAAGTCAAATGAGGCAGATTATTC
+CTTTTAAATAAATACTCCTTTTCAAATAAGCTGCTGTGGTCTTATATACCCTCTTTACATAGCTACTTCA
+ATATTCTAATGTCTTGAATTTTTCATTTTTAAAAATATGTGGCCCTTGAAACATTTTTCTAGTTCTCATG
+TAGCTCTAAAGTTTGTACCATTCATTAGGGGTGAACTTTCTGATGTTGGCCATAGATTTTAGAGCATCCA
+TCTTTGCATACGTAAGTACTCGATTTTAGAGCATCCATCTTAGCATACGTAAGTACTCACACCTTTCAAC
+GTCTAGATGATGTGTATTTCAGCCTGCTTTAAAAACCTCAAATGGAAGCTGGGCAGTGGTGGTGCAGGCC
+TTTAATCCCAGCACTTGGGAGGCAGAGGCAGGCGGATTTCTGAGTTCGAGGCCAGCCTGGTCTACAGAGT
+GAGTTCCAGGACAGCCAGGGCTACACAGAGAAATCCTGTCTCAAAAAAACAAACAAACAAACAAACAAGA
+AACAAACAAACAAAAAAAACAAAAACAAACAAAACAAAACCTCAAATGGAAACAGTGCACTGAAATGTGA
+CTTTGGTTTGGAAAGGACTAGCCCACACCCTCTTGGAGGCTTGCTGCTACTGTCTCACCAGAGTCCATGA
+TTCTTGTGCATTTAAAAACAAAGCTCTGCAGTGGGCTCTCCCCGTCCTGCTCTGTCCATTTTAATGGCTG
+CCATTTTTGGAGAGAAATGTCTGTTTTTCTACCAATACCAGCACAACTTCTCTGGAAAAACTTTTCAGAT
+AATTTTTTCTGATCTGATGAATGTAACACCAGCAAGAGTTGCTTGTTTCTTGTGGAATTCTACTCCGTGC
+TTTCTCTCACATCCAGTTCTATGCTGGTGTGGAGGGAGCAGAGTGTTCATGTTCCCAGTTTCCTTGCAGG
+TGATGGTAGGTGGAAATTCTAGCATCATCCTACAGTGGAAGGATTCACTTGCACAGTGACTTTAAACTTT
+GGCTGACTAAATGCACAGAACCCATCAAAGACCAGAAATGGCAAGCCACTTAAAAATGCATTTCTTCTCT
+ATTTTATTTCCAGATTAGCAAATAAAGCAACACCTTACCTTTAGTTTTACAACAGTTACTCTGATATTGC
+TGATGAAATTCTCAGCATCTTCCAATTGAAAGCTTTTGCTTTGAGTCAAATCCAGAACATGCCGCAGAGG
+TCCAAGTTCATCTTCTAGGCACTGAAGATCTTTCAATTCTGTGGCCTAGAGGAGTAATAAGCTTAACCAT
+CAGCTCAGCTCACCACATACTGAAGAGCCAGAAAGTTAGTCTGCAGTCTCTCTAATCAAGAGAAGGCAGC
+ACATAGCTTTTACCACTCCCTGTCCTCTGTAAAGGGGGACTGAGGTAATCGATGCCATAAATCTAGAAGA
+GCAAGAGCTCACAACCATAAGGGTCACCTTGACTGTTAGGCCACTCTAGTGAGCTCTTCTGGCTTCATTA
+GACTTTGTAAAAAGTCTGTGTTTCTCTACCAATGCATAGCACAAGTTCAGACTATTGTTCCAATCTACAA
+AGAAATCTGCAAGGTTCACATTCTAATATCTAATCGCAGAGTTGAGAATCACAGAAGGGTAAGGGACAGG
+AATCCTTGGATGCCAACTGTCATAGGCCTAAATCTTACAGATTAGGTTATCATGGCCCTGACTGAGGGGT
+GTCAAGATAGCCAGGAAGACACATGTAATATTTTTTAAATTTATACTTCTCTGCAATTACTAAAGATGAG
+TTTTTTAAAAACCCATATGTCAAGCTAGGAAGATGGCTTTTAAGGTAAAGGTACCTGCCACCAAACTTGA
+TGATTTGAGTTCAATTGCAGTGACCCACCCACATTGTGGAAAGAATGGCCCAACTTTCATATTTCGTCTT
+CTGACCTCCACAGTTACACTGTGATACACATGCACCTCCACACATACATACATACATACATACATACATA
+CATACATACATACATACATACATACATAAAATGTAAAATCTATTTGTCCCAATGAAAAAAGTCATAACAT
+TTTGGCAGAACACTTGGGAGAATTTTTCTGATCCATGTATGAAATAATGTTTAAATACATCATGCATACT
+TACATACATATACAGGGAAAAAGGATATTGTCTAGCTCTATAGTACACTATGATTTCCATAAAGTCAGCT
+GCTTTAAGTCTACAGTGAACTGTGTTATCTCCATTTTACCAAGTCTCACAATCAGTGTCTTTCCCACAAC
+CACATGAACGGGGAGCAAGGGTGGCCCGGTCGGTCGGTCGCTCCTTTCATTAACCACAGCCTTTGAATTA
+CATGCTTCTATTGTTTTTAAAATCTTACATACCGAATGCAGGTTAAATGAAAACATCAGCAGAATTTACC
+ACATTACTCTTGTTTTCAATAATTATTTTAAAACTTAGATTTCTAGGAATTTCACCACTCTCTAAATTAA
+CATGATCTCTGTTGTTTCTCTAACAATCCTTAGAGGAAGAGGTTTGACAAGATAACACGTAGTTCCTGAT
+TGGTCTGCTATTGACCTTCCAACTTGTTATGGTGTGTCTTGGGTATTCAGTGTGGAGCTCCTTCCCTCAC
+AGAACTCTCCAGTTTGTTACTGTGGGAGCTGAACATTATGTGACTGTAATTAAGCTGGAAGAGCAACTGG
+GGCCTTTCTTTTTCATCTCCTGTAGAACAGCTAGAGGCAAAGTTCCCCTGACTCAATAGGAATGGGTCAA
+CAGCTGCCTCTTTGTCCCCTTAGATCCCATTTTGCTCTAGGCTTGGATTTACTTGGGACAAGCTCTTTCT
+AGGACCAAAGTTATCCATTCTCTTTTGACTTTCGGGACTAGAGCAAATTTCTACCCTTGCTGGAGTTCTA
+AGAGCTTGTGTAAGCTGTTTTGTATCACACAACATTCTGCCTCCAAAGGAGACCAAAAAACCTTTCAATA
+TTGAGAGATAGTATCATGTAGTAATATTACAGCTCTCTAGTTCCACTAGTTAAAAGAGACTGTATAAATC
+CAAAATTGTTTTATACATCTCGGACTTCTTCTCTAGCACTAATAGTGTGTTTATGTGCTGTTGGCCAGAC
+ACTGTTCTGAAACCTGACAAGTGATAAGCATAGCAATGATCATTTATGTAAGTGGGTGAATGAGCATAGA
+CAACTTCCTGAGGCCATGAGAGCTAGGCCCTAGCAGGGCTGGACTCCACTGCAGATCATTGGCCCTAGAA
+TCTTAACATTGGTTATGCTGCTCCTCAAAAATGCAGTCATAGGAATCATTCTTAAAACAGTAAAGTGTGT
+GTAAAATGAGACCCTCTCAAGTCAATTTTTACATTTAAGAAGCTGAAATAATGCACCTCTCTCAAATATC
+TGTAGGACAAGCATAAAACAGAAATCAACAGTCTTTAAATTATCCCAGCATCAAAATGCAATCATCTTGC
+ATTTTCTTCTCATTCCCTTTCCCAACACATAAATACACAGGAAAAATGTAAAGAAAACCATTTAAAAGAA
+GTACCATTGTCAAGATTTTTTTACAGAGAGATATCAGAGAAACTTATTTTCTTCAGATGAGGTACTATTC
+ATCTGGTCACATGTTATTTACACGTTATACACATGTATGTTACTTTGAATTCATTAGAGCACCAGTTAAA
+CACAGAAACTCACTCACCTGCTTGGGCAAGTAAAATTTGAAGGTGAGCATCCTGGGGAGTTTCAGGTTCC
+TGTAATTCTGAGAAAGCGTAACACATTATTATTAAAGGTTATTAAACACAGCCTTTGGCAAGAAAGCTAA
+AGGTATTGCCTATAGATGGGATGGCTGTGCACTTACCTCCATCCTGCTCAGGAGCTCCTGTAGGTCCATC
+AACAGCTGCTCCAGGTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGTGCTTCCGCTGTAGAGC
+TTGAAGTGGAGCTTGAAGTGGGTGCGCTGTTGACAAGGAGCACAAGTGTCAATGTGACACAGGATGCGAG
+CTGCATGCTGTACATGCCTGCAGGACTTGAGGTCACTGTGAGGAGTGATTAGCAAGGGTGAT</dna_sequence>
+        <protein_sequence>>gi|7110653|ref|NP_032392.1| interleukin-2 precursor [Mus musculus]
+MYSMQLASCVTLTLVLLVNSAPTSSSTSSSTAEAQQQQQQQQQQQQHLEQLLMDLQELLSRMENYRNLKL
+PRMLTFKFYLPKQATELKDLQCLEDELGPLRHVLDLTQSKSFQLEDAENFISNIRVTVVKLKGSDNTFEC
+QFDDESATVVDFLRRWIAFCQSIISTSPQ</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene125">
+        <gene_name>Il4 (interleukin 4)</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16189</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10946584</ncbi_protein_id>
+        <gene_locus_tag>RP23-188H3.4</gene_locus_tag>
+        <gene_refseq>NM_021283.1</gene_refseq>
+        <protein_refseq>NM_021283.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IL-4, Interleukin 4</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|10946583|ref|NM_021283.1| Mus musculus interleukin 4 (Il4), mRNA
+GGATCCCCGGGCAGAGCTGGGGGGGGATTTGTTAGCATCTCTTGATAAACTTAATTGTCTCTCGTCACTG
+ACGGCACAGAGCTATTGATGGGTCTCAACCCCCAGCTAGTTGTCATCCTGCTCTTCTTTCTCGAATGTAC
+CAGGAGCCATATCCACGGATGCGACAAAAATCACTTGAGAGAGATCATCGGCATTTTGAACGAGGTCACA
+GGAGAAGGGACGCCATGCACGGAGATGGATGTGCCAAACGTCCTCACAGCAACGAAGAACACCACAGAGA
+GTGAGCTCGTCTGTAGGGCTTCCAAGGTGCTTCGCATATTTTATTTAAAACATGGGAAAACTCCATGCTT
+GAAGAAGAACTCTAGTGTTCTCATGGAGCTGCAGAGACTCTTTCGGGCTTTTCGATGCCTGGATTCATCG
+ATAAGCTGCACCATGAATGAGTCCAAGTCCACATCACTGAAAGACTTCCTGGAAAGCCTAAAGAGCATCA
+TGCAAATGGATTACTCGTAGTACTGAGCCACCATGCTTTAACTTATGAATTTTTAATGGTTTTATTTTAA
+TATTTATATATTTATAATTCATAAAATAAAATATTTGTATAATGT</dna_sequence>
+        <protein_sequence>>gi|10946584|ref|NP_067258.1| interleukin 4 [Mus musculus]
+MGLNPQLVVILLFFLECTRSHIHGCDKNHLREIIGILNEVTGEGTPCTEMDVPNVLTATKNTTESELVCR
+ASKVLRIFYLKHGKTPCLKKNSSVLMELQRLFRAFRCLDSSISCTMNESKSTSLKDFLESLKSIMQMDYS</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation>IL-4 plays an important role in Th2 immune response.</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1016">
+        <gene_name>UL23</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2952559</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>51557518</ncbi_protein_id>
+        <gene_locus_tag>SuHV1_gp35</gene_locus_tag>
+        <gene_refseq>BK001744</gene_refseq>
+        <protein_refseq>YP_068352</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>59511</gene_start>
+        <gene_end>60589</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>thymidine kinase</protein_name>
+        <protein_pi>7.14</protein_pi>
+        <protein_weight>32400.33</protein_weight>
+        <protein_length>320</protein_length>
+        <protein_note>2.7.1.21</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|51557483:59511-60589 Suid herpesvirus 1, complete genome
+GATGCGCATCCTCCGGATCTACCTCGACGGCGCCTACGGCACCGGCAAGAGCACCACTGCCCGGGTGATG
+GCGCTCGGCGGGGCGCTGTACGTGCCCGAGCCGATGGCGTACTGGCGCACTCTGTTCGACACGGACACGG
+TGGCCGGTATTTACGATGCGCAGACCCGGAAGCAGAACGGCAGCCTGAGCGAGGAGGACGCGGCCCTCGT
+CACGGCGCAGCACCAGGCCGCCTTCGCGACGCCGTACCTGCTGCTGCACACGCGCCTGGTCCCGCTCTTC
+GGGCCCGCGGTCGAGGGCCCGCCCGAGATGACGGTCGTCTTTGACCGCCACCCGGTGGCCGCGACGGTGT
+GCTTCCCGCTGGCGCGCTTCATCGTCGGGGACATCAGCGCGGCGGCCTTCGTGGGCCTGGCGGCCACGCT
+GCCCGGGGAGCCCCCCGGCGGCAACCTGGTGGTGGCCTCGCTGGACCCGGACGAGCACCTGCGGCGCCTG
+CGCGCCCGCGCGCGCGCCGGGGAGCACGTGGACGCGCGCCTGCTCACGGCCCTGCGCAACGTCTACGCCA
+TGCTGGTCAACACGTCGCGCTACCTGAGCTCGGGGCGCCGCTGGCGCGACGACTGGGGGCGCGCGCCGCG
+CTTCGACCAGACCACGCGGGACTGCCTCGCGCTCAACGAGCTCTGCCGCCCGCGCGACGACCCCGAGCTC
+CAGGACACCCTCTTTGGCGCGTACAAGGCGCCCGAGCTCTGCGACCGGCGCGGGCGCCCGCTCGAGGTGC
+ACGCGTGGGCGATGGACGCGCTCGTGGCCAAGCTGCTGCCGCTGCGCGTCTCCACCGTCGACCTGGGGCC
+CTCGCCGCGCGTCTGCGCCGCGGCCGTGGCGGCGCAGACGCGCGGCATGGAGGTGACGGAGTCCGCGTAC
+GGCGACCACATCCGGCAGTGCGTGTGCGCCTTCACGTCGGAGATGGGGGTGTGACCCTCGCCCCTCCCAC
+CCGCGCCGCGGCCAGATGGAGACCGCGACGGAGGCAACGACGACGGCGTGGGAGGGGGCTCGGGGCGCGT
+ATAAAGCTATGTGTATGTCATCCCAATAA</dna_sequence>
+        <protein_sequence>>gi|51557518|ref|YP_068352.1| thymidine kinase [Suid herpesvirus 1]
+MRILRIYLDGAYGTGKSTTARVMALGGALYVPEPMAYWRTLFDTDTVAGIYDAQTRKQNGSLSEEDAALV
+TAQHQAAFATPYLLLHTRLVPLFGPAVEGPPEMTVVFDRHPVAATVCFPLARFIVGDISAAAFVGLAATL
+PGEPPGGNLVVASLDPDEHLRRLRARARAGEHVDARLLTALRNVYAMLVNTSRYLSSGRRWRDDWGRAPR
+FDQTTRDCLALNELCRPRDDPELQDTLFGAYKAPELCDRRGRPLEVHAWAMDALVAKLLPLRVSTVDLGP
+SPRVCAAAVAAQTRGMEVTESAYGDHIRQCVCAFTSEMGV</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A UL23 mutant, in combination with mutations in glycoproteins G and E, is attenuated in raccoons, with a 75% survival rate.  This mutant also provides some protection from wild type PRV [Ref1962:Weigel et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene655">
+        <gene_name>UL44</gene_name>
+        <strain>Suid alphaherpesvirus 1</strain>
+        <vo_id>VO_0011239</vo_id>
+        <ncbi_gene_id>2952505</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>51557513</ncbi_protein_id>
+        <gene_locus_tag>SuHV1_gp30</gene_locus_tag>
+        <gene_refseq>BK001744</gene_refseq>
+        <protein_refseq>YP_068347</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>53985</gene_start>
+        <gene_end>55504</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>envelope glycoprotein C</protein_name>
+        <protein_pi>6.98</protein_pi>
+        <protein_weight>45878.36</protein_weight>
+        <protein_length>479</protein_length>
+        <protein_note>envelope glycoprotein C; the Herpesviridae are non-segmented dsDNA viruses with genomes ranging from 120-230kbp; although herpes viruses vary greatly in sequence identity and homology, they all share  four common elements: an envelope, a tegument which is composed of viral enzymes, a capsid of 162 capsomers, and a core composed of genomic DNA;virion envelope glycoproteins bind to cellular receptors; the nonessential glycoprotein gC interacts with cell surface proteoglycans, whereas the essential glycoprotein gD is involved in stable secondary attachment</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_006151.1:53985-55504 Suid herpesvirus 1, complete genome
+TTTTAAAACCGCGATGGGGGGACGGGGGGCCATTCGCACGCGCCATGGCCTCGCTCGCGCGTGCGATGCT
+CGCTCTGCTGGCGCTCTACGCGGCGGCCATCGCCGCGGCGCCGTCGACCACGACGGCGCTCGACACGACG
+CCCAACGGGGGCGGCGGCGGCAACAGCAGCGAGGGAGAACTCTCGCCCTCTCCGCCCCCGACCCCCGCGC
+CCGCCTCGCCCGAGGCGGGCGCGGTCTCGACGCCCCCGGTCCCGCCGCCCTCGGTCTCGCGCAGGAAGCC
+CCCGCGGAACAACAACCGGACGCGCGTCCACGGCGACAAGGCCACCGCGCACGGGCGCAAGCGCATCGTG
+TGCCGGGAGCGGCTGTTCTCGGCGCGGGTGGGGGACGCGGTCAGCTTCGGGTGCGCCGTCTTCCCGCGCG
+CCGGGGAGACCTTCGAGGTCCGCTTCTACCGCCGCGGGCGCTTCCGCTCGCCCGACGCCGACCCCGAGTA
+CTTTGACGAGCCCCCGCGCCCGGAGCTCCCGCGGGAGCGGCTCCTCTTCAGCTCCGCCAACGCCTCCCTC
+GCCCACGCGGACGCGCTCGCGCCCGTCGTCGTCGAGGGCGAGCGCGCGACCGTCGCCAACGTCTCGGGCG
+AGGTGTCCGTGCGCGTGGCCGCGGCGGACGCCGAGACCGAGGGCGTCTACACGTGGCGCGTGCTGTCCGC
+CAACGGCACCGAGGTCCGGAGCGCCAACGTCTCGCTCCTCCTGTACAGCCAGCCCGAGTTCGGCCTGAGC
+GCGCCGCCCGTCCTCTTCGGTGAGCCCTTCCGGGCGGTGTGCGTCGTCCGCGACTACTACCCGCGGCGCA
+GCGTGCGCCTGCGCTGGTTCGCGGACGAGCACCCGGTGGACGCCGCCTTCGTGACCAACAGCACCGTGGC
+CGACGAGCTCGGGCGCCGCACGCGCGTCTCCGTGGTGAACGTGACGCGCGCGGACGTCCCGGGCCTCGCG
+GCCGCGGACGCCGCGGACGCGCTCGCGCCGAGCCTGCGCTGCGAGGCCGTGTGGTACCGCGACAGCGTGG
+CCTCGCAGCGCTTCTCCGAGGCCCTGCGCCCCCACGTCTACCACCCGGCGGCGGTCTCGGTGCGCTTCGT
+CGAGGGCTTCGCCGTCTGCGACGGCCTCTGCGTGCCCCCGGAGGCGCGCCTCGCCTGGTCCGACCACGCC
+GCCGACACCGTCTACCACCTCGGCGCCTGCGCGGAGCACCCCGGCCTGCTCAACGTGCGGAGCGCCCGCC
+CGCTGTCGGACCTCGACGGGCCCGTCGACTACACCTGCCGCCTCGAGGGCCTGCCCTCGCAGCTGCCCGT
+CTTCGAGGACACGCAGCGCTACGACGCCTCCCCCGCGTCCGTGAGCTGGCCCGTCGTGAGCAGCATGATC
+GTCGTCATCGCCGGCATCGGGATCCTGGCCATCGTGCTGGTCATCATGGCGACGTGCGTCTACTACCGCC
+GGGCGGGGCCGTGACGCCCCGCGCGTTCCCCCCCCACGTCGAATCAATAA
+
+</dna_sequence>
+        <protein_sequence>>YP_068347.1 envelope glycoprotein C [Suid alphaherpesvirus 1]
+MASLARAMLALLALYAAAIAAAPSTTTALDTTPNGGGGGNSSEGELSPSPPPTPAPASPEAGAVSTPPVP
+PPSVSRRKPPRNNNRTRVHGDKATAHGRKRIVCRERLFSARVGDAVSFGCAVFPRAGETFEVRFYRRGRF
+RSPDADPEYFDEPPRPELPRERLLFSSANASLAHADALAPVVVEGERATVANVSGEVSVRVAAADAETEG
+VYTWRVLSANGTEVRSANVSLLLYSQPEFGLSAPPVLFGEPFRAVCVVRDYYPRRSVRLRWFADEHPVDA
+AFVTNSTVADELGRRTRVSVVNVTRADVPGLAAADAADALAPSLRCEAVWYRDSVASQRFSEALRPHVYH
+PAAVSVRFVEGFAVCDGLCVPPEARLAWSDHAADTVYHLGACAEHPGLLNVRSARPLSDLDGPVDYTCRL
+EGLPSQLPVFEDTQRYDASPASVSWPVVSSMIVVIAGIGILAIVLVIMATCVYYRRAGP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A trial vaccine containing pseudorabies virus (PRV) glycoprotein gC as the main component showed excellent protection against virulent virus infection in pigs [Ref1253:Katayama et al., 1997].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1024">
+        <gene_name>UL50</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2952537</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>51557490</ncbi_protein_id>
+        <gene_locus_tag>SuHV1_gp07</gene_locus_tag>
+        <gene_refseq>BK001744</gene_refseq>
+        <protein_refseq>YP_068324</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>8442</gene_start>
+        <gene_end>9457</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>deoxyuridine triphosphatase</protein_name>
+        <protein_pi>9.02</protein_pi>
+        <protein_weight>26335.82</protein_weight>
+        <protein_length>268</protein_length>
+        <protein_note>3.6.1.23</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|51557483:8442-9457 Suid herpesvirus 1, complete genome
+CTTTATTGAAAAATGAGAAGAGCGGGCCCCGCGTGTGTGCGCGCGCGGTCGCCACCGTCCGGGTCCGGCG
+CGGGCCGCCGCGGCCTCACAGGCCCGTGGAGCCGAAGCCGCGGGCCCCGCGCGCGCTGCTCGGGGCGACA
+AAGTCCCGCGCGAAGAGCCACGCGGGGCGGTGCTGCATCGGGGCGCGCGGGGTGGCGGGGAACGGGGACC
+GTCCCGTGATCCAGCCCAGCGGCTCGCGCGTCAGCACCAGCTGGGCCACGCGCTGGCCCGACTCCAGGGT
+CACCGGGTGCGCGCCGCGGTTCTGGATCCGGAAGCGGCACGGGCCGCTCTCCCAGGGCGTGGGGAAGACG
+ACGATGCCGCGGAGGTTGAGGGACGAGCGCCCGAAGACGTAGGCCCAGTGGCGGCCGTCCGTGCGGTGCA
+CCGGTAGCGTCACGGTCTCGGCGCCCCCGGGGGGCAGCACCAGCTCGCGCGGGCAGGGGATGTCGTATCC
+GGCGTCCTCGTCGCGCTTCGGCGCAAAGACCTCGAAGAAGGGCACGTCCGTGGCGATGCCCGGCGCGAGG
+CGCAGCGGCGTGCAATAAAATTGCGCCCGTGGGCGGCCCGGGGCTACAATCGCCTGCACCTCGCCGCGAA
+AGCCCGCGTCCACGATCCCGTTGGTGGTGCGACCGCCCCCGCGCTGCGCGACGAGCATCGCGTATCCGGT
+GGGCAGCGCCACCTTGAGGCCCAGGGGAACCTTATAAAATCCCTCCGGCCCCGGACTCCGGCACACCAGC
+AGCCGCCCTCCGTCCACGGTCACGGGCTCGCTCGCACACACCAGGATGGTCTCCTCCGCCGGGCTCTCGC
+TGACGCTCGTCGCCGCGCTCTGCGCGCTGGTGGCCCCCGCGCTCTCTTCCATCGTCTCCACCGAGGGGCC
+GCTGCCGCTGCTGCGCGAGGAGTCGCGGATCAACTTCTGGAACGCCGCCTGCGCCGCCAGGGGAGTCCCG
+GTGGATCAGCCCACGGCCGCCGCCGTGACATTTTAT</dna_sequence>
+        <protein_sequence>>gi|51557490|ref|YP_068324.1| deoxyuridine triphosphatase [Suid herpesvirus 1]
+MEESAGATSAQSAATSVSESPAEETILVCASEPVTVDGGRLLVCRSPGPEGFYKVPLGLKVALPTGYAML
+VAQRGGGRTTNGIVDAGFRGEVQAIVAPGRPRAQFYCTPLRLAPGIATDVPFFEVFAPKRDEDAGYDIPC
+PRELVLPPGGAETVTLPVHRTDGRHWAYVFGRSSLNLRGIVVFPTPWESGPCRFRIQNRGAHPVTLESGQ
+RVAQLVLTREPLGWITGRSPFPATPRAPMQHRPAWLFARDFVAPSSARGARGFGSTGL</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A UL50 mutant is attenuated in pseudorabies virus and induces significant protection in pigs from challenge with the highly virulent NIA-3 strain of PrV  [Ref1969:Jöns et al., 1997].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene666">
+        <gene_name>US3</gene_name>
+        <strain>Suid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2952561</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>126802155</ncbi_protein_id>
+        <gene_locus_tag>SuHV1_gp65</gene_locus_tag>
+        <gene_refseq>BK001744</gene_refseq>
+        <protein_refseq>YP_068384</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10345</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>118238</gene_start>
+        <gene_end>120955</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>serine/threonine protein kinase US3</protein_name>
+        <protein_pi>4.59</protein_pi>
+        <protein_weight>34398.44</protein_weight>
+        <protein_length>334</protein_length>
+        <protein_note>PK family</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|51557483:118238-120955 Suid herpesvirus 1, complete genome
+AAATAAAGGAGTCCGGGGAATTTGTTCCTTATACCTTGCCGGGCTCAGCAGGGGGTTGTCGCGCGTCCAC
+GCCCAGCGCTCGCACGCAGCAACAATGGCCGACGCCGGAATCCCCGACGAGATCCTGTACTCGGACATCA
+GCGACGACGAGATCATCATCGACGGCGACGGCGACAGCAGCGGGGACGAGGACGACGATGACGGGGGGCT
+GACGCGGCAGGCCGCGGCGCGCATCGTCACGGACCTGGGCTTCGAGGTGCTGCAGCCCCTGCAGTCGGGC
+TCGGAGGGCCGCGTCTTCGTGGCCCGCCGGCCGGGCGAGGCGGACACGGTGGTGCTGAAGGTGGGCCAGA
+AGCCCTCGACGCTGATGGAGGGCATGCTGCTGCAGCGCCTGTCCCACGATAACGTCATGCGCATGAAACA
+GATGCTCGCCCGGGGCCCGGCGACGTGCCTGGTCCTGCCGCACTTTCGGTGCGATCTGTACAGCTACCTG
+ACCATGCGGGACGGGCCGCTGGACATGCGCGACGCCGGGTGCGTGATCCGGGCCGTGCTCCGCGGGCTCG
+CCTACCTGCACGGGATGCGCATCATGCATCGCGACGTCAAGGCGGAGAACATCTTCCTCGAGGACGTGGA
+CACGGTGTGCCTAGGGGACCTCGGGGCCGCGCGCTGCAACGTGGCGGCGCCCAACTTTTACGGGCTCGCC
+GGGACCATCGAGACCAACGCCCCCGAGGTGCTCGCGCGCGACCGCTACGACACCAAGGTCGACGTCTGGG
+GCGCGGGGGTGGTGCTCTTCGAGACGCTGGCCTACCCCAAGACGATCACCGGCGGGGACGAGCCCGCGAT
+CAACGGGGAGATGCACCTGATCGACCTCATCCGCGCCCTCGGGGTGCACCCCGAGGAGTTCCCGCCCGAC
+ACGCGCCTCCGGAGCGAGTTCGTCCGGTACGCCGGGACCCACCGCCAGCCGTACACGCAGTACGCGCGCG
+TGGCTCGCCTCGGGCTGCCCGAGACGGGGGCTTTCCTGATTTACAAGATGTTGACGTTTGATCCCGTCCG
+CCGCCCTTCCGCTGATGAGATACTCAACTTTGGAATGTGGACCGTATAAAACGGGCCGGCTCCGAGCGGT
+AGGACACACACACCTTTGCGCATCTCCACAGCTCAACAATGAAGTGGGCAACGTGGATCCTCGCCCTCGG
+GCTCCTCGTGGTCCGCACCGTCGTGGCCAGAGAGGCCCCTCGGGAGCTCTGCTACGGCCACCCCGTCCAC
+GACGACCGGCGGCCCGTCGGGCCCGCGACCGACGCCCAGCCCGTGAACCCGCTCGCCCCCGCCAACGCCA
+CCGGGACGGACTACTCTCGCGGCTGCGAGATGCGCCTCCTGGATCCGCCTCTCGACGTATCGTCCCGCTC
+CTCGGACCCCGTCAACGTGACCGTCGCCTGGTTCTTTGACGGCGGCCACTGCAAGGTGCCCCTCGTCCAC
+CGCGAGTACTACGGCTGCCCCGGGGACGCCATGCCCTCCGTCGAGACGTGCACCGGCGGGTACTCGTACA
+CCCGCACGCGCATCGACACCCTGATGGAGTACGCCCTCGTGAACGCCAGCCTCGTGCTGCAGCCCGGGCT
+GTACGACGCCGGCCTGTACATCGTCGTGCTCGTCTTTGGCGACGACGCCTACCTCGGCACCGTCTCCCTG
+TCGGTGGAGGCCAACCTGGACTACCCCTGCGGCATGAAGCACGGGCTCACGATCACCCGCCCCGGGGCCA
+CCCTCCCACCCATCGCCCCCACGGCCGGCGACCACCAGCGCTGGCGCGGGTGCTTCCCCTCGACCGACGA
+GGGCGCCTGGGAGAACGTGACCGCCGCCGAGAAGGGCCTGTCCGACGACTACGCCGACTACTACGACGTG
+CACATCTTCCGCTCGGAGTCTGACGACGAGGTCGTCCACGGCGATGCCCCCGAGGCCCCCGAGGGCGAGG
+AGGTGACCGAGGAGGAGGCCGAGCTGACCTCCAGCGACCTCGACAACATCGAGATCGAGGTCGTGGGCTC
+TCCCGCCGCTCCCGCCGAGGGCCCGGCGACGGAGGAGGGGCGCGGGGCCGAGGAGGACGAGGAGCTGACC
+TCCAGCGACCTCGACAACATCGAGATCGAGGTCGTGGGCTCGCCGCGGCCGCCCGCTTCTTCGCCGCCTC
+CACCACCCCCGCGCCCCCACCCGCGCGGCCGAGATCACGACCATGACCACGGTCACCACCGTGCGGACGA
+CCGAGGACCCCAGCGGCATCACCGACTGCCGCCGGAGCCGACCTTCGTCTCGCCCTCTGACATCTTCGTG
+ACCCCCACCGGCAGCCCCGCCCTGCTCCTGGGCTTCCTGGGCAGCGCGCTCGCCTCGCGCCCCCTGCACC
+TGACGGCCGGGGAGACGGCCCAGCACGTGCGCGAGGCCCAGCAGAAGAGCCGCCACATCCGCTCCCTCGG
+CGGCCTCCAGCTCTCGGTCGAGACCGAGACCACCAACACCACCACCACCCAGACGGGCCTGTCGGGCGAC
+ATCCGCACCTCGATCTACATCTGCGTCGCCCTCGCCGGCCTGGTCGTCGTGGGCATCGTCATCATGTGCC
+TCCATATGGCGATCATCAGGGCCCGGGCCCGGAACGACGGCTACCGCCACGTGGCCTCCGCCTGACCCGG
+CCCCGCCCGACTCCCCCGCGATTCCCCCCCTCTCTCACCGGGTGTCCATCTTCAATAA</dna_sequence>
+        <protein_sequence>>gi|126802155|ref|YP_068384.2| serine/threonine protein kinase US3 [Suid herpesvirus 1]
+MADAGIPDEILYSDISDDEIIIDGDGDSSGDEDDDDGGLTRQAAARIVTDLGFEVLQPLQSGSEGRVFVA
+RRPGEADTVVLKVGQKPSTLMEGMLLQRLSHDNVMRMKQMLARGPATCLVLPHFRCDLYSYLTMRDGPLD
+MRDAGCVIRAVLRGLAYLHGMRIMHRDVKAENIFLEDVDTVCLGDLGAARCNVAAPNFYGLAGTIETNAP
+EVLARDRYDTKVDVWGAGVVLFETLAYPKTITGGDEPAINGEMHLIDLIRALGVHPEEFPPDTRLRSEFV
+RYAGTHRQPYTQYARVARLGLPETGAFLIYKMLTFDPVRRPSADEILNFGMWTV</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>Researchers intranasally inoculated pigs, the natural host of this virus, with mutant PRV strains in which the genes encoding the protein kinase (US3) proteins were inactivated.  After challenge infection with the virulent PRV strain NIA-3, no virus was excreted by wt PRV- and PK- mutant-immunized animals, indicating complete protective immunity [Ref1256:Kimman et al., 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1255">
+		<reference_name>Brockmeier and Mengeling, 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brockmeier SL, Mengeling WL</authors>
+		<title>Comparison of the protective response induced by NYVAC vaccinia recombinants expressing either gp50 or gII and gp50 of pseudorabies virus</title>
+		<year>1996</year>
+		<volume>60</volume>
+		<issue>4</issue>
+		<pages>315-317</pages>
+		<journal_book_name>Canadian journal of veterinary research = Revue canadienne de recherche veterinaire</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1246">
+		<reference_name>Chang et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chang SW, Bu J, Rompato G, Garmendia AE</authors>
+		<title>A vector DNA vaccine encoding pseudorabies virus immediate early protein demonstrates partial protection in mice against lethal virus challenge</title>
+		<year>1998</year>
+		<volume>11</volume>
+		<issue>1</issue>
+		<pages>27-36</pages>
+		<journal_book_name>Viral immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1970">
+		<reference_name>Dijkstra et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dijkstra JM, Gerdts V, Klupp BG, Mettenleiter TC</authors>
+		<title>Deletion of glycoprotein gM of pseudorabies virus results in attenuation for the natural host</title>
+		<year>1997</year>
+		<volume>78 ( Pt 9)</volume>
+		<issue></issue>
+		<pages>2147-2151</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2276">
+		<reference_name>Eo et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Eo SK, Yoon HA, Aleyas AG, Park SO, Han YW, Chae JS, Lee JH, Song HJ, Cho JG</authors>
+		<title>Systemic and mucosal immunity induced by oral somatic transgene vaccination against glycoprotein B of pseudorabies virus using live attenuated Salmonella typhimurium</title>
+		<year>2006</year>
+		<volume>47</volume>
+		<issue>3</issue>
+		<pages>451-461</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference811">
+		<reference_name>Ferrari et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ferrari M, Brack A, Romanelli MG, Mettenleiter TC, Corradi A, Dal Mas N, Losio MN, Silini R, Pinoni C, Pratelli A</authors>
+		<title>A study of the ability of a TK-negative and gI/gE-negative pseudorabies virus (PRV) mutant inoculated by different routes to protect pigs against PRV infection</title>
+		<year>2000</year>
+		<volume>47</volume>
+		<issue>10</issue>
+		<pages>753-762</pages>
+		<journal_book_name>Journal of veterinary medicine. B, Infectious diseases and veterinary public health</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3285">
+		<reference_name>Fischer et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fischer T, Planz O, Stitz L, Rziha HJ</authors>
+		<title>Novel recombinant parapoxvirus vectors induce protective humoral and cellular immunity against lethal herpesvirus challenge infection in mice</title>
+		<year>2003</year>
+		<volume>77</volume>
+		<issue>17</issue>
+		<pages>9312-9323</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1258">
+		<reference_name>Fuchs et al., 1990</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fuchs W, Rziha HJ, Lukàcs N, Braunschweiger I, Visser N, Lütticken D, Schreurs CS, Thiel HJ, Mettenleiter TC</authors>
+		<title>Pseudorabies virus glycoprotein gI: in vitro and in vivo analysis of immunorelevant epitopes</title>
+		<year>1990</year>
+		<volume>71 ( Pt 5)</volume>
+		<issue></issue>
+		<pages>1141-1151</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1243">
+		<reference_name>Grabowska et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Grabowska AK, Lipińska AD, Rohde J, Szewczyk B, Bienkowska-Szewczyk K, Rziha HJ</authors>
+		<title>New baculovirus recombinants expressing Pseudorabies virus (PRV) glycoproteins protect mice against lethal challenge infection</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>27</issue>
+		<pages>3584-3591</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1250">
+		<reference_name>Han et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Han YW, Aleyas AG, George JA, Kim SJ, Kim HK, Yoon HA, Yoo DJ, Kang SH, Kim K, Eo SK</authors>
+		<title>Polarization of protective immunity induced by replication-incompetent adenovirus expressing glycoproteins of pseudorabies virus</title>
+		<year>2008</year>
+		<volume>40</volume>
+		<issue>6</issue>
+		<pages>583-595</pages>
+		<journal_book_name>Experimental &amp; molecular medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1969">
+		<reference_name>Jöns et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jöns A, Gerdts V, Lange E, Kaden V, Mettenleiter TC</authors>
+		<title>Attenuation of dUTPase-deficient pseudorabies virus for the natural host</title>
+		<year>1997</year>
+		<volume>56</volume>
+		<issue>1-2</issue>
+		<pages>47-54</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1253">
+		<reference_name>Katayama et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Katayama S, Okada N, Yoshiki K, Okabe T, Shimizu Y</authors>
+		<title>Protective effect of glycoprotein gC-rich antigen against pseudorabies virus</title>
+		<year>1997</year>
+		<volume>59</volume>
+		<issue>8</issue>
+		<pages>657-663</pages>
+		<journal_book_name>The Journal of veterinary medical science / the Japanese Society of Veterinary Science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1256">
+		<reference_name>Kimman et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kimman TG, De Wind N, De Bruin T, de Visser Y, Voermans J</authors>
+		<title>Inactivation of glycoprotein gE and thymidine kinase or the US3-encoded protein kinase synergistically decreases in vivo replication of pseudorabies virus and the induction of protective immunity</title>
+		<year>1994</year>
+		<volume>205</volume>
+		<issue>2</issue>
+		<pages>511-518</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1257">
+		<reference_name>Matsuda et al., 1992</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Matsuda Tsuchida A, Katayama S, Okada N, Okabe T, Sasaki N</authors>
+		<title>Protection from pseudorabies virus challenge in mice by a combination of purified gII, gIII and gVI antigens</title>
+		<year>1992</year>
+		<volume>54</volume>
+		<issue>3</issue>
+		<pages>447-452</pages>
+		<journal_book_name>The Journal of veterinary medical science / the Japanese Society of Veterinary Science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1464">
+		<reference_name>Merck Vet Manual: Pseudorabies</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Merck Veterinary Manual- Pseudorabies</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/102200.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1980">
+		<reference_name>Peeters et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Peeters B, Bouma A, de Bruin T, Moormann R, Gielkens A, Kimman T</authors>
+		<title>Non-transmissible pseudorabies virus gp50 mutants: a new generation of safe live vaccines</title>
+		<year>1994</year>
+		<volume>12</volume>
+		<issue>4</issue>
+		<pages>375-380</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1254">
+		<reference_name>Shiau et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shiau AL, Chu CY, Su WC, Wu CL</authors>
+		<title>Vaccination with the glycoprotein D gene of pseudorabies virus delivered by nonpathogenic Escherichia coli elicits protective immune responses</title>
+		<year>2001</year>
+		<volume>19</volume>
+		<issue>23-24</issue>
+		<pages>3277-3284</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1252">
+		<reference_name>Vrublevskaia et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vrublevskaia VV, Musienko VS, Skarga IuIu, Morenkov OS</authors>
+		<title>[Immunological characteristics of Aujeszky's disease virus glycoprotein]</title>
+		<year>2007</year>
+		<volume>52</volume>
+		<issue>3</issue>
+		<pages>33-37</pages>
+		<journal_book_name>Voprosy virusologii</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1962">
+		<reference_name>Weigel et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Weigel RM, Hahn EC, Scherba G</authors>
+		<title>Survival and immunization of raccoons after exposure to pseudorabies (Aujeszky's disease) virus gene-deleted vaccines</title>
+		<year>2003</year>
+		<volume>92</volume>
+		<issue>1-2</issue>
+		<pages>19-24</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1446">
+		<reference_name>Wiki:  Pseudorabies</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Pseudorabies</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Pseudorabies</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

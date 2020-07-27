@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen93">
+		<pathogen_name>Neospora caninum</pathogen_name>
+		<taxon_id>29176</taxon_id>
+		<pathogenesis refs="reference1543">Neospora undergoes a life cycle involving three principle stages. First, oocysts are produced in the faeces of dogs, the definitive host, following ingestion of bradyzoites. Second, bradyzoites, which multiply slowly, are found in tissue cysts in the central nervous system (CNS), both in the canine definitive host and in a wide range of intermediate hosts. They represent a persistent, quiescent infection, held in check by host immunity. Third, tachyzoites, the rapidly multiplying stage, trigger lesion development by multiplying in and rupturing cells. In the absence of a host immune response, tachyzoites would continue to multiply, causing progressively more cell death until the host dies (Buxton et al., 2002).</pathogenesis>
+		<disease_name>Neosporosis</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1467">Dogs are the definitive host for Neospora caninum, but cattle can be infected, with infections causing abortion in cattle. There are no suitable animal models at the present to perform bioassay to detect N. caninum oocysts in dog feces. Although interferon-gamma gene knockout (KO) mice are highly susceptible to parenteral inoculation with N. caninum tachyzoites and tissue cysts, they are less susceptible to parenteral ororal inoculation with oocysts. Gerbils (Meriones unguiculatus) were susceptible to N. caninum infection with oocysts. Another species of gerbils, Meriones tristrami and sand rats (Psammoomys ubesus) also susceptible to tachyzoites infection (Dubey, 2003).</host_range>
+		<introduction refs="reference1443">Neospora caninum is a coccidian parasite that was identified as a species in 1988. Prior to this, it was misclassified as Toxoplasma gondii due to structural similarities.  Neospora caninum is an important cause of spontaneous abortion in infected livestock.  Neospora caninum has a heteroxenous life cycle, with the reproductive stage occurring in the intestine of the definitive host, which is the dog. Other carnivores, for example, the fox, may also be definitive hosts. Oocysts passed in the feces of the definitive host are ingested by an intermediate host, for example, cattle, and form tissue cysts. Transplacental transmission, that is passage from mother to offspring during pregnancy, has been shown to occur in dogs, cats, sheep and cattle. The life cycle is typified by 3 infectious stages: tachyzoites, tissue cysts, and oocysts. Neospora caninum does not appear to be infectious to humans. In dogs, Neospora caninum can cause neurological signs, especially in congenitally infected puppies, where it can form cysts in the central nervous system (Wiki: Neospora caninum).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine431">
+		<vaccine_name>Bovilis, Neoguard</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Bovilis, Neoguard</brand_name>
+		<manufacturer>Intervet</manufacturer>
+		<vo_id>VO_0001120</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference849">Killed tachyzoites, reduces abortion (Romero et al., 2004).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine935">
+		<vaccine_name>N. caninum DNA vaccine encoding NcSAG1 and NcSRS2, combined with recombinant NcSAG1 and NcSRS2 Proteins</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004163</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 prime, recombinant antigen boost [Ref1204:Cannas et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering419" gene_id="gene611">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering420" gene_id="gene610">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response692" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1204">The infected positive control group was treated as before. To the mice of the adjuvant control group, 100μl of the pcDNA3 vector without insert (used at a concentration of 1 mg/ml) was inoculated intramuscularly, with 50 μl (corresponding to 50 μg of DNA) being injected into the right and left hind limb muscle, respectively, on day 0 and on day 28. On day 49, these adjuvant control mice received one single i.p. injection of PBS–RAS as in the previous experiments. Group 3 received similar intramuscular applications of pcDNA3–NcSAG1 at day 0 and day 28, followed by a single i.p. injection of 200 [mu]l of recNcSAG1 (75 μg/ml) emulsified in PBS at day 49. Group 4 received treatment with pcDNA3–NcSRS2 and recNcSRS2 as in group 3 (Cannas et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1204">Results suggest that a combined DNA/recombinant antigen-vaccine, based on NcSAG1 and NcSRS2, respectively, exhibited a highly significant protective effect against experimentally induced cerebral neosporosis in mice (Cannas et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1204">On day 59, all mice were challenged i.p. with 2×10^6 live N. caninum tachyzoites suspended in 200 μl of PBS (Cannas et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine946">
+		<vaccine_name>N. caninum MIC10 and p24 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004164</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1207">VSA-3 (Ellis et al., 2008).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering430" gene_id="gene614">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response702" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Qs</host_strain>
+			<vaccination_protocol refs="reference1207">Briefly female Qs mice at 4–5 weeks of age were divided into groups that were injected subcutaneously (s.c.). VSA-3 was used as adjuvant (comprising 1/3 v/v of the immunogen) and 10 μg of each recombinant protein or lysate was injected per mouse. Four weeks later the same mice were given a booster s.c. injection of the same formulation received earlier (Ellis et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1207">A mixture of MIC10 and p24B produced partial protection against transplacental transmission of N. caninum in this mouse model (Ellis et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1207">On day 5 of gestation, pregnant mice in the treatment groups were injected s.c with 10^6 tachyzoites of NC-Liverpool recovered from in vitro culture as described above. A control group (pregnant uninfected mice) were injected s.c. with 0.9% saline. On approx. day 14 of gestation pregnant dams were placed in individual boxes and allowed to carry their pregnancy to term. Mice were checked daily until all that were obviously pregnant had given birth and the date of birth and number of pups (live and dead) noted (Ellis et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine944">
+		<vaccine_name>N. caninum NcDG1 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004010</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering428" gene_id="gene618">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response700" host_id="host41">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1211">Gerbils (5-6 weeks of age) were used for the challenge experiments. Uninfected control group animals were injected intraperitoneally with only PBS. The other experimental groups were injected intraperitoneally with NcWL or recombinant proteins. Animals in the first experimental group were injected with NcDG1 at 100 µg/gerbil intraperitoneally, whereas animals in the second group were injected intraperitoneally the recombinant proteins in combinations. Gerbils were boosted with the same inoculums 2 weeks after the first injection (Cho et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1211">Vaccination with NcDG1 alone elicited 62.5% survival in the challenge model compared to a 17.4% survival rate of the control group after challenge (Cho et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1211">For parasite challenge, gerbils were inoculated intraperitoneally with live N. caninum tachyzoites (10^5) suspended in PBS, 1 week after boosting (3 weeks after the first injection). The protective efficacies of the vaccinations against infection were determined by comparing survival rates after challenge infection of the control group and each of the experimental groups (Cho et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine942">
+		<vaccine_name>N. caninum NcDG2 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011565</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering426" gene_id="gene621">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response698" host_id="host41">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1211">Gerbils (5-6 weeks of age) were used for the challenge experiments. Uninfected control group animals  were injected intraperitoneally with only PBS. The other experimental groups  were injected intraperitoneally with NcWL or recombinant proteins. Animals in the first experimental group were injected with NcDG2 at 100 µg/gerbil intraperitoneally, whereas animals in the second group were injected intraperitoneally the recombinant proteins in combinations. Gerbils were boosted with the same inoculums 2 weeks after the first injection (Cho et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1211">Vaccination with NcDG2 alone elicited 50% survival rate compared to a control survival rate of 17.4%  (Cho et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1211">For parasite challenge, gerbils were inoculated intraperitoneally with live N. caninum tachyzoites (10^5) suspended in PBS, 1 week after boosting (3 weeks after the first injection). The protective efficacies of the vaccinations against infection were determined by comparing survival rates after challenge infection of the control group and each of the experimental groups (Cho et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine941">
+		<vaccine_name>N. caninum NcMAG1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011564</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1201">Saponin adjuvant (Debache et al., 2010).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering425" gene_id="gene604">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response697" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57Bl/6</host_strain>
+			<vaccination_protocol refs="reference1201">At the age of 8–9 weeks, mice were randomly distributed into 10 experimental groups of 10 mice each, and the serological status (Neospora-negative) was checked by enzyme-linked immunosorbent assay (ELISA). Mice in groups 1–5 were treated by i.p. injection; mice in group 1 received 100 μl of PBS each (i.p. infection control), group 2 received 100 μl saponin adjuvant (SAP) at 100 μg/ml, group 3 received 10 μg of recNcPDI in SAP, group 4 received 10 μg recNcROP2 in SAP, group 5 received 10 μg recNcMAG1 in SAP. Mice in groups 6–10 were treated by i.n. application through the nares, which was performed under mild isoflurane anaesthesia. Mice in group 6 received 100 μl of PBS/mouse (i.n. infection control), group 7 received 20 μl of cholera toxin adjuvant (CT) at 250 μg/ml, group 8 received 10 μg recNcPDI/mouse in CT, group 9 received 10 μg recROP2 in CT, group 10 received 10 μg recNcMAG1 in CT. These procedures were carried out on days 1, 15 and 30 (Debache et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1201">recNcMAG1 provided protection in 7 and 5 out of 10 mice, respectively, that did not develop any clinical signs (Debache et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1201">On day 46 all animals were challenged by i.p. inoculation of 1×10^6 freshly purified N. caninum tachyzoites. On day 74, the experiment was terminated and mice were euthanized by CO2 asphyxiation. Those animals exhibiting clinical signs of neosporosis (ruffled coat, apathy, hind limb paralysis) prior to day 74 were euthanized at the onset of these signs (Debache et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine939">
+		<vaccine_name>N. caninum NcMIC1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011563</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1209">RIBI Adjuvant System (Alaeddine et al., 2005).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering424" gene_id="gene616">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response696" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1209">Group 1 was immunized 3 times with 100 μl recNcMIC1 (75 μg/ ml) emulsified in RIBI Adjuvant System (PBS-RAS; RIBI ImmunoChem Research, Inc., Hamilton, Montana) according to the manufacturer's recommendations. Inoculations were carried out by intraperitoneal (i.p.) injections of 200 μl of respective preparations. Group 2 was vaccinated 3 times with 100 μl of pcDNA-NcMIC1 (1 mg/ml) by i.m. injections (50 μg into each hind limb muscle). Group 3 was treated twice by i.m. pcDNA-NcMIC1 injections followed by 1 i.p. recNcMIC1 antigen. Control groups 4, 5, and 6 included corresponding treatments with PBS emulsified in RIBI adjuvant (i.p.), pcDNA3.1 (100 μg i.m., plasmid without insert), and PBS (= infection control, i.p. treatment), respectively. Vaccination started on day 0 and booster injections were administered at days 31 and 58, respectively (Alaeddine et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1209">Despite the fact that cerebral infection occurred, none of the animals in the recNcMIC1-vaccinated  group experienced clinical signs of disease during the 3-wk time frame. The recNcMIC1-vaccinated group showed a significant reduction of parasite number compared with the adjuvant control group (Alaeddine et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1209">On day 100, all mice groups were challenged i.p. with 2 × 10^6 live N. caninum tachyzoites (NC1 strain) suspended in 100 μl PBS (Alaeddine et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine937">
+		<vaccine_name>N. caninum NcPDI Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004009</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1201">Cholera toxin adjuvant (Debache et al., 2010).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasally</route>
+		<antigen refs="reference1201">Recombinant NcPDI protein (Debache et al., 2010).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering422" gene_id="gene606">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response694" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57Bl/6</host_strain>
+			<vaccination_protocol refs="reference1201">At the age of 8–9 weeks, mice were randomly distributed into 10 experimental groups of 10 mice each, and the serological status (Neospora-negative) was checked by enzyme-linked immunosorbent assay (ELISA). Mice in groups 1–5 were treated by i.p. injection; mice in group 1 received 100 μl of PBS each (i.p. infection control), group 2 received 100 μl saponin adjuvant (SAP) at 100 μg/ml, group 3 received 10 μg of recNcPDI in SAP, group 4 received 10 μg recNcROP2 in SAP, group 5 received 10 μg recNcMAG1 in SAP. Mice in groups 6–10 were treated by i.n. application through the nares, which was performed under mild isoflurane anaesthesia. Mice in group 6 received 100 μl of PBS/mouse (i.n. infection control), group 7 received 20 μl of cholera toxin adjuvant (CT) at 250 μg/ml, group 8 received 10 μg recNcPDI/mouse in CT, group 9 received 10 μg recROP2 in CT, group 10 received 10 μg recNcMAG1 in CT. These procedures were carried out on days 1, 15 and 30 (Debache et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1201">A 90% protection rate was achieved following intra-nasal vaccination with recNcPDI emulsified in cholera toxin employing the C57Bl/6 mouse cerebral infection model when challenged with Neospora caninum tachyzoites (Debache et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1201">On day 46 all animals were challenged by i.p. inoculation of 1×10^6 freshly purified N. caninum tachyzoites. On day 74, the experiment was terminated and mice were euthanized by CO2 asphyxiation. Those animals exhibiting clinical signs of neosporosis (ruffled coat, apathy, hind limb paralysis) prior to day 74 were euthanized at the onset of these signs (Debache et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1975">
+		<vaccine_name>Neospora Caninum Killed Protozoa Vaccine (USDA: 1N11.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001751</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4121">
+		<vaccine_name>RB51--MIC3/GRA6/MIC1/SRS2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004649</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3102">A recombinant strain RB51 expressing N. caninum antigen. Neospora caninum protective antigens MIC1, MIC3, GRA2, GRA6 and SRS2 were expressed in strain RB51 (Ramamoorthy et al., 2007).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1751" gene_id="gene616">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3102">Neospora caninum protective antigens MIC1, MIC3, GRA2, GRA6 and RS2 were expressed in strain RB51 (Ramamoorthy et al., 2007).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1752" gene_id="gene610">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3102">Neospora caninum protective antigens MIC1, MIC3, GRA2, GRA6 and RS2 were expressed in strain RB51 (Ramamoorthy et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1843" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3102">Female C57BL/6 mice were vaccinated with a recombinant strain RB51 expressing N. caninum antigen or irradiated tachyzoites, boosted 4 weeks later and then bred (Ramamoorthy et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3102">The RB51-MIC3, RB51-GRA6, irradiated tachyzoite vaccine, pooled strain RB51-Neospora vaccine, RB51-MIC1 and RB51-SRS2 vaccines elicited approximately 6-38% protection against vertical transmission. B. abortus strain RB51 expressing the specific N. caninum antigens induced substantial protection against vertical transmission of N. caninum in mice (Ramamoorthy et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3102">Vaccinated mice were challenged with 5 x 10^6 N caninum tachyzoites between days 11-13 of pregnancy (Ramamoorthy et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4120">
+		<vaccine_name>RB51-SRS2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004648</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference2829">RB51 strains expressing SRS2 (RB51/SRS2) or GRA7 (RB51/GRA7) antigens of N. caninum (Vemulapalli et al., 2007).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1750" gene_id="gene610">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1209">Recombinant RB51 strains each expressing SRS2 (RB51/SRS2) or GRA7 (RB51/GRA7) antigens of N. caninum (Alaeddine et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1842" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2829">Mice were immunized by single intraperitoneal inoculation of the recombinant RB51 strains (Vemulapalli et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2829">Mice vaccinated with strain RB51/SRS2, but not RB51/GRA7, showed significant resistance to cerebral infection when compared to the RB51 vaccinated mice. Interestingly, mice vaccinated with either strain RB51 or RB51/GRA7 also contained significantly lower parasite burden in their brains compared to those inoculated with saline. Mice vaccinated with strain RB51/SRS2 or RB51/GRA7 were protected to the same extent as the strain RB51 vaccinated mice against challenge with B. abortus virulent strain 2308 (Vemulapalli et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2829">The vaccinated mice were challenged with N. caninum tachyzoites (Vemulapalli et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene604">
+        <gene_name>MAG1</gene_name>
+        <strain>Neospora caninum</strain>
+        <vo_id>VO_0011189</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>147886433</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:274008</xrefs>
+        <taxonomy_id>29176</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>cyst matrix and cyst wall protein</protein_name>
+        <protein_pi>5.02</protein_pi>
+        <protein_weight>46643.52</protein_weight>
+        <protein_length>529</protein_length>
+        <protein_note>chromosome segregation protein SMC, common bacterial type; TIGR02168</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABQ52425.1 cyst matrix and cyst wall protein [Neospora caninum]
+MAFGRGKRGLHAAVILGFFVLLATSSVGLGQRVPRYPSVESLEERVAEALGRRSSAAASTLPGSDTNMIS
+DGRAGRDEPTASPEHHSVDAPTTSGEGEADAGKVTLRNDEGLEGNISADHVLHPPPDSEHEGLQEPGTTH
+QEAQEPDASEAMDSSALPLSTSVPHPNEVGSTPGTALPAPIFSIPELSPEEVVYVLRVQGSGDFEISFQV
+GRVVRQLEAIKRAYREAHGKLEAEELESERGPTVSTRTKLVDFIKENQRRLRAAFQKVKIQQKLEEIEEL
+LQLSHALKSLGARLRPCQKSNSPMEEEICRKTKALGEMVAQKAEDLRQHASTVSALLGREAVERQLRRVD
+SEQPYEQTDAGVAARAEEFRKALEKAASGARQFVGTTADEIVEEVKEDAQYLRDGAKEVLTKSQRALVDA
+FQAIQRALLEAKAKELVDAASKEAEDARKILAEQPA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Intraperitoneal application of NcMAG1 suspended in saponin adjuvants lead to protection against disease in 50% of animals vaccinated in a C57Bl/6 mouse cerebral infection model [Ref1201:Debache et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene616">
+        <gene_name>MIC1</gene_name>
+        <strain>Neospora caninum</strain>
+        <vo_id>VO_0011200</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>17226315</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:287526
+CDD:151915</xrefs>
+        <taxonomy_id>29176</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>microneme-associated protein</protein_name>
+        <protein_pi>4.56</protein_pi>
+        <protein_weight>45856.53</protein_weight>
+        <protein_length>528</protein_length>
+        <protein_note>Sialic-acid binding micronemal adhesive repeat; pfam10564</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAL37729.1 microneme-associated protein [Neospora caninum]
+MGQSVVFVMLLSVIFTAGAKTYGEASQPSASARSLQGALDTWCQEVFKKLCDDGYSKMCIPANQVVARQG
+LGRKDQQKLVWRCYDSAAFLAEGDENNVLSCVDDCGVSIPCPGGVDRDNSTHATRHDELSQLIKEGVVRY
+CSGFQAAANSYCNKRYPGTVARKSKGFGHKEPVKWRCYKPESLLFSVFSECVSNCGTTWSCPGGRLGTAT
+NLDKKHFTDESGILQALTSVPKACPVGLVCLPRDQNPPACLDDNGNVPEEEGGQPVQPRDTKLPVDDSEP
+TDESETTPGGGDDQPSPKEDGDTDSPDEGDQSGGSEWYKQIPEIRVIGDSLQAMLHAGQQLMVTYSSPQL
+HVSVGSCHKLTVNFSDYYLSFDTTSKSGSDEVELDDAAGSGELTIGLGSSGRVTVVFQYATNGGGNRYVA
+YTVGDSGCKTIEAVLLHGLNPGAKLVRNTIGDNSPGESEL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study assessed the potential protectivity of NcMIC1-based vaccination against experimental N. caninum infection in mice.  Quantitative real-time PCR revealed that the infection intensity was significantly reduced in the group vaccinated with recNcMIC1 antigen.  Serological analysis showed that only recNcMIC1-immunized animals generated detectable antibody levels recognizing native NcMIC1. Thus, of all protocols applied, only recNcMIC1 vaccination appears to be suited to reduce cerebral infection in mice challenged with N. caninum tachyzoites [Ref1209:Alaeddine et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene614">
+        <gene_name>MIC10</gene_name>
+        <strain>Neospora caninum</strain>
+        <vo_id>VO_0011198</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>11141617</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>29176</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>NcMIC10 precursor</protein_name>
+        <protein_pi>9.31</protein_pi>
+        <protein_weight>23276.72</protein_weight>
+        <protein_length>251</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAG32025.1 NcMIC10 precursor [Neospora caninum]
+MALSTMNKPGPFRRLLGYGLLLGAVVLEAAFDLSAPAEAVALRRLDQKETVQALVEQHRFSNDYDQEAEY
+RRRRQELGSQTPEEIEEAKRKYRKQVLKEQQEDEELKKKTDAVIEELKKTAEERGLRRYPERDEDRTDDQ
+QMDFETRQRELRNMDSATKAQLLKQRRKENEERNRVKRNSDDVMAELKQKLAARKKAM
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>This study used an immunisation/challenge model of transplacental transmission, based on the Qs mouse with an Nc-Liverpool challenge to investigate the vaccine potential of a number of formulations based on four recombinant proteins of N. caninum.  A mixture of MIC10 and p24B produced partial protection against transplacental transmission of N. caninum in this mouse model [Ref1207:Ellis et al., 2008].
+
+Note:  MIC10 must be used in conjunction with p24B in order to confer protection against N. caninum.</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene618">
+        <gene_name>NcDG1</gene_name>
+        <strain>Neospora caninum</strain>
+        <vo_id>VO_0011202</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>2149142</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>29176</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>dense granule protein</protein_name>
+        <protein_pi>4.28</protein_pi>
+        <protein_weight>20771.11</protein_weight>
+        <protein_length>275</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAC47661.1 dense granule protein [Neospora caninum]
+MARQATFIVALCVCGLAIAGLPRLASAGDLATEQHEGDIGYGVRAYAGVSNYDGDDDAAGNPVDSDVTDD
+AITDGEWPRVVSGQKPHTTQKGSLIKKLAVPVVGALTSYLVADRVLPELTSAEEEGTESIPGKKRVKTAV
+GIAALVAAAAFAGLGLARTFRHFVPKKSKTVASEDSALGNSEEQYVEGTVNGSSDPEQERAGGPLIPEGD
+EQEVDTE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Separate groups of gerbils were immunized with purified recombinant proteins singly or in combinations and animals were then challenged with N. caninum.  The protective efficacy of each vaccination was determined by assessing animal survival rate.  The highest protection efficacy was observed for combined vaccination with NcSRS2 and NcDG1 (67.5% survival) compared to control (17.4% survival).  Vaccination with NcDG1 alone elicited 62.5% survival in the challenge model [Ref1211:Cho et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene621">
+        <gene_name>NCDG2</gene_name>
+        <strain>Neospora caninum</strain>
+        <vo_id>VO_0011205</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>3237325</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:282882</xrefs>
+        <taxonomy_id>29176</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>dense granule protein 2</protein_name>
+        <protein_pi>4.74</protein_pi>
+        <protein_weight>18667.87</protein_weight>
+        <protein_length>252</protein_length>
+        <protein_note>NCDG2</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAC39122.1 dense granule protein 2 [Neospora caninum]
+MANNRTLARRRRAFSPLTVVMLAVTLVAFMGVPLSSTGAADAADPVESVEANRRGYTSYGEPPVAVGTSE
+EYVNSSELAGSRDKGNAEAEEEAAEVETDVQPSSVTIDTEERAAPSQVQVQQERMEEADDAPKPVPVRSA
+VPSTVAKRQQARHRVIGTAVIAAVVAALLWKFSRRRSGAPREGGENENGGEEK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Separate groups of gerbils were immunized with purified recombinant proteins singly or in combinations and animals were then challenged with N. caninum. The protective efficacy of each vaccination was determined by assessing animal survival rate.  All experimental groups showed protective effects.  Vaccination with NcDG2 alone elicited 50% survival rate compared to a control survival rate of 17.4% [Ref1211:Cho et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene606">
+        <gene_name>PDI</gene_name>
+        <strain>Neospora caninum</strain>
+        <vo_id>VO_0011191</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>82568727</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:240266
+CDD:294274
+CDD:239259
+CDD:239280
+CDD:239293</xrefs>
+        <taxonomy_id>29176</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>protein disulfide isomerase</protein_name>
+        <protein_pi>4.86</protein_pi>
+        <protein_weight>49740.77</protein_weight>
+        <protein_length>538</protein_length>
+        <protein_note>disulphide isomerase; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>BAD67151.2 protein disulfide isomerase [Neospora caninum]
+MRAGFSFVLLAVGLLATASVYCAAEEEAVTVLTASNFDDTLKNTEIVLVKFYAPWCGHCKRMAPEYEKAA
+KILKEKGSKIMLAKVDATSETDIADKQGVREYPTLTLFRNQKPEKFTGGRTAEAIVEWIEKMTGPAVTEV
+EGKPEEQVTKESPIAFVAELSSKDSDMAKLFEDVANESRQLGKFLAKYGVSDEKIYSLRYEEGTEPFTGK
+TKDELKKFVDTESFPLLGPINAENFRKYIDRDLDLVWLCGTEKDFDEAKAAVREAAKKLRDTRSFVWLDT
+DQFKGHAENALGITEFPGLVFQSKKGRFVLPEATSSLKDAAKISKFFEDVDAGKIERSLKSEPVPEKQDE
+AVKVVVGKNFEEMVIQKDKDVMLEIYAPWCGYCKSFEPIYKEFAEKYKDVDHLVVAKMDGTANEAPLEEF
+SWSSFPSIFFVKAGEKTPMKFEGSRTVEGLTEFINKHGSKPLKKDDKGEEL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A 90% protection rate was achieved following intra-nasal vaccination with recNcPDI emulsified in cholera toxin employing the C57Bl/6 mouse cerebral infection model when challenged with Neospora caninum tachyzoites [Ref1201:Debache et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene611">
+        <gene_name>SAG1</gene_name>
+        <strain>Neospora caninum</strain>
+        <vo_id>VO_0011196</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>4583447</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:282012</xrefs>
+        <taxonomy_id>29176</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>surface antigen SAG1</protein_name>
+        <protein_pi>7.44</protein_pi>
+        <protein_weight>30194.36</protein_weight>
+        <protein_length>377</protein_length>
+        <protein_note>SRS domain; pfam04092</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAD25091.1 surface antigen SAG1 [Neospora caninum]
+MFPRAVRRAVSVGVFAAPALVAFFDCGTMASEKSPLLVNQVVTCDNEEKSSVAVLLSPKLNHITLKCPDN
+STAVPAALGYPTNRTVCPAESGGQTCTGKEIPLESLLPGANDSWWSGVDIKTGVKLTIPEASFPTTSKSF
+DVGCVSSDASKSCMVTVTVPPRASSLVNGVAMCSYGANETLGPITLSEGGSSTMTLVCGTDGKPVPPDPK
+QVCSGTTVKDCKAKPFTDVFPKFSADWWQGKPDTKDGAKLTIKKGAFPPKEEKFTLGCKSVSSPEVYCTV
+QVEAERASAGIKSSAENVGRVSLFAVTIGLVGSIAAGVA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>NcSAG1 and NcSRS2, the two major immunodominant tachyzoite surface antigens of the apicomplexan parasite Neospora caninum, were investigated for their potential as vaccine candidates in mice. Results suggest that a combined DNA/recombinant antigen-vaccine, based on NcSAG1 and NcSRS2, respectively, exhibited a highly significant protective effect against experimentally induced cerebral neosporosis in mice [Ref1204:Cannas et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene610">
+        <gene_name>srs2</gene_name>
+        <strain>Neospora caninum</strain>
+        <vo_id>VO_0011195</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>5579384</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:282012</xrefs>
+        <taxonomy_id>29176</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>SRS2 surface antigen</protein_name>
+        <protein_pi>4.55</protein_pi>
+        <protein_weight>33921.17</protein_weight>
+        <protein_length>403</protein_length>
+        <protein_note>SRS domain; pfam04092</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAD45524.1 SRS2 surface antigen, partial [Neospora caninum]
+NEKFTCLPKQGNADQWEALVYDSQHSITFACDGGTPLPSKLLSEDDGLIVCNESDGEDECEKNAAPLSTF
+LPGAKKEWVTGTLQQGIKITIPDEHYPATSKAFRVGCKAGKNVCLLNVYVQSRESEVIGQVAHCAYSSNV
+RLRPITVNPENNGVTLICGPDGKAFPDDYMNHHCTELDECKERPYSAVFPGFSSSFWTGEASGVAGATLT
+IPKDQFPSTAQTIYLGCTGHPDDKQATCVVPVNIEEVAKPAGAGSNPGGGSQPDQSSEKRDGEQVNKGKP
+PTGGSGGATTGKQNASQNAKDKGETGGENGDSPVLRGDACDELPSYVALSAASLTA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>NcSAG1 and NcSRS2, the two major immunodominant tachyzoite surface antigens of the apicomplexan parasite Neospora caninum, were investigated for their potential as vaccine candidates in mice.  Results suggest that a combined DNA/recombinant antigen-vaccine, based on NcSAG1 and NcSRS2, respectively, exhibited a highly significant protective effect against experimentally induced cerebral neosporosis in mice [Ref1204:Cannas et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1209">
+		<reference_name>Alaeddine et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Alaeddine F, Keller N, Leepin A, Hemphill A</authors>
+		<title>Reduced infection and protection from clinical signs of cerebral neosporosis in C57BL/6 mice vaccinated with recombinant microneme antigen NcMIC1</title>
+		<year>2005</year>
+		<volume>91</volume>
+		<issue>3</issue>
+		<pages>657-665</pages>
+		<journal_book_name>The Journal of parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1543">
+		<reference_name>Buxton et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Buxton D, McAllister MM, Dubey JP</authors>
+		<title>The comparative pathogenesis of neosporosis</title>
+		<year>2002</year>
+		<volume>18</volume>
+		<issue>12</issue>
+		<pages>546-552</pages>
+		<journal_book_name>Trends in parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1204">
+		<reference_name>Cannas et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cannas A, Naguleswaran A, Müller N, Eperon S, Gottstein B, Hemphill A</authors>
+		<title>Vaccination of mice against experimental Neospora caninum infection using NcSAG1- and NcSRS2-based recombinant antigens and DNA vaccines</title>
+		<year>2003</year>
+		<volume>126</volume>
+		<issue>Pt 4</issue>
+		<pages>303-312</pages>
+		<journal_book_name>Parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1211">
+		<reference_name>Cho et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cho JH, Chung WS, Song KJ, Na BK, Kang SW, Song CY, Kim TS</authors>
+		<title>Protective efficacy of vaccination with Neospora caninum multiple recombinant antigens against experimental Neospora caninum infection</title>
+		<year>2005</year>
+		<volume>43</volume>
+		<issue>1</issue>
+		<pages>19-25</pages>
+		<journal_book_name>The Korean journal of parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1201">
+		<reference_name>Debache et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Debache K, Guionaud C, Alaeddine F, Hemphill A</authors>
+		<title>Intraperitoneal and intra-nasal vaccination of mice with three distinct recombinant Neospora caninum antigens results in differential effects with regard to protection against experimental challenge with Neospora caninum tachyzoites</title>
+		<year>2010</year>
+		<volume>137</volume>
+		<issue>2</issue>
+		<pages>229-240</pages>
+		<journal_book_name>Parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1467">
+		<reference_name>Dubey, 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dubey JP</authors>
+		<title>Review of Neospora caninum and neosporosis in animals</title>
+		<year>2003</year>
+		<volume>41</volume>
+		<issue>1</issue>
+		<pages>1-16</pages>
+		<journal_book_name>The Korean journal of parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1207">
+		<reference_name>Ellis et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ellis J, Miller C, Quinn H, Ryce C, Reichel MP</authors>
+		<title>Evaluation of recombinant proteins of Neospora caninum as vaccine candidates (in a mouse model)</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>47</issue>
+		<pages>5989-5996</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1206">
+		<reference_name>Jenkins et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jenkins MC, Tuo W, Dubey JP</authors>
+		<title>Evaluation of vaccination with Neospora caninum protein for prevention of fetal loss associated with experimentally induced neosporosis in sheep</title>
+		<year>2004</year>
+		<volume>65</volume>
+		<issue>10</issue>
+		<pages>1404-1408</pages>
+		<journal_book_name>American journal of veterinary research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5038">
+		<reference_name>Nishimura et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nishimura M, Kohara J, Kuroda Y, Hiasa J, Tanaka S, Muroi Y, Kojima N, Furuoka H, Nishikawa Y</authors>
+		<title>Oligomannose-coated liposome-entrapped dense granule protein 7 induces protective immune response to Neospora caninum in cattle</title>
+		<year>2013</year>
+		<volume>31</volume>
+		<issue>35</issue>
+		<pages>3528-3535</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3102">
+		<reference_name>Ramamoorthy et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ramamoorthy S, Sanakkayala N, Vemulapalli R, Jain N, Lindsay DS, Schurig GS, Boyle SM, Sriranganathan N</authors>
+		<title>Prevention of vertical transmission of Neospora caninum in C57BL/6 mice vaccinated with Brucella abortus strain RB51 expressing N. caninum protective antigens</title>
+		<year>2007</year>
+		<volume>37</volume>
+		<issue>13</issue>
+		<pages>1531-1538</pages>
+		<journal_book_name>International journal for parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference849">
+		<reference_name>Romero et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Romero JJ, Pérez E, Frankena K</authors>
+		<title>Effect of a killed whole Neospora caninum tachyzoite vaccine on the crude abortion rate of Costa Rican dairy cows under field conditions</title>
+		<year>2004</year>
+		<volume>123</volume>
+		<issue>3-4</issue>
+		<pages>149-159</pages>
+		<journal_book_name>Veterinary parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2829">
+		<reference_name>Vemulapalli et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vemulapalli R, Sanakkayala N, Gulani J, Schurig GG, Boyle SM, Lindsay DS, Sriranganathan N</authors>
+		<title>Reduced cerebral infection of Neospora caninum in BALB/c mice vaccinated with recombinant Brucella abortus RB51 strains expressing N. caninum SRS2 and GRA7 proteins</title>
+		<year>2007</year>
+		<volume>148</volume>
+		<issue>3-4</issue>
+		<pages>219-230</pages>
+		<journal_book_name>Veterinary parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1443">
+		<reference_name>Wiki:  Neospora caninum</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Neospora caninum</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Neospora_caninum</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5036">
+		<reference_name>Yang et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yang D, Liu J, Hao P, Wang J, Lei T, Shan D, Liu Q</authors>
+		<title>MIC3, a novel cross-protective antigen expressed in Toxoplasma gondii and Neospora caninum</title>
+		<year>2015</year>
+		<volume>114</volume>
+		<issue>10</issue>
+		<pages>3791-3799</pages>
+		<journal_book_name>Parasitology research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

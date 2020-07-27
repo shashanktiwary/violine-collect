@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen137">
+		<pathogen_name>Pseudomonas aeruginosa</pathogen_name>
+		<taxon_id>287</taxon_id>
+		<pathogenesis refs="reference1529">P. aeruginosa infections are widely varied. The bacteria can colonize wounds and enter the blood stream, they can colonize the lungs, and they can also colonize the a scratched cornea. P. aeruginosa has a variety of virulence factors that contribute to its widely varied pathogenesis (Salyers and Whitt., 2002).</pathogenesis>
+		<disease_name>Pseudomonas aeruginosa infection</disease_name>
+		<protective_immunity refs="reference1500">Most strains of P. aeruginosaare resistant to killing in serum alone, but the addition of polymorphonuclear leukocytes results in bacterial killing. Killing is most efficient in the presence of type-specific opsonizing antibodies, directed primarily at the antigenic determinants of LPS. This suggests that phagocytosis is an important defense and that opsonizing antibody is the principal functional antibody in protecting from P. aeruginosa infections. Once P. aeruginosa infection is established, other antibodies, such as antitoxin, may be important in controlling disease. Cell-mediated immunity does not seem to play a major role in resistance or defense against Pseudomonas infections (Textbook of Bacteriology).</protective_immunity>
+		<host_range refs="reference1529">Pseudomonas aeruginosa is an opportunistic human pathogen. The burned mouse model is used to model pseudomonas infection in burn patients. For lung infections guinea pig and rat models are used.  C. elegans is also a model used to study host-pathogen interactions (Salyers and Whitt., 2002).</host_range>
+		<introduction refs="reference1500">Pseudomonas aeruginosa is member of the Gamma Proteobacteria class of Bacteria. It is a Gram-negative, aerobic rod belonging to the bacterial family Pseudomonadaceae. Since the revisionist taxonomy based on conserved macromolecules (e.g. 16S ribosomal RNA) the family includes only members of the genus Pseudomonas which are cleaved into eight groups. Pseudomonas aeruginosa is the type species of its group. which contains 12 other members. Pseudomonas aeruginosa is an opportunistic pathogen, meaning that it exploits some break in the host defenses to initiate an infection. In fact, Pseudomonas aeruginosa is the epitome of an opportunistic pathogen of humans. The bacterium almost never infects uncompromised tissues, yet there is hardly any tissue that it cannot infect if the tissue defenses are compromised in some manner. It causes urinary tract infections, respiratory system infections, dermatitis, soft tissue infections, bacteremia, bone and joint infections, gastrointestinal infections and a variety of systemic infections, particularly in patients with severe burns and in cancer and AIDS patients who are immunosuppressed. Pseudomonas aeruginosa infection is a serious problem in patients hospitalized with cancer, cystic fibrosis, and burns. The case fatality rate in these patients is near 50 percent (Textbook of Bacteriology).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine2890">
+		<vaccine_name>Mink Distemper-Enteritis Modified Live &amp; Killed Virus Vaccine-Clostridium Botulinum Type C-Pseudomonas Aeruginosa Bacterin-Toxoid (USDA: 4949.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001834</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2894">
+		<vaccine_name>Mink Distemper-Enteritis Modified Live &amp; Killed Virus Vaccine-Clostridium Botulinum Type C-Pseudomonas Aeruginosa Bacterin-Toxoid (USDA: 4949.31)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>United Vaccines, Inc.</manufacturer>
+		<vo_id>VO_0001835</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2901">
+		<vaccine_name>Mink Enteritis Killed Virus Vaccine-Clostridium Botulinum Type C-Pseudomonas Aeruginosa Bacterin-Toxoid (USDA: 49A5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001839</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2904">
+		<vaccine_name>Mink Enteritis Killed Virus Vaccine-Clostridium Botulinum Type C-Pseudomonas Aeruginosa Bacterin-Toxoid (USDA: 49A5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>United Vaccines, Inc.</manufacturer>
+		<vo_id>VO_0001840</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1079">
+		<vaccine_name>P. aeruginosa DNA Vaccine encoding OprF</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004189</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVR1020</vector>
+		<route>abdomen gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">abdomen gene gun</route>
+		<antigen refs="">The pVR1020/oprF plasmid.</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering569" gene_id="gene843">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1498">The 977-bp oprF gene was cloned from P. aeruginosa PAO1 genomic DNA into the eukaryotic expression plasmid pVR1020 (Price et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response836" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Pathogen Free ICR</host_strain>
+			<vaccination_protocol refs="reference1498">At 14-day intervals, groups of 30 mice were inoculated a total of three times in the abdomen via biolistic particle injection (Helios Gene Gun kit; Bio-Rad, Richmond, Calif.) on days 0, 14, and 28 with 2 μg of either pVR1020 (control) or pVR1020/oprF, which was used to coat 1-μm-diameter gold beads (Price et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1498">A significant reduction in the presence of severe macroscopic lesions, as well as in the number of bacteria present in the lungs, was seen in immunized mice (Price et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1498">Two weeks after the final immunization, the mice were challenged with agar beads containing the P. aeruginosa FD immunotype 4 strain. The mice were first anesthetized with an intraperitoneal injection of sodium pentobarbital and then inoculated via a tracheal incision with 50 μl of an agar bead slurry encasing approximately 7 × 10^2 CFU of P. aeruginosa (Price et al., 2001).</challenge_protocol>
+			<description refs="reference1498">The immunoprotective potential of the pVR1020/oprF vaccine was tested in a mouse model of chronic pulmonary infection (Price et al., 2001).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3927">
+		<vaccine_name>P. aeruginosa DNA vaccine pGACAG-OprF/OprI</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004570</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pGACAG [Ref2701:Saha et al., 2006]</vector>
+		<route>intramuscular electroporation</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intramuscular electroporation</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1476" gene_id="gene843">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1477" gene_id="gene845">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1574" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2701">Monovalent DNA vaccination targeting OprF/OprI could protect 80% of mice 4 days p.i.  On the other hand, 70% of mice immunized with the control plasmid, PilA vaccine, or multivalent vaccine via GG were dead within 5 days p.i. (p &lt; 0.01) (Saha et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3929">
+		<vaccine_name>P. aeruginosa DNA vaccine pGACAG-OprF/OprI + pGACAG-PcrV + pGACAG-PilA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004572</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pGACAG [Ref2701:Saha et al., 2006]</vector>
+		<route>intramuscular electroporation</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intramuscular electroporation</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1479" gene_id="gene843">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1480" gene_id="gene845">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1481" gene_id="gene844">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1482" gene_id="gene1665">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1576" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2701">All mice vaccinated with multivalent DNA via imEPT survived for more than 10 days p.i. with PAK. On the other hand, 70% of mice immunized with the control plasmid, PilA vaccine, or multivalent vaccine via GG were dead within 5 days p.i. (p &lt; 0.01) (Saha et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3928">
+		<vaccine_name>P. aeruginosa DNA vaccine pGACAG-PcrV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004571</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pGACAG [Ref2701:Saha et al., 2006]</vector>
+		<route>intramuscular electroporation</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intramuscular electroporation</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1478" gene_id="gene844">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1575" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2701">Monovalent DNA vaccination targeting PcrV could protect 80% of mice 4 days p.i. On the other hand, 70% of mice immunized with the control plasmid, PilA vaccine, or multivalent vaccine via GG were dead within 5 days p.i. (p &lt; 0.01) (Saha et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1080">
+		<vaccine_name>P. aeruginosa OprI Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004190</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1501">100 μl of 1.5% Al(OH)3 (Finke et al., 1990).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">Recombinant OprI protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering570" gene_id="gene845">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response837" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1501">Female BALB/c mice, 12 to 16 weeks old, received 100 μl (27 ,ug) of OprI suspended in 100 μl of 1.5% Al(OH)3 intraperitoneally on days 0, 14, 35, and 63. Controls received Al(OH)3 only (Finke et al., 1990).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1501">Recombinant OprI protein was used to immunize mice, and was found to be protective against a challenge with a four- to fivefold 50% lethal dose of P. aeruginosa (Finke et al., 1990).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1501">mice were challenged intraperitoneally 10 days after the last immunization with 200 μl of a P. aeruginosa serogroup 6 suspension. Mice vaccinated with recombinant OprI received 6 x 10^6 to 1 x 10^8 living organisms each. (Finke et al., 1990).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1081">
+		<vaccine_name>P. aeruginosa PcrV Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004191</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1499">0.1 ml of incomplete Freund's adjuvant (Holder et al., 2001).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">PcrV</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering571" gene_id="gene844">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1499">PcrV was produced as a lipopolysaccharide-free histidine-tagged infusion protein in pET16b and was purified by nickel chromatography (Holder et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response838" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">CF-1</host_strain>
+			<vaccination_protocol refs="reference1499">On day 0, groups of 10 female CF-1 mice weighing 22 to 25 g were immunized intramuscularly in the hind leg (10 μg of immunogen in 0.1 ml of incomplete Freund's adjuvant), followed by a booster dose (10 μg in saline) without adjuvant on day 14 (Holder et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1499">Burned Pseudomonas aeruginosa-infected mice immunized against PcrV, a type III virulence system translocating protein, showed significantly enhanced survival compared to controls (Holder et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1499">Using the burned mouse model, mice were challenged by one of three strains of P. aeruginosa (Holder et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4156">
+		<vaccine_name>SL3261-P. aeruginosa serogroup O11 O antigen</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004674</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3135">Attenuated Salmonella enterica serovar Typhimurium SL3261 expressing P. aeruginosa serogroup O11 O antigen (DiGiandomenico et al., 2004).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1855" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3135">For oral vaccination, mice were fed 100 μl of either PBS or the Salmonella vector and vaccine strains (1 × 10^9 to 5 × 10^9 CFU) by intragastric gavage. Oral inoculation was repeated once per week for a total of 4 weeks. For i.p. vaccination, mice were inoculated with a single dose of either PBS or each Salmonella strain (10^6 CFU) (DiGiandomenico et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3135">Orally vaccinated mice with an O11 strain (9882-80) at 6 and 12 times the 50% lethal dose showed increased survival in mice that received the vaccine compared to phosphate-buffered saline (PBS)- and vector-treated controls; no difference in survival was seen with a heterologous strain, 6294 (serogroup O6). In addition, significant protection against 9882-80 was not observed in i.p. vaccinated animals (DiGiandomenico et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3135">Mice were challenged with P. aeruginosa strains 9882-80 (serogroup O11) and 6294 (serogroup O6) (DiGiandomenico et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene843">
+        <gene_name>OprF</gene_name>
+        <strain>Pseudomonas aeruginosa PAO1</strain>
+        <vo_id>VO_0012360</vo_id>
+        <ncbi_gene_id>878442</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15596974</ncbi_protein_id>
+        <gene_locus_tag>PA1777</gene_locus_tag>
+        <gene_refseq>AE004091</gene_refseq>
+        <protein_refseq>NP_250468</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>208964</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1921173</gene_start>
+        <gene_end>1922225</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>outer membrane porin F</protein_name>
+        <protein_pi>4.75</protein_pi>
+        <protein_weight>34266.56</protein_weight>
+        <protein_length>350</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002516.2:1921173-1922225 Pseudomonas aeruginosa PAO1 chromosome, complete genome
+GATGAAACTGAAGAACACCTTAGGCGTTGTCATCGGCTCGCTGGTTGCCGCTTCGGCAATGAACGCCTTT
+GCCCAGGGCCAGAACTCGGTAGAGATCGAAGCCTTCGGCAAGCGCTACTTCACCGACAGCGTTCGCAACA
+TGAAGAACGCGGACCTGTACGGCGGCTCGATCGGTTACTTCCTGACCGACGACGTCGAGCTGGCGCTGTC
+CTACGGTGAGTACCATGACGTTCGTGGCACCTACGAAACCGGCAACAAGAAGGTCCACGGCAACCTGACC
+TCCCTGGACGCCATCTACCACTTCGGTACCCCGGGCGTAGGTCTGCGTCCGTACGTGTCGGCTGGTCTGG
+CTCACCAGAACATCACCAACATCAACAGCGACAGCCAAGGCCGTCAGCAGATGACCATGGCCAACATCGG
+CGCTGGTCTGAAGTACTACTTCACCGAGAACTTCTTCGCCAAGGCCAGCCTCGACGGCCAGTACGGTCTG
+GAGAAGCGTGACAACGGTCACCAGGGCGAGTGGATGGCTGGCCTGGGCGTCGGCTTCAACTTCGGTGGTT
+CGAAAGCCGCTCCGGCTCCGGAACCGGTTGCCGACGTTTGCTCCGACTCCGACAACGACGGCGTTTGCGA
+CAACGTCGACAAGTGCCCGGATACCCCGGCCAACGTCACCGTTGACGCCAACGGCTGCCCGGCTGTCGCC
+GAAGTCGTACGCGTACAGCTGGACGTGAAGTTCGACTTCGACAAGTCCAAGGTCAAAGAGAACAGCTACG
+CTGACATCAAGAACCTGGCTGACTTCATGAAGCAGTACCCGTCCACTTCCACCACCGTTGAAGGTCACAC
+CGACTCCGTCGGCACCGACGCTTACAACCAGAAGCTGTCCGAGCGTCGTGCCAACGCCGTTCGTGACGTA
+CTGGTCAACGAGTACGGTGTAGAAGGTGGTCGCGTGAACGCTGTTGGTTACGGCGAGTCCCGCCCGGTTG
+CCGACAACGCCACCGCTGAAGGCCGCGCTATCAACCGTCGCGTTGAAGCCGAAGTAGAAGCTGAAGCCAA
+GTA
+
+</dna_sequence>
+        <protein_sequence>>NP_250468.1 outer membrane porin F [Pseudomonas aeruginosa PAO1]
+MKLKNTLGVVIGSLVAASAMNAFAQGQNSVEIEAFGKRYFTDSVRNMKNADLYGGSIGYFLTDDVELALS
+YGEYHDVRGTYETGNKKVHGNLTSLDAIYHFGTPGVGLRPYVSAGLAHQNITNINSDSQGRQQMTMANIG
+AGLKYYFTENFFAKASLDGQYGLEKRDNGHQGEWMAGLGVGFNFGGSKAAPAPEPVADVCSDSDNDGVCD
+NVDKCPDTPANVTVDANGCPAVAEVVRVQLDVKFDFDKSKVKENSYADIKNLADFMKQYPSTSTTVEGHT
+DSVGTDAYNQKLSERRANAVRDVLVNEYGVEGGRVNAVGYGESRPVADNATAEGRAINRRVEAEVEAEAK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The oprF gene was cloned into plasmid vector pVR1020, and the plasmid vaccines were delivered to mice by biolistic (gene gun) intradermal inoculation. Following the initial immunization and two consecutive boosts, each at 2-week intervals, protection was demonstrated in a mouse model of chronic pulmonary infection by P. aeruginosa. Eight days postchallenge, both lungs were removed and examined. A significant reduction in the presence of severe macroscopic lesions, as well as in the number of bacteria present in the lungs, was seen [Ref1498:Price et al., 2001].
+Our data showed that mice immunized with OprF/OprI or OprF/OprI and flagellin B are significantly protected from infection caused by mucoid and nonmucoid strains of P. aeruginosa.[Ref4793:Hassan et al., 2018].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene845">
+        <gene_name>OprI</gene_name>
+        <strain>Pseudomonas aeruginosa PAO1</strain>
+        <vo_id>VO_0012362</vo_id>
+        <ncbi_gene_id>879851</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15598049</ncbi_protein_id>
+        <gene_locus_tag>PA2853</gene_locus_tag>
+        <gene_refseq>AE004091</gene_refseq>
+        <protein_refseq>NP_251543</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>208964</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>3206914</gene_start>
+        <gene_end>3207165</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>outer membrane lipoprotein OprI</protein_name>
+        <protein_pi>8.51</protein_pi>
+        <protein_weight>8635.98</protein_weight>
+        <protein_length>83</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002516.2:3206914-3207165 Pseudomonas aeruginosa PAO1 chromosome, complete genome
+GATGAACAACGTTCTGAAATTCTCTGCTCTGGCTCTGGCTGCTGTTCTGGCCACCGGTTGCAGCAGCCAC
+TCCAAAGAAACCGAAGCTCGTCTGACCGCTACCGAAGACGCAGCTGCTCGTGCTCAGGCTCGCGCTGACG
+AAGCCTATCGCAAGGCTGACGAAGCTCTGGGCGCTGCTCAGAAAGCTCAGCAGACTGCTGACGAGGCTAA
+CGAGCGTGCCCTGCGCATGCTGGAAAAAGCCAGCCGCAAGTA
+
+</dna_sequence>
+        <protein_sequence>>NP_251543.1 outer membrane lipoprotein OprI [Pseudomonas aeruginosa PAO1]
+MNNVLKFSALALAAVLATGCSSHSKETEARLTATEDAAARAQARADEAYRKADEALGAAQKAQQTADEAN
+ERALRMLEKASRK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Recombinant OprI protein was used to immunize mice, and was found to be protective against a challenge with a four- to fivefold 50% lethal dose of P. aeruginosa [Ref1501:Finke et al., 1990].
+Our data showed that mice immunized with OprF/OprI are significantly protected from infection caused by mucoid and nonmucoid strains of P. aeruginosa.[Ref4793:Hassan et al., 2018]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene844">
+        <gene_name>PcrV</gene_name>
+        <strain>Pseudomonas aeruginosa PAO1</strain>
+        <vo_id>VO_0012361</vo_id>
+        <ncbi_gene_id>882997</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15596903</ncbi_protein_id>
+        <gene_locus_tag>PA1706</gene_locus_tag>
+        <gene_refseq>AE004091</gene_refseq>
+        <protein_refseq>NP_250397</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>208964</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1852287</gene_start>
+        <gene_end>1853171</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>type III secretion protein PcrV</protein_name>
+        <protein_pi>4.77</protein_pi>
+        <protein_weight>30496.99</protein_weight>
+        <protein_length>294</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002516.2:1852287-1853171 Pseudomonas aeruginosa PAO1 chromosome, complete genome
+GATGGAAGTCAGAAACCTTAATGCCGCTCGCGAGCTGTTCCTGGACGAGCTCCTGGCCGCGTCGGCGGCG
+CCTGCCAGTGCCGAGCAGGAGGAACTGCTGGCCCTGTTGCGCAGCGAGCGGATCGTGCTGGCCCACGCCG
+GCCAGCCGCTGAGCGAGGCGCAAGTGCTCAAGGCGCTCGCCTGGTTGCTCGCGGCCAATCCGTCCGCGCC
+TCCGGGGCAGGGCCTCGAGGTACTCCGCGAAGTCCTGCAGGCACGTCGGCAGCCCGGTGCGCAGTGGGAT
+CTGCGCGAGTTCCTGGTGTCGGCCTATTTCAGCCTGCACGGGCGTCTCGACGAGGATGTCATCGGTGTCT
+ACAAGGATGTCCTGCAGACCCAGGACGGCAAGCGCAAGGCGCTGCTCGACGAGCTCAAGGCGCTGACCGC
+GGAGTTGAAGGTCTACAGCGTGATCCAGTCGCAGATCAACGCCGCGCTGTCGGCCAAGCAGGGCATCAGG
+ATCGACGCTGGCGGTATCGATCTGGTCGACCCCACGCTATATGGCTATGCCGTCGGCGATCCCAGGTGGA
+AGGACAGCCCCGAGTATGCGCTGCTGAGCAATCTGGATACCTTCAGCGGCAAGCTGTCGATCAAGGATTT
+TCTCAGCGGCTCGCCGAAGCAGAGCGGGGAACTCAAGGGCCTCAGCGATGAGTACCCCTTCGAGAAGGAC
+AACAACCCGGTCGGCAATTTCGCCACCACGGTGAGCGACCGCTCGCGTCCGCTGAACGACAAGGTCAACG
+AGAAGACCACCCTGCTCAACGACACCAGCTCCCGCTACAACTCGGCGGTCGAGGCGCTCAACCGCTTCAT
+CCAGAAATACGACAGCGTCCTGCGCGACATTCTCAGCGCGATCTA
+
+</dna_sequence>
+        <protein_sequence>>NP_250397.1 type III secretion protein PcrV [Pseudomonas aeruginosa PAO1]
+MEVRNLNAARELFLDELLAASAAPASAEQEELLALLRSERIVLAHAGQPLSEAQVLKALAWLLAANPSAP
+PGQGLEVLREVLQARRQPGAQWDLREFLVSAYFSLHGRLDEDVIGVYKDVLQTQDGKRKALLDELKALTA
+ELKVYSVIQSQINAALSAKQGIRIDAGGIDLVDPTLYGYAVGDPRWKDSPEYALLSNLDTFSGKLSIKDF
+LSGSPKQSGELKGLSDEYPFEKDNNPVGNFATTVSDRSRPLNDKVNEKTTLLNDTSSRYNSAVEALNRFI
+QKYDSVLRDILSAI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Burned Pseudomonas aeruginosa-infected mice immunized against PcrV, a type III virulence system translocating protein, showed significantly enhanced survival compared to controls [Ref1499:Holder et al., 2001].
+The results clearly show that, with PcrV as the vaccine antigen, all three adjuvants tested, FA, alum and CpG ODN, were effective in inducing protective immunity against infection with P. aeruginosa. [Ref4686:Hamaoka et al., 2017]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1665">
+        <gene_name>pilA</gene_name>
+        <strain>Pseudomonas aeruginosa PAO1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15599721</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:227304</xrefs>
+        <taxonomy_id>208964</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>type 4 fimbrial protein PilA</protein_name>
+        <protein_pi>6.59</protein_pi>
+        <protein_weight>15164.05</protein_weight>
+        <protein_length>225</protein_length>
+        <protein_note>Tfp pilus assembly protein, major pilin PilA [Cell motility, Extracellular structures]; COG4969</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>NP_253215.1 type 4 fimbrial protein PilA [Pseudomonas aeruginosa PAO1]
+MKAQKGFTLIELMIVVAIIGILAAIAIPQYQNYVARSEGASALATINPLKTTVEESLSRGIAGSKIKIGT
+TASTATETYVGVEPDANKLGVIAVAIEDSGAGDITFTFQTGTSSPKNATKVITLNRTADGVWACKSTQDP
+MFTPKGCDN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4821">
+		<reference_name>Ahmadi et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ahmadi H, Tabaraie B, Maleknia S, Pormirzagholi F, Nejati M, Hedayati MH</authors>
+		<title>Immunological evaluation of OMP-F of native Iranian Pseudomonas aeruginosa as a protective vaccine</title>
+		<year>2012</year>
+		<volume>6</volume>
+		<issue>10</issue>
+		<pages>721-726</pages>
+		<journal_book_name>Journal of infection in developing countries</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4943">
+		<reference_name>Banadkoki et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Banadkoki AZ, Keshavarzmehr M, Afshar Z, Aleyasin N, Fatemi MJ, Behrouz B, Hashemi FB</authors>
+		<title>Protective effect of pilin protein with alum+naloxone adjuvant against acute pulmonary Pseudomonas aeruginosa infection</title>
+		<year>2016</year>
+		<volume>44</volume>
+		<issue>5</issue>
+		<pages>367-373</pages>
+		<journal_book_name>Biologicals : journal of the International Association of Biological Standardization</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4744">
+		<reference_name>Behrouz et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Behrouz B, Mahdavi M, Amirmozafari N, Fatemi MJ, Irajian G, Bahroudi M, Hashemi FB</authors>
+		<title>Immunogenicity of Pseudomonas aeruginosa recombinant b-type fagellin as a vaccine candidate: Protective efficacy in a murine burn wound sepsis model</title>
+		<year>2016</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Burns : journal of the International Society for Burn Injuries</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4803">
+		<reference_name>Campod�nico et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Campod�nico VL, Llosa NJ, Grout M, D�ring G, Maira-Litr�n T, Pier GB</authors>
+		<title>Evaluation of flagella and flagellin of Pseudomonas aeruginosa as vaccines</title>
+		<year>2010</year>
+		<volume>78</volume>
+		<issue>2</issue>
+		<pages>746-755</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1501">
+		<reference_name>Finke et al., 1990</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Finke M, Duchêne M, Eckhardt A, Domdey H, von Specht BU</authors>
+		<title>Protection against experimental Pseudomonas aeruginosa infection by recombinant P. aeruginosa lipoprotein I expressed in Escherichia coli</title>
+		<year>1990</year>
+		<volume>58</volume>
+		<issue>7</issue>
+		<pages>2241-2244</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4686">
+		<reference_name>Hamaoka et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hamaoka S, Naito Y, Katoh H, Shimizu M, Kinoshita M, Akiyama K, Kainuma A, Moriyama K, Ishii KJ, Sawa T</authors>
+		<title>Efficacy comparison of adjuvants in PcrV vaccine against Pseudomonas aeruginosa pneumonia</title>
+		<year>2017</year>
+		<volume>61</volume>
+		<issue>2</issue>
+		<pages>64-74</pages>
+		<journal_book_name>Microbiology and immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4793">
+		<reference_name>Hassan et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hassan R, El-Naggar W, Abd El-Aziz AM, Shaaban M, Kenawy HI, Ali YM</authors>
+		<title>Immunization with outer membrane proteins (OprF and OprI) and flagellin B�protects mice from pulmonary infection with mucoid and nonmucoid Pseudomonas aeruginosa</title>
+		<year>2018</year>
+		<volume>51</volume>
+		<issue>3</issue>
+		<pages>312-320</pages>
+		<journal_book_name>Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1499">
+		<reference_name>Holder et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Holder IA, Neely AN, Frank DW</authors>
+		<title>PcrV immunization enhances survival of burned Pseudomonas aeruginosa-infected mice</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>9</issue>
+		<pages>5908-5910</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4833">
+		<reference_name>Korpi et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Korpi F, Irajian G, Mahadavi M, Motamedifar M, Mousavi M, Laghaei P, Raei N, Behrouz B</authors>
+		<title>Active Immunization with Recombinant PilA protein Protects Against Pseudomonas aeruginosa Infection in a Mouse Burn Wound Model</title>
+		<year>2015</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Journal of microbiology and biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4838">
+		<reference_name>Laghaei et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Laghaei P, Hashemi FB, Irajian G, Korpi F, Amirmozafari N, Behrouz B</authors>
+		<title>Immunogenicity and protective efficacy of Pseudomonas aeruginosa type a and b flagellin vaccines in a burned mouse model</title>
+		<year>2016</year>
+		<volume>74</volume>
+		<issue></issue>
+		<pages>71-81</pages>
+		<journal_book_name>Molecular immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1498">
+		<reference_name>Price et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Price BM, Galloway DR, Baker NR, Gilleland LB, Staczek J, Gilleland HE Jr</authors>
+		<title>Protection against Pseudomonas aeruginosa chronic lung infection in mice by genetic immunization against outer membrane protein F (OprF) of P. aeruginosa</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>5</issue>
+		<pages>3510-3515</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4881">
+		<reference_name>Rehm et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rehm BH, Grabert E, Hein J, Winkler UK</authors>
+		<title>Antibody response of rabbits and cystic fibrosis patients to an alginate-specific outer membrane protein of a mucoid strain of Pseudomonas aeruginosa</title>
+		<year>1994</year>
+		<volume>16</volume>
+		<issue>1</issue>
+		<pages>43-51</pages>
+		<journal_book_name>Microbial pathogenesis</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2701">
+		<reference_name>Saha et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Saha S, Takeshita F, Sasaki S, Matsuda T, Tanaka T, Tozuka M, Takase K, Matsumoto T, Okuda K, Ishii N, Yamaguchi K, Klinman DM, Xin KQ, Okuda K</authors>
+		<title>Multivalent DNA vaccine protects mice against pulmonary infection caused by Pseudomonas aeruginosa</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>37-39</issue>
+		<pages>6240-6249</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1529">
+		<reference_name>Salyers and Whitt., 2002</reference_name>
+		<reference_type>book</reference_type>
+		<authors>Abigail A. Salyers, Dixie D. Whitt</authors>
+		<title>Pseudomonas aeruginosa and Related Species, a Lesson in Versatility</title>
+		<year>2002</year>
+		<volume></volume>
+		<issue></issue>
+		<pages>247-62</pages>
+		<journal_book_name>Bacterial Pathogenesis: A Molecular Approach</journal_book_name>
+		<publisher>ASM Press</publisher>
+		<publisher_location>Washington D.C. USA</publisher_location>
+		<book_editors></book_editors>
+		<isbn>1-55581-171-x</isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4737">
+		<reference_name>Soldatenkova et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Soldatenkova AV, Ge?derova LA, Akhmatova NK, Mikha?lova NA</authors>
+		<title>[Pseudomonas aeruginosa recombinant proteins: effect on mice cytokine profile]</title>
+		<year>2013</year>
+		<volume></volume>
+		<issue>6</issue>
+		<pages>80-87</pages>
+		<journal_book_name>Zhurnal mikrobiologii, epidemiologii, i immunobiologii</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1500">
+		<reference_name>Textbook of Bacteriology</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Pseudomonas</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.textbookofbacteriology.net/pseudomonas.html</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4719">
+		<reference_name>Thomas et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Thomas LD, Cripps AW, Kyd JM</authors>
+		<title>Immune response mechanisms against Pseudomonas aeruginosa associated with mucosal immunization with protein antigens in a rat model of acute lung infection</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>25-26</issue>
+		<pages>3324-3330</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4724">
+		<reference_name>Wu et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wu W, Huang J, Duan B, Traficante DC, Hong H, Risech M, Lory S, Priebe GP</authors>
+		<title>Th17-stimulating protein vaccines confer protection against Pseudomonas aeruginosa pneumonia</title>
+		<year>2012</year>
+		<volume>186</volume>
+		<issue>5</issue>
+		<pages>420-427</pages>
+		<journal_book_name>American journal of respiratory and critical care medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4817">
+		<reference_name>Yang et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yang F, Gu J, Yang L, Gao C, Jing H, Wang Y, Zeng H, Zou Q, Lv F, Zhang J</authors>
+		<title>Protective Efficacy of the Trivalent Pseudomonas aeruginosa Vaccine Candidate PcrV-OprI-Hcp1 in Murine Pneumonia and Burn Models</title>
+		<year>2017</year>
+		<volume>7</volume>
+		<issue>1</issue>
+		<pages>3957</pages>
+		<journal_book_name>Scientific reports</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1666">
+		<reference_name>Zaidi et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zaidi TS, Priebe GP, Pier GB</authors>
+		<title>A live-attenuated Pseudomonas aeruginosa vaccine elicits outer membrane protein-specific active and passive protection against corneal infection</title>
+		<year>2006</year>
+		<volume>74</volume>
+		<issue>2</issue>
+		<pages>975-983</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,2657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen91">
+		<pathogen_name>Toxoplasma gondii</pathogen_name>
+		<taxon_id>5811</taxon_id>
+		<pathogenesis refs="reference1458">T. gondii is an intestinal coccidian of cat with man as one of the intermediate host. Humans are generally infected by ingesting oocysts released in cat faeces or by consuming meat from infected herd animals containing the long lived tissue cysts. Following ingestion, the outer wall of cysts or oocysts are disrupted by enzymatic degradation and bradyzoites and sporozoites are liberated into intestinal lumen. They rapidly invade and multiply within surrounding cells where they become tachyzoites. Thereafter, tachyzoites are disseminated via blood or lymphatic system to most of the organs of human body. At these sites, the tachyzoites infect host cells, replicate and invade the adjoining cell. In this fashion, the hallmarks of the infection develop: cell death and focal necrosis surrounded by an acute inflammatory response (Bhopale, 2003).</pathogenesis>
+		<disease_name>Toxoplasmosis</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1457">The life cycle of T. gondii has two phases. The sexual part of the life cycle (coccidia like) takes place only in members of the Felidae family (domestic and wild cats), which makes these animals the parasite's primary host. The asexual part of the life cycle can take place in any warm-blooded animal, like other mammals (including felines) and birds (Wiki: T. gondii).</host_range>
+		<introduction refs="reference1457">Toxoplasma gondii is a species of parasitic protozoa in the genus Toxoplasma. The definitive host of T. gondii is the cat, but the parasite can be carried by many warm-blooded animals (birds or mammals). Toxoplasmosis, the disease of which T. gondii is the causative agent, is usually minor and self-limiting but can have serious or even fatal effects on a fetus whose mother first contracts the disease during pregnancy or on an immunocompromised human or cat (Wiki: T. gondii).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine429">
+		<vaccine_name>Ovilis Toxovax</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Ovilis Toxovax</brand_name>
+		<manufacturer>Intervet</manufacturer>
+		<vo_id>VO_0001138</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference847">S48 strain with a lost ability to form cysts after passages in mice(Buxton and Innes, 1995)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4130">
+		<vaccine_name>rBCGpMV361-TgCyP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004656</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference2796">Following amplification of the T. gondii cyclophilin gene, the shuttle expression plasmid pMV261-TgCyP and integrative expression plasmid pMV361-TgCyP were constructed, and their expression was stimulated after transfection into BCG (Yu et al., 2013).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1884" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2796">rBCGpMV261-TgCyP and rBCGpMV361-TgCyP (106 CFU) were used to immunise the mice in two different manners (through an i.v. or oral route) (Yu et al., 2013).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2796">The levels of Th1-type IFN-γ, IL-2 and IL-12 were significantly increased following immunisation with the rBCG vaccines via the i.v. or oral route, which indicated that catalytic activity against T. gondii infection was generated in the mice. rBCGpMV361-TgCyP i.v. inoculation resulted in a higher protection efficiency, as demonstrated by the increased survival time and survival rate (17%) of BALB/c mice (Yu et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2796">Two weeks after the third vaccination, mice were selected randomly from each group and challenged intraperitoneally (i.p.) with 10^3 highly virulent T. gondii RH strain tachyzoites (Yu et al., 2013).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3038">
+		<vaccine_name>T. gondii DNA vaccine encoding MIC8</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004219</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 [Ref1642:Liu et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">MIC8</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering607" gene_id="gene876">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1642">To construct the pVAX-MIC8 expression plasmid, the coding sequence of the T. gondii MIC8 gene was amplified by polymerase chain reaction (PCR) from genomic DNA of T. gondii. The PCR product was cloned in pGEM-T easy vector (Promega, USA) and sequenced in both directions to ensure fidelity and generated pGEM-MIC8. The MIC8 fragment was inserted into the BamH I/Xba I sites of pVAX I by double digestion with BamH I/Xba I restriction enzymes, and ligation was finally done using T4 DNA ligase. The resulting plasmid was named pVAX-MIC8 (Liu et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response876" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Kunming</host_strain>
+			<vaccination_protocol refs="reference1642">Mice (20 per group) received injections of 100 μl of pVAXMIC8 plasmid or empty pVAX I vector into each anterior tibial muscle (final plasmid concentration, 100 μg/100 μl). The injections were repeated using the same protocol 2 and 4 weeks after vaccination. Tail bleeds were performed on vaccinated mice on the day of first vaccination, second vaccination, and third vaccination and pre-challenge to ascertain the presence of specific anti-T. gondii antibodies (Liu et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1642">Immunization of mice with pVAXMIC8 dramatically increased the survival time (10.3± 0.9 days) compared with control mice which died within 5 days of challenge (Liu et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1642">Mice in all groups were intraperitoneally challenged with the virulent T. gondii RH strain (10^3 tachyzoites per mouse) 2 weeks after the last immunization (Liu et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine868">
+		<vaccine_name>T. gondii DNA vaccine pcDNA3-MIC3</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011523</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 [Ref1187:Xiang et al., 2009]</vector>
+		<route>Footpad injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Footpad injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering339" gene_id="gene587">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1187">Protein MIC3 (Xiang et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response627" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Kunming</host_strain>
+			<vaccination_protocol refs="reference1187">All studies were done with 6–8 weeks old Kunming mice. For experimental group, 100 μg pcDNA3-MIC3 were injected into mouse hind footpad three times, at week 0, 3 and 6, respectively. The mice of control groups were vaccinated with 100 μg pcDNA3 or normal saline (NS) three times (Xiang et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1187">The survival time of mice in pcDNA3-MIC3 group was significantly longer than those of in group pcDNA3 and NS (Xiang et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1187">Immunized Kunming mice were challenged intraperitoneally with 500 tachyzoites of RH strain T. gondii 9 weeks after the first immunization (Xiang et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3343">
+		<vaccine_name>T. gondii DNA vaccine pcDNA3.1-SAG1-ROP2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004313</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref2142:Xue et al., 2008]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2142">IL-12 (Xue et al., 2008)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1287" gene_id="gene1373">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2142">Vector pcDNA3.1 expressed SAG1 (Xue et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1288" gene_id="gene809">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2142">Vector pcDNA3.1 expressed ROP2 (Xue et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1167" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2142">When challenged with Toxoplasma gondii RH strain, mice immunized with pIL-12 co-administration had significantly higher survival rates compared to co-administration with pCTA2/B or pcDNA3.1-SAG1-ROP2 alone (control) (Xue et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3754">
+		<vaccine_name>T. gondii DNA vaccine pMIC3i encoding the complete MIC3-ORF (RH(ERP) strain)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004453</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCDNA3 [Ref2388:Ismael et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2388">GM-CSF (Ismael et al., 2009)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1411" gene_id="gene1622">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2388">Vector pcDNA3 expressed MIC3 (Ismael et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1506" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2388">Mice immunized with pMIC3i displayed significant protection against an oral challenge with 76K T. gondii strain cysts, exhibiting fewer brain cysts than the control mice immunized with the empty plasmid pcDNA3. The co-administration of pGM-CSF enhanced this protection (Ismael et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3342">
+		<vaccine_name>T. gondii DNA vaccine pSAG1-ROP2-SAG2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004312</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref2141:Cui et al., 2008]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2141">IL-12 (Cui et al., 2008)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1284" gene_id="gene1373">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2141">Vector pcDNA3·1 (–) expressed SAG1-ROP2 and SAG2 gene fragments (Cui et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1285" gene_id="gene1375">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2141">Vector pcDNA3·1 (–) expressed SAG1-ROP2 and SAG2 gene fragments (Cui et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1286" gene_id="gene1374">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2141">Vector pcDNA3·1 (–) expressed SAG1-ROP2 and SAG2 gene fragments (Cui et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1166" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2141">Higher survival rates after lethal challenge were obtained in mice immunized with pSAG1-ROP2-SAG2 as compared to the mice immunized with PBS, expression vector alone or pSAG2, or pSAG1-ROP2. In addition, the protection induced by pSAG1-ROP2-SAG2 was remarkably enhanced by pIL-12 co-administration (Cui et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3882">
+		<vaccine_name>T. gondii DNA vaccine pVAX-TgMIC13</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004528</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX I [Ref2645:Yuan et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1430" gene_id="gene1633">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1524" host_id="host3">
+			<immune_response refs="reference2645">Immunization with pVAX-TgMIC13 induced a strong immune responses demonstrated by significant lymphocyte proliferation, cytokine production and antibody responses (Yuan et al., 2013).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2645">Immunized mice showed increased survival time (21.3±11.3 days) and reduced number of cysts in brain of mice (57.14%) after challenge with tachyzoites of the virulent T. gondii RH strain and cysts of the T. gondii PRU strain, respectively (Yuan et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3755">
+		<vaccine_name>T. gondii DNA vaccine pVR1020-GRA1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004454</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VR1020 [Ref2389:Scorza et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1267" gene_id="gene1361">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2389">Vector VR1020 expressed T. gondii excreted-secreted dense granule proteins GRA1 (Scorza et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1507" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2389">All control pVR1020-vaccinated mice succumbed to infection after challenge, while 75% of the mice vaccinated with pVR1020-GRA1 were protected against infection with strain IPB-G.  In the second experiment, all mice vaccinated with GRA1 DNA survived, while 75% of the mice vaccinated with control DNA succumbed to infection (P &lt; 0.05) (Scorza et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3885">
+		<vaccine_name>T. gondii DNA vaccine ROP8-pVAX-1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004531</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 [Ref2649:Parthasarathy et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1433" gene_id="gene1635">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1527" host_id="host3">
+			<immune_response refs="reference2649">splenocytes from mice immunized with ROP8-pVAX-1 secreted significantly high levels of IFN-γ (816 ± 26.3 pg/mL) compared with spleen cells cultured from mice immunized with pVAX-1 (48 ± 10.8) or PBS (45 ± 6.6). Only a low level of IL-4 was detected in the culture supernatant of splenocytes from mice immunized with ROP8-pVAX-1 (148 ± 18.3) but was significantly higher compared with mice immunized with pVAX-1 (50 ± 13.6) or PBS (47 ± 6.1) (Parthasarathy et al., 2013).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2649">Mice immunized with ROP8-pVAX-1 DNA had a 100% survival rate until Day 9, whereas all the control mice died. On top of that, mice immunized with ROP8-pVAX-1 DNA showed a significant increase in the survival time (29 days, P &lt; 0.05) (Parthasarathy et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3756">
+		<vaccine_name>T. gondii DNA vaccine T.g.HSP70</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004455</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pME18100 [Ref2390:Kikumura et al., 2010]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1617" gene_id="gene1735">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1508" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2390">The T.g.HSP70 gene vaccination induced protective immunity against T.g.HSP70-induced anaphylactic reaction not only at the acute phase but also at acute exacerbation of the chronic phase of infection, although the protective effect was partial (Kikumura et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3962">
+		<vaccine_name>T. gondii recombinant vaccine vector rBCGpMV361-TgCyP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004602</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>BCG</vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">BCG is acting as a vector with antigen and adjuvant purposes for this vaccine.</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs="reference2796">TgCyP(Yu et al., 2013)</antigen>
+		<host_response host_response_id="host_response1608" host_id="host3">
+			<immune_response refs="reference2796">Greater proliferation of CD4+ and CD8+ T cells; levels of Th1-type IFN-γ, IL-2 and IL-12 were significantly increased (Yu et al., 2013)</immune_response>
+			<host_strain refs="">BALB/c mice</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2796">rBCGpMV361-TgCyP i.v. inoculation protected the BALB/c mice, as shown by the 17% increased survival rate compared to those mice not inoculated  (Yu et al., 2013)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine866">
+		<vaccine_name>T. gondii Subunit Rop2-Hsp83 Fusion Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011521</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Footpad Injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Footpad Injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering337" gene_id="gene809">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response625" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Balb/c, C57BL/6 and C3H</host_strain>
+			<vaccination_protocol refs="reference1400">The immunization doses and boosters of each antigen were the following: Rop2 (44 kDa, 2 μg), LiHsp83 (86 kDa, 6 μg), Rop2-LiHsp83 (not, vert, similar120 kDa, 9 μg) and the mixture of Rop2 and LiHsp83 (2 + 6 μg, respectively). Balb/c, C57BL/6 and C3H mice were immunized by footpad injections on days 0, 21, 35 and 45 with PBS (control) or recombinant proteins (Echeverria et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1400">Vaccination with fusion protein conferred a remarkable resistance against oral infection with ME49 cysts in C57BL/6 and C3H mice, in comparison to mice immunized with Rop2 alone or the protein mixture. Following lethal challenge, a significant survival rate was observed in Rop2-83 immunized Balb/c and C57BL/6 mice in comparison to control groups (Echeverria et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1400">To analyze protection against virulent T. gondii strain (lethal challenge) immunized mice were challenged intraperitoneally with 10^5 T. gondii RH tachyzoites 2 weeks after the last immunization. To analyze protection against non-lethal challenge, immunized mice were orally infected with 20 cysts of the ME49 T. gondii strain 2 weeks after the last booster. The brain parasite load was evaluated 1 month after infection (Echeverria et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3144">
+		<vaccine_name>Toxoplasma gondii mic2 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0003012</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering657" gene_id="gene901">
+			<type>Gene mutation</type>
+			<description refs="reference1664">This mic2 mutant is from Toxoplasma gondii (Huynh and Carruthers, 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response968" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1664">A mic2 mutant is attenuated in mice (Huynh and Carruthers, 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1664">A mic2 mutant induces protection in mice from challenge with wild type T. gondii (Huynh and Carruthers, 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response204" gene_id="gene1127">
+			    <description refs="reference1664">Levels of serum IL-12p40 (IL-12b) were higher than those of uninfected mice on days 4, 6 and 8 post-infection (Huynh and Carruthers, 2006).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response205" gene_id="gene1">
+			    <description refs="reference1664">Levels of serum IFN-gamma were higher in mice infected with MIC2 deletion mutants than in uninfected mice on days 4, 6 and 8 post-infection (Huynh and Carruthers, 2006).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response206" gene_id="gene1130">
+			    <description refs="reference1664">Levels of serum MCP-1 (Ccl2) were higher in mice infected with MIC2 deletion mutants than in uninfected mice on days 4, 6 and 8 post infection (Huynh and Carruthers, 2006).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response207" gene_id="gene1137">
+			    <description refs="reference1664">Levels of serum TNF-alpha were higher in mice infected with MIC2 deletion mutants than in uninfected mice on days 4, 6 and 8 post infection (Huynh and Carruthers, 2006).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response208" gene_id="gene1139">
+			    <description refs="reference1664">Levels of serum IL-6 were higher in mice infected with MIC2 deletion mutants than in uninfected mice on days 4, 6 and 8 post infection (Huynh and Carruthers, 2006).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3145">
+		<vaccine_name>Toxoplasma gondii OMPDC mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0003013</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering658" gene_id="gene969">
+			<type>Gene mutation</type>
+			<description refs="reference1904">This OMPDC mutant is from Toxoplasma gondii (Fox and Bzik, 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response969" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1904">An OMPDC mutant is attenuated in mice (Fox and Bzik, 2010).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1904">An OMPDC mutant induces significant protection in mice from challenge with wild type T. gondii (Fox and Bzik, 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3146">
+		<vaccine_name>Toxoplasma gondii OMPDC/UP mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering659" gene_id="gene969">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1904">This OMPDC/UP mutant is from Toxoplasma gondii (Fox and Bzik, 2010).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering660" gene_id="gene970">
+			<type>Gene mutation</type>
+			<description refs="reference1904">This OMPDC/UP mutant is from Toxoplasma gondii (Fox and Bzik, 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response970" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1904">An OMPDC/UP mutant is attenuated in mice (Fox and Bzik, 2010).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1904">An OMPDC/UP mutant induces significant protection in mice from challenge with wild type T. gondii (Fox and Bzik, 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1130">
+        <gene_name>Ccl2</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>20296</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>6755430</ncbi_protein_id>
+        <gene_locus_tag>RP23-350G1.3</gene_locus_tag>
+        <gene_refseq>AJ238892</gene_refseq>
+        <protein_refseq>NP_035463</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>11</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>82035576</gene_start>
+        <gene_end>82037451</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>chemokine (C-C motif) ligand 2</protein_name>
+        <protein_pi>10.38</protein_pi>
+        <protein_weight>14837.89</protein_weight>
+        <protein_length>148</protein_length>
+        <protein_note>Also known as JE; HC11; MCAF; MCP1; MCP-1; Scya2; Sigje; SMC-CF; AI323594</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099099:82035576-82037451 Mus musculus strain C57BL/6J chromosome 11, GRCm38 C57BL/6J
+TGCAGAGAGCCAGACGGGAGGAAGGCCAGCCCAGCACCAGCACCAGCCAACTCTCACTGAAGCCAGCTCT
+CTCTTCCTCCACCACCATGCAGGTCCCTGTCATGCTTCTGGGCCTGCTGTTCACAGTTGCCGGCTGGAGC
+ATCCACGTGTTGGCTCAGCCAGGTGAGACCCCCCCAGCTCCCTTCCCAGCATATCACCCCATTTTTGAAT
+TGTCGTGGATTGTGATAGCATAGTCTCACATGGTCAGGTACTTTTTTTTTTTTCTTTAACCAAGATAAGG
+AGCATAAAGAAGGAAGGACAAAGAGCCAACCCAATTACAAGATTGCTTCTGGAAAGCAACTAGAATTTTA
+ATTGTTAGATCTAAATTTGGAATCACACCTTCATATAGTTCCTGTTCCAGTTACTTCCCTCAGTATTTGG
+GAACCTGGGTGATCAAACAGAGGCTTGGGTTGGTGCCTTTTTCCAGATAGAGGAGAAAGGGGAAGAGATC
+CAAGATCCGAGCTGTGTTTCACCCAGCCCTGCTTCCAGAGATAGCAGCTTAGCGGAGGTGGTTGGGATCA
+GAGATACTCATGATTTGATTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTGCAGCCTACAGTAATGTA
+CTCAGGTAATCTTCTCAGGTCATAGTAATTTGACTTCTAACTCCCCCAAATGACAGTCCCCAGAGTCACA
+TAGTTTTAATGGCATCCCTCTACCCAAGACTGTGAGCCTACTTTAAGCTGCAAATAACTGAGTCTGTTGT
+CAAAGATCACATCCCAGATCTGATGTATTGGCATTTATATCCCATCCTGCTGAAACTGCCTTCTCCCCGT
+GGTCCTTCTCTTCTCTAAGGTCAGAAGCATCTTTCCTGTCCTAATGTGCTTCTCTTTTACTCTCCAGATG
+CAGTTAACGCCCCACTCACCTGCTGCTACTCATTCACCAGCAAGATGATCCCAATGAGTAGGCTGGAGAG
+CTACAAGAGGATCACCAGCAGCAGGTGTCCCAAAGAAGCTGTAGTGTGAGTTACATACCCCGGCCCTCCC
+TGGTCCAAAGGTTTTTCCTTAAGAACAAGGGATGGTCCTCATATACTTATAGTCAGTCACACACTCAGAT
+CCAATGGGGAAACCAAGGCCAAGAAGGCAAAGGCAGTTCTCAACAGCATTGTCTCTATGGCTGCTGTTCA
+GGCCCTTTCTACTCCACAAGCTTATCTTAGAAAACCTGCAGGAGAAGCAGGTCACTTTGAGTCCCCTTTT
+TCTACCTGCCCTCCCCCGCTGAGCTCTACACAGCCCCTCCATGTATACCAGACTGAACTTCATCTAACAG
+TGTCTTTTCTCTTCCCACAGTTTTGTCACCAAGCTCAAGAGAGAGGTCTGTGCTGACCCCAAGAAGGAAT
+GGGTCCAGACATACATTAAAAACCTGGATCGGAACCAAATGAGATCAGAACCTACAACTTTATTTAAAAC
+TGCATCTGCCCTAAGGTCTTCAGCACCTTTGAATGTGAAGTTGACCCGTAAATCTGAAGCTAATGCATCC
+ACTACCTTTTCCACAACCACCTCAAGCACTTCTGTAGGAGTGACCAGTGTGACAGTGAACTAGTGTGACT
+CGGACTGTGATGCCTTAATTAATATTAAACTTATTTAACTTATTGATGTTATGGTATTCCCTTTCATGAA
+TACTAAAATTTCTTAAATGCAAGGTGTGGATCCATTTTTCCCTCTCTGTGAATCCAGATTCAACACTTTC
+AATGTATGAGAGATGAATTTTGTAAAGATGAATGGGTAAACTTTGTGTTTGAGATTCCAAGGTATTGTTT
+AAAATATTATTATGGATATTCCTTATTATTAAAAGAAATATATTATTTTTGTACAC</dna_sequence>
+        <protein_sequence>>gi|6755430|ref|NP_035463.1| C-C motif chemokine 2 precursor [Mus musculus]
+MQVPVMLLGLLFTVAGWSIHVLAQPDAVNAPLTCCYSFTSKMIPMSRLESYKRITSSRCPKEAVVFVTKL
+KREVCADPKKEWVQTYIKNLDRNQMRSEPTTLFKTASALRSSAPLNVKLTRKSEANASTTFSTTTSSTSV
+GVTSVTVN</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1361">
+        <gene_name>GRA1</gene_name>
+        <strain>Toxoplasma gondii</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>301750620</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>P24 granule antigen</protein_name>
+        <protein_pi>3.92</protein_pi>
+        <protein_weight>18678.03</protein_weight>
+        <protein_length>246</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ADK88943.1 P24 granule antigen [Toxoplasma gondii]
+MVRVSAIVGAAASVFVCLSAGAYAAEGGDNQSSAVSDRASLFGLLSGGTGQGLGIGESVDLEMMGNTYRV
+ERPTGNPDLLKIAIKASDGSYSEVGNVNVEEVIDTMKSMQRDEDIFLRALNKGETVEEAIEDVAQAEGLN
+SEQTLQLEDAVSAVASVVQDEMKVIDDVQQLEKDKQQLKDDIGFLTGERE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1735">
+        <gene_name>hsp70</gene_name>
+        <strain>Toxoplasma gondii</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>12248795</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:240227
+CDD:212675
+CDD:295646</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>5.38</protein_pi>
+        <protein_weight>69239.84</protein_weight>
+        <protein_length>723</protein_length>
+        <protein_note>heat shock 70 kDa protein; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>BAB20284.1 hsp70 [Toxoplasma gondii]
+MGSSHHHHHHSSGLVPRGSHMLEMADSPAVGIDLGTTYSCVGVWKNDAVEIIANDQGNRTTPSYVAFTDT
+ERLVGDAAKNQVARNPENTIFDAKRLIGRKFDDPSVQSDMKHWPFKVIAGPGDKPLIEVTYQGEKKTFHP
+EEVSAMVLGKMKEIAEAYLGKEVKEAVITVLAYFNDSQRQATKDAGTIAGLSVLRIINEPTAAAIAYGLD
+KKGCGEMNVLIFDMGGGTFDVSLLTIEDGIFEVKATAGDTHLGGEDFDNRLVDFCVQDFKRKNRGKDIST
+NSRALRRLRTQCERTKRTLSSSIQATIEIDSLFEGIDYSVSISRARFEELCMDYFRNSLLPVEKVLKDSG
+IDKRSVSEVVLVGGSTRIPKIQQLITDFFNGKEPCRSINPDEAVAYGAAVQAAILKGVTSSQVQDLLLLD
+VALLSLGLETAGGVMTKLIERNTTIPTKKSQTFTTYADNQPGVLIQVYEGERAMTKDNNLLGKFHLDGIP
+PAPRGVPQIEVTFDIDANGIMNVTAQDKSTGKSNQITITNDKGRLSASEIDRMVQEAEKYKAEDEQNKHR
+VEAKNGLENYCYHMRQTLDDEKLKDKISSEDRDTANKAIQEALDWLDKNQLAEKEEFEAKQKEVESVCTP
+IITKLYQAGAAAGGMPGGMGGMPGGMGGMPGGMGGMPGGMGSGC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene1139">
+        <gene_name>IL-6</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16193</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>13624311</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC112933</gene_refseq>
+        <protein_refseq>NP_112445</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>5</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>30013160</gene_start>
+        <gene_end>30019967</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>interleukin 6</protein_name>
+        <protein_pi>7.5</protein_pi>
+        <protein_weight>23291.86</protein_weight>
+        <protein_length>211</protein_length>
+        <protein_note>Also known as Il-6</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099105:30013160-30019967 Mus musculus strain C57BL/6J chromosome 5, GRCm38 C57BL/6J
+ACCAAGAACGATAGTCAATTCCAGAAACCGCTATGAAGTTCCTCTCTGCAAGTAAGTGAAGGCAGTTCCT
+TGCCCTCTGGCGGAGCTATTGAGACTGTGAGAGAGGAGTGTGAGGCAGAGAGCCAGCATTGTGGGTTGGC
+CAGCAGCCATCAGCTAGCAGCAGGCGCCCAACTGTGCTATCTGCTCACTTGCCGGTTTTCCCTTTTCTCC
+ACGCAGGAGACTTCCATCCAGTTGCCTTCTTGGGACTGATGCTGGTGACAACCACGGCCTTCCCTACTTC
+ACAAGTCCGGAGAGGAGACTTCACAGAGGATACCACTCCCAACAGACCTGTCTATACCACTTCACAAGTC
+GGAGGCTTAATTACACATGTTCTCTGGGAAATCGTGGAAATGAGAAAAGAGGTGGGTAGGCTGTGAAACT
+GATGAAGACCCAGTGTGGGCGTCCATTCATTCTCTTTGCTCTTGAATTAGAAATTCTCTGCTGGGATCTA
+GGGCCCTTAGGATTTGAAGCTAAAGGTCAGACTAGACTGTGTTCTCTCTTTCTCACCTCTTTGCTGGTTT
+TGAGTGGAGGTTGGGAAGGGGTTCCTTTCCTGTCTGGAAGATACAGAATGTGACTGCATTTCTAGAAAAT
+TCACAGTGGGCCATTCTCTGTTCCAATTTAGCTATTGCTTCTTAGGTGGGGATTCCTTTTCCCTCATTAT
+TCCTTTTTCCTTATCTCTTTGCCTTCATTTATCCCTTGAAGTCTACAAGGACCAGAAAGTGCTTTTTGGC
+TGAATGTAGTAAGTTCTGTGTGTGTGAAATCAGGATGCTCTAGGGTCAGCCCAGATAAGATGCATATTGT
+ATAGAGCCCAATAAAGTGCTAACACACACACACACACACACACACACACACAACCTAGATTAGGCTGGGC
+ATGGTGGTGGATGCCTCCCAGCACTTGGGAGGCACACGCAGGAAGATCTCTGTGAGTTAGAGGCCAGCTT
+GGTCTACATATTGAGTTCCAGGATATCCAAGACTACATTGAGAGATCCTTTCTCAAAAAAAAAAAAAAAA
+AAAAAAAAACAACAACAACAAACAAACAAACAAACAAGAAAAAAAAAACCCAACCAACCCTACCTAGATT
+AAAATATCTCCCATCTTTAAATGAAAAGTATTTTGACTCTGCTTGACAGAAAGGAAAAAAAAAATCACAA
+ACAAGATTAATAGCCTAGGTCTGGGTGTGTAGAACCAACTTTGTAATCTTGGGAAAATCCTCAACTATTT
+AGTACTCTTTATCTGCATAATTATGGAGTTACAGATAATGGCACAGACCCTTCCAGATGGAATATTCTGT
+GACTTAAATTTATTTGCCCCAAGATATCATCAAAATTTCTGTCCTTTACCAAGTTCCTACTCTATGCTGG
+GCAGTTTTTATCGTTGAATCCTTGAGACAAATGTATAAGAGGGACATCAATAATTCTTTATTGAAACATA
+GGAAATACTTAGGAGAGTAACAAGCTTAAAGCCAAGGGACTGAGCCTAAGGGTGCATTTTTATTTATTGG
+GCTGCTTAGTAGGGTTCTAAGAAGGTATAGCTTCCCTTTTCTGTGTCCTGGCTATGAAAGAGCATGACTT
+GGCCCTCTAGTGGTGCTTGTTGTAAGAGGTGTTTAAGTGATTGCTCTGGTAATCTTTTGCAGTTGTGCAA
+TGGCAATTCTGATTGTATGAACAACGATGATGCACTTGCAGAAAACAATCTGAAACTTCCAGAGATACAA
+AGAAATGATGGATGCTACCAAACTGGATATAATCAGGTAGAAACTTGTCACGTTTACTTTCAACAATTCT
+TCAAGGTTCTCTCTTGCACGTGATACCTGCATTTGTACAGTCCCAGTCAGGCAACAAAGATGGGGGGATA
+CATCCAATACCACTTGGATGTAACTGGCCTGCAGTAGCTTGAATACAAAAGGAGATTGAGAGGTACCTCA
+GCAGCTGCTAGGGTGAGGGAAAGTTTACCAACCAGTGCTATAAATGTTCACTCAATCTATGTCCATCAGG
+AGCTAAATGTTTAAAGTCTCTATTCTCATCTTGGCTTTGAGGTGTTAGATGATTAAAAAAAAAACATTTT
+TTTTGTCTAAAAAAGTGGAAGAGTAGATATAAAACATGTTATGTAAACGTCATGAGGAAAGTAACTTACA
+GATTTAATTAAAAAGCAGTTTATTTAAACAGGTAAAGGCCCACTATGCTGGGATTCTTCACCACTGTTAA
+ATGTTAGAAGTCATAGCAAGTTTAGCTAGTTCATGAGCCATCTCTTCTCTGGCTGCCCCTGGAAGGATCC
+AGGCCTACACTCCCTACTGAGAACACTCTTCACACCCCTCTCCTTCCAGCCGGTGAGATAGTCTACATCA
+GGTCTCAGGACAAGTCAGACAAGAACAAGAGTACAGGAAGGGCACTGCAGGATAGAAGGGAAGGAGTGAG
+GGTCAGAAGTGGATTCCCACTGCCACACTCTGGGGTAGGGGGTGGGGGGATATTAAGTGGTGCCTCTCTC
+TACTTGTCCAGATAATTCAGGAGGTCAGCTGATGCTGCCTGTTGTCTAATTCTGTAGAAGATACTGAACA
+GCAGGAATCTTTTTTTCAATTTTTTATTAGATATTTTCTTCATTTACATTTCAAATGCTATCCCCACAGT
+CCCCTATACCCTCCCCCCCCTCCCCGCTCCCTTACCCACCAACTCCCACTTCTTGGCCCTGGCATTCCCC
+TGTACTGGGGCATATAAAGTTTGCAAGACCAAGGGGCCTCTATTCCCAATGATGGCTGACTAGGCCATCT
+TCTGCTACATATGCAGCTAGAGATATGAGCTCTGGGGGTACTGGTTAGTTCATATTGTTGTTCCACCTAT
+AGGGTTGCAGACCCCTTCAGCTCCTTGGGTACTTTCTCTAGCTCCTCCATTGGGGGCCCTGTGTTCCATC
+CAATAGAAGACTGTGAGCATCCACTTTTTGCCAGGCATTGGCCTAGCCTCACACGAGACAGCTATATCAG
+GGTCCTTTCAGCAAAATCTTGCTGGTATATGCAATACTGTCTGGGTTTGGTGGCTGATTATGGGATGGAT
+CCCTAGGTGGGGTAGTCTCTGGATCTTCCATCCTTTTGTCTTAGCTCCAAACTTTGTCTCTGTAACTCCT
+TCCATGGGTATTTTGTTCCCCATTCTAAGGAGGAATGAAGTATCCACATGTTGGTCTTCCTTCTTCTTGA
+TTTTCTTGTGTTTTGGAAATTGTACCTTGGGTATTCTAAGTTTCTGGGCTAATATCCACTTATCAGTGAG
+TGCATATCAAGTGACTTCTTTTGTGATTGGGTTACCTCACTAAGGATCATACTCTCCAGATACATCCATT
+TGACCAAGAATTTCATAAATCCATTGTTTTTAATAGCTGAATAGTACTCCATTTGTAAATGTACCACATT
+TTCTGTATCCATTCCTCTGTTGAGGGACATCTGGGTTCTTTCCAGCTTCTGGCTATTATGAATAAGGCTG
+CTATGAACATAGTGGAGCATATGTCCTTATTACCAGTTGGAACATCTTCTGCGTATATGCCCAGAAGAGG
+TATTGCTGGATCTTCCGGTAGTACTATGTCTAATTTTTTGAGGAACAGCCAGACTGATTTCCAGAGTGGT
+TATACAAGCTTGCAATCCCAACAGCAATGGAGGAGTGTTCCTCTTTCTCCACATCCTTACCAGCATCTGC
+TGTCACCTGAATTTTTGATCTTAGCCATTCTGACTGGTGTGAGGTGGAATCTCAGGGTTGTTTTGATTTG
+CATTTCCCTGATGATTAAGGATGTTGAACATTTTTTCAAGTGCTTCTCAGCCATTCAGTATTCCTCAGTT
+GAGAATTCTTTGTTTAGCTTTGTACCCCATTTTTAATGGGGTTATTTGAATTTCTGGAGTTCAGCTTCTT
+GAGCTCTTTGTATATATTGGATATTAGTCCCCTATCAGATTTAGGATTGGTAAAAATCCTTTCCCAATCT
+GTTGGTGGCCTTTTTGTCTTATTGACAGTGTCTTTTCCCTTACAGAAGCTTTGCAATTTTATGAGGTCCC
+ATTTGTCGATTCTCGATTTTACTGTACAAGCCATTGCTGTTCTGTTCAGGAATTTTTCCCCTGTTCCCAT
+ATCTACGAGGGTTTTTTTCCCACTTTCTCCTCTATAAATTTCAGTGTCTCTGGTTTTATGTGGAGTTCTT
+TGATCCACTTAGACTTGAGCTTTGTACAAGGAGATAAGAATGGATCAATTCGGGCTGGAGAGATGGCTCA
+GTGGTTAAGAGCACTGACTGCTCTTTCAGAAGTCCTGAGTTCAAATCCCAGCAACCACATGGTGGTTCAT
+AACCATCTATAATAAGATCTGATGTCCTTTTCTGGTGTGTCTGAAGACAGCTACAGTGTACTTACATGTA
+ATAAATAAATAAAACTAGATTATTTAAAAAAAAAAAAAAAGAATGGATCAATTCACACTCTTCTACATGA
+TAACCACCAGTTGAGCCCGCACCAATTGTTGAAAATGCTCTCTTTTTCCCACTGGATGGTTTTAGCTCCC
+TTGTCAAAGATCAAGTGACCATAAGTGTGTGGGTTCATTTCTGTGTCTTCAATTGTGTTCCATTGATCTA
+CCTGTCTGTTGCTGTATCAATACCATGCAGTTTTTTTTATCACAATTGCTCTGTAGTACAGCTTGAGGTC
+AGGCATGGTGAGTCCACCAGAGGTTCTTTTATTGTTGAGAATAGTTTTTGCTATCCTAGTTTTTTTTTTT
+TTTTTTTTTTGAACAGCAGGAATCTTATTCTCAAATTGAATCTATTCCTAGAAAGAACTGACTTCCTTTT
+CCATTTTACTTATAGGAAATTTGCCTATTGAAAATTTCCTCTGGTCTTCTGGAGTACCATAGCTACCTGG
+AGTACATGAAGAACAACTTAAAAGATAACAAGAAAGACAAAGCCAGAGTCCTTCAGAGAGATACAGAAAC
+TCTAATTCATATCTTCAACCAAGAGGTGAGTGCTTCCCCATCTCTCATGCAGTGTGGGAAAGAGGACACC
+CGGCACCTCAGGGTAGCGGCACTTTTTCCAGACAGCTGCTCAGAAGGGAGAGAGTCTGAACAACAGTTCT
+TGATTATAAGGCCTTGCTTTGTTTTACTTTGGGGTTTTGTTTGAGGTTCTCTTTTGCAAAGAACATCAAT
+ACCTGCTTTAAACTGTATTAATAGAATGTTACTAATTGCGTAAGAGGTATGAAAACTATGACAGCCATAC
+ATAGTCACCCATTATGAGAGCACAGAGACAAAAGTGACTTTAATATTTAATCCTTGGCAAGTGACATTTT
+TGTAACCAGAGTTCTAATGCAGAGAAGTAGCCAAAAGCTAAAATGTCAGGGAAGGAAGGGATCAAGGGCT
+TCTGGCTACCATTAGCCAGAAGAATGGTAGATATGGAGGATTAATGACTCAGAGTGTGGGCGAACAAAGC
+CAGATGCAATAAGAAGGGCCTGGAATGAAACCCTCTTGCTAAGGCTGCTTTTGCCACTTGTAGTTTCTTG
+CCTTAAACCAGAGAGTTTCCCAATTTAATGTGCACAGGAACCACTTAGGGTCTTGTTCCAGCAGGGTCTT
+ACTTAGGAGGTCTAGGAAGGGAACTAAGATTCATTTTTGTAAACAGCTGCTTGTTTATGACCCTGCTATA
+TAGTATTCAGGCTCCTAAGTAGTGGGGCAAGCCTTCCAGTTAGTCTTCCCCATGCCAGTGGGCCCATGGA
+AGGGTGTTTCCAGACTTCTTCATGCTACCACACTAAGAGACTCTCAACAGAGTCTGAATGGAAACCACGA
+AGGAACACATTTGTTTTAGATTCCTCTGTGCCACCTTTACTGATGGGAGCTTCTGTTTTCCAGTAGAATA
+CAGTATGTTAGCATGGATGCTTGGATAACAGACAAATAAGATGGTGGTGCTGACCTCTGGACGCTTACTC
+TCTAGTGGCAGACAGAACAGTAAGGTTAGAATTCTGTTGCTATTAAAAAACTAATAATAATCACCTTGAA
+AAAGAATGGAGTTGTTAGGCATGGGTCTCTCTCGAGTAAGCTTGGAACAAAAGCATCTCCCCTGGCTTGG
+GTGAGTCAAAGCAGATGGACTTAGCTCGTCTCATTCATTCTAAATTAGAACTTCTTCCCACAGCCCAGAA
+CACGCCACAAGAAAAAAAAAATGTGCAATATTTAACCAGTCTTTGTTTTTTCCTCCTTTAGGTAAAAGAT
+TTACATAAAATAGTCCTTCCTACCCCAATTTCCAATGCTCTCCTAACAGATAAGCTGGAGTCACAGAAGG
+AGTGGCTAAGGACCAAGACCATCCAATTCATCTTGAAATCACTTGAAGAATTTCTAAAAGTCACTTTGAG
+ATCTACTCGGCAAACCTAGTGCGTTATGCCTAAGCATATCAGTTTGTGGACATTCCTCACTGTGGTCAGA
+AAATATATCCTGTTGTCAGGTATCTGACTTATGTTGTTCTCTACGAAGAACTGACAATATGAATGTTGGG
+ACACTATTTTAATTATTTTTAATTTATTGATAATTTAAATAAGTAAACTTTAAGTTAATTTATGATTGAT
+ATTTATTATTTTTATGAAGTGTCACTTGAAATGTTATATGTTATAGTTTTGAAATGATAACCTAAAAATC
+TATTTGATATAAATATTCTGTTACCTAGCCAGATGGTTTCTTGGAATGTATAAGTTTACCTCAATGAATT
+GCTAATTTAAATATGTTTTTAAAGAAATCTTTGTGATGTATTTTTATAATGTTTAGACTGTCTTCAAACA
+AATAAATTATATTATATT</dna_sequence>
+        <protein_sequence>>gi|13624311|ref|NP_112445.1| interleukin-6 precursor [Mus musculus]
+MKFLSARDFHPVAFLGLMLVTTTAFPTSQVRRGDFTEDTTPNRPVYTTSQVGGLITHVLWEIVEMRKELC
+NGNSDCMNNDDALAENNLKLPEIQRNDGCYQTGYNQEICLLKISSGLLEYHSYLEYMKNNLKDNKKDKAR
+VLQRDTETLIHIFNQEVKDLHKIVLPTPISNALLTDKLESQKEWLRTKTIQFILKSLEEFLKVTLRSTRQ
+T</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1127">
+        <gene_name>Il12b</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16160</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>6680397</ncbi_protein_id>
+        <gene_locus_tag>RP23-388G23.1</gene_locus_tag>
+        <gene_refseq>AL607030</gene_refseq>
+        <protein_refseq>NP_032378</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>11</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>44400062</gene_start>
+        <gene_end>44414016</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>interleukin 12b</protein_name>
+        <protein_pi>6.5</protein_pi>
+        <protein_weight>35952.67</protein_weight>
+        <protein_length>335</protein_length>
+        <protein_note>Also known as p40; Il-12b; Il12p40; Il-12p40</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099099:44400062-44414016 Mus musculus strain C57BL/6J chromosome 11, GRCm38 C57BL/6J
+CAGAAGGAACAGTGGGTGTCCAGGCACATCAGACCAGGCAGCTCGCAGCAAAGCAAGGTAAGTTCTCTCC
+TCTTCCCTGTCGCTAACTCCCTGCATCTAGAGGCTGTCCAGATTCAGACTCCAGGGGACAGGCTACCCCT
+GAACCAGGCAGCGTGGGAGTGGGGTAAGTGGATTCTGGGAGCATCTCGGATGGCTTTCCCCGCTGGTGGA
+AACCAGGGGCTTTGACGACAGGGGCTTCAAATAGTCATTTAAAAAGTCAGCTAATTACAGATGTGATGGC
+GCACACCTGTAATCTCCAAATCTGGGAGGCAGGAAACAGAATGCACAGGAGTTTAAGGCCAGATTCAGCT
+GTGTAATGAGTTTGAGAGAGTCTCAAAAAATTGAGCTACTAATAATATGTGCCAAGCATTGTGGACAGAT
+GTGTATTTGATAGAAAGGTTTGCTTTGTCTATATAGACACATATACTATGTGCATTTTCTTAAGTATTAA
+TGCATATGTGTTAAGGAGTGTTGTTAAAATTCTGTTCTTGCCTTAAGAGTGAAACTTAAAAAAAAAAAAA
+GCCTTTCATGTACCCCTTCAAGCCTAAGCTCATCACTGAATGTCCTACCTGTGATGGCCTTTAGAATCAG
+CTATGATAATCAAAGTGGAGAGCTGGGTTTGGGGGTTCCTTTGGATTTTAACTAACTTTGCCACCTCTTC
+AAAACTGGAAAGCCCAAGGCATGTTCCAAACTATTTCCTAAAGGGTTCTAAAATCTGTGAGAAAGGGAAG
+GCTAATCTTCATGGGTTGGCTTCCTCTGCTTGCCCAGGTGAAATCATGAGCACCAGATGGGGCAGGGTGA
+TGGGGCAGGGTGACATCTTGCTTTCACCCAGGGATCACTGAGCCTCAGCTGGGGGCTCCGTTTGTTCAAG
+CAAGGCATTTCAAGATGAAGTTAGGTCACCCCCAAGAATTCATTTTGCTGAGATCTGAAATACTGTGATT
+ATTGCACCAACAATCCATGGACTCTCTCTAGGCTAGATTCTGGATATAAGACTAGACAGATATGACCTCT
+GTCACACACCTCGGTATGGGAAAGGGGGGACAGACATTAAAGACGTAATCAAATGATTGTCATTTCAGCG
+ATGCTGAAGGGGAAGAGTAGCTATTTGGGGTCCTGTTTTCATTTGGGGCTCAAGCTGGCACTTTCTGTGG
+ATCATTTCATGAACTCCTAACCTGACAGAGTTATTTTTAATCTAGGAGTACAGGCTTGACAAAGTCAACA
+CAACTTGTCAAGGTCACATAACTAACAAGTGGCAGACTGAGGTCTGTTTGGCTGTAGAACCAAGGCCCTT
+TGCCCGTGCCCTCCTTGCCATCCCTGACAGCCACGCCATCTGTACTGTGCATTGTTGTTTCTGGGCATTT
+TTATTTTTACATATCATTTCTCTTTTAAATTAAAGAATAACAGAATGAAACTTGCAAAAGGGATGTCCAC
+TCAGGCACCCGCTGGCAGCAATGTTTGGAAGCATTTGCATGCTCTAGGGAGCTAGAGTATCCAGCCCAGG
+GTTCCTGTGCTCTTTGCACAAGACTTTCAGGACTTAAGAAAACTAATGAAAACAAACAAACAAACAAACA
+AACAAAAAAGAATTGTTAAAACATAGCATATGGAAGAATTGTGGAGTGAGAGGGAAACAAAGCCCAGCAT
+CTGCCAATCAGCCTGAAAGCCAAAGCCTGGCTACATACTGCACACTTTTTTGCTTGTGCAGATTTGATTA
+AGAGGCGACCTGCCATCATCTCCACCCTCTGCTGGTCTTCTATGATCTAAGATGTAGGTGATGCCGAAAT
+GAAGATTGTTCCTTGGACCATTGCCAGGGCTCCCTTCAGCCTGAAATATGGTTCACGTGTGATGCTCAAG
+TGCATCTGAGGCTGACAGAGGAAATGCTTGGCATGTAGCCAAAGGGGAAATCCCTGTGTTGAGAGCATAT
+GAAGAGATCACCAGGAGATGCCAGGAATCTCTGCCTTTTTTCCCTGCCCAGAGTCCTACCATCTGGGTTT
+CACAGCCGTGTATAATTGCATCACCTTCTCTGGGCATTTCTCTCTACAGCCTGGCAGATTTTTATTTTTC
+AACCCAGTGTGCACAAAACAGAAAGAATTTCAATTTTTTTCCTTAGCTTTTTACTAGTGCAAGGTATTAT
+ACAATGTCATCTCACTGCATGCCCAATAGCTCTTGAAGATCACATAAGCCTTATGTCTTTTTATATGAAG
+GCAGTCGGGCTCAGAGGAACTAAACCAACACCAAACAGCTACTGAGTAGTAGGGCCAGAATCCAAGTCCA
+TGTCTGCTTGACTCCAAGCCTATGAATGTAGCAACCAGCACCATTTCAGCTTGTACTTGTCTTGACTATA
+TGATAATTTGGACCTAGACATGTCCTGACTCCTAGTCCTGTCTCTGTCATGAAAAAGAAATCATAGCAGG
+GCCCTCAAGAGGTTAGCAGTACTTCTGTTCTCTCAAAGGTCGTGATTTCTGACCAAGGCCTGTTTATTTT
+TAAGGCATTTGCCTATAACATTTAAGCCTTAATTCATATGGGTTAGACTGTGGTCTCTCAAATCTTGTTC
+CTGACGGGCGGTGGCACCCTCCAGGATAGATGAAAAGTATTTCTGAAGGGAATTAGTAATCTACACTGAT
+TATCTCAACCACATTTATGAGTGAGGTATAATCTTTACAGTCTAAAGGTTTGTGTTGCCCTGGTGTTAAT
+CTAGACTGGGTTACAATACAGGATGGTTACTGACTTATCTATTTCATGATAGGTTAATCAATATGGTACA
+GTCTTCTGCCAAAGAACACCTTGAATTTTAGGAGTTCTGGACTCTCAAACCTAGCTAGCACATTTGCCCT
+CACAATGTGTTCAATGGATCATAACATCAGCTTTCAGCACCTCCAAGACATGTTAAGTCAGACACTCTGT
+TCTGGGCTGAGACCCAACAGTCTCCGTGAACCCAGGTTATACACACACCCAAGCTTAAGAAATGCTGCAT
+TTTGTTGTGAGGGAGAGAATTATTTTAGAATTTGGAGTAATCTCTGCCTAGGTTTAAAAAAACCTAATCC
+ACTACAGGTCCTTGTCAGAACTTGAAAGTTTACCCTGTGTCACCTTTCCCACACCTAAGCTGGTCCTCTA
+GCCTGGGGCATCCCAGTGCCTACTGCACAGCAGGGTGATTCGGATGCCCAGTGACACTGTTCTCGTCCAT
+ACTGGCAGCATGGCAGTACTTTCCCATTCTGTTCAAAGCTCTTTGGGTATTATGTTAATATTACAATCAT
+AACTAAGGAAATATCTGATGACTGTGGACCTGGGAAGCCACGGTCATCTCTAAGTTTATGTTTCTGAACC
+TTAAAAAAAAATAAATAAGATGGGTGTGGTGGCTCTCGCCTTTAATCCCAGCACTCAGGAAGCAGAGGCA
+GGTGGATCCCTGTGAGTTTGGGGTCAGCCTTATCTACATAGAGTTCCAGGACAACGAAGGCTGAAAGTCT
+GTCTTAAGAAGAGGGAGGGAGGAGATGATTGTGGATATCAGGAAGACAGTTCAGCAGGTCACATTACTTC
+TGCACAAGCCTGGTGACCTGGGTTTGAACCCTGAACCCAGAGTGAAAGGAGACAGTCAACTCCCAAAAGT
+TGTCCTCTGACCTCCACACATGCACACATACAATAGTCATACATCAATATATTTTTAAAAAACAAAATGG
+TATCAGGTAGCTGGGCCCTATGATTATTTAAGCTCCAGGTAGCCTCTAGTTCTTTATTTGGAGATGTTTT
+TACCCAAATCTAGAAGAGACCTCCTATAATCCTGGTCCAACAGTGTGAAAAGAAAGGGGAAAGTGAGTAT
+TTGGAAGGCAGATAAGCTGTTGATCGGGTTAATTGGATAACAGTTGACATTCTCTCTCCCATTTCCCCGC
+CTTTTCCTTCTCCTCTGCTCCCCTTCTTCCTCCCTCCTGCCCCTCCTCCACACAGATGTGTCCTCAGAAG
+CTAACCATCTCCTGGTTTGCCATCGTTTTGCTGGTGTCTCCACTCATGGCCATGTGGGAGCTGGAGAAAG
+ACGGTAAGCAGCCTTTTCCCTGTTTTCTTTGGAGCGCCAGCACCTAAACTTGATCTCCAGGCAGCCTGCT
+GGGAAGGGATAGTGAAGTCTGAAGTAGGCAACCGTGCATGGGATTGTCTCAGGAAAAATCCTCAGGGAAG
+ATGGAGGGTTAGCGTCTCTTCCTCCACCTATCTCTCTCCCTTGTTTGGTTTTCATGTTGGATGACAGGAA
+AGGAGTTTCAGGTGAACTATGGTGGTGTGTGGGATATGATCTTGGCCTTAGATACCAGAAAATGACTCTT
+CTAAACAATTGAAATTCCCTAATAGAGAATTTGTAACGTAGCAAGATTGTCTTCTACCCTCTCTTGTCTT
+GCATATTACAACGTGCTCTCAGTGGGCACCATGATGGTTGTCCTCTGGCTATTTTGGGATTGGCATTCAC
+ACTGACTTGGTTTCAGGTCATGGCTCTGCCAGGTATTGATACTGAACCTTTGAGGCTGGGTAGTCTTGTG
+ACCTCAGTTTTCTTTCCTTTTTTTTTCCCCCAGACAGGGTTTCTCTATATAGCCTTGACTTGTCCTGAAA
+CTCACTCTGTAGACCAGGCTGGCCTTAAACTCAGAAATCTGCCTGCCTCTGCCTCCCGAGTGCTGAGATT
+AAAGGAATGCACCACCACTGCCTGGCTGACCTCAGTTTTCTTAATTGGGTGTTCAGTATAGCACAGCCCA
+CATGGACTATTGAATATGTTAATAAATACAGAAAATAACATATGGTAGAGTGAGCAAGCACTATTATTTA
+AAACAAAAAGTCTCTGAACTTTTCATTATCCCAATGGCAATAAGATTATTAGTAGACAAATAATGAAGGC
+ATAGAAGGGGGTGCTCTCTGTCCTCTGTCCTTGTGCCATGTCACAGTTAGCAAATGTCCATCAACTCAGT
+CCTCAGATGGTCGTCACAGGATCTCAAATGTTTCATGGAATACAAGGTAATCAAGTCAGGAATTTCTGCT
+TTTATAGCTACACTTTAGTAATAATTAATATTTATTTAACACTCAATTTCGCAACAACCATGTAAAGTAG
+GAGCTATCTGTATTCCATTTTACAGATAGTAAAAACTGAGGTTCAAGAGGCTAAGTAAGTTTCCCACAAG
+GTCCAGAATAGAACTTGATCCCAGTTTAGTCTCACTTCAGAGCCTGTGTGCTTAAATGCTAGATTTTACA
+AGTAAGGCGTGAAGCAACTATTTCCTGTGGCCATAAAGAGGAAATGGGTGTAAATTATAAATGAAAAGAT
+TTCCCAGCTGCTGATTAGAAATAATCTTCTGAGAATCCAGGAAAAAAAAAAAAGGTGAGCCTTTTTTTCA
+TTCTGAAGAATTACAAGAGTTTGAACGATATTCGCAGGTAAAGGTGCTTGCCACCAAGTCCGATGACCTA
+GACTTCATCACTGCGATCAGCATGATGGAAGGAGAGGATCGAGTTCTCTAAATTGCCCTCTGCTCTCAAG
+ACATGAGCTGTGACACCTGTGCACACACACACACACACACACACACATGAAAGAATTAAATGCAACTTTA
+AAAAGAGTAATCTCCAGCCTGGCCACCCACGCCAACAGAATTTTGGATGCTTTCCTAAGTAAAGCCTTTG
+CCACAGCCAGATGGACAACTTAGGCCCTGGCAGAGTTAACCCCTTAGTTACTTCTGACCTGATAAACCAC
+AGAAATTTCAGAAAAGCAACAGGAGAAACACAGAGAGAGCTTGTGTTGGAGTCACAATGGTGGCCCGAAG
+CCCAGCAGATATCTAAGCTCTGATTCCAACGTGTCCAAGAAGTTCTTTCCCTGCCCTGGGGCTAAGGTCT
+TCTAGGGTTTCTGAGTTCAGGTTCTAAAAGGAAAATAATAGACAGCCTGTTTCATGGCCTAGGGGACAAA
+GGGAAACTGGGAGCCAAAGGGTCCTGTGCACTGGAATCAGCTCAGGCTAACGATTTCTGAAGAGCTTGGC
+CTCAAGTGATTTGTACCTCTTATCTTTGCTCCCCATTCAGCAGTGACAAATCCCACTGATGTAAAAGTAA
+GAGCTTAGCATTTCACAAGGCTTTAAGCTCCAATGCCAATCACAAAGCCACCATTCACAGGGCACTTAAG
+GAAACTGTCTTAAGCTTGCATACAAATTAGTTTAGATGTTACCTTCTAAAGAAAGCACTAATATTTTGCT
+TTCTTTTTTCTTTTTTTAAAAGAATGACATCAGACTAGGGCATGGCAGTTCATGCCTGCAATCCCTGAAC
+TTGATAGATCAAGACAAGAAGAAAGCCCAATTTTGTGGCCAGCCGGGGCTATAAAGTAAAATTCTAAGTA
+GCTGGCTGTCTCTTCCCACCCCCGAGGCCATGGCTCTCTGAAAGCCCTTTGCTGGCTCTGCTCCATAGCC
+GTGCTATTCCAAAACCCAGGCTCTTCACCACTATGCCTTCCATATTCAATCAGGCATCAGATGACTGGGG
+CCATCCTGATCTGACTCAGCAACCAAGAACAAACCTCACTGATGGGTTTTCAGGTGATGCTGATGATGGA
+GGTTGAAAGACGACCCTGCTTTACGGGTCACTGCATTAAGCTAGTCTTTCGATTAATAATTGATATGTAG
+GTAACCTTTGAAGCTTTGTCACATGAGGCTTTGGTGTGACCCACTCCAGAATACCTTATGGAGATATTCT
+GGAGGCTCCTTCAGAAACTAGCATCAGATATCCATTGCACAACACAGGAGACAAAAGATCCGAAAGACAC
+CATTTGTTACCCTTCACACTTGATGGGACCTCACTTAGCCCTTGGCCATCAGCAAAAACAGTTCCTTCAA
+AAACTGAGACAATCATCTACTGCTTTGTAAGAGTGTAAAATAGCTTTTAAAAACAAGTAGTTAATGGCAA
+TCTCCGTCCACAAATTTCATGCAGAAGAGACTTAAAAAAAAAAAAACCTAAATCTTTCTGGATAATTTTA
+AGAGTTTTTCAGTGCATTTGCCTGGCTCTTTGGCCTGTGCATGACAGTGATGATGATGATGGTGGTGGTG
+GTGGTGATGATGATGATTTTAAAAAGCTAGCACAGGGTTATCCTGCCGTAACCTTAGCTGTGCTAAGGTG
+CATGCTTTTTTACCATCTATCCTCACAGCTAATCCTATTAGCATAGACAATATTGTTCTTACCATTTTGT
+GAGGACTCTGGGGCTACTGGTGGTTCAGGACCTTGCTCAAAATCTCCTTTGCAATTAGAGAAGATAGGAT
+TTCTGCATCTTTCTTTCTCCACACCTATGCTTTAAGCCACTATGTTATTCTGCTCAATACTCTGCCCTGT
+GTATTCCCTGTGAATTACAACTGGAAGCTTACTCCCCCTCATCTCCATTCCCAACACACACACACACACA
+CACACACACACACACACACACACACACACTAGTGGCTTCTGACAAGGAATCTTGTGCTGTTTGCATCTTT
+TCTTGTTTCAAGGTCTTCCCTTCCTAATCAGAGACCGATTATTACTGGCCACCTGCCAGTTAAATGACTC
+GGTGGCAGCTATAGAACTGTTTCTCTGTTCTGTCCCCATGCCCTGAGATCTCTCAGCAAGCACTTGCCAA
+ACTCCTGTGAGCTATGACGTTCCAAGGGCCATGGGTGTGTCAAGACACTGAGTGAAACCCAGTTCCCGGG
+GTTTGTGAGGCTCCTGGTCCAGGTCCTCACTGCTGGTGCTCTCCAGTTTATGTTGTAGAGGTGGACTGGA
+CTCCCGATGCCCCTGGAGAAACAGTGAACCTCACCTGTGACACGCCTGAAGAAGATGACATCACCTGGAC
+CTCAGACCAGAGACATGGAGTCATAGGCTCTGGAAAGACCCTGACCATCACTGTCAAAGAGTTTCTAGAT
+GCTGGCCAGTACACCTGCCACAAAGGAGGCGAGACTCTGAGCCACTCACATCTGCTGCTCCACAAGAAGG
+AAAATGGAATTTGGTCCACTGAAATTTTAAAAAGTAATTCCATCCCCCTTGACAGTATCTTTTCTTCTAC
+CCCTCCTTAAAAAGTAATAATTGCAAGTGTGTGTGTGTGTGTGTGTGTGTGCGCGTGCGCGTGCGCGTGC
+ACTGAGGCTCAGAAATGTTTCTCATTTCCTTTGAAACAGGAACTCTCATTGGCCCATAGCTTACCAATAA
+GCTTTCTTGGTTAGCCAATAACATCCAGAGACCTTGTCTCAAAAAAAAAAAAAAAAAAATCTCACCCTTG
+TACCATGTAATGGCCAGTGATCCATCCACAGTAAAAAAGAAATAAATAAATAAAATAAAAATAAAAAATA
+ACAAAAACAAATTTCTTTATTAAAAGAAAACTCCTAAATATTTAATTTTTCTTTTCTTTTCAAATGCAGA
+TTTCAAAAACAAGACTTTCCTGAAGTGTGAAGCACCAAATTACTCCGGACGGTTCACGTGCTCATGGCTG
+GTGCAAAGAAACATGGACTTGAAGTTCAACATCAAGAGCAGTAGCAGGTAAGGGAGCTGCCATGATTTCT
+CAAGGTTTTGTGTGATCTACTTCATAACAAAAAGAAGTACAAACTGCCCATGGATTATCAGTGACTGGTA
+ATGGAACAGCAAAGTCAATTCTGTATTTTTTTTTTCAACTTCCCTCTGCTCGCCTAAGGAAATAGCATGG
+AGCTTTAAGCCAGCCCTCTGAGACTAGTTGGCTGGGTAGTTTGAATTCACTCATCCGAATTGCCTGGCCG
+TGCTTCATTAAGGCTCACAGCACCATGGGGAGGAATTAAAAAGAAGCCACAGCTACAAATAACTGGCCAG
+AGCTCGACCTTGTGTCAAAAGCAGAATTGAGTGCTCCAGGGCCTTGCTGTTGGAAGCCCTGGAACAGATT
+CCAGAACCCTCTGAGGCCTTTCGAGATTTTCCTAGAGCCTTTTCAACTTCTTCCCCCCCCCACCCCCACC
+CCCCAACCGTTATTCTGAAGTTCAGTTTCCCCAATGCACTTGGGCTTTTCCTAAAAACATCATCTCCCAG
+GGCTGCAGAGCGGGTGTGTCAGACTGCTCTACAGCTGACTTTAGTCAGCAACTAAATCCCTGAGCCACAT
+GGAGGGCAGGGAGTGAGCGCCCTGGCTCTCCCACTATTTAAATGAATAAACGGGGGACAGGGGGTGTGGG
+GGGGACGACTCCCTTTTCCATCTTTATCATGAATTTGCTATGACTTAACTTAGCTAAGGAAAATAATGGT
+TCAGGGTGACATCAGAGTCCTTGTTGCTTCTATGAGAATTTTCTGATCTGGTAAAGGTGGCCCCAAAGGA
+GACCAGTGTACAATGCAGATGCTTACATATAGAAACATGCCAGACCTCTATGTGCTTTAAAAAATTAGAC
+AAGCACGATACATTTTCCTGCTAGAGAAATCTTGCACGTGTTCCTGAAGAAACTAGTACATGGATAAGGG
+TCAGTGGAACATTTTGCATAATTAGCAAAAGCATGCTCAAATGGAACATCAATGTGCATCTATTGAAATA
+AATAACTCAACTTTCGTGTTCTGTTTAGAGAACTCCCCCACAATACTTTCAGAGAGGAAAAAGACGTTAC
+AAACTCATGCATATATATTTTTCATTTGTCTTTAAAGTTGTGCTACTCTTTGGATAAACTACATATGTAC
+ATATATGTCTGTGTGCATGTCTATCTTAAATATTCATTTGGAAAAACTCTAGAAGTAACAAACTGTGAAC
+AATGTCTATATGTGGGACTCAGATTTGAGTAAAAAGGAGAATTGTGGCGACACGCATGTTTTCTTTATAA
+TCATCTTTGTTGTTATAATTCTTTATAATTCAGCAGTTTCTCTTGCATTACGATATTTTCAGGTTCATTT
+AGGCAGAGATGCAACTTTCAGTCTCTTACAGCTAAGCTTCCACTCTGCAAAGGGCAAGGGGGTTTTTGTT
+TGGTTTTGGTTTTGGTTGTTTTATTCCACTGGAGAAATCCAACCAGCTGGACAGACTGGCCTCGGACTGT
+AGACACCAGGCACTCTATCTCTGATCTATAATACAGAACTCATTCTGTCTTTGCCATCAGTTCCCCTGAC
+TCTCGGGCAGTGACATGTGGAATGGCGTCTCTGTCTGCAGAGAAGGTCACACTGGACCAAAGGGACTATG
+AGAAGTATTCAGTGTCCTGCCAGGAGGATGTCACCTGCCCAACTGCCGAGGAGACCCTGCCCATTGAACT
+GGCGTTGGAAGCACGGCAGCAGAATAAATATGAGAACTACAGCACCAGCTTCTTCATCAGGGACATCAGT
+GAGTTTTGCCTGGGAGCAGGTGCTAGGGAAGCAAAGACGATGTCTGCCACGTGTCCATGATACCCTGGGG
+CATAGGATTGGCCTGCATTCTTTTCCATTCTCCTAAAAAGCATGATACAGACACTACCCTCTTCATCTTA
+CAGATGAGGAAATTAAAGGGTTAAGCTAACCTTTTTCCAGATCTCAAATCTCACAGACAGCAGACCAGAC
+CCAGACCTGCCCCAATGGTGGCACCTAATGGATTATGGGTTAACTACATGCTTAGTGTAAAGCAGAAACC
+AAGCACAGGGAGGGTTCCCTGATTGCTGAGCCCAGATACGAGACTCTATTAAGCAGAATGACTCAACCAG
+TAGGGACTTCCGGTCTGTGCAGTGCAGAAAGGGTTCTAAAATGTAGGATATGGCCAATAATGGTGACTTC
+CTCGAGTGGAAAGATCACTCTCAGCAGATCCCTCACAGGTGCTGCCCTGATGCTCAGAGAAGTGAAAGAG
+CTATTCCAGAGACTAGAAGGTGGAGGGCTCTGTCAGCCAAGCTCAGGAGCCTAAGTCCTAGCTCCAAAGC
+CTGGCCAGGATAATAAAGGATGCTTGTCTTCTTCTGCAGTCAAACCAGACCCGCCCAAGAACTTGCAGAT
+GAAGCCTTTGAAGAACTCACAGGTGGAGGTCAGCTGGGAGTACCCTGACTCCTGGAGCACTCCCCATTCC
+TACTTCTCCCTCAAGTTCTTTGTTCGAATCCAGCGCAAGAAAGAAAAGATGAAGGAGACAGAGGAGGGGT
+GTAACCAGGTAGGATTTATGCAGCCCATGTTGGGGCCATTGGAAAGATCCTGACAACCAGGTGCTTGCCT
+CAGGACCAGAACTGTGTTAAGGGCTCTCCATGTGAATCACACACAACCTATACAAAGTCCCAAAGGCAGC
+CAGTATTGCTGTCACCTCTCCACAGAGGCCAGGAAAGCTCAGAGAGGCTATGTTTTGCCCACGTTCTTCC
+AGCTAGAGCAGTGGCAGAACCAGTACCCAGCAATGGTTTGATGGAGAAAGAGATGGTTAGCTCAACCACT
+TCAATTCCTCCAGTATAGTCGATTGTCAATCCTCAACCAAAGTTGTTCATGATATAGAAACCTGGGATCC
+AGGAGCCTATAATGATTGTTTAAACTGAGTAAATATAGTAAATGCTAAAACATTGATGCTGGGACCCACC
+AAATAAGGATAATCTCTACTTCCTTAATATGAGCAATCATTTCACCTTACAAGATGTCCACCTTTACTGG
+GCTAATATGGTGACTTTCTACCTTTCGGGTCCTTAGCACAGTGATCTCTTGCTAGGTTTGAGGAACACTT
+TTATGAGCATTTAAGTCACAGAGCAAAGGATTCTTCCAACCTAGCATTGAGAATGTGATAGCAATTCAGC
+TCAGAGATTCAACCACTTCCTAAAAGCAGGAGCAAAAAATGGGATTATTTTGAAACAGATTTTAACTGCT
+ACCTAAGTTTCATCCCTGTGTGTATGTATTTAATATACCAATCTTAAATAGGTAATGTCTAGTGCTTTCT
+ACTTGCTAAAAGCTTTCTACGCATTTTTACATAAATGTTGTATTTAGCTGCTGCAATTCTTAGAGGCAGG
+CATCCTGGGACCTACTCATGAATAAGGAGAGACACAGAGAACCAGAGATATTTTCCTGAAGCACCACAGC
+TGTTTAGTAGCATTGCCAGGATTTGAAGTCACTTTTGTAAGCTGACAGGCATGGTAATTCTTGATGTCAA
+GACAGCTAAAGAAAGCTGGTCTCAGTCCCAACATCAGCTTCATATGGGAGTGGTTACCCATGGGACCTTG
+GGGTAATGCTGCTACTTCAAGAGGCAGAAGGGGGAGCAAGCCATTTCTGTTGGAGTTTACTAAATAGAAA
+AGTGAGAGTGGGGTGGTGGATGAATCATGCTGGAATATGAAGACCTGAATTTTAACCCCCAGAACCTCTG
+TAAAACTGAGTAGTAATGCCTGAACCTGGGCTCTGGAAAGAGGTGGGACACATACACACACACACACACA
+CACACACACACACACACACACACACACACACACCTCTGATTATAGCTTCTACCAGCAGGTGGTGCAAGGG
+GAGCGCCCATGCCAGCCTGCCTTATATTGCCTAAAGCCCTTACTTAAATTTTCCTCTCCTTTGCAGAAAG
+GTGCGTTCCTCGTAGAGAAGACATCTACCGAAGTCCAATGCAAAGGCGGGAATGTCTGCGTGCAAGCTCA
+GGATCGCTATTACAATTCCTCATGCAGCAAGTGGGCATGTGTTCCCTGCAGGTGTGTGAGCAGGACCGTG
+AAGCCCAACCACACCTGCACATTTAGTGGTCCTGGTGGAGGACAACAGGAGGCTTGTGAGGGAGGTGGGG
+GTGGAATTCCTGGCATAGGGATTCCAGTCAGAAACACATTTGTTCATCAGCAGATGTTAACTTGATGTGT
+ATGTTAGGTCAGGCACTATGCTAGGCCAAGGATATTACAATAAAGAAAACAAGCATGGGTCCTACCCTTG
+TACAGGGAAAGGCAAGAAGGACCAGAGGAGGAGGAAATCAGGAGTCAGAGTATGGAGAACTTGGAAGTAG
+ACAGAAGTTGGAACCATATCTTAGGGGTTCTGGGGAACCACTGAAGTCTTTTTAATAAGGAAATATCCCA
+ATCAAAGCCCTTTTAAGAAAAATCTCTCAAGAGAGTCCCTGGCAAGCATGAGACCAGCTGAAGTCCAAGC
+CCTGTAAGGAAGGGTTGGGCTGTCTCGCACAGAAATCCTCAAGACCCAGTGTCTGGGGATAATAATGTGT
+GGTGTGAAATAGGAGGGTATTGAGGCTATACCTCTGACCAATATGGACTTACCTACCCACATTCCTTTAC
+AGGGTCCGATCCTAGGATGCAACGTTGGAAAGGAAAGAAAAGTGGAAGACATTAAGGAAGAAAAATTTAA
+ACTCAGGATGGAAGAGTCCCCCAAAAGCTGTCTTCTGCTTGGTTGGCTTTTTCCAGTTTTCCTAAGTTCA
+TCATGACACCTTTGCTGATTTCTACATGTAAATGTTAAATGCCCGCAGAGCCAGGGAGCTAATGTATGCA
+TAGATATTCTAGCATTCCACTTGGCCTTATGCTGTTGAAATATTTAAGTAATTTATGTATTTATTAATTT
+ATTTCTGCATTTCACATTTGTATACCAAGATGTATTGAATATTTCATGTGCTCGTGGCCTGATCCACTGG
+GACCAGGCCCTATTATGCAAATTGTGAGCTTGTTATCTTCTTCAACAGCTCTTCAATCAGGGCTGCGTAG
+GTACATTAGCTTTTGTGACAACCAATAAGAACATAATATTCTGACACAAGCAGTGTTACATATTTGTGAC
+CAGTAAAGACATAGGTGGTATTTGGAGACATGAAGAAGCTGTAAAGTTGACTCTGAAGAGTTTAGCACTA
+GTTTCAACACCAAGAAAGACTTTTTAGAAGTGATATTGATAAGAAACCAGGGCCTTCTTTAGAAGGGTAC
+CTAAATTTAAAAGAATTTTGAAAGGCTGGGTATCGGTGGTATATGCTTTTAATTCCAGCACTCAGGAGAC
+CAAGGCAGGCAGATCTCTGTGAGTTTGAGGACAGCCTGGTGTACAGAGGGAGTTCCAGCACAGCCAGTGC
+CACACAGAAATTCTGTCTCAAAAAC</dna_sequence>
+        <protein_sequence>>gi|6680397|ref|NP_032378.1| interleukin-12 subunit beta precursor [Mus musculus]
+MCPQKLTISWFAIVLLVSPLMAMWELEKDVYVVEVDWTPDAPGETVNLTCDTPEEDDITWTSDQRHGVIG
+SGKTLTITVKEFLDAGQYTCHKGGETLSHSHLLLHKKENGIWSTEILKNFKNKTFLKCEAPNYSGRFTCS
+WLVQRNMDLKFNIKSSSSSPDSRAVTCGMASLSAEKVTLDQRDYEKYSVSCQEDVTCPTAEETLPIELAL
+EARQQNKYENYSTSFFIRDIIKPDPPKNLQMKPLKNSQVEVSWEYPDSWSTPHSYFSLKFFVRIQRKKEK
+MKETEEGCNQKGAFLVEKTSTEVQCKGGNVCVQAQDRYYNSSCSKWACVPCRVRS</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1633">
+        <gene_name>MIC13</gene_name>
+        <strain>Toxoplasma gondii</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>380449403</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:287526</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>microneme protein 13</protein_name>
+        <protein_pi>6.48</protein_pi>
+        <protein_weight>49684.02</protein_weight>
+        <protein_length>529</protein_length>
+        <protein_note>Sialic-acid binding micronemal adhesive repeat; pfam10564</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AFD54637.1 microneme protein 13 [Toxoplasma gondii]
+MVGVFQLCLLTCLLCLLKGSDAIQLRQHRNGLGVEQSFVSEETDIVGGRISSLQAELDSYCHNRYKQLCD
+GGNKNFCDKTGVARYGTGIQSQQTAEWRCYFAEVLKPSGRKVQCVDDCGNYFPCLGVVDPNDTFHATAHN
+QILNFIKDGVEKHCSPFQMAGNNYCQGVLADTVARKDTGTASQKAKAWRCYKKDSLTYEARSICVDNCGG
+EIECPGGRSETSGELLSQHSTREKELLKVIESQSAPCRDSCVATPINPPICADTESLLQSTKRSRAQRFI
+DDACQKLFNCHCKKDKKFCTTVVARKDRGRAGSQNDAEWRCYSLEELDFQKTNPSCIDECGNELPCQGAV
+PEESTHHITWTKLPSKIDEATQKFCTERQRAANDYCASEFADSLARYGPGAGDQTSQFRCIKKAAMRADA
+EGKCADSCKGTETCGGCRSRLDGPLSVNDVLNAHEGISEAMKSASTEC
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene901">
+        <gene_name>mic2</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1923217</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>2XGG</pdb_id>
+        <xrefs>CDD:29244
+CDD:154951</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>micronemal protein MIC2</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>769</protein_length>
+        <protein_note>Micronemal proteins: The Toxoplasma lytic cycle begins when the parasite actively invades a target cell. In association with invasion, T. gondii sequentially discharges three sets of secretory organelles beginning with the micronemes, which contain...; cd01471</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|1923217|gb|AAB63303.1| micronemal protein MIC2 [Toxoplasma gondii]
+MRLQREAVFGLMFACGMWMWPSEVAGGGWSIVDALRKRYDTSRGGDANGVDTSGVEDVIQSDSAIGAAEG
+CTNQLDICFLIDSSGSIGIQNFRLVKQFLHTFLMVLPIGPEEVNNAVVTYSTDVHLQWDLQSPNAVDKQL
+AAHAVLEMPYKKGSTNTSDGLKACKQILFTGSRPGREHVPKLVIGMTDGESDSDFRTVRAAKEIRELGGI
+VTVLAVGHYVKHSECRSMCGCSGTSDDDSPCPLYLRADWGQLATAIKPMLKEVCKTLPQDAICSDWSAWS
+PCSVSCGDGSQIRTRTEVSAPQPGTPTCPDCPAPMGRTCVEQGGLEEIRECSAGVCAVDAGCGVWGEWSA
+WSASCGNATRKRERTRYNDPPPQGAGRRCENQDPPVLQEQTEEATLAPCITIPPTPPEWAAWSDCTVTCG
+GGNRHRVRNALPPGLGSQNGESDESLVSKLWPGTDLRQEEACNTSPCPINATCGQFEEWSTCSVSCGGGL
+KTRSRNPWNEDQQHGGLSCEQQHPGGRTETVTCNPQACPVDERPGEWAEWGECSVTCGDGVRERRRGKSL
+VEAKFGGRTIDQQNEALPEDLKIKNVEYEPCSYPACGASCTYVWSDWNKCVCPMGYQARHAAVKFDYRNK
+PCDLPTFETKACSCGETNPVPSEGTTPGAPGATGPEQPNQRPLPEGSDENETPTNEEGEQSKKESGSGIA
+GAIAGGVIGGLILLGAAGGASYHYYLSSSVGSPSAEIEYEADDGATKVVMEEEKETLVPVDDDSDMWME</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A mic2 mutant is attenuated in mice and induces protection from challenge with wild type T. gondii [Ref1664:Huynh and Carruthers, 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene587">
+        <gene_name>MIC3</gene_name>
+        <strain>Toxoplasma gondii ME49</strain>
+        <vo_id>VO_0011174</vo_id>
+        <ncbi_gene_id>7901253</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1085201908</ncbi_protein_id>
+        <gene_locus_tag>TGME49_325800</gene_locus_tag>
+        <gene_refseq>KE139555</gene_refseq>
+        <protein_refseq>XP_002369833</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>508771</taxonomy_id>
+        <chromosome>Unknown</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>8</gene_start>
+        <gene_end>917</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>6.46</protein_pi>
+        <protein_weight>26732.05</protein_weight>
+        <protein_length>269</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NW_017383630.1:8-917 Toxoplasma gondii ME49 unplaced genomic scaffold asmbl.1555, whole genome shotgun sequence
+CTCACGTGAGTACCCTGGTGGGGCACTCGCAGGTGTAGCCATTCTCATGCGAGGCGTCATCAATACATCT
+ACCAGGGCTGCAGTTCTCCCTGAAGGCATGACATCCAGTCCTCTTGCATCCTTGTCCCCCTTCCGGGAGG
+TTCACTAGAGTTTCGCCGTCGCCGCAGGTGCATGTGTAGCTGACTGAATCGACGACGATGCACGTCCCGT
+TGGGTCCGCACTTCGCGTTCCCTCTTTTTGAACAAGGATCCTCGGAGCAAGTCAACCCAGTGCCGACGAA
+GCCGTCTTTGCACTTGCAGTGCACACCCCCACCCGCGTCCAAGTTTTCGACGCATTCTGCGTTTTTGTCG
+CACCGATGGCCCTGCTTTTCACAGCTGCAGTCTCCTCCATAGCTTTTGTCAGGATGGTAGATGAGCGAAC
+TGCTGCAAAAAATCCAGTTGCTGGAGCAGAATTCTCCGCAGCCGCCGGGGCCGCACATGGTCTTGCTGCA
+GCAAGCGCTCTTGGGGCAACTGGCCCCGATGAAGTACCCGTTGTCAGTGTGCAACTGACGGTTTCGACAT
+GGCTTGCCTTCACTCGAGATAGCACAGAGTTGCGTCTCCTGCTTGCTGGGGGATTGCACAGACGAGTGAG
+TCTCAGTCACCGCGAAAGACGGAGCAAGACTCTCAGAGACGACTTCGCGGCTCGGCACAACTTTGTCAAA
+GCTGCCCAGCTGCACAGACTTCTGAATCGGCAAAGCCTCCGCTGGGGTGCACATCCACACGGCCCCACTG
+AAGGTGAGCGCGTGCAACAGCGCGGACGTCCCGCCTCGCATTTTTACCAGTGTTGGACAAGGAAGTTACA
+CACAGAGTAAGGCGCGCAAACGCGCTGCACTGCCCACAGAAATGCACAGAAACGCACTCTCGACGAGCTG
+
+</dna_sequence>
+        <protein_sequence>>XP_002369833.2 EGF family domain-containing protein [Toxoplasma gondii ME49]
+MRGGTSALLHALTFSGAVWMCTPAEALPIQKSVQLGSFDKVVPSREVVSESLAPSFAVTETHSSVQSPSK
+QETQLCAISSEGKPCRNRQLHTDNGYFIGASCPKSACCSKTMCGPGGCGEFCSSNWIFCSSSLIYHPDKS
+YGGDCSCEKQGHRCDKNAECVENLDAGGGVHCKCKDGFVGTGLTCSEDPCSKRGNAKCGPNGTCIVVDSV
+SYTCTCGDGETLVNLPEGGQGCKRTGCHAFRENCSPGRCIDDASHENGYTCECPTRVLT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Protective experiments of DNA vaccine pcDNA3-MIC3 (pMIC3i) in Kumming mice showed that the vaccine could significantly prolong the survival time of the mice challenged by virulent RH strains of T. gondii [Ref1187:Xiang et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1622">
+        <gene_name>MIC3</gene_name>
+        <strain>Toxoplasma gondii strain RH(ERP)</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>5931753</ncbi_nucleotide_id>
+        <ncbi_protein_id>5931754</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>CAB56644.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:304395
+CDD:283826
+InterPro:IPR000742
+InterPro:IPR006210
+UniProtKB/TrEMBL:Q9GRG4</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>MIC3 microneme protein</protein_name>
+        <protein_pi>6.42</protein_pi>
+        <protein_weight>36421.86</protein_weight>
+        <protein_length>421</protein_length>
+        <protein_note>Calcium-binding EGF-like domain, present in a large number of membrane-bound and extracellular (mostly animal) proteins. Many of these proteins require calcium for their biological function and calcium-binding sites have been found to be located at the...; cl21504</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|5931753|emb|AJ132530.1| Toxoplasma gondii MIC3 gene
+CCGCTGTCCCGCCTGGTCAACAAGTATCACACCCTCGTCCCCGCCATTGGCACGGAGCTCGATGAGCTGC
+AGTGTCGCTTTTAGGGGAGTCGTGCAATCACGCCGCAACACAGGCGTGATTCGATCTTCAATTGCTAGGT
+AACCACTCGTGCTTGGTAGCTCTGCAATGGCTCGAGCGACGGGGGTGATGCAACATGCTGCTAAAAACTC
+GACAGACGTGTCACCGGAACCCACCTAAATAGGAGACCACGGGTCTCTGGTGTGTCGCGTCGCATTCTCG
+CGTCGCATTCTCGCGTCGCAATGACCGGCCAGTTGCTCGACGTCGCCAGCCGGGACTGAAGAGCGTTCAT
+CGAGTCAGCAGCATTGCGTCCCCTTGCTCGGTGAAAAAAGACTCTCTGGTCGAGTCTAGCTCGTGTCACT
+TCTGTTTCTAACCTCCTTCGTTCACCGGTACACCTCCGATGTGACTTTTGGTACACTTGCCCTGTCGCAC
+GACGCACGCTGTCACTCAACTTGCTGCTAGCGCAATCGATAGGTTCCCTCGAACCAGCCATCACACACAC
+ACCTTTTCCGGGAAGACGTTTGCGGGCGGTGGGTCGCAGCTCGTCGAGAGTGCGTTTCTGTGCATTTCTG
+TGGGCAGTGCAGCGCGTTTGCGCGCCTTACTCTGTGTGTAACTTCCTTGTCCAACACTGGTAAAAATGCG
+AGGCGGGACGTCCGCGCTGTTGCACGCGCTCACCTTCAGTGGGGCCGTGTGGATGTGCACCCCAGCGGAG
+GCTTTGCCGATTCAGAAGTCTGTGCAGCTGGGCAGCTTTGACAAAGTTGTGCCGAGCCGCGAAGTCGTCT
+CTGAGAGTCTTGCTCCGTCTTTCGCGGTGACTGAGACTCACTCGTCTGTGCAATCCCCCAGCAAGCAGGA
+GACGCAACTCTGTGCTATCTCGAGTGAAGGCAAGCCATGTCGAAACCGTCAGTTGCACACTGACAACGGG
+TACTTCATCGGGGCCAGTTGCCCCAAGAGCGCTTGCTGCAGCAAGACCATGTGCGGCCCCGGCGGCTGCG
+GAGAATTCTGCTCCAGCAACTGGATTTTTTGCAGCAGTTCGCTCATCTACCATCCTGACAAAAGCTATGG
+AGGAGACTGCAGCTGTGAAAAGCAGGGCCATCGGTGCGACAAAAACGCAGAATGCGTCGAAAACTTGGAC
+GCGGGTGGGGGTGTGCACTGCAAGTGCAAAGACGGCTTCGTCGGCACTGGGTTGACTTGCTCCGAGGATC
+CTTGTTCAAAAAGAGGGAACGCGAAGTGCGGACCCAACGGGACGTGCATCGTCGTCGATTCAGTCAGCTA
+CACATGCACCTGCGGCGACGGCGAAACTCTAGTGAACCTCCCGGAAGGGGGACAAGGATGCAAGAGGACT
+GGATGTCATGCCTTCAGGGAGAACTGCAGCCCTGGTAGATGTATTGATGACGCCTCGCATGAGAATGGCT
+ACACCTGCGAGTGCCCCACAGGGTACTCACGTGAGGTGACTTCCAAGGCGGAGGAGTCGTGTGTGGAAGG
+AGTCGAAGTCACGCTGGCTGAGAAATGCGAGAAGGAATTCGGCATCAGCGCGTCATCCTGCAAATGCGAT
+AACGGATACTCCGGATCTGCTTCCGCAACCTCCCACCATGGGAAAGGAGAATCGGGATCCGAGGGGAGCT
+TGAGTGAAAAAATGAATATTGTCTTCAAGTGCCCCAGTGGCTACCATCCAAGATACCATGCCCACACCGT
+GACGTGTGAGAAAATTAAGCAGTGAGCTGGAGTCTGTCCTTTACTTTAGCATTGGAGAATGCGCCCATTC
+GCAGCTGTCCGTGCATGCAATCATCGCCGTCTGTATAAAACCGACACAAACTGACCTTTATGTAACTGTA
+CAGCTTTGCCCTTGACGGGGCCGGCAACCACGACACGACTACGTATGTCGCAAGACGAAGGTACCCAGCG
+AGTCTCTGAGAGCGGAGATCAGCGCAAAGACAAGATGCAGAGTTTGACTCGAGAAACAATAGTAACACGA
+AGTAAAAAGTCTCCACACTAAGCCAAGGATTGAGAATATTTCGATTTGTGCCGCTGGCAATAGTGGCCTT
+GGCTAGAAAGAAGTTCTGCAACGAAGCGATCGGCTCACACGCGGATACACAGATGGGTTTGTACCGAGAA
+CGTTAGGTTTGTGAACCGAGTTCAGGTAAAACAAAGTAGATTGTGTGCCTTTACGCAGACAGCGAGGGAA
+AACATAG</dna_sequence>
+        <protein_sequence>>CAB56644.1 MIC3 microneme protein [Toxoplasma gondii]
+MRGGTSALLHALTFSGAVWMCTPAEALPIQKSVQLGSFDKVVPSREVVSESLAPSFAVTETHSSVQSPSK
+QETQLCAISSEGKPCRNRQLHTDNGYFIGASCPKSACCSKTMCGPGGCGEFCSSNWIFCSSSLIYHPDKS
+YGGDCSCEKQGHRCDKNAECVENLDAGGGVHCKCKDGFVGTGLTCSEDPCSKRGNAKCGPNGTCIVVDSV
+SYTCTCGDGETLVNLPEGGQGCKRTGCHAFRENCSPGRCIDDASHENGYTCECPTGYSREVTSKAEESCV
+EGVEVTLAEKCEKEFGISASSCKCDNGYSGSASATSHHGKGESGSEGSLSEKMNIVFKCPSGYHPRYHAH
+TVTCEKIKQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene876">
+        <gene_name>MIC8</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>13346486</ncbi_nucleotide_id>
+        <ncbi_protein_id>13346487</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAK19757.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>microneme protein 8</protein_name>
+        <protein_pi>5.13</protein_pi>
+        <protein_weight>71329.71</protein_weight>
+        <protein_length>747</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|13346486|gb|AF353165.1| Toxoplasma gondii microneme protein 8 (MIC8) gene, complete cds
+ATGAAGGCCAATCGAATATGGTGTTTTTTTGCGTGGCGTATGGTTGTGCGGGCCTCATTTCTGAAAGAGA
+TGGACAGCATTTTCGTTTCTGCTATCCGACAGAATGTACAGCATACTCATTCTGCCCTTCTCGCCAAACT
+GAAGGAACCCCCAGATCCAGATGATGAGAACTCTTGGCTTTGTCGAATATCAAAAAAATATGACGCATGC
+GGTAGCAGGGAATATTCCGATAAGGGCCTCAAAGGGACGTACTGTCCCGAGGATTTTTGCTGTAGCAAGA
+CGGCATGTTTTTACGGTTCATGTGGGAGTTGGTGCCACGACAACTGGGCTCTGTGCAGCTCATCTATAAT
+CTACCACGACGAGTACAGTTACGGGAAATGCAACTGTAAACGGTTTCAAGAAAACTGTGATGTGAATGCA
+ATTTGTGTGCATGCGAACAGAGAGGATGGCGGTGCGTATTGTCAGTGCAAGGAAGGATATTGGGGTGATG
+GTAAATCGTGCAAGATTGACTTCTGCCAACTGCAGCCCTGTGGTGCAGGGACCTGCACCAGGACGGATGA
+AGGATACAAGTGTGATTGCCCAGAAACTCACAAGCTTATTGTCGTTGAAGACAAAGAGACGTGCAAGGCA
+AAACCGGACTTTTGCGCGGAAGAGCCTTGCGGACCACCCTCTATGGTTGAAAATTGCGTGAACACCGATG
+ACAGCTACGAATGTGTTTGCAAACAGGGGTATGAAGTGAGGAACGGTCGGTGCGAAGAAATTGACTTATG
+CGCGGACAAGCCATGTGGGCCAGATGAGGGTGTGCATGAGTGTGTAACAGAGAGGCAACCGAAATTAAGG
+TACAGATGCACGTGCAAGGCAGGATTCGATTTGACCACCTTGCCTGATGGTGTTTCCCAGAAGTGCCTGA
+AGAACTTCTGTTACGAGGAGCCCTGCGGCACCCGGGACCTAGTTGAAAGCTGTAAGTCAAAGGCATATGG
+ATACTCGTGTTTGTGTGCGGCAGGTGCCATGGTTCAAGTGATTAACGGAAAAGAAAAGTGCATCAAGGCG
+GACTTGTGCCGCAATGATCCGTGTGGTCCAGAGACAGCAGTGATTCAATGTTACTCTCATGGCACCAGCT
+ATAGGTGTTTGTGCAAAGCAGGCTACACTGAAGTTTTTGTTAACGGGAAGAGTTCATGTCAAAAGGGCGA
+CCCATGCACTCTGAACATGTGTGGCGGTAACGAAGCGGTCCAGGAGTGCACAACTGATGGCACGGCGTAC
+GGGTGTACCTGCAAGCCAGGCTATTCGATAGCCATTAAGCATGGTCAGAAGTTTTGCAACCCTGAAGAGG
+AGTGTGCTTCTCATTGTGGCTCGGCAGCTGCAGTGAAAAGCTGTGAAATACTTGACTCTGGCGGATACCA
+GTGTACATGCAATCCAGGATACGTCATGAGATACAGCGACTATGTAAAAGGATGCGTCGAGGGAAATCAG
+TGTTCTCTCAATCCTTGTGGGGAGCAGGAAGCCGTGCAAAGGTGCATTCCTGAAGGTGACACGTATGATT
+GCGAGTGCAATCCGGGGTTCGTCAAAAGAGTCTTGCCGGATGGGAATTTCATTTGCGCCGATCCAGCGAG
+CTGTGTAGGGAATCCCTGTGGTAGCTCAGATGCGGTCGATGCGTGCATTGCCGGGACTAGCACGTATACA
+TGCAGGTGTAAGGACGGATACACACCTCAGTCAATTGGGTCAAAGTTGCAGTGTTTACCAGAAAGCACTG
+ATCAGACAGATTTCGATTCCAAACACAAACCAGAGGACAACAAAGGTCGATATTCGAAAGGAACAATTGC
+ATTGGTGGTTGTGGGGTGTGTAGCCTTGTTGGGTATTATAGCCGGAGGAATTTCTTACGCCAGAAACAGA
+GGAGGTGAGCGCGATGATGAAGACTTGGCACCACCACCTCGTTCCACACGAGAACGGAGGCTCTCATCAA
+TGGGCGAAGGTTTTGAGAATGCCTCATGGGCATCTTCTGTAAGTATGATTCCTAGTGCACCTGCTCCGCC
+ACCTTCGGGCGGTATCTGGTCCTAA</dna_sequence>
+        <protein_sequence>>AAK19757.1 microneme protein 8 [Toxoplasma gondii]
+MKANRIWCFFAWRMVVRASFLKEMDSIFVSAIRQNVQHTHSALLAKLKEPPDPDDENSWLCRISKKYDAC
+GSREYSDKGLKGTYCPEDFCCSKTACFYGSCGSWCHDNWALCSSSIIYHDEYSYGKCNCKRFQENCDVNA
+ICVHANREDGGAYCQCKEGYWGDGKSCKIDFCQLQPCGAGTCTRTDEGYKCDCPETHKLIVVEDKETCKA
+KPDFCAEEPCGPPSMVENCVNTDDSYECVCKQGYEVRNGRCEEIDLCADKPCGPDEGVHECVTERQPKLR
+YRCTCKAGFDLTTLPDGVSQKCLKNFCYEEPCGTRDLVESCKSKAYGYSCLCAAGAMVQVINGKEKCIKA
+DLCRNDPCGPETAVIQCYSHGTSYRCLCKAGYTEVFVNGKSSCQKGDPCTLNMCGGNEAVQECTTDGTAY
+GCTCKPGYSIAIKHGQKFCNPEEECASHCGSAAAVKSCEILDSGGYQCTCNPGYVMRYSDYVKGCVEGNQ
+CSLNPCGEQEAVQRCIPEGDTYDCECNPGFVKRVLPDGNFICADPASCVGNPCGSSDAVDACIAGTSTYT
+CRCKDGYTPQSIGSKLQCLPESTDQTDFDSKHKPEDNKGRYSKGTIALVVVGCVALLGIIAGGISYARNR
+GGERDDEDLAPPPRSTRERRLSSMGEGFENASWASSVSMIPSAPAPPPSGGIWS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The gene sequence encoding MIC8 was inserted into the eukaryotic expression vector pVAX I, and the pVAX-MIC8 expression plasmid was constructed, and the plasmid diluted with PBS to 100 mg/100 microl was injected into the Kunming mice muscularly. Levels of IgG antibody, gamma-interferon (IFN-gamma), interleukin-2 (IL-2), interleukin-4, and interleukin-10 were detected. The mice were challenged with tachyzoites of the virulent T. gondii RH strain at the 14th day after the last immunization to observe the survival time. The high level of IFN-gamma, IL-2, and IgG antibody indicated that mice vaccinated with recombinant pVAX-MIC8 plasmid could elicit strong cellular and humoral immune responses and showed a significantly increased survival time (10.3 +/- 0.9 days) compared with control mice which died within 5 days of challenge infection [Ref1642:Liu et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene969">
+        <gene_name>OMPDC</gene_name>
+        <strain>Toxoplasma gondii ME49</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>7899615</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>237831731</ncbi_protein_id>
+        <gene_locus_tag>TGME49_059690</gene_locus_tag>
+        <gene_refseq>DS984728</gene_refseq>
+        <protein_refseq>XP_002365163</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>508771</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>2298541</gene_start>
+        <gene_end>2301456</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>4.79</protein_pi>
+        <protein_weight>31611.79</protein_weight>
+        <protein_length>320</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|212659390:2298541-2301456 Toxoplasma gondii ME49 scf_1112359874900, whole genome shotgun sequence
+GATGCCGGCAGACGCGCTGCGTGAGAAGCCGGTTGTCCAGGCTGCTGTGAATACCTCGGAAGGGTGCAAG
+AACTTCTTCAAGACATTGGATGCAAGGATCGAAGCGGTAGATTCCTTGCTCACAGTCGGCCTTGATCCGC
+ACATCGCGGACCTCCCGTCGCCAGCCACAGCTGAGCGTGCCTTTGTATTTTGTGAACGCATCATCAGGGA
+AACTCTTCCTTTTACGTGTTGTTACAAACCGAACAGCGCGTTTTTTGAGGCATTTGGTCCCCCGGGTTTG
+CAGGTACGTATTTCAATGTGAGGATGGAGCATGGTTGTCATGGCCAGATATACTTTAGCCCGACAACGTT
+ACCAGGCATTTGGAGTACCTCCAACTCCTCAGTTGCAAAGATACACTGCACATGCTCGTGTAGTACCGCT
+GAGAGACAGAACCACTTGAAACGTCATCTTTCATTAGTATGAAGCGGTTGTCCGAAGTTCGGCCATCATT
+CTGGAATCTATCAGTCCTATGTTTCCTCACTGCCTAGGTACTGTTTTCCTGTTTGTGTATATCCCGAAAA
+ACTGTATTGAAAGCAAGCAGTGGGGATAGCGGTGAAGCAGGGGGTTGGTGAAGCGGTTTCGGAGGGGACA
+GGGAAATACCTTCAATTTTTGAAAGGCGCAGTTCCCTGTTCCTTCGCAGTCACCACGGACAGACTAGAGA
+TATGTCTGTTCTGTACGCGCCTTACCAAGACCCGAACCGCGTACAGGGTGCAAACCTTTCGCGCCATAAT
+CGAATGCCGCTTGTCGCCACGTGTAGGCACTCGAGAGAGTCTGCGCGCTGATTCCCGACGATGTTCCTAT
+TCTTCTAGACGCCAAAAGAGGGGACATAGGATCGACGGCGCAAGCCTACGCATCTTCGGCTTTTGACGCG
+TTCAAGGTATGGAACTTCGAGCCCTAAGAGGTTGAAGAGAGTACGTAGAACCATGTTTATTTCATTAACA
+TCGAGTCGGTTCTGTATACATACGCGTGCTGCTGCAGTGAATGTATTACAAGATATCTCGTATGCATGCG
+CCCGACGAGAATATCGCCAATATCATAGCCTTATGACGTGCGCGATTCGTCTGGTGGCAAATCTGCGGTC
+TACAAGTGATCTATTGTCAGCGCATGGCAGTAACGATCTCATCCATTTATGCGGGTGACGCATTACATCG
+TGTCTTTTGTCAAAAATGTGCTGCTTGATGTCGCGCAGGCGGACGGTGTCACCGTCAACGCCTACATGGG
+CAGAGAAGCAGTTCGACCGTTTCTGTCGTATCGAAACAAAGGCGTATTTGTACTTGTGAAGACGTCGAAT
+CAATCGTCCAACGAGTTTCAGACCCTGCCAGTGAGGGTGGAGTCAAGCTCCGACACTCAGGATGTCCCGC
+TGTATGTACAGATGGCCAGAGTTTGCAACGAACTTGCCCAAGGTGAGAGTGGGTCCGTCAGCTTCGTTAG
+ACCAGCTTCTCTTCCGTTGTATTTGTCTTTTGTGAGCGACCCGTGTCGCCAGAGCTTCATGCTTAGCTAC
+ACCGCTCGGCAGAACTGGCATCTCTCTCGCTCCAGGAGTGTGATCCGCGTTTCCAGTTTTTGGTTGATAA
+GTCGCACCCCAGAGGAGAAAAATCCTCAGCACCTGCCATACAGATTCAACGGAGTCTCAGGCAGCTTTTT
+ACTCCGAGCCCGCACTTGCCCGACCTGCCATTTTCGTTTACACAGAGCCACTTTCTGCGGGGCGGTGGCG
+ACAAAAACCGCGAGCTTTGTAGTAAATGAAACCACGTCGTGAGAAGTAGTCCAGTTCTCCCTTCGAACAC
+TACGTTGCCTGCTACATATCTGTGCCTCATCGTCGAGTGCCGCTGTCCGTGTCTTGCTCCACTTTGTCAA
+TCCGAACTCAGAATGCGTTTCTGAGGAAGACTCTCCATCCACGACTGGACATGGCCTCCGTCATAATGCG
+TCGGGCGGTGGTGTCGGACTCGTAGTAGGAGCAACAGATATAGAAGCTCTTCGCGAGGTGCGAAAGGCAT
+GCCCGGACCTTTATATTCTTGCTCCCGGAGTCGGTGCCCAAGGAGCGGACCTCGAGAGGGCCTTGAGTGC
+CGGTAAGCATGGAGCTGGGTCTCAGTTGAGAGCGAAGTTACACAATTGAATCTGACATTGAGGTTGATTT
+GATTGTCGCTTGAGGCGCCTGTGACCCTAATGATCCCGAAACGCAGGAACCATAGAAGCAACGGAGGGAG
+ACGGAACCTTGCTGTTTTAGGTCATTGTGCGCTAAACGTGGTTTCTGGTACACCGTGCAAGATCGTATAC
+TCACGGGTATGATCGCAGTGAAAATGCTCCTAAGAGCGAAGAAATAAGGTACCACATTTTCAACACCTCT
+ACGGTTTTTCCTGTTACTTGGGACTCGTTGCTCTGCCAGGTCTCTGCAAGGACGGCAAAGGGATGCTTAT
+TCCCGTCTCTCGTGGCATATCACGAGCGGAGGTAAGGGCAGGTTGTCTTGACACTTGTAGCCCGTAGTTT
+TTGAAAATCCAGCACACCGCATAGAACCTTGGTGACAGAGATGCGTGCGTCACTCGAACGAATATTCCGA
+TGACGGCGAAGTTGACTGAAGTATTTCTGTTTTCAGCAGTATATTTTTCAGCGTTTGTATGGCCCCAGGA
+TGGATGCAAAACCAACCGACTGCGCCCTTCGCTCAGATGTGCGGAATCCACCGGATCCATGCAATAGAAA
+ATAGATTTCAGATGACACGGATTTGAGATGAAATCACCCGTTCATAGTACAGCTGTTTGCGTCCACTTTG
+TCCGTCCTCCCTGTTCCGTTCCCTTCATTGCAGAATTTAGCTGCCCAAGCTAACGCATACAGAGAACAGA
+TCAATGAAGTCAGAAGAGGCATTGTCCAGCAGTACGAGGAAAGCTG</dna_sequence>
+        <protein_sequence>>gi|237831731|ref|XP_002365163.1| orotidine-monophosphate-decarboxylase, putative [Toxoplasma gondii ME49]
+MPADALREKPVVQAAVNTSEGCKNFFKTLDARIEAVDSLLTVGLDPHIADLPSPATAERAFVFCERIIRE
+TLPFTCCYKPNSAFFEAFGPPGLQALERVCALIPDDVPILLDAKRGDIGSTAQAYASSAFDAFKADGVTV
+NAYMGREAVRPFLSYRNKGVFVLVKTSNQSSNEFQTLPVRVESSSDTQDVPLYVQMARVCNELAQECVSE
+EDSPSTTGHGLRHNASGGGVGLVVGATDIEALREVRKACPDLYILAPGVGAQGADLERALSAGLCKDGKG
+MLIPVSRGISRAENLAAQANAYREQINEVRRGIVQQYEES</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An OMPDC mutant, alone or in combination with an UP mutation, is attenuated in mice and induces significant protection from challenge with wild type T. gondii [Ref1904:Fox and Bzik, 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1373">
+        <gene_name>p30</gene_name>
+        <strain>Toxoplasma gondii</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>894214</ncbi_nucleotide_id>
+        <ncbi_protein_id>894215</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAB33440.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:332018</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>p30 antigen</protein_name>
+        <protein_pi>8.08</protein_pi>
+        <protein_weight>32194.82</protein_weight>
+        <protein_length>386</protein_length>
+        <protein_note>SRS domain; cl27197</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|894214|gb|S76248.1| p30=p30 antigen [Toxoplasma gondii, RH, Genomic, 1634 nt]
+CGCGTGTTCTAACCACAAACCTTGAGACGCGTGTTCCAACCACGCACCCTGACACGCGTGTTCCAACCAC
+GCACCCTGAGACGCGTGTTCTAACCACGCACCCTGAGACGCGTGTTCTAACCACGCACCCTGAGACGCGT
+GTTCTGCCGCACAATGTGCACCTGTAGGAAGCTGTAGTCACTGCTGATTCTCACTGTTCTCGGCAAGGGC
+CGACGACCGGAGTACAGTTTTTGTGGGCAGAGCCGTTGTGCAGCTTTCCGTTCTTCTCGGTTGTGTCACA
+TGTGTCATTGTCGTGTAAACACACGGTTGTATGTCGGTTTCGCTGCACCACTTCATTATTTCTTCTGGTT
+TTTTGACGAGTATGTTTCCGAAGGCAGTGAGACGCGCCGTCACGGCAGGGGTGTTTGCCGCGCCCACACT
+GATGTCGTTCTTGCGATGTGGCGTTATGGCATCGGATCCCCCTCTTGTTGCCAATCAAGTTGTCACCTGC
+CCAGATAAAAAATCGACAGCCGCGGTCATTCTCACACCGACGGAGAACCACTTCACTCTCAAGTGCCCTA
+AAACAGCGCTCACAGAGCCTCCCACTCTTGCGTACTCACCCAACAGGCAAATCTGCCCAGCGGGTACTAC
+AAGTAGCTGTACATCAAAGGCTGTAACATTGAGCTCCTTGATTCCTGAAGCAGAAGATAGCTGGTGGACG
+GGGGATTCTGCTAGTCTCGACACGGCAGGCATCAAACTCACAGTTCCAATCGAGAAGTTCCCCGTGACAA
+CGCAGACGTTTGTGGTCGGTTGCATCAAGGGAGACGACGCACAGAGTTGTATGGTCACGGTGACAGTACA
+AGCCAGAGCCTCATCGGTCGTCAATAATGTCGCAAGGTGCTCCTACGGTGCAGACAGCACTCTTGGTCCT
+GTCAAGTTGTCTGCGGAAGGACCCACTACAATGACCCTCGTGTGCGGGAAAGATGGAGTCAAAGTTCCTC
+AAGACAACAATCAGTACTGTTCCGGGACGACGCTGACTGGTTGCAACGAGAAATCGTTCAAAGATATTTT
+GCCAAAATTAACTGAGAACCCGTGGCAGGGTAACGCTTCGAGTGATAAGGGTGCCACGCTAACGATCAAG
+AAGGAAGCATTTCCAGCCGAGTCAAAAAGCGTCATTATTGGATGCACAGGGGGATCGCCTGAGAAGCATC
+ACTGTACCGTGAAACTGGAGTTTGCCGGGGCTGCAGGGTCAGCAAAATCGGCTGCGGGAACAGCCAGTCA
+CGTTTCCATTTTTGCCATGGTGATCGGACTTATTGGCTCTATCGCAGCTTGTGTCGCGTGAGTGATCACC
+GTTGTGCTCACTTCTCAAATCGACAAAGGAAACACACTTCGTGCAGCATGTGCCCCATTATAAAGAAACT
+GAGTTGTTCCGCTGTGGCTTGCAGGTGTCACATCCACAAAAACCGGCCGACTCTAAATAGGAGTGTTTCG
+CAGCAAGCAGCGAAAGTTTATGACTGGGTCCGAATCTCTGAACGGATGTGTGGCGGACCTGGCTGATGTT
+GATCGCCGTCGACACACGCGCCACATGGGTCAATACACAAGACAGCTATCAGTTGTTTTAGTCGAACCGG
+TTAACACAATTCTTGCCCCCCCGA</dna_sequence>
+        <protein_sequence>>AAB33440.1 p30 antigen [Toxoplasma gondii]
+MSVSLHHFIISSGFLTSMFPKAVRRAVTAGVFAAPTLMSFLRCGVMASDPPLVANQVVTCPDKKSTAAVI
+LTPTENHFTLKCPKTALTEPPTLAYSPNRQICPAGTTSSCTSKAVTLSSLIPEAEDSWWTGDSASLDTAG
+IKLTVPIEKFPVTTQTFVVGCIKGDDAQSCMVTVTVQARASSVVNNVARCSYGADSTLGPVKLSAEGPTT
+MTLVCGKDGVKVPQDNNQYCSGTTLTGCNEKSFKDILPKLTENPWQGNASSDKGATLTIKKEAFPAESKS
+VIIGCTGGSPEKHHCTVKLEFAGAAGSAKSAAGTASHVSIFAMVIGLIGSIAACVA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene809">
+        <gene_name>Rop2</gene_name>
+        <strain>Toxoplasma gondii</strain>
+        <vo_id>VO_0011340</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>115299638</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>2W1Z</pdb_id>
+        <xrefs>CDD:291215
+CDD:304357</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Rop2 protein</protein_name>
+        <protein_pi>9.64</protein_pi>
+        <protein_weight>28699.38</protein_weight>
+        <protein_length>316</protein_length>
+        <protein_note>Kinase-like; pfam14531</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABI93795.1 Rop2 protein, partial [Toxoplasma gondii]
+LRLLRGIKNQKQAKVHLRFIFPFDLVKDPKKRKMIRVRLDERDMWVLSRFFLYPRMQSNLQMLGDVLLSH
+SSTHKSLVHHARLQLTLQLIRLLASLHHYGLVHADFQVSNILLDQRGGVFLTGFEHLVRDGASAVSPIGR
+GFAPPETTAERMLPFGQHHPTLMTFAFDTWTLGLAIYWIWCADLPNTDDAALGGSEWIFRSCKNIPQPVR
+ALLEGFLRYPKEDRLLPLQAMETPEYEQLRTELSAVLPLYQTDGEPA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A study  to examine the immunostimulatory properties of Leishmania infantum Hsp83 (83) to elicit humoral and cellular response against the Toxoplasma gondii Rop2 protein in an adjuvant-free vaccination system was conducted. Mice immunized with fusion Rop2-83 elicited a stronger humoral and cellular response in comparison to mice immunized with Rop2 alone, or a mix of LiHsp83 and Rop2. The fusion protein induced a Th1 type response, with predominance of specific IgG2a/IgG2c isotype and IFN-gamma secretions, whereas Rop2 alone or mixed with LiHsp83 produced a Th1/Th2 mixed response. Vaccination with fusion protein conferred a remarkable resistance against oral infection with ME49 cysts in C57BL/6 and C3H mice, in comparison to mice immunized with Rop2 alone or the protein mixture. Following lethal challenge, a significant survival rate was observed in Rop2-83 immunized Balb/c and C57BL/6 mice in comparison to control groups [Ref1400:Echeverria et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1374">
+        <gene_name>ROP2</gene_name>
+        <strain>Toxoplasma gondii RH</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>563627</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:291215
+CDD:287472
+CDD:304357
+GOA:Q27007
+InterPro:IPR000719
+InterPro:IPR011009
+InterPro:IPR016815
+PDB:2W1Z
+UniProtKB/TrEMBL:Q27007</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ROP 2</protein_name>
+        <protein_pi>8.19</protein_pi>
+        <protein_weight>61058.83</protein_weight>
+        <protein_length>609</protein_length>
+        <protein_note>Kinase-like; pfam14531</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA85377.1 ROP 2 [Toxoplasma gondii]
+MENCASVRSSSCLIWLAAAFFVSALGHVQQGAGVVRPRHWQNSEAAVSVRPPGGASPRHFHSPIEPVAFI
+DGEHVEDKHGGSWLEQEAAEEVTPLLNSHTETPTQSPSAFRRLLRRLRFWRRGRTGGSDGGGEPPQTPRP
+SLPTRLFQHLRRAAAAIPAAASRFFRRFRRVQEPVFPPDEFPEDVDTNPMYFRGTDPGDVVIEELFNRIP
+ETSVWNENERVLSNANHLVSTALWRNEQSFRVESELGERPRTLVRGPVLRDDGSYICLEATDQETGEPLE
+VHVPYFTERPPSNAIKQLSEQVLRLRLLRGIKNQRQAKAYLRFIFPIDLVKDPKKRKMIRVRLDERDMWV
+LSRFFLYPRMQSNLHILGDVLLSHSSTHKSLVHHARLQLTLQLIRLAASLQHYGLVHADFQVRNILLDQR
+GGVFLTGFEHLVRDGASAVSPIGRGFAPPETTAERMLPYRQHHPTLMTFPFDTWTLGLAIYWIWCADLPN
+TEDAELGGIEWIYRRCKNIPQPVRALLEGFLRYSKEDRLLPLQAMETSEYEQLRTELSAVLPLYQTDGEP
+A
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1635">
+        <gene_name>ROP8</gene_name>
+        <strain>Toxoplasma gondii strain RH (EP)</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>2293518</ncbi_nucleotide_id>
+        <ncbi_protein_id>2293519</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAC47797.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:291215
+CDD:304357</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ROP8</protein_name>
+        <protein_pi>9.42</protein_pi>
+        <protein_weight>61810.69</protein_weight>
+        <protein_length>622</protein_length>
+        <protein_note>Kinase-like; pfam14531</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|2293518|gb|AF011377.1| Toxoplasma gondii rhoptry antigen ROP8 gene, complete cds
+GAATTCGCTAGTCTCAGGTCGAGTCGCCGGGGCGTCAGGAGACAAGCACCGGCGCCCCGCGCGCCAACTG
+TCCGTCCTTCCGGGTGAGTTGACGTTTTGAGCCACGCTGCAGAACTCTGCACTGGAGTGATTGAGCGCGG
+CATTTATGTCAATCTGGTTTTTCCACGTGTATTCCAGAAGCTTGCCCTGAGAAATACAGATACACTGTCA
+CTTTTGAATCGATGTTTTCTGTGTTACGTAACCGCAACATGAGACACGGTCCCTCGATTGGATCGTCATC
+ATGTCTTATCTGGCTAGCTGCCGCATTCTTTGTTTCGGCACTTGGCCACGTACAGCAAGGCGCTGGCGTT
+GTGCGGCCTCGCCACTGGCAGAACTCGGAAGCCGCTGTTAGTGTCCGGTCGCCGGGAGGCGCGTCCCCTA
+GACATTTCCACAGCCCAATTGAGCCAGTAGCATTTATTGATGGGGAGCACGATGAAGACAAGCATGAAGG
+CTCATGGTTGGAGCAGGAAGCGGCCGAGGATGTGACCCCTTTACCGGGCAGCCACACAGAGGCCCAGACA
+CAGTCCCCCAGTGCTTTTAGAAGGTTAACCAGGCGTTTGCGTTTTTGGCGACGTGGGGTGACAGGCGGAT
+CAGATGCTGGAGAAGAGGCGCCTCAGACGCCTCGACCTCCACTACGTACACGAATCCTTCAGTACTTGCG
+GCGTGTGGGAACATTTTTCAGACGAGACATTCCAGCGGCAGCACTTCGATTCTTCAGGCGCTTTCGACGA
+GTCCGCCAACCTGTATTCCCTCCCGACGAGTTTCCGGAGGATGTCGACACGAACCCTATTTATTTCCGTG
+GTACGGATCCTGGAGACGTTGTCATTGAGGAGCTGTTCAATCGTATACCGCAAGCAAACGTACGGACTAC
+AAGTGATTACATGCAGTCCGCAGCTGACAGTCTAGTGTCCACATCGTTGTGGAATATTGGACAGCCCTTC
+CGCGTAGAGTCGGAGCTTGGCGAGCGTCCAAGGACGCTAGTCAGGGGCACATTGCTCGGCCAGGAAGACC
+CTTATGCCTATGTCGAGGCGACCGACCAGGAGACAGGAGAATCATTTGAGGTGCACGTTCCACTTTCCAA
+GGAAAAGCCGTCTTCCAACACGATCAAGCAGATGAAGCAGGAGGTGCTGCGCCTACGCTTGCTACGAGGC
+ATCAAAAACCAGAAGCAAGCCAAGGTGCATCTCAGATTTATATTCCCCTTCGATTTGGTGAAGGACCCAC
+AGAAAAAGAAGATGATCCAGGGTGTCTCAGATGAGGGGGCTGGCTGGATCGTGAACGGATTCTTTCTGTA
+TCCCCGAATGCAGACTAACCTTCAGACGCTTGGAGAAGTCCTACTGAGTCATTCCTCAACACACAAGTCC
+CTCGTGCACCACGCTCGGTTGCAGCTCACGCTTCAGGTCATAAGGCTGCTTGCGGGTCTCCACCACTATG
+GCCTTGTGCATACCTTTTTTAGGGCCGTCGATATCGTCTTGGACCAGCGTGGTGGCGTGTTTTTGACCGG
+CTTTGAACATCTGGTGCGAGACGGCGACAGGGTGGTGTCGACCGTCTGTCGAGGATTCGAACCGCCGGAG
+CTTGAAGCCAGACGAGCAACCATATCTTACCACAGGGACCGCAGGACGCTGATGACATTTTCGTTTGATG
+CATGGGCATTGGGGTTGGTGATCTACTGGATTTGGTGCGCCGATTTGCCCAATACCAAGGACGCGCCGCT
+AGGCGGAAGTGACTGGATCTTTCGACGCTGCAAGAATATCCCACAGCCAGTCAGAGCTTTGCTTGCGGGA
+TTCTTGCGATACCCGCAAGAGAATCGGCTCCTSCCATTGCAAGCCATGGAGACTCCTGAGTACGAGCAAC
+TGCGCACAGAGCTATCAGCCGTTTTGCCCCTGTATCTTTCTGATGGAGAACCGGCATGAGAGGGTGGCGC
+GCCACCATCGGGAACATCTCAGCCGGACGAAGCTGGAGTCGCTGAGGCGGTTACGGCAATCTAGAACCTC
+GAGGAGGGGCCAGCGATGAGCTTGAATTC</dna_sequence>
+        <protein_sequence>>AAC47797.1 ROP8 [Toxoplasma gondii]
+MFSVLRNRNMRHGPSIGSSSCLIWLAAAFFVSALGHVQQGAGVVRPRHWQNSEAAVSVRSPGGASPRHFH
+SPIEPVAFIDGEHDEDKHEGSWLEQEAAEDVTPLPGSHTEAQTQSPSAFRRLTRRLRFWRRGVTGGSDAG
+EEAPQTPRPPLRTRILQYLRRVGTFFRRDIPAAALRFFRRFRRVRQPVFPPDEFPEDVDTNPIYFRGTDP
+GDVVIEELFNRIPQANVRTTSDYMQSAADSLVSTSLWNIGQPFRVESELGERPRTLVRGTLLGQEDPYAY
+VEATDQETGESFEVHVPLSKEKPSSNTIKQMKQEVLRLRLLRGIKNQKQAKVHLRFIFPFDLVKDPQKKK
+MIQGVSDEGAGWIVNGFFLYPRMQTNLQTLGEVLLSHSSTHKSLVHHARLQLTLQVIRLLAGLHHYGLVH
+TFFRAVDIVLDQRGGVFLTGFEHLVRDGDRVVSTVCRGFEPPELEARRATISYHRDRRTLMTFSFDAWAL
+GLVIYWIWCADLPNTKDAPLGGSDWIFRRCKNIPQPVRALLAGFLRYPQENRLLPLQAMETPEYEQLRTE
+LSAVLPLYLSDGEPA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1375">
+        <gene_name>SAG2</gene_name>
+        <strain>Toxoplasma gondii</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>8777958</ncbi_nucleotide_id>
+        <ncbi_protein_id>8777959</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAF79156.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:309286</xrefs>
+        <taxonomy_id>5811</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>surface antigen P22</protein_name>
+        <protein_pi>8.1</protein_pi>
+        <protein_weight>17781.73</protein_weight>
+        <protein_length>242</protein_length>
+        <protein_note>SRS domain; pfam04092</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|8777958|gb|AF249698.1| Toxoplasma gondii isolate C56 surface antigen P22 (SAG2) gene, complete cds
+AGTGACCCATCTGCGAAGAAAACGAGCGCTGCTTGCGATCCTGTGTGTTGTTTCACGGGTTGCAGTTCTA
+GGAACTGAGTTGTGATTGTGCACAATTGCGGTGTGACACCTTCTGTCTCGTTCCAATCTTTGTCTTGTCG
+GAACTATGAGTTTCTCAAAGACCACGAGCCTAGCGTCGCTAGCGCTCACGGGCTTGTTTGTTGTGTTCAA
+GTTCGCTCTTGCGTCCACCACCGAGACGCCAGCGCCCATTGAGTGCACTGCCGGCGCAACGAAGACTGTT
+GATGCACCCTCCAGTGGTTCCGTTGTCTTCCAATGTGGGGATAAACTAACCATCAGTCCCAGTGGCGAAG
+GTGATGTCTTTTATGGCAAGGAATGCACAGACTCGAGGAAGTTGACGACTGTCCTTCCAGGTGCGGTCTT
+GACAGCTAAGGTCCAGCAGCCCGCGAAAGGTCCTGCTACCTACACACTGTCTTACGACGGTACTCCCGAG
+AAACCTCAGGTTCTCTGTTACAAGTGCGTTGCCGAAGCAGGTGCTCCCGCTGGTCGAAATAATGATGGTT
+CTAGCGCTCCGACGCCTAAAGACTGCAAACTCATTGTTCGCGTTCCGGGTGCCGATGGCCGTGTCACATC
+TGGGTTTGACCCTGTGTCTCTCACGGGCAAGGTTCTTGCTCCCGGTCTCGCAGGTTTGTTGATCACGTTT
+GTGTAAAAGAAAGGGCTGATGATTAAGTAGTCAAAAGGTCACACCAAGATATGCACCCCTGAAGAGACGT
+CTTTGGGTCAATGGCCTTCTTTCGGAGAAGAGTTGCGAAAGTCGGTGAACGGTGGTCGCCCTCAGGGGTG
+CACTTTGTTGTTTTGCTTGAAGATGCTCTTCCTATAAATCTTCCGAAAATGTTTCTCCGCATGACGGGGG
+TTGAGCGAAGTTGGTGGTAACGGGAATAATTAAACGGGGATATCATTCCCCGTAGCGGGGTGGATGGGTG
+CCTCCGGGGCTGCCGCAGTTCTGTTCTCCGAAGTGACTCCAGGTGGGCCGTGCGGCTTTTGTCTTTTTCG
+TGAGAGCGGTCCGACCCTGCAATTCTCATGCCTCCGCTTCGAAATTGTCGTGCAAAGAAAACGTTGTTGA
+GGGGTGGGATTGCGATTGTTCTTGGCGTAGATCCTGGGAGGAACGCGAGAAAATGTATTTCCGGATCTGC
+GATTATGTGACAGAGGAACTTGTTTGCCCACACACTGCTGCAGTACTGTGCTTTTCCGCCAGACACAACC
+AGTGTTCCGGCGGGTGTGCCTTCGTGAAACGTTCTACACATAGAGAC</dna_sequence>
+        <protein_sequence>>AAF79156.1 surface antigen P22 [Toxoplasma gondii]
+MSFSKTTSLASLALTGLFVVFKFALASTTETPAPIECTAGATKTVDAPSSGSVVFQCGDKLTISPSGEGD
+VFYGKECTDSRKLTTVLPGAVLTAKVQQPAKGPATYTLSYDGTPEKPQVLCYKCVAEAGAPAGRNNDGSS
+APTPKDCKLIVRVPGADGRVTSGFDPVSLTGKVLAPGLAGLLITFV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1137">
+        <gene_name>TNF-alpha</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>21926</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>7305585</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AB039224</gene_refseq>
+        <protein_refseq>NP_038721</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>17</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>35199389</gene_start>
+        <gene_end>35201995</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>tumor necrosis factor</protein_name>
+        <protein_pi>4.75</protein_pi>
+        <protein_weight>24010.47</protein_weight>
+        <protein_length>235</protein_length>
+        <protein_note>Also known as DIF; Tnfa; TNFSF2; Tnfsf1a; TNFalpha; TNF-alpha; MGC151434</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099093:35199389-35201995 Mus musculus strain C57BL/6J chromosome 17, GRCm38 C57BL/6J
+CTTTATTTCTCTCAATGACCCGTAGGGCGATTACAGTCACGGCTCCCGTGGGGAGCAGAGGTTCAGTGAT
+GTAGCGACAGCCTGGTCACCAAATCAGCGTTATTAAGACAATTGGGTTAGATAAATATTTTGTTTTAAAC
+ATAAGCAAAAGAGGAGGCAACAAGGTAGAGAGGCCAGGTGGGGACAGCTCAGCTCCGTTTTCACAGAAAA
+CATGTCTGTCTGAAGACAGCTTCCCACACTGGGTCCTCCAGGACACCCCGGCCTTCCAAATAAATACATT
+CATAAGCAAATAAATAAATAATAAATAAATAATAAATAATAAGTGCAAATATAAATAGAGGGGGGCTGGC
+TCTGTGAGGAAGGCTGTGCATTGCACCTCAGGGAAGAATCTGGAAAGGTCTGAAGGTAGGAAGGCCTGAG
+ATCTTATCCAGCCTCATTCTGAGACAGAGGCAACCTGACCACTCTCCCTTTGCAGAACTCAGGAATGGAC
+ATTCGAGGCTCCAGTGAATTCGGAAAGCCCATTTGAGTCCTTGATGGTGGTGCATGAGAGGCCCACAGTC
+CAGGTCACTGTCCCAGCATCTTGTGTTTCTGAGTAGTTGTTGAAAGCTCTGAGCACAGAGTTGGACCCTG
+AGCCATAATCCCCTTTCTAAGTTAGAAGGATACAGACTGGGGGCTCTGAGGAGTAGACAATAAAGGGGTC
+AGAGTAAAGGGGTCAGAGTGGGGGCTGGGTAGAGAATGGATGAACACCCATTCCCTTCACAGAGCAATGA
+CTCCAAAGTAGACCTGCCCGGACTCCGCAAAGTCTAAGTACTTGGGCAGATTGACCTCAGCGCTGAGTTG
+GTCCCCCTTCTCCAGCTGGAAGACTCCTCCCAGGTATATGGGCTCATACCAGGGTTTGAGCTCAGCCCCC
+TCAGGGGTGTCCTTGGGGCAGGGGCTCTTGACGGCAGAGAGGAGGTTGACTTTCTCCTGGTATGAGATAG
+CAAATCGGCTGACGGTGTGGGTGAGGAGCACGTAGTCGGGGCAGCCTTGTCCCTTGAAGAGAACCTGGGA
+GTAGACAAGGTACAACCCATCGGCTGGCACCACTAGTTGGTTGTCTTTGAGATCCATGCCGTTGGCCAGG
+AGGGCGTTGGCGCGCTGGCTCAGCCACTCCAGCTGCTCCTCCACTTGGTGGTTTGCTGAGGGGGGGGGGG
+AGGATTGAGTCAGTGTCACCCTCTTAGTTCACACTCCACATCCTGAGCCTCAGCAGCTACCCACACTTCA
+CTTCCGGTTCCTGCACCCTCTGTCTTTCCACATCCCATTGGCTATGAGGTCCCGGGTGGCCCCCTGATGC
+CTTGCTTTTGAGTCACTGCTCTGACTCTCACGTGCTGTCTCTAAGAGCTCTGTCTTTTCTCAGCCTGGCT
+CGACACCCCTCAACCCGCCCCCCAAAATCATGCCCCTTCATTCTCAAGGCACATGTAAAGAAATCTTACC
+TACGACGTGGGCTACAGGCTTGTCACTCGAATTTTGAGAAGATGATCCTGGAGGGGAAGAGACAAAGGCA
+AGGATGAGCCTTTTAGGCTTCCCAGCAAGCATCTATGCACTTAGACCCCTTTCCTCCCAAACCAAAGCTT
+TAAGTTCTCCCCCCACCCCATCTCATCCCATGCCTAACTGCCCTTCCTCCATCTTAAATTAAGAGAGAGG
+TGTGGGAACACTTACTGAGTGTGAGGGTCTGGGCCATAGAACTGATGAGAGGGAGGCCATTTGGGAACTT
+CTGTGTAGGAAAAGGAGGTTAGTTAAGACAGACTCACCCCAAAGGAGAAGCCTCCCGGCTGATTGCCCCG
+CTTACAGTTCCTCTTTGCCCCACCCCACCCCCCAGCTTTGTGTTTTTCTTCTTCATTCATTCATCTGTCC
+AACCCACGGCTTCTTTCTGCGGTGCCCTCTGTGCTTGATCTCCCGTTATCTCCCCTTCATCTTCCTCCTT
+ATCTCTCATGCCTCTCTCATTTCTGTCTCTGAGTTTTATCTCTTGCTTATCCCCTCTTCCCCTGGCCACA
+TCTTTCCAGATCTCTCCACGTGTGAACACACTTGTTCGTTCATTCATCTCTCTGTGCATCCGACGAAGGA
+TGTTTAGTCAGCTGGACGCATGGGTCCGAGGTCCTGACTCTGTCCCCTCCACACTCTCCTCCACCTTGCC
+CTGCCCATTAGCCCACTTCTTTCCCTCACACTGTCCTTCTTGCCCTCCTAACCCGTTTTGCTTGTGAGCG
+AGAATAAGGGTTGCCCAGACACTCACCTCATCCCTTTGGGGACCGATCACCCCGAAGTTCAGTAGACAGA
+AGAGCGTGGTGGCCCCTGCCACAAGCAGGAATGAGAAGAGGCTGAGACATAGGCACCGCCTGGAGTTCTG
+GAAGCCCCCCATCTTTTGGGGGAGTGCCTCTTCTGCCAGTTCCACGTCGCGGATCATGCTTTCTGTGCTC
+ATGGTGTCTTTTCTGGAGGGAGATGTGGCGCCTTGGGCCAGTGAGTGAAAGGGACAGAACCTGCCTGGTT
+GGCTGCTTGCTTTTCTGGGAGCTATTTCCAAGATGTTCTGGAGTTTCTGTTCTCCCTCCTGGCTAGTCCC
+TTGCTGTCCTCGCTGAG</dna_sequence>
+        <protein_sequence>>gi|7305585|ref|NP_038721.1| tumor necrosis factor [Mus musculus]
+MSTESMIRDVELAEEALPQKMGGFQNSRRCLCLSLFSFLLVAGATTLFCLLNFGVIGPQRDEKFPNGLPL
+ISSMAQTLTLRSSSQNSSDKPVAHVVANHQVEEQLEWLSQRANALLANGMDLKDNQLVVPADGLYLVYSQ
+VLFKGQGCPDYVLLTHTVSRFAISYQEKVNLLSAVKSPCPKDTPEGAELKPWYEPIYLGGVFQLEKGDQL
+SAEVNLPKYLDFAESGQVYFGVIAL</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene970">
+        <gene_name>UP</gene_name>
+        <strain>Toxoplasma gondii ME49</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>7900273</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>237830025</ncbi_protein_id>
+        <gene_locus_tag>TGME49_110640</gene_locus_tag>
+        <gene_refseq>DS984727</gene_refseq>
+        <protein_refseq>XP_002364310</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>508771</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1252500</gene_start>
+        <gene_end>1256433</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>7.12</protein_pi>
+        <protein_weight>31157.07</protein_weight>
+        <protein_length>303</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|212659389:1252500-1256433 Toxoplasma gondii ME49 scf_1112359874864, whole genome shotgun sequence
+GCGTCCCCCGCATTTCGGCAATCCGCGTTTGAACGAAACAATTGCTTGAGCAGCACGGAACTGCGTTGGC
+TCTAAAGGCCGCCTGGTTGTACATATACTTTGTGAAAGCCTTCCTTTCCGCCGACCGTCCACTCGAGGCA
+AAAACATGGGGGCGGAGAAAACCTGGAGAGGCACGGAAACGTGTGTACGTCGCCCCACTCATCTCCAGAA
+TCTCTATCCCACATCTGAAACCCGCTGACGGTGCCTTTGTTGCGTTTTTGTAGGCCGGCCGCAGACGTCA
+GTTTCCAGTGCGGCACGTGGACTGCGAAGCGCTCGGCGGTCCAGTGAACATTTCCAAGCAGACAGCCTCT
+GTGTGGACTGCTCTGGACCGGGAGGAGAAATTTACGCTCTCTGTGCACGTAACTAATGACGAAGAACCCC
+TAAAACGCTCACACGCAGTCTCGCGGTGCTTTTTTCGGGAGCAGCTCTCCTGCGTGGGAATGAAACCCAT
+CATTTGAATTCATGACACGAGGGCCCAAGGCAAATATGGAACCCCAGAACCACCGTTCCGTTCTCTCTGG
+TAACGTGGTACTGTGTGCATCATCTGGTTACAGTCCTAGAGTGCGCAGCGAGGACGACGTCTGCGCGAGG
+GCGCTGGATTTGCTCCGTTCGTCTTTGTGCGCCGCGTATCCACAGTACTTTCATCACCGGCCTTGATGCC
+TCCGAAGTTGCTGCTCATGACCTGCTCAGTTGCTTTACGCCGCAGGCTTGATGATGCCTTCGGAAACAAG
+TGTCACAAGGGCATCAAAGGCAGCTTCGCCCGCTGCCAAAGTAGCCTTATCTTGGTCTTCCGCCTAAACG
+CGACACACACACACAAAAAAAAAACAAGAAAAGTACAGAGTGACACAGCGTGGAAAGTCACTCCATCACC
+TAGTTTGCGCTTCGTTTTCGTTGACACAGGCGTCGGCGCCTGTTTGCGGCGGAGTCTGTTTTGTCGTATC
+TCCATGACACAACACTGTCTTTTCTTCTCTACCGAGGCAACCCAGAAGGAGAGTGTGACCTCACTCCTTG
+ACATTTCTCCCCTCCTCCTGTTTCCGCTCACCGTCACGTGAGCTGTCAAGTTCGGATTGCTCCGGTTCAC
+AAGGCCGATCATGAGAGAGGCGGCGTACGACTTGGGTCCGTTTGGGATGCTGTGCTGTCTCTGGTGCATG
+AGATGGAAGATTTGGTGCGTCTCCATCTCCAGACTCACGACCCCCAGGTCTGTCATGTCCTTCAGGAGGT
+TCGCGTTATTGTCGTTCCACAGCGGCAACTCTCTGCCCTGAATCGCATGCACACAAGAAACACGGCATGA
+CCACACATTCACCTTCTCATCCTCTTACCGGCAATCTTTCGAGGTTCCCTTTACCTACGCGTCAAGCGCA
+CTGGTGCGATCACGCGTGCGATAGCGCGAAGGAAAACACGAATCCAGCAAGCCTCGACAAGTGGTGAGGT
+ATGTGTACCTGCGCCAGGCATCGCCGATGCAAAAGGGATGAGGAGGACCCTCGGGTCCCTCCTCAATCGG
+TGTATGTGAAAAGACACTGTCCCTCCCTTTCGGCTAAGGTTCCACGCCTTCGGTGACTAGACTATATGCG
+CTATACACACAAGGTCAACAAGTGTCAAAGTTTGGCCATCAACAGCCAGTGCCAAAAGCACATACCCGCG
+TACCGCAGGCGGGGCAGCCGGTAGGCGCTGGTCGTTACCGCCCCCCCCTTGTGTGCCACCTTGGTCCCCC
+CTTTCGGAGAGCGCACACGAGTCAGTACAGTCTTCGAAATCACCTTATTTGATTAACGTAACAGCGCAGA
+CGCCTACGGTGCACCGCATGTAAACTGTACATTGGATACGTTTCAGCACTTCAGGGTTGCGAGAACCTTA
+TAAATGAGAGAAGAGATGTTCGGTCTAGTGTTCCGTTATCCTACATAGATGACGTGGCTTGTAGCACGTT
+TTTGTATCGTGTTTGTAGAAACGGATTACTGCTCACCTGACAAGCGAAGAAAGTCTCCGCCGAGCAGTTG
+AGGCCTCGTTTGACTGCTGCACCCTGCGCATTCAAGTTGGCTTCGATAAGATCGGTCAAACGCTTGTCTG
+CCTTGACCGGCGCTGTCAGCAAGTAGGGTCGCGGGTCGCGCCCGCACTCCCGTTTGTTTCCCAAAGCTGC
+TTCGCCGTCAAAGTGACAGTAGTTCCTAGAAACACAAGCCGAAGCAAACCACCCCCTAGGTTTGTAGATC
+CGCGAGAGAGTGCGTGGATTCGACAGCGCACGGACACTTCCGGAGATGCGTGTGCACAACCCGCCCCGCA
+GCAGAGCACATGAACGACCAAGCCGAACCCGCTGCGGGTGCACAACACAGCAACTACACAATCAGTCAAG
+AGTTCCCGGCCAAAATGCCCGATCAACAATCTACGGCCACACATCAGCTGGGGGTACTTCGTCGTCGTAC
+GAGCAGTACCGTGGACACAGCCCATGTAGGGCTTTCTGCCTCTTTACAACCGTGAAATGCCCTTGTCAGT
+GAACCGGGTCGCAACTACGAGGTGACAAAAAAAACAGAACTGCACGCCTTTACCTCTGCCCTCACCTGTA
+GCAGTACATGCTCTCGTCGCTGAGCATGAGAGTACCCGGCCGGGTCGCGTAGTCGACGATTCCACAACTG
+CCAATGCGAACGACGGCCAAGGGTTCTCCTTCCAAAACAAAAGAGGCTTCACGAATGAAAAAATCTGCCA
+TCGGAGCACCCATGCCAATGCAGACGATCGACATGCGCTGTCCGCCTTTGATGTATTTGCCTGAAAACAA
+GCAGAGAAAAACGAATACTAGAGAGTTGTGAACGCCAAAAAACAATCCGAAGAAAGCCACCGCCGACCAG
+CAGGAGTTGCCACGAGCTGGAGGTCCTCGGGTTTGTCGAAGCACTATCATGCTATGACACCCCGAAGCAC
+ACGACTTAAAAGATCGTTCAAAGCTCCCTCACCCTGTTCGGGTGCTCCCCATACACAAGATCTACGTGGG
+GGTGCTCACGCGTCCAGTTCGGTCTATCATCAGTCTGTGGGTTTTCTAAACTCCCAAAAACGGTAAAGGC
+AACCGATACGCGTTTTTTCAGTCGATTCACTGCCTCTGTGCAGGTGTGGAAAGGGTCTTCCAACTGACGT
+CGCCAGGTCATCTGCCACCGTTCGCTCTCCCATGTTGTAGAATGCAAATCGCTACTTACCCGTGAAGGTG
+TAGAATTGTCGCGAAGAGGAAACCTCCGTGACATCCGTAAGGAATTTCGCTGCGAGAACCCGCGCGCGCT
+GTTCGCAGCCGACCGTCACGATCAGTGATGCCAAGTCTCCCTTCTTGACGCCCAGATGGTACGTGCGACC
+ATCCGGGGTAAGGAAGATATTCTTTCCTTTGAGTTCCGACTGTCAGCGACAAACACACAACCACAGGACA
+CGTCGTCATGCCCCCGTGCATAAGCTAGAAGTTTAGATAGCTAAATACCAGGTAAGCTCATGTTGAAAAC
+AGGCTAGAGGCAGAAAAAAAAGCCGGAAAAAGATGTGATCTGCAACTGGTAAAGATGCCACTCTTGAACT
+GGCAGGCACTACGCTCGTGTCCTGCACCACTGTATACGTCGTCATTGCTGCAAGAGAATCAACTACATAC
+TAGGCAAATCTACGGCAAAACCCCTCGTCAAGAACTGTGAGGGAATGGGGCGGAAGCGCCCGCCCTTTTA
+AATGCGACAAAGCCAGAAAGAGAAGCCCCGCTGCGTCAGACAAGAGGGGGAACGCAGGCGGACGCAGCCC
+CCCGTGAATCAACGCAGAGCGTAGATGCGTGCCCTATCTTGCTGAAACTCACCATTGTACGCAAAAACAG
+AGGCACTATATACACGACCTAAAGGATGGCGAAACGTTTCTTCACTTTTGTTTGGAAGACAAAAGGGAAT
+GTTCAGGCAGCAGC</dna_sequence>
+        <protein_sequence>>gi|237830025|ref|XP_002364310.1| uridine phosphorylase, putative [Toxoplasma gondii ME49]
+MSELKGKNIFLTPDGRTYHLGVKKGDLASLIVTVGCEQRARVLAAKFLTDVTEVSSSRQFYTFTGKYIKG
+GQRMSIVCIGMGAPMADFFIREASFVLEGEPLAVVRIGSCGIVDYATRPGTLMLSDESMYCYRNYCHFDG
+EAALGNKRECGRDPRPYLLTAPVKADKRLTDLIEANLNAQGAAVKRGLNCSAETFFACQGRELPLWNDNN
+ANLLKDMTDLGVVSLEMETHQIFHLMHQRQHSIPNGPKSYAASLMIGLVNRSNPNLTAHVTAEDQDKATL
+AAGEAAFDALVTLVSEGIIKPAA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A UP mutant, in combination with an OMPDC mutation, is attenuated in mice and induces significant protection from wild type T. gondii [Ref1904:Fox and Bzik, 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1458">
+		<reference_name>Bhopale, 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bhopale GM</authors>
+		<title>Pathogenesis of toxoplasmosis</title>
+		<year>2003</year>
+		<volume>26</volume>
+		<issue>4</issue>
+		<pages>213-222</pages>
+		<journal_book_name>Comparative immunology, microbiology and infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference847">
+		<reference_name>Buxton and Innes, 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Buxton D, Innes EA</authors>
+		<title>A commercial vaccine for ovine toxoplasmosis</title>
+		<year>1995</year>
+		<volume>110 Suppl</volume>
+		<issue></issue>
+		<pages>S11-16</pages>
+		<journal_book_name>Parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5059">
+		<reference_name>Ching et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ching XT, Fong MY, Lau YL</authors>
+		<title>Evaluation of the Protective Effect of Deoxyribonucleic Acid Vaccines Encoding Granule Antigen 2 and 5 Against Acute Toxoplasmosis in BALB/c Mice</title>
+		<year>2017</year>
+		<volume>96</volume>
+		<issue>6</issue>
+		<pages>1441-1447</pages>
+		<journal_book_name>The American journal of tropical medicine and hygiene</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2387">
+		<reference_name>Cong et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cong H, Gu QM, Yin HE, Wang JW, Zhao QL, Zhou HY, Li Y, Zhang JQ</authors>
+		<title>Multi-epitope DNA vaccine linked to the A2/B subunit of cholera toxin protect mice against Toxoplasma gondii</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>31</issue>
+		<pages>3913-3921</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2141">
+		<reference_name>Cui et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cui YL, He SY, Xue MF, Zhang J, Wang HX, Yao Y</authors>
+		<title>Protective effect of a multiantigenic DNA vaccine against Toxoplasma gondii with co-delivery of IL-12 in mice</title>
+		<year>2008</year>
+		<volume>30</volume>
+		<issue>5</issue>
+		<pages>309-313</pages>
+		<journal_book_name>Parasite immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5064">
+		<reference_name>Czarnewski et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Czarnewski P, Ara�jo ECB, Oliveira MC, Mineo TWP, Silva NM</authors>
+		<title>Recombinant &lt;i&gt;Tg&lt;/i&gt;HSP70 Immunization Protects against &lt;i&gt;Toxoplasma gondii&lt;/i&gt; Brain Cyst Formation by Enhancing Inducible Nitric Oxide Expression</title>
+		<year>2017</year>
+		<volume>7</volume>
+		<issue></issue>
+		<pages>142</pages>
+		<journal_book_name>Frontiers in cellular and infection microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1400">
+		<reference_name>Echeverria et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Echeverria PC, de Miguel N, Costas M, Angel SO</authors>
+		<title>Potent antigen-specific immunity to Toxoplasma gondii in adjuvant-free vaccination system using Rop2-Leishmania infantum Hsp83 fusion protein</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>19</issue>
+		<pages>4102-4110</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1904">
+		<reference_name>Fox and Bzik, 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fox BA, Bzik DJ</authors>
+		<title>Avirulent uracil auxotrophs based on disruption of orotidine-5'-monophosphate decarboxylase elicit protective immunity to Toxoplasma gondii</title>
+		<year>2010</year>
+		<volume>78</volume>
+		<issue>9</issue>
+		<pages>3744-3752</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1664">
+		<reference_name>Huynh and Carruthers, 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Huynh MH, Carruthers VB</authors>
+		<title>Toxoplasma MIC2 is a major determinant of invasion and virulence</title>
+		<year>2006</year>
+		<volume>2</volume>
+		<issue>8</issue>
+		<pages>e84</pages>
+		<journal_book_name>PLoS pathogens</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2388">
+		<reference_name>Ismael et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ismael AB, Hedhli D, CÃ©rÃ¨de O, Lebrun M, Dimier-Poisson I, MÃ©vÃ©lec MN</authors>
+		<title>Further analysis of protection induced by the MIC3 DNA vaccine against T. gondii: CD4 and CD8 T cells are the major effectors of the MIC3 DNA vaccine-induced protection, both Lectin-like and EGF-like domains of MIC3 conferred protection</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>22</issue>
+		<pages>2959-2966</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2390">
+		<reference_name>Kikumura et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kikumura A, Fang H, Mun HS, Uemura N, Makino M, Sayama Y, Norose K, Aosai F</authors>
+		<title>Protective immunity against lethal anaphylactic reaction in Toxoplasma gondii-infected mice by DNA vaccination with T. gondii-derived heat shock protein 70 gene</title>
+		<year>2010</year>
+		<volume>59</volume>
+		<issue>2</issue>
+		<pages>105-111</pages>
+		<journal_book_name>Parasitology international</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1642">
+		<reference_name>Liu et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liu MM, Yuan ZG, Peng GH, Zhou DH, He XH, Yan C, Yin CC, He Y, Lin RQ, Song HQ, Zhu XQ</authors>
+		<title>Toxoplasma gondii microneme protein 8 (MIC8) is a potential vaccine candidate against toxoplasmosis</title>
+		<year>2010</year>
+		<volume>106</volume>
+		<issue>5</issue>
+		<pages>1079-1084</pages>
+		<journal_book_name>Parasitology research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5065">
+		<reference_name>Liu et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liu Y, Cao A, Li Y, Li X, Cong H, He S, Zhou H</authors>
+		<title>Immunization with a DNA vaccine encoding Toxoplasma gondii Superoxide dismutase (TgSOD) induces partial immune protection against acute toxoplasmosis in BALB/c mice</title>
+		<year>2017</year>
+		<volume>17</volume>
+		<issue>1</issue>
+		<pages>403</pages>
+		<journal_book_name>BMC infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2649">
+		<reference_name>Parthasarathy et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Parthasarathy S, Fong MY, Ramaswamy K, Lau YL</authors>
+		<title>Protective Immune Response in BALB/c Mice Induced by DNA Vaccine of the ROP8 gene of Toxoplasma gondii</title>
+		<year>2013</year>
+		<volume>88</volume>
+		<issue>5</issue>
+		<pages>883-887</pages>
+		<journal_book_name>The American journal of tropical medicine and hygiene</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5056">
+		<reference_name>Picchio et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Picchio MS, S�nchez VR, Arcon N, Soto AS, Perrone Sibilia M, Aldirico MLA, Urrutia M, Moretta R, Fenoy IM, Goldman A, Martin V</authors>
+		<title>Vaccine potential of antigen cocktails composed of recombinant Toxoplasma gondii TgPI-1, ROP2 and GRA4 proteins against chronic toxoplasmosis in C3H mice</title>
+		<year>2018</year>
+		<volume>185</volume>
+		<issue></issue>
+		<pages>62-70</pages>
+		<journal_book_name>Experimental parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference981">
+		<reference_name>Qu et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Qu D, Wang S, Cai W, Du A</authors>
+		<title>Protective effect of a DNA vaccine delivered in attenuated Salmonella typhimurium against Toxoplasma gondii infection in mice</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>35</issue>
+		<pages>4541-4548</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2389">
+		<reference_name>Scorza et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Scorza T, D'Souza S, Laloup M, Dewit J, De Braekeleer J, Verschueren H, Vercammen M, Huygen K, Jongert E</authors>
+		<title>A GRA1 DNA vaccine primes cytolytic CD8(+) T cells to control acute Toxoplasma gondii infection</title>
+		<year>2003</year>
+		<volume>71</volume>
+		<issue>1</issue>
+		<pages>309-316</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1457">
+		<reference_name>Wiki: T. gondii</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: T. gondii</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/T._gondii</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1187">
+		<reference_name>Xiang et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xiang W, Qiong Z, Li-peng L, Kui T, Jian-wu G, Heng-ping S</authors>
+		<title>The location of invasion-related protein MIC3 of Toxoplasma gondii and protective effect of its DNA vaccine in mice</title>
+		<year>2009</year>
+		<volume>166</volume>
+		<issue>1-2</issue>
+		<pages>1-7</pages>
+		<journal_book_name>Veterinary parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2142">
+		<reference_name>Xue et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xue M, He S, Zhang J, Cui Y, Yao Y, Wang H</authors>
+		<title>Comparison of cholera toxin A2/B and murine interleukin-12 as adjuvants of Toxoplasma multi-antigenic SAG1-ROP2 DNA vaccine</title>
+		<year>2008</year>
+		<volume>119</volume>
+		<issue>3</issue>
+		<pages>352-357</pages>
+		<journal_book_name>Experimental parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2796">
+		<reference_name>Yu et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu Q, Huang X, Gong P, Zhang Q, Li J, Zhang G, Yang J, Li H, Wang N, Zhang X</authors>
+		<title>Protective immunity induced by a recombinant BCG vaccine encoding the cyclophilin gene of Toxoplasma gondii</title>
+		<year>2013</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2645">
+		<reference_name>Yuan et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yuan ZG, Ren D, Zhou DH, Zhang XX, Petersen E, Li XZ, Zhou Y, Yang GL, Zhu XQ</authors>
+		<title>Evaluation of protective effect of pVAX-TgMIC13 plasmid against acute and chronic Toxoplasma gondii infection in a murine model</title>
+		<year>2013</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

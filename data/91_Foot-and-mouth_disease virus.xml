@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen206">
+		<pathogen_name>Foot-and-mouth disease virus</pathogen_name>
+		<taxon_id>12110</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Foot-and-mouth disease</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1864">Foot-and-mouth disease or hoof-and-mouth disease (Aphtae epizooticae) is an infectious and sometimes fatal viral disease that affects cloven-hoofed animals, including domestic and wild bovids. The virus causes a high fever for two or three days, followed by blisters inside the mouth and on the feet that may rupture and cause lameness. Foot-and-mouth disease is a severe plague for animal farming, since it is highly infectious and can be spread by infected animals through aerosols, through contact with contaminated farming equipment, vehicles, clothing or feed, and by domestic and wild predators. Its containment demands considerable efforts in vaccination, strict monitoring, trade restrictions and quarantines, and occasionally the elimination of millions of animals.
+Susceptible animals include cattle, water buffalo, sheep, goats, pigs, antelope, deer, and bison. It has also been known to infect hedgehogs and elephants, and llama and alpaca may develop mild symptoms, but are resistant to the disease and do not pass it on to others of the same species. In laboratory experiments, mice and rats and chickens have been successfully infected by artificial means, but it is not believed that they would contract the disease under natural conditions.Humans are very rarely affected.
+The virus responsible for the disease is a picornavirus, the prototypic member of the genus Aphthovirus. Infection occurs when the virus particle is taken into a cell of the host. The cell is then forced to manufacture thousands of copies of the virus, and eventually bursts, releasing the new particles in the blood. The virus is highly variable,which limits the effectiveness of vaccination (Wiki: Foot and mouth disease).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3909">
+		<vaccine_name>FMDV DNA Vaccine encoding P1 and non-structural proteins 2A, 3C, and 3D</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004553</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1/P1-2A3C3D [Ref2674:Fowler et al., 2012]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1536" gene_id="gene1694">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1537" gene_id="gene1695">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1538" gene_id="gene1696">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1539" gene_id="gene1697">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1550" host_id="host12">
+			<immune_response refs="reference2674">All DNA vaccinated cattle generated a detectable neutralising antibody response at 21 days post 1st vaccination (Fowler et al., 2012).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2674">Thirty-two cattle of 6–7 months of age were housed separately in six groups of five (vaccinated animals) and one group of two (un-vaccinated controls) within the isolation units at the Institute for Animal Health, Pirbright. The six groups of vaccinates were immunised as follows: Group 1 with 2 mg PLG-pcDNA3.1/P12A3C3D + 0.4 mg pcDNA3.1/bGM-CSF (DNA + PLG + GMCSF), Group 2 with 2 mg PLG-pcDNA3.1/P12A3C3D + 0.4 mg pcDNA3.1/bGM-CSF + electroporation (DNA + PLG + GMCSF + elec), Group 3 with 2 mg pcDNA3.1/P12A3C3D + 0.4 mg pcDNA3.1/bGM-CSF (DNA + GMCSF), Group 4 with 2 mg pcDNA3.1/P12A3C3D + 0.4 mg pcDNA3.1/bGM-CSF + electroporation (DNA + GMCSF + elec), Group 5 with 2 mg pcDNA3.1/P12A3C3D + electroporation (DNA + elec), and Group 6 with conventional vaccine (Fowler et al., 2012).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2674">Conventionally vaccinated cattle were fully protected from experimental challenge, as determined by absence of generalised disease (Table 2). In addition 6 of the 8 DNA vaccinated cattle in groups 4 and 5 (DNA + GMCSF + elec and DNA + elec) were fully protected despite these DNA vaccinated animals being challenged 91 days after the protein boost (Fowler et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2674">On day 133 post primary vaccination, four cattle in each of vaccination groups 3–6 only were randomly selected, together with two un-vaccinated controls and intradermolingually challenged in two sites with 105 TCID50, 0.1 ml per site, of cattle adapted O1 Lausanne FMDV (Fowler et al., 2012).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3366">
+		<vaccine_name>Foot and mouth disease DNA vaccine pWRMHX encoding a minimal self-cleaving ribozyme</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004320</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pWRM [Ref2153:Ward et al., 1997]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1540" gene_id="gene1698">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2153">This vaccine encoded the genome of FMDV strain A12 and a minimal self-cleaving ribozyme from hepatitis delta virus (Ward et al., 1997),</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1179" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2153">Swine inoculated with pWRMHX did not show any signs of disease and produced neutralizing antibodies to FMDV, and 20% of the vaccinated animals were protected from FMDV challenge (Ward et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3908">
+		<vaccine_name>Foot-and-Mouth Disease Virus Cationic Microparticle-coated DNA Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004552</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAC-1D [Ref2673:Reddy et al., 2012]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1474" gene_id="gene1664">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1549" host_id="host7">
+			<immune_response refs="reference2673">Immunization with pVAC 1D-PLG elicited significantly enhanced neutralization antibody responses compared to naked DNA vaccine (Reddy et al., 2012).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2673">Sixty male guinea pigs of 10 weeks of age were divided in to three groups each containing 20 animals. Group I was inoculated with a 10 µg of pVAC- 1D (naked DNA vaccinated group), group II was inoculated with pVAC-1D coated on PLG microparticles (pVAC-1D + PLG group) and group III received PBS. All the animals were inoculated intramuscularly in the gluteal region of the right leg (Reddy et al., 2012).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2673">Microparticles coated plasmid DNA-injected guinea pigs were protected when challenged with FMD virus (Reddy et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3907">
+		<vaccine_name>Foot-and-Mouth Disease Virus DNA Vaccine pSinCMV-Vac-MEG990</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004551</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2672">the FMDV-specific MEG990 gene - 3 VP1 genes (Dar et al., 2012)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1541" gene_id="gene1664">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1542" gene_id="gene1699">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1543" gene_id="gene1700">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1548" host_id="host7">
+			<immune_response refs="reference2672">Immune responses included significant neutralizing antibody induction at all doses against all serotypes tested as compared to non-immunized controls, and delayed appearance and reduced severity of FMD lesions (Dar et al., 2012).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2672">Immunization of guinea pigs with the construct at dose rate of 10, 5, 2 and 1 μg per animal was through an intramuscular route (Dar et al., 2012).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2672">Two of six and one of six guinea pigs were completely protected in 10 and 5 μg immunized groups (Dar et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2672">Viral challenge of guinea pigs was 4 week post-immunization with 1000 GPID(50) of FMDV serotype A (Dar et al., 2012).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1664">
+        <gene_name>1D</gene_name>
+        <strain>Foot-and-mouth disease virus - type Asia 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>148800633</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:301302
+CDD:119412</xrefs>
+        <taxonomy_id>110195</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>1D protein</protein_name>
+        <protein_pi>9.49</protein_pi>
+        <protein_weight>22686.12</protein_weight>
+        <protein_length>293</protein_length>
+        <protein_note>Picornavirus capsid protein domain_like. Picornaviruses are non-enveloped plus-strand ssRNA animal viruses with icosahedral capsids composed of 60 copies each of 4 virus encoded proteins; alignment includes picornaviridae, like poliovirus, hepatitis A...; cl13999</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABR13034.1 1D protein, partial [Foot-and-mouth disease virus - type Asia 1]
+TTTTGESADPVTTTVENYGGETQTARRLHTDVAFVLDRFVKLTAPKNIQTLDLMQIPSHTLVGALLRSAT
+YYFSDLEVAIVHTGPITWVPNGSPKDALDNQTNPTAYQKQPVTRLALPYTAPHRVLATVYNGKTTYGETT
+ARRGDMAALAQRLSGRLPTSFNYGAVKAETITELLFRMKRAETYCPRPLLALDTTQDRRKQEIIAPEKQM
+M
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1699">
+        <gene_name>1D</gene_name>
+        <strain>Foot-and-mouth disease virus - type O</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>56675803</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>GOA:Q9DJ81
+InterPro:IPR004080
+UniProtKB/TrEMBL:Q9DJ81</xrefs>
+        <taxonomy_id>12118</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>VP1</protein_name>
+        <protein_pi>10.73</protein_pi>
+        <protein_weight>6939.818</protein_weight>
+        <protein_length>126</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAC22182.2 VP1, partial [Foot-and-mouth disease virus - type O]
+KAERALPTSFNYGAIKATRVTELLYRXKRAEXXXPRPXXAXHPSEARHKQKIVAPVXQX
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1700">
+        <gene_name>1D</gene_name>
+        <strain>Foot-and-mouth disease virus - type A</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>13399192</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:301302
+CDD:119412
+GOA:Q98VZ6
+InterPro:IPR001676
+InterPro:IPR004080
+UniProtKB/TrEMBL:Q98VZ6</xrefs>
+        <taxonomy_id>12111</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>VP1</protein_name>
+        <protein_pi>9.7</protein_pi>
+        <protein_weight>22399.68</protein_weight>
+        <protein_length>283</protein_length>
+        <protein_note>Picornavirus capsid protein domain_like. Picornaviruses are non-enveloped plus-strand ssRNA animal viruses with icosahedral capsids composed of 60 copies each of 4 virus encoded proteins; alignment includes picornaviridae, like poliovirus, hepatitis A...; cl13999</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAC34727.1 VP1, partial [Foot-and-mouth disease virus - type A]
+TTATGESADPVTTTVENYGGETQVQRRHHTDIGFIMDRFVRIKNVSQTHVIDLMQTHQHGLVGALLRAAT
+YYFSDLEIVVKHDGNLTWVPNGAPESALSNTSNPTVYNKAPFTRLALPYTAPHRVLATVYNGTSKYAVGG
+SARRGDMGSLAARVARQLPSSFNYGAIKAENIHELLVRMKRAELYCPRPLLAIEVSSQDRHKQKIIAPAK
+QLL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1695">
+        <gene_name>2A</gene_name>
+        <strain>Foot-and-mouth disease virus - type O</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>25121634</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>12118</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>2A</protein_name>
+        <protein_pi>3.88</protein_pi>
+        <protein_weight>2245.32</protein_weight>
+        <protein_length>76</protein_length>
+        <protein_note>isolated from vesicular fluid of animals inoculated with field derived material in April 1997</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>NP_740461.1 2A [Foot-and-mouth disease virus - type O]
+LLNFDLLKLAGDVESNPG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1696">
+        <gene_name>3C</gene_name>
+        <strain>Foot-and-mouth disease virus - type O</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>25121639</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:201298</xrefs>
+        <taxonomy_id>12118</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>3C</protein_name>
+        <protein_pi>8.06</protein_pi>
+        <protein_weight>21623.2</protein_weight>
+        <protein_length>274</protein_length>
+        <protein_note>isolated from vesicular fluid of animals inoculated with field derived material in April 1997</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>NP_740466.1 3C [Foot-and-mouth disease virus - type O]
+SGAPPTDLQKMVMGNTKPVELILDGKTVAICCATGVFGTAYLVPRHLFAEKYDKIMLDGRALTDSDYRVF
+EFEIKVKGQDMLSDAALMVLHRGNRVRDITKHFRDVARMKKGTPVVGVINNADVGRLIFSGEALTYKDIV
+VCMDGDTMPGLFAYRASTKAGYCGGAVLAKDGAETFIVGTHSAGGNGIGYCSCVSRSMLLKMKAHIDPEP
+HHE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1697">
+        <gene_name>3D</gene_name>
+        <strain>Foot-and-mouth disease virus - type O</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>25121640</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:73158</xrefs>
+        <taxonomy_id>12118</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>3D</protein_name>
+        <protein_pi>6.09</protein_pi>
+        <protein_weight>49457.15</protein_weight>
+        <protein_length>534</protein_length>
+        <protein_note>isolated from vesicular fluid of animals inoculated with field derived material in April 1997</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>NP_740467.1 3D [Foot-and-mouth disease virus - type O]
+GLIVDTRDVEERVHVMRKTKLAPTVAHGVFNPEFGPAALSNKDPRLNEGVVLDDVIFSKHKGDTRMSEED
+KALFRRCAADYASRLHSVLGTANAPLSVYEAIKGVDGLDAMEPDTAPGLPWALQGKRRGALIDFENGTVG
+PEVEAALKLMESREYKFVCQTFLKDEIRPLEKVRAGKTRIVDVLPVEHILYTRMMIGRFCAQMHSNNGPQ
+IGSAVGCNPDVDWQRFGTHFAQYKNVWDVDYSAFDANHCSDAMNIMFEEVFRTEFGFHPNAEWILKTLVN
+TEHAYENKRIVVEGGMPSGCSATSIINTILNNIYVLYALRRHYEGVELDTYTMISYGDDIVVASDYDLDF
+EALKPHFKSLGQTITPADKSDKGFVLGHSITDVTFLKRHFHMDYGTGFYKPVMASKTLEAILSFARRGTI
+QEKLISVAGLAVHSGPDEYRRLFEPFQGLFEIPSYRSLYLRWVNAVCGDA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1698">
+        <gene_name>FMDV A12 genome</gene_name>
+        <strain>Foot-and-mouth disease virus - type A strain A12-119</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>46810760</ncbi_nucleotide_id>
+        <ncbi_protein_id>46810761</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:283147
+CDD:286076
+CDD:278501
+CDD:119412
+CDD:301302
+CDD:279280
+CDD:278947
+CDD:279070
+CDD:238843</xrefs>
+        <taxonomy_id>12111</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>polyprotein</protein_name>
+        <protein_pi>6.78</protein_pi>
+        <protein_weight>242060.45</protein_weight>
+        <protein_length>2432</protein_length>
+        <protein_note>Plum Island Animal Disease Center Virus Collection, isolated 1932, vaccine</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAT01695.1 polyprotein [Foot-and-mouth disease virus - type A]
+MNTTNCFIALVHAIREIRAFFLSRATGKMEFTLYNGERKTFYSRPNNHDNCWLNTILQLFRYVDEPFFDW
+VYNSPENLTLAAIKQLEELTGLELHEGGPPALVIWNIKHLLQTGIGTASRPSEVCMVDGTDMCLADFHAG
+IFLKGQEHAVFACVTSNGWYAIDDEDFYPWTPDPSDVLVFVPYDQEPLNGGWKANVQRKLKGAGQSSPAT
+GSQNQSGNTGSIINNYYMQQYQNSMDTQLGDNAISGGSNEGSTDTTSTHTTNTQNNDWFSKLASSAFTGL
+FGALLADKKTEETTLLEDRILTTRNGHTTSTTQSSVGVTYGYSTEEDHVAGPNTSGLETRVVQAERFFKK
+FLFDWTTDKPFGHLEKLELPTDHHGVFGHLVDSYAYMRNGWDVEVSAVGNQFNGGCLLVAMVPEWKEFDK
+REKYQLTLFPHQFISPRTNMTAHITVPYLGVNRYDQYKKHKPWTLVIMVVSPLTVSNTAATQIKVYANIA
+PTYVHVAGELPSKEGIFPVACSDGYGGLVTTDPKTADPVYGKVYNPPRTNYPGRFTNLLDVAEACPTFLC
+FDDGKPYVVTRTDDTRLLAKFDVSLAAKHMSNTYLSGIAQYYTQYSGTINLHFMFTGSTDSKARYMVAYI
+PPGVETPPETPEGAAHCIHAEWDTGLNSKFTFSIPYVSAADYAYTASDTAETTNVQGWVCIYQITHGKAE
+GDTLVVSASAGKDFELRLPIDPRSQTTATGESADPVTTTVENYGGETQVQRRHHTDVSFIMDRFVKIKSL
+NPTHVIDLMQTHQHGLVGALLRAATYYFSDLEIVVRHDGNLTWVPNGAPEAALSNTGNPTAYNKAPFTRL
+ALPYTAPHRVLATVYNGTNKYSASGSGVRGDSGSLAPRVARQLPASFNYGAIKAETIHELLVRMKRAELY
+CPRPLLAIEVSSQDRHKQKIIAPGKQLLNFDLLKLAGDVESNPGPFFFADVRSNFSKLVDTINQMQEDMS
+TKHGPDFNRLVSAFEELATGVKAIRTGLDEAKPWYKLIKLLSRLSCMAAVAARSKDPVLVAIMLADTGLE
+ILDSTFVVKKISDSLSSLFHVPAPVFSFGAPVLLAGLVKVASSFFRSTPEDLERAEKQLKARDINDIFAI
+LKNGEWLVKLILAIRDWIKAWIASEEKFVTTTDLVPGILEKQRDLNDPSKYKEAKEWLDNARQACLKSGN
+VHIANLCKVVAPAPSKSRPEPVVVCLRGKSGQGKSFLANVLAQAISTHFTGRTDSVWYCPPDPDHFDGYN
+QQTVVVMDDLGQNPDGKDFKYFAQMVSTTGFIPPMASLEDKGKPFNSKVIIATTNLYSGFTPRTMVCPDA
+LNRRFHFDIDVSAKDGYKINNKLDIIKALEDTHTNPVAMFQYDCALLNGMAVEMKRMQQDMFKPQPPLQN
+VYQLVQEVIERVELHEKVSSHPIFKQISIPSQKSVLYFLIEKGQHEAAIEFFEGMVHDSIKEELRPLIQQ
+TSFVKRAFKRLKENFEIVALCLTLLANIVIMIRETRKRQKMVDDAVNEYIEKANITTDDTTLDEAEKNPL
+ETSGASTVGFRERTLTGQRACNDVNSEPARPAEEQPQAEGPYTGPLERQRPLKVRAKLPQQEGPYAGPLE
+RQKPLKVKAKAPVVKEGPYEGPVKKPVALKVKAKNLIVTESGAPPTDLQKMVMGNTKPVELILDGKTVAI
+CCATGVFGTAYLVPRHLFAEKYDKIMLDGRAMTDSDYRVFEFEIKVKGQDMLSDAALMVLHRGNRVRDIT
+KHFRDTARMKKGTPVVGVVNNADVGRLIFSGEALTYKDIVVCMDGDTMPGLFAYKAATKAGYCGGAVLAK
+DGADTFIVGTHSAGGNGVGYCSCVSRSMLLRMKAHVDPEPHHEGLIVDTRDVEERVHVMRKTKLAPTVAH
+GVFNPEFGPAALSNKDPRLNEGVVLDEVIFSKHKGDTKMSAEDKALFRRCAADYASRLHSVLGTANAPLS
+IYEAIKGVDGLDAMESDTAPGLPWAFQGKRRGALIDFENGTVGPEVEAALKLMEKREYKFACQTFLKDEI
+RPMEKVRAGKTRIVDVLPVEHILYTRMMIGRFCAQMHSNNGPQIGSAVGCNPDVDWQRFGTHFAQYRNVW
+DVDYSAFDANHCSDAMNIMFEEVFRTDFGFHPNAEWILKTLVNTEHAYENKRITVEGGMPSGCSATSIIN
+TILNNIYVLYALRRHYEGVELDTYTMISYGDDIVVASDYDLDFEALKPHFKSLGQTITPADKSDKGFVLG
+HSITDVTFLKRHFHIDYGTGFYKPVMASKTLEAILSFARRGTIQEKLTSVAGLAVHSGPDEYRRLFEPFQ
+GLFEIPSYRSLYLRWVNAVCGDA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1694">
+        <gene_name>P1</gene_name>
+        <strain>Foot-and-mouth disease virus - type O</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15419537</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:286076
+CDD:278501
+CDD:119412
+CDD:301302</xrefs>
+        <taxonomy_id>12118</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>polyprotein P1</protein_name>
+        <protein_pi>6.71</protein_pi>
+        <protein_weight>75741.482</protein_weight>
+        <protein_length>824</protein_length>
+        <protein_note>isolated from a field outbreak in 1979</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAK97050.1 polyprotein P1, partial [Foot-and-mouth disease virus - type O]
+GAGQSSPATGSQNQSGNTGSIINNYYMQQYQNSMDTQLGDNAISGGSNEGSTDTTSTHTTNTQNNDWFSK
+LASSAFSGLFGALLADKKTEETTLLEDRILTTRNGHTTSTTQSSVGVTYGYATAEDFVRGPNTSGLETRV
+IQAERFFKTHLFDWVTSDSFGRCHLLELPTDHKGVYGSLTDSYAYMRNGWDVEVTAVGNQFNGGCLLVAM
+VPELCSIQKRELYQLTLFPHQFINPRTNLTAHITVPFIGVNRYDQYXVHKPWTLVVMVVAPLTVNTEGAP
+QIKVYANIAPTNVHVAGEFPSKEGIFPVACSDGYGGLVTTDPKTADPAYGKVFNPPRNMLPGRFTNFLDV
+AEACPTFLRFEGGVPYVTSKTESDRVLTRFDLSLAAKHMSNTFLAGLAQYYTQYSGTINLHFMFTGPTDA
+KARYMIAYAPPGMEPPKTPEAAAHCIHAEWDTGLNSKLTFSIPYLSAADYAYTASDTAETTNVQGWVCLF
+QITHGKADGDALVVLASAGKDFEVRLPVDARTQTTSAGESADPVTATVENYGGETQVQRRQHTDVSFILD
+RFVKVTPEDQINVLDLMQTPAHTLVGALLRTATYYFADLEVAVKHEGNLTWVPNGAPETALDNTTNPTAY
+HKAPLTRLALPYTAPHRVLATVYNGNCRYGESTVTNVRGDLQVLAQKAARTLPTSFNYGAIKATRVIELL
+YRMKRAETYCPRPLLAIHPNEARHKQKIVAPVKQLL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1865">
+		<reference_name>Joyappa et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Joyappa DH, Kumar CA, Banumathi N, Reddy GR, Suryanarayana VV</authors>
+		<title>Calcium phosphate nanoparticle prepared with foot and mouth disease virus P1-3CD gene construct protects mice and guinea pigs against the challenge virus</title>
+		<year>2009</year>
+		<volume>139</volume>
+		<issue>1-2</issue>
+		<pages>58-66</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1873">
+		<reference_name>Shao et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shao HJ, Chen L, Su YB</authors>
+		<title>DNA fragment encoding human IL-1beta 163-171 peptide enhances the immune responses elicited in mice by DNA vaccine against foot-and-mouth disease</title>
+		<year>2005</year>
+		<volume>29</volume>
+		<issue>1</issue>
+		<pages>35-46</pages>
+		<journal_book_name>Veterinary research communications</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2154">
+		<reference_name>Wang et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang F, He XW, Jiang L, Ren D, He Y, Li DA, Sun SH</authors>
+		<title>Enhanced immunogenicity of microencapsulated multiepitope DNA vaccine encoding T and B cell epitopes of foot-and-mouth disease virus in mice</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>12</issue>
+		<pages>2017-2026</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2153">
+		<reference_name>Ward et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ward G, Rieder E, Mason PW</authors>
+		<title>Plasmid DNA encoding replicating foot-and-mouth disease virus genomes induces antiviral immune responses in swine</title>
+		<year>1997</year>
+		<volume>71</volume>
+		<issue>10</issue>
+		<pages>7442-7447</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1864">
+		<reference_name>Wiki: Foot and mouth disease</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Foot and mouth disease</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Foot-and-mouth_disease</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

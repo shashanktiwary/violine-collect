@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen102">
+		<pathogen_name>Vibrio cholerae</pathogen_name>
+		<taxon_id>666</taxon_id>
+		<pathogenesis refs="reference1328">Cholera is transmitted via the fecal–oral route through contaminated food or water. Soon after oral ingestion, V. cholerae colonizes in the small intestine and produces virulence factors, including cholera toxin (CT). Acute secretory diarrhea mediated primarily by CT causes massive dehydration and a mortality rate of 20–50% if left untreated (Xu et al., 2009).</pathogenesis>
+		<disease_name>Cholera</disease_name>
+		<protective_immunity refs="reference1328">The adapted protective immunity against cholera is thought to be essentially humoral and predominantly based on intestinal mucosal antibodies, especially secretory IgA (sIgA), which is generally considered a correlation of protection for cholera (Xu et al., 2009).</protective_immunity>
+		<host_range refs="reference1330">Cholera can be modeled in an infant mouse model (Kirn and Taylor, 2005).</host_range>
+		<introduction refs="reference1455">Cholera is an acute intestinal infection caused by ingestion of food or water contaminated with the bacterium Vibrio cholerae. It has a short incubation period and produces an enterotoxin that causes a copious, painless, watery diarrhoea that can quickly lead to severe dehydration and death if treatment is not promptly given. Vomiting also occurs in most patients. Most persons infected with V. cholerae do not become ill, although the bacterium is present in their faeces for 7-14 days. When illness does occur, about 80-90% of episodes are of mild or moderate severity and are difficult to distinguish clinically from other types of acute diarrhoea. Less than 20% of ill persons develop typical cholera with signs of moderate or severe dehydration. Cholera remains a global threat and is one of the key indicators of social development. While the disease no longer poses a threat to countries with minimum standards of hygiene, it remains a challenge to countries where access to safe drinking water and adequate sanitation cannot be guaranteed. Almost every developing country faces cholera outbreaks or the threat of a cholera epidemic (WHO: Cholera).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine759">
+		<vaccine_name>Dukoral</vaccine_name>
+		<proper_name>Oral Inactivated Cholera vaccine</proper_name>
+		<brand_name>Dukoral</brand_name>
+		<manufacturer>SBL Vaccine, Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010710</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Oral</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed bacteria. Other components: Saccharin.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store in a refrigerator (2°C – 8°C)</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine780">
+		<vaccine_name>Mutacol</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Mutacol</brand_name>
+		<manufacturer>Berna Biotech</manufacturer>
+		<vo_id>VO_0010728</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>oral</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Live bacteria. It uses the V. Cholera live attenuated strain CVD 103-HGR. Other components: Yeast extract, Lactose, Aspartame.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">oral</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine800">
+		<vaccine_name>V. cholerae CTB DNA Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011360</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pJW4303 [Ref1328:Xu et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference1328">cholera toxin B subunit (CTB) (Xu et al., 2009).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering261" gene_id="gene731">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response560" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c mice</host_strain>
+			<vaccination_protocol refs="reference1328">Mice were immunized intramuscularly with 100 μg of the CTB DNA vaccine or vector control. The DNA immunizations for mice were given at Weeks 0 and 2 in DNA alone prime boost groups, or Week 0 only for those receiving DNA prime followed by KWC-B vaccine boost at Week 2 (Xu et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1328">The immune sera elicited by CTB DNA vaccine were functional and protective against V. cholerae O1 infection in mice (Xu et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1328">Naïve suckling BALB/C mice at 5- to 6-day-old were separated from their mothers for 4 h, then inoculated by oral gavage with 50 μl of the appropriate serial dilution of the inoculum. To prepare the inoculum, V. cholerae O1 El Tor biotype Ogawa strain V48-65 growing overnight on an LB plate, were re-suspended in PBS and adjusted to 5 LD50 in 25 μl, then incubated with 25 of properly diluted immune or normal rabbit serum samples for 1 h at 37 °C. The suckling mice were kept in a 25 °C environment and observed every 4 h for 48 h post-inoculation. The survival rates were documented at each time point (Xu et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5569">
+		<vaccine_name>Vaxchora</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Vaxchora</brand_name>
+		<manufacturer>PaxVax, Inc.</manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Oral</route>
+		<location_licensed>USA</location_licensed>
+		<description refs="reference4064">VAXCHORA (Cholera Vaccine, Live, Oral) is a live, attenuated bacterial vaccine suspension for oral administration containing the V. cholerae strain CVD 103-HgR. CVD 103-HgR was constructed from the serogroup O1 classical Inaba strain 569B by deleting the catalytic domain sequence of both copies of the ctxA gene, which prevents the synthesis of active cholera toxin (CT). (FDA: Vaxchora)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at −25°C to −15°C (−13°F to 5°F), and protect from light and moisture.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3142">
+		<vaccine_name>Vibrio cholerae hemA mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002934</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering654" gene_id="gene899">
+			<type>Gene mutation</type>
+			<description refs="reference1661">This hemA mutant is from Vibrio cholerae (Ravichandran et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response966" host_id="host6">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1661">A hemA mutant is highly attenuated in rabbits (Ravichandran et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1661">A hemA mutant induces protection in rabbits from challenge with wild type V. cholerae (Ravichandran et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response142" gene_id="gene1175">
+			    <description refs="reference1661">VCUSM2 elicited high titer of anti-LPS IgG/IgA antibodies on the fourth week post-vaccination.  These titers were comparable to those elicited by the wild type strain and were significantly higher than titers pre-vaccination (Ravichandran et al., 2006).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response143" gene_id="gene1176">
+			    <description refs="reference1661">VCUSM2 elicited high titer of anti-LPS IgG/IgA antibodies on the fourth week post-vaccination.  These titers were comparable to those elicited by the wild type strain and were significantly higher than titers pre-vaccination (Ravichandran et al., 2006).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene731">
+        <gene_name>ctxB</gene_name>
+        <strain></strain>
+        <vo_id>VO_0011270</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>110264635</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279687</xrefs>
+        <taxonomy_id>127906</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>cholera toxin B</protein_name>
+        <protein_pi>8.47</protein_pi>
+        <protein_weight>11386.27</protein_weight>
+        <protein_length>165</protein_length>
+        <protein_note>Heat-labile enterotoxin beta chain; pfam01376</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABG56901.1 cholera toxin B, partial [Vibrio cholerae O1]
+MIKLKFGVFFTVLLSSAYAHGTPQNITDLCAEYHNTQIHTLNDKIFSYTESLAGKREMAIITFKNGATFQ
+VEVPGSQHIDSQKKAIERMKDTLRIAYLTEAKVE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The immune sera elicited by CTB DNA vaccine were functional and protective against V. cholerae O1 infection in mice [Ref1328:Xu et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene899">
+        <gene_name>hemA</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>12656010</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:178819
+CDD:133452
+CDD:144372</xrefs>
+        <taxonomy_id>666</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glutamyl-tRNA reductase</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>419</protein_length>
+        <protein_note>glutamyl-tRNA reductase; Reviewed; PRK00045</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|12656010|gb|AAK00701.1|AF227752_2 glutamyl-tRNA reductase [Vibrio cholerae]
+MSLLAIGINHNTASVELREKVAFGPEKLSLALNQLSTSSHVKGGVILSTCNRTEIYCDVRSASKNKVIEW
+LSQFHQVSLDELKPSLYVHEEQAAIRHLMRVACGLDSLVLGEPQILGQVKQAYAEARENHAVNPATEKLF
+QKAFSVAKRVRTETEIGGSAVSVAYAACTLAKHIFESLADATVLLVGAGETIELVAKHLAGHHCKRMIVA
+NRTRERALSLAQQFGADVIALNEIPDYLAQADIVISSTASPLPIIGKGMVESALKARRHQPMLLVDIAVP
+RDIEPQVGKLNDAYLYSVDDLQSIVDSNIEQRKVEAIQAEAIVSEESATFMSWMRSLQAVDSIRDYRKQA
+NEAREELLNKSLQALAAGGDPEKLLIELSNKLTNKLIHTPTRALQTAAEQGEPAKLAVIRQSLGLDDLN</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A hemA mutant is highly attenuated in mice and rabbits and induces protection from challenge with wild type V. cholerae in rabbits [Ref1661:Ravichandran et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1175">
+        <gene_name>IgA</gene_name>
+        <strain>Oryctolagus cuniculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>4063655</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:143182
+CDD:197704
+CDD:209398</xrefs>
+        <taxonomy_id>9986</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>immunoglobulin heavy chain VDJC-alpha transrecombinant region</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>306</protein_length>
+        <protein_note>Immunoglobulin (Ig) heavy chain (H), variable (V) domain; cd04981</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|4063655|gb|AAC98362.1| immunoglobulin heavy chain VDJC-alpha transrecombinant region [Oryctolagus cuniculus]
+METGLRWLLLVAVLKGVQCQSVEESGGRLVTPGGSLTLTCTVSGFSLNTYPMQWVRQAPGKGLEWIGWMN
+NNGNIYYASWAKSRSTITRNTNENTVTLKMTSLTTEDTATYFCARYLSSHGYDIWGPGTLVTVSSDPVNT
+RPILIPLPCPILGPGEPVVIGCLIRGFFPLGPLSVTWNTSGENLTFPPVQSATSSLYTTCSLLRLPAEQC
+PEENSVACHVEHNYDKGQDVTVPSPPECQPPTPGPSDTTTCPCPCPSPSCGEPSLSLQRPDLRDLLLNSN
+ASLTCTLRGLKNPEGAVFTWEPTNGN</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1176">
+        <gene_name>IgG Fc fragment</gene_name>
+        <strain>Oryctolagus cuniculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>100343867</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>9986</taxonomy_id>
+        <chromosome>Un</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>315920</gene_start>
+        <gene_end>352013</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>Fc fragment of IgG binding protein</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|283557656:315920-352013 Oryctolagus cuniculus breed Thorbecke inbred unplaced genomic scaffold, OryCun2.0 chrUn0214, whole genome shotgun sequence
+CATGGGTTCCCTGAGAAGCTGGTGGACGCTGTGGGCCGGAGCCACCCTCCTGTGGGGTAAGTCAGACCCA
+GTCCCCATCTGTGTCTTTCTCCCACTCTGCCTGGGTGGCCCATGCCCAACTTGTGCCCCTCCAGGCACTC
+GCCTTCCGAGGCCTCCCCATGCCAGCTGGGATGGGAGAGAGGCCCCCAGTTCCTGCAGAGGGGCACGGCG
+GGCTCTGCCCAGGCTCACTCTTCTGGAGGGAAGCCACAGAGCCCTCGGCCCCCAAAGCCGAGGGCGCAAC
+AGAAACCACTGTCTTGGTTCTCTGCAACTCAGCTAAGCCATGGCTCTGAGTCTCCTTCTGCCAAGGTGAT
+GGGAACCGTCACCAAGGACATTCCTGGAGAGCTCTGGTGCCCAGTTCTCCTGGGGGAACCGCCAAGAGTC
+TTAGGTGAACCCGGAGGTCCCTTGACTCTTGACCCCCTGGGCCTGGGGCACACTGGGATGTCCTCCAAGT
+CTCCCTGAACTTGGCAAGTTGTCACTCCAGCGCCCCCAACTCTCTCTCTATCTCTCTCAGCACTGGGCAC
+TCTCTTCCTGGTAGGGGCTGTTGAGACATCCACCTTTCCCACAACCCCCTTCTTTCCTTTACCTTCTTCA
+CACAAACCCTCCGGGTCGTATCAAGACAAAAGTCACCCGCCGGCCGCGGAGTGCTGCCGGTTGGGACCCC
+CGAGGTGCCTCAAAACAATTTTGGGTTGAAGAGTTCACATACACATTCAGAGAGCCAGTTTCTCTTGAAC
+ATGGTAAGATCTAGCACTGAAGATAAAAATAAAAATAAAAAAAGGCCGCAATCCCTCCTGTCAGCCCCCT
+GCAACAGCAGGCAGCGAGCGCCCACTCTGCCTTCCACGTCGCCGCGGGACTGCGCGTCTGTGTGTCTCAC
+CGGCCCCCTCAGCACCTGAGAGCCCTGTCCAAAGAGTTTGGGCTTGTAGAAAAATGAAAGCCAGAATGGC
+TTGTAGGCAGGTGAGCGGTGCAGGAATAAGAACAAAGGCAAGAGAAGAGGAAAAAAAAAAAAGTTCCTGG
+CACAGGGCAAAGGGTTGGCCGACTGACCAGGCGGATTAGGTAAGTGGACCAACGACTGCATTTTCTCAAG
+GGTGGACCCAGGAGGCAGCTGTGGAGCCCAGGAATCCTGGGGGGCAGGAATTCCTCATGGCCTTCCTGCA
+GAATTACCAGCCCGAGTACAGCGCCGCCTCCCTCTACCTGCTCGTGTCCAGCCTATCGGAGAGCCCGGCC
+TTGGTCTCCGTGCTCAGCCAGGCCGACAAAGCCTCGCAGACGGTCACAGTGAAGCCAGGGGAGTCAGTCG
+TGGTCAATATCAGTGCTGCGGCTGAGATGACCGGCAGCAACATCTTCCAGCACGCGGTTGTGGTCCGCTC
+CGACCACCGCATCACTGTGCAGGCCCTCAGTGCCAAGCCCAGCACGGCGGAGCTGACCCTGTTGCGACCG
+GTCAGCGCTCTGGGCACCGAATACTTCGTGCTCACACCCCCGGGTACCTCAGCCAACAGCCTCAGGGAGT
+TTGCTGTGGTGGCCGGGGCGTCAGGTGCCTCGGTCAGTATCACCCTGAAGGGGGCAGTGACGTTCCAGGA
+CAAGATCTACCCAGCAGGCGATGTGCTGAGCGTGACCCTGCAGCCCTACGAGGTGGCTCAGGTACAGGGC
+GAAGTTGATCTCTCGGGATCGAAGGTCACAGCCAGTAACCCTGTGGCTGTCCTCTCGGGCCACAGCTGTG
+CCCAGAAACACACAAACTGCAACCACGTGGTAGAGCAGCTGCTGCCCACGTCTGCGTGGGGCACCCAGTA
+TGTGGTGCCCCCACTGGCCTCCCAGAGCCGCTATGATCTGGCCTACGTAGTGGCCAGCCAGGCCACGAAA
+CTGACCTACAACCACGGAGGTACCACAGGCTCCCGTTCACTCCAGATGGGAGGCGTGGTAGAGTTTGAGG
+TGCGGCCGTCCCGGCCACTCTACCTGTCCGCAGATGTGGGCATCCAGGTCCTGCTCTTCGGCACGGGGGC
+TATAAAGAATGACATGACCTATGACCCCTACCTGGTGCTGATCCCGGATGTGGCAGCCTACTGCCCCACC
+TATGTGGTCCAGAGCGCACCAGGCTCTATGGGTGTGGCTGTGCTGGTGGCACAGACAAAGGCTGTCAACG
+GGCTGACCATGGATGGAGACACGCTGAAGGCCACGCTCCCCTGGGTGGCTGTGCCAGGCAGTGAATTCTC
+ATATACTGAAGTGGACCTTGGCACAGCTAACAGGATTCACACAGTCAACGCCAACACCAACATCGGGCTG
+CTCACGTTCGGGCTGGGCCAGGCTATGGGCTACGGGACAGCAGCTTCCTGCGGCCAAAGTGAGTGATGGG
+AAATGGCCCCTGGCCCCCACCCACCTGCTCCTCCATGGCTTTCTGGTTCAATGGGGCTGTCCACCCTCAC
+CTCCATCCTCCCCGCCATCCTTTCTTGAGTCCAGGACATGGATGCCACTCAACTTCAAGGGATCACTTTG
+GGGCTTGGATAATCAAAGAGAGGAGGAATCGATGATCCATCTCCGTAGCTAACACTCACTGTGACACCTG
+GGTTCACTTCCAAATCTTACTTCTGTTTTAGCTTCTTCAGGGGCGGGCATTGTGGTGCAGTGTGCTGAGC
+TGCAGCTTGGAATGCCCACGTCCCAAATCGGAGTGCCAGTCTGAGTCCCCCCACCTCTGCTTCTACCCAG
+CTTCCTGCCAATGCATCCAGTGGGGGGAGGGGGAGGCAGCAGATGGTGGCTCAAGTACTTGGGTCCCTGA
+TGCCTATTTGGGAAACCCTGTTGAAGTTCTGGGCCCCTGGCTTAAGACTGGTCCTGTGCTGGCTGTTACA
+GGCACTTGGAGATTAAGCCAGCGGATGGAGTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTC
+TCTCTCTCTCTCTCCCTCTCCCTCTCCCTCTCCCTCTCTCCATCTCCCCCACTCACTCTCCTCTCTCCCT
+CTCTCCCTCCTCCTCTGCCTTTTAAGTAGATGAAAACAACTAAACATCTTTTAAAAATAAGCAAAACCAT
+CTCCACACCTCTGCCAGATTCCCCTATGGAGATGGGATTGCTATCCTATTCCCCTCATCCTACGAATGAG
+GCAACTGGGGCACTAAGAGTTTAAAAATAAGTTGCCCGGTGTCTCCGAGCTGCATGATGCAGCCCGGATT
+CCTAGCTAGACAACGTGACTCCACAGTCATTGCCACTGTGCTGAGCGGCCTCTGCCTTCTACTTTCTGCT
+CTTCAAAAGATCCCTCAGCCTTTAGAGCCTGGTGGGATGGCAGGGGTGAGGGGGAAAAGGGAGGGAATAC
+AATGAAGATGTCAATAACAGTTCCTGTCACTCCATCTGCACTGCCTTCCCTTCTGCTCAGCTGCTCTGTG
+TTAAACAGGGGGATCAGAAAGCCCAGGCCTGAGCAGCTCTGTCTCTGTGTGATGCCAGCCCTCAGTCTCC
+CCATCTCTAAAATGGGCAGCTATGAATGCACTCCTTGTGGTGAGAGAGACCCAGGACTCCTGCCCCTGTG
+GGCATTTCTTTTTATTTTTTCTGAGGCAGTGAGAGAGAGAGATTTCATCAGTTGGTTCATTCCCTTTGCA
+AAGGGCCAACACAGTGGGAGCCAGGAGGCAGACCTCAATGCAGGCCTCCCACATGGGTAGGGGAACCCAG
+CCCCACTGCCTGCCAGGGTCTCCAGCCAGCAGGAAGCTGTAGCCAGGAGCCAGAGGTGGGAACTGGCCCC
+AGGCACTCTGATGTGGCACGTAGGTTTCTGGACCATTGGGCTAATGGCCCCCGCTGGCCCTGGGTGTGGC
+TGACTCTGCTCCCACCCTCTTCCCCCCAGGCCTGGTGTCCTCGGAGGAGCCCTCCTGTGAAGGCGTGACG
+TGCGCGGCAGGGCAGCAATGCCAGGTGGTGGACGGGAAGGCCGTGTGCGTGGCAGAGTCCACGGCCGTGT
+GCCGCGCCCAGGGCGACCCCCACTACACCACCTTCGACGGCCGGCGCTATGACATGATGGGCACTTGCTC
+CTACACGATGGCCGAGCTGTGTGGCTTGGACGAAACCCTGCCTGCCTTCAGCGTGGAGGCCAAGAACGAG
+CACCGGGGCAGCCTCCTGGTCTCCTACGTGGGCTTGGTCACCGTGCGTGCCTACAACCACGACGTGACAC
+TGGCCCGCGGGGAGGTCGGCTTTGTTCGGGTGAGTGTCCGGGGGCTTGGGGGCTTGGCCCCCTGGGAGCC
+GTGAGTCTGAAGGCAGAGGCAAAGGCCTTTCTGTGGGCTGGGGAGTGGGAGACGGGGAGCGGGGGTTAGA
+AAACAATAGCTGAGCCTTAAAACCTTTCAATGCCACGTCTAGAAATTCCAAAGATGCTCAGAAAGACAAT
+TAGAAAAACAAATATGCCAACATGGTGTACAAATGAGGAATTTCTTTCTTTCTTTCTTTCTTTTTTTTTT
+GCTTTAAAGATTTATTTTATTAATTTTAAAGAGAGTTACAGAGAGAGGTAGACAGAGAGAAGAGAAAGGT
+CTTCCATCCGCTGGTTCACTCCCCAGGTGGCCACAACAGATCGGAGCTGTGTTGATCCAAAGCCAGGAGC
+CAGGAGTCTCCTCCAGGTCTCCCACATGGGCGCAGGGGCCCAAAGACTTGGGCCATCTTCTACTGCTATC
+CCAGGCCATAGCAGAGAGCTGGATCAGAAGAGGAGCAGCTGGTACTAGAACTGGCGCCCATATGGGATGC
+CAGCACTTCAGGCCAGGGTGTTAACCCACTGCGCCACAGCGCTGGCCCCATGAATGAGGAATTTCTTGGG
+ACCAAATCACTGACCTATTTAAGTGCCCCAGTTGGTTCTTAGCTCTTAATGCTCACAGCAACTCTGGGAG
+TAGGCCTTGTTATTACGGACATGCACAGAGGAGGGTACAGGGTGGGAAAGGTGAGTGATGCCCCAAGCAC
+TGGGAGCTGTAAGAGCTGGCGCTGGGAACGCAGGCAGACTGGCTCCCAAGTCCCCGTTCCTCGTCCCGAG
+TCTCTCTCTTCCACTGCTTGTCCGTGCTGTGCCGTTCCGCCAGTACCAGCAGCATCTGGAGCAATGACTT
+CCTTTTTTTTTTTTTTTTTTATTTTGACAGGCAGAGTGGACAGTGAGAGAGAGAGACAGAGAGAAAGGTC
+TTCCTTTGCCGTTGGTTCACCCTCCAATGGCCGCCGCGGCCGGCGCGCTGCGGCCGGCGCACCGCGCTGA
+TCCGATGGCAGGAGCCAGGAGCCAGGTGCTTTTCCTGGTCTCCCATGGGGTGCAGGGCCCAAGCACCTGG
+GCCATCCTCCACTGCACTCCCTGGCCACAGCAGAGAGCTGGCCTGGAAGAGGGGCAACCGGGACAGAATC
+CGGCGCCCCGACCGGGACTAGAACCCGGTGTGCCGGCGCCGCTAGGCGGAGGATTAGCCTAGTGAGCCGC
+GGCGCTGGCCTGATTTCCTTTTTTGTCACGTTATTATGAAAATGTTAGAGCATCCAAAGCAGGTGAAATC
+ACCAGACAGTGAACCTCGTGGGCCCAGCGCCTCAGTTCCAAGCTTTTTGCTATTCTTGGCTGATTAGACC
+TCTGTCCACACAGTCTGCCCTCCCTCCAACAGCCGCTCTTGTCTATGTGCCTGGAAGTAAGCTCTGCACA
+CCAGCTCCACTTTCTGTAAGGTCTCCTCATGCAGATCACCCAGAAGGGTGCACTATTGTAAAACTCCCCC
+GTTTTGTTAATTTTAAGATTTTTAAGAAAACATTTAGTTTGTAACAGATTCAATATAGCTTTTAGATATG
+ATTCTAAGGATATAATGACATTCCCTTCCTCCTTTTTCCATGTTTTCAAGATTAAACTTACATATCACAA
+AATTCACAAATTGCAAATGAGCAGTTTGCTGTTTTGGCAAATGTGTAACCCAGAGTCCCATTAAGATACA
+GAATATTCCCATCAACTCAGAAAGTTCCCTCCCGAACAACCCCCAGCCCACTGCACAAGGCACAGTTCTA
+ATTTTTTTTCCCCACCATGATCTACCGTGGATCAGTTTTGCTTGCTTAAGAATGTCCAATAAAAGCAGGC
+ACACAGCTTAGCAGGCAAAGAATTCACATAGCACAAAATAAAAGGGGTAAGATACAAAAGATCTTGTTTC
+TATTCCAGTCTTCATCTACTCCCCTCCTCCGCCCTCCCCCCCACCCTCCCCCCACTCCTTACAGATAACT
+TCTCCTATTGGTTTCTGGAGAATTCATCTAGAGTTTCTTCCTGCCAATAGAAGCAAATACAAGCGGATGA
+CTTACCTTTCCCCTTTCTTAACAAAATGTACCCTACATGCTCCATTCTGCACTTGACCGTACCTTCTGGG
+CCCCTTTCCCTATCAGCACGTAGGGAGCCTCCTCTCTTCTTTTGGGTGCGGGGATGGGGGAGCTGCACAG
+TTCTGCATGGGATGAATGTCCCAGAGTTCACTGAAGCAGCGTGGGAGGGATGGATACTGTTCCATCTTGC
+AAACAGTGCTACAATGTATATTCTTACACCTGCTCAGCCTGTGAGTGTGCAGGTGGATCTGGGAGACCAA
+CAACCGGGTGTGTTACAGCAGGTGTTCTAGCGGGATAGGGCACAAGCTCAGGGGACTCCCGAGCCGCTGC
+AGTTGTGTGCAGCTTCTCATGGATCTTCTGTCAGCTCCTCACAGAGGTCACTGACTTTCTCAAGAGTTGG
+CGCTCCTGGTAGAATCGTGGTAGGATGTGCACAAAACATCGTGAGAAGGAGAGAGAGATCATGAAACTGT
+GACTTCTGCATGGTGGCATTATCTTTTTTCATTAAAGTATAAAAGCATTGAAAAGTAGTTGGAATAACAA
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNCCCCTGGACTGAGAAGCTGTGAGCAGGGGTCCCTAGCACTGGCTGGCGTGTTAC
+ATGGATGCATAGTAGGACTCCTGGTGGCTTTGCTGCAGGCCTGGGTGCGTGCATTCTGTCTTCTCCTCCT
+GCCATTGCTGAGGCTGTCCCCTCTGCCTGCTGCTCCTGTTTTTGGAGCTCTGGCACTTGGCTAAGACGTT
+CTCATCCCTCAAGTCTCAGCTCTAACATAGCCCCGGACATGTGTGAGGAGTGAGAAAGAAGTGTCTGCGG
+ACACACCGAGATGCTCCTGGCTCCTGGTATCTCAGGCAGCCCTGGCTGCCACAGCAGGGGTGGCTTCTCA
+ACAGCACAAGCTTCTAGCTCTGCTCTACAAGCTGGGAGCCTGAGGTCAGGGTGCCGGCATGGTTGGGTTC
+TGGTGAGGGCCTGCCTGCAGCCTGCAGACTGCAGGGTTCTCACTGTGTCCTGACCAGAGAGCGCTCTGCG
+GTGACATCATTCACCCATTGTGCACCTGCTGTTTTTACCAGACACAGTTTCTGCCTCTGTGGATAAAGCA
+GCAAAGTGCCTGGGTAGCGCAGATGTCTGGTGGACTCAGACTGACAATAAACAGGATGAATTTGCAAGTT
+ACTTTTTAGAAGGCAAGAAGCTATTCTTAACAAATGAAACATGTCAGGGGAAAGACATAGGGAATGGAGA
+GGGCTCGCCATGTGAAACAGGGCTGGGATGGGCATTTAGCCTGGCAGTCAGGATGCTGGTTCAGACGCTT
+GCAGCCCACACTGGAGTGCCTGGGTTCAAGTCCCAGCTTGGGATCCTGCTCACAGCTTTCTGTTCATGAA
+GACCCTGGGAGGCAACGTGGGTCCCTGCCACCCATGAGAGAGACCTGGATTGAGTTCCTGGCTTCCAGCT
+TTGCCCCAGCCCAGCCCCAGCTGTTGCAGACAGTTGGAGAGTAAACCAACAGATGGGAGTTCTCTCTCTT
+TCTCTCAAATAAATAAAAATGTAAATAATTAAAATAATAAAAAGAGAGAGTGGCCTCACAAATATGGGAA
+CAGCTGAGCAAGTGTTTTTTATTTATTTGAAAATAAATAGGAGAGAGAGAGAGGGAGAGAGAGATAGAAA
+GAGATCTTCCATCTGCTGATTCATTCCCCAGATGTCCACGACAGCTGGAGCTGGGCCAGGCAGAAGCCAG
+GAGCACCTTGAGGCAGGAAGCCCAGGGACATCCTCCACTGCTTTCCCAGACACATGAGCAGGGAGCTGGA
+TTAGAAGTGGAGTAGCCACGACTTGAACCCGTGCTCGTATGGGATGCCAGTGTTGCAGGCGGCAGCTTAG
+CCCCTTATGCCACAACACCAGCCCTCCCTGAGCAGATATTTTCTGTGAGCCAAGGAAGTGAGCCACATGC
+TCATCTTGGGCAAGATCACTCCTGGCCACAGGAAGTGGGAGAGCAGAACTGTGGAGGCACAGAGGGTGGC
+AGTAACAAGGAGGGATCCCAGGACAGTGAGACCCGGGCCAGGGAGCAGCCAGCCCACCCTGGGCTCTGAC
+CACCCCACCTCACCCCACCTGCAGATCAACAACCAGCGTTCAGGCCTGCCAGTCTCCCTGAGCAAGGACC
+GCCTGCGCGTGTATCAGCGCGGGACCCGGGCCGTGGTGGAGCTGGACTTCGGGCTGGTGGTCACCTACGA
+CTGGGACGCTCAGCTGACCGTGAGCCTGCCTGCCAAATTCCAAGACCAGGTGTGCGGGCTGTGTGGCAAC
+TACAATGGCAACCCCGCCGACGACTTCCTCACACCCGACTGGGTACAGGCCTCGGATGCCCTGGAGTTTG
+CCAACAGCTGGAAACTGGACGATGGGGATCCCCTGTGTGATGATGGTTGCCAGGGCAACTGTCCCTCCTG
+CACCGCAGCCCAGACCGAGCAGTACAAGGGCGACCATCTGTGCGGCATGCTGACCCTGGCTGAGGGCCCC
+TTTGCCCCCTGCCATGAGGTCCTGGAACCCCAGTCCTTCCTAGATGATTGTGTGTACGACCTGTGTGTGA
+CGGGCGGGGAGCGGCTCAGCCTGTGCCGCCTCCTCAGCACGTACGCCCAGGCCTGCCAGGAGCTCGGTGT
+CTCTGTCACGGACTGGAGATCGTCAGCCAGCTGCCGTGAGTGATGCCACTAGGGGCGCCCGGGGCACATG
+GGGATAGACAGGCGGGCCTCTTGGGTCTGCTTAGAATCTGAGCCCTTAGTTTGCTTGAGACTAATGCCGA
+GCCTATCTGGGGCACAAGGATGGCCAAGACAGCCAGGGTCACGGCAGGCATAGCAGTATACGGCGACACC
+CTGGAGCCGTCAGGCTGGGGGTGGCAGAGAGGTTGAGGCTGGGTTGGGGAAGTTCAATGGCATTGCAGGA
+GACACACAGTTCTTGATCTAGATGAGGGGTGTCAGGAAGTGTTTCCTAAAAAAAGGGGTGCCCAAGTTCA
+AAGCCACAGGAAGAAGTAGGAAAAAAGGAGGAGAAACTGGGTTCCTGGGGGACAGCACGTAGAGGCTTGG
+CAGGAGAGGAGATCTGCAGGATCCCAACAGAGAATTGTGCAGCCTCTTCCCACTCACCACCCTTGTGTGA
+CTCGCTTCTCCTCCCTGGATCAGGTCCAAGCCTTTTGGCCAGGTGTCATGCACTTCAGTCACTCACTCAT
+TCAGTAAATGAGCCTTCCTTGGGCCCCCTGCCTGGCCCTGCATCACCAGTGGGTTCGTCCATCTCCCTTC
+CCCCTTTCATTTCCACATCTGCCTCATTTCTGAGCACCTGCTGGGTGCCGGGCCCCTGTCCATGGTGCTG
+AAGACTCAGCAGTGACTGAGGCAGACCAGGTCCCCACTGCCACAAAACTTACGTGCCAGGGAGAGAAGGG
+GGAGACAGACAGCACGCAGGTAAAGTGTGAAATAGCTTCAGAGAGCAATAGGAGGAAAGTTTGCACGGTG
+GAAGTGGCTGCGAGACTCCTAGAGCAGGGATGGCCTTTGTGAGCAGGTGGCATTGGAGCTGAGATGGGGC
+GGGGGGCAGGCAAGGCAGGCAGCAGTGATGTTTGTGGAGCACTTCCACATCAATAACCCATTTAATCCTC
+ACAACAGCTCTGTGAGGCCGGTGCTATAGCATCCTATTTACCAACAGGGAAACCAGACAAGGGGAGATGG
+GAGTCATTTGCTCACCGTCACACAGCTAAGAAGGAGCAGAGCTGAGATCTGAACCCAGGCTGTCTGGGCT
+CCAGTTGGCATGCTCTGTGGATGCCGTGCTGAGGGAAGGGTACACCAGGCAGAGGGAACAGCCAGTGCAA
+AGGTCCTGAGGACGGAGGCCACTGTGACTGGGGCAGAGAGAGAGGGAGAGGAGATGAGAGCAAGGGAGAG
+GAGATGAGAGCAAGGGAGAGGAGATGAGAGCAAGGGAGAGGAGATGAGAGCAAGGGAGTGGTGGAACAGA
+TGGTGCAGGGCCTTGGGGTGACTGATGGAACCTCAGGAGGGCCCTAAGAGGGGACAAACCTGATCTGATT
+CAGGTGTCCCTGGCTGCTCAGGGCAGGCAGGTGGGAGTCCAGGCAGCAGGCAACATGCTGGATAGGTTTT
+GAATATGGAGTTCCCAGGACACACTGGCAGGTTGGTTGTCCAGTGGATGGCAGTGGAGTGGGAAGGGAGC
+TGCTCAAGGCAGAGCTGGGGGTTCGGGCCTGGGCCGTTGTCATTGACTGAGAGGATAGTGCTGAGTTTGC
+AGCCAGCAGAGGGGGGTTGCTGGGGGAGCCTGGACACTTGGCCTGACCCACCCTCATGTCTCCCCTGCAG
+CCTTGTCCTGCCCCGCCAACAGCAGCTATGAGCTCTGTGGCCCCGCCTGCCCCGCCACCTGCAACTCCGT
+CGCAGCACCGTCTAACTGCTCTGAGCGCCCGTGCGTGGAGGGCTGCGTGTGCCTTTCGGGTTTCGTGGCC
+AGCGGCGGCGCCTGCATCCCTGAGTCATCGTGCGGGTGCACCTTCGAGGGCCTCCTACTGGCACCTGGCC
+AGCAGGTATGGGCTGACACCCTGTGCAAACAGAGCTGCACCTGCGATGGCACCACCCACCAGGTGAGCTG
+CCAAGACACGCAGGGCTGCCCGGAAGGCGAGCGCTGCCGCGTGGAGAACAACCTCCTGGGATGCTACCCT
+GAAAGCTTTGGTAGCTGCCAGGCCTCTGGGGACCCGCACTATGTGAGCTTTGATGGCCGGCGCTTCGACT
+TCATGGGCACCTGCACCTACCTGCTGGCGGGCTCCTGTGGCCAGAACACAGCACTGCCCAGCTTCAGCGT
+GCTGGTGGAGAATGAGCACCGGGGCAGCCAGACCGTGAGCTACACAAGTGCCGTACAGCTGAAGGTCTAT
+GGGGTGGAAGTGGCCGTGAACCGGAAGTACCCTGGGCAAGTGCTGGTGAGTGACATGGGCCCAGAGCTGG
+GCAGAGGGGAGGGAGACCCCCGGGATGGGAGTTGGGGCCTGCTCCTCCTGGCCTGTGTGCCTTAGTCTTT
+CACTGCCTGAGTTTTGTCCCCTGTTGAGAAGCATGAGTGGGGGCAGTTCCCGGGCTGGTTGTGGGGACTT
+GGGGAGTTGGTCGTTGAGTGGTCTTTGAAAGAAGCCTGGGGGCCTGGCAGGAGCTCAGCAAATGTTGGCT
+ACTGCTTATTGTTGTTGTTGTTATGCACACTCGGAACTGTAGACCCGTGCGTTTTCTGTAGGATGCTGGT
+TTTTCAGGGTGCAGGTTGACATGTCGGGTGACAGGTGAGATGCCGGGAGCTGGAGGGGAGTGGATCACAG
+AGGTCCTTACCCGATGTCTCCAGGGATGCTGGTGGGGAAGGCCTCCCAGGGGCCCCAATGGTCCCGGGTT
+TCTGTCCAGAGGATCCTAGAGGGACTACTGCCCAGTGGGAGCCAAGGGCTACTGGCTTTGTGTTAGAAGG
+TAGACATGGAGACGTGGGACTGTTGTGGCTGGTATTTGGTACTGAGCAGTGGCCTGTAGCCTGGGGAGAG
+GGGTGGATGATGTGTCCAACACCACTCTAAACCCTTCATACATCTTAACTCATCACCCTCACGACAACCT
+CGGAATAAAGGAAATGCTGCCCCCAGAGAACACTCTAGAGAAACGGGACAGAATTTTGACTGTATTTCTA
+GTCACTGCTCTGAGATGACACTTGGGCTGAGGCTTGGAGAATACCAACCAACACATACTGGGTTAATTTA
+ATGTGCTGTATCCATATGCATCAACCTGTTTAATCTGTACCACAACCCTGTGAAGTAGCTGGTCTTCAGT
+GAGACTGGGCGGGGCTTCAGTGAGGATGGGCGGAGTTCGGCGAGACTGGGCGGGGATTCAGTGAGGCTGG
+GCGGAGTTCAGTGAGGCTGGGCGGAGTTCAGTGAGGCTGGGCAGGGCTTCAGTGAGGCTGGGTGGGGCTT
+TGGTAGAGTTGGGTGGGGCTTCGTGTGCTCAAGATGCCCGCCTGCCTGGAGTGGCAGGAGTTGGGGGTGG
+GCCATACTGGGGGGTTAAACTGGGGTTCTTTCAGGCCATTGTAAAGGGTTTGGATCAAAGCTGAACCTAA
+CAGGTGAGGTGGATGGAAGTGGTCCCGGGAAGAGCGATGAGGGCATAGCAAGTGCAGAGGTCCTGAGGTT
+GGGGATGGGAATGCATTTGATGTGCCCAGAGACACAACAAGAGGCCAGAGCGGCTGGGGCTGAGTGAGTG
+GTGTGGACACAGGAGTGGACAGGGCAGGGGTCAATCAGGACTTTATAGGGAAGGGGCCTGGATTGAAGGC
+AAATCCCAAAGGCGGGGAGGAGGGGGTAAGTGTGATGATCCTGAGGCCAGGCTGAGCTGGGGCAGCTGAG
+GGCTCCTGAGCAAGCCCACAGGGCTGGAGCAGAGGGAGGGGCAGAGTGGGAGGAGGGAAGCTCAGGGGGT
+GGCAGGGAGACAGAGCAGGCAGGCTTTGAGGGCCCTGAGTCAGAGGTTTGCATTTAAGCTGATGCCTGAA
+GAACCAGGTCAGTGGACGGCGTTCCAGGCAGAAGGAAACAGCAGGTGCCAAGGCCCTGAGGCAGAACTGA
+GCATGTTACCTTCCAGAGAGTAGCAAGGAGGCCAGGGAAGCTGGAGCCAAGTGGGAGGGGGGTGAGCCAT
+GGGGCCAGGAATGCCTGGCCTCTGCACCCTCCTGCCTCTCCCCCCAGGTGGATGGCGTCCTGAAGAACCT
+GCCCTTCCAAGCAGCCGATGGGCGGGTGCAGCTGTTCCGCCAGGGCAACAATGCTGTCGTGCGCACGGAC
+TTTGGCCTGACTGTCACCTACGACTGGGACGCCCTGGTGACCGTCAAGGTGCCCAGCAGCTACGCGAAGG
+CCCTGTGTGGACTCTGTGGGAACTTCAACGGGGACCCCAGCGATGACCTGGCTCTGCGCGATGGGAACCA
+GGCTGCCAATGCTCTGGACTTCGGGAACAGCTGGCAGGAGGGGACGAGACCTGGCTGTGGGGCGAGTGAC
+GCCGGGGACTGTCCCACGCTGGACTCGCAGGTGACCCAGCAGCTGCAGAGCAAGAAGGAGTGTGGGATCC
+TTGCTGACCCTGAAGGACCCTTCCGGGACTGTCACAAGAAGCTGGACCCCCAGGGTGCCTTGCGCGACTG
+TGTGTATGACCTCTGCCTGCTGCCTGGCCAGTCTGAGCTACTGTGTGATGCTTTGGCTACATACGCTGCT
+GAATGCCAGGCTGCCGGGGCCACCGTGGAGCCCTGGAGGAGCGAGGAGCTTTGCCGTGAGTACCAGAGTG
+GCGAGGATGTATGTATGCGTGAGCATGTCAATATCATTCATTCACTGAATCTTTAGAACAGCGCTGTGAT
+GCAGGGGCTGTGGTTCTACTCACTTAGGAGATGAGGAAAGTGAGGTTCAGCAAGGCAGGGCTGCAGGGTC
+ACCACAACCAGCAAGTCACAGATGGTAGGCGTGGCCGCCAATGTTTGTGAAATGACAGGTGACATCCAGC
+GGCCGCACGTCTGAAGCCCACGTGGCAGCTGTCACTCAGAGGGCATCAGCGGTGCTGCCTTAGAAGAGGC
+ACGGCCCCCATCCAGGTCCTCCTGGTCCCCAGCTGGCCTGCTCCACTCACCCCACCTGCCAGGCCCCTTG
+GGCAGCGCGTCTGAGAGCCTGGCTGTGGATGCGGGTGCAGGGATGACCTGCAAACGTTTTTGCTCACCTG
+TGCATTTGGAAAACCACGCTTCCCCTCACCTGATTTTTTTAAAAGTTTATTTGAGAGGTAGAGTTACAGA
+CTATGAGAAGGAGAGACAGAGAGAGAGGTCTTCCATCCATTGGTTCACTCCCCAAACGGCCACAACAGCT
+GGAGCTGAGCCCATCCGAAGCCAGGAGCCAGGATCCTTTTCTGTGTCTCCCACACAGGCGCAGGGGTCCA
+AACACTTGGGCCATCTTCCACTGCTTTCCCAGGCATAGCAGAGAGCTAGATTGGAAGAGGAGCAGCCAGG
+ACCAGAATCGGTGCCCATATGGGATGCCGGTGCCTCTGGCAGAGGATTAGCCTACTATGCCACAGTTCAG
+GCCTCACCCTCACCTGATTTTTAAAAATCTTGGGATACAATGTACATATTCAAAAAGACCTGGGTAAGGG
+AACCACTTGATCAGTTTTTCAGTAAGAGAGCGTATCTGAGTAGACAGCCCACGTTCAGAGAAAGAACAGG
+GGCGGGCGTTTGGCACAGTGGTTAAGATGTCACTTGGGATTCCTGTATCCCATATCATAGTGCCTGGGTT
+CAAGTCCTGACTCTGCTTCCGACACACCTTCCTGCTAATGTGCACCCTGGGAGGCAGCAGTGACAGCTCA
+AGTGCTTAGGTCGCTGCCAACCACATGAGAAACCCTGATGGAGTTCCTGGTTCCTGGTTTTGACCTGGTC
+CATCCCTGGCTGTTTCAGGATTTGGAGAGTGAGCCAGCAGATGGAAGATGTCTCTGTCTCTTTGTCTCAC
+TGTCTCTCAAATAAAAATGAAAATAAATAAATGTACAAAAATTTCAAATGAGCATACCAAGACCCCCATC
+CCAAGAGGTAACCAATATTTTGACTTCTAAAATTGTTGAACTTCATATAAATGGAAACATACATCATTAG
+CTTTCTTCTTTGGTGTAAATAATCACAAAAGATATAATTCCCAACAAATAGTAACTTTTTACTTTTAAAA
+TACATTTTATTATGGAAAAATTCCAACATACCCAAAAGTAGACCAGGATGATGAACCTGCATATATCCAC
+CAGAAAATTGCTACCATTATTAATATAATGTTGACATCTTAGCAGGCAACTGTTACTGATGTAACTCTCT
+TCAATGTATTCAACAGAGACACAGTACACAGTAGAGCCCACCACTGCCCCCTGCAGATTCCATGAGAAAT
+GGGTGGATGCCTTCAACCGTCCATCCACCCGTCCGTTCACTGATCAAATGCACTCGTGTACCATATAATG
+GTGTCTCAGTCAGCAGTGGGCTGCATATACGATAGTGTTTCTGTGAGACTGGCGGGGCCTTCACTGTGTT
+AGTTTGTGTTAGGGCACTTCATGGTGTTCACACAACTAAACTGCTCAATAATGCACCTCACAGAACATGT
+GCCTGTCATAATGTATTTGTTGGCCCTGTGCCACATCCCAGGCAGTAGGGGTATGACAGTCCTTTTTTAA
+AAGATTTATTAGAAAGAGTACAGAGAGAGAGAGAAAGAGACACTGGTTCACTCCCCAAACAGCTGCAACA
+GTCAGGTCTCGTCTAGGCCAAAGCCAGGAACCAGAAACTCCATCCAGATCTCCCATGTGAGTAGCAGAGG
+CCCAAACACTTGGGCCATGCTCTGCTCTTTCCCAGGCACCCAGCAGGGAGCTGGATCCGCAATGGGACAG
+CCAGGATTTGCACTGGCGCTCCAATATGGGGTCCGGTGTCGCAGATGGTGGCTTAACACCCTGCACCACA
+GTGCTGGCCCAGCAGTGAAAGCCTCTGTCTTCCTAAACAATGATTATTTGTTCTAAAAGAATTTTTAAGT
+GATTTTTTACCATTTGCTTATTCTTTATTTGAGGGAGGGAGGGAGGGAGGGAGAGAGAGAGAGAGAGATC
+TCCACTGATTTACTCCTCAAATGCCTGCAAAAGCCAGGGCTGGGACAGGCTAAAAGCTAGAAGCCTGGAA
+CCCGGTCCAGGTCTCCCACATATGTGGTAGGAACCCAACCGCTTTAGCCATCACCACTGCCTCCTAAGGT
+GCAAAGCTAGGATTTGAACCCGGGCACTCCCATGCGGGGTGCAGGCGTCCAAAACAGGAGCTTCATCATG
+GGACCAAGTGCCTAACCTAAAAGAGATCTTTCTTTTTTAAAAATGATTTATTTATTTGAAAGAGAGTTAC
+AGAGAGAGAAGGAGAGACAGAGAGATCTTCCTTCTGCTGATCCACTCCTCAAATGGCTACAACAGCCAGA
+GCTGCACCAGGCCAAAGCCAGGAGCTAGGAGCCAGGAGCCAGGAGCCAGGAGCTTCTTTGAGGTCTCCCG
+TGTGGGTAGCAGAGACCCAAGCACTTGGGTCATCCTCCGCTGTTTTCCAGGCACATTATCAGGGAGTGGG
+ATCTGAAGTGGAGTGACGGGGACTCAAACCGGTGCCCATATGGGATGCCAGTGTCAAAGGAGGTGGCTTA
+ACCCACTGCGCCACCTGCTGGCCCCAAAGATATCTTTCCATGAGACGAATGGGACTCTGCTTCACCAGTG
+TTTCACACACATTGTTAAAATGAGGCCGGGGCCCCCATCCAGGCTGTCCCAGGGCGCACTTTCGCAGGAA
+CAGGATTTTAAGCGGGTGGGGGTGGCCGGAATCCTGGCGAGACCTCTGTCCACTAGTTGAATCGCTTCTG
+AGTCACAGGGAAGGAGCACAGGACACTAGAAAATCCATGGGTGTTTTTGGTGTGCATGTGATTTTTGAGC
+GGCCGATTCTATCAGGCCCTTATTCCATCTTTTTGGGAGCAGAGAACTGGAAGGAATTTTTTGCCCATAA
+TGATGCATCACCCTTTGTCCTCACAACCTTAGTGACGTTTGCAACCATGTCCCTTTCTGTCCCTGCGAGT
+TCTCTCACCCCAGGGCGGCACTCCGGGGTGAGATTTGGGAGGAGAGGAGGCTGCACTGTTCTCCCCTGTC
+AAGTGGGAGCACGTGCTTGGGAAAGGACACTGGGATGCTGAGAAGCGGGGATGCCCCCTGTGCCGGCACA
+TCTCAGGCCGCCATTTAAGGAAGGGCCCGCATGGCGCTAGCTGGCGCTGGTGTAACCAGGCTCTGTTCTG
+GGGGCTTCATGTCGTCTTTGACTCCTCACTGTCACCCTGTGGGGCTGACTCTGTCCTGTTTCCATTGTAT
+AAGATGAAGAAGTGCCCAGAGATGGTGAGTAACTTGCCTGAGGTCACCCAGCATAGCACAGAGACTTGAG
+CCCAGCAAGTGTGTCCTGTGTCCTGTGAATTGCCACACTCGGTGATGCCTGTGCAAATGGACACTCTCTT
+ATTTCCTTTAACAGCTCTTGGCCCTTGCACCTTCAGAAGTTCTAGAAGGAGCAGGGCAGGGCCTGACCCT
+ACGCCCCCCAGCCTGAGCTTCTGTGGTCATTAGAACTATCTTCTGCCTCCTGTCACTCTTCATTTTTTCT
+GAAATATTCTAAAGCAAATTCTAGACATATGAGCTTTTCTATAAATACTTCAGCAAGTGCTTGCTATTCA
+GTGACAGAAAGGGGCTTTTTTTTTTTTTTTAAAGAAACTTCATTTATTTGAAAGGCAGAGTTACAGAGAG
+GTAGAGGCAGAGAGAGAGGTCTTCCATCTGCTGGTTCACTCATCAGATGGCCACAATGGCCAGAGCTGCG
+CCGATCCAAAGCTAGGATCCAGGAGCTTCTTCCGGGTCTCCCACATGGGTGCAGGGGCTTAAGGACTTGG
+GCCATCTTCCACTGCCTTCCCGGGCCACAGCAGAGAGCTGGACTAGAAGAGGAGCAACCGGGACTAGAAC
+CCGGCGCCCATATGGGATGCCGGTGCTGCAGGTGGAGGATTAACCTAGTGTGCCACTGTGCTGGCCCCTT
+TTAAGTCATTTTTATTCTGTAAAAACTTCCTTCCTTTCCCCCCAACACATGTGGGACTGCAAAAAAAGTT
+CATGGGAAATATGTATTATGAAAATAAAAACTGCACTCAAATAAGCTTTTCTTTTAATTCCACCTTCCAC
+GACCCTTCTGAAATGCCCTTATATCATTATGAAGTTTTTTAGATGTAAAGAAAAGTTGAAAGAATTTTAC
+AGTGATTGTCAATACCCCCCCAGCCCATGCTCCACAACCTATTTGCCCTCTACCTGCTGGCTCATTAGCT
+ACCACTGTCTACCCCCTTGCATCAGCCAGATTTTCGTCGCTATAGTGAAACACCTGGGGTAGGCATCTTT
+ATAAAGAGAGGAGGGTTATGTGGGGCCGCTGTTCTTGAGGTGCAAGGTGTAGGGGCTGCATCTGGTGAGG
+GCTGAAAGTAGCATGGGACATCACATGACAGGAGCCGGCCAGCATACTGGCAGCAGCATTTCCCACTTCC
+CCTCTGCTCTTTGGTTCTGCTCTGAACTGGCTGTTGGATCTAGAACCGTGCTGTGGGGCTGGCATTGAGG
+TGTAACGGGTGAAGCTGCCGTCTGCAATGCCAGTGTCCCATGTGGGTGCTGGTTCAAGTTCTGGCTGCTC
+TACTTCCAGTCCAGCTTTGTGACATGGCCTGGGAAAGCAGTAGAAGATGGCGCATGTGCTTGGGCCCTTG
+CACCTAGGTGGGAGGCCTGGAAGAAGCTCCTGGCATCCAGCTTTGGCCTGGCCCAGCTCTGGCCATTACA
+GCCATCTGGGGAGTGAACCAGCAGGTGGAAGTACTGTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTC
+CTAGTCTCCCTTTCAAATAAATAAATGTCTTTTAAAAATACACAAATAAATAAATAAATAAATAAAATTT
+GTAACTTATCACCAACCTACAGCCAAGTTAAACAGGACTGTTAAAGACATCACAGGCTGGCGCCGCGGCT
+CACTGGGCTAATCCTCCGCCTGCGGCACCGACACCCCAGGTTCTAGTCCCGGTTGGGGTGCTGGATTCTG
+TCCTGGCTGCTCCTCTTCCAGTCCAGCTCTCTGCTGTGGCCCGGGAGTGCAGTGGAGGATGGCCCAGGTC
+CTTGGGCCCTGCACCTGCATGGGAGACCGGGAGGGGGCACCTGGCTCCTGGCTTCGGATCTGCGCAGCAT
+GCTGGCCGCAATGCACTGGCCGTGACGGCCACTTGGCGGGGTGAACCAACAGAAAATGGAGGACCTTTCT
+CTCTGTCTTCTCTCTCACTGTCTGACTCTGCCTGTCCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAGAAAGAAAGAAAGAAAGAAAAGACATCACAGATGATCCCAAACTGTGGTCAGACTGGAACAGAACT
+GCAGTGATCACAATCAGATAATCAGATTCACAATGGTCAAGTGTGTTCCCCAGGCCTCACTGGACCCAGG
+GGCTTCTAGTGTGTGTGTGTGTGCGTGTGCGTGTGTGTTCACGTTATGCACATGTATGTGTGTGAGTACA
+TGTTACACACATGTATATGTTGAGGGTCAGCCATGTCAGGCTGGGAGCAGGAAGTTTGACTGACGGCCTC
+TCTCTCTGCAGCACGGAGCTGTCCAGAGCACAGCCACTATGAGTCCTGTGCCCGCGGCTGCCCGCTGAGC
+TGCGGGGACCTCCCGGTGTCCGGGGGCTGTGGCTCAGAATGCTACGAGAGCTGCGTGTGCGATGAAGGCT
+TTGTGCTCAGCGGCGAGTCCTGCGTGCCCCTGGCCTCCTGTGGCTGTGTATACCAGGGCTCCTACTACCA
+GCCAGGCCAGACCTTCCACCCTGGCCCCGGGTGCGACTCCCTGTGCCACTGCCAGGAGGGTGGCCTGGTG
+TCCTGTGAGGACTCCTCCTGCGGCCCGCAAGAGGAGTGCCAGCTGTCTGGTGGCGTCCTGGGCTGCGTGG
+TTGTGGGCTCTGCCACGTGTCAGGCATCCGGAGACCCCCATTACGTCACATTCGATGGCAGCCGCTTTGA
+CTTCATGGGCACCTGTGTGTACGTGCTGGCTCAGACCTGCGGGACCCCGCCCGGCCGGCCCCAGTTCACC
+GTCCTGCAGGAGAACGAGGCCTGGGGCAACGGACAGGTCAGCGTGACCAAAGCAATCACGGTCCTCGTGG
+GCAACCACACCATACGTCTGGAGCAGAGTCAGCAGAAGGTCACGGTGAGAACCACGGCTTGCATGGGAGG
+GGCGGTGCTGGAGTGGGGGTGCGGCCTGATCTCCCCTGTCTGTGCCCCTCCACCTCTCCGCCTTCGGCCC
+CTCGGCCTACGCTGCACTGTCCTGTCTGAAGGCCTCTTCCACCCCCTCCTCCCTCCTTCTCCATCCTCTC
+GCCACCCCTCCCCTAACCCGTCCCAGCCCCCTCCTTCATCTCCCACCCTATCAGAGGTTGGGAAAGATCA
+GAGAGTGGGCAGGGTCCAAGGACAGAAGATGGGGTGTGGGGGTGACCCTGTCCCCGACTCGACAACCACA
+GTAGCTACAGACTTTGCAGGCTGAGCCCGGACCCTGCGTCGAGCCCACAGGTCACTCTGTCTTCCCTGTG
+GCAGCTGGAGGCACCACGATTAACTCTCTTTTTGTAGATGAGGAGGTCCGGCTGTTGGCCTAAGAAACTG
+GCATTTCGGCTGCACTGGAGGGGAGGGGACTTTCTCAGAGACCCCACTCCCACACAGCCACTGCTCTGGT
+CCTGTCCTGGATCAGTAGATGACTTCATCACACATGACATAGCTTAATACAGCCCCCAACCCAGCCCAGC
+TCTTAGAGCAGCGCCCCGACTGTGGTTTGCTCTAAGCTTCTTGTAATTGACATCTCACTACATCCCACCC
+CACCCCCGCTTCCCTGAGAAGTAGGAAGTATCATCCCCACTATGCAGAGGAGCAAGGCGAGGCACAGGTG
+AAGTCAGTTCTCTGCTTGGGAAGTCCAGCAGTTGGTTATGCTCTGTGGGGACAGACACAGCCAGGAACCC
+GCCTTTCTCCTGCCTCCTCCCCTGATTCCTCACACTCCAAAAGACTCCAGCGTGCACCACATCTGCCCCC
+ACGGAACGAGGAGCAAGTGGGTTAATCGGGGTGGGTTTGCACAGCTTTGCCAGTGGCCAGCAGCCATTGG
+CTGAAACCACGGGTCCACAGCTCTCGGGGCTGAAGGTCATTTGCCCAGGAATGTAGCTTGGCCTTCCAGC
+CTTCAGTGTTTAAAGCAAAAACCTTCAGTGGCCGCTCACCCGTTAAAATGAAGCCTTCCAGTCAGGGCTG
+GTGATCACCTGGATGCACGGCAGCCCCCCCCCCCCCACGCCTCCCCGCTCCTTCACGTTCACACGGCCCT
+CTGCTCTGTGTCTTCCGGCTTGTCACTGGATACAGGGCCCGCCCTAATCTCCTCTCCAGGTCATTCCCCT
+AATTATGTCCATGAAGATTCTTATTCCAAAGTCACATTCTGCTGTTGAAAAAACAATATTTATTTATTTG
+AAATAATTGCAGAGATAGAGAAAGAGAAAGAGAGAGAGAGAGAGAGAGAGAGAGATCTTCCATCCGCTGG
+GTCATGCCCCCAAATACCCACAACAGCCAGAGCTGGGCCAGGCTGAAGCCAGGAGCCTGGAACTCCATCC
+GGATCCTCCCACTTGGGTACAGGGGCCCAAGTACTTGGGCCATCCTCTGTTGCTTTCCCAGGCACTTAGC
+AGGAAGCTGGATCAGAAGCAGAACAGCTGGGACTCAAACCAGTGCTCACAGGGGATGCCGGCGCATCACA
+GGCAGTGGCTTAACATGCTGTGCCATGAGACGAGCCCCTAAAGTCACAGTCTGTGATTCTAAGTAGACAT
+ATATTTTGGAGACCAGCATCCAACCCCCTATAAGACTCTATTATTATACCCATTTCACAAATACAGAAAC
+CACAACTCAGGGAGGTGAGGCACCACAGACCCTCACTGTCGGGCAGGGGCTGTAGCGGGTGTGGCTGGGC
+CGAACCCACCCTCTGAGACCCTGCTCCTCCCGCCTCCCAGGTGGACGGCGTGGACCTCAAGCCGCCGGTG
+GAGCTGGACAAGGGCGAGATCCGCATCAACCAGCACGGCTCGGACGTGGTGATCGAGACCGACTTCGGCC
+TGCGCGTGGTCTACGACCTCATGTACTACGTGCGGGTCACTGTCCCGGGCAACTACTACCAGCAGATGTG
+TGGCCTCTGTGGTGATTACAACGGCAAGGCCGAGGACGACTTCCAGAAGCGCAACGGCTCACAGGCGGCC
+AACCCCAACGACTTCGGCAACTCCTGGGAGGAGGCCGTGCCGGGCTCGCCCTGCCTGCCGCCCCCTGAGT
+GCGACTCGGATGCAGATTGCAAGTGCACCCCCGAGCTGGAGGAGCAGTACAAGAAGGAGGAGTTCTGTGG
+GCTGCTCACCAGCTCCACGGGCCCGCTGTCCTCCTGCCACAAGCTGCTGGATCCTCAGAACTCCTTGCAA
+GACTGTGTCTTCGACCTCTGCCTGGGCGGCGGGAACGAGAGCATCTTGTGCGGCCACATCCACGCCTACG
+TGAGCGCCTGCCAGGCAGCTGGAGGCCAGGTTCAGCCCTGGAGGAATGAAAAGTTCTGTCGTGAGTGAGG
+GGGACCCCGCAGGGCAGGGGCAGGGACATTGAGACCCAGACGGTGGGGCTCGTGCCGTGCTGCCCTTGCA
+GGGCTCTGACGGGTGCCCCCTCCTTGCAGCGATGGAGTGCCCCCCTCACAGCCACTACGAGCTGTGCGCA
+GACACCTGCTCCCTGGGCTGCTCGGCTCTCAGCGGCTCCGTGCAGTGCCCGGATGGCTGTGCTGAGGGCT
+GCCAGTGTGACCCTGACTTCTACTACAACGGTGAAGCCTGCGTGCCCATCCAGCAGTGTGGCTGCTACCA
+CAACGGTGTCTACTACGAGGTAGGATCGCGGACACCCCCCCTCCCTGGAGGGCCGCTCCTGGGACCTCGT
+CCTGAGCCCCCTCCCACCACCGCTCTTCCCCCAGTCTGTCCACTCCTGCCCACGCCTCTCGCTTGCCCAG
+CTCCTTTTCCCCACCTGGATCTCTCCTACCCCCATTTTCCGGCCTCTGGATGACCATCCATTTGCCAGTG
+GGGGAGCTCTTTCTAAATATGACTGTGGGCCCTGGGATACCCTTGCTGCCCACATCAAGTTGGGGCTTTG
+GGGCTCAGGCGTGGACAAAGGTGGCTCTTAGGACCACAAGGATGAGATTTGGTCTTTATCCCACCTGGCC
+AACTCCGCGTCCCTCGTCCACTCTCTCACTGTCGGTCCTTTTTAAAAAATGTTTTTATATATTTATTTTC
+ATTTTATATGAAAGGCAGAAAGAGAAACAGAGAGAAATCATCCATCCCCCTCCCCCTCCCCCTCTCCCTC
+TCTGTCTCCCTCTCCCTCTTCCTCTCTCTCTCCCTCTTCCTCTCTCTCTCCGTCTCTCTCCCTCTCTCTC
+TCTCTCTTTCTCTCTTTCTCATCCATCCACTGGTTCACTTCCCAAATGTCCACAACAGCCGCCAGAGCCA
+GGAGCCCAGAACTCCATCCAGGTCTCCTGAGTACTGGAGCCGGCACCTGTGGCCTCCCAGGGTGCACATT
+AGCAGGGAGCCAGACTGGAAGCGGAGGAGCCGGGACTTGAAGCAGGCAACTCTGATACGGGATGCAGGCG
+CCCCCGGCAGCCGCATAGACCCCGCTGGGCAAACACCCAGCCCTGTGTTAGTCCTCATTTCAGCTGAGTA
+GAGTTTGTCCGACGTGCATCTCCCTCACAGGGCTGTGAGCTCTACGAGGGCAGGGGCCTCTCTGTTCTCC
+TCCCATGCATAAGAGCAGTAACTCGTCCACAGTAAGCAGGAAACACGCGGATGGTGCTTCCTGGGTGCCC
+TTGCTGTGTGTATGTTTTACACGCACTGCCTATGGACGTAAGCTTTTTATTATGACGATGTTCAAACTTG
+CGAAAGTTCAGAGAACAATAGAACGAACCTCCACGTGTCTGAGCATCCCTGGGGCTGCCAAAGTTGACGT
+CTTCCCCAGTCGTGTTCTCTAGCCTCCTTCCATCTCCTACTGGGATGATTGGCCGGAAGCCTCTTTTCAT
+CCGACGTATACTTTCTATGTGCTGCTAACTCAGGCTTGCACGGGTAGGTGCTGTTGTTATCTGCAGATTG
+CAGGTGAGGAGACTGAGGCAGAACAAGGCTAAGTAATTTGCCCAGAGTATCATAGTCTGGAGACAGCAGA
+GACGGACTTCAGATGGCCCGCTCCGAATTCCCGCCACACTCTTTCTCCCACACTGCAGAGCTGAATGAAT
+GAGTGGAAGTGAATGTATGCATTGGGTCCCAAGGCCATGCTGTCCACAGGGTCCCTGATGGCCATGCCTT
+ATGTCCCTGCAGCCGGAGCAGACGGTACTGACTGACAACTGCCAGCAGCAGTGCGTGTGCCACTCAGGCA
+CAGGCGTGACGTGTCAGGAACACAGCTGCAAGCCGGGGCAGGTGTGCGAGCCCTCGGGAGGCGTCCTGAG
+CTGCGTCTCCAAAGGTACTGGGCTGGGGCTGGGGCTGGGACTGGCGAGGCACAGGGGACACGGGGCCAGG
+AGCCAAGAGGGGCGTGGCAGCGGTGTACATGGTGGGAGGTGCAGAAGACTGAGGATGAGGTCTCAGGCCC
+TGCATTGATCTTTCAGGGCCAGCAGCAGAGACTCCCTTGTCTTGGGGACCTTCCAGGCCAGGTTTCCCAG
+AGCACATGTCAGAGACCCTCAGTGAAAGGCAAATCTGGAGGCGCCTCCAAGGCCATGAGGCTGAAACACA
+GGGGCCCCAGGAAGCATGTTGGGACCCCTGCCACTGGTTCTTCCCAGGAAGTCCTCTAGGACCTTGGTGT
+TGGGCACAGAGAGCCCTAAGACGTGGGTCTCAGATGCAGAGAAGCCCACAGGGCTAGGACCTCAGCTATG
+GAGGAAGCTAGGGCCCAGGTCCCATATGGACACCCTGAGGCCGGCATCGCAGACACAGGCGCCCTCAGGG
+CTGGCATCGCAAACCCAAGGACTCCTGAGGTTCAGGTCTCAACCTAGGTCCCCTGCAAAGAAAACCCTGG
+GGACCCCGGGAGCTGGGTCTCAGATGTGGCAACTCTGGATGCTCATGTCTTAGACACAGCCTGGCCCAGG
+GCCTGAGTGCCAGACCTGGAGGACTCCCTGGGCCTGGTCTTAGAAACAGCATCTGAGCCAGCGCCATGGC
+TCACTAGGCTAATCCTCCGCCTAGCGGCGCCGGCACACCGGGTTCTAGTCCTGGTTGGGGTGCCGGATTC
+TGTCCCGGTTGCCCCTCTTCCAGCCCAGCTCTCTGCTGTGGCCAGGGAGTGCAGTGGAGGATGGCGCAGG
+TGCTTGGGCTCTGCACCCCATGGGAGACCAGGAAAAGCACCTGGCTCCTGGCTTCTGCCATCGGATCAGC
+GCGGTGCGCCGGCCGCAGCGCGCTGGCTGCGGCGGCCATTGGAGGGTGAACCAACGGCAAAGGAAGACCT
+TTCTCTCTGTCTCTCTCTCACTGTCCACTCTGCCTGTCAAAAAAAAAAAAAAAAAAAATATAAAGAAAGA
+AAGAACAGCATCTGTGGGATCTTAGAAGTAAACCTTGGATCTGCTCTCTCCTGTGGTAGTCCTCGGGGCC
+GGTGTCCCTGGCACAGCCTGAGGTCTTCTCTCCTCTGCCCCCAGACCCATGCCAGGGTGTCACGTGCCGG
+CCCCAGGAGACCTGCAAGGAGCAGGACGGCCAGGGTGTGTGTGTGCCCAACTACAACGCCACGTGCTGGC
+TGTGGGGCGACCCACACTACAACACCTTCGACGGCCGGGCCTTTGACTTCCAAGGCACCTGCAACTACAT
+TCTGGTGCAAGTTGGCTGCCCGGGGGTGGACGCCGAGGGCCTGACACCCTTTACCATCACCACCAAGAAT
+GAGAACCGGGGCAACCCCACCGTGTCCTATGTGAAGGAGGTCACCGTGTCTGTCCTGGGCACCAACATCT
+CCATCCACAAGGGCGAGACGGGCAAAGTCAGGGTATGTGTGGCAAGGTGGTCCCCTGAACCCCCAGGAGG
+GCTGGGGGAGCCCTGACAGCCCCAGTGAGGAGCCGAGGTTCTCTGTATTCCCCTAGGCCTGAACCAAATC
+AGCCACCGAACAAACAGGCTTAGCTCTGTGCTGAGCACTTCGGCATCTGCCTCTCAGTAGACTTGGGTTT
+GAATCCAAGCTCTGCTTCCCAGGTGCTGGTGGGTGGGCCATGTGCCCAGCTCAGAGTCTGGCCCAGATGA
+GCTCCAGAGAGCAGATTAAGAGGCCTGGAGACTCGGACCCAGAGGGAAATCCAGGGAGGTGAGGGCAGAG
+AGGTGGGCCTCTGCTTCTGCCCAGGGAAGAGCCATGTGGGTCCACTCAGCAGACACTAAGATGGGCATGC
+GCACAGGAGTGCACAGAGAGTGTGTACGGCCAGTGGGGAGAGCCAGAGACAGAGAGGACAGTGACGGGAG
+GGAGTGCAGAGACCCAAAGAAAGAGGGAGAAGCGGAGGTCCAGCAAGAGAGCTAGACCCAGGTGAAGCAA
+CAGAGAGGGAGGAGAGAGCAATCCAGAGGAAGAAGCAGACACAAAGACGGGAACAGATGTTCATGACATT
+GTCAAACGGCTATACAACTTTCAGGCGGGGGGAAAGCCATGGCAGCTCCCAACCCCCGTCAGGACAAGGT
+GGGGAGTCGAGAGCTGGGGCCTCCCACCCTGAGTGACCCAGGCACCTGCTTCCCCCTCCGCCAGGTGAAC
+GGCGTGCTGACGACGCTGCCTGTCTCCGCGGCCGGCGGGCGGATTTACGTGTCCCATGGAGTGTGGAAGG
+CTGTGCTGGTGACAGACTTTGGGCTGCAGGTCACCTATGACTGGGACAATCGCGTGGAGGTGATCCTGCC
+CAGCAGCTATCACGGCGCCGTGTGCGGGCTCTGTGGAAACCTGGATGGCGACCCCAACAATGACCAAGTC
+TTTCCCAACGGCACAGCCGCTCCCTCCATACCCGCCTGGGGTGGCAGCTGGCGGGCCCCAGGCTGGGACC
+CACTGTGCTGGGACGAGTGCCAGGGCTCCTGCCCGACGTGTTCTGAGGACCTGCTGGAGAAGTACCAGGG
+CCCTGGCTTCTGCGGCCCCCTGGTCCCCGGGACCGAGAGCCCCTTCGCCGACTGCCTCGCCCACGTGTCG
+CCCGACAGCTACTTCCAGGGCTGTGTCCTGGACGTGTGCCTGAGTGGTGGGGCTCAGGACATACTTTGCC
+AGGCGCTGGCTAGCTATGCGGCTGCCTGCCAGGCCGCTGGCGTCGCCATCCAGGAATGGAGGGAGCAGGC
+CGGCTGTGGTGAGTGCCGGGGAGGGGGCAGAGGCTGGGGGTGGGGTCCTGTCTGCCAGGCGGGCTTGACT
+GCTCTCCAGCCCTTCTGGGTTCTTCTTGTATTTCTGTTCCCGAGCGCCTGTCTCTCGGCGCTTCTCTGTG
+TGTCTCCCTTTGGGTCTCTCTGTATCCCTCTCTGTGCCTCTTGCTCTCTCTCCTTCGGTCTCTGTCTCTC
+TTCCTCTCTCTGTCAGCCCCTTGGTTTCTGTATTTTGCCACCGTGTCCTTGGACCCCACCCCTAACATCC
+TTCCCTCTTTCTCCCTCTCCCACCCGCCCGCAGGGGTCTCCTGCCCTGAAAACAGCCACTACGAGCTCTG
+TGGCTCACCCTGCCCAGCCAGCTGCCCGGCTCCTGAGTCCACCAAGACCTCAGCCCTCTGTGAAGGTTCC
+TGCGTGGAGGGCTGCCAGTGCGACACGGGCTTCGTGTTGAGCGCTGGGCGCTGCGTGCCCCTGGAGGGCG
+GCTGCGGCTGCTGGGCCAACAGCACCTACTATGAGACCGGCAGCGAGTTCTGGACGGACGCCACATGCTC
+CCAGCGGTGCCGCTGTGGGGCTGAGGGCGGCTCGCTGGTCTGCACACCTGCCAGCTGCGCCAAGGGCGAG
+GCATGTGCCCTGCTGTCCTCGGGCCAGTACGGCTGCCAACCAGTGAGCACTGCGGAGTGCCAGGCCTGGG
+GTGACCCCCATTACGTCACCCTGGACGGGCACCGATTCGACTTCCAAGGCACCTGCGAGTACCTGCTGAG
+TGCACCCTGCTCTGAGCCGCCGGCCGGGACTGAGAATTTCACCGTCACCGTTGTCAACGAGCACCGGGGC
+AGCCAGGCTGTCAGCTACACCCGCAGTGTCACCCTGTATATCTACGACCACCGCCTGACCCTCAGCGCCC
+GCTGGCCTCGGCAGCTACAGGTGAGGAGGGCATGGGCCGCACAGGAGCAGGTGCCGGCCCTGGGGTTGCC
+TGGGACGGTAAGAGGTCCGCCAGGTCCCTGAACACCTTACAGCTTAGCTGGGACTTGATGGACGGGGTCT
+GGAGCATAGGCCTGGGAGCTGGATGGTGTGAGGCAGTGGCTCCCCCTCCCCCTGCGCTGAGCCTTAGTTT
+ATTCCTACGAGAAATGGGCCCAAGAAGTCATGTGCTGCAGGGTGGCGTCAAGAGCCTGTTGTTTTTACTA
+CAAGAAGCCCTGGACTCAGAGTCCCACAGCTCCTAGGTGGTGGAGACGGGCTTCGAACCTGACTGGCCCG
+CCCCGCCCTGCCCCACGCCCGCAGGTGGACGGCGAGTTCGTGACGCTGCCCTTCCAGCTGGACTCGCGCC
+TGAACGCGTATGTGAGCAGCGCCGACGTGGTGGTGACCACGGCCGCCGGGATCTCGCTCAGTTTCGACGG
+GGACAGCTTCGTGCGCCTCCGCGTGCCGGCGGCCTACGCGGGCGCCCTCTGCGGCCTGTGCGGGGACTAC
+AACGAGAACTCGGCCGACGACCTGGCAGCGGTGAACGGGAAGCCCGAGGGCTGGCAGGTGGGCGGTGAGC
+CGGGCTGCGAAAAGTGCGAGCCCGAGCCGTGCCCGGAGCCGTGCACGCCCGAGGAGCAGGAGCCCTTCGG
+CGGCCCCGACGCCTGCGGGGTGATCATGTCCCGCAAAGGCCCGCTGGGGCCCTGCCACTGCATCGTGCCG
+CCGGAGCAGTACTTCCAGGCCTGCCTGCTGGACGCCTGCCAGGCCCAGGGCCATCCGGGAGGCTTCTGCC
+CTGCGGTGGCCGCCTATGTGGCTGCCTGTCAGGCCGCCGGGGCCGAGATCGGCGAATGGAGGCTGCCGGA
+CTTCTGTTGTGAGTACTGGCCCTTGCACGTTCACAAAGCAGGCGCCTCCTCCTCTCCCCAGCTTCTTCCC
+TCTTCCTGGGCTCAGGGACCAGCGAGGTGTCTGTTAGACTATGCGCGGCGACAGACTGGTCAGGTACACC
+TACGGTCAGGGCTCTGAGGACCCCAAACAGCTGCCTAAGACAGGGTCCGGGAGTCCCTGCAGTTCCTTTT
+GGACAGATAGATCTCCTCGGTCAGGTGCATCCTGGCAGCTTCAACAACCAGACCTAGTTGTAGTCCCCGC
+ACAGGCCGCAGAGGGCGCCCGCGTAGGCCGCCGGCACGCGGAGGCGCACGAAGCTGTCCCCGTCGAAACT
+CTGTGGGTCAGAGTCACACCCTAAAACAAACGGAGTCGGGGAGACTCCAGCAGGTGCTCGGACACCCACG
+CCAGGCACAGCCCCACAGGCGCACGCCCCGGGATACCTGTGGCTGATCCTAACCCTTGTATCCTGGTCAC
+ACATCCATGACCAGACACTCACTGGACACTTAGAAGTTTTAGGGTGTGACACACACCTGGTCAGAGGGTG
+TTGCCCCCACCCCGTGGGAGGTGCTGGGTCCGATCCTGGTACCTGGGTGTGTTGTCCCAGGGGAAGCCTC
+ACCCTCGTCCCGTCTCACCCCCGCAGCCATCCAGTGTCCAGCCAACAGCCACTACGAGCTCTGCGGCAAC
+TCCTGCCCCGTGAGCTGCCCCAGCCTCTCGGCGCCCGAAGGCTGCGAGCCAACCTGCCGCGAAGGTTGCT
+ACTGCGACGCCGGCTACGTGCTCAGCGGTGACACATGCGTCCCCCTGGGCCAGTGCGGCTGCCTCCACGA
+GGGCCGCTACTACCCACTGGGCGCAGCCTTCTACCCAGGGCCCGAGTGCGAGAGACGCTGTGAGTGCGGC
+CCAGGGGGCCAAGTCAGCTGCAAGGAGGGTGCGGCCTGCGGGCCTTACGAGGAGTGCCGGCTGGAGGACG
+GCGTCCAGGCCTGTCACCCCAAAGGCTGCGGCCGCTGCCTGGCCGACGGAGGCATCCACTACCTCACCCT
+GGACGGACGCGTCTACGACCTGCACGGCTCCTGCTCCTACATCTTGGCCCAGGTCTGTGACCCGCAGCCC
+GGGGATGAGGACTTCACCATCGTCCTGGAGAAGAACGCGGCTGGAGAACCGCAGCGCGTGCTGGTTACCG
+TGGCTGGCCAGGTCGTGGGCCTGGCCCGGGGACCGGAGGTGAGTGGCCCGCCCAGGGACCCAGGGAGACA
+CAGCCAAGTCCTGGGCTTCTGGAGGTTCTGTGAGCCACTCACCCGCCCCTTCCTCCCGTGCAGGTCACCA
+TCGACGGCGAGGTGGTGGACCTGCCCGTGGCCGTGGGCCATGTGCGGGTGACCTCCGAGGGCCGAAACCT
+GATCCTGCAGACAACCGAGGGGCTGCGGCTTCTCTTTGACGGCGACGCCCACGTCCTCATCTCCATCCCC
+AGCCCCTTCCACGGTCGGCTCTGCGGCCTGTGCGGCAACTTCAACGGCAACTGGAGCGACGACTTCGAGC
+TACCCGACGGCTCGGTGGCCCCCAGCGTGGAGGACTTCGGGGCGGCGTGGCGGGCACCCGGCTCCCCCCA
+GGACTGCACCGAGGGCTGTGGGGCCCAAGGCTGCCCCGTGTGCCGGGCGGAGGAGACGGCACCCTACGAG
+AGCAGCGAGCTCTGTGGGCGGCTGCTCGACCCCAGCGGCCCCTGGGCCGCCTGCCACGAGGTGCTGAGTC
+CTTCCGAGTACTTCCGCCAGTGCGTGTACGACCTGTGCGCCCAGAAGGGCGACCAGGCCTTCCTCTGCCG
+CAGCCTGGCCGCCTACACAGCCGACTGTCAGGCGGCCGGCGTGGCCGTGAAGCCCTGGAGGACAGACAGC
+TTCTGCCGTGAGTGTCGGGGGCGGGGGTGGGGTGGGGTGGTGCCTGGGAGGTCTCCCGCCCGCCACGCCC
+CGCCCTCCTCCGTCTGCATCTCAGGAGCAGCCCAGCCCCCTCCTGCGAAAGCTCCTCCCACGCCCGCTGC
+TCGCCTGGCGGCTCCCCTCTGCCCCCTCTGACCGCCCCCTTTCTCCTCAAAGCGCTTCACATCTTCCCTG
+GGCCTCCATCCTGGGCACTTTCTCACCTTGCAGCCTGAGTCTGTGGCTTGCCAGCCCCCTGGGGGCAACA
+CCGGCTCCCCTCAGAGCACCCAGGACAAAGCTGCAGGCCGTTGGGCCCCCAAACCAGGGCTGTCCCTCTC
+CCCCAAATCTCCTGCTGCAAGGACATGCCCCTCCCCAACCTAGGCTCTGCAGGAAAAGGCCATGGCCGAG
+TTTGCTTCGGTCTCCTCAGAGCAGGACCCCTACCCAGGGCCTTATAGGCTTCACAGCCTTGGCCTTGTCC
+TCAGCGGGGACAGTGGAGCCTGTCTCCTGCTCCGAGCTCTCTCCTGACTGCCAGCCCCAGGGGTCCAGTG
+TGAGCGCGTTCCCTCCAGCATCCTCACAATGTCTTGCACCTGCTGTGTTCCCAGACGACATCAGCGCCTC
+ACCCCAAGCCAGTCCTCCTTCCCCTGGCCCCCCCGTGTCCCGGCACTGGGCAGCCACAGCAGCCACCAGT
+TCTCAGCCAGAGCCCAGGACCTCACCCCGAATGCTTCCCCTGGGTCCTCCCAGCCCCCTGTGTTTCACTT
+GCCCCGGCCCTGAGCCCCAAGCCTGACCTTGCCCAATGCAGCACAGCCACATGGGCCCCTCATGGCCTGT
+CCCTCCGGTTTGAGCTCTGCAGGGCAGAGTTTGGGGCTGTCTGCGTCATTTGGGTCATCAGCGCAGCCCA
+CGCCCGGGCTGGCTGTATAGAAGCTCTTGTGGCCGTCCATGGAGGCGTGACCCCAGCCCGCCATGTCTCT
+CTCCACAGCGCTGCAGTGCCCAGCTAACAGCCACTACTCCGTCTGCACCTACTCCTGCCAGGGCTCCTGC
+ACAGCGCTCTCTGGCCTCACGGGCTGCACCAGCCACTGCTTCGAGGGCTGTGAGTGTGACGACCGCTTCC
+TGCTCGCCCAGGGCGTCTGCGTCCCCTCCCAGGAGTGTGGCTGCACCTACAATGGCCGGTACTTGCCTGT
+GAGTAGGGGCTCGAGGTGGGCAGGGAGGGCGGGAGGGAGTCTAACCTCCCCGAGGACTGGGACAGGGGTG
+CCGCTGCCATCTCCCAGCTGGGACACTTGCTGTGTGTGATGCTGCTGACCTCCAACCTGGTAGTCTAACA
+CGGAAGCAATGTGTTCTCCCACCATTCCGGAAATCAGTACCCCCACGCTGGAGGCAGGCTGCCCCCAGCC
+CCCCCCCCCCCCGCAGTCTAACTGCTCCCTGCAGCTTCTGGGGGCTGCCAGCATCCCGTGCCTTGGGGCT
+GCATCCCTGCAGTATCGGCCTGTGTGTGTCAGGAACGCTCCCTCCAGCTTCCTCTTGGGAGGACACCCGG
+ATAATCCAGCATGAATTCTCCACTTCCAAGTCCTCGGTTTAACACCGCTGCAAACACCTTTTTCCCACAG
+AAGGGGATGTTTACTTGGTCCCAGGGATTGGGATCTGATGTCTGTGAGGGACCACACTTGGCCTGCCATG
+GTCCCCACCCTGAACCTCATTTTCTCCACCTGTAAGATGGGGGTAGTCATTGTCCTTGCACCACAGGTGT
+GTAAGGGAAGGTGTGATTGTGTGGAAGACGCCAGCTGTGCCCTGGGCCTGGCACTCCCTGCGCATCCCAC
+TCAGGGAAAGGAATAGGAACTTAGACGGTGCTCTAGGCAGCCCCCAACCATCACTTACTCTGCAAACTGA
+AATGCAATCCTTGATTTATTCGTGTTAACAGTATTTTTTTGGGCTCTTGCTCTGCACTGGTTGTTATGGG
+TGTTTAAAGATTTAGTTATTTATTCGAAGAGGAGAGAGAGAGAGAGATTTTTCATCTGCTGGTTCACTCC
+CCAAAGGACCACAAGACTGGGACTGGTCCAGCTCAAAACCAAGAGCCTGGAGCTCCATCCTGGTCTCCCA
+CATGGGAGGCAGGGCCCCAACTACCTGGGCCGTCCTCTGCTGCCTTCCCAGGTGCATTTAGGGAGCTGGA
+TCAGAAGTGGAGCTGCTGGGACTTATTGGCGCTATTGCTGTTTCCCCCTGTTACAGAGCCATCCCTGTAA
+CCCCCCAACCTCTTACCTGCCCCCTTCTGCACACAGGTGAACTCCTCCCTCCTGTCCTCAGACTGCAACG
+AGCTCTGCTACTGCTCCCCAGACGCAGACCTGCAGTGCTATGAGGCCAGCTGCAAGGCGGGCAGCGTCTG
+CGAGGTCCAGAACGGGGTTCGGGTCTGCCAGGCCTCCGGCGCCCAGTGTACCCTCTCCGCAGGCTCCAAC
+CTCACCACCTTTGATGGGGCCCTCAGTGCCTTCAACTCCTCTGGTGTCTATGAGCTCTCCTTCCGCTGCC
+CAGGACTACAGACCCCCTGGTATCGTGTGGTGGCAGCCATCCAGCCCTGCGCTGGCACAGCTGAGACGGT
+GGGCCAGCTCCACGTCTTCTTCGAGGACGGGATAGTCACCGTGACCCGAGACGGGGGCGTGTGGGTAAGC
+CTGGGCGTGGCGGCGGGCGGGCGGGGGTCGGGGTGATGTGCAGTGTCCTTGCATTGTTGCCTGCCTGTCT
+TGCTGTCTCTTTCCTCTGCAATTTGATCTCTGGATTGGTATTTGCCTCAGTATTTCAGCTGAGTTCGTGG
+GAGGCAGAACGCATTCAAGGAACGTCATAGTTTTGATATTAGCGTCAATCAGGACTCCATTGGTTGCAGG
+TGACAGAAAAACCGAGCTCAAACTTCCTGAGAAGCAGAAGTGAATTGATTGGCCCACGGAACTAGAAAAC
+TCAGGGTCAGGACTATAGGCCTCTATGTTTTAGATGTGCTGGTCACCAAGTCGGCTTGATTCTCCGGCTT
+TCCTCTCGCAGACCCACACCGCACTGGTTTAGCTACGCTGGACCAGTTTGGGCCCTTGCCTATCCCTGGA
+ACCAGTCACCATGGCCTTGGGGATGGAATGCTGTGATTGGTCAGGTGGTTTTTATTGGAGGGGGTAGGGC
+TGGTCACCCAGGCAGCTCTGCCTAGCACATGCCAAACGTCAGGCTCCCGGAAGGAAGCTGCGGAAGCTGC
+ACCTTGCATCAGCTCCGGAACCTGAGCCCTGGGTGCGCAGGGATCCTGTCTGTCCCCGTCACCCCTTTAT
+TCCCAGTCCCCAGATCCAGGCCTGGCACCTGGACCCCGGAAAAGTCGGGTTTGGTGACTCAGCTCAGCCC
+CGCCCCTCTGAGTCAGGCTGGGAGCCGACTCCCACTCCAGGGCCGACTCGAACCCAGTTCTCATACTCAG
+GAAGCAGCCGGGAGAGGCTTCCCCTGCCCCGCCCCGCCCCTCCTGGCTGTCTCCATCCTCCCTCCCTTTC
+TCCCTCCTCCCTTCTTTCCTCCCTCCCCCCCATCTCAGCTCCACACCTACTTTTCCCATCAGTCTGCCTG
+TCTCTCCAGTCACCCGACAGAGGCAGACTCAGATACAAAAGCATTTCGGGAAAAAAAGAGAACTTCTGTT
+TAAAAGCAATTTTTGCTAGAGAGACTAACTTTAGAAGGATGAACTTACCAACAAAAACAAACAACACTTG
+TTTCAAGGGAAAAAAAACTCCCGACGTCGCTGAGTCTGCAACCCAGGACGAGGAAGCAGGCATCTCCTCA
+CAGGCCTATTATATTTGCTATGCTCACTACTTATCTTTAGACACCAGCATTACAATGATAAGGGATAAAC
+TCTCCTCTTGGGGAAGCAGTAACAGAGAACATGCTCCTCAGAGGCCTTTTGTTTTGAAAAGTAGACCCCA
+ACAGGGTGGCCCTGAGGTTGGTTGGTTGGGATGGGCCTCTGGTACAAAGTCCCTCCCACCCCCGACCCTG
+GGACACTGCGTGGGTCCCCCAATCCCTTTCTCCATCCGCCCAGTCTCCAGCTATCTCCCCGAGTCTGTCT
+GGCCACACGCAGCCTCCATCCGGGTCTTCATGGCTTTCAGAACCTGCTCCTTGCTTTAGTTCCTGAACTC
+ATGACCTCGCTCGGGGTCTCCGTCCTGGTAACTCGCCGGCTGCGCTGCGGCTCCGGCCTCACCTGTGTCT
+GCCCGCCTCCATCGCCAGGTGAATGGTCGCCAGGTGGACCTCCCAGCTGAAGTGTTGACATCGGTGTCCG
+TGACGCGCAACAGCGACAACTCCATACTTGTCCACCAAAAGGATGGGCTTTGGGTGTGGCTGGGCGCCGA
+TGGGCAGCTGACCGTGACGGTGGACAGTGGCCGCGCTGGCCAGCTGTGTGGGGCCTGCGGAAACTTTGAC
+GGAGACCCGACCAACGACAAGTCGGTCACGGAGAGCTGGACAGCACCGGACCTTTCCCCATGGTGAGGAT
+GTGGCGGGGAAGCCGGGCTTCTCGGGCGCGAGGGCGTTGGATGCTCACGGGAACGGGCAGTGGACGCGTG
+GGCAAGAGGAGGTGCTGAGTGTCTGTCTCTTGCAGTGAGGACTG</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4692">
+		<reference_name>Aktar et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Aktar A, Rahman MA, Afrin S, Faruk MO, Uddin T, Akter A, Sami MIN, Yasmin T, Chowdhury F, Khan AI, Leung DT, LaRocque RC, Charles RC, Bhuiyan TR, Mandlik A, Kelly M, Kov�? P, Xu P, Calderwood SB, Harris JB, Qadri F, Ryan ET</authors>
+		<title>O-Specific Polysaccharide-Specific Memory B Cell Responses in Young Children, Older Children, and Adults Infected with Vibrio cholerae O1 Ogawa in Bangladesh</title>
+		<year>2016</year>
+		<volume>23</volume>
+		<issue>5</issue>
+		<pages>427-435</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4924">
+		<reference_name>Eko et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Eko FO, Mayr UB, Attridge SR, Lubitz W</authors>
+		<title>Characterization and immunogenicity of Vibrio cholerae ghosts expressing toxin-coregulated pili</title>
+		<year>2000</year>
+		<volume>83</volume>
+		<issue>1-2</issue>
+		<pages>115-123</pages>
+		<journal_book_name>Journal of biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4729">
+		<reference_name>Ekong et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ekong EE, Okenu DN, Mania-Pramanik J, He Q, Igietseme JU, Ananaba GA, Lyn D, Black C, Eko FO</authors>
+		<title>A Vibrio cholerae ghost-based subunit vaccine induces cross-protective chlamydial immunity that is enhanced by CTA2B, the nontoxic derivative of cholera toxin</title>
+		<year>2009</year>
+		<volume>55</volume>
+		<issue>2</issue>
+		<pages>280-291</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4064">
+		<reference_name>FDA: Vaxchora</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Vaxchora vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM506235.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1330">
+		<reference_name>Kirn and Taylor, 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kirn TJ, Taylor RK</authors>
+		<title>TcpF is a soluble colonization factor and protective antigen secreted by El Tor and classical O1 and O139 Vibrio cholerae serogroups</title>
+		<year>2005</year>
+		<volume>73</volume>
+		<issue>8</issue>
+		<pages>4461-4470</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1329">
+		<reference_name>Osek et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Osek J, Jonson G, Svennerholm AM, Holmgren J</authors>
+		<title>Role of antibodies against biotype-specific Vibrio cholerae pili in protection against experimental classical and El Tor cholera</title>
+		<year>1994</year>
+		<volume>62</volume>
+		<issue>7</issue>
+		<pages>2901-2907</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4063">
+		<reference_name>Product Monograph: Dukoral</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Dukoral vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://healthsensetravelclinic.ca/wp-content/uploads/dukoral.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1661">
+		<reference_name>Ravichandran et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ravichandran M, Ali SA, Rashid NH, Kurunathan S, Yean CY, Ting LC, Bakar AS, Lalitha P, Zainuddin ZF</authors>
+		<title>Construction and evaluation of a O139 Vibrio cholerae vaccine candidate based on a hemA gene mutation</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>18</issue>
+		<pages>3750-3761</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4697">
+		<reference_name>Sharma et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sharma MK, Singh NK, Jani D, Sisodia R, Thungapathra M, Gautam JK, Meena LS, Singh Y, Ghosh A, Tyagi AK, Sharma AK</authors>
+		<title>Expression of toxin co-regulated pilus subunit A (TCPA) of Vibrio cholerae and its immunogenic epitopes fused to cholera toxin B subunit in transgenic tomato (Solanum lycopersicum)</title>
+		<year>2008</year>
+		<volume>27</volume>
+		<issue>2</issue>
+		<pages>307-318</pages>
+		<journal_book_name>Plant cell reports</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4781">
+		<reference_name>Vishwakarma et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vishwakarma V, Sahoo SS, Das S, Ray S, Hardt WD, Suar M</authors>
+		<title>Cholera toxin-B (ctxB) antigen expressing Salmonella Typhimurium polyvalent vaccine exerts protective immune response against Vibrio cholerae infection</title>
+		<year>2015</year>
+		<volume>33</volume>
+		<issue>15</issue>
+		<pages>1880-1889</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1455">
+		<reference_name>WHO: Cholera</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>WHO: Cholera</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.who.int/topics/cholera/about/en/index.html</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1328">
+		<reference_name>Xu et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xu G, Wang S, Zhuang L, Hackett A, Gu L, Zhang L, Zhang C, Wang H, Huang Z, Lu S</authors>
+		<title>Intramuscular delivery of a cholera DNA vaccine primes both systemic and mucosal protective antibody responses against cholera</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>29</issue>
+		<pages>3821-3830</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1966">
+		<reference_name>Yu et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu F, Qi G, Liu Y, Gao S, Kan B</authors>
+		<title>Construction and characterization of a thyA mutant derived from cholera vaccine candidate IEM101</title>
+		<year>2005</year>
+		<volume>29</volume>
+		<issue>3</issue>
+		<pages>191-196</pages>
+		<journal_book_name>Molecular biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

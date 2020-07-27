@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen72">
+		<pathogen_name>Canine parvovirus</pathogen_name>
+		<taxon_id>10788</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Canine parvovirus infection</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1425">Canine parvovirus type 2 (CPV2, colloquioally parvo) is a contagious virus mainly affecting dogs. The disease is highly infectious and is spread from dog to dog by direct or indirect contact with their feces. It can be especially severe in puppies that are not protected by maternal antibodies or vaccination. It has two distinct presentations, a cardiac and intestinal form. The common signs of the intestinal form are severe vomiting and dysentery. The cardiac form causes respiratory or cardiovascular failure in young puppies. Treatment often involves veterinary hospitalization. Vaccines can prevent this infection, but mortality can reach 91% in untreated cases.
+
+CPV2 is a non-enveloped single-stranded DNA virus. It has an icosahedral symmetry. The genome is about 5000 nucleotides long. CPV2 continues to evolve, and the success of new strains seems to depend on extending the range of hosts affected and improved binding to its receptor, the canine transferrin receptor. CPV2 has a high rate of evolution, possibly due to a rate of nucleotide substitution that is more like RNA viruses such as Influenzavirus A. In contrast, FPV seems to evolve only through random genetic drift (Wiki: Canine parvovirus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1567">
+		<vaccine_name>Canine Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 14R7.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002122</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1569">
+		<vaccine_name>Canine Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 14R7.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002123</vo_id>
+		<type>Live vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1571">
+		<vaccine_name>Canine Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 14R7.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002124</vo_id>
+		<type>Live vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1573">
+		<vaccine_name>Canine Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 14R7.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002125</vo_id>
+		<type>Live vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1575">
+		<vaccine_name>Canine Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 14R7.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002126</vo_id>
+		<type>Live vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1565">
+		<vaccine_name>Canine Coronavirus-Parvovirus Modified Live Virus Vaccine (USDA: 14R1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002121</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1588">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 1599.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002136</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1593">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 1599.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002137</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1598">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 1599.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002138</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1603">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 1599.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002139</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2581">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Borrelia Burgdorferi Bacterin (USDA: 47C5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002241</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2587">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Borrelia Burgdorferi Bacterin (USDA: 47C5.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002242</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2593">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Borrelia Burgdorferi Bacterin-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46B9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002219</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2600">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46J9.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002231</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2606">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46J9.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002234</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2612">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterin (USDA: 47L9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002246</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2618">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 46J9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002230</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2624">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 46J9.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002232</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2630">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 46J9.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002233</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2636">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J7.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002226</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2642">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J7.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002227</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2648">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002229</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2660">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Icterohaemorrhagiae Bacterial Extract (USDA: 46L9.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002236</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2654">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live Virus, Live Canarypox Vector Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J9.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002235</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1583">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live Virus; Canarypox Vector Vaccine (USDA: 1591.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002135</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2665">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine-Leptospira Icterohaemorrhagiae Bacterial Extract (USDA: 46P9.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002237</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1608">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Measles-Parainfluenza Modified Live Virus Vaccine (USDA: 1341.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002095</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1611">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza Modified Live Virus Vaccine (USDA: 13C1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002100</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1614">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Aceto Pharma Corp.</manufacturer>
+		<vo_id>VO_0002101</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1618">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002102</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1622">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002103</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1626">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002104</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1630">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002105</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1634">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002106</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1638">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.28)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002107</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1642">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002108</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1650">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine (USDA: 13D1.T0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002110</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2674">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 4637.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002211</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2679">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 4639.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002214</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2684">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterin (USDA: 47K1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002245</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2689">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 4639.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002215</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2694">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 4639.28)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002216</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2699">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4637.20)_</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2704">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4637.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002209</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2709">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4637.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002210</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2714">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4639.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002212</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2719">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4639.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002213</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2729">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 46J8.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002228</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1646">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus, Canarypox Vector Vaccine (USDA: 13D1.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002109</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2724">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Modified Live Virus, Live Canarypox Vector Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 4639.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002217</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1654">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus-Rabies Modified Live &amp; Killed Virus Vaccine (USDA: 13G9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002111</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1678">
+		<vaccine_name>Canine Distemper-Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 14D7.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002117</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1681">
+		<vaccine_name>Canine Distemper-Coronavirus-Parvovirus Modified Live &amp; Killed Virus Vaccine (USDA: 14D9.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002118</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2734">
+		<vaccine_name>Canine Distemper-Hepatitis-Parainfluenza-Parvovirus Modified Live Virus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterin (USDA: 47P9.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002247</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1688">
+		<vaccine_name>Canine Distemper-Parvovirus Modified Live Virus Vaccine (USDA: 13P1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002113</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1690">
+		<vaccine_name>Canine Distemper-Parvovirus Modified Live Virus Vaccine (USDA: 13P1.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002114</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine852">
+		<vaccine_name>Canine parvovirus CPMV-PARVO1 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011464</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">Canine parvovirus VP2</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering323" gene_id="gene414">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1050">CPMV–PARVO1 contains a 17-amino acid peptide (DGAVQPDGGQPAVRNER) corresponding to residues 3 to 19 from VP2 of canine parvovirus, inserted between residues 22 and 23 of the S protein of CPMV. Each virion contains 60 copies of this peptide and 1 μg chimera contains approximately 20 ng of peptide. The construction, propagation and purification of CPMV–PARVO1 virions (and wild type CPMV) was carried out. In addition, the virus particles were inactivated by irradiation with UV254 light during the purification, according to the following procedure: after resuspension of the PEG/NaCl pellet and clarification, the concentration of particles was measured by spectrophotometry, and the virus-containing supernatant diluted to 1 mg/ml (Langeveld et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response611" host_id="host36">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1050">Dogs were kept in four groups of five or six animals, A–D, each group in a separate room. Groups A, B and C (six dogs in each) were immunized subcutaneously above the shoulder blades on days 0 and 28 with either CPMV–PARVO1, 3L17–KLH or wild type CPMV, respectively, in Quil-A®/Alhydrogel®. A fourth group (D) of five dogs was left unvaccinated. Inoculation sites were checked daily for adverse reactions (Langeveld et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1050">Dogs immunized with the inactivated CPMV-PARVO1 in adjuvant displayed no clinical signs of disease and shedding of CPV in faeces was limited following CPV challenge (Langeveld et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1050">On day 42, all 23 dogs were challenged with CPV by the oronasal route [19], by distributing CPV onto their eyes, noses and mouths (1.5 ml/dog). Blood was collected prior to immunization, following immunization (days 28 and 38) and following challenge (day 48 and 57), and sera collected and stored at −20°C. Rectal swabs were performed with cotton wool swab sticks and stored at −20°C prior to analysis for the presence of CPV (Langeveld et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine850">
+		<vaccine_name>Canine parvovirus DNA vaccine pGT36VP1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011462</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>plasmid vector pGT36</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Canine parvovirus VP1</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering322" gene_id="gene415">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1051">CPV viral DNA was used as template to amplify the entire VP1 fragment, including VP2, by polymerase chain reaction (PCR). Two deoxyoligonucleotides, coding and noncoding strand primers were synthesized.  The product was then electrophoresed in a 0.8% agarose/TAE gel. The band containing the PCR product was excised from the agarose gel by QIAGEN QIAquickTM spin columns (QIAGEN GmbH, Hilden, Germany) and digested simultaneously with BamHI and Not1 (New England Biolabs, Beverly, MA, USA). The digested VP1 fragment was ligated into BamHIINotI digested pGT36 (kindly provided by Dr David Curiel, University of Alabama, Birmingham, AL, USA), a derivative of pCDNA3, which has a CMV promoter and kanamycin resistance gene. Kanamycin resistance clones were screened for appropriate restriction digestion patterns and one clone, designated as pGT36VP1, was then sequenced using an Applied Biosystems Model 373A Automated Sequencer (Perkin-Elmer/Applied Biosysterns Division, Folster City, CA, USA) (Jiang et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response610" host_id="host36">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1051">Four mix breed dogs, 9 months of age, from a single litter were injected with doses of 200, 400, 600 or 800 /lg pGT36VPl in a total volume of 1 ml phosphate buffered saline (PBS, 0.067 M, pH 7.2). One negative control sibling was injected with 1 ml PBS. All injections were administered i.m. at the right quadriceps muscle. Blood samples were collected weekly. All dogs were reinjected on week 16 with the same dose of DNA used initially at the same site and the negative control was injected with PBS (Jiang et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1051">All pGT36VP1 vaccinated dogs were protected against infection after virulent CPV challenge regardless of dose and the unvaccinated control dog was fully susceptible (Jiang et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1051">Challenge infections with virulent CPV were performed in a HEIPA filtered, environmentally controlled kennel facility at the College of Veterinary Medicine, Auburn University. The challenge strains of CPV (AU-H3-WS-93) consist of equal amounts of three virulent CPV slrains, AU-H3 (CPV-2), WS (CPV-2a) and 93 (CPV-2b) at a dose of 10^5 TCID(50) (tissue culture infectious dose) per ml. All challenge strains were purified from fecal extracts. The challenge dose was given intranasally (0.5 ml in each nostril) and orally (1.0 ml). The dogs were monitored three times daily for clinical signs including attitude, appetite, stool consistency, temperature and vomiting (Jiang et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response246" gene_id="gene1188">
+			    <description refs="reference1051">NAV vaccinated dogs showed an increase of serum IgG titer starting 1 week post-injection which peaked at week 2 and remained detectable for at least 14 weeks.  The non-immunized control dog did not show an antibody response at any point pre-challenge (Jiang et al., 1998).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2738">
+		<vaccine_name>Canine Parvovirus Modified Live Virus Vaccine-Leptospira Canicola Icterohaemorrhagiae Bacterin (USDA: 47B1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002240</vo_id>
+		<type></type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2085">
+		<vaccine_name>Parvovirus Killed Virus Vaccine (USDA: 18P5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc., Novartis Animal Health US, Inc.</manufacturer>
+		<vo_id>VO_0001752</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2086">
+		<vaccine_name>Parvovirus Killed Virus Vaccine (USDA: 18P5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001753</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2079">
+		<vaccine_name>Parvovirus Modified Live Virus Vaccine (USDA: 18M1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc., VacciCel, Inc., Neotech, LLC</manufacturer>
+		<vo_id>VO_0001754</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2080">
+		<vaccine_name>Parvovirus Modified Live Virus Vaccine (USDA: 18M1.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id>VO_0001755</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2081">
+		<vaccine_name>Parvovirus Modified Live Virus Vaccine (USDA: 18M1.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001756</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2082">
+		<vaccine_name>Parvovirus Modified Live Virus Vaccine (USDA: 18M1.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001757</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2083">
+		<vaccine_name>Parvovirus Modified Live Virus Vaccine (USDA: 18M1.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001758</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2084">
+		<vaccine_name>Parvovirus Modified Live Virus Vaccine (USDA: 18M1.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001759</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine406">
+		<vaccine_name>RECOMBITEK Canine Parvo</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>RECOMBITEK Canine Parvo</brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0001123</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="">Modified live virus</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene1188">
+        <gene_name>IgG Fc fragment</gene_name>
+        <strain>Canis lupus familiaris</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>403462</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>55742701</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>NP_001002976</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>9615</taxonomy_id>
+        <chromosome>17</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>59093049</gene_start>
+        <gene_end>59102001</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>Fc fragment of IgG, high affinity Ia, receptor (CD64)</protein_name>
+        <protein_pi>6.67</protein_pi>
+        <protein_weight>39657.45</protein_weight>
+        <protein_length>372</protein_length>
+        <protein_note>Also known as FCGAMMARI</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|357579614:59093049-59102001 Canis lupus familiaris chromosome 17, CanFam3.1, whole genome shotgun sequence
+TCAATGTCTTGCATGTTACAGACTTCACTGTTCCCATCAGCTTGGAGATAACATGTGGCTCTTGACAGTT
+CTACTCCTTTGGGGTAAGTTGGGTATAGAGGGATAGCTAGAAGGGTAGTGGCTCTGACTGTCTTCCTTTG
+GTATCCTAGACTAGAACTCATGAATGTGGGGACAACTATATCTGTGCTTCCATGATTTATTTATGCTCAT
+TATACCAAAAGCCTGGGAAGAGAGACTTAGTGATAACATTTAGCCTGGAAGCATCATATCAAAATAAAGC
+CTCATCAATAACCATCCATAGGTTGTTCAGTACCACTAGTCCCTGATTTTGAGAAAGGGGGTAGAGAGAG
+ACTCAAGACACCTAAGCTGGCCCCTTAGAGTCTATATTAGTTTTGTCTCCTTGATTCTCCTTTCCTTGTC
+ATCTCCCACTGACCAACTTATGTCTCTCTTCTTTGGTCTCTTACAGTCCCAGCTGGTGCACAAACAGGTG
+AGTAATCTTTAACTTTATTTCTCTTTCTCTGCCACATTCCTGCTTCTGAAGGGTGAGTTTTGTTTTCCTG
+AAGAAGAGAGTATAGGGAGAGGATAGAAACAAGAAAGATTTATAAATTATGTAAAATCTCCTATATTCGG
+AGTATGATTTTAATAAAATCCTGGTTTTTAAAGTTTCTCTCTAAGATTTCCTGAAAAAGCCCTGAGCTTT
+GGACTAAATGCCTATGTGTATATAATAGCAGGAAAAGGCCAGAATTGCAAAACTATAGACGTAGCTCTTC
+CAACATTCCTCAAACCTGTCCCCTTTAGAAGAAAGCTGAGTACTTTCTTTTTAGAGAGAACCAAGCAAGT
+ACTGAAGGCTTCTTTCTAAGTGAGGAGTTTGAGCCTCTATTTCCAAAGCAGATGCTAATTAAGTCCTGAG
+TTTAACCCTCAGGGACAGTATAGCACAGAGGATGAGAGAACCAGCTCCAATCAACTTGCCTGGGTTTAAA
+ACTCTTCTGCTTTACCAACAATGAAAACTAAATTAGTCATTTGTTTCTTCTTCTTCCTTTTTTTTTTTTT
+TTTTAGTCATTTGTTTCTTAGGAATCCCAAATCTCCAACATCTAGATGTAGATTTAATAACATGAACGGA
+GCTCTGTGCATGGGGTGTGGATGCTCTCAGTAGCTAGCTTTTACAGGTTCCCACTTGCTTATTTTTCAGT
+CTCATCTAACTATATATTTTTTACCTTGTGCCTTCCACAAAACCTTATTAATTACTCAGATCTTCCTTTT
+ATTCCACTTGGTCTTCTTTTTTCCCTTCTTTTTCTTTTTCGTTTTCTTTCTTTCTTTCTTTCTTTTTTTT
+TTTTTAATCCCCAAGCAGACCCCGTAAAGGCAGTGATCACCTTGCAGCCTCCATGGGTCAGTGTATTCCA
+AGAGGAAAGTGTAACCTTATGGTGCGAGGGACCCCATTTGCCTGGGGACAGCTCTACACAGTGGTTTCTC
+AATGGCACAGCCACTCAGACCTTGACCCCCAGATACAGAATCGCTGCTGCCAGTGTCAATGACAATGGTG
+AATACAGGTGCCAGACAGGTCTCTCAGTCCTAAGTGACCCGATACAGCTGGAAATCCACAGAGGTAAGTA
+GGGCATGGAACAGGAGAGCTGGAAATCACAAGGTCTCCCTTTATGTTTTCCCCTTTATCGATGCCAGATA
+TGTGTGTTTTCATTTATTGGAGTGTAAGTTTCAGCTCTGTGTGCCTACTAGGTGAAATTAAGTCCAAATA
+CTTAGAATATCACATGAGGGTCCTTAAACTGTGCCCCAATAGCACCCCTCTGGGACAGCTGTGAGCAGGG
+TATCTAGTGTAAAACTCAGACCCTAAGATTTTATTATTTAAAATGATCTAATTTTGTTGAAAATCTGCAC
+ACAGTAAATAAGAATTCAGAAAAATGTACAATGATGAACAATGAAATCTCTCTTCCACCTCAGACTCCTA
+GTCCCATGGTCACCTTCTATAGAAATAAAACTGTTAATATTTATGAACCGTAAAAAACAGTGGTTGATGA
+GGCACCTGGGGGCTCAGTCAGTTAAGTGTCTACCTTCAGCTCAGGTCATGATCCCAGGGCCCTGGGGTTG
+AGCCCCATATTGTGCCTCCTGCTCAACAGGGAGAACAGGGAGTCTGCTTCTCCTTCCCCCTCTGCTGTTC
+CCTCTGCTTGTGCTCTCTTGCTTTCTCTCTCAAAGAAATGAATTTTTTTTTTTAAATGGTTGGTTGAATA
+CTCTATATACTGTTCTACACCTTGCTTTTATCACTTAAAATACCTTGGAGGTCTATTTAAATCAATAGAG
+ATCTACCACGAACTTTCAAATGTCTGCCATATGGCTGTGCTGTAACTGATTTAATCATTTACCTATTAGT
+AAACTTGTAGTATATTTCCAGTTTTTTGTTTTTACAGTCCTGCAATAGACATCTCTATACTTATAGACTG
+GAGCACATTTCATAATATATCTGTAAGATAATATTCTGGACATGAAATTACTTTTGAGACTAAGCATTTT
+AAATGTTGATGAATGGAAGGGAACCCCCCCCCCAACATATCCACTTAAATTTGTAAAAGATTTCCATTTG
+TCAAGAAATGGAAACTGAATGTTTCATTATTCAGTATAAATCATTCAAATGTGTTGGGGGAGAAGAAGTA
+AGGGGAGGGGCAGAAAGAGAGTGAGGAGGAGTCTCCCTACCAAGCAGGGAGCCAGGGGGCACAGGACTTG
+GGGATTATGACCTGAGTTGAAGTCAGAGGCTTAACTGACTGTCCCTTGGACAGAACTGTTTTTACAAGAT
+ATTTTATATAGTTGAAGTAGAAGAAGTGCTTTATAGTTCAAGTGACAAAAAAAGTGAAACAGGGCTAGGA
+AGAGTCCACTTTCTTTGCCTCTGTACAGACTGTAGAAGCCCCAGCATTAATGACTTACTGAGAATAATAT
+ATTTTACGTTTTTTTTAAAAAGCTTTATTTATTTATTTGAGAGAGCGAGAGAGAGAGAGAGAGAGAGAGA
+GAGCATGATGAGTGGGAGTGGCAGAGAGAGAGGGAGAGAGAATCTCAAGCGGACTCCACGCTGAGTTCAG
+AGTCTGTCTCAGGACAGTGAGATCATGACCTGAACCAAAATCAAGGATTGGATGTTTAACCAACTGAGCC
+ACTCAGGGGCCCCACTATTTCGGGCCTCTTACAGGTAGTACTGCTATGAACATTTTTCTTTTAAGATGTT
+ATTTTTTTAAGTAATCTCTACACCTAACATGGGGCTGGAACTCATAATCCCCAGATCAAGAGTTGCACAC
+TGTATCAGCTGAGCCAGCCAGGTGCCCCCACTGTGGACATTTTGATACCTGTTTTTTGGTGCACTTATGT
+ATACATATCTGTTGATATGCCTAGGAGTGGAATTGCTCGGTCACAAAATGTACATCTATTTGTTCAGCTT
+TAATTTTCCAAAGTGGTTATACCATATTACACTTCTACAGTGGAATGTAAGAGTTCTGGTTCCTTTTCAT
+CCTCATCAACACTCGGTGCTTTCTTTCTTTTCTTCTTTCTTTCTCTTTCTCTCTCTCTCTCTCTCTCTCT
+CTCTTTCTTTCTTTTTTTTTTTTTCAAGATTTTATTTATTTATTCATGAGAGATGAAGAGAGAGGCAGAG
+ACACAGGCAGAGGAAGAAGCAGGCTCTCTGCAGGAGCCTGATGTGGGACTTGATCCCCAACCCTGGGATC
+AGGCCCTGAGTCAAAGGCAGATGCTTAACCACTAAGCCACCCAGGCATCCCTCTTCTTTCTTTCTTTCTT
+TCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTTTCTTCTTTCTTTTTCTTTCTTT
+TTAACATACAGAGGTTTCTATATCTTTCAGTTTAGTCATTCTGGTGCATGTGCAGTAGTCATCACATAGC
+TTTAATTTGCATTTTCCTGAAGACTCATGACATCAAGCATTTTCTACATTTATTACTTATTTGGATATCC
+TCTTTTGTAAAATACCCATCTAGGTTTTTTTTGTCAATTTTTCTTTATTGTTGTCTTTCCTTATCAACTT
+GCAGGATCTCTGTAGTTTGGACATGAGTCCTTTTTCAAGTGTTGCAAATATCTTTCACGCTGTGGCTTGT
+CTTTTCACTATCTATGCTGTTTTTTCAGTGAAAAAAAGTGCTTACATTTACTGTAGTACAGTATAAATAC
+ATCAGGTTTTGGGGTTGGTGCTCTCTATGCCCTTATTTAAAAATGTTTTGCCACAGCTAACCAGCAGAGG
+AGAGTTCACCTGTAGGTACACTAACTCTGTCACTTCAGTTAAATCTGTATGTGCTGAGACCACAAAAATA
+TAGCTGGTTTGAGGATCTATGAGCATCCCAATCCTGCTTTAAGGTGATGAAGATGGAAAGAATGGCTTTT
+GAGGAGGAAATTAATAATGTCTGCTAAAAAGCTGTATCCTGAAATTTTTGATAATACTCCCAACTATCAT
+TTAAGACTAAATCTTTTTAATTTTCATTAGTATGTATATAATTCTTTTTTCTTTTTCTTTCCTCATGAAT
+TATTTAGAAGTGATTTAGGAAGGTGGCTTTTTGTTACTGATTTCTAATTTTATGTTAAATATGGTATCAG
+TTCTTTAGTATTTGTTGAAAATTGCTTGTGGCTTAGTACATACTCGGTATTTTTAACTGTTGCATGTGTG
+TTTGGAAAGTATGTGAATTTTCTTTAAACTATAGCTTCTATATAAATCCACAAAAATCAACTCTATTCAT
+TGTGTCATTCAGATATGTTATATCATCACTAGTATTTTTGACAGTGTCTGATCCCATCATGTTTGTGGAT
+ATATAAAGCTAAGGTGTTTGTGTGTTGGGGTACTGTAATCTTTGAGCACCTCTTGGTTGGGAATGGGAAT
+AAGGGAGAGAAGAGCATTATATTTAGAAACACTGTGACAGCATCCAAAACTATAAAAGTCATGCTACATA
+TACCACTGGAATACCTCTGCCTTCTGTTCTTAGGTAAATTCTGGAGGGGGAAAAACACTACTGTCCCTTT
+TTGTCTTTTGTCCTTTAAGAACCTCCTCCCCATTTAGCCAAATCAACTGCTCCAGGGAAAGAAAAAGGAA
+GCATTTTTTTGGTTATGTGTAGAGATGTACATCAAAAGGGAGGGCCCCTTGGACTTGGAGCTTGTTTTTA
+GCAGCTAGATCACTGATCTGCGCATGTGTGTATATTCTGTCAATTTAGGGGCACATATACATCTGGAAAT
+GTTTGCTATTCTGTGTGCTTGTCTTGGGACAAACAAGTATGTGGGATGCCATTAACATAGTAGTCAGGAG
+TTGGAGTGTTTTAGTTTTTTTTATTGCTGTGTAACAAATTACTACAAACACAGCAGTTTAAAACAATGTA
+TATTTATTATCTTTCCATGGGTCAGGAGTCTCAGCACAGCTTAGCTGGGTGCTCTGCAGGGGCTGCAGTC
+AGGGTATTGACTGAGTTGTGTTCCTTCCTGCAGATCTTCCAAGCTCACATGGTCGTTGGCAGAATTTAGA
+ATTCAGTTCTTTATGTTATAAGCCTGAGGTCCCCACCTTTTAGCTGGCTGTCAGTTGGAAGTAATCTCAG
+CTCCTCCAGGCAGGCCTTTGCCAGATGGCCCTCTCCCAACATAGTGGCTTACTTCTTCAGGGCCAGTGGG
+AGACTCTCAGTCCAGTCAGCTAAGAGAGTCATATAACGTAACCTCATCGTGACAGAGACATCCTGTAACC
+TTTTTCATATCCTGTTCATTAAGCAAGTCTCAGGTTACACATACACCCAAGGGGATTACACAAGGGTGTG
+ACACACTGGAGTCATCTTAGAATATTGCCTACCACATACAGTAAAATGTTTTTATCCCAACCAACTTCTG
+AAATCTGGCAAGGGAAGTAAGAAGGGCCTGTGTGCATGGCTGCTTGTAAAGACTACTTTTCTTCCCAAAA
+AAGCTAAAGATAATTGGGGGATGGGCAATAGGCCTCAAATTCGGCAGAGCTCTGAGGTTGAAATGTTGAA
+AGAAAAAAAGATAAGAAATCCACCAGGGCCCAGCTTCAGCCTCCTTGTCCCTCTGCTACTGTATACATAC
+ATTTTGGGTATATATTTTCCAGATTGGCTAATACTCCAGGTCTCTGGCAGAGTCTTCACGGAAGGGGAAC
+CTCTGACTTTGAGGTGTCATGGATGGAATAATAAGCTGGTGTACAATGTGCTTTTCTACCAAAATGGCAC
+AGTCTTGAAGTTTTCTCCTCAGAATTCTGAATTTACCATTCTGAAAACCACCCTACATCACAATGGCATC
+TATCACTGCTCAGCCATGGGAAAGCATCGCTACGAATCAGCAGGAGTATCTATCACTATAAAAGGTATGT
+ATCTGAATAGTCACAGAGCTCTAGTTTTAAGGACCATTATAAATCATCACTTCAGTTTGCAAGAGAAGAG
+ACTTAAGTTCCAGAGAGGTAGCTATCTCACTGAAGGCCATACAGTGACCAGTGGCTGGGCCAGAACTGGA
+ACTGAAGTCTTCTGGGCCTCCGGTCTATTGCTCTTTCCAGTAAATCGCAATGCCCATCAGTAATCCCAGG
+AGCTAACATGAAGGGCAGGGCATAGTGAGGATCTATTTCATCATTTTAGTTGCAAGGAATAGAGATTTAC
+TTGAGGTATGTAGGAGGGTTATTAAAAAATAACTCAATGGAGTCTCATAAAAAGCTCCATAGAATCAGAA
+GCCATGAAGACATTAGGACTTGGTTTTACATTTTATCTATCTCTCAGGGGCAATATGGACTCTCTGATTC
+TACTTCTCTCTGAACATGTGCTAACTAAGCAGCTTTCTCTGTTCCAGCTTACATGAGGGCCTCATTGTGG
+TTCTTTCATCTTAGTACTCATATAGTTATAGTTTCTGTTTGAAAAAGAATTCATTCCGATGGGAAAAAGA
+GGATTGTCCCAGATTATCTTTGGGGGAAGTGAGTAACACAAGTAATAAGTCACTGACCTGGCGAGTAGTG
+TGTGTCAGTGTCCACTCCTGGTGGACCATTACCAAAAGGCATGGTCACATACTCAGTAATATGACTATTC
+AGGGAAGCATGGACTGTGTGGAGGTATTCTTTTTTTTTTTAAAAAAAGATTTTATTTTATTTATTTATTC
+ATGAGAGATACAGAGGGGGGAGGGCAGAGACACAGGCAGAGGGAGAAGCAGGCTCCATGCAAGGGAGCCC
+AGTGTGACGTGGGACTCAATCCCAATTATGCCCTGGGCCGAAGGCAGGCGCTAAACCACTGAGCCACCCA
+GGGATCCCTGGAGGTATTCTCCCCAGTAGGAAATGAGGAAGTTGGCAACTATAAGAGTATCTATGAGGAA
+ACCCCAAGAATGCCTCTCTGCTGAAAGTGGGAAAATTTGTCTTACAGATGCATTCTCTAGGGGCAGGTTT
+CCCAAGGAGGAACCAGGTATATTTTCTGTAAAAAGAACCTTGACACTGAAGCAGGCAACCCTGTCCCCAT
+CAACTTTTCTTTAGAGCTATTTCCAGCCCCAGTGCTAAAAGCATCCTTGTCATCACCCATCCTGGAGGGG
+CATGTGGTCAATCTGAGCTGTGAAACAAAGCTCCTCCTACAGAGACCTGGTTTGCAACTTTACTTCTCCT
+TCTACATGGGCAGTAAGACCCTGCTGAGCAGGAATACATCCTCTGAATACCAGATACTAACAGCTAAGAA
+AGAAGATTCAGGGTTATACTGGTGCGAGGCTACCACAGAAGATGGCAATGTCGTCAAGCGCAGCCCTGAG
+TTGGAGCTTCAAGTGGTTGGTGAGCATGAGGGGAACTGACAGGCACAAGGAGAAGATGCTCCCTTTTCTC
+CTTTGGGGCTGAGGTTTGTTTAAGGGGATTTCATGGCCCACCCAGGAAAAACCCATGAAGGGGCATTTCC
+ACTTTTGATTCGTAACTTCATTATTCTCATGAGCTCTATTAAGTTTCCTTTCTTAACTCCATTTATTGCC
+TTCCTTTTGTCCTTCTTTTCTTCTTCATTTTCTTTTTCCCCCTGTTCCTCCCCCCACCCTAAAAATCTAA
+TCAATATATTGAGTTCCTTCCATCTGTTGTCATAAATGTGGGGATATGAAGACAGTGGGGTACAGCTCTT
+ACTTCAAGGAGCTCACATGGTAGATTGGTGACGTAGGGAATTTTGTGGATTGCACATAAATACCTGCCCA
+AGTGGCTATATCTGGCTGAGGTAGAGAGACTGTGAGCTCCAAGACAAAGACTCTTTGGGAAAAAAGTTTA
+TCTTCAACCCAAATCCATTTCAGGCATTAAATGGCATAGATGTAGCATTTTTGTCTGAAACTAGGAAGTC
+CACTTAGTAGGCCCTGGCAGTTAAGCTCTTATGAGGAGCCTGCCCCTGGTCTGTACACCATATAACTCAG
+GTGGAGCACCTATCTGCCCCCTGAAATTACCATTGTCTCCACTGGGGACAGGCATACCAGGTGTCAGCCA
+GTATTCCCTCCCAAACATAATTCATCCAGATTCCTCTGCGTTCTAACTAGCATTTCTTCTTGTCATTTTC
+TTTTTCAGGCCCCCAGACACTAACTCCTGTTTGGTTTCACGTCCTTTTCTATGTGGCAATGGGAATGATA
+TTTTTGGTGGATACCATTTTCTGTATGATTATACATAAGGAACTGCAAAGAAAGAAAAAGTGGAATTTAG
+AAATCTCGTTGTACTCTGGTCTTGAGAAAAGAGTAGATTCCTACCTTCAAAAGGAGAGAGATTTAGAAGA
+GCCAAAATATCAGGAACTCGAACAGCTGCAAGAAAAGACACCCCAGAAGCCCCCAGAGGGAGAGCAGCAG
+TAGAGCCCAGGGGGTGCCCATGGATTGAGATGGTGCCTCCCACTTCTTTTTGGTGCGTGCATTGGGGTGC
+AAACACCCAAAAGTTTGAAGACGTTAGAACTCTGAGTCCCATGTCATCTGATTAACTCTGAAA</dna_sequence>
+        <protein_sequence>>gi|55742701|ref|NP_001002976.1| high affinity immunoglobulin gamma Fc receptor I precursor [Canis lupus familiaris]
+MWLLTVLLLWVPAGAQTDPVKAVITLQPPWVSVFQEESVTLWCEGPHLPGDSSTQWFLNGTATQTLTPRY
+RIAAASVNDNGEYRCQTGLSVLSDPIQLGIHRDWLILQVSGRVFTEGEPLTLRCHGWNNKLVYNVLFYQN
+GTVLKFSPQNSEFTILKTTLHHNGIYHCSAMGKHRYESAGVSITIKELFPAPVLKASLSSPILEGHVVNL
+SCETKLLLQRPGLQLYFSFYMGSKTLLSRNTSSEYQILTAKKEDSGLYWCEATTEDGNVVKRSPELELQV
+VGPQTLTPVWFHVLFYVAMGMIFLVDTIFCMIIHKELQRKKKWNLEISLYSGLEKRVDSYLQKERDLEEP
+KYQELEQLQEKTPQKPPEGEQQ</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene415">
+        <gene_name>VP1</gene_name>
+        <strain>Canine parvovirus</strain>
+        <vo_id>VO_0011055</vo_id>
+        <ncbi_gene_id>1489587</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>CPVgp3</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10788</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>2284</gene_start>
+        <gene_end>2361</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001539.1:2284-2361 Canine parvovirus, complete genome
+GATGGCACCTCCGGCAAAGAGAGCCAGGAGAGGTAAGGGTGTGTTAGTAAAGTGGGGGGAGGGGAAAGAT
+TTAATAAC
+
+</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>This study shows that a plasmid DNA (pGT36VP1) encoding the full length VP1 region of canine parvovirus (CPV) induces immunity that protects dogs against challenge with virulent virus [Ref1051:Jiang et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene414">
+        <gene_name>VP2</gene_name>
+        <strain>Canine parvovirus</strain>
+        <vo_id>VO_0011054</vo_id>
+        <ncbi_gene_id>1489588</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>CPVgp4</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10788</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>2782</gene_start>
+        <gene_end>4536</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001539.1:2782-4536 Canine parvovirus, complete genome
+ACCAATGAGTGATGGAGCAGTTCAACCAGACGGTGGTCAACCTGCTGTCAGAAATGAAAGAGCTACAGGA
+TCTGGGAACGGGTCTGGAGGCGGGGGTGGTGGTGGTTCTGGGGGTGTGGGGATTTCTACGGGTACTTTCA
+ATAATCAGACGGAATTTAAATTTTTGGAAAACGGATGGGTGGAAATCACAGCAAACTCAAGCAGACTTGT
+ACATTTAAATATGCCAGAAAGTGAAAATTATAGAAGAGTGGTTGTAAATAATATGGATAAAACTGCAGTT
+AACGGAAACATGGCTTTAGATGATATTCATGCACAAATTGTAACACCTTGGTCATTGGTTGATGCAAATG
+CTTGGGGAGTTTGGTTTAATCCAGGAGATTGGCAACTAATTGTTAATACTATGAGTGAGTTGCATTTAGT
+TAGTTTTGAACAAGAAATTTTTAATGTTGTTTTAAAGACTGTTTCAGAATCTGCTACTCAGCCACCAACT
+AAAGTTTATAATAATGATTTAACTGCATCATTGATGGTTGCATTAGATAGTAATAATACTATGCCATTTA
+CTCCAGCAGCTATGAGATCTGAGACATTGGGTTTTTATCCATGGAAACCAACCATACCAACTCCATGGAG
+ATATTATTTTCAATGGGATAGAACATTAATACCATCTCATACTGGAACTAGTGGCACACCAACAAATATA
+TACCATGGTACAGATCCAGATGATGTTCAATTTTATACTATTGAAAATTCTGTGCCAGTACACTTACTAA
+GAACAGGTGATGAATTTGCTACAGGAACATTTTTTTTTGATTGTAAACCATGTAGACTAACACATACATG
+GCAAACAAATAGAGCATTGGGCTTACCACCATTTCTAAATTCTTTGCCTCAATCTGAAGGAGCTACTAAC
+TTTGGTGATATAGGAGTTCAACAAGATAAAAGACGTGGTGTAACTCAAATGGGAAATACAAACTATATTA
+CTGAAGCTACTATTATGAGACCAGCTGAGGTTGGTTATAGTGCACCATATTATTCTTTTGAGGCGTCTAC
+ACAAGGGCCATTTAAAACACCTATTGCAGCAGGACGGGGGGGAGCGCAAACATATGAAAATCAAGCAGCA
+GATGGTGATCCAAGATATGCATTTGGTAGACAACATGGTCAAAAAACTACCACAACAGGAGAAACACCTG
+AGAGATTTACATATATAGCACATCAAGATACAGGAAGATATCCAGAAGGAGATTGGATTCAAAATATTAA
+CTTTAACCTTCCTGTAACGAATGATAATGTATTGCTACCAACAGATCCAATTGGAGGTAAAACAGGAATT
+AACTATACTAATATATTTAATACTTATGGTCCTTTAACTGCATTAAATAATGTACCACCAGTTTATCCAA
+ATGGTCAAATTTGGGATAAAGAATTTGATACTGACTTAAAACCAAGACTTCATGTAAATGCACCATTTGT
+TTGTCAAAATAATTGTCCTGGTCAATTATTTGTAAAAGTTGCGCCTAATTTAACAAATGAATATGATCCT
+GATGCATCTGCTAATATGTCAAGAATTGTAACTTACTCAGATTTTTGGTGGAAAGGTAAATTAGTATTTA
+AAGCTAAACTAAGAGCCTCTCATACTTGGAATCCAATTCAACAAATGAGTATTAATGTAGATAACCAATT
+TAACTATGTACCAAGTAATATTGGAGGTATGAAAATTGTATATGAAAAATCTCAACTAGCACCTAGAAAA
+TTATA
+
+</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A vaccine based upon a recombinant plant virus (CPMV-PARVO1), displaying a peptide derived from the VP2 capsid protein of canine parvovirus (CPV), has previously been described. To date, studies with the vaccine have utilized viable plant chimaeric particles (CVPs).  Results show that the inactivated CVP is able to protect dogs from a lethal challenge with CPV following parenteral immunization with the vaccine.  Dogs immunized with the inactivated CPMV-PARVO1 in adjuvant displayed no clinical signs of disease and shedding of CPV in faeces was limited following CPV challenge. [Ref1050:Langeveld et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1051">
+		<reference_name>Jiang et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jiang W, Baker HJ, Swango LJ, Schorr J, Self MJ, Smith BF</authors>
+		<title>Nucleic acid immunization protects dogs against challenge with virulent canine parvovirus</title>
+		<year>1998</year>
+		<volume>16</volume>
+		<issue>6</issue>
+		<pages>601-607</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1050">
+		<reference_name>Langeveld et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Langeveld JP, Brennan FR, Martínez-Torrecuadrada JL, Jones TD, Boshuizen RS, Vela C, Casal JI, Kamstrup S, Dalsgaard K, Meloen RH, Bendig MM, Hamilton WD</authors>
+		<title>Inactivated recombinant plant virus protects dogs from a lethal challenge with canine parvovirus</title>
+		<year>2001</year>
+		<volume>19</volume>
+		<issue>27</issue>
+		<pages>3661-3670</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1425">
+		<reference_name>Wiki:  Canine parvovirus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Canine parvovirus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Canine_parvovirus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

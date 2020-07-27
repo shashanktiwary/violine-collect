@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen53">
+		<pathogen_name>Mumps virus</pathogen_name>
+		<taxon_id>11161</taxon_id>
+		<pathogenesis refs="reference726">Mumps is acquired through inoculation and replication of the virus in the nasal or upper-respiratory-tract mucosa. Infection can remain localised to the respiratory tract.12 Transient plasma viraemia is probably frequent, occurs late in the incubation period, and leads to viral spread into organs. Infected mononuclear cells can also contribute to systemic viral spread.The parotids are the most commonly affected organs, but parotitis is not a primary or necessary step for mumps infection. The central nervous system (CNS), urinary tract, and genital organs can also be affected. Infection of the kidneys leads to viruria, which is present in most patients and lasts for 10–14 days. Plasma viremia seems to be restricted by the humoral immune response,16 and salivary secretion of the virus correlates inversely with the local production of virus-specific secretory IgA (Hviid et al., 2008).</pathogenesis>
+		<disease_name>Mumps</disease_name>
+		<protective_immunity refs="reference726">Mumps as an illness is generally benign and self-resolving. Titres of neutralising antibody are related to clinical protection, but there is no surrogate immunological marker for protection (Hviid et al., 2008).</protective_immunity>
+		<host_range refs="reference726">Mumps is a virus that only infects humans (Hviid et al., 2008).</host_range>
+		<introduction refs="reference726">Mumps virus is a member of the paramyxovirus family, closely related to parainfluenza viruses. It only has one serotype. Mumps is a disease of childhood, the highest incidence occurs in children between 5 - 9 years of age. The common symptoms include parotid inflammation (or parotitis), fever, headache, and orchitis. Mumps is vaccine-preventable, and one dose of mumps vaccine is about 80% effective against the disease (Hviid et al., 2008).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine374">
+		<vaccine_name>M-M-R II</vaccine_name>
+		<proper_name>Measles, Mumps, and Rubella Virus Vaccine, Live</proper_name>
+		<brand_name>M-M-R II</brand_name>
+		<manufacturer>Merck &amp; Co., Inc.</manufacturer>
+		<vo_id>VO_0000069</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs="reference792">M-M-R II is a sterile lyophilized preparation of (1) ATTENUVAX* (Measles Virus Vaccine Live), a more attenuated line of measles virus, derived from Enders' attenuated Edmonston strain and propagated in chick embryo cell culture; (2) MUMPSVAX* (Mumps Virus Vaccine Live), the Jeryl Lynn** (B level) strain of mumps virus propagated in chick embryo cell culture; and (3) MERUVAX* II (Rubella Virus Vaccine Live), the Wistar RA 27/3 strain of live attenuated rubella virus propagated in WI-38 human diploid lung fibroblasts (FDA: MMR-II).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">2 to 8°C (36 to 46°F) or colder. Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference792">The growth medium for measles and mumps in this vaccine is Medium 199 (a buffered salt solution containing vitamins and amino acids and supplemented with fetal bovine serum) containing SPGA (sucrose, phosphate, glutamate, and recombinant human albumin) as stabilizer and neomycin (FDA: MMR-II).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response468" host_id="host2">
+			<immune_response refs="reference792">Neutralizing and ELISA antibodies to measles, mumps, and rubella viruses are still detectable in most individuals 11 to 13 years after primary vaccination (FDA: MMR-II).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference792">Many clinical studies have shown the vaccine have a high rate of efficacy protection after vaccination with MMR-II (FDA: MMR-II).</protection_efficacy>
+			<side_effects refs="">Side effects of vaccination are: fever, headache, dizziness, and irritability</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine973">
+		<vaccine_name>Mumps HN Protein Subunit Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011419</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1178">Aluminum hydroxide (Liang et al., 2008).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering455" gene_id="gene582">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response728" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus macaques</host_strain>
+			<vaccination_protocol refs="reference1178">Six monkeys in Group 1 were immunized with 10 μg purified vaccine and adjuvant (aluminum hydroxide, aluminum content: 1.0 mg/ml). Six monkeys in Group 2 were immunized with 20 μg purified vaccine and adjuvant. Two monkeys in Group 3 were immunized with attenuated vaccine (4.1 log CCID50). Two monkeys in Group 4 were mock immunized with 0.9% saline. All experimental groups were immunized by deltoid muscle injection and boosted once per 4-week interval (Liang et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1178">At 1 week after the challenge injection, neutralization antibody was induced in the immunized monkeys to a higher level than in the control monkeys. The clinical and pathological observations after challenge of vaccinated rhesus monkeys indicated further that the immune response induced by this vaccine provided complete protection from wild-type virus infection (Liang et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1178">Four weeks after the second immunization, all four monkeys in groups of experimental vaccine and all two monkeys in group of attenuated vaccine were challenged with virus, while the others remained uninfected to test their antibody titers at 2, 3, 4 and 6 months after the second dose (Liang et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine336">
+		<vaccine_name>Mumpsvax</vaccine_name>
+		<proper_name>Mumps Virus Vaccine Live</proper_name>
+		<brand_name>Mumpsvax</brand_name>
+		<manufacturer>Merck &amp; Co, Inc.</manufacturer>
+		<vo_id>VO_0000074</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed>USA</location_licensed>
+		<description refs="reference792">MUMPSVAX is indicated for vaccination against mumps in persons 12 months of age or older. MUMPSVax is now a component of the vaccine M-M-R II (FDA: MMR-II).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">The vaccine must be maintained at a temperature of 10°C (50°F) or colder.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference725">This vaccine is a sterile lyophilized preparation of the Jeryl Lynn** (B level) strain of mumps virus. The virus was adapted to and propagated in chick embryo cell culture. The growth medium for mumps is Medium 199 (a buffered salt solution containing vitamins and amino acids and supplemented with fetal bovine serum) containing SPGA (sucrose, phosphate, glutamate, and human albumin) as stabilizer and neomycin (Merck: Mumpsvax).</preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs="">Live Jeryl Lynn (B level) strain of Mumps virus.</antigen>
+		<host_response host_response_id="host_response435" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference725">Clinical studies also established that seroconversion in response to mumps vaccination paralleled protection from these diseases (Merck: Mumpsvax).</protection_efficacy>
+			<side_effects refs="reference725">Side effects of vaccination include: fever, irratibility, and diarrhea (Merck: Mumpsvax).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine617">
+		<vaccine_name>Priorix</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Priorix</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010734</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Live virus. Other components: Lactose.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at at 2 to 8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine620">
+		<vaccine_name>Priorix-Tetra</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Priorix-Tetra</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010735</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Live virus. Other components: Lactose.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at at 2 to 8°C. Do not freeze</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine377">
+		<vaccine_name>ProQuad</vaccine_name>
+		<proper_name>Measles, Mumps, Rubella and Varicella Virus Vaccine Live</proper_name>
+		<brand_name>ProQuad</brand_name>
+		<manufacturer>Merck &amp; Co, Inc.</manufacturer>
+		<vo_id>VO_0000091</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA  (License #0002)</location_licensed>
+		<description refs="reference795">ProQuad is a sterile lyophilized preparation of (1) the components of M-M-R*II (Measles, Mumps and Rubella Virus Vaccine Live): Measles Virus Vaccine Live, a more attenuated line of measles virus, derived from Enders' attenuated Edmonston strain and propagated in chick embryo cell culture; Mumps Virus Vaccine Live, the Jeryl Lynn™ (B level) strain of mumps virus propagated in chick embryo cell culture; Rubella Virus Vaccine Live, the Wistar RA 27/3 strain of live attenuated rubella virus propagated in WI-38 human diploid lung fibroblasts; and (2) Varicella Virus Vaccine Live (Oka/Merck) refrigerator-stable formulation, the Oka/Merck strain of varicella-zoster virus propagated in MRC-5 cells (FDA: ProQuad).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">maintained at a temperature of 2° to 8°C (36° to 46°F) or colder.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference795">propagated in chick embryo cell culture (FDA: ProQuad).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response471" host_id="host2">
+			<immune_response refs="reference795">According to clinical trials, there were high levels of antibodies in 96.7% of those vaccinated after a single dose of Proquad (FDA: ProQuad).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects of vaccination include: injection site reactions, fever, irritability and diarrhea.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4194">
+		<vaccine_name>rvOka-HN (mumps virus)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004709</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3235">Recombinant varicella-zoster virus (VZV) Oka vaccine strain (vOka) that contained the mumps virus (MuV) hemagglutinin-neuraminidase (HN) gene, inserted into the site of the ORF 13 gene by using the bacterial artificial chromosome (BAC) system in Escherichia coli (Somboonthum et al., 2007).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1745" gene_id="gene582">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3235">A recombinant varicella-zoster virus (VZV) Oka vaccine strain (vOka) that contained the mumps virus (MuV) hemagglutinin-neuraminidase (HN) gene, inserted into the site of the ORF 13 gene (Somboonthum et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1837" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3235">Immunization of guinea pigs with rvOka-HN-induced VZV- and HN-specific antibodies (Somboonthum et al., 2007)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3235">Interestingly, the induced antibodies had a strong neutralizing activity against virus-cell infections of both MuV and VZV. Therefore, the novel varicella vaccine expressing MuV HN protein is suitable as a polyvalent live attenuated vaccine against VZV and MuV infections (Somboonthum et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene582">
+        <gene_name>HN</gene_name>
+        <strain>Mumps rubulavirus</strain>
+        <vo_id>VO_0011171</vo_id>
+        <ncbi_gene_id>1489765</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9695422</ncbi_protein_id>
+        <gene_locus_tag>MuVgp6</gene_locus_tag>
+        <gene_refseq>AB040874</gene_refseq>
+        <protein_refseq>NP_054713</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>1979165</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>6613</gene_start>
+        <gene_end>8361</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>hemagglutinin-neuraminidase</protein_name>
+        <protein_pi>7.68</protein_pi>
+        <protein_weight>59974.82</protein_weight>
+        <protein_length>582</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002200.1:6613-8361 Mumps virus, complete genome
+GATGGAGCCCTCCAAACTCTTCACAATGTCAGACAATGCCACCTTTGCACCTGGGCCTGTTATCAATGCG
+GCTGACAAGAAGACATTCCGAACCTGCTTCCGAATATTGGTACTGTCTGTACAAGCTGTTACCCTTATAT
+TAGTTATTGTCACTTTAGGTGAGCTTGTGAGGATGATCAATGATCAAGGCTTGAGCAATCAGTTGTCTTC
+AATTGCAGACAAGATAAGAGAGTCAGCTACTATGATTGCATCTGCTGTGGGAGTAATGAATCAAGTTATT
+CACGGAGTAACGGTATCCTTACCCCTACAAATTGAGGGAAACCAAAATCAATTGTTATCCACGCTTGCCA
+CAATCTGTACAGGCAAAAAACAAGTCTCAAACTGCTCTACAAACATCCCCTTAGTTAATGACCTTAGGTT
+TATAAATGGGATCAATAAATTCATCATTGAAGATTATGCAACTCATGATTTCTCTATCGGCCATCCACTC
+AACATGCCTAGCTTTATCCCAACTGCAACTTCACCCAATGGTTGCACAAGAATTCCATCCTTTTCTCTAG
+GTAAGACACACTGGTGCTACACACATAATGTAATTAATGCCAACTGCAAGGATCATACTTCGTCCAACCA
+ATATATTTCCATGGGGATACTTGTTCAGACCGCGTCAGGGTATCCTATGTTCAAAACCTTAAAGATCCAA
+TATCTCAGTGATGGCCTGAATCGGAAAAGCTGCTCAATTGCAACAGTCCCTGATGGATGCGCAATGTACT
+GTTATGTCTCAACTCAACTTGAAACCGACGACTATGCGGGGTCCAGCCCACCTACCCAGAAACTTACCCT
+GTTATTCTATAATGATACCGTCACAGAAAGGACAATATCTCCAACTGGTCTCGAAGGGAACTGGGCCACT
+TTGGTTCCAGGAGTGGGGAGTGGAATATATTTCGAGAATAAATTGATCTTTCCTGCATATGGGGGTGTCT
+TGCCCAATAGTTCACTCGGAGTTAAATCAGCAAGAGAATTTTTCCGGCCTGTTAATCCATATAATCCATG
+TTCAGGACCACAACAAGATTTAGATCAGCGTGCTTTGAGATCATACTTCCCAAGTTACTTCTCTAATCGA
+AGAGTACAGAGTGCATTTCTTGTCTGTGCCTGGAATCAGATCCTAGTTACAAATTGCGAGCTAGTTGTCC
+CCTCAAACAATCAGACACTGATGGGTGCAGAAGGAAGAGTTTTATTGATCAATAATCGACTATTATATTA
+TCAGAGAAGTACCAGCTGGTGGCCGTATGAACTCCTCTATGAGATATCATTCACATTTACAAACTCTGGT
+CAATCATCTGTGAATATGTCCTGGATACCTATATATTCATTCACTCGTCCTGGTTCAGGCAACTGCAGTG
+GTGAAAATGTGTGCCCAACTGCTTGTGTGTCAGGGGTTTATCTTGATCCCTGGCCATTAACTCCATATAG
+CCACCAATCAGGCATTAACAGAAATTTCTATTTCACAGGTGCACTATTAAATTCAAGCACAACTAGAGTA
+AATCCTACCCTTTATGTCTCTGCCCTTAATAATCTTAAAGTACTAGCCCCATATGGTAATCAGGGACTGT
+TTGCCTCGTACACTACAACCACCTGCTTTCAAGATACCGGTGATGCTAGTGTGTATTGTGTTTATATTAT
+GGAACTAGCATCGAATATCGTTGGAGAATTCCAAATTCTACCTGTGCTAACCAGATTGACCATCACTTG
+
+</dna_sequence>
+        <protein_sequence>>NP_054713.1 hemagglutinin-neuraminidase [Mumps rubulavirus]
+MEPSKLFTMSDNATFAPGPVINAADKKTFRTCFRILVLSVQAVTLILVIVTLGELVRMINDQGLSNQLSS
+IADKIRESATMIASAVGVMNQVIHGVTVSLPLQIEGNQNQLLSTLATICTGKKQVSNCSTNIPLVNDLRF
+INGINKFIIEDYATHDFSIGHPLNMPSFIPTATSPNGCTRIPSFSLGKTHWCYTHNVINANCKDHTSSNQ
+YISMGILVQTASGYPMFKTLKIQYLSDGLNRKSCSIATVPDGCAMYCYVSTQLETDDYAGSSPPTQKLTL
+LFYNDTVTERTISPTGLEGNWATLVPGVGSGIYFENKLIFPAYGGVLPNSSLGVKSAREFFRPVNPYNPC
+SGPQQDLDQRALRSYFPSYFSNRRVQSAFLVCAWNQILVTNCELVVPSNNQTLMGAEGRVLLINNRLLYY
+QRSTSWWPYELLYEISFTFTNSGQSSVNMSWIPIYSFTRPGSGNCSGENVCPTACVSGVYLDPWPLTPYS
+HQSGINRNFYFTGALLNSSTTRVNPTLYVSALNNLKVLAPYGNQGLFASYTTTTCFQDTGDASVYCVYIM
+ELASNIVGEFQILPVLTRLTIT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A novel mumps vaccine with good immunity and safety was developed by selecting an antigen (HN) component of the mumps virus. The clinical and pathological observations after challenge of vaccinated rhesus monkeys indicated further that the immune response induced by this vaccine provided complete protection from wild-type virus infection [Ref1178:Liang et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference792">
+		<reference_name>FDA: MMR-II</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: MMR-II</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094050.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference795">
+		<reference_name>FDA: ProQuad</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: ProQuad Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094051.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference726">
+		<reference_name>Hviid et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hviid A, Rubin S, Mühlemann K</authors>
+		<title>Mumps</title>
+		<year>2008</year>
+		<volume>371</volume>
+		<issue>9616</issue>
+		<pages>932-944</pages>
+		<journal_book_name>Lancet</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1178">
+		<reference_name>Liang et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liang Y, Ma S, Yang Z, Liu L, Wang L, Wang J, Jiang L, Shi C, Dong C, Li Q</authors>
+		<title>Immunogenicity and safety of a novel formalin-inactivated and alum-adjuvanted candidate subunit vaccine for mumps</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>33</issue>
+		<pages>4276-4283</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference725">
+		<reference_name>Merck: Mumpsvax</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Merck: Mumpsvax information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.merck.com/product/usa/pi_circulars/m/mumpsvax/mumpsvax_pi.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4986">
+		<reference_name>�antak et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>�antak M, �rvell C, Gulija TK</authors>
+		<title>Identification of conformational neutralization sites on the fusion protein of mumps virus</title>
+		<year>2015</year>
+		<volume>96</volume>
+		<issue>Pt 5</issue>
+		<pages>982-990</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

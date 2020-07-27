@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen119">
+		<pathogen_name>Mycobacterium avium</pathogen_name>
+		<taxon_id>1764</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name></disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference2766">Mycobacterium avium is sometimes found as part of a larger complex called the Mycobacterium avium complex (MAC).  MAC is an opportunistic infection that takes advantage of a weakened immune system. It can infect one part of your body, such as your lungs, bones, or intestines. This is called localized infection. It can spread and cause disease throughout your body. This is called disseminated infection.  With HIV, MAC infection usually happens only after you receive a diagnosis of AIDS (acquired immunodeficiency syndrome) and when CD4 cell counts drop below 50 (WebMD - Mycobacterium avium complex).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3894">
+		<vaccine_name>M. avium DNA vaccine DNA-Av35/p2AIL12</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004540</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pJW4303 [Ref2659:Martin et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2659">IL-12 (Martin et al., 2003)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2659">M. avium 35,000 MW protein (Martin et al., 2003)</antigen>
+		<host_response host_response_id="host_response1536" host_id="host3">
+			<immune_response refs="reference2659">Co-immunization with p2AIL-12 and DNA-Av35 led to a significant increase in the number of antigen-specific IFN-gamma secreting cells and total amount of IFN-gamma released, but a concomitant fall in the antibody response to the 35000 MW protein (Martin et al., 2003).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2659">Immunization with DNA-Av35 resulted in significant protective immunity against M. avium infection with a 2-log10 reduction in the M. avium load in the spleen (P &lt; 0.001). The addition of p2AIL12 to the DNA-Av35 vaccine significantly increased the level of protection in both the spleen (P &lt; 0.005) and liver (P &lt; 0.01), with a further reduction in the bacterial load of about 1-log10 (Martin et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3212">
+		<vaccine_name>Mycobacterium avium relA mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002779</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering750" gene_id="gene1067">
+			<type>Gene mutation</type>
+			<description refs="reference2026">This relA mutant is from Mycobacterium avium (Park et al., 2011).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1037" host_id="host13">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2026">A relA mutant is attenuated in goats (Park et al., 2011).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2026">A relA mutant induces protection in goats from challenge with wild type M. avium (Park et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response54" gene_id="gene1140">
+			    <description refs="reference2026">Expression of IFN-gamma was increased. Specifically, a quantitative RT-PCR revealed the gene encoding IFN-γ was up-regulated in PBMC stimulated with live Map (a M. avium relA mutant) three months post infection compared to the response of PBMC pre-infection (Park et al., 2011).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response55" gene_id="gene1141">
+			    <description refs="reference2026">Expression of IL-17 was increased. Specifically, a quantitative RT-PCR revealed the gene encoding IL-17 was up-regulated in PBMC stimulated with live Map (a M. avium relA mutant) three months post infection compared to the response of PBMC pre-infection (Park et al., 2011).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response56" gene_id="gene1142">
+			    <description refs="reference2026">Expression of IL-22 was increased (Park et al., 2011).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response57" gene_id="gene1143">
+			    <description refs="reference2026">Expression of IL-10 was decreased. Specifically, a quantitative RT-PCR revealed the gene encoding IL-10 was down-regulated in PBMC stimulated with live Map (a M. avium relA mutant) three months post infection compared to the response of PBMC pre-infection (Park et al., 2011).</description>
+			  </host_gene_response>
+		</host_response>
+		<host_response host_response_id="host_response1132" host_id="host12">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference2026">Cattle peripheral blood mononuclear cells (PBMC) were used for cytokine detection (Park et al., 2011).</description>
+              <host_gene_response host_gene_response_id="host_gene_response265" gene_id="gene1140">
+			    <description refs="reference2026">Expression of IFN-gamma was increased in cattle PBMC. Specifically, a quantitative RT-PCR revealed the gene encoding IFN-γ was up-regulated in PBMC stimulated with live Map (WT) three months post infection compared to the response of PBMC pre-infection (Park et al., 2011).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response266" gene_id="gene1141">
+			    <description refs="reference2026">Expression of IL-17 was increased in cattle PBMC. Specifically, a quantitative RT-PCR revealed the gene encoding IL-17 was up-regulated in PBMC stimulated with live Map (WT) three months post infection compared to the response of PBMC pre-infection (Park et al., 2011).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response267" gene_id="gene1142">
+			    <description refs="reference2026">Expression of IL-22 was increased in cattle PBMC. Specifically, a quantitative RT-PCR revealed the gene encoding IL-22 was up-regulated in PBMC stimulated with live Map (WT) three months post infection compared to the response of PBMC pre-infection (Park et al., 2011).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1140">
+        <gene_name>IFNG</gene_name>
+        <strain>Bos taurus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>281237</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>31982949</ncbi_protein_id>
+        <gene_locus_tag>BOS_5228</gene_locus_tag>
+        <gene_refseq>AF140653</gene_refseq>
+        <protein_refseq>NP_776511</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>9913</taxonomy_id>
+        <chromosome>5</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>45830157</gene_start>
+        <gene_end>45834980</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>interferon, gamma</protein_name>
+        <protein_pi>10.24</protein_pi>
+        <protein_weight>18866.5</protein_weight>
+        <protein_length>166</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|258513362:45830157-45834980 Bos taurus breed Hereford chromosome 5, Bos_taurus_UMD_3.1, whole genome shotgun sequence
+AATTAGAAAAGAAAGATCAGCTACCTCCTTGGGACCTGATCATAACACAGGAGCTACCGATTTCAACTAC
+TCCGGCCTAACTCTCTCCTAAACAATGAAATATACAAGCTATTTCTTAGCTTTACTGCTCTGTGGGCTTT
+TGGGTTTTTCTGGTTCTTATGGCCAGGGCCAATTTTTTAGAGAAATAGAAAACTTAAAGGAGTATTTTGT
+AAGTATGATCTTTTAATGAGACTTTCTTGTGATTGAAATGACTTGATGTTTGATGTTGACTTGGAATTCT
+ATCTATGATGGGCTCTCATCTCTAGTCTTCAGTCATTTTGAGAAGACTTGCTGTTATTGTGACTGTTAGC
+TAGATGTGTTTGTTTGTTTGGTTTTTTTTTTTTTTCTGACTAAACAATCTCTGCTCAGTTTGCTATAGAG
+ATTTAGAAGGGATTCATGAATCTTTCAAAAGATGGGCATAATATGTGTATACATCATAGTGTTGATATTT
+TGTGATAAGAATCCATTCAACTATGATGTTAAGTAGCAAGCATACTGAAAAGACAGCTGAGTCTTAATTT
+TTGATTTCTCATGTTACTATAATGATGACAGTCAGAAGTCAAGATCAGCATTAAAAATGGTCATTTGACA
+TAATTGATCAATTAAAGAAGATGAGGTCCTTAAATATTTGGCTTAAAAACAAAAACACTTATAGGTGTTT
+TTCTCTAAAAAGTCATTTTAAAATTTTACTATCCCATCTAGATTGTCTGTGAATTACTCTTGGACTCAGT
+CACTTGCTGAGATTTTTTTTGTAGGAGTTATAATCTAGTTTATATTTTAAAAAATTTTTTGTCTTGTTTT
+AGGAATTTCTTAAAAATTTACTTATGGTTAATTAAAATAGCTTGGGCATTTTAAATATTTTATCATATAT
+CCAAATTTAGCTGTTATAATTATAGCTGGAGCTATCTTTTAAAGGCGATATAATACCTTATAGGAGGACA
+CAGGTAGAGGTTATGAACCGTATACCATAGGGGGGCAGTATTTTATAGTGAGATGATGTTGTTGATTTTT
+TTTTTTTTTTTAACTATACCTTTTTCTTACCATAGTAATTTGGGACAGTTGAAGTATCATCAGTCTTGAA
+TGAGTTCATTGTGATGTTATATTAGTAAATAAGAAAGCAAAAATCACATGATAGTCTTTGGCTGTTATCC
+AACCAGGTAGCTTTTGTGAATATTTTTTGTTAAAACTAAACAGTGTTGAAAAGAAAATCAGTAAATAGTG
+CCAGCATCCAAGTTCAATAAAACTTGAGGTACATTTTTACAGCAATTTATGGACTAATTTTAAGCCAATT
+TTTTATTGTGTTGTTTTATTTTCCAGAATGCAAGTAGCCCAGATGTAGCTAAGGGTGGGCCTCTCTTCTC
+AGAAATTTTGAAGAATTGGAAAGATGTAAGCTGAACATTTCCATTTGGCTGATTTTCCTGTTGCTTTTTT
+TCTGATGGATAAATTCACATCAACCTCTCTTTGTGCTCTTTTCTCCCAAGGAAAGTGACAAAAAAATTAT
+TCAGAGCCAAATTGTCTCCTTCTACTTCAAACTCTTTGAAAACCTCAAAGATAACCAGGTCATTCAAAGG
+AGCATGGATATCATCAAGCAAGACATGTTTCAGAAGTTCTTGAATGGCAGCTCTGAGAAACTGGAGGACT
+TCAAAAAGCTGATTCAAATTCCGGTGAGATGATCTTAATGCTTTCTTTGGTATCATTGCAGAGGCTCTTA
+CAAAGCACTTCATTCCCAGAAAATAGAAATTAGATACCAGGTGTAAAGCTCTGAAGTGAACTTGTGGTCA
+AAATGCCTCTTTGCTAGTTCTCTTTTGACTTGGGTGACTTTGCCGAGTCAGTTATTGGAGGCACTTAAGT
+CTGTGATTTTGGGAAAATACTGGCATTATGCCTATCGCACAAAGATGGGTGAATGGACAAATCAGTGAGG
+AGGAAGCAGAGAAGGAGTTGGGGTGATGGGGACAGAGTACTGAAAACCAGTTCTCCCATTGCCCCTTGTC
+TGTGTGTTGGAAATTCTCTTGCTTTGAATAGGTTGCATGTCTTAATGGAAAGAGCAGTGGGAGGGAAAGG
+GAAGAAGATGTGTGCTCCGCCCAGCTTAGCCACCAAAGAAATGTGTGACTTCAGATGAATCACAGGCCTG
+GCTGGGGCTGTTTCCTCATCTTAAAAGGAGCCTGTTGAGTTCACTGTAATTTCTACGGTCTCCTTTGCTC
+TAAAATTCTACAATGCCATGGAAAGAAAATGAGAATGAGATAGGAGAAAGGAATAGCCTTTGAGGAGACA
+AAGGCCCTCCCACTGTCGAACTCTGGTCAATCACCCAGATTGTATAGCCCAAGGAGAGGTGACTGCGTTT
+GTTTTTAGAAAGAAAATAGGTAGAATTGTCCTATCAATGAATTTTTAAAGTTTTTAGAAGCTGAAAGATC
+ACTTTGAAGCATAAGGACAAGTCACATTTTCCAAAATTTCACCTAAGGGACAACGGTCTCCAGATTTTTT
+TGCGGGGGAGAGTTGGCTTTTGTATAAATAGGCTTGGGTGAGAAGAGGAGGGGTCCCATTATGACTTGTG
+CTTTCAGGATTTGTACCAGCTCTTGCTCTAACCTGGTCTGCCTCTCAACAATCTCATATAAGCTCCCAGG
+AACTGAAATAAGTGGTTGCTCTTCAAGATTTCTCTAGTCTCCCATATATTAGATGGTATGAGAGTGGCTT
+GGAAAAATTATATGTAATGTTTTCCATGTTCAGCAGATCTCCATTGGTTGCAGGCTAGAGAATGAAAAGG
+CACTGTTCCTGACCCAGTGCTGCCTCTGGTTGCTGTTCAGTCCTAGAGAAGTCCCTTAGTTTCTTGGTGA
+TGCTTAGAAAACTGGAAAGTTATCACTTGTAAACACACAGCTGGTAGAAATTTTTCTACTCTGTTGTAAC
+TGGGCCTTGAAAACAATAGGTTGGTCCCATCCTTCTGGAAGCTCCAAGCCTCCTTCTTCACAATGTGCAA
+TCTTGAGTGAGTGCTCAACCATTGTCGTCTTTTGCTCAAATGTGAACATATTTAAGGCACGTTTTGCCTT
+TTTGTCTTGTAACTTAGAATCTCCTAGTCATTCTCAGAAATGTGGCAAGGTGGCTGCAGTGTTTCAGCTT
+TAGAAAGAAATGTAGTGGCAGAGCAAAGATGAAAGCAAATGGTCCTCATTTTATGAAGCATGAATTCACC
+TATATTGTCCTACTGGGAAGAGTGAGAAAATAGTTCAATTTGCTGGAGTGGAAGGCAGGGTACCGGGAGA
+TTGCTTTCATTTCTAACTTTATTATATAATACCAGTAATTGATTACTACCTTTAAATAAGATCCGTGTTT
+ATTTTTAATCCCATCATGGAAACAATGAGACTGACCTAATTTGGAGGAAATTAAAAATAATGGTTTTCCT
+CCTTCTAGAACTTGGTGTTTATAAAGTACTGAACCTATACCAATGGTTTTCAAACTTGGGTGGTGCCTAA
+ATCACCTGGTGATGTTGGTAACCACACAATGGCCCAGGCCTAGTCCGATTTCACCCATCTGGGTGTCAGA
+GTTCTTCATTAGGTCCTCAGGTTACTCTTTTACGCACCAAACATGAGAGCCATTGGCTATAGTAACTCAT
+TTGATGCTTACAGCGAAGACTAAGTACTAAGTGATAGCAGTGACGGAGACCCTAGGGATCATCTAAACAC
+TCTCCTCATACTTAGTGGAGAAAACAGAGATCTGGAGAGCCTCAGTGACTGGTTTAAAGTCAGATGTATT
+GCACACACAGAATTCACACCCACATTTTTCTGTCACTCTACTTCTGGGGTTTTTTCACTATATAATTTTC
+AGATCTCTGAAGTGGTAAATTTATGAATATGTGATGTGCTCCATCCTGTTACAGTACAACTATCAATTGA
+ATTGTTATAATTTTAGTTTTTATCACTGAAGAAACCAACATTACATATTAAGGTTCATTACTGCTAGTGA
+AAATAATTTGTTTTAAAGAATACTTTGATTTTCTTGGGCCTAGACAGCAGAATATCCTAATGACTCATAG
+GCCTGAAATTAATTTTGCTGTTTTCTTTCCCAATAGGTGGATGATCTGCAGATCCAGCGCAAAGCCATAA
+ATGAACTCATCAAAGTGATGAATGACCTGTCACCAAAATCTAACCTCAGAAAGCGGAAGAGAAGTCAGAA
+TCTCTTTCGAGGCCGGAGAGCATCAATGTAATGGTCCTCCTGCCTGCAATATTTGAATTTTTAAATCTAA
+ATCTATTTATTAATATTTAATATTTTACATTATTTATATGGGGGATATATATTTAGACATCAAAGTATTT
+ATAATAGTAACTTTTATGTCATGAAAATGAGTATCTATTAATATATGTGTTATTTATAATTCCTGTATCC
+TGTGACTATTTCACTTGACCCTTTTTTTTCTGAGTAACTAGGCAAGTCTATGGGATTTCAAGGTTTTATC
+TCAGGGGCCAACTAGGCAGCTAACCTAAGCAAGAATCTGTGGGTTGTGCACTTATTTCACTTGATGATGT
+AATGAATGCTGATAAATGAAATGATGCCATCTAGTCACTACTTATCTGAGACTAGATCTGGATTCTGAGC
+CACTACTTTGATGGCATGTCAGACAGCACTTGAATGTGTCAGGCTATATGACTTGTGCCCTGACAAAAAC
+ATAGCATCTCATCTCACCTTATACCTGGCGCTTCAGGATATCACTGACAATTGTGATTACACCCAAATGG
+AAAGTAATATGTTTGTTTAGTTTATCAATATTTAATATATATGAATAAAGTATAATTTCATAAC</dna_sequence>
+        <protein_sequence>>gi|31982949|ref|NP_776511.1| interferon gamma precursor [Bos taurus]
+MKYTSYFLALLLCGLLGFSGSYGQGQFFREIENLKEYFNASSPDVAKGGPLFSEILKNWKDESDKKIIQS
+QIVSFYFKLFENLKDNQVIQRSMDIIKQDMFQKFLNGSSEKLEDFKKLIQIPVDDLQIQRKAINELIKVM
+NDLSPKSNLRKRKRSQNLFRGRRAST</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1143">
+        <gene_name>IL10</gene_name>
+        <strain>Bos taurus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>281246</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>41386772</ncbi_protein_id>
+        <gene_locus_tag>BOS_15514</gene_locus_tag>
+        <gene_refseq>GJ062448</gene_refseq>
+        <protein_refseq>NP_776513</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>9913</taxonomy_id>
+        <chromosome>16</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>4402473</gene_start>
+        <gene_end>4406411</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>interleukin 10</protein_name>
+        <protein_pi>8.14</protein_pi>
+        <protein_weight>19616.38</protein_weight>
+        <protein_length>178</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|258513351:4402473-4406411 Bos taurus breed Hereford chromosome 16, Bos_taurus_UMD_3.1, whole genome shotgun sequence
+AAATAGCTCACAGAGAAGCTCAGTAAATAAATATATGTGGGAGCTGAGGTATCAGAGGTAATAAATACTC
+TAGGGGAGAGGCACAGTACAGGTCTCCAGGGAGCTGGCTCTGCTCTCCCAGAACCCTGGATTGGATTTCA
+GAGGTCTTCCGTTTACGTCATGGAGTCTAGTAGAGTCACCATCCTGGAGGTCTTCTTCCCTAGAATGCTT
+CACTTTTGCATCTTCGTTGTCATGTAGGTTTCTATGTAGTTGATGAAGATGTCAAACTCACTCATGGCTT
+TGTAGACACCCCTCTCTTGGAGCTGTGTGGGGAGACAAGACGTGTTCAGTGAAAACTCCCTCTGAGCAAG
+TGAGTGGGTCCCTGCTGGGAAGGTCATGACCCTGGGCCCAGAGGCTGCACTAGCTTGCTTGCATTGGGAG
+ATGAAGGACAGACTCTGGGCATCTGGAGAGATGCCGGACTGTCAGCAAAGGCTATGCGTTGCCCTGGACC
+TTGCCCGGTGGGCAGCAAGAGGAACATTCACTTTGCAAAGTGTGGTTTTTCGAACGGTGCTTTTCCAGCA
+ATTTTAAACGTCATGTGCTCACGTGACGCTTATTCAATATCTGATGAAAACACATTAGCGGAACCACTTT
+GAAAGAAAGACAATGAGAGAGAGAGAGAGAGGTAGCCTTGTTCCTGTTTATGTTCCCCCACCCGTGGAGT
+GAGCAGGCCCAGCCCCGCTGCTCTGACCTACTGCAGGGAGGTTCATGGCCCCTGATACTGGAACCTGCCC
+AGGGTCTGTCCCCCACCCACGAGGAGGACATAGGTTCCGCGGCTTCTGGAAAATGGGGTAGAAGAGCTCA
+TGGACAGCTGGAAGTGAGAAAGGCCACTTCGTTTGAGAGCTGAGATTCTCAGGTGCCTTGTGTGGTGAGG
+CTGGCGGGTGGAAAGAGAGGGGTCAAGTCAGGTAAGGAGAGCTCTGCTTCCTGCTCTGGGCTCGGGGTGC
+TCAGGCTGCGCCCCTGGGTGTGTTTGTAAGTGCACGTTCACGTGTCAGCTTCCTGCACGTGCGGCTTCAG
+ACTGGATCCCAACAAGCTACTTTCTGTTTCCTCTGTCACTCTCCCCAGCACCCCGCTCGCTGTGTTCACA
+GCTGGCGGGCCAGCCCAACCGGCAGGCCTGCGAAGGCAGGGAGCAGTCATTTAGAAACCCCCAAAGACAC
+TTCACAGAAAACAAATATAACTGAGGTGGCGGCCCCTCACTGGATGAAGAGGTCACCCCACTTGCCGGGT
+TCCCACACTCCCTCCGAGCAAAGTTCAGGGCCTGCTGAGCACCTGCCCACCTCTGCCCCTTCGAGAGTGG
+ATGGAGGTCACGGTCCTCAGGCCCTCCCTGCCAGCAGCCCAGCCTCACCTCACTGAAGACTCTCTTCACC
+TTCTCCACCGCCTTGCTCTTGTTTTCGCAGGGCAGAAAGCGATGCTGTGGAAAAGGAGAGAGTATGAGCA
+ACATTGGTGGCTGGTCCCAGATGCACCGTGCTTGGGAGACAGCCTGGGAGCAGGAGGAGGCCAGCTCATC
+TTGAAGGCCCACCCTGCATCTCAGGGAGGACTGAGCCTGGGCACCCTTCCCCACCAGGCAGAGAGGAAGC
+ACAGCAAGGCAGGGGCCAGGCGGCATGTGTGTCTCTAGGAGCTCCTCCCCACCGTTAACAAGGCTGCATC
+AACACCTCTGTCTTGGAGTTTCCTTCCGGGCGCATCCCAGTGCCAACCAGACTGCTGAGCCAGCCCTTCT
+TCCATCCTGTCCTGCTTCTGGCCTGTCCCCCTCCTTGGTCCCAGCCACAAGGACCATTTCTAAGTGCCCC
+GCAGAGCAGAGACACAGGGTCAGCCCTGCCAGCCAACCCCCTTGCCTAGCGCTGTCCTGCAAATACAGCC
+CAACTGATTTCTCAACATCGGCGAGGGAGCAGAGGAAACTGGTGGGGAGGGTATCATTGCAGTTGGAGGG
+ATCAGTAATCCTGGGGGATTATTCGCAGACACTAGCCTGGGACCAAGGATCCCCCTGGCTCTTCTAAAAT
+GCCAGGACAGTCCTGGCAGTCAGCCGGGCCCCACCTGAAGCTCTGCTTTCAAAAGGTCGAGAAGAAGAGG
+AAGGGGCCTTCCCTCTCCCAGGCCCTCTGCTTCTGCCTGCTTCCGTGGGGCCCAGGGCCTCTGTCCCCAG
+GGACAAGGGAGCCCTGGCTGAAGCTCTGGGCCCCTTTCACGTCGAGGCCGGGGACTGCTAATAACCCACA
+AATGACTCACAAATAACAGGAAAGCTATTGCAAATCTTCACATGTAAGCACTCAGCAACCACCCCCACCC
+GCGGCTCAGAAACAGCCGAGCCAGGCCTGGGGTTCCGGAGGGGCAGGGGCCCCGAGGGCTGGTGTCCCGG
+GGTCTCTGGGCGAGAGCAGAGCTTGAAGAGGAGGTCTCAGCACGAGCCCAGAGGAGCCAGAGCTGGCCTG
+CTACTCACACAGCGCCGCAGCCGCAGCCGGAGGGTCTTCAGCTTCTCCCCCAGTGAGTTCACGTGTTCCT
+TGATGTCAGGCCCGTGGTTCTCAGCCTGTGGCATCACCTCTTCCAGGTAAAACTGGATCATTTCCGACAA
+GGCTTGGCAACCCAGGTAACCCTGAGGGCGGAAACCAAGGCGGGTGGTGACCCGGGAGGAAGGGCTACAC
+TGCCTGAGAGGACGGCTCTGTTCCCCAAGGACCTTGTTCAGTGGCCACCTCCCCCTGGAACGGAGCCCTT
+GGCAACACCCAACACCCTGCCTCCCTCTGGCTATGTGCTGAGTTAAGATCTTCCCACTTCTCCTTTTTTT
+GAAGTGAAGGAAGCAGACCCAGCTCCCTGCAGGCGAAGAAGCAGAGTCTCCCTTGGGCACACCGCAAGCT
+CCTTGCCCCCGCCAAACGCACTCACCCCAGCCCTCACCTTAAAGTCATCCAGCAGAGACTGGGTCAACAG
+TAAGCTGTGCAGTTGGTCCTTCATTTGCTGCAAGAAGAACAGAAGGAGAATGAACCCAAGGTTTGGAGCA
+ATACTGAGAAGGACTGTCTTTCTGATATCCTTTTATTGAGAGACTTTTTGATTTTTAGTCAACACAGCCC
+TGTCTCCAAAAGGGAAAGGAGAGGTTTTGAAACAGGACATTCAGCAGCGCTGAAGCCCTTAGTTAAACCA
+GGTCCTTCCTCCGGGGATCAAGTTCTTTTAAAAACCTGGCTGATTTTGAAGGCAAGGCAGAAGCCTGCCT
+GGGTCCCAGTCTTCTTTCTGTAGAGCTGCGTCACGTGTGCAGGGACCCCCATTCCCAACCCCTCAGCACC
+CTCTGCTTTGCTGTCTCCAGCTGCAGCACTGACCGTTCTCTGGGAGTGGCAAGCATCTTCTCCTGCAGGT
+CTCCCCCTGTATGCGCTACCTCCAACCCATTTGTCATTCAGGTTCTGGAAGCCCTCCAAGCTGAGGCAAC
+TTTTGTATCCCTGCCACGGGGTTTTGGGAACATCTTCACCTCCAATCAGATCTCTCCCAGCCAATGAGGT
+ATTGAGCTCCAGAGGAATCCTTTACAGATTTTCTAGCATAGGCTAGATGTGCCTTTACATTTTTAAAGAC
+AACTTTTCTTGCACAATCTGCTACATCACCAGAGCTCAGATTAACTCACTGAACCCACAGTTTGACCAGG
+GACTCTTAAGAATTTCAGCTTCGAGGGGAATGGGTGCTGAGGGTGGAGGTGAGTGAAAAGGAGGCTCTTG
+TGAGTGCCTGCAGAATGGCTCTTCCTGCGGTCCTAAGGGAGAAATGAAGGACAGGAGGGCTTTATACTCA
+CAAAGAAAGTCTTCACCTTGCCGAAGGCAGCTCGGAGCTCCCGCAGCATGTGGGGCAGGCTGGTTGGCAA
+GTGGATACAGCTGCTGTCAGACAGGGTGCTCGCATCTCGGCTGGCTGCCACCCCAGCCAGGAAGACCAGG
+CAACAGAGCAGGGCTGAGC</dna_sequence>
+        <protein_sequence>>gi|41386772|ref|NP_776513.1| interleukin-10 precursor [Bos taurus]
+MHSSALLCCLVFLAGVAASRDASTLSDSSCIHLPTSLPHMLRELRAAFGEAKTFFQMKDQLHSLLLTQSL
+LDDFKGYLGCQALSEMIQFYLEEVMPQAENHGPDIKEHVNSLGEKLKTLRLRLRRCHRFLPCENKSKAVE
+KVKRVFSELQERGVYKAMSEFDIFINYIETYMTTKMQK</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1141">
+        <gene_name>IL17A</gene_name>
+        <strain>Bos taurus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>282863</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>56605852</ncbi_protein_id>
+        <gene_locus_tag>BOS_21471</gene_locus_tag>
+        <gene_refseq>AF166487</gene_refseq>
+        <protein_refseq>NP_001008412</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>9913</taxonomy_id>
+        <chromosome>23</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>24346987</gene_start>
+        <gene_end>24350508</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>interleukin 17A</protein_name>
+        <protein_pi>9.15</protein_pi>
+        <protein_weight>15852.85</protein_weight>
+        <protein_length>153</protein_length>
+        <protein_note>Also known as IL17; IL-17</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|258513344:24346987-24350508 Bos taurus breed Hereford chromosome 23, Bos_taurus_UMD_3.1, whole genome shotgun sequence
+TGTCCATCTCACAGCGAGCACAAGTTCATCTGTCTACAGTGAACTGGAAGGAACTACCATGGCTTCTATG
+AGAACTTCATCTATGGTGAGTCCTGAACTGATGTGTGATTCTCTTCTCGATTTAGGCCAGATCAATTTCT
+GGACTGCGGGCATGAAATTCTGGATTCTAACTATGGAAATACAGTCTATATAGGATGGGAAATGAAACCC
+TTGATAGATATTTGTCATTATTGAGCATTTTCAAGAACTGGTGCATATCAGTTTGAAAGATGAGATTAAA
+ACTGAAAGATAGCTAGACTGGGGCTAAACCACACAAGAAGTGTCAACGTGACATTGTGCTGTAAGAGAGA
+ATGCTTATTGAAAATCTGTTTCTCTGGGTACAAGGGATTTAATATAATTCTTCCACAGTGTTTTTCTTTA
+ATTCAAAATAAGATGGGTCACTACCCTTGAAGATTTAATGTTTTGGCAGTGACTCTTCTTTCCATTATTG
+TATTATTATACTATAGTCTTGGTACACTAACCCTATTTTCTTAGGTATGTTTCCCAGCTTTTCCAAATTT
+ACATATATTGATTCTGTAATCAAATTGGATTTCAAAAAAGATGCTTTAACAATATTTTAAAAACAGAGAC
+CTTTTAATTCTAATCTAAAGTTATACATGCGTCTTTTTTGAAACCCAATTTGATTACAGAATCAATATAT
+GTAAATTTAGAAAAACTGGGAAATATACTTAAGAAAATATAAGAGGGTGTTGAGTTTGGGCTTGGACATT
+TGCCAGTGGTACCAACAGAATTTCTAACTGATTCCACATGGATTTTATACAGCCCTTTATGTCTAAGGTG
+TGCATTCCCTTTTATGCAATGTTTCACAAAATGTAAGAGGAGATATCAATGGTGTAGAAGGGCATTTCTT
+CCTAGAAAATCAAGGTCATTACCCTTCCAAAGACCTGAGAGTGATGCATATACTGATATATTGATGACTT
+GCCATCTTCACTAAAATTACTGTCAGCCAATGAATAATGTGGTTTTTCTACTTTAAAAAAAAATGTTCAA
+GACTGGTAGAAATGCCATGGTCCTAATGTCACTTTAGTCATCTCATCAGCTTTTCACTTAACATATTTGA
+AAATTTAGTATAGATTGTCCTGGACCATAGAATGTTCTCTACTATCAGCAATTTAATCATTACCACAGTG
+TGTTAACAAAAACCATTGTAGTACTAACCCAATCTACCTCTCTCTCCATCCAGTCACTGCTACTGCTTCT
+GAGTCTGGTGGCTCTTGTGAAGGCAGGAGTCATCATCCCACAGAGTCCAGGCTGCCCACCTACTGAGGAC
+AAGAACTTCCCGCAGCATGTGAGGGTCAACCTAAACATCGTTAACCGGAGCACAAACTCCAGAAGGCCCA
+CCGATTATCACAAGCGCTCCACCTCACCTTGGACTCTCCAGTACGTAAGCACCCCAGATAAAACCTCTGC
+ATTCTTCTACATCAGAAGAACACATCAGACTGCCAGTTAAATCATCTGAGGGGGGTGATATTACTCATTC
+AGAATCACCTGTCAAACCTGGAAGAGCCATTGTTCAAACTAGTGATTCTCCAATTTTCTTTCTACAGATT
+TCTTTCATAGATCACAGCTCTCCCCAGCCCATCCATAACACCTAGCCTACGAGTTCTCGATGTCCCCAGA
+ATCCACTTAAATGAATGGTGGTCATCATTCTGATATTTATGACACCCCAAGTCTATTGTTTATTTACCCA
+AAAAAGAAACAGACATTTAGCATGGGAGATTAGTACTGGAATTCTCTTTCCCAGGGCTACCAGAGAATAC
+CCTGGTAGAGTTTGTTGACAACAACAATCAATTAACTGGGATTTTTGTGCTTTTCTTGGTTATATTAGCA
+CTGGGAAAAGTGGATTAGCTACTGGATTAGCTTGAATCCCAGTAGAAGAAGTGTTCCATTGGGTGTTTCA
+CCGTTTTTTGACTTAGTCTTGAATTACATCCCCAACAGACTGACATTCGCTGTGTCTTTAATACATCTAG
+TGGTGGTGGTGGTGGTGGTGGTTTAGTCGCTAAGTCGTGTCCGATTCTTGTGATCCCATGGACTGTAGCC
+CACCAGGCTCCCCTTTAGACCCTATGATGGATCAAATACAAAATGCATTTTGATAATTTGATTTCAGGCA
+AATGATCTCAGTTATGTGGAGCCTACAGATTCACTTGTCTATAGGGTCTTTTCTTCTTACTTACTTACTT
+ACCAAGAATAGTTCAAATAACTTAAACTAAGTCCAATCACTCTCTCAGCCAGAGGAGAGGGAGAAGGGAA
+AGTTACAGAGGGGCTTCAGATATTGTTTCCAGCCCTTCCTGTCACCCGTGGGCTCTGCTCCATCAGTGTG
+TTGTCAGATAAATTTGGATGCCTTTCTTGTTTCAAAGACAGACTTCATTAAGTCAGATTAGCAGCTATCT
+TGTTTCTAGATGACTCTTAGTTTTTTTAATCTATCAAATGCACCCTAAAAAAATATCCTTTATGACAAAC
+AAATCCTTTCTGTAGTTTCAGTCTGTCTTCTTTTGTTTATTCTTCAAAGAACCTGGGGAAAGCTGATCAT
+TGTTTCTTTTTTCTGTAACATTTCATGGGCTTCCAAATCCAAGTTTTTCCCAAATGGCTTGTTTTCCAGA
+CTAATAGCACTTAGAGAATTTGCAATGCCTATCATGTCAATTTGCCTCCCTTTGCTTATTCCTGTTTGAT
+TTCCTTACTGCTCTACCAGGAATTCACTTTCTTCCTGGCTTTTGTCTCCCCTGCAGCCGCAATGAGGACC
+CTGAGAGGTACCCCTCTGTGATCTGGGAGGCCAAGTGCAGCCACTCAGGCTGTATCAATGCTGAAGGCAA
+GGTGGACCATCACATGAACTCTGTCACCATCCAGCAAGAGATCCTGGTCCTCCGAAGGGAGTCTCAGCAC
+TGCCCTCACTCCTTCCGGCTGGAGAAGATGCTGGTGGCCGTGGGCTGCACCTGCGTCACCCCCATTGTCC
+GCCATTTGGCTTAAGAGCTTTCTGCCTGACCCCTACTCCCCAAATTAGTTAGGTTTCCTGGGGAGTAGGC
+CCAGCCCCTTTTCTAACTAACATCATTTATGTATTTAATAAGCCCTGAAATAACTTTGGGGCATAAGATT
+CCACTTTGATGTATTACATGCTTTATTTTCTATTCTTTTAAGACAAGTTTCCAGATTTGTGAATATTATT
+ATTTAAAAGGTAGAACCTATATTTATATGAGCTATTTATGGATCTATTTATGTTTCATTAGTCTTTAGAA
+AAAAGGTGAAATATATGAGTATCTGTTTTGCCTAGGGAAATCCTAGATAGGATTAAATAGCAGTTGAAAA
+TGTCTGAGCTTGTACTACATATGGCTATAGAATTTTCTCTTGCTTGTCTCTTTGGAGTACATAACACAGC
+TGAAAAGAGACTAAATTTAGTTTCATATTTATTAACTTAATTTTGTAAATTATTGAGGCATTACAAGAGA
+GACAGCAAGTCTAACTGCTCTA</dna_sequence>
+        <protein_sequence>>gi|56605852|ref|NP_001008412.1| interleukin-17A precursor [Bos taurus]
+MASMRTSSMSLLLLLSLVALVKAGVIIPQSPGCPPTEDKNFPQHVRVNLNIVNRSTNSRRPTDYHKRSTS
+PWTLHRNEDPERYPSVIWEAKCSHSGCINAEGKVDHHMNSVTIQQEILVLRRESQHCPHSFRLEKMLVAV
+GCTCVTPIVRHLA</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1142">
+        <gene_name>IL22</gene_name>
+        <strain>Bos taurus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>507778</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>148356272</ncbi_protein_id>
+        <gene_locus_tag>BOS_5234</gene_locus_tag>
+        <gene_refseq>EF560595</gene_refseq>
+        <protein_refseq>NP_001091849</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>9913</taxonomy_id>
+        <chromosome>5</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>45721766</gene_start>
+        <gene_end>45727534</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>interleukin 22</protein_name>
+        <protein_pi>9.05</protein_pi>
+        <protein_weight>20001.55</protein_weight>
+        <protein_length>190</protein_length>
+        <protein_note>Also known as IL-22</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|258513362:45721766-45727534 Bos taurus breed Hereford chromosome 5, Bos_taurus_UMD_3.1, whole genome shotgun sequence
+CACAAGCAGAAGCCTCGATACAGGTAAGTCCTCCAACGAACTTGGTAGGATTGGCTTGCTGGGTCTATTC
+CTTCTGGATACTTAATTTTTTCCCTTAATGTTGATTTTGTTTCTCGTTCTCTTGATACCAGGTTCTTCTT
+CCCTAGTCACCCATTGCTCAGGTTTGCTTTGTCCACGATGGCTGCCCTGCAGAAATCTGTGGGCTCTCCT
+CTCAGGGACACTCTGGCCGCTGGCTGCCTCCTTGTCATGGTGCTGTGCGCCCAGAGAGGAGCGGCTGCAC
+CCATCACGTCGCACTGTAGGCTCAACGAGTCCGACTTCCAGGAGCCCTACATCTTCAACCACACCTTCAC
+TCTGGCTCAGAAGGTACTCATCTCAGTCTTTCTCTTTTGCATCTTATCTACTTGGAACCTGAATAGTTCT
+TAAAATTTCTTCAGAGGACATCTAAGATCTTTAACAGATGAACATTAATCGCTGCTGGTATACCTGTCAT
+CATTTTCTATGTCTCTTTTAAGACTTTTTGGAGATCAAGCTTTACCTCAAGCCCTTCCATTTGCCCGTTA
+GGAAATGTACATTCAGTTTTACCCCCAAAGGGGCCATGTAGTAACCCATCTGACTGTTTATGGTTCCCTT
+TACTTCTCTAAGCATTCTTTTAGTTTTTGAAGAGAAAGAAATTGACATTTTTGAGCACTTACTATGTTAT
+GAGCTCTATTCTAGGAGCTTTAAATCCATTCTTTCTTTTTTACTGAAGTATAGTTCATTGACAGTATTAT
+TTAAGTTCCAGGTATACAGCATAGTGATCCACAATTTTTAAAGATTATTCTCCATTTATAGTTATTATAA
+CATATTGGCTATATTACCTATGCTGTACATTATACTGTTCTATCTTATTTTTTAAATTTATTTTGAAGTA
+TAGCTGGTTTACAGGGTCATGTTAGTTTCCAGTGTACAGCACGCTGATTCAGGTCTATATATATATATAA
+ATATACGTACATATGTGTATATATAATATATGCATATTCTTTTATATATTATTTCCCCTTATTGGTTATT
+ATAAAATATTGAGTATAGTTCCCTGTACTATTTAGTAACTTCTTATTAGTTGTCTATTTTATACATTGTA
+GTGTATATATGTTACTCCCAAACTTCTAATTTATCCCTCCCCTCAACCCCTGAGCATCATTTTAAACCCA
+TGCACTAAAGAATCCTTTCTTTAGTCTTCACAGTGCTGCTCTGGGAAGAGGGGACAGAGTACAGCTTTGC
+TTACAGACATTTCTTCTAGCTTTATGATGTCCAGGCACTTAGTCTTTTCTTTTCTTCTAGGCTAGTTTGG
+CAGATAACATCACAGATGTTCGTCTCATTGGGAACAAATTGTTCCACGGAATCCATGTAAGCCATAGGCA
+TGATGCCACTTGTGGTTACTTGGAGTGGTGGTGAGGATGGGCTGGGTCTTGTGGATGTCGCCTAATTTGA
+GCCCTGCTGTTTCACTTTCACCAGCAGGTGACGAAGCGCTGCTACGTGCTGAAGCAGGTGCTGAACTTTA
+TTCTTGAAGAGGTGCTGTTCCCCCAATCTGACAAATTCCACCCCTATATGGAAAAGGTGGTGCCCTTCTT
+CTCCAGGCTCAGCAAAAAGCTAAGCCAATGTGTAAGTTCTTCTCCAGCCTGAGTCCAATCCTCCCAGTGC
+CTGCCTTTCCTCTTTCTTCTGTGTAGAACCCTCTTCCTTCCCACCCCAGTGCCCCTTCCATGCTGGTAGT
+GAGAGGTGCCTCTGTCACACCATTACAGAAATCATTTGGCATCACAACCTGTTTGCTTTTGCTTTAACTG
+AGTCACATTTTGAGTTGATTGTGATGGGCAGGGTCTGATAGACCACAGGAGGCTCATTTGTCCCTGGGAA
+AAAGCGATTTGGACTCTGTGAGATGAGAAAGGTGTTGGGAGCTGTAAGGAAAAATACCTATTGGTGCAAA
+TGGATTCACTGAATATAAGTTGATGGAGGGAGGGGATGGGAAAGAGAGAAAGGGAGAAACAAGATTTAAT
+ATTCGGCAGTGGGTGGGTGGATGAAGACTGCTGCCCTTTTGATAATGGAAGTGACAAAATCAGAGGTGCA
+TGAGTTTGATGCCTCTGAATATTGAAAACTAAGAAAAATATTTTGGTGGAGTAGGCTGAGCAAAAGGGGC
+CTACTATTTATTGAGGAGGGCCCTGTTCACATAAGATGTTTTATGTAGGTTTCTTGTTCTGAGCCCATGT
+TTTTGATGAGGTGCCGTTATGGTTTTATTCTTGACAGGATTTGCATAAACCACTCCGCTCTTTCCACAAA
+CTTCAACCTCATTAGGGTTGCCCAGAGGTGAAGTGAGGTCCCGTGTAAGGGAAATGACTGGATTTTGGTG
+TCCCAGGGAATTGAAGAGGTCAGAAAATCTAGGTCACTATTGATATCTAGGTCATTGTGGGCAAAATTGC
+TAAGAACTTTAATTCCAGATGAATTGTAACATACTTCAGTTAGGAAGGCTGAGTTTCAAAATCTTCAGTA
+CAACAATGTTAAACTTGTTACTCTCATTTCCATTTTGTAGCATGTTGAGTCTGACAACCAGCACATCCAG
+AGAAATGTACAGAATCTGAAGAACACAGTGAAAAAGGTACTACTAACAACTATTAGTACTAAATCATTTG
+ATAGAAGAGACAAATATTGTTTTTCTTCCCTTTCTTTCCTTTTTTCTCCCACGTCATGATTTTTTACTTG
+ACTCTCCTGCCATTGGGTTGATTATTCAGGTGCACATTAAGTATAGATGTGTCTATGCTATGCTATGCTA
+AGTCACTTCAGTCGTGTCCGACTCTGTGTGACCCCCCAGACGGCAGCCCACCAGGCTCCCCCATCCCTGG
+GATTCTCCAGGCAAGAACACTGGAGTGGGTTACCATTTCCTTCTCCAATGCATGAAAGTGAAAAGTGAAA
+GTGAAGTCGCTCAGTCGAGTCCGACTCTTAGCGACCCCATGGACTGCAGCCTACCAGGCTCCTCCATCCA
+TGGGATTTTCCAGGCAAGAGTACTGAAGTGGGGTGCCATTGCCTTCTCCGTAGATGTGTCTACATGTTTA
+TAAGTCAGTTTCCAAATTTTGCAAATTCTAGAACTGGCTGGGAACTTAAGACATTGACTTATTGTCACCC
+ATGTGCTAGGGATGGCCAGTGTCAGAGTCAGAATAGACTGCAGGACCTCTGAATCCCATCCAGGCCAGAA
+GTGCTGGATATTATACTTAGTCTCATTAGTTCTTAGGGAAATTTTAGATACCTACTGATTCATTTAGTCT
+GAAGAAGCATTTGTTCAAAACCCAAAACTGGGTAAAACTTATTTGAAAGAATTTTGAAGTCATTCACATG
+ATGATGTAAAACTTGAGAAATATACCTAGAACAGCCATAATAAAAGAGCTGGACTTTCACATAGGATGAA
+TTTCTGGAATGGTTTGATACTTATATTTAACTATTAAAATACCCAGCAGCTATTGGTTTTAATTTAAAAG
+TGAGAGTGAATGTCCCCCCAGTCTCTTTTACACAGTATCAAATAGAATAGAAATATTACTATTAGTAATG
+GATTCATTGTAGGGAAATGAATGTCCACACCGGAAGCCCTCTTTCTTCCTCTTTCCTTTTCCTTCTTTCC
+TGGTCTATTCTTTCCCTTGACAATGTGCTAATGAGCATCTATCTGATATAGTTTAGTGTATATTTTGACA
+GAGAATGATATTGTCGGGTGGCCTATTTGGGGGGAAAGAACAACAGGGGAAGGCTCAGCTCAGCTGCTGT
+GACTCATCCAAAAACCAGAGCTACCATGAGCAGCAGCAAAAGTGAGGATTTGGTAGGCAGGTACAATTAA
+ACCTCAGAAACAAGAATGCTCTGGTTGATGGAATTTTCAGTAACAAGCATAACCTCAATTCCCCCTTTTT
+TCCATCTTGATTTTTTAAATAAAAAGTATCTCTTCCTGAATGTGATTTAATGAACATTGTCAATGTCTTC
+CTTTGATAACTTAAGGATTTGTTTTTTTCATTGTGAAGATAAATTCTCTTGTCATAGAACGATTAGCTAG
+ACACAGAGGGCTGAATATTAGCATGCCATAGCCAAGAAGTACTTTGCATTTCTGGTGTGAAAAATTCCTC
+ATATGAGCTTACTTTGTTGTCTTTAGAAAAGTGGAGTGTGGGAGACAAAAAGCTGATGGTGATTTGTGTG
+GGAAAACAGATTTTAAAGCTCTTAATCCATTTTGAAGGAATTGACTTACACATTAGCAATCAGTTGCCAT
+GTGGATGAGTTGTTATGCTTTTTTTTTTTTTTTACCCTGTAGTTTCAGAAAGCCTAGTGAGAGAGGAATA
+TTATTTAGAGAAATCTCAGCATGCGTAAACACTGGTCAGCACTATGAAATGGGAGGGCATCTTGGGGGGA
+TAGTAATCCCTTGTCACTGAAGAAAAGTAGAAAGCAGGCTGTAGCAGAACAGAGAACAGATAGTAGAATT
+GTTTATCATCTTGGGAGTCTTTGAGATATTAAAAAAATATCTCTTGTCGTTATGTCAAAGGAAGTATCGA
+AAGGTGGAAAGATGGAAGAAAGCAGGAAGAGAAAGACCAAAGTCTAGAGGACAATGATGACTTAGGGTTG
+CTGTTTTCTTTGAAATAATCTTGAGCACATTTAATAGATTAGACAAGTTTCAGAGGAGGGGATTTAGACT
+TGTGTTCCCTCTCCCATGGGGTTTAAAAGACTTTTGCCTACTACTTGGAAGGAGGAGGAAAGAAAGGGTG
+TTAGACTGTATCTGGCCTTTCACTGTTAAAGCAACTAGATAGGAGACATTTGATATTTCCCCCACAAAAG
+TGAAAACTTGTTTTCCCCACCTTGGTCAAGAAAGTGGAAACAGAAATAGTCCACATGTTTTGGTACATGT
+GGTAGTTTTGGTTCAAGACTATTGGAGTTGAGTGGTTATACTAACTGATTGGTCACAGCAGTCATGGGAC
+TCAGAGGCAGGGCAAGGAGGGGTGAGTGGTGCTTGGGTCCCCCAGATCCCCCAACAGCCTCTACCTGCTT
+GCTCTGGTTCAGCAGTGATTTAACACATCAACCAGCTGAGACTGATGCCCATAGGTGCCCTCTCAGATCA
+GGTCATATATTTTGAAAAAGGGTATTATCACTAATCTTTTATAAAATGTTAAAACTTGGTTTCTGTTCCA
+ACAACCTAACCATCTCATCTCTCTCTAATTTGTTTCTCTTTAGAAAACATGGTATAAATGCTGAAATACT
+TGTGTGTTCTTATTTTCACAGCTTGGAGAGAGTGGAGAGATTAAAGTCATTGGAGAACTGAACTTGCTGT
+TTACAACCCTGAAACGTGAATGTGCTCAAGTAGACCAAGGCTGGAAAATGGGTTACTAACCTTTCTCACC
+TGCTAAACAATAAGATCCCCTGAGGNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNACAAAAAAGATTACT
+TTCTATCTCTTTAGAAAAAGCCCCTAAATAACTTCATTTCCATAATCAATACTTTATATTTATGAATTAA
+TTTATTGTTATAAGTACATGTCTTATTATTTATGTCACTTTATAATATGGGTTTATTTATGGAAGCATTA
+TAAAATATTTCTACTTAATTATAAGGTGAATAGTAATATTTATGATAATAATTATGGAGTTATGTTTATT
+TAGTCTCAATAAACACATCGATATCCTAA</dna_sequence>
+        <protein_sequence>>gi|148356272|ref|NP_001091849.1| interleukin-22 precursor [Bos taurus]
+MAALQKSVGSPLRDTLAAGCLLVMVLCAQRGAAAPITSHCRLNESDFQEPYIFNHTFTLAQKASLADNIT
+DVRLIGNKLFHGIHQVTKRCYVLKQVLNFILEEVLFPQSDKFHPYMEKVVPFFSRLSKKLSQCHVESDNQ
+HIQRNVQNLKNTVKKLGESGEIKVIGELNLLFTTLKRECAQVDQGWKMGY</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1067">
+        <gene_name>relA</gene_name>
+        <strain>Mycobacterium avium subsp. paratuberculosis K-10</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>2717869</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>41407145</ncbi_protein_id>
+        <gene_locus_tag>MAP1047</gene_locus_tag>
+        <gene_refseq>AE016958</gene_refseq>
+        <protein_refseq>NP_959981</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>262316</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1095829</gene_start>
+        <gene_end>1098195</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>RelA</protein_name>
+        <protein_pi>7.63</protein_pi>
+        <protein_weight>79917.73</protein_weight>
+        <protein_length>788</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|41406098:1095829-1098195 Mycobacterium avium subsp. paratuberculosis K-10, complete genome
+CGTGGCGGAGGAAAACAGCGCGGCGCAAGCGCTTGACGCGCCGGCGGAGTCGCCGCCCAACCCGGTGATC
+GAGACTCCCGAGCCGCCGACCGAATCGCTCAAGACGTCCAGCAGCGCGTCGCGCCGGGTCCGGGCCCGGC
+TGGCCCGGCGGATGACCGCCCAGCGCAGCACGCTCAACCCGGTGCTGGAGCCGCTGGTGGCGATGCACCG
+CGAGATCTACCCCAAGGCCAACGTGCAGCTGCTGCAGCGCGCATTCGAGGTCGCCGACCAGCGGCACGCC
+AGCCAGTTGCGCCACTCCGGCGACCCCTACATCACCCATCCGCTGGCCGTCGCCACCATCCTGGCCGAAT
+TGGGCATGGACACCACCACTTTGGTGGCCGCGCTGTTGCACGACACCGTCGAGGACACCGGCTACACCCT
+GGCCCAGCTGTCCGAGGAATTCGGCGAAGAGGTCGGTCATCTGGTCGACGGGGTGACCAAGCTGGACCGG
+GTGGTGCTGGGCAGCGCCGCCGAGGGCGAGACCATCCGCAAGATGATCACCGCGATGGCCCGCGACCCGC
+GGGTGCTGGTGATCAAGGTCGCCGACCGGCTGCACAACATGCGCACCATGCGGTTCCTGCCGCCGGAGAA
+GCAGGCCCGCAAGGCCCGCGAGACGCTGGAAGTCATTGCGCCCCTCGCCCATCGGCTGGGCATGGCCAGC
+GTCAAGTGGGAGTTGGAGGACCTGTCGTTCGCCATCCTGCATCCCAAGAAGTACGACGAGATCGTCCGGC
+TGGTCGCCGGCCGGGCCCCGTCGCGGGACACCTACCTGGCCAAGGTGCGGGCCGAGATCATCAACACGCT
+GAACGCGTCGAAGATCAAGGCGACGGTGGAGGGCCGGCCCAAGCACTACTGGTCGATCTACCAGAAGATG
+ATCGTCAAGGGCCGCGACTTCGACGACATCCACGACCTGGTCGGCATCCGCATCCTGTGCGACGAGATCC
+GGGACTGCTATGCCGCTGTGGGCGTGGTGCATTCGCTGTGGCAGCCGATGGCCGGGCGGTTCAAGGACTA
+CATCGCCCAGCCGCGCTACGGCGTCTACCAGTCGCTGCACACCACCGTCGTCGGGCCGGAGGGCAAGCCG
+CTGGAGGTGCAGATCCGCACCCGCGACATGCACCGCACCGCCGAGTACGGCATCGCCGCGCACTGGCGCT
+ACAAGGAAGCCAAGGGCCGCAACGGCGTTCCGCACCCGCACGCCGCCGCCGAGATCGACGACATGGCCTG
+GATGCGCCAGCTGCTCGACTGGCAGCGGGAAGCCGCCGACCCGGGCGAATTCCTCGAGTCGCTGCGCTAT
+GACCTTGCGGTACAAGAGATCTTCGTGTTCACCCCCAAGGGCGACGTGATCACCCTGCCCACCGGGTCGA
+CGCCGATCGACTTCGCCTATGCCGTGCACACCGAGGTCGGGCACCGCTGCATCGGCGCCCGGGTCAACGG
+CCGGCTGGTGGCGCTGGAACGCAAGCTGGAAAACGGGGAAGTCGTCGAGGTTTTCACCTCCAAGGCGGCC
+AACGCGGGCCCGTCGCGGGACTGGCAGCAGTTCGTGGTGTCGCCGCGGGCCAAGGCCAAGATCCGGCAGT
+GGTTCGCCAAGGAGCGGCGCGAGGAGGCCCTGGAGGCCGGCAAGGACGCGATGGCCCGCGAGGTGCGCCG
+CGGCGGACTTCCGTTGCAGCGCTTGGTCAATGCCGAATCCATGAGCGCGGTGGCCCGCGAACTGCACTAC
+GCCGACGTGTCGGCCCTCTACACCGCGATCGGTGAGGGGCATGTGTCGGCCCGGCACGTGGTGCAGCGGC
+TGCTGGCCGAGCTCGGCGGCATCGACCAGACCGAGGAGGACCTCGCCGAGCGGTCCACCCCGACCACCAT
+GCTGCGCCGCCCGCGCAGCAGCGACGACGTCGGCGTGTCGGTGCCCGGCGCCCCGGGCGTGCTGACCAAG
+CTGGCCAAATGCTGCACGCCGGTGCCTGGGGACCAGATCATGGGATTCGTCACCCGCGGCGGCGGGGTGA
+GCGTGCACCGCACCGACTGCACCAACGCCGCCTCGCTGCAGCAGCAGTCCGAGCGCATCATCGAGGTGCA
+CTGGGCGCCGTCGCCGTCGTCGGTGTTCCTGGTGGCCATTCAGGTCGAGGCGCTCGACCGGCACCGGCTG
+TTGTCCGACGTCACCCGGGTGCTGGCCGACGAGAAGGTCAACATCCTGTCCGCGTCGGTCACCACCTCCG
+GTGACCGGGTTGCCATCAGCCGCTTCACCTTTGAGATGGGCGACCCCAAGCACCTCGGCCACCTGCTCAA
+CGTGGTGCGCAACGTCGAAGGCGTCTACGACGTCTACCGGGTGACCTCCGCCGCCTG</dna_sequence>
+        <protein_sequence>>gi|41407145|ref|NP_959981.1| RelA [Mycobacterium avium subsp. paratuberculosis K-10]
+MAEENSAAQALDAPAESPPNPVIETPEPPTESLKTSSSASRRVRARLARRMTAQRSTLNPVLEPLVAMHR
+EIYPKANVQLLQRAFEVADQRHASQLRHSGDPYITHPLAVATILAELGMDTTTLVAALLHDTVEDTGYTL
+AQLSEEFGEEVGHLVDGVTKLDRVVLGSAAEGETIRKMITAMARDPRVLVIKVADRLHNMRTMRFLPPEK
+QARKARETLEVIAPLAHRLGMASVKWELEDLSFAILHPKKYDEIVRLVAGRAPSRDTYLAKVRAEIINTL
+NASKIKATVEGRPKHYWSIYQKMIVKGRDFDDIHDLVGIRILCDEIRDCYAAVGVVHSLWQPMAGRFKDY
+IAQPRYGVYQSLHTTVVGPEGKPLEVQIRTRDMHRTAEYGIAAHWRYKEAKGRNGVPHPHAAAEIDDMAW
+MRQLLDWQREAADPGEFLESLRYDLAVQEIFVFTPKGDVITLPTGSTPIDFAYAVHTEVGHRCIGARVNG
+RLVALERKLENGEVVEVFTSKAANAGPSRDWQQFVVSPRAKAKIRQWFAKERREEALEAGKDAMAREVRR
+GGLPLQRLVNAESMSAVARELHYADVSALYTAIGEGHVSARHVVQRLLAELGGIDQTEEDLAERSTPTTM
+LRRPRSSDDVGVSVPGAPGVLTKLAKCCTPVPGDQIMGFVTRGGGVSVHRTDCTNAASLQQQSERIIEVH
+WAPSPSSVFLVAIQVEALDRHRLLSDVTRVLADEKVNILSASVTTSGDRVAISRFTFEMGDPKHLGHLLN
+VVRNVEGVYDVYRVTSAA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A M. avium relA mutant is attenuated in calves and goats.  This mutant also elicited an immune response in goats that limited colonization by challenge wild type M. avium [Ref2026:Park et al., 2011].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2659">
+		<reference_name>Martin et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Martin E, Kamath AT, Briscoe H, Britton WJ</authors>
+		<title>The combination of plasmid interleukin-12 with a single DNA vaccine is more effective than Mycobacterium bovis (bacille Calmette-GuÃ¨rin) in protecting against systemic Mycobacterim avium infection</title>
+		<year>2003</year>
+		<volume>109</volume>
+		<issue>2</issue>
+		<pages>308-314</pages>
+		<journal_book_name>Immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2026">
+		<reference_name>Park et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Park KT, Allen AJ, Bannantine JP, Seo KS, Hamilton MJ, Abdellrazeq GS, Rihan HM, Grimm A, Davis WC</authors>
+		<title>Evaluation of two mutants of Mycobacterium avium subsp. paratuberculosis as candidates for a live attenuated vaccine for Johne's disease</title>
+		<year>2011</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2766">
+		<reference_name>WebMD - Mycobacterium avium complex</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>HIV, AIDS, and Mycobacterium Avium Complex</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.webmd.com/hiv-aids/guide/aids-hiv-opportunistic-infections-mycobacterium-avium-complex</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

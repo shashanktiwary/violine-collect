@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen58">
+		<pathogen_name>Rubella virus</pathogen_name>
+		<taxon_id>11041</taxon_id>
+		<pathogenesis refs="reference741">Rubella virus is transmitted by the respiratory route and replicates in the nasopharynx and lymph nodes. The virus is found in the blood 5 to 7 days after infection and spreads throughout the body. It is capable of crossing the placenta and infecting the fetus where it stops cells from developing or destroys them (Wiki: Rebella).</pathogenesis>
+		<disease_name>Rubella</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference741">Humans are the only known host of the rubella virus (Wiki: Rebella).</host_range>
+		<introduction refs="reference741">Rubella virus is a togavirus that is enveloped and has a single-stranded RNA genome. Rubella virus causes Rebella, commonly known as German measles. This disease is often mild and attacks often pass unnoticed. The disease can last one to five days. Children recover more quickly than adults. Infection of the mother by Rubella virus during pregnancy can be serious. After an incubation period of 14-21 days, the primary symptom of rubella virus infection is the appearance of a rash (exanthem) on the face which spreads to the trunk and limbs and usually fades after three days. Other symptoms include low grade fever, swollen glands (post cervical lymphadenopathy), joint pains, headache, conjunctivitis. Rubella can cause congenital rubella syndrome in the newly born (Wiki: Rebella).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine569">
+		<vaccine_name>Eolarix</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Eolarix</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010712</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Live virus. Other components: Human albumin, Lactose, Dextran.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">2 to 8°C (36 to 46°F) or colder. Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine375">
+		<vaccine_name>M-M-R II</vaccine_name>
+		<proper_name>Measles, Mumps, and Rubella Virus Vaccine, Live</proper_name>
+		<brand_name>M-M-R II</brand_name>
+		<manufacturer>Merck &amp; Co., Inc.</manufacturer>
+		<vo_id>VO_0000069</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA(License #0002)</location_licensed>
+		<description refs="reference793">M-M-R II is a sterile lyophilized preparation of (1) ATTENUVAX* (Measles Virus Vaccine Live), a more attenuated line of measles virus, derived from Enders' attenuated Edmonston strain and propagated in chick embryo cell culture; (2) MUMPSVAX* (Mumps Virus Vaccine Live), the Jeryl Lynn** (B level) strain of mumps virus propagated in chick embryo cell culture; and (3) MERUVAX* II (Rubella Virus Vaccine Live), the Wistar RA 27/3 strain of live attenuated rubella virus propagated in WI-38 human diploid lung fibroblasts (FDA: MMR-II).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">2 to 8°C (36 to 46°F) or colder. Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference793">The growth medium for rubella is Minimum Essential Medium (MEM) [a buffered salt solution containing vitamins and amino acids and supplemented with fetal bovine serum] containing recombinant human albumin and neomycin. Sorbitol and hydrolyzed gelatin stabilizer are added to the individual virus harvests (FDA: MMR-II).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response469" host_id="host2">
+			<immune_response refs="reference793">Neutralizing and ELISA antibodies to measles, mumps, and rubella viruses are still detectable in most individuals 11 to 13 years after primary vaccination (FDA: MMR-II).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference793">Many clinical studies have shown the vaccine have a high rate of efficacy protection after vaccination with MMR-II (FDA: MMR-II).</protection_efficacy>
+			<side_effects refs="">Side effects of vaccination are: fever, headache, dizziness, and irritability.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine345">
+		<vaccine_name>Meruvax II</vaccine_name>
+		<proper_name>Rubella Virus Vaccine Live</proper_name>
+		<brand_name>Meruvax II</brand_name>
+		<manufacturer>Merck &amp; Co., Inc.</manufacturer>
+		<vo_id>VO_0000073</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs="reference740">MERUVAX* II (Rubella Virus Vaccine Live) is a live virus vaccine for vaccination against rubella (German measles) (FDA: Meruvax II) .</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">The vaccine must be maintained at a temperature of 10°C (50°F) or colder.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference740">MERUVAX II is a sterile lyophilized preparation of the Wistar Institute RA 27/3 strain of live attenuated rubella virus. The virus was adapted to and propagated in WI-38 human diploid lung fibroblasts. The growth medium is Minimum Essential Medium (MEM) containing human serum albumin and neomycin. Sorbitol and hydrolyzed gelatin stabilizer are added to the individual virus harvests. The cells, virus pools, fetal bovine serum, and human albumin are all screened for the absence of adventitious agents. Human albumin is processed using the Cohn cold ethanol fractionation procedure. The product contains no preservative (FDA: Meruvax II).</preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs="">Wistar Institute RA 27/3 strain of live attenuated rubella virus</antigen>
+		<host_response host_response_id="host_response428" host_id="host2">
+			<immune_response refs="">A single injection of the vaccine has been shown to induce rubella hemagglutination-inhibition (HI) antibodies in 97% or more of susceptible persons.</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference740">Clinical studies have been carried out in more than 28,000 human subjects (approximately 11,000 with MERUVAX II) in the United States and more than 20 additional countries (FDA: Meruvax II).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">Clinical studies helped to establish that seroconversion in response to rubella vaccination paralleled protection from this disease.</protection_efficacy>
+			<side_effects refs="">Side effects of vaccination include: fever, headache, dizziness, and itching, redness or swelling of the injection site.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine618">
+		<vaccine_name>Priorix</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Priorix</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010734</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Live virus. Other components: Lactose.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at at 2 to 8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine621">
+		<vaccine_name>Priorix-Tetra</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Priorix-Tetra</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010735</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Live virus. Other components: Lactose.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at at 2 to 8°C. Do not freeze</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine376">
+		<vaccine_name>ProQuad</vaccine_name>
+		<proper_name>Measles, Mumps, Rubella and Varicella Virus Vaccine Live</proper_name>
+		<brand_name>ProQuad</brand_name>
+		<manufacturer>Merck &amp; Co, Inc.</manufacturer>
+		<vo_id>VO_0000091</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs="reference794">ProQuad is a sterile lyophilized preparation of (1) the components of M-M-R*II (Measles, Mumps and Rubella Virus Vaccine Live): Measles Virus Vaccine Live, a more attenuated line of measles virus, derived from Enders' attenuated Edmonston strain and propagated in chick embryo cell culture; Mumps Virus Vaccine Live, the Jeryl Lynn™ (B level) strain of mumps virus propagated in chick embryo cell culture; Rubella Virus Vaccine Live, the Wistar RA 27/3 strain of live attenuated rubella virus propagated in WI-38 human diploid lung fibroblasts; and (2) Varicella Virus Vaccine Live (Oka/Merck) refrigerator-stable formulation, the Oka/Merck strain of varicella-zoster virus propagated in MRC-5 cells (FDA: Proquad).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">2° to 8°C (36° to 46°F) or colder.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference794">propagated in WI-38 human diploid lung fibroblasts (FDA: Proquad).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response470" host_id="host2">
+			<immune_response refs="reference794">According to clinical trials, there were high levels of antibodies in 99.6% of those vaccinated after a single dose of Proquad (FDA: Proquad).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects of vaccination include: injection site reactions, fever, irritability and diarrhea.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<reference reference_id="reference740">
+		<reference_name>FDA: Meruvax II</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Meruvax II vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094064.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference793">
+		<reference_name>FDA: MMR-II</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: MMR-II Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094050.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference794">
+		<reference_name>FDA: Proquad</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Proquad Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm188806.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5009">
+		<reference_name>Nagieva et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nagieva FG, Nikulina VG, Barkova EP, Zubkov AV, Kuz'mina NS, Desiatskova RG, Tkachnko AV, Iunasova TN</authors>
+		<title>[Monoclonal antibodies to rubella virus glycoprotein E1]</title>
+		<year>2011</year>
+		<volume></volume>
+		<issue>1</issue>
+		<pages>61-67</pages>
+		<journal_book_name>Zhurnal mikrobiologii, epidemiologii, i immunobiologii</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference741">
+		<reference_name>Wiki: Rebella</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Rebella</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Rubella</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

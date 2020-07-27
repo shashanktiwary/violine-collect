@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen200">
+		<pathogen_name>Mycoplasma hyopneumoniae</pathogen_name>
+		<taxon_id>2099</taxon_id>
+		<pathogenesis refs="reference1624">M. hyopneumoniae has been found to attach to the cilia of epithelial cells in the lungs of swine. They cause cilia to stop beating (ciliostasis), loss of cilia and eventually epithelial cell death; which is the source of the lesions found in the lungs of pigs with porcine enzootic pneumonia (Wiki: M. hyopneumoniae).</pathogenesis>
+		<disease_name>Porcine Enzootic Pneumonia</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="">Pigs</host_range>
+		<introduction refs="reference1624">Mycoplasma hyopneumoniae is a species of bacteria known to cause the disease Porcine Enzootic Pneumonia, a highly contagious and chronic disease affecting pigs (Whittlestone, 1979). As with other mollicutes, M. hyopneumoniae is small in size (400 - 1200 nm), has a small genome (893 - 920 kilo-base pairs (kb)) and lacks a cell wall (Tajima et al., 1982). It is considered to be difficult to grow in laboratories due to its complex nutritional requirements. This bacterium is a concern in the livestock industry as it causes a significant reduction in the growing weight of pigs. Losses in the U.S.A. have been previously estimated at 200 million to 1 billion dollars per annum (Clark et al., 1991). Porcine enzootic pneumonia is endemic worldwide and M. hyopneumoniae is present in almost every pig herd (Minion, 2002). Treatment of this disease is limited to antibiotics, which are currently ineffective as they do not completely remove the infection. Vaccines have been found to reduce the severity of the disease but do not prevent the disease from occurring in infected pigs (Haesebrouck, et al., 2004). M. hyopneumoniae has been found to attach to the cilia of epithelial cells in the lungs of swine. They cause cilia to stop beating (ciliostasis), loss of cilia and eventually epithelial cell death; which is the source of the lesions found in the lungs of pigs with porcine enzootic pneumonia. Sadly, the immune response caused by the presence of M. hyopneumoniae in pigs is slow and ineffective (Minion, 2002); it is also believed to cause much of the damage that is seen in pigs with the disease. This mycoplasma is not known to produce any specifically harmful toxin like many other disease-causing bacteria, but some mildly toxic by-products have been observed (Geary et al., 1985). Mycoplasma hyopneumoniae has been a topic of interest in the scientific community due to the economic impact of porcine enzootic pneumonia. Three separate strains (232, J &amp; 7448) of this mycoplasma have had their genomes sequenced, making it the most sequenced mycoplasma (Minion et al., 2004; Vasconcelos et al., 2005). Research has been mainly focused on identifying adhesins with a final goal of developing an effective vaccine that prevents M. hyopneumoniae from attaching to lung cilia (Wiki: M. hyopneumoniae).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine2978">
+		<vaccine_name>Porcine Circovirus Type 2, Killed Baculovirus Vector Vaccine- Mycoplasma Hyopneumoniae Bacterin (USDA: 49K5.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002316</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2986">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome-Circovirus Reproductive &amp; Respiratory Form, Type 2, Modifed Live Virus,Killed Baculovirus Vector Vaccine-Mycoplasma Hyopneumoniae Bacterin (USDA: 49K9.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002317</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4182">
+		<vaccine_name>rAd-P97c</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004697</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference2000">P97 recombinant replication-defective adenovirus (rAdP97c) subunit vaccine (Okamba et al., 2010).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1749" gene_id="gene1062">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2000">a P97 recombinant replication-defective adenovirus (rAdP97c) subunit vaccine (Okamba et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1840" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2000">The pigs in the rAdP97c vaccinated group, animals were vaccinated with 2 × 10^10 TCID50 of rAdP97c twice, (at days 0 and 14) by intranasal (i.n.) route (Okamba et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2000">The rAdP97c vaccinated pigs developed a lower amount of macroscopic lung lesions (18.5 + or - 9.6%) compared to the unvaccinated and challenged animals (45.8 + or - 11.5%). rAdP97c vaccine reduced significantly the severity of inflammatory response and the amount of M. hyopneumoniae in the respiratory tract. Furthermore, the average daily weight gain was slightly improved in the rAdP97c vaccinated pigs (0.672 + or - 0.068 kg/day) compared to the unvaccinated and challenged animals (0.568 + or - 0.104 kg/day (Okamba et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2000">The challenge was performed at day 28 after the first vaccination with 10^6 CCU of the 232 M. hyopneumoniae strain by intratracheal route (Okamba et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3017">
+		<vaccine_name>Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Mycoplasma Hyopneumoniae Bacterin (USDA: 4994.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002299</vo_id>
+		<type></type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3020">
+		<vaccine_name>Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Mycoplasma Hyopneumoniae Bacterin (USDA: 4994.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002300</vo_id>
+		<type></type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3023">
+		<vaccine_name>Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Mycoplasma Hyopneumoniae Bacterin (USDA: 4994.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002301</vo_id>
+		<type></type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3026">
+		<vaccine_name>Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Mycoplasma Hyopneumoniae Bacterin (USDA: 4994.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002302</vo_id>
+		<type></type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3028">
+		<vaccine_name>Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Mycoplasma Hyopneumoniae Bacterin (USDA: 4995.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002303</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3030">
+		<vaccine_name>Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Mycoplasma Hyopneumoniae Bacterin (USDA: 4995.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002304</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3032">
+		<vaccine_name>Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Mycoplasma Hyopneumoniae Bacterin (USDA: 4995.25)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002305</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3034">
+		<vaccine_name>Swine Influenza H1N1 &amp; H3N2, Killed Virus Vaccine-Mycoplasma Hyopneumoniae Bacterin (USDA: 4995.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002306</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene1062">
+        <gene_name>P97</gene_name>
+        <strain>Mycoplasma hyopneumoniae 232</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3105444</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>54020389</ncbi_protein_id>
+        <gene_locus_tag>mhp183</gene_locus_tag>
+        <gene_refseq>AE017332</gene_refseq>
+        <protein_refseq>YP_115696</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>295358</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>224079</gene_start>
+        <gene_end>227405</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>protein p97; cilium adhesin</protein_name>
+        <protein_pi>9.5</protein_pi>
+        <protein_weight>120335.63</protein_weight>
+        <protein_length>1108</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_006360.1:224079-227405 Mycoplasma hyopneumoniae 232, complete genome
+TTTATTTAGATTCTGGTTCCTGATTATTATTACTTTGTTTTACTGTTATTTTAACTTTTAGACTTGATTT
+TTTAGGATCACCGGATTTTGAATCATCCCTTAGGATAAAGTATAGCAATTTAGCATCTCCAGCGATATTA
+TCCTCGATTAGTTCAACCTCTGTTTTTCAATTTTTACCTTGTTTTTTAATGATTTCGTCAATTTTTTTAC
+CTAAGTCAGGAAGGTAATTAGTTAATTCGGTAGTTGGGCTTTGTTGACTAGGTGCTCCCTCTGCTTTTTT
+CCCTTGGTTAGGAGTTCCTTCGGCTTTTTTACCTTGGTTAGGCGCGCCTTCTGCTTTTTTACCTTGGTTA
+GGAGTTCCTTCGCTTTTTTTACCTTGATTTGAAGATCCTTCGGTCATCATTGGGTGGCTAAGTTTCTGAT
+ATTGGTCACTAGTTACCTTGACTTCCTGGAATTGATATTGAAGATTTAAAACAGTTTTATCTAGTTCCTT
+TATTATTTCTTGTTCTTCATACTCGCTTTGATGAACTAGTTCTAAAAATACATTAATTTCCGGTGTTTTT
+AGGCTTAATTTATTTTCGTCAGTATATTCTAATTTATAACTAAAAGCCATTGGGAAATAGTCTTCTTTTG
+GTTTATTTGTAAGTGAAAAGCCAGTATTAGTAGCAACTGGTTTTGCTGCTTCTGGTTTAGCCGCTACTGG
+TTTTGCTGCTTCTGGTTTAGCCGCTACTGGTTTTGCTGCTTCTGGTTTAGCCGCTACTGGTTTTGCTGCT
+TCTGGTTTAGCCGCTACTGGTTTTGCTGCTTCAGGTTTAGCTGCTTCAGGTTTAGCTGCTACTGGTTTTG
+TTGTTTCTGGTTTAGCCGCTACTGGTTTTGCTGCTTCTGGTTTTGCTGCTGGGGGCTGAGGCAATATACC
+TTTTATTTTATTATCCAATTCCTTAACTTTTTTATCTACTTCTTCTCTTTTACCTTCTTTTGTAGTTTCC
+CCTTTTTTGATAGCTTCAAATGAATACTGAAGATTATCGTCTAATTTTGCTCAAGGAGCAAAATTATTAA
+ATTGGGCTGCTTTAAGGAAAAATGCTTTTAAAAAATCACCGAAGGTTTTAAAATCAGTCCCTTCAAGTAA
+ATTTTTATCTAAAATAGTAGTTTTAAAAGCCGAGTTCTCAATTAAAGAATACTTTTTAAGCGCTTCAAAA
+ATTTGCGCCTCATTTTTGCCTTCTAATTCAGTTTTTACACTTTGGGGCAATAATAAAACTCCGTAAAATC
+CATCAGATTTTATTACATCGTTACGGGCTAAAATATTAAAGGAAAGTTGGTGAATTTCTTTTATCTGATT
+GTAAGGATCCTTTTTCTTCAATTCCAAAAATTTTAATTTATCTGCTTCTGCAAAAATATCTTTTGTATAT
+TGGAAAACCCCTTTTGGGAATTGTGCTCTGTTAGTTTCTAGTCCCCATTTTTTTGCTAGATCATAAAGAG
+TCTCTAAAATTGTTAATTTGTCCTTGGTGAGTAAATCCTGGAAATAACTTGCAACTTGATGTCCATTTTT
+AAAAAAGTTATTACTTTTAAGACTTGAAATTACTTGTTCTTTTGTTGTTTGTGGTTGATTTAAAACTGAA
+TTAGAACCAATTTTAACTTGTTCTAAATGTCTTGTAAATCTTTGGATATCAGCTTTTTCAGGATGCTGAA
+TTTTTCCTGTTCAGGAATTAAGCACGGATTTAAAGGCCCCGAATTCATAGGCATAATTTCCATCAAGTGC
+TTGATAGATTTCTTGGTTTTTATTCCCTTTAAAAAGAGCTTCAACTTCAACTTTGGCAAGTTGAGTATTA
+TATGGATTTAAGATATTACCATAGTCTAATTTTGCTTGTTCTTCTTTACCTTTTTCAAAAAATGGTAAAT
+ATTCGGTTTTAAAAATTTGCTGATTGATATTAGGGAGATCAATTTTTGAGCCTTTTTTAAATCCAGTTAA
+TTTAAGAATCCCTTCTTTTACGAGAATATTATCTTTTGTATCTGGATATAAATCATCGGCAAAAAATTTA
+TCTTTAATTTCAAGGCGGTAGGGAATTAAAACTATTGATTTATCTTTTTTATCAAGACTTGCGCTTGCTG
+CATCTAGGCTATATTCTAAATTTGGCGAGTTAAGACGGTCGTTGAATTTTCCATTGTATTTACCAAAGTC
+ATAAATATTTTCTTTTTTATTTAAAAGATTACTAATTTCTGCCTTGGTATGACTGGATCTCTTGTCTCCA
+GGGAAAAATCCAGATTTAATATCTGCTAGAAATTCATAGGCAGAAAGATTTTGACCCTTTGCATTTAAAT
+CTTCTTTTTGCATATTTTTCAGTGTTAAATTATTAACAAAATCCTCAAAATTTAGAAAATAAGAAGAATT
+ATCTTTTTTCATTAATCTTAAAATGTTAATAACTGGCTGAACTTCATCTGGGCTAGCTAAAATTTCACGG
+GCACTTTGACTAAGATCTGCTTTTAAAAACAGCGAAGGAATTTGGTTCTGGATACTTACATATTGATTAG
+TTGAACTATCTTTTGCAAAGCTAAATTCAAAAATATTACCCAAATTATTAGGTAATTTATTCTCAGGAGC
+ATTATTTAGTCTGTTTATTAAATTTTTAAGTACTGGAAAATAATTAGCAAGCTTTATATCTAAATCCTCA
+GGATTTCGCGCTGTATTTAAATCGTATTGGAAGTCAATAGCTCTTAGAGTTGAGGGATCTTTTTGGCTGC
+TTGTTTTTTCATCAGCAAAATTTGTAATTTTTGTTGATAAATTTTCAATTTGTTGATTTAATTTTTCGGT
+AATTTTTTTAAGCGAAAAATTAAATTCGGCAACTAAAAGATTTGACTGTTTGGCAAAAGCAACTGTTTGC
+TCATAAATATCAGATTTGGCAATATCACCATTATGAAGTTTTTGTAATGCCTGAAATTTTACCTTAAAAT
+TTTGATTGACATCATCAGGGATAATTTCAAGAATCTCAAAAGTTATCTTCGCCTTGGTATATTCAGGATC
+TTGAAAATTAATTTTTTCTAACTGATCACCGTTTTTAGTAAAAAAGGAAAAGGAATCAATAACTTTTTCT
+TTATTTCTAATATTGTTATTAGAATCAACTAGTCACCTTTTGACTATTTTATAATCAGAATCAGTCTCAA
+AAGCATAAGGACTAAAAGCTAATGTTGAAACTTTTGCGGCAAAATCATTTGCAATCTTTCGTGGACTTTC
+TGATCTGTATTTTGCCAAGCTGCTAAGTCCGACAGTTAGACCAAAAACTCCAAGACCAACAATTCCGGCA
+GTCAAACCAATTTTAAATGTTTTTGATTTTTTACTCA
+
+</dna_sequence>
+        <protein_sequence>>YP_115696.1 protein p97; cilium adhesin [Mycoplasma hyopneumoniae 232]
+MSKKSKTFKIGLTAGIVGLGVFGLTVGLSSLAKYRSESPRKIANDFAAKVSTLAFSPYAFETDSDYKIVK
+RWLVDSNNNIRNKEKVIDSFSFFTKNGDQLEKINFQDPEYTKAKITFEILEIIPDDVNQNFKVKFQALQK
+LHNGDIAKSDIYEQTVAFAKQSNLLVAEFNFSLKKITEKLNQQIENLSTKITNFADEKTSSQKDPSTLRA
+IDFQYDLNTARNPEDLDIKLANYFPVLKNLINRLNNAPENKLPNNLGNIFEFSFAKDSSTNQYVSIQNQI
+PSLFLKADLSQSAREILASPDEVQPVINILRLMKKDNSSYFLNFEDFVNNLTLKNMQKEDLNAKGQNLSA
+YEFLADIKSGFFPGDKRSSHTKAEISNLLNKKENIYDFGKYNGKFNDRLNSPNLEYSLDAASASLDKKDK
+SIVLIPYRLEIKDKFFADDLYPDTKDNILVKEGILKLTGFKKGSKIDLPNINQQIFKTEYLPFFEKGKEE
+QAKLDYGNILNPYNTQLAKVEVEALFKGNKNQEIYQALDGNYAYEFGAFKSVLNSWTGKIQHPEKADIQR
+FTRHLEQVKIGSNSVLNQPQTTKEQVISSLKSNNFFKNGHQVASYFQDLLTKDKLTILETLYDLAKKWGL
+ETNRAQFPKGVFQYTKDIFAEADKLKFLELKKKDPYNQIKEIHQLSFNILARNDVIKSDGFYGVLLLPQS
+VKTELEGKNEAQIFEALKKYSLIENSAFKTTILDKNLLEGTDFKTFGDFLKAFFLKAAQFNNFAPWAKLD
+DNLQYSFEAIKKGETTKEGKREEVDKKVKELDNKIKGILPQPPAAKPEAAKPVAAKPETTKPVAAKPEAA
+KPEAAKPVAAKPEAAKPVAAKPEAAKPVAAKPEAAKPVAAKPEAAKPVATNTGFSLTNKPKEDYFPMAFS
+YKLEYTDENKLSLKTPEINVFLELVHQSEYEEQEIIKELDKTVLNLQYQFQEVKVTSDQYQKLSHPMMTE
+GSSNQGKKSEGTPNQGKKAEGAPNQGKKAEGTPNQGKKAEGAPSQQSPTTELTNYLPDLGKKIDEIIKKQ
+GKNWKTEVELIEDNIAGDAKLLYFILRDDSKSGDPKKSSLKVKITVKQSNNNQEPESK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>a P97 recombinant replication-defective adenovirus (rAdP97c) subunit vaccine efficiency was evaluated in pigs. The rAdP97c vaccine was found to induce both strong P97 specific humoral and cellular immune responses. The rAdP97c vaccinated pigs developed a lower amount of macroscopic lung lesions (18.5 + or - 9.6%) compared to the unvaccinated and challenged animals (45.8 + or - 11.5%). rAdP97c vaccine reduced significantly the severity of inflammatory response and the amount of M. hyopneumoniae in the respiratory tract. The challenge was performed at day 28 after the first vaccination with 106 CCU of the 232 M. hyopneumoniae strain by intratracheal route [Ref2000:Okamba et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4726">
+		<reference_name>Chen et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen AY, Fry SR, Forbes-Faulkner J, Daggard GE, Mukkur TK</authors>
+		<title>Comparative immunogenicity of M. hyopneumoniae NrdF encoded in different expression systems delivered orally via attenuated S. typhimurium aroA in mice</title>
+		<year>2006</year>
+		<volume>114</volume>
+		<issue>3-4</issue>
+		<pages>252-259</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4767">
+		<reference_name>Chen et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen AY, Fry SR, Forbes-Faulkner J, Daggard G, Mukkur TK</authors>
+		<title>Evaluation of the immunogenicity of the P97R1 adhesin of Mycoplasma hyopneumoniae as a mucosal vaccine in mice</title>
+		<year>2006</year>
+		<volume>55</volume>
+		<issue>Pt 7</issue>
+		<pages>923-929</pages>
+		<journal_book_name>Journal of medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4885">
+		<reference_name>Feng et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Feng ZX, Bai Y, Yao JT, Pharr GT, Wan XF, Xiao SB, Chi LZ, Gan Y, Wang HY, Wei YN, Liu MJ, Xiong QY, Bai FF, Li B, Wu XS, Shao GQ</authors>
+		<title>Use of serological and mucosal immune responses to Mycoplasma hyopneumoniae antigens P97R1, P46 and P36 in the diagnosis of infection</title>
+		<year>2014</year>
+		<volume>202</volume>
+		<issue>1</issue>
+		<pages>128-133</pages>
+		<journal_book_name>Veterinary journal (London, England : 1997)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4763">
+		<reference_name>King et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>King KW, Faulds DH, Rosey EL, Yancey RJ Jr</authors>
+		<title>Characterization of the gene encoding Mhp1 from Mycoplasma hyopneumoniae and examination of Mhp1's vaccine potential</title>
+		<year>1997</year>
+		<volume>15</volume>
+		<issue>1</issue>
+		<pages>25-35</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4831">
+		<reference_name>Leal et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Leal FM, Virginio VG, Martello CL, Paes JA, Borges TJ, Jaeger N, Bonorino C, Ferreira HB</authors>
+		<title>Mycoplasma hyopneumoniae and Mycoplasma flocculare differential domains from orthologous surface proteins induce distinct cellular immune responses in mice</title>
+		<year>2016</year>
+		<volume>190</volume>
+		<issue></issue>
+		<pages>50-57</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2000">
+		<reference_name>Okamba et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Okamba FR, Arella M, Music N, Jia JJ, Gottschalk M, Gagnon CA</authors>
+		<title>Potential use of a recombinant replication-defective adenovirus vector carrying the C-terminal portion of the P97 adhesin protein as a vaccine against Mycoplasma hyopneumoniae in swine</title>
+		<year>2010</year>
+		<volume>28</volume>
+		<issue>30</issue>
+		<pages>4802-4809</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4701">
+		<reference_name>Simionatto et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Simionatto S, Marchioro SB, Galli V, Brum CB, Klein CS, Rebelatto R, Silva EF, Borsuk S, Concei��o FR, Dellagostin OA</authors>
+		<title>Immunological characterization of Mycoplasma hyopneumoniae recombinant proteins</title>
+		<year>2012</year>
+		<volume>35</volume>
+		<issue>2</issue>
+		<pages>209-216</pages>
+		<journal_book_name>Comparative immunology, microbiology and infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1624">
+		<reference_name>Wiki: M. hyopneumoniae</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Mycoplasma hyopneumoniae</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Mycoplasma_hyopneumoniae</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

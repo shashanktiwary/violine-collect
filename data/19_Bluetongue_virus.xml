@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen165">
+		<pathogen_name>Bluetongue virus</pathogen_name>
+		<taxon_id>40051</taxon_id>
+		<pathogenesis refs="reference1595">The pathogenesis of BTV infection is similar in sheep and cattle and, most probably, all species of ruminants. However, there are marked differences in the severity of disease that occurs in different ruminant species or breeds after BTV infection, and infection of the same species or sheep breed with different virus strains. After cutaneous instillation of BTV (by inoculation or through the bite of a BTV-infected Culicoides vector) the virus travels to the regional lymph node, where initial replication occurs. The virus then is disseminated to a variety of tissues throughout the body, where replication occurs principally in mononuclear phagocytic and endothelial cells, lymphocytes and perhaps other cell types. Viraemia is highly cell associated and may be prolonged but not persistent in domestic ruminants. BTV promiscuously associates with all blood cells during viraemia, thus titres of virus in each cell fraction are proportionate to the numbers of each cell type; specifically, BTV is quantitatively associated most with platelets and erythrocytes and, because of the short lifespan of platelets, virus is largely or exclusively associated with erythrocytes late in the course of BTV infection of ruminants. BTV infection of erythrocytes facilitates both prolonged infection of ruminants and infection of haematophagous insect vectors that feed on viraemic ruminants, and infectious virus can co-circulate for several weeks with high titres of neutralizing antibody (Maclachlan et al., 2009).</pathogenesis>
+		<disease_name>Bluetongue disesase</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1594">Bluetongue infects ruminants, mainly sheep but also cattle, goats, buffalo, deer, dromedaries, and antelope. It is transmitted by a midge, Culicoides imicola and other culicoids (Wiki: Bluetongue).</host_range>
+		<introduction refs="reference1594">Bluetongue disease or catarrhal fever is a non-contagious, non-zoonotic, insect-borne, viral disease of ruminants, mainly sheep and less frequently cattle, goats, buffalo, deer, dromedaries and antelope. It is caused by the Bluetongue virus. There are no reports of human transmission. Although the tongues of human patients with some types of heart disease may be blue, this sign is not related to bluetongue disease. Bluetongue is caused by the pathogenic virus, Bluetongue virus (BTV), of the genus Orbivirus, is a member of the Reoviridae family. There are 24 serotypes. It is transmitted by a midge, Culicoides imicola and other culicoids. Major signs are high fever, excessive salivation, swelling of the face and tongue and cyanosis of the tongue. Swelling of the lips and tongue gives the tongue its typical blue appearance, though this sign is confined to a minority of the animals. Nasal symptoms may be prominent, with nasal discharge and stertorous respiration. Some animals also develop foot lesions, beginning with coronitis, with consequent lameness. In sheep, this can lead to knee-walking. In cattle, constant changing of position of the feet gives bluetongue the nickname &quot;The Dancing Disease&quot;. Torsion of the neck (opisthotonos or torticollis) is observed in severely affected animals. Not all animals develop symptoms, but all those that do lose condition rapidly, and the sickest die within a week. For affected animals which do not die, recovery is very slow, lasting several months (Wiki: Bluetongue).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4218">
+		<vaccine_name>ALVAC-BTV-CP(VP2/VP5)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004732</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3252">(Boone et al., 2007)  recombinant canarypox virus vector (BTV-CP) co-expressing synthetic genes encoding the two outer capsid proteins (VP2 and VP5) of BTV serotype 17</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4211">
+		<vaccine_name>ALVAC-BTV-VP2/VP5</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004726</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3252">A recombinant canarypox virus vector was used to co-express genes encoding the VP2 and VP5 outer capsid proteins of bluetongue virus (Boone et al., 2007).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1737" host_id="host17">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3252">The sheep vaccinated with the recombinant canarypox virus vectored vaccine were resistant to challenge with a field strain of BTV-17 (Boone et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3252">The field strain of BTV-17 was used for challenging (Boone et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1170">
+		<vaccine_name>Bluetongue Modified Live Virus Vaccine (USDA: 1061.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Colorado Serum Company</manufacturer>
+		<vo_id>VO_0001816</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4169">
+		<vaccine_name>BoHV-4-A-IgK-VP2gD</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004686</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Other</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3202">BoHV-4-based vector cloned as a bacterial artificial chromosome (BAC) was engineered to express the bluetongue virus (BTV) immune-dominant glycoprotein VP2 provided of a heterologous signal peptide to its amino terminal and a trans-membrane domain to its carboxyl terminal (IgK-VP2gDtm), to allow VP2 expression targeting to the cell membrane fraction (Franceschi et al., 2011).</preparation>
+		<route refs="">Other</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1709" host_id="host3">
+			<immune_response refs="">Mice eveloped serum neutralizing antibodies against BTV .</immune_response>
+			<host_strain refs="">α/β interferon receptor knockout (IFNAR(-/-)) mice</host_strain>
+			<vaccination_protocol refs="">IFNAR(-/-) mice intraperitoneally inoculated twice with BoHV-4-A-IgK-VP2gDtm at different time points.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3202">Vaccinated mice showed a strongly reduced viremia and a longer survival time after challenge (Franceschi et al., 2011).</protection_efficacy>
+			<side_effects refs="reference3202">A pre-challenge experiment was performed to test BoHV-4 safety on adult α/β interferon receptor knockout (IFNAR(-/-)) mice, a newly generated bluetongue laboratory animal model. BoHV-4 infected IFNAR(-/-) mice did not show clinical signs even following the inoculation of BoHV-4 intra-cerebrally, although many areas of the brain got transduced (Franceschi et al., 2011).</side_effects>
+			<challenge_protocol refs="reference3202">a lethal dose of BTV-8 as used for challenge (Franceschi et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4295">
+		<vaccine_name>rCPV-BTV-Cpox</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004788</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3312">BTV recombinant capripoxviruses (BTV-Cpox) individually expressing four different genes encoding two capsid proteins (VP2 and VP7) and two non-structural proteins (NS1, NS3) of BTV serotype 2 (BTV-2) (Perrin et al., 2007).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1738" host_id="host17">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3312">Sheep were immunized with BTV recombinant capripoxviruses (BTV-Cpox) (Perrin et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3312">Sheep challenged 3 weeks after BTV-Cpox vaccination exhibited partial protection (Perrin et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3312">The sheep were challenged with a virulent strain of BTV-2 (Perrin et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4191">
+		<vaccine_name>SG33-VP2/5</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004706</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Other</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3228">MYXV expressing the immunodominant VP2 protein (SG33-VP2) (Top et al., 2012)</preparation>
+		<route refs="">Other</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1710" host_id="host17">
+			<immune_response refs="reference1595">The SG33-VP2 vector promoted the production of neutralising antibodies (Maclachlan et al., 2009).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3228">Sheep were injected twice with an MYXV expressing the immunodominant VP2 protein (SG33-VP2) (Top et al., 2012).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3228">The SG33-VP2 vector expressing VP2 partially protected sheep against disease after challenge with a highly virulent strain of serotype-8 bluetongue virus (BTV-8) (Top et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<reference reference_id="reference3252">
+		<reference_name>Boone et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Boone JD, Balasuriya UB, Karaca K, Audonnet JC, Yao J, He L, Nordgren R, Monaco F, Savini G, Gardner IA, Maclachlan NJ</authors>
+		<title>Recombinant canarypox virus vaccine co-expressing genes encoding the VP2 and VP5 outer capsid proteins of bluetongue virus induces high level protection in sheep</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>4</issue>
+		<pages>672-678</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4967">
+		<reference_name>Bouet-Cararo et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bouet-Cararo C, Contreras V, Caruso A, Top S, Szelechowski M, Bergeron C, Viarouge C, Desprat A, Relmy A, Guibert JM, Dubois E, Thiery R, Br�ard E, Bertagnoli S, Richardson J, Foucras G, Meyer G, Schwartz-Cornil I, Zientara S, Klonjkowski B</authors>
+		<title>Expression of VP7, a Bluetongue virus group specific antigen by viral vectors: analysis of the induced immune responses and evaluation of protective potential in sheep</title>
+		<year>2014</year>
+		<volume>9</volume>
+		<issue>11</issue>
+		<pages>e111605</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3202">
+		<reference_name>Franceschi et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Franceschi V, Capocefalo A, Calvo-Pinilla E, Redaelli M, Mucignat-Caretta C, Mertens P, Ortego J, Donofrio G</authors>
+		<title>Immunization of knock-out α/β interferon receptor mice against lethal bluetongue infection with a BoHV-4-based vector expressing BTV-8 VP2 antigen</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>16</issue>
+		<pages>3074-3082</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4951">
+		<reference_name>Legisa et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Legisa DM, Perez Aguirreburualde MS, Gonzalez FN, Marin-Lopez A, Ruiz V, Wigdorovitz A, Martinez-Escribano JA, Ortego J, Dus Santos MJ</authors>
+		<title>An experimental subunit vaccine based on Bluetongue virus 4 VP2 protein fused to an antigen-presenting cells single chain antibody elicits cellular and humoral immune responses in cattle, guinea pigs and IFNAR(-/-) mice</title>
+		<year>2015</year>
+		<volume>33</volume>
+		<issue>22</issue>
+		<pages>2614-2619</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1595">
+		<reference_name>Maclachlan et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Maclachlan NJ, Drew CP, Darpel KE, Worwa G</authors>
+		<title>The pathology and pathogenesis of bluetongue</title>
+		<year>2009</year>
+		<volume>141</volume>
+		<issue>1</issue>
+		<pages>1-16</pages>
+		<journal_book_name>Journal of comparative pathology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3312">
+		<reference_name>Perrin et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Perrin A, Albina E, Bréard E, Sailleau C, Promé S, Grillet C, Kwiatek O, Russo P, Thiéry R, Zientara S, Cêtre-Sossah C</authors>
+		<title>Recombinant capripoxviruses expressing proteins of bluetongue virus: evaluation of immune responses and protection in small ruminants</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>37-38</issue>
+		<pages>6774-6783</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3228">
+		<reference_name>Top et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Top S, Foucras G, Deplanche M, Rives G, Calvalido J, Comtet L, Bertagnoli S, Meyer G</authors>
+		<title>Myxomavirus as a vector for the immunisation of sheep: protection study against challenge with bluetongue virus</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>9</issue>
+		<pages>1609-1616</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5000">
+		<reference_name>Wang et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang WS, Sun EC, Liu NH, Yang T, Xu QY, Qin YL, Zhao J, Feng YF, Li JP, Wei P, Zhang CY, Wu DL</authors>
+		<title>Identification of three novel linear B-cell epitopes on the VP5 protein of BTV16</title>
+		<year>2013</year>
+		<volume>162</volume>
+		<issue>2-4</issue>
+		<pages>631-642</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1594">
+		<reference_name>Wiki: Bluetongue</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Bluetongue</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Bluetongue</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

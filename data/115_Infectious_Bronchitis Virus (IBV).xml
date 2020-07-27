@@ -1,0 +1,2355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen145">
+		<pathogen_name>Infectious Bronchitis Virus (IBV)</pathogen_name>
+		<taxon_id>11120</taxon_id>
+		<pathogenesis refs="reference1569">Infectious bronchitis virus initially infects and replicates in the upper-respiratory tract causing the loss of protective cells lining the sinuses and trachea. After a brief viremia, the virus can be detected in the kidneys, reproductive tract, and cecal tonsils. Some strains of IBV, which are referred to as nephropathogenic are known to cause lesions in the kidney. Renal damage associated with different IB strains is an increasingly important feature of IB infections, especially in broiler chickens (Infectious-bronchitis.net).</pathogenesis>
+		<disease_name>Infectious Bronchitis</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1569">It is generally accepted that chickens are the most important natural hosts of IBV; all ages of chickens can be infected. IBV, or closely related coronaviruses have also been isolated from other species such as turkeys, pheasants, quail and partridges (Infectious-bronchitis.net).</host_range>
+		<introduction refs="reference1567 reference1568">Avian infectious bronchitis virus (IBV) is a coronavirus which infects poultry, causing the associated disease, infectious bronchitis (IB) (Wiki: Infectious Bronchitis Virus). Infectious bronchitis is an acute, rapidly spreading, viral disease of chickens characterized by respiratory signs, decreased egg production, and poor egg quality. Some strains of the causative virus, infectious bronchitis virus (IBV), are nephropathogenic. The latter strains produce interstitial nephritis resulting in significant mortality. Infectious bronchitis is of major economic importance to commercial chicken producers worldwide. IBV is shed by infected chickens in respiratory discharges and feces. The highly contagious virus is spread by airborne droplets, ingestion of contaminated feed and water, and contaminated equipment and clothng of caretakers. Naturally infected chickens and those vaccinated with live IBV may intermittently shed virus for many weeks or even months. Virus infection in layers and breeders occurs cyclically as immunity declines or on exposure to different serotypes. (Merck Vet Manual: Infectious Bronchitis).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4242">
+		<vaccine_name>Ac-CMV-S1 (infectious bronchitis virus)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004753</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3271">BV-Dual-S1 expresses the S1 glycoprotein of IBV-M41 on the baculovirus envelope, and is capable of expressing it in mammalian cells (Zhang et al., 2014).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1719" gene_id="gene1673">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3271">The BacMam virus Ac-CMV-S1, which expressed the S1 glycoprotein of IBV-M41 (Zhang et al., 2014).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1777" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3271">The chickens were immunized with BV-Dual-S1 or an inactivated vaccine (Zhang et al., 2014).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3271">A significant difference was not observed for protection rates between chickens immunized with BV-Dual-S1 (83%) or inactivated vaccine (89%) following challenge with virulent IBV-M41. Our findings show that the protective efficacy of BV-Dual-S1 could be significantly enhanced by baculovirus display technology (Zhang et al., 2014).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3271">The immunized chickens were challenged with a virulent IBV-M41 (Zhang et al., 2014).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1361">
+		<vaccine_name>Bronchitis  Mass Type, Live Virus Vaccine (USDA: 1231.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc.</manufacturer>
+		<vo_id>VO_0001610</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1373">
+		<vaccine_name>Bronchitis Ark Type, Live Virus Vaccine (USDA: 1231.1M)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001611</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1375">
+		<vaccine_name>Bronchitis Ark Type, Live Virus Vaccine (USDA: 1231.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001612</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1376">
+		<vaccine_name>Bronchitis Ark Type, Live Virus Vaccine (USDA: 1231.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0001613</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1377">
+		<vaccine_name>Bronchitis Ark Type, Live Virus Vaccine (USDA: 1231.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001614</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1365">
+		<vaccine_name>Bronchitis Conn Type, Live Virus Vaccine (USDA: 1231.15)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Lohmann Animal Health International, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001615</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1368">
+		<vaccine_name>Bronchitis Delaware Type, Modified Live Virus Vaccine (USDA: 1231.1D)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001616</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1371">
+		<vaccine_name>Bronchitis Georgia Type, Live Virus Vaccine (USDA: 1231.1J)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc.</manufacturer>
+		<vo_id>VO_0001617</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1372">
+		<vaccine_name>Bronchitis Georgia Type, Live Virus Vaccine (USDA: 1231.1L)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001618</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1382">
+		<vaccine_name>Bronchitis Mass &amp; Ark Types, Killed Virus Vaccine (USDA: 1235.15)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0001619</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1363">
+		<vaccine_name>Bronchitis Mass &amp; Ark Types, Live Virus Vaccine (USDA: 1231.13)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc.</manufacturer>
+		<vo_id>VO_0001620</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1364">
+		<vaccine_name>Bronchitis Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1231.14)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Merial, Inc.</manufacturer>
+		<vo_id>VO_0001621</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1370">
+		<vaccine_name>Bronchitis Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1231.1G)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001622</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1374">
+		<vaccine_name>Bronchitis Mass &amp; Conn Types, Live Virus Vaccine (USDA:1231.1N)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001623</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1362">
+		<vaccine_name>Bronchitis Mass Type, Live Virus Vaccine (USDA: 1231.12)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0001624</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1366">
+		<vaccine_name>Bronchitis Mass Type, Live Virus Vaccine (USDA: 1231.18)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0001625</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1367">
+		<vaccine_name>Bronchitis Mass Type, Live Virus Vaccine (USDA: 1231.1A)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001626</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1369">
+		<vaccine_name>Bronchitis Mass Type, Live Virus Vaccine (USDA: 1231.1F)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001627</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1378">
+		<vaccine_name>Bronchitis Mass Type, Live Virus Vaccine (USDA: 1232.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0001628</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1379">
+		<vaccine_name>Bronchitis Mass Type, Live Virus Vaccine (USDA: 1232.15)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0001629</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1380">
+		<vaccine_name>Bronchitis Mass Type, Live Virus Vaccine (USDA: 1233.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0001630</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1381">
+		<vaccine_name>Bronchitis Mass Type, Live Virus Vaccine (USDA: 1235.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Lohmann Animal Health International, Biomune Company</manufacturer>
+		<vo_id>VO_0001631</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1470">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis B1 Type, B1 Strain, Mass &amp; Ark Types, Live Virus Vaccine (USDA: 12H1.4M)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002069</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1473">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis B1 Type, B1 Strain, Mass &amp; Ark Types, Live Virus Vaccine (USDA: 12H1.67)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002070</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1476">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis Mass Type, Killed Virus Vaccine (USDA: 12J5.40)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002071</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1479">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis Mass Type, Killed Virus Vaccine (USDA: 12J5.43)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002072</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1485">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis Mass Type, Killed Virus Vaccine (USDA: 12J5.62)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002074</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1467">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis Standard &amp; Variant, Mass &amp; Ark Types, Killed Virus Vaccine (USDA: 12D5.45)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International, Merial, Inc.</manufacturer>
+		<vo_id>VO_0002060</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1482">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis Standard &amp; Variant, Mass Type, Killed Virus Vaccine (USDA: 12J5.61)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Biomune Company</manufacturer>
+		<vo_id>VO_0002073</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1488">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus  Standard &amp; Variant, Mass Type, Killed Virus Vaccine (USDA: 12M5.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International, Biomune Company</manufacturer>
+		<vo_id>VO_0002075</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1492">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus  Standard &amp; Variant, Mass Type, Killed Virus Vaccine (USDA: 12M5.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Lohmann Animal Health International, Biomune Company</manufacturer>
+		<vo_id>VO_0002076</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1500">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Killed Virus Vaccine (USDA: 12M5.40)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002078</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1496">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Mass Type, Killed Virus Vaccine (USDA: 12M5.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002077</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1512">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Mass Type, Killed Virus Vaccine (USDA: 12M5.43)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002081</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1516">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Mass Type, Killed Virus Vaccine (USDA: 12M5.50)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002082</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1520">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Mass Type, Killed Virus Vaccine (USDA: 12M5.90)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002083</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1524">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Mass Type, Killed Virus Vaccine (USDA: 12M5.91)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002084</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1504">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Standard &amp; Variant, Mass &amp; Ark Types, Killed Virus Vaccine (USDA: 12M5.41)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International, Merial, Inc.</manufacturer>
+		<vo_id>VO_0002079</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1508">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Standard &amp; Variant, Mass &amp; Ark Types, Killed Virus Vaccine (USDA: 12M5.42)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002080</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1528">
+		<vaccine_name>Bursal Disease-Newcastle Disease-Bronchitis-Reovirus Standard &amp; Variant, Mass Type, Killed Virus Vaccine (USDA: 12M5.E0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0002085</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3939">
+		<vaccine_name>IBV DNA vaccine pVAX-S1 with GM-CSF adjuvant</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004582</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 [Ref2716:Tan et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2716">GM-CSF (Tan et al., 2009)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1492" gene_id="gene1673">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1586" host_id="host3">
+			<immune_response refs="reference2716">Vaccination with pVAX-S1 plus pVAX-chGM-CSF induced a level of anti-IBV antibodies that was significantly higher than in animals receiving pVAX-S1 alone (P &lt; 0.05) beginning on the seventh day after booster vaccination (Tan et al., 2009).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2716">PBS and pVAX1 immunized groups had 0% protection efficacy.  The protection efficacy in the group vaccinated with the pVAX-S1 plus pVAX- chGM-CSF was 86.7%, whereas for the group vaccinated with pVAX-S1 alone, it was 73.3%. These results suggest that chGM-CSF, used as a molecular adjuvant, can improve the protection efficacy of an IBV S1 protein DNA vaccine (Tan et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3889">
+		<vaccine_name>IBV DNA vaccine pVAX1-16S1/M/N</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004535</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 prime, inactivated IBV vaccine boost [Ref2653:Yan et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2653">S1, N, and M proteins of the virulent IBVSX16 strain (Yan et al., 2013)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1594" gene_id="gene1707">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1595" gene_id="gene1672">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1596" gene_id="gene1673">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1531" host_id="host8">
+			<immune_response refs="reference2653">Antibody titers of the chickens immunized with pVAX1-16S1/M/N were much higher than those of the monovalent groups (p &lt; 0.01) (Yan et al., 2013).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2653">Chickens were immunized with the multivalent DNA vaccine twice and then boosted with an inactivated vaccine once (Yan et al., 2013).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2653">A protective rate up to 90% was observed in the pVAX1-16S1/M/N group (Yan et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3938">
+		<vaccine_name>IBV DNA vaccine pVAX1-N</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004581</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVAX1 prime, inactivated IBV vaccine boost [Ref2715:Guo et al., 2010]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1491" gene_id="gene1672">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1585" host_id="host8">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2715">Priming with a DNA vaccine encoding nucleocapsid protein (pVAX1-N) and boosting with the inactivated IBV vaccine provided up to 86.7% rate of immune protection, compared to the lack of protection seen in the PBS-immunized group, where the death rate was 66.7% (Guo et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3941">
+		<vaccine_name>Infectious Bronchitis Virus DNA Vaccine encoding S1, N, and M</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004584</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1556" gene_id="gene1672">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1557" gene_id="gene1673">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1558" gene_id="gene1707">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1588" host_id="host8">
+			<immune_response refs="reference2717">Anti-IBV antibody levels were detected in chickens immunized with either pVAX1-S1, pVAX1-M, pVAX1-N or the three constructs in combination. In fact, a higher antibody titer level was observed in chickens immunized with the three expression constructs in combination compared with the individual constructs, suggesting a greater potency for inducing antibody response (Yang et al., 2009).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2717">The seven day old SPF chickens were randomly divided into six groups with 20 chickens per group. Groups 1–3 received 100 micro-g of pVAX1-S1, PVAX1-M, or pVAX1-N,
+respectively; Group 4 received 100 micro-g combined DNA vaccine containing 33 micro-g of each of the three antigen plasmids; Groups 5–6 received 100 micro-g empty pVAX1 and 0.5 ml PBS. All the chickens were immunized intramuscularly with the vaccines at seven days of age (Yang et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2717">Immunization with the multivalent DNA vaccine provided up to 85% immune protection in the vaccinated chickens (Yang et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2717">All chickens were challenged with 100EID50 of the IBV SAIBk strain in 0.1 ml by a nasal-ocular route at 21 days after the boost immunization (Yang et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2906">
+		<vaccine_name>Newcastle Disease-Bronchitis Mass &amp; Ark Types, Killed Virus Vaccine-Salmonella Enteritidis Bacterin (USDA: 48D7.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002282</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2909">
+		<vaccine_name>Newcastle Disease-Bronchitis Mass &amp; Ark Types, Killed Virus Vaccine-Salmonella Enteritidis Bacterin (USDA: 48D7.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002283</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2001">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Conn Type, Live Virus Vaccine (USDA: 1761.13)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002150</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2013">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Conn Type, Live Virus Vaccine (USDA: 1761.1A)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002156</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2017">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Conn Type, Live Virus Vaccine (USDA: 1762.13)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002158</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2055">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Ark Types, Live Virus Vaccine (USDA: 1791.1X)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002176</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2057">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Ark Types, Live Virus Vaccine (USDA: 17A1.1M)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Merial, Inc.</manufacturer>
+		<vo_id>VO_0002177</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2059">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Ark Types, Live Virus Vaccine (USDA: 17A1.1N)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002178</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2061">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Ark Types, Live Virus Vaccine (USDA: 17A2.1M)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002179</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2003">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1761.14)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0002151</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2005">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1761.15)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002152</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2007">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1761.17)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002153</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2019">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1762.1H)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002159</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2047">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1791.14)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002173</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2049">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1791.15)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002174</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1997">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass Type, Live Virus Vaccine (USDA: 1761.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Merial, Inc.</manufacturer>
+		<vo_id>VO_0002148</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1999">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass Type, Live Virus Vaccine (USDA: 1761.12)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Lohmann Animal Health International, Merial, Inc.</manufacturer>
+		<vo_id>VO_0002149</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2009">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass Type, Live Virus Vaccine (USDA: 1761.18)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc.</manufacturer>
+		<vo_id>VO_0002154</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2011">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass Type, Live Virus Vaccine (USDA: 1761.19)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002155</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2015">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass Type, Live Virus Vaccine (USDA: 1762.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002157</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2051">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass Type, Live Virus Vaccine (USDA: 1791.19)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002175</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2053">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, B1 Strain, Mass Type, Live Virus Vaccine (USDA: 1791.1X)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0004208</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2071">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, C2 Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1XC1.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002204</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2069">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, C2 Strain, Mass Type, Live Virus Vaccine (USDA: 1XB1.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002203</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2063">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, LaSota Strain, Mass &amp; Conn Types Vaccine (USDA: 17B1.17)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002180</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2025">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, LaSota Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1771.14)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Merial, Inc.</manufacturer>
+		<vo_id>VO_0002162</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2027">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, LaSota Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 1771.17)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002163</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2021">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, LaSota Strain, Mass Type, Live Virus Vaccine (USDA: 1771.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Lohmann Animal Health International, Merial, Inc.</manufacturer>
+		<vo_id>VO_0002160</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2023">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, LaSota Strain, Mass Type, Live Virus Vaccine (USDA: 1771.12)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Merial, Inc.</manufacturer>
+		<vo_id>VO_0002161</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2029">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, LaSota Strain, Mass Type, Live Virus Vaccine (USDA: 1771.18)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002164</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2031">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, LaSota Strain, Mass Type, Live Virus Vaccine (USDA: 1771.19)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002165</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2033">
+		<vaccine_name>Newcastle-Bronchitis B1 Type, LaSota Strain, Mass Type, Live Virus Vaccine (USDA: 1771.1A)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002166</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2041">
+		<vaccine_name>Newcastle-Bronchitis Mass &amp; Ark Types, Killed Virus Vaccine (USDA: 1785.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002170</vo_id>
+		<type></type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2045">
+		<vaccine_name>Newcastle-Bronchitis Mass &amp; Ark Types, Killed Virus Vaccine (USDA: 1785.12)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002172</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2035">
+		<vaccine_name>Newcastle-Bronchitis Mass Type, Killed Virus Vaccine (USDA: 1775.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Biomune Company</manufacturer>
+		<vo_id>VO_0002167</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2037">
+		<vaccine_name>Newcastle-Bronchitis Mass Type, Killed Virus Vaccine (USDA: 1775.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002168</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2039">
+		<vaccine_name>Newcastle-Bronchitis Mass Type, Killed Virus Vaccine (USDA: 1776.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002169</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2043">
+		<vaccine_name>Newcastle-Bronchitis Mass Type, Killed Virus Vaccine (USDA: 1785.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002171</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2912">
+		<vaccine_name>Newcastle-Bronchitis Mass Type, Killed Virus Vaccine-Mycoplasma Gallisepticum Bacterin (USDA: 48B5.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International</manufacturer>
+		<vo_id>VO_0002275</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2915">
+		<vaccine_name>Newcastle-Bronchitis Mass Type, Killed Virus Vaccine-Mycoplasma Gallisepticum Bacterin (USDA: 48B6.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc.</manufacturer>
+		<vo_id>VO_0002276</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2918">
+		<vaccine_name>Newcastle-Bronchitis Mass Type, Killed Virus Vaccine-Salmonella Enteritidis Bacterin (USDA: 48D6.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc., Biomune Company</manufacturer>
+		<vo_id>VO_0002281</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2065">
+		<vaccine_name>Newcastle-Bronchitis VG/GA Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 17V1.10)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002185</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2067">
+		<vaccine_name>Newcastle-Bronchitis VG/GA Strain, Mass &amp; Conn Types, Live Virus Vaccine (USDA: 17V1.11)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0002186</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene1707">
+        <gene_name>M membrane protein</gene_name>
+        <strain>Infectious bronchitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1489743</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9626542</ncbi_protein_id>
+        <gene_locus_tag>IBVgp4</gene_locus_tag>
+        <gene_refseq>M22014</gene_refseq>
+        <protein_refseq>NP_040835</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11120</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>24504</gene_start>
+        <gene_end>25181</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>membrane protein</protein_name>
+        <protein_pi>8.3</protein_pi>
+        <protein_weight>23788.52</protein_weight>
+        <protein_length>225</protein_length>
+        <protein_note>ORF for gene 4</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001451.1:24504-25181 Avian infectious bronchitis virus, complete genome
+GATGCCCAACGAGACAAATTGTACTCTTGACTTTGAACAGTCAGTTCAGCTTTTTAAAGAGTATAATTTA
+TTTATAACTGCATTCTTGTTGTTCTTAACCATAATACTTCAGTATGGCTATGCAACAAGAAGTAAGGTTA
+TTTATACACTGAAAATGATAGTGTTATGGTGCTTTTGGCCCCTTAACATTGCAGTAGGTGTAATTTCATG
+TACATACCCACCAAACACAGGAGGTCTTGTCGCAGCGATAATACTTACAGTGTTTGCGTGTCTGTCTTTT
+GTAGGTTATTGGATCCAGAGTATTAGACTCTTTAAGCGGTGTAGGTCATGGTGGTCATTTAATCCAGAAT
+CTAATGCCGTAGGTTCAATACTCCTAACTAATGGTCAACAATGTAATTTTGCTATAGAGAGTGTGCCAAT
+GGTGCTTTCTCCAATTATAAAGAATGGTGTTCTTTATTGTGAGGGTCAGTGGCTTGCTAAGTGTGAACCA
+GACCACTTGCCTAAAGATATATTTGTTTGTACACCGGATAGACGTAATATCTACCGTATGGTGCAGAAAT
+ATACTGGTGACCAAAGCGGAAATAAGAAAAGGTTTGCTACGTTTGTCTATGCAAAGCAGTCAGTAGATAC
+TGGCGAGCTAGAAAGTGTAGCAACAGGAGGAAGTAGTCTTTACACATA
+
+</dna_sequence>
+        <protein_sequence>>NP_040835.1 membrane protein [Infectious bronchitis virus]
+MPNETNCTLDFEQSVQLFKEYNLFITAFLLFLTIILQYGYATRSKVIYTLKMIVLWCFWPLNIAVGVISC
+TYPPNTGGLVAAIILTVFACLSFVGYWIQSIRLFKRCRSWWSFNPESNAVGSILLTNGQQCNFAIESVPM
+VLSPIIKNGVLYCEGQWLAKCEPDHLPKDIFVCTPDRRNIYRMVQKYTGDQSGNKKRFATFVYAKQSVDT
+GELESVATGGSSLYT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1672">
+        <gene_name>N protein</gene_name>
+        <strain>Infectious bronchitis virus strain M41 serotype Massachussets</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>157058858</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279305</xrefs>
+        <taxonomy_id>11120</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>nucleocapsid protein</protein_name>
+        <protein_pi>10.29</protein_pi>
+        <protein_weight>43358</protein_weight>
+        <protein_length>479</protein_length>
+        <protein_note>Coronavirus nucleocapsid protein; pfam00937</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABV03163.1 nucleocapsid protein [Infectious bronchitis virus]
+MASGKATGKTDAPAPVIKLGGPKPPKVGSSGNVSWFQAIKAKKLNSPPPKFEGSGVPDNENLKPSQQHGY
+WRRQARFKPGKGGRKPVPDAWYFYYTGTGPAANLNWGDSQDGIVWVAGKGADTKFRSNQGTRDSDKFDQY
+PLRFSDGGPDGNFRWDFIPLNRGRSGRSTAASSAASSRAPSREVSRGRRSGSEDDLIARAARIIQDQQKK
+GSRITKAKADEMAHRRYCKRTIPPNYKVDQVFGPRTKGKEGNFGDDKMNEEGIKDGRVTAMLNLVPSSHA
+CLFGSRVTPRLQPDGLHLKFEFTTVVPRDDPQFDNYVKICDQCVDGVGTRPTDDEPRPKSRSSSKPATRG
+NSPAPRQQRPKKEKKPKKQDDEVDKALTSDEERNNAQLEFDDEPKVINWGDSALGENEL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1673">
+        <gene_name>S1</gene_name>
+        <strain>Infectious bronchitis virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>55501832</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279880</xrefs>
+        <taxonomy_id>11120</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>S1</protein_name>
+        <protein_pi>7.94</protein_pi>
+        <protein_weight>57519.94</protein_weight>
+        <protein_length>621</protein_length>
+        <protein_note>Coronavirus S1 glycoprotein; pfam01600</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAV52771.1 S1, partial [Infectious bronchitis virus]
+MLVKSLFIVTLLFALCSANLYDNGNYVYYYQSAFRPSGGWHLHGGAYAVVNVSQETSNAGSSSQCITGAI
+HWSKNFSASSVAMTAPSNGMEWSSSQFCTAHCNFSNIVVFVTHCFKSGAGFCPLTGLIPKGYIRIAAMKQ
+GGNGPSDLFYNLTVPVTKYPKFRSLQCVNNQTSVYLNGDLVFTSNETEDVSGSGVYFKAGGPITYKVMRE
+VKALAYFVNGTAHDVILCDDTPRGLLACQYNTGNFSDGFYPFTNSSLVKEKFIVYRENSVNTTLVLHNFT
+FYNETAAQPNSGGVNSIQTYQTQTAQSGYYNFNFSFLSGFVYKEFNFMYGSYHPKCNFRPENINNGLWFN
+SLSVSLAYGPLQGGCKQSVFHGRATCCYAYSYLGPRLCKGVYSGELTQQFECGLLVYITKSDGSRIQTAT
+EPPVITQHNYNNITLNKCVEYNIYGRFGQGFITNVTDSAASYNYLSDGGLATLDTSGAIDIFVVQGEYGL
+NYYKVNPCEDVNQQFVVSGGKLVGILTSRNETGSQAIENQFYIKLTNGSRRSRRSVNENVTNCPYVSY
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2715">
+		<reference_name>Guo et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Guo Z, Wang H, Yang T, Wang X, Lu D, Li Y, Zhang Y</authors>
+		<title>Priming with a DNA vaccine and boosting with an inactivated vaccine enhance the immune response against infectious bronchitis virus</title>
+		<year>2010</year>
+		<volume>167</volume>
+		<issue>1</issue>
+		<pages>84-89</pages>
+		<journal_book_name>Journal of virological methods</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1569">
+		<reference_name>Infectious-bronchitis.net</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Information about Infectious Bronchitis in chickens and control of disease</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.infectious-bronchitis.com</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4978">
+		<reference_name>Leyson et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Leyson C, Fran�a M, Jackwood M, Jordan B</authors>
+		<title>Polymorphisms in the S1 spike glycoprotein of Arkansas-type infectious bronchitis virus (IBV) show differential binding to host tissues and altered antigenicity</title>
+		<year>2016</year>
+		<volume>498</volume>
+		<issue></issue>
+		<pages>218-225</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1568">
+		<reference_name>Merck Vet Manual: Infectious Bronchitis</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Merck Veterinary Manual: Infectious Bronchitis</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.merckvetmanual.com/mvm/index.jsp?cfile=htm/bc/206500.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2716">
+		<reference_name>Tan et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tan B, Wang H, Shang L, Yang T</authors>
+		<title>Coadministration of chicken GM-CSF with a DNA vaccine expressing infectious bronchitis virus (IBV) S1 glycoprotein enhances the specific immune response and protects against IBV infection</title>
+		<year>2009</year>
+		<volume>154</volume>
+		<issue>7</issue>
+		<pages>1117-1124</pages>
+		<journal_book_name>Archives of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1567">
+		<reference_name>Wiki: Infectious Bronchitis Virus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Infectious Bronchitis Virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Avian_infectious_bronchitis_virus</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2653">
+		<reference_name>Yan et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yan F, Zhao Y, Hu Y, Qiu J, Lei W, Ji W, Li X, Wu Q, Shi X, Li Z</authors>
+		<title>Protection of chickens against infectious bronchitis virus with a multivalent DNA vaccine and boosting with an inactivated vaccine</title>
+		<year>2013</year>
+		<volume>14</volume>
+		<issue>1</issue>
+		<pages>53-60</pages>
+		<journal_book_name>Journal of veterinary science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2717">
+		<reference_name>Yang et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yang T, Wang HN, Wang X, Tang JN, Gao R, Li J, Guo ZC, Li YL</authors>
+		<title>Multivalent DNA vaccine enhanced protection efficacy against infectious bronchitis virus in chickens</title>
+		<year>2009</year>
+		<volume>71</volume>
+		<issue>12</issue>
+		<pages>1585-1590</pages>
+		<journal_book_name>The Journal of veterinary medical science / the Japanese Society of Veterinary Science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3271">
+		<reference_name>Zhang et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang J, Chen XW, Tong TZ, Ye Y, Liao M, Fan HY</authors>
+		<title>BacMam virus-based surface display of the infectious bronchitis virus (IBV) S1 glycoprotein confers strong protection against virulent IBV challenge in chickens</title>
+		<year>2014</year>
+		<volume>32</volume>
+		<issue>6</issue>
+		<pages>664-670</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4948">
+		<reference_name>Zhang et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang J, Chen XW, Tong TZ, Ye Y, Liao M, Fan HY</authors>
+		<title>BacMam virus-based surface display of the infectious bronchitis virus (IBV) S1 glycoprotein confers strong protection against virulent IBV challenge in chickens</title>
+		<year>2014</year>
+		<volume>32</volume>
+		<issue>6</issue>
+		<pages>664-670</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

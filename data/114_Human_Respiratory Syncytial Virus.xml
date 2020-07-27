@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen212">
+		<pathogen_name>Human Respiratory Syncytial Virus</pathogen_name>
+		<taxon_id>11250</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Respiratory tract disease</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference2057">Human Respiratory Syncytial Virus consists of two antigenic subtypes, A and B.  Subtype B is more common and is considered the asymptomatic strain.  More severe outbreaks are attributed to subtype A.  The severity of the disease ranges from mild to life-threatening.  It can cause mortality or morbidity in the elderly or immunosuppressed individuals.  It is the most common pathogen leading to hospitalization in young children (Wiki: Human respiratory syncytial virus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4315">
+		<vaccine_name>HDAd-sFsyn</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004802</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3329">(Fu et al., 2014)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3936">
+		<vaccine_name>HRSV DNA vaccine DRF-412</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004579</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>phCMV1 [Ref2711:Wu et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2711">the ctxA(2)B region of the cholera toxin gene (Wu et al., 2009)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1489" gene_id="gene1670">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1583" host_id="host3">
+			<immune_response refs="reference2711">The DRF-412 vaccine vector was as effective as live RSV in inducing neutralization antibody, systemic Ab (IgG, IgG1, IgG2a, and IgG2b) responses, and mucosal antibody responses (Ig A).  Mice inoculated with vector DRF-412 induced a higher mixed Th1/Th2 cytokine immune response than DRF-412-P (Wu et al., 2009).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2711">Mice immunized with DRF-412 and DRF-412-P have a higher average Ct value compared with PBS and phCMV I group (P &lt; 0.001), which means that they have less viral mRNA in the lung indicating better protection, but there was no statistically significant difference between DRF-412 and DRF-412-P.  This vaccine induced partial protection against RSV in mice (Wu et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3937">
+		<vaccine_name>HRSV DNA vaccine pND-G</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004580</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pND [Ref2714:Miller et al., 2002]</vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1490" gene_id="gene1671">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1584" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2714">Immunization with the pND-G vaccine significantly inhibited the RSV induced increase in airway responsiveness to methacholine (Mch) (n=3 separate experiments; 12 mice per group) (P&lt;0.05 versus RSV). The concentration of Mch required to induce a 200% increase in airway responsiveness (PC200) was significantly greater in RSV infected mice who had received the pND-G vaccine compared to RSV infected mice who had not received the vaccine (21.5 mg/ml Mch versus 7.2 mg/ml Mch) (P&lt;0.05) (Miller et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3219">
+		<vaccine_name>Human Respiratory Syncytial Virus M2-2 mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002978</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering758" gene_id="gene1061">
+			<type>Gene mutation</type>
+			<description refs="reference1999">This M2-2 is from Human Respiratory Syncytial Virus (Jin et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1048" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1999">An M2-2 mutant is attenuated in African green monkeys (Jin et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1999">An M2-2 mutant induces significant protection in African green monkeys from challenge with wild type HRSV (Jin et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1670">
+        <gene_name>F</gene_name>
+        <strain>Human respiratory syncytial virus A</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>306438651</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:278924
+GOA:E0WLR1
+InterPro:IPR000776
+UniProtKB/TrEMBL:E0WLR1</xrefs>
+        <taxonomy_id>208893</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>F protein</protein_name>
+        <protein_pi>10.23</protein_pi>
+        <protein_weight>18105.35</protein_weight>
+        <protein_length>239</protein_length>
+        <protein_note>Fusion glycoprotein F0; pfam00523</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CBW45366.1 F protein, partial [Human respiratory syncytial virus A]
+MELPILKTNAITTIFAAVTLCFASSQNITEEFYQSTCSAVSKGYLSALRTGWYTSVITIELSNIKENKCN
+GTDAKVKLIKQELDKYKNAVTELQLLMQSTPAANNRARRELPRFMNYTLNNTKNNNVTLSKKRKRRFLGF
+LLGVGSAIASGIAVSKVLHLEGEVNK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1671">
+        <gene_name>G</gene_name>
+        <strain>Human respiratory syncytial virus A strain Long</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1353203</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:144411
+CDD:224196</xrefs>
+        <taxonomy_id>11260</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Major surface glycoprotein G</protein_name>
+        <protein_pi>10.72</protein_pi>
+        <protein_weight>34785.98</protein_weight>
+        <protein_length>465</protein_length>
+        <protein_note>Attachment glycoprotein G; Membrane-bound glycoprotein; mG</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|P20895.2|GLYC_HRSVL RecName: Full=Major surface glycoprotein G; AltName: Full=Attachment glycoprotein G; AltName: Full=Membrane-bound glycoprotein; Short=mG
+MSKNKDQRTAKTLEKTWDTLNHLLFISSGLYKLNLKSIAQITLSILAMIISTSLIITAIIFIASANHKVT
+LTTAIIQDATSQIKNTTPTYLTQDPQLGISFSNLSEITSQTTTILASTTPGVKSNLQPTTVKTKNTTTTQ
+TQPSKPTTKQRQNKPPNKPNNDFHFEVFNFVPCSICSNNPTCWAICKRIPNKKPGKKTTTKPTKKPTFKT
+TKKDHKPQTTKPKEVPTTKPTEEPTINTTKTNIITTLLTNNTTGNPKLTSQMETFHSTSSEGNLSPSQVS
+TTSEHPSQPSSPPNTTRQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1061">
+        <gene_name>M2-2</gene_name>
+        <strain>Human respiratory syncytial virus A2</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>81925031</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:116003</xrefs>
+        <taxonomy_id>11259</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Matrix M2-2</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>90</protein_length>
+        <protein_note>Matrix M2-2. /FTId=PRO_0000356857.</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|81925031|sp|P88812.1|M22_HRSVA RecName: Full=Matrix M2-2
+MTMPKIMILPDKYPCSITSILITSRCRVTMYNQKNTLYFNQNNPNNHMYSPNQTFNEIHWTSQELIDTIQ
+NFLQHLGIIEDIYTIYILVS</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An M2-2 mutant of human respiratory syncytial virus A2 is attenuated in African green monkeys.  When challenged with wild type RSV, two doses provided complete protection against challenge in the lower respiratory tract and a significant reduction of the challenge virus in the upper respiratory tract [Ref1999:Jin et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference3329">
+		<reference_name>Fu et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fu YH, Jiao YY, He JS, Giang GY, Zhang W, Yan YF, Ma Y, Hua Y, Zhang Y, Peng XL, Shi CX, Hong T</authors>
+		<title>Sublingual administration of a helper-dependent adenoviral vector expressing the codon-optimized soluble fusion glycoprotein of human respiratory syncytial virus elicits protective immunity in mice</title>
+		<year>2014</year>
+		<volume>105</volume>
+		<issue></issue>
+		<pages>72-79</pages>
+		<journal_book_name>Antiviral research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1999">
+		<reference_name>Jin et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jin H, Cheng X, Traina-Dorge VL, Park HJ, Zhou H, Soike K, Kemble G</authors>
+		<title>Evaluation of recombinant respiratory syncytial virus gene deletion mutants in African green monkeys for their potential as live attenuated vaccine candidates</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>25-26</issue>
+		<pages>3647-3652</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2714">
+		<reference_name>Miller et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Miller M, Cho JY, Baek KJ, Castaneda D, Nayar J, Rodriguez M, Roman M, Raz E, Broide DH</authors>
+		<title>Plasmid DNA encoding the respiratory syncytial virus G protein protects against RSV-induced airway hyperresponsiveness</title>
+		<year>2002</year>
+		<volume>20</volume>
+		<issue>23-24</issue>
+		<pages>3023-3033</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2057">
+		<reference_name>Wiki: Human respiratory syncytial virus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Human respiratory syncytial virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://microbewiki.kenyon.edu/index.php/Human_respiratory_syncytial_virus</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2711">
+		<reference_name>Wu et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wu H, Dennis VA, Pillai SR, Singh SR</authors>
+		<title>RSV fusion (F) protein DNA vaccine provides partial protection against viral infection</title>
+		<year>2009</year>
+		<volume>145</volume>
+		<issue>1</issue>
+		<pages>39-47</pages>
+		<journal_book_name>Virus research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

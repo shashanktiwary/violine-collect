@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen128">
+		<pathogen_name>Rift Valley Fever virus</pathogen_name>
+		<taxon_id>11588</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Rift valley fever</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1379">RVFV infects domesticated ruminants and humans (Lagerqvist et al., 2009).</host_range>
+		<introduction refs="reference1416">Rift Valley Fever (RVF) is a viral zoonosis (affects primarily domestic livestock, but can be passed to humans) causing fever. It is spread by the bite of infected mosquitoes, typically the Aedes or Culex genera. The disease is caused by the RVF virus, a member of the genus Phlebovirus (family Bunyaviridae). The disease was first reported among livestock in Kenya around 1915, but the virus was not isolated until 1931. RVF outbreaks occur across sub-Saharan Africa, with outbreaks occurring elsewhere infrequently (but sometimes severely - in Egypt in 1977-78, several million people were infected and thousands died during a violent epidemic. In Kenya in 1998, the virus claimed the lives of over 400 Kenyans. In September 2000 an outbreak was confirmed in Saudi Arabia and Yemen).
+
+In humans the virus can cause several different syndromes. Usually sufferers have either no symptoms or only a mild illness with fever, headache, myalgia and liver abnormalities. In a small percentage of cases (&lt; 2%) the illness can progress to hemorrhagic fever syndrome, meningoencephalitis (inflammation of the brain), or affecting the eye. Patients who become ill usually experience fever, generalized weakness, back pain, dizziness, and weight loss at the onset of the illness. Typically, patients recover within 2–7 days after onset.
+
+Approximately 1% of human sufferers die of the disease. Amongst livestock the fatality level is significantly higher. In pregnant livestock infected with RVF there is the abortion of virtually 100% of fetuses. An epizootic (animal disease epidemic) of RVF is usually first indicated by a wave of unexplained abortions (Wiki: Rift Valley Fever virus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4114">
+		<vaccine_name>CAdVax-RVFV glycoprotein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004642</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3099">RVFV glycoprotein genes were incorporated into a nonreplicating complex adenovirus (CAdVax) vector platform to develop a RVFV vaccine (Holman et al., 2009).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1871" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3099">The mice were injected intraperitoneally (i.p.) with 1 × 10^8 PFU (1 × 10^10 total viral particles) of CAdVax-RVF or control CAdVax-D on week 0. CAdVax-D is a vector with a backbone identical to that of CAdVax-RVF that expresses dengue virus glycoproteins (22). Some mice also received booster vaccinations of the same dose on week 10 (Holman et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3099">Vaccinated mice were protected against lethal RVFV infection. Additionally, protection was elicited in mice despite preexisting immunity to the adenovirus vector (Holman et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3099">Vaccinated and control animals were inoculated with 100 PFU of the ZH501 strain of RVFV by i.p. injection (Holman et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine990">
+		<vaccine_name>Rift Valley Fever Virus DNA Vaccine encoding N Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011399</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1/V5-His® TOPO [Ref1379:Lagerqvist et al., 2009]</vector>
+		<route>Gene Gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene Gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering473" gene_id="gene788">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response743" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1379">Before immunisation the mice were thoroughly shaved on the abdomen and vaccinated with cDNA encoding the antigens using a gene-gun (Helios™, BioRad Laboratories). The cDNA was administrated four times with two to three week intervals. The primary immunisation was performed using four gene-gun cartridges and the following three boosters with two cartridges (Lagerqvist et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1379">Even though complete protection was not achieved by genetic immunisation, four out of eight mice vaccinated with cDNA encoding the nucleocapsid protein displayed no clinical signs of infection after challenge. In contrast, all fourteen control animals displayed clinical manifestations of Rift Valley Fever after challenge (Lagerqvist et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1379">Mice were injected intraperitoneally (i.p.) with RVFV diluted in sterile PBS to a final volume of 100 μl  (Lagerqvist et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4143">
+		<vaccine_name>rMVA-GnGc (Rift Valley fever virus)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004663</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3124">A modified vaccinia virus Ankara (MVA) vectored vaccine encoding the Rift Valley Fever virus (RVFV) glycoproteins Gn and Gc in lambs (Busquets et al., 2014).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1785" host_id="host17">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3124">Three groups of six to seven lambs were immunized as follows: one group received the vaccine (termed rMVA-GnGc), a second group received an MVA vector (vector control) and a third group received saline solution (non-vaccinated control) (Busquets et al., 2014).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3124">The data suggests that a single dose of the rMVA-GnGc vaccine may be sufficient to reduce RVFV shedding and duration of viremia but does not provide sterile immunity nor protection from disease. Further optimization of this vaccine approach in lambs is warranted (Busquets et al., 2014).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3124">Fourteen days post vaccination, all animals were subcutaneously challenged with 10^5 TCID50 of the virulent RVFV isolate 56/74 and vaccine efficacy assessed using standard endpoints (Busquets et al., 2014).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene788">
+        <gene_name>RVFVsSgp2 N protein</gene_name>
+        <strain>Rift Valley fever virus</strain>
+        <vo_id>VO_0011319</vo_id>
+        <ncbi_gene_id>956562</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9632367</ncbi_protein_id>
+        <gene_locus_tag>RVFVsSgp2</gene_locus_tag>
+        <gene_refseq>X53771</gene_refseq>
+        <protein_refseq>NP_049344</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11588</taxonomy_id>
+        <chromosome></chromosome>
+        <segment>segment S</segment>
+        <plasmid></plasmid>
+        <gene_start>914</gene_start>
+        <gene_end>1651</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>N protein</protein_name>
+        <protein_pi>9.92</protein_pi>
+        <protein_weight>25842.8</protein_weight>
+        <protein_length>245</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002045.1:914-1651 Rift Valley fever virus segment S, complete sequence
+CTTAGGCTGCTGTCTTGTAAGCCTGAGCGGCTGCCATGACAGCAGCTGACGGCTTCCCATTGGAATCCAC
+AAGTCCAAAGGCTTTCAAGAATTCTCTCCTCTTCTCATGGCTTATAAAGTTGCTATTCACTGCTGCATTC
+ATTGGCTGCGTGAACGTTGCAGCAACCTCCTCTTTTGTTCTACCTCGGAGGTTTGGGTTGATGACCCGGG
+AGAACTGCAGCAGATACAGAGAGTGAGCATCTAATATTGCCCTTAGATAGTCTCCTGGTAGAGAAGGATC
+CACCATGCCAGCAAAGCTGGGGTGCATCATATGCCTCGGGTATGCAGGGGATAGGCCGTCCATGGTAGTC
+CCAGTGACAGGAAGCCACTCACTCAAGACGACCAAAGCCTGGCATGTCCAGCCAGCCAAGGCGGCAGCAA
+CTCGTGATAGAGTCAACTCATCCCGGGAAGGATTCCCTTCCTTTAGCTTATACTTGTTGATGAGAGCCTC
+CACAGTTGCTTTGCCTTCTTTCGACATTTTCATCATCATCCTCCTGGGCTTGTTGCCACGAGTTAGAGCC
+AGAACAATCATTTTCTTGGCATCCTTCTCCCAGTCAGCCCCACCATACTGCTTTAAGAGTTCGATAACTC
+TACGGGCATCAAACCCTTGATAAGCAAACTCTCGGACCCACTGTTCAATCTCATTGCGGTCCACTGCTTG
+AGCAGCAAACTGGACTCGAAGCTCTTGATAGTTGTCCA
+
+</dna_sequence>
+        <protein_sequence>>NP_049344.1 N protein [Rift Valley fever virus]
+MDNYQELRVQFAAQAVDRNEIEQWVREFAYQGFDARRVIELLKQYGGADWEKDAKKMIVLALTRGNKPRR
+MMMKMSKEGKATVEALINKYKLKEGNPSRDELTLSRVAAALAGWTCQALVVLSEWLPVTGTTMDGLSPAY
+PRHMMHPSFAGMVDPSLPGDYLRAILDAHSLYLLQFSRVINPNLRGRTKEEVAATFTQPMNAAVNSNFIS
+HEKRREFLKAFGLVDSNGKPSAAVMAAAQAYKTAA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunisation of mice with cDNA encoding the nucleocapsid protein induced strong humoral and lymphocyte proliferative immune responses.  Even though complete protection was not achieved by genetic immunisation, four out of eight mice vaccinated with cDNA encoding the nucleocapsid protein displayed no clinical signs of infection after challenge. In contrast, all fourteen control animals displayed clinical manifestations of Rift Valley Fever after challenge [Ref1379:Lagerqvist et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference3124">
+		<reference_name>Busquets et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Busquets N, Lorenzo G, López-Gil E, Rivas R, Solanes D, Galindo-Cardiel I, Xavier Abad F, Rodríguez F, Bensaid A, Warimwe G, Gilbert SC, Domingo M, Brun A</authors>
+		<title>Efficacy assessment of an MVA vectored Rift Valley Fever vaccine in lambs</title>
+		<year>2014</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Antiviral research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4963">
+		<reference_name>Faburay et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Faburay B, Lebedev M, McVey DS, Wilson W, Morozov I, Young A, Richt JA</authors>
+		<title>A glycoprotein subunit vaccine elicits a strong Rift Valley fever virus neutralizing antibody response in sheep</title>
+		<year>2014</year>
+		<volume>14</volume>
+		<issue>10</issue>
+		<pages>746-756</pages>
+		<journal_book_name>Vector borne and zoonotic diseases (Larchmont, N.Y.)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3099">
+		<reference_name>Holman et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Holman DH, Penn-Nicholson A, Wang D, Woraratanadharm J, Harr MK, Luo M, Maher EM, Holbrook MR, Dong JY</authors>
+		<title>A complex adenovirus-vectored vaccine against Rift Valley fever virus protects mice against lethal infection in the presence of preexisting vector immunity</title>
+		<year>2009</year>
+		<volume>16</volume>
+		<issue>11</issue>
+		<pages>1624-1632</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5030">
+		<reference_name>Kalbina et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kalbina I, Lagerqvist N, Moiane B, Ahlm C, Andersson S, Strid �, Falk KI</authors>
+		<title>Arabidopsis thaliana plants expressing Rift Valley fever virus antigens: Mice exhibit systemic immune responses as the result of oral administration of the transgenic plants</title>
+		<year>2016</year>
+		<volume>127</volume>
+		<issue></issue>
+		<pages>61-67</pages>
+		<journal_book_name>Protein expression and purification</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1379">
+		<reference_name>Lagerqvist et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lagerqvist N, Näslund J, Lundkvist A, Bouloy M, Ahlm C, Bucht G</authors>
+		<title>Characterisation of immune responses and protective efficacy in mice after immunisation with Rift Valley Fever virus cDNA constructs</title>
+		<year>2009</year>
+		<volume>6</volume>
+		<issue></issue>
+		<pages>6</pages>
+		<journal_book_name>Virology journal</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1378">
+		<reference_name>Wallace et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wallace DB, Ellis CE, Espach A, Smith SJ, Greyling RR, Viljoen GJ</authors>
+		<title>Protective immune responses induced by different recombinant vaccine regimes to Rift Valley fever</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>49-50</issue>
+		<pages>7181-7189</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1416">
+		<reference_name>Wiki:  Rift Valley Fever virus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Rift Valley Fever</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Rift_valley_fever_virus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

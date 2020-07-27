@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen183">
+		<pathogen_name>Porcine respiratory and reproductive syndrome virus</pathogen_name>
+		<taxon_id>28344</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Porcine Reproductive and Respiratory Syndrome (PRRS), Blue-Ear Pig Disease</disease_name>
+		<protective_immunity refs="reference1619">Infected pigs develop a strong and rapid humoral response but these initial antibodies do not confer protection and can even be harmful by mediating an antibody-dependent enhancement of disease. In contrast, development of neutralising antibodies (NAs) is delayed and generation of cell-mediated immune responses, such as PRRSV-specific interferon (IFN)-gamma secreting cells, is initially erratic. In spite of this, induction of strong and rapid NAs and IFN-gamma responses seem to be required for effective vaccination. PRRSV strongly modulates the host's immune responses. The virus inhibits key cytokines, such as IFN-alpha, and may induce regulatory cytokines, such as interleukin (IL)-10 (Mateu and Diaz, 2008).</protective_immunity>
+		<host_range refs="">Pigs</host_range>
+		<introduction refs="reference1618">The PRRSV is an enveloped, single-stranded positive-sense RNA virus, approximately 50–65 nm in diameter that is classified in the order Nidovirales, family Arteriviridae, genus Arterivirus along with equine arteritis virus, lactate dehydrogenase-elevating virus of mice, and simian hemorrhagic fever virus. Properties of these viruses include the ability to induce prolonged viremia, persistent infections, and replication in macrophages. Being an enveloped virus, PRRSV survivability outside of the host is affected by temperature, pH and exposure to detergents. It is known that PRRSV can survive for extended intervals (&gt;4 months) at temperatures ranging from −70 to −20 °C; however, viability decreases with increasing temperature. Regarding genetic diversity, there are two major prototypes of PRRSV, the European isolate (Lelystad virus, LV) and the North American isolate (VR-2332). Porcine reproductive and respiratory syndrome (PRRS) is an economically important disease of swine, estimated to cost the swine industry in USA approximately US$ 560 million per year. Clinical outbreaks of PRRS were first reported in the late 1980's in the USA; however, the etiology of the disease remained unknown. Clinical signs included severe reproductive failure, post-weaning pneumonia, growth reduction, decreased performance, and increased mortality. Similar clinical outbreaks were reported in Germany in 1990 and were widespread throughout Europe by 1991. In 1991, the etiologic agent, porcine reproductive and respiratory syndrome virus (PRRSV) was identified by investigators in The Netherlands and USA. Today, PRRSV is endemic in the global swine population; however, several countries, including Sweden, Switzerland, New Zealand, and Australia claim to be free of the disease (Cho and Dee, 2006).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine2102">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Reproductive &amp; Respiratory Form, Modified Live Virus Vaccine (USDA: 19T1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id>VO_0001799</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2103">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Reproductive &amp; Respiratory Form, Modified Live Virus Vaccine (USDA: 19T1.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001800</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2101">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Reproductive Form, Killed Virus Vaccine (USDA: 19S5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001801</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2098">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Reproductive Form, Modified Live Virus Vaccine (USDA: 19Q1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001802</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2099">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Respiratory Form, Modified Live Virus Vaccine (USDA: 19S1.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001803</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2100">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Respiratory Form, Modified Live Virus Vaccine (USDA: 19S1.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001804</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2979">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Respiratory Form, Modified Live Virus Vaccine-Erysipelothrix Rhusiopathiae-Haemophilus Parasuis Bacterin (USDA: 49V9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0004214</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2982">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome Respiratory Form, Modified Live Virus Vaccine-Haemophilus Parasuis Bacterin (USDA: 49Q9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0004217</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2984">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome-Circovirus Reproductive &amp; Respiratory Form, Type 2, Modifed Live Virus,Killed Baculovirus Vector Vaccine-Mycoplasma Hyopneumoniae Bacterin (USDA: 49K9.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002317</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2987">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome-Parvovirus Reproductive Form, Modified Live &amp; Killed Virus Vaccine-Erysipelothrix Rhusiopathiae-Leptospira Canicola-Grippotyphosa-Hardjo-Icterohaemorrhagiae-Pomona Bacterin (USDA: 4P19.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002324</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3194">
+		<vaccine_name>Porcine respiratory and reproductive syndrome virus GP5 protein mutant vaccine</vaccine_name>
+		<proper_name>HuN4-F112</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002982</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering725" gene_id="gene963">
+			<type>Gene mutation</type>
+			<description refs="reference1868">This GP5 protein mutant is from Porcine reproductive and respiratory syndrome virus (Tian et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1019" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1868">A GP5 protein mutant is attenuated in piglets (Tian et al., 2009).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1868">A GP5 protein mutant induces protection in piglets from challenge with wild type HP-PRRSV (Tian et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3374">
+		<vaccine_name>PRRSV DNA vaccine GST-ORF5 encoding GP5</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004325</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pET21a [Ref2161:Pirzadeh and Dea, 1998]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2161">Freund's complete or incomplete adjuvant (Pirzadeh and Dea, 1998)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering922" gene_id="gene963">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2161">Vector pET21a expressed the major envelope glycoprotein (GP5) of porcine reproductive and respiratory syndrome virus (PRRSV) (Pirzadeh and Dea, 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1186" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2161">Following a massive intratracheal challenge with the virulent IAF-Klop strain of PRRSV, DNA-vaccinated pigs were protected from generalized viraemia and the development of typical macroscopic lung lesions that were observed in unvaccinated, virus-challenged controls, as well as in pigs that were immunized with E. coli-expressed GST-ORF5 recombinant fusion protein (Pirzadeh and Dea, 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3849">
+		<vaccine_name>PRRSV DNA vaccine pCA-U-optiGP5</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004506</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCAGGS [Ref2439:Hou et al., 2008]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1377" gene_id="gene1418">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2439">Vector pCAGGS expressed the U-optiGP5 fusion gene was generated by linking optiGP5 downstream of ubiquitin. The Kozak sequence, GCCACC, served as the upstream start codon for all three fragments (Hou et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1410" gene_id="gene1621">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2439">This vaccine expressed a sequence encoding pig ubiquitin that had its Gly76 changed to Ala76 (Hou et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1262" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2439">Four of six pigs in the pCA-U-optiGP5 group were devoid of visible pathological changes that were present in other vaccinated and control animals after challenge (Hou et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3857">
+		<vaccine_name>PRRSV DNA vaccine pCI-ORF5/ORF6</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004510</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI-neo [Ref2441:Jiang et al., 2006]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1388" gene_id="gene1422">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2441">Vector pCl-neo expressed GP5 (encoded by ORF5) and M (encoded by ORF6) (Jiang et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1487" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2441">All immunized piglets developed neutralizing antibodies at 10 weeks after primary immunization, whereas there was no detectable neutralizing antibodies in piglets immunized with pCI-ORF5.  Neutralizing antibodies are considered to be important in protection against PRRSV (Jiang et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3852">
+		<vaccine_name>PRRSV DNA vaccine pIRESorf5/IFNγ</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004507</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pIRES1neo (CLONTECH) [Ref2440:Xue et al., 2004]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2440">IFNG (Xue et al., 2004)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1380" gene_id="gene1418">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2440">Vector pIRES1neo expressed GP5, encoded by ORF5, the major envelope protein of the virus harboring neutralizing epitopes (Xue et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1265" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1618">After immunization and viral challenge, two of three pigs immunized with pIRESorf5/IFNgamma were protected from lung lesions that were present in other vaccinated and control animals (Cho and Dee, 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3853">
+		<vaccine_name>PRRSV DNA vaccine pIRESorf5/IL-2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004508</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pIRES1neo (CLONTECH) [Ref2440:Xue et al., 2004]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1382" gene_id="gene1418">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2440">Vector pIRES1neo expressed GP5, encoded by ORF5, the major envelope protein of the virus harboring neutralizing epitopes (Xue et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1266" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2440">After immunization and viral challenge, one of three pigs immunized with pIRESorf5/IL-2 was protected from lung lesions that were present in other vaccinated and control animals (Xue et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3854">
+		<vaccine_name>PRRSV DNA vaccine pIRESorf7/IL-2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004509</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pIRES1neo [Ref2440:Xue et al., 2004]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1384" gene_id="gene1421">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2440">Vector pIRES1neo expressed N, encoded by ORF7, which forms the nucleocapsid protein of the virus, and it is likely to contain virus-specific T cell epitopes (Xue et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1267" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2440">After immunization and viral challenge, one of three pigs immunized with pIRESorf7/IL-2 was protected from lung lesions that were present in other vaccinated and control animals (Xue et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1422">
+        <gene_name>GP5</gene_name>
+        <strain>Porcine reproductive and respiratory syndrome virus YA1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>71152867</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:109986</xrefs>
+        <taxonomy_id>28344</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>major envelope glycoprotein</protein_name>
+        <protein_pi>8.09</protein_pi>
+        <protein_weight>20738.03</protein_weight>
+        <protein_length>298</protein_length>
+        <protein_note>Arterivirus GL envelope glycoprotein; pfam00951</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAZ29507.1 major envelope glycoprotein [Porcine reproductive and respiratory syndrome virus]
+MLGKCLTTGCCSRLLSLWCIVPFCFAVLVNANSNSSSHFQLIYNLTLCELNGTDWLANKFDWPVETFVIF
+PVLTHIVSYGALTTSHFLDTVGLVTVSTAGFYHGRYVLSSIYAVCALAALNCFVIRLAKNCISWRYSCTR
+YTNFLLDPKGRLYRWRSPVIVEEGGKVEVEGHLIDLKRVVLDGSVATPLTRDSAEQWGRL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene963">
+        <gene_name>GP5 protein</gene_name>
+        <strain>Porcine reproductive and respiratory syndrome virus strain HUN4</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>149389584</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:109986</xrefs>
+        <taxonomy_id>28344</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>GP5</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>200</protein_length>
+        <protein_note>genotype: North American</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|149389584|gb|ABR26253.1| GP5 [Porcine reproductive and respiratory syndrome virus]
+MLGKCLTACCCSRLLFLWCIVPFYLAVLVNASNNNSSHIQLIYNLTLCELNGTDWLAQKFDWAVETFVIF
+PVLTHIVSYGALTTSHFLDTVGLATVSTAGYYHGRYVLSSIYAVCALAALICFVIRLAKNCMSWRYSCTR
+YTNFLLDTKGRLYRWRSPVIVEKGGKVEVEGHLIDLKRVVLDGSAATPLTRVSAEQWGRL</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A mutation in the GP5 protein attenuates HP-PRRSV in piglets. This mutant (HuN4-F112) induces protection against challenge with wild type HP-PRRSV [Ref1868:Tian et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1418">
+        <gene_name>ORF5</gene_name>
+        <strain>Porcine reproductive and respiratory syndrome virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>14250961</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:109986</xrefs>
+        <taxonomy_id>28344</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>GP5 envelope protein</protein_name>
+        <protein_pi>8.7</protein_pi>
+        <protein_weight>20800.27</protein_weight>
+        <protein_length>291</protein_length>
+        <protein_note>genotype: North America</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAK44216.1 GP5 envelope protein [Porcine reproductive and respiratory syndrome virus]
+MLGKCLTTGCCSRLLSLWCIVPFCFAVLVNANSNSSSHFQLIYNLTLCELNGTDWLANKFDWAVETFVIF
+PVLTHIVSYGALTTSHFLDTVGLVTVSTAGFYHGRYVLSSIYAVCALAALICFVIRLAKNCMSWRYSCTR
+YTNFLLDTKGRLYRWRSPVIVEKGGKVEVEGHLIDLKRVVLDGSVATPLTRVSAEQWGRL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1421">
+        <gene_name>ORF7</gene_name>
+        <strain>Porcine reproductive and respiratory syndrome virus CH-1a</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>14250964</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:110480</xrefs>
+        <taxonomy_id>28344</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>nucleocapsid protein</protein_name>
+        <protein_pi>10.87</protein_pi>
+        <protein_weight>13394.22</protein_weight>
+        <protein_length>213</protein_length>
+        <protein_note>genotype: North America</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAC15449.2 nucleocapsid protein [Porcine reproductive and respiratory syndrome virus]
+MPNNNGKQRKKKKGNGQPVNQLCQMLGKIIAQQNQSRGKGPGKKNKKKSPEKPHFPLATEDDVRHHFTPS
+ERQLCLSSIQTAFNQGAGTCTLSDSGRISYTVEFSLPTHHTVRLIRVTASPSA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1621">
+        <gene_name>ubiquitin</gene_name>
+        <strain>Sus scrofa</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>164707</ncbi_nucleotide_id>
+        <ncbi_protein_id>164708</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAA31133.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:294102
+CDD:176398
+CDD:214563</xrefs>
+        <taxonomy_id>9823</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ubiquitin copy 1</protein_name>
+        <protein_pi>7.82</protein_pi>
+        <protein_weight>27768.96</protein_weight>
+        <protein_length>319</protein_length>
+        <protein_note>Ubiquitin-like proteins; cl00155</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|164707|gb|M18159.1|PIGUBP Pig poly-ubiquitin mRNA, 3' end
+GAAGATGGGCGCACCCTGTCTGACTACAACATCCAGAAGGAGTCCACCCTGCACCTGGTCCTCCGCCTCA
+GAGGTGGGATGCAGATCTTCGTGAAGACCTTGACTGGTAAGACCATCACCCTGGAAGTGGAGCCCAGCGA
+CACCATCGAGAATGTCAAGGCGAAGATCCAAGACAAGGAAGGCATCCCCCCAGACCAGCAGAGGCTGATC
+TTTGCCGGGAAGCAGCTGGAAGATGGGCGCACCCTGTCTGACTACAACATCCAGAAGGAGTCCACCCTGC
+ACCTGGTCCTCCGCCTCAGAGGTGGGATGCAGATCTTCGTGAAGACCTTGACTGGTAAGACCATCACCCT
+GGAAGTGGAGCCCAGCGACACCATCGAGAATGTCAAGGCGAAGATCCAAGACAAGGAAGGCATCCCCCCA
+GACCAGCAGAGGCTGATCTTTGCCGGGAAGCAGCTGGAAGATGGGCGCACCCTGTCTGACTACAACATCC
+AGAAGGAGTCCACCCTGCACCTGGTCCTCCGCCTCAGAGGTGGGATGCAGATCTTCGTGAAGACCTTGAC
+TGGTAAGACCATCACCCTGGAAGTGGAGCCCAGCGACACCATCGAGAACGTCAAGGCGAAGATCCAGGAC
+AAGGAAGGCATCCCCCCAGACCAGCAGAGGCTGATCTTTGCCGGGAAGCAGCTGGAAGATGGGCGCACCC
+TGTCTGACTACAACATCCAGAAGGAGTCCACCCTGCACTTGGTCCTGCGCTTGAGGGGAGGTTTCTAAGT
+TCTCCCTTTTAAGCTTTCAACAAATTTCATTGCACTTTTCTTTCAATAAAGTTGTTGCATTC</dna_sequence>
+        <protein_sequence>>AAA31133.1 poly-ubiquitin precursor, partial [Sus scrofa]
+EDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLI
+FAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPP
+DQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGMQIFVKTLTGKTITLEVEPSDTIENVKAKIQD
+KEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGGF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference5003">
+		<reference_name>An et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>An CH, Nazki S, Park SC, Jeong YJ, Lee JH, Park SJ, Khatun A, Kim WI, Park YI, Jeong JC, Kim CY</authors>
+		<title>Plant synthetic GP4 and GP5 proteins from porcine reproductive and respiratory syndrome virus elicit immune responses in pigs</title>
+		<year>2018</year>
+		<volume>247</volume>
+		<issue>4</issue>
+		<pages>973-985</pages>
+		<journal_book_name>Planta</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1618">
+		<reference_name>Cho and Dee, 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cho JG, Dee SA</authors>
+		<title>Porcine reproductive and respiratory syndrome virus</title>
+		<year>2006</year>
+		<volume>66</volume>
+		<issue>3</issue>
+		<pages>655-662</pages>
+		<journal_book_name>Theriogenology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2439">
+		<reference_name>Hou et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hou YH, Chen J, Tong GZ, Tian ZJ, Zhou YJ, Li GX, Li X, Peng JM, An TQ, Yang HC</authors>
+		<title>A recombinant plasmid co-expressing swine ubiquitin and the GP5 encoding-gene of porcine reproductive and respiratory syndrome virus induces protective immunity in piglets</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>11</issue>
+		<pages>1438-1449</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2441">
+		<reference_name>Jiang et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jiang Y, Xiao S, Fang L, Yu X, Song Y, Niu C, Chen H</authors>
+		<title>DNA vaccines co-expressing GP5 and M proteins of porcine reproductive and respiratory syndrome virus (PRRSV) display enhanced immunogenicity</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>15</issue>
+		<pages>2869-2879</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1619">
+		<reference_name>Mateu and Diaz, 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mateu E, Diaz I</authors>
+		<title>The challenge of PRRS immunology</title>
+		<year>2008</year>
+		<volume>177</volume>
+		<issue>3</issue>
+		<pages>345-351</pages>
+		<journal_book_name>Veterinary journal (London, England : 1997)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4991">
+		<reference_name>Mokhtar et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mokhtar H, Biffar L, Somavarapu S, Frossard JP, McGowan S, Pedrera M, Strong R, Edwards JC, Garcia-Dur�n M, Rodriguez MJ, Stewart GR, Steinbach F, Graham SP</authors>
+		<title>Evaluation of hydrophobic chitosan-based particulate formulations of porcine reproductive and respiratory syndrome virus vaccine candidate T cell antigens</title>
+		<year>2017</year>
+		<volume>209</volume>
+		<issue></issue>
+		<pages>66-74</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2161">
+		<reference_name>Pirzadeh and Dea, 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pirzadeh B, Dea S</authors>
+		<title>Immune response in pigs vaccinated with plasmid DNA encoding ORF5 of porcine reproductive and respiratory syndrome virus</title>
+		<year>1998</year>
+		<volume>79 ( Pt 5)</volume>
+		<issue></issue>
+		<pages>989-999</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4961">
+		<reference_name>Subramaniam et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Subramaniam S, Pi�eyro P, Derscheid RJ, Madson DM, Magstadt DR, Meng XJ</authors>
+		<title>Dendritic cell-targeted porcine reproductive and respiratory syndrome virus (PRRSV) antigens adjuvanted with polyinosinic-polycytidylic acid (poly (I:C)) induced non-protective immune responses against heterologous type 2 PRRSV challenge in pigs</title>
+		<year>2017</year>
+		<volume>190</volume>
+		<issue></issue>
+		<pages>18-25</pages>
+		<journal_book_name>Veterinary immunology and immunopathology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1868">
+		<reference_name>Tian et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tian ZJ, An TQ, Zhou YJ, Peng JM, Hu SP, Wei TC, Jiang YF, Xiao Y, Tong GZ</authors>
+		<title>An attenuated live vaccine based on highly pathogenic porcine reproductive and respiratory syndrome virus (HP-PRRSV) protects piglets against HP-PRRS</title>
+		<year>2009</year>
+		<volume>138</volume>
+		<issue>1-2</issue>
+		<pages>34-40</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2440">
+		<reference_name>Xue et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xue Q, Zhao YG, Zhou YJ, Qiu HJ, Wang YF, Wu DL, Tian ZJ, Tong GZ</authors>
+		<title>Immune responses of swine following DNA immunization with plasmids encoding porcine reproductive and respiratory syndrome virus ORFs 5 and 7, and porcine IL-2 and IFNgamma</title>
+		<year>2004</year>
+		<volume>102</volume>
+		<issue>3</issue>
+		<pages>291-298</pages>
+		<journal_book_name>Veterinary immunology and immunopathology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

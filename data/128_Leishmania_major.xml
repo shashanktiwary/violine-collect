@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen115">
+		<pathogen_name>Leishmania major</pathogen_name>
+		<taxon_id>5664</taxon_id>
+		<pathogenesis refs="reference1547">The establishment of the primary leishmania infection and development of clinical disease depend on parasite, host, and sandfly factors; dose or route of inoculation; and the maintenance of macrophages in an inert, deactivated state. Pathogenesis follows a complex set of interactions between many factors triggered by the host's innate and acquired immune responses (eg, macrophages, neutrophils, natural killer cells, dendritic cells). These inflammatory responses mediate disease expression and may result in either symptomless or subclinical infection, self-healing LCL, or chronic leishmaniasis (eg, DCL, mucosal leishmaniasis, leishmaniasis recidivans). Clinical cure ensues when macrophages become activated to a leishmanicidal state.
+When biting their hosts, infected sandflies regurgitate leishmania promastigotes into the skin, which invade or are phagocytosed by local or recruited host cells, mainly macrophages. Within the phagolysosomes of resident macrophages, promastigotes become amastigotes. Amastigotes replicate and may then infect additional macrophages, either locally or in distant tissues after dissemination. When blood-feeding on an infected host, naive sandflies become infected with amastigotes, which transform back into promastigotes in the sandfly's gut (depending on Leishmania spp, different regions of the gut will be parasitised. The parasites then migrate to the sandfly's proboscis, thus completing the leishmania life cycle (Reithinger et al., 2007).</pathogenesis>
+		<disease_name>Cutaneous leishmaniasis</disease_name>
+		<protective_immunity refs="reference1546">The immune response to Leishmania infection is cell-mediated, and the clinical outcome is dependent on host-mediated T helper (Th)1 or Th2 responses. A Th1 response mediated by interferon (IFN)-γ, tumour necrosis factor and interleukin (IL)-12 is associated with disease resolution and resistance, and a Th2 IL-4-producing response confers disease susceptibility and progression (Ameen, 2010).</protective_immunity>
+		<host_range refs="reference1547">Leishmania major is vectored by the sandfly and can infect humans and other mammals. Natural leishmania infections are found in a range of non-human mammal hosts (mainly marsupials, rodents, edentates, and carnivores) (Reithinger et al., 2007).</host_range>
+		<introduction refs="reference1338">Leishmania parasites belonging to the order Kinetoplastida are the causative agents of a large spectrum of diseases, leishmaniasis, varying from localized cutaneous to visceral leishmaniasis, the later being often fatal if not treated. Leishmaniasis with a total number of 12 million cases, and 350 million at risk is a major health problem in several tropical and subtropical areas, and its control relies still most frequently on pentavalent antimony-containing drug chemotherapy. The effectiveness of these compounds however is eroded by the emergences of parasite resistance to the drug. Therefore, other strategies, such as vaccination, need to be developed for a better control of leishmaniasis. Mouse models of cutaneous leishmaniasis have been extensively used to explore the requirements for effective vaccination, namely vaccination which prevent at least the disease stage to be reached (Rafati et al., 2002).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1013">
+		<vaccine_name>L. major DNA Vaccine encoding Gp63</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004046</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 [Ref1335:Walker et al., 1998]</vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering500" gene_id="gene741">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response767" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1335">Mice were injected intradermally in the ears, foot pads, dorsal skin, or hind leg muscles with 1-100 μg of plasmid DNA diluted in PBS, freeze-thawed parasites (1.6 X 10^5) in PBS, gp63 protein (10 μg) emulsified in Freund's complete adjuvant(FCA), in FCA or PBS alone in 50 to 70- μl volumes. All 
+animals were boosted at 3 weeks (Walker et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1335">gp63-pcDNA-3 vaccination protected 30% of susceptible mice (21 of 70) from Leishmania infection (Walker et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1335">Promastigotes were subsequentiy resuspended in PBS (1 X 10^7 promastigotes/ml) and mice were infected by subcutaneous injection of 1 X 10^6 promastigotes (0.1 ml) in the dorsal side of the right foot 3 weeks after initial immunization (Walker et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1000">
+		<vaccine_name>L. major DNA Vaccine encoding LACKp24, TSA, LmSTI1 and CPa</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004171</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMV3ISS</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering483" gene_id="gene735">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering484" gene_id="gene737">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering485" gene_id="gene736">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering486" gene_id="gene734">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response754" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1331">For mice immunization, a single dose of 50 μg of Qiagen purified plasmid of each candidate DNA vaccine was administered intramusculary in 100 μl of PBS, 50 μl in each anterior tibialis muscle. Sham vaccination consisted of a single injection of 50 μg or 200 μg of Qiagen purified pCMV3ISS, the plasmid backbone, in the same conditions as immunized mice. A further control group of mice received no treatment at all (PBS). A group of mice was vaccinated with a cocktail of all 4 antigen carrying plasmids (pCMV3ISS-LACKp24, pCMV3ISS-TSA, pCMV3ISS-LmSTI1 and pCMV3ISS-CPa) (Ahmed et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1331">A substantial increase of protection was achieved when the cocktail is composed of all of the four antigens; however, no full protection was achieved when mice were challenged with a high dose of parasite in their hind footpad. The full protection was only achieved after a challenge with a low parasitic dose in the dermis of the ear (Ahmed et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1331">The appropriate number of promastigotes was inoculated subcutaneously in the right hind footpad of female BALB/c mice in 50 μl of PBS. The challenge of mice was carried out 2 weeks after the immunization (Ahmed et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1001">
+		<vaccine_name>L. major DNA Vaccine encoding SP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004172</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref1332:Rafati et al., 2006]</vector>
+		<route>Subcutanteous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutanteous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering487" gene_id="gene738">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response755" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1332">Immunization experiments were carried out twice at 3 weeks intervals in five groups of 10 BALB/c mice. Mice in group I (DNA/DNA) were immunized subcutaneously (s.c.) in the right footpad with 100 μg of pcDNA-sp plasmid, in the both prime and boost vaccination. Two control groups (IV and V) were studied; mice in group IV (vector only/CpG) were inoculated using 100 μg of pcDNA (vector without insert) in the first vaccination and the same adjuvant regimen (50 μg CpG ODN and 70 (v/v) Montanide 720) in the second vaccination. Mice in group V (PBS) received PBS alone (Rafati et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1332">DNA/DNA strategy developed more effective protective responses and induced 81% reduction in L. major parasite load (Rafati et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1332">Animals were then challenged 3 weeks after completion of the immunization protocol with 3 × 10^5 L. major MRHO/IR/75/ER metacyclic promastigotes that had been suspended in 50 μl PBS and injected into the left footpad (Rafati et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3884">
+		<vaccine_name>L. major DNA vaccine pcLACK + IL-22</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004530</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 [Ref2647:Hezarjaribi et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2647">IL-22 (Hezarjaribi et al., 2013)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1432" gene_id="gene734">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1526" host_id="host3">
+			<immune_response refs="reference2647">IL-22 obviously caused an increase in IFN-γ production and a decrease in IL-4 production before and after the challenge (p &lt; 0.05) (Hezarjaribi et al., 2013).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2647">Comparison of the mean size of lesions in the LACK and LACK + IL-22 groups demonstrated that the mean size of lesions of the two groups was significantly different from week four (p &lt; 0.05).  The survival rate at day 170 after challenge for the PBS, pcDNA3 (empty plasmid), pcLACK (pcDNA3 containing LACK gene), and pcLACK + IL-22 groups were 20%, 40%, 60%, and 80%, respectively (Hezarjaribi et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1011">
+		<vaccine_name>L. major H1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004176</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1337">Incomplete Freund's adjuvant (Solioz et al., 1999).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering498" gene_id="gene743">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1337">Recombinant H1 protein (Solioz et al., 1999)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response765" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c, C57BL/6 or B10.D2</host_strain>
+			<vaccination_protocol refs="reference1337">In all protection experiments, mice (n=5–8) were given injections (2×25 μl) of antigen preparation twice subcutaneously (s.c.) at the base of the tail. Before the injection, antigens were either emusified in IFA (1:1, vol/vol), mixed (1:1, vol/vol) with either 0.5 or 1 μg of IL-12 in PBS or prepared in PBS only. Several doses of antigen were tested and parasite challenge in the right hind footpad was performed at different time points after the second injection (Solioz et al., 1999).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1337">When inoculated in the presence of IFA as adjuvant, the partially purified histone H1 was able to confer partial protection in six out of eight mice (Solioz et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1337">In this long term experiment, mice were challenged two and a half months after the second injection of antigen with 2×106 highly infectious parasites (Solioz et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1009">
+		<vaccine_name>L. major H2B Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004045</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1333">CpG (Chenik et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="reference1333">The divergent amino-terminal region of H2B (Chenik et al., 2006).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering496" gene_id="gene739">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response763" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1333">Three groups of mice were injected with 25 μg of either one of the three recombinant proteins (H2B, H2BΔN46 or H2BΔC65) with CpG. Three additional control groups received adjuvant (CpG or non-CpG) or PBS alone. Each mouse received two subcutaneous (s.c.) injections in the left footpad in a volume of 50 μl at 15 days intervals (Chenik et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1333">The divergent amino-terminal region of H2B is able to confer potent protection against a virulent challenge in BALB/c mice. Mice immunized with the amino-terminal part of H2B in presence of CpG are more resistant than those immunized, in the same conditions, by the whole protein (p &lt; 0.05, from week 5) after L. major challenge (Chenik et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1333">Four weeks after the second dose, mice were infected in the right footpad with 2 × 10^6 L. major metacyclic promastigotes, in 50 μl of PBS (Chenik et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1006">
+		<vaccine_name>L. major PSA-2 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004044</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1336">killed Corynebacterium parvum (Handman et al., 1995).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering492" gene_id="gene742">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response760" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/He and BALB/c H-2^k</host_strain>
+			<vaccination_protocol refs="reference1336">Groups of 8 to 16 mice were injected three times, every 2 weeks, intraperitoneally with 1.5 to 2 mg of purified PSA-2mixed with 200 mg of killed Corynebacterium parvum as an adjuvant (Handman et al., 1995).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1336">Intraperitoneal vaccination of C3H/He mice with PSA-2 with Corynebacterium parvum as an adjuvant resulted in complete protection from lesion development after challenge infection with virulent L. major. Significant protection was also obtained in the genetically susceptible BALB/cH-2k and BALB/c mice (Handman et al., 1995).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Two weeks after the last injection, all mice were bled individually and divided into groups; one group was used to examine T-cell responses to PSA-2 antigen, and another group was challenged with 10^5 live promastigotes.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4095">
+		<vaccine_name>L. T -PpSP15</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004627</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>[Ref3080:Zahedifard et al., 2014]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1898" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3080">In both susceptible BALB/c and resistant C57BL/6 mice, the strongest protective effect was observed when priming with PpSP15 DNA and boosting with PpSP15 DNA and live recombinant L. tarentolae stably expressing cysteine proteinase genes (Zahedifard et al., 2014).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3557">
+		<vaccine_name>Leishmania major DNA vaccine KMP-11</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004373</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMV-LIC</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference2269">IL-12 (Bhaumik et al., 2009)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1600" gene_id="gene1723">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2269">Since this vaccine was cross-protective, the KMP-11 gene was from L. donovani (Bhaumik et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1501" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2269">Lesion size of the LM infected groups immunized additionally with IL-12 showed significant reduction at 12 weeks post-infection compared to mice immunized with KMP-11 DNA alone (p &lt; 0.05).  Moreover, we examined the parasite loads in the local draining lymph nodes which showed ∼96.2% and 94% reduction in parasite burden in groups of immunized mice treated additionally with (IL-12p35 + IL-12p40) DNA or rmIL-12, respectively (p &lt; 0.05).  KMP-11 DNA immunized mice showed 69% reduction in LM-load in draining lymph node suggesting KMP-11 DNA immunization alone was partially protective against LM (Bhaumik et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4153">
+		<vaccine_name>SL3261-L. major</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004671</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3132">Salmonella expressing the novel Leishmania antigens LinJ08.1190 and LinJ23.0410 (Schroeder et al., 2011)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1669" gene_id="gene1723">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference3132">Antigens were differentially expressed on the surface or in the cytosol of Salmonella typhimurium SL3261 (Schroeder et al., 2011).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1780" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3132">Mice were vaccinated with a single dose of Salmonella vaccine strains, the carrier control SL3261 or treated with PBS (Schroeder et al., 2011).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3132">We show that vaccine strains of Salmonella expressing the novel Leishmania antigens LinJ08.1190 and LinJ23.0410 significantly reduced visceralisation of L. major and enhanced systemic resistance against L. donovani in susceptible BALB/c mice (Schroeder et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3132">Mice were subsequently challenged with 2×10^6 late-stationary phase L. major promastigotes into the left hind footpad (Schroeder et al., 2011).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene737">
+        <gene_name>Cpa</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011275</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>71084305</ncbi_nucleotide_id>
+        <ncbi_protein_id>71084306</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAZ23598.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:185513
+CDD:285458
+CDD:278538
+CDD:239068</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>cysteine protease</protein_name>
+        <protein_pi>6.62</protein_pi>
+        <protein_weight>33970.17</protein_weight>
+        <protein_length>391</protein_length>
+        <protein_note>cathepsin L protease; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|71084305|gb|DQ071680.1| Leishmania major cysteine protease (Cpa) gene, partial cds
+AAAACACCTCTCGGTGTCGACAACTTCATTGCCTCAGCACATTACGGACGCTTTAAGGAGCGCCACGGCA
+AGTCCTTCGGCGAGGACGCCGATGAGGGTCACCGCTTCAATGCCTTCAAGCAGAACATGCAGACCGCCTA
+CTTCCTCAACACGCACAACCCGCACGCGCACTACGACGTGTCCGGCAAGTTTGCAGACCTCACCCCCCAG
+GAGTTCGCCAAGCTGTACCTGAACCCCGACTACTACGCGCGCCGCGGTAAGGATTACAAGGAGCACGTGC
+ACGTCGACGACAGCGTCCTCAGTGGTGCGATGTCGGTGGACTGGCGTGAGAAGGTTGCCGTGACGCCGGT
+GAAGAACCAGGGAATGTGCGGCTCGTGCTGGGCTTTCTCCGCCATTGGCAACATTGAAAGTCAGTGGGCT
+TTGAAAAACCACTCGCTGGTTTCGCTGTCGGAGCAGATGCTCGTGTCATGCGACGACATCGATGATGGGT
+GCAACGGTGGGCTGATGGACCAGGCGATGGAATGGATCATCCAACATCACAACGGCACTGTGCCCACGGA
+GGAAAGCTACCCCTACGCCTCTGCCGGCGGCACGAGCCCGCCGTGCCATGACAAAGGCGAGTTTGGCGCC
+AGAATCAGTGGTTACATGTCCCTGCCGCATGACGAGAAGGCGATCGCGGCTTATGTGGAGAAGAAAGGCC
+CCGTCGCTGTCGCCGTCGACGCGACAACCTGGCAGCTGTACTTTGGCGGTGTGGTCACGCTCTGCTTCGG
+GTGGTCGCTCAACCACGGTGTGCTCGTTGTCGGCTTCAACAAAAGAGCGAAACCGCCGTACTGGATCGTG
+AAGAACTCGTGGGGCACCTCGTGGGGTGAGAAGGGGTACATCCGCCTTGCCATGGGCAGCAACCAGTGCT
+TGCTGAAGAATTACCCTGTGACGGCCACGGTTGACGACTCAAACACCTCTCCCGTGCCGACGACACCGGC
+CTAG</dna_sequence>
+        <protein_sequence>>AAZ23598.1 cysteine protease, partial [Leishmania major]
+KTPLGVDNFIASAHYGRFKERHGKSFGEDADEGHRFNAFKQNMQTAYFLNTHNPHAHYDVSGKFADLTPQ
+EFAKLYLNPDYYARRGKDYKEHVHVDDSVLSGAMSVDWREKVAVTPVKNQGMCGSCWAFSAIGNIESQWA
+LKNHSLVSLSEQMLVSCDDIDDGCNGGLMDQAMEWIIQHHNGTVPTEESYPYASAGGTSPPCHDKGEFGA
+RISGYMSLPHDEKAIAAYVEKKGPVAVAVDATTWQLYFGGVVTLCFGWSLNHGVLVVGFNKRAKPPYWIV
+KNSWGTSWGEKGYIRLAMGSNQCLLKNYPVTATVDDSNTSPVPTTPA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Researchers evaluated the potency of different DNA vaccine candidates in BALB/c mice using high dose footpad parasite challenge with L. major.  Mice inoculated pCMV3ISS-CPa developed significantly smaller lesions in their footpads after challenge with the parasite.  The vaccine was able to induce a partially protective effect [Ref1331:Ahmed et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene741">
+        <gene_name>Gp63</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011278</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>259011719</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>1LML</pdb_id>
+        <xrefs>CDD:279761</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>GP63</protein_name>
+        <protein_pi>6.66</protein_pi>
+        <protein_weight>58512.43</protein_weight>
+        <protein_length>648</protein_length>
+        <protein_note>Leishmanolysin; pfam01457</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ACL01096.2 GP63 [Leishmania major]
+MSVDSSSTHRRRCVAARLVRLAAAGAAVTVAVGTAAAWAHAGALQHRCVHDAMQARVRQSVADHHKAPGA
+VSAVGLPYVTLDAAHTAAAADPRPGSARSVVRDVNWGALRIAVSTEDLTDPAYHCARVGQHVKDHAGAIA
+ICTAEDILTNEKRDILVKHLIPQAVQLHTERLKVQQVQGKWKVTDMVGDICGDFKVPQAHITEGFSNTDF
+VMYVASVPSEEGVLAWATTCQTFSDGHPAVGVINIPAANIASRYDQLVTRVVTHEMAHALGFSGPFFEDA
+RIVASVPNVRGKNFDVPVINSSTAVAKAREQYGCDTLEYLEVEDQGGAGSAGSHIKMRNAQDELMAPAAA
+AGYYTALTMAIFQDLGFYQADFSKAEVMPWGQNAGCAFLTNKCMEQSVTQWPAMFCNESEDAIRCPTSRL
+SLGACGVTRHPGLPPYWQYFTDPSLAGVSAFMDYCPVVVPYSDGSCTQRASEAHASLLPFNVFSDAARCI
+DGAFRPKATDGIVKSYAGLCANVQCDTATRTYSVQVHGSNDYTNCTPGLRVELSTVSNAFEGGGYITCPP
+YVEVCQGNVQAAKDGGNTAAGRRGPRAAATALLVAALLAVAL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Cell-mediated immunity to Leishmania major (L. major) was induced by injecting BALB/c mice intradermally with plasmid DNA expressing the conserved L. major cell surface glycoprotein gp63 (gp63-pcDNA-3).  Challenge studies revealed that gp63-pcDNA-3 vaccination protected 30% of susceptible mice (21 of 70) from Leishmania infection [Ref1335:Walker et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene739">
+        <gene_name>H2B</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011277</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>13384083</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:304987</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>histone H2B</protein_name>
+        <protein_pi>11.84</protein_pi>
+        <protein_weight>11691.58</protein_weight>
+        <protein_length>157</protein_length>
+        <protein_note>Histone H2B; cl23830</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAK21263.1 histone H2B [Leishmania major]
+MASSRSASRKASNPHKSHRKPKRSWNVYVGRSLKAINAQMSMSHRTMKIVNSYVNDVMERICTEAASIVR
+ANKKRTLGAREVQTAVRIVLPAELAKHAMAEGTKAVSSASA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Researchers tested the ability of the entire H2B protein of L. major, its divergent or conserved regions to provide protection against virulent L. major challenge.  The divergent amino-terminal region of H2B is able to confer potent protection against a virulent challenge in BALB/c mice [Ref1333:Chenik et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1723">
+        <gene_name>KMP-11</gene_name>
+        <strain>Leishmania donovani</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>34922492</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:281087</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Kinetoplastid membrane protein 11</protein_name>
+        <protein_pi>7.89</protein_pi>
+        <protein_weight>14076.21</protein_weight>
+        <protein_length>246</protein_length>
+        <protein_note>KMP-11; Lipophosphoglycan-associated protein; LPGAP</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|Q36736.1|KM11_LEIDO RecName: Full=Kinetoplastid membrane protein 11; Short=KMP-11; AltName: Full=Lipophosphoglycan-associated protein; Short=LPGAP
+MATTYEEFSAKLDRLDQEFNRKMQEQNAKFFADKPDESTLSPEMREHYEKFERMIKEHTEKFNKKMHEHS
+EHFKQKFAELLEQQKAAQYPSK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene734">
+        <gene_name>LACK</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011260</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>1276476</ncbi_nucleotide_id>
+        <ncbi_protein_id>1276477</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAA97577.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:238121
+CDD:225201
+CDD:293791</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>LACK</protein_name>
+        <protein_pi>6.64</protein_pi>
+        <protein_weight>32575.5</protein_weight>
+        <protein_length>354</protein_length>
+        <protein_note>WD40 domain, found in a number of eukaryotic proteins that cover a wide variety of functions including adaptor/regulatory modules in signal transduction, pre-mRNA processing and cytoskeleton assembly; typically contains a GH dipeptide 11-24 residues from...; cd00200</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|1276476|gb|U27568.1|LMU27568 Leishmania major activated protein kinase C receptor homolog LACK mRNA, complete cds
+AACTAACGCTATATAAGTATCAGTTTCTGTACTTTATTGATAAGTTTCTTCTCACTCCACTTCGTTTCAC
+CATGAACTACGAGGGTCACCTGAAGGGTCACCGAGGATGGGTCACCTCCCTGGCCTGCCCGCAGCAGGCG
+GGGTCGTACATCAAGGTGGTGTCGACGTCGCGCGATGGTACGGTCATCTCGTGGAAGGCCAACCCCGACC
+GCCACAGCGTGGACAGCGACTACGGTCTGCCGAACCACCGCCTCGAGGGCCACACCGGCTTCGTGTCGTG
+CGTGTCGCTGGCCCACGCCACCGACTACGCGCTGACCGCGTCCTGGGACCGCTCCATCCGCATGTGGGAC
+CTGCGCAATGGCCAGTGCCAGCGCAAGTTCCTGAAGCACACCAAGGACGTGCTCGCCGTCGCCTTCTCGC
+CGGACGACCGCCTGATCGTGTCCGCGGGCCGCGACAACGTGATCCGCGTGTGGAACGTGGCGGGTGAGTG
+CATGCACGAGTTCCTGCGCGACGGCCACGAGGACTGGGTGAGCAGCATCTGCTTCTCGCCGTCGCTGGAG
+CACCCGATCGTGGTGTCCGGCAGCTGGGACAACACCATCAAAGTATGGAACGTGAACGGGGGCAAGTGTG
+AGCGCACGCTCAAGGGCCACAGCAACTACGTGTCCACGGTGACGGTGTCGCCAGACGGGTCTCTGTGCGC
+ATCTGGCGGCAAGGACGGCGCGGCGCTGTTGTGGGACCTGAGCACCGGTGAGCAGCTGTTCAAGATCAAC
+GTGGAGTCGCCCATCAACCAGATCGGCTTCTCGCCCAACCGCTTCTGGATGTGCGTCGCGACGGAGAGGT
+CTCTGTCCGTGTACGACCTGGAGAGCAAGGCCGTGATTGCGGAGCTGACGCCGGACGGCGCGAAGCCGTC
+GGAGTGCATCTCCATTGCCTGGTCCGCCGACGGCAACACTCTGTACTCCGGCCACAAGGACAACCTGATC
+CGCGTGTGGTCCATCTCCGACGCCGAGTAATGGCCGCGCGCTGCTCGTGCCGGACGGCGTGGTAGGCGAG
+GGAGAACGAGCGAGAAGTGA</dna_sequence>
+        <protein_sequence>>AAA97577.1 LACK [Leishmania major]
+MNYEGHLKGHRGWVTSLACPQQAGSYIKVVSTSRDGTVISWKANPDRHSVDSDYGLPNHRLEGHTGFVSC
+VSLAHATDYALTASWDRSIRMWDLRNGQCQRKFLKHTKDVLAVAFSPDDRLIVSAGRDNVIRVWNVAGEC
+MHEFLRDGHEDWVSSICFSPSLEHPIVVSGSWDNTIKVWNVNGGKCERTLKGHSNYVSTVTVSPDGSLCA
+SGGKDGAALLWDLSTGEQLFKINVESPINQIGFSPNRFWMCVATERSLSVYDLESKAVIAELTPDGAKPS
+ECISIAWSADGNTLYSGHKDNLIRVWSISDAE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Researchers evaluated the potency of different DNA vaccine candidates in BALB/c mice using high dose footpad parasite challenge.  A truncated portion of the LACK antigen (LACKp24) was able to induce the highest protective effect compared to other constructs.  The DNA vaccine encoding LACK was able to induce partial protection in mice [Ref1331:Ahmed et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene736">
+        <gene_name>LmSTI1</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011274</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>1698879</ncbi_nucleotide_id>
+        <ncbi_protein_id>1698880</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAB37318.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:290150
+CDD:278916
+CDD:276809
+CDD:290160
+CDD:128966</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>protein antigen LmSTI1</protein_name>
+        <protein_pi>6.04</protein_pi>
+        <protein_weight>60559.91</protein_weight>
+        <protein_length>617</protein_length>
+        <protein_note>TPR repeat; pfam13414</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|1698879|gb|U73845.1|LMU73845 Leishmania major protein antigen LmSTI1 mRNA, partial cds
+TGGACGCAACTGAGCTGAAGAACAAGGGGAACGAAGAGTTCTCCGCCGGCCGCTATGTGGAGGCGGTGAA
+CTACTTCTCAAAGGCGATCCAGTTGGATGAGCAGAACAGTGTCCTCTACAGCAACCGCTCCGCCTGTTTT
+GCAGCCATGCAGAAATACAAGGACGCGCTGGACGACGCCGACAAGTGCATCTCGATCAAGCCGAATTGGG
+CCAAGGGCTACGTGCGCCGAGGAGCAGCTCTCCATGGCATGCGCCGCTACGACGATGCCATTGCCGCGTA
+TGAAAAGGGGCTCAAGGTGGACCCTTCCAACAGCGGCTGCGCGCAGGGCGTGAAGGACGTGCAGGTAGCC
+AAGGCCCGCGAAGCACGTGACCCCATCGCTCGCGTCTTCACCCCGGAGGCGTTCCGCAAGATCCAAGAGA
+ATCCCAAGCTGTCTCTACTTATGCTGCAGCCGGACTACGTGAAGATGGTAGACACCGTCATCCGCGACCC
+TTCGCAGGGCCGGCTGTACATGGAAGACCAGCGCTTTGCCCTGACGCTCATGTACCTGAGCGGAATGAAG
+ATTCCCAACGATGGTGATGGCGAGGAGGAGGAACGTCCGTCTGCGAAGGCGGCAGAGACAGCGAAGCCAA
+AAGAGGAGAAGCCTCTCACCGACAACGAGAAGGAGGCCCTGGCGCTCAAGGAGGAGGGCAACAAGCTGTA
+CCTCTCGAAGAAGTTTGAGGAGGCGCTGACCAAGTACCAAGAGGCGCAGGTGAAAGACCCCAACAACACT
+TTATACATTCTGAACGTGTCGGCCGTGTACTTCGAGCAGGGTGACTACGACAAGTGCATCGCCGAGTGCG
+AGCACGGTATCGAGCACGGTCGCGAGAACCACTGCGACTACACAATCATTGCGAAGCTCATGACCCGGAA
+CGCCTTGTGCCTCCAGAGGCAGAGGAAGTACGAGGCTGCTATCGACCTTTACAAGCGCGCCCTTGTCGAG
+TGGCGTAACCCTGACACCCTCAAGAAGCTGACGGAGTGCGAGAAGGAGCACCAAAAGGCGGTGGAGGAAG
+CCTACATCGATCCTGAGATCGCGAAGCAGAAGAAAGACGAAGGTAACCAGTACTTCAAGGAGGATAAGTT
+CCCCGAGGCCGTGGCAGCGTACACGGAGGCCATCAAGCGCAACCCTGCCGAGCACACCTCCTACAGCAAT
+CGCGCGGCCGCGTACATCAAGCTTGGAGCCTTCAACGACGCCCTCAAGGACGCGGAGAAGTGCATTGAGC
+TGAAGCCCGACTTTGTTAAGGGCTACGCGCGCAAGGGTCATGCTTACTTTTGGACCAAGCAGTACAACCG
+CGCGCTGCAGGCGTACGATGAGGGCCTCAAGGTGGACCCGAGCAATGCGGACTGCAAGGATGGGCGGTAT
+CGCACAATCATGAAGATTCAGGAGATGGCATCTGGCCAATCCGCGGATGGCGACGAGGCGGCGCGCCGGG
+CCATGGACGATCCTGAAATCGCGGCAATCATGCAAGATAGCTACATGCAACTAGTGTTGAAGGAGATGCA
+GAACGATCCCACGCGCATTCAGGAGTACATGAAGGACTCCGGGATCTCATCGAAGATCAACAAGCTGATT
+TCAGCTGGCATCATTCGTTTTGGTCAGTAGACTTCTACGCTGCCTCATCTTTTCCGTGTCTTTGCGTCGG
+CGGGTATCGTAAAGCACAATAAAGCAGCGATTCACATGCACGAGTAAAGTGCTGCGCCTCTCAAACACGA
+CGTCGAGGCTGTGGTGCAGATGCGCGTCCTGCATGAAGGTAGTGAAGAGGAAAGTAAGGGATGTTGTTTG
+TGGGCCTTCGTGGCTGCGCACACACCTCTTATCTCCTTCGCTTGGTACCTTCTCCCTTTTTCGTCTTCAC
+CCCCCTTTCTCTTCTCACGCTCTCCCTGGCGCGGTGGTGCAACGATTTCGTTTTATTTACGTCTGTGTAG
+CTCCTCTATTCAACGGTGCGATGACGCTAACGAAGCTGGCCTGTATTCGGCTAAGGCGAAGGCAAAAGAC
+TAGGAGGGGGGGGGGAAGGAGACGGCGTGACCATCACTGCGAAGAAACAAGCCGAAGAAAAGGCCCCGAA
+CGCCTGCATTTCCGCGCGCCCTCGCCCGCCTTCCTTCCTTCCTTCGCTCTCTCTCTCTCTCTCTCTCGCT
+ATCTTCTCAACGGAGACATGAAAGGCGTTTGTTAGGAAAAGAGGGGGGGGGGAAGAGTGGGACGACGCGC
+TGCGTCTTTTGGGCACTGGTCACGTGCGTCACCCTCTTTTTTTATCTCTATTGGCACTGTCTTGTTTCTT
+TTCCCTTTCCTATCATACGCGTCTCGCAAACGACTCCGCGCTGAGCAGCCATGTGCTGCGGCGTGGAGGA
+AGTACACAGACATCACGGATGCATATGTGCGCGTCCGTGTACGCGCTTGTATGGGGCTTCTAACAGCGCC
+TGTGTGTGTTTGTGTGTGTGTGTGTGTGTGTGTCTGTGTATTTCGAGCGTCTGTATGCTATTCTATTAAG
+CACCGAAGAAGAGACACACACGACAGCGAAGGAGATGGTGTCGGCTTTTCGGCTAATCACTCCCTTCCAT
+AGCTTCTCTGAAGGAGGCTCTCTTCCAGAGGAATAGACTGCAGATGGGGTCCACGTTTATCTGAGGAGTC
+AACGGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACTCGAG</dna_sequence>
+        <protein_sequence>>AAB37318.1 protein antigen LmSTI1, partial [Leishmania major]
+DATELKNKGNEEFSAGRYVEAVNYFSKAIQLDEQNSVLYSNRSACFAAMQKYKDALDDADKCISIKPNWA
+KGYVRRGAALHGMRRYDDAIAAYEKGLKVDPSNSGCAQGVKDVQVAKAREARDPIARVFTPEAFRKIQEN
+PKLSLLMLQPDYVKMVDTVIRDPSQGRLYMEDQRFALTLMYLSGMKIPNDGDGEEEERPSAKAAETAKPK
+EEKPLTDNEKEALALKEEGNKLYLSKKFEEALTKYQEAQVKDPNNTLYILNVSAVYFEQGDYDKCIAECE
+HGIEHGRENHCDYTIIAKLMTRNALCLQRQRKYEAAIDLYKRALVEWRNPDTLKKLTECEKEHQKAVEEA
+YIDPEIAKQKKDEGNQYFKEDKFPEAVAAYTEAIKRNPAEHTSYSNRAAAYIKLGAFNDALKDAEKCIEL
+KPDFVKGYARKGHAYFWTKQYNRALQAYDEGLKVDPSNADCKDGRYRTIMKIQEMASGQSADGDEAARRA
+MDDPEIAAIMQDSYMQLVLKEMQNDPTRIQEYMKDSGISSKINKLISAGIIRFGQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Researchers evaluated the potency of different DNA vaccine candidates in BALB/c mice using high dose footpad parasite challenge with L. major. Mice inoculated pCMV3ISS-LmSTI1 developed significantly smaller lesions in their footpads after challenge with the parasite. The vaccine was able to induce a partially protective effect [Ref1331:Ahmed et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene742">
+        <gene_name>PSA-2</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011279</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1129058</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:215061
+CDD:275380</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>surface antigen 2</protein_name>
+        <protein_pi>4.54</protein_pi>
+        <protein_weight>37463.69</protein_weight>
+        <protein_length>441</protein_length>
+        <protein_note>leucine-rich repeat receptor-like protein kinase; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB38549.1 surface antigen 2 [Leishmania major]
+MAQCVRRLVLAATLAAAVALLLCTSSAPVARAAGTGDFTAAQRTNTLAVLQAFGRAIPKLGEKWAGNDFC
+SWEAVLCNAPDVYVSGISPTYAGTLPEMPVNVDYRHVVIKQLDFSEMGPGLSGTLPASWHSMTSLESLSI
+EKCESISGSVPPEWGSMTSLSVLNLRGTGISGTLPPQWSGMSKARSLQLQDCDLSGSLPSSWSAIPMLAS
+VSLKGNKFCGCVPDSWDQKAGLVVDIEDKHKGSDCLAAKDCTTTTTKPSATTATTPNLTNFPPTPRTTTE
+PLTTTSTEAPAEPTTTTEAPAEPTTTATPTNTPTPAPETECEVDGCEVCEGDSAARCARCREDYFLTDEK
+TCLKHNDGGVAAVSSGVAAAAVVCVAVLFSVGLAA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Intraperitoneal vaccination of C3H/He mice with PSA-2 with Corynebacterium parvum as an adjuvant resulted in complete protection from lesion development after challenge infection with virulent L. major. Significant protection was also obtained in the genetically susceptible BALB/cH-2k and BALB/c mice [Ref1336:Handman et al., 1995].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene738">
+        <gene_name>SP</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011276</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>23168331</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:299172
+CDD:119398</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>signal peptidase type I</protein_name>
+        <protein_pi>7.75</protein_pi>
+        <protein_weight>18937.49</protein_weight>
+        <protein_length>239</protein_length>
+        <protein_note>The S24, S26 LexA/signal peptidase superfamily contains LexA-related and type I signal peptidase families. The S24 LexA protein domains include: the lambda repressor CI/C2 family and related bacterial prophage repressor proteins; LexA (EC 3.4.21.88), the...; cl10465</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAN08877.1 signal peptidase type I [Leishmania major]
+MREHINTLLSLRVRDVIQQVVTVGLFLSIVLVGWRAVAVGTNCEASIVVVLSGSMEPGYYRGDVLLLHHR
+PEYPVTVGDIIVYTLPGQEIPIVHRVHRIHQRSEDGKKFYLTKGDNNVNDDRFLFRNGREWVEEGMIIGK
+TYAYVPRIGYLTIMFNESKIIKYLALGLIGFFLLTTTDEM
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The potential protection of Lmjsp (Leishmania major signal peptidase) was evaluated in three different vaccination strategies (DNA/DNA, Protein/Protein and DNA/Protein), against L. major infection. We demonstrated that vaccination with SPase through all three mentioned strategies induced a parasite specific Th1 response and conferred partial protection against parasite challenge. However, our results indicated that DNA/DNA strategy developed more effective protective responses than the other two approaches and induced 81% reduction in L. major parasite load [Ref1332:Rafati et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene743">
+        <gene_name>SW3.1</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011280</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>4008565</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>UniProtKB/TrEMBL:Q9TVI8</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>histone H1</protein_name>
+        <protein_pi>12.41</protein_pi>
+        <protein_weight>9728.18</protein_weight>
+        <protein_length>150</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA11592.1 histone H1 [Leishmania major]
+MSSNSAAAAVSAATTSPQKSSRSSPKRAAVGKKTGAKKVAKKTGAKKVAKKPAKKVVKKPAKKVVKKPAK
+KVVKKAVKAVKKAVKKVVKAVKTAKKSSKKSSAKK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>In a murine model of experimental cutaneous leishmaniasis, researchers investigated the protection elicited by injection of histone H1 (SW3.1) isolated from parasites by perchloric extraction, of a H1 recombinant protein produced in E. coli, and of H1 long and short synthetic peptides, against infection by L. major. Partial protection was achieved in most of the animals as shown by reduction in lesion size, upon immunization with histone H1 or its peptides, provided that the region 1-60 was present in the molecule [Ref1337:Solioz et al., 1999].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene735">
+        <gene_name>TSA</gene_name>
+        <strain>Leishmania major</strain>
+        <vo_id>VO_0011273</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>3411093</ncbi_nucleotide_id>
+        <ncbi_protein_id>3411094</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAC31146.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:140280
+CDD:239313</xrefs>
+        <taxonomy_id>5664</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>thiol specific antioxidant</protein_name>
+        <protein_pi>6.75</protein_pi>
+        <protein_weight>20885.27</protein_weight>
+        <protein_length>261</protein_length>
+        <protein_note>tryparedoxin peroxidase; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|3411093|gb|AF044679.1| Leishmania major thiol specific antioxidant (TSA) mRNA, complete cds
+CTGTACTTTATTGCCACCAGCCAGCCATGTCCTGCGGTAACGCCAAGATCAACTCTCCCGCGCCGTCCTT
+CGAGGAGGTGGCGCTCATGCCCAACGGCAGCTTCAAGAAGATCAGCCTCTCCTCCTACAAGGGCAAGTGG
+GTCGTGCTCTTCTTCTACCCGCTCGACTTTAGCTTCGTGTGCCCGACAGAGGTCATCGCGTTCTCCGACA
+GCGTGAGTCGCTTCAACGAGCTCAACTGCGAGGTCCTCGCGTGCTCGATAGACAGCGAGTACGCGCACCT
+GCAGTGGACGCTGCAGGACCGCAAGAAGGGCGGCCTCGGGACCATGGCGATCCCAATGCTAGCCGACAAG
+ACCAAGAGCATCGCTCGTTCCTACGGCGTGCTGGAGGAGAGCCAGGGCGTGGCCTACCGCGGTCTCTTCA
+TCATCGACCCCCATGGCATGCTGCGTCAGATCACCGTCAATGACATGCCGGTGGGCCGCAGCGTGGAGGA
+GGTTCTACGCCTGCTGGAGGCTTTTCAGTTCGTGGAGAAGCACGGCGAGGTGTGCCCCGCGAACTGGAAG
+AAGGGCGCCCCCACGATGAAGCCGGAACCGAATGCGTCTGTCGAAGGATACTTCAGCAAGCAGTAAACCT
+GTGAGCGTCGCAGGAGTCAGTGTGACCTCACCCGCCTCTGCCAGTGGGTGCGAGAGGGCGTGAGGGATTG
+TGGGAAGGCTGTTGGATATGATGCAGACAGCGATGAATGCAACTCCCACACACTGGCCCTCCTCAGCCCT
+CTCCACACAGACACACGCACGCATGTGCGGTGCTTCTGCTCCTTCATTTCCTGATGCGGTTTCTTTACTA
+TTTATGTTTTCCCCTGTTTTGGTTTCGCGGAATATGGACGCACGAACGCAGAGAGCAGAGGCGCGACACA
+CACACACGGGGCGCACACGTGTAAGCGACGGAGCGCGACACAGAGGGGAGAAGCCGGAAAGGATATATGA
+AATGAAGATGGTGTCCCGCACACACAGGCACGCACACGGGGCGAACGCGTGGCGCGTCCTTTCTATGGTT
+TCGCTGCTGCTGTTCGTGTTCTCGCTTCGCTGGTTGCAGTTCCGGCTCGTGCTGCCCTGCCTGCCACTCT
+TGGTCCGTGTCTGTCCGTGTCCGTGTCCGTGTGGGGGGGGGAGAGTTTTTCACTCCCCCGGTCACCTCTA
+CTGTTTATTATTTATATGTTTATTTATTTCCATATTGACTCAATTCATTCCGTGCGAAAGCCGGCTTGTT
+CCGGCGTCTTTTGACGAACAACTGCCCTATCAGCTGGTGATGGCCGTGTAGTGGACTGCCATGGCGTTGA
+CGGGAGCGGGGGATTAGGGTTCGATTCCGGAGAGGGAGCCTGAGAAATAGCTACCACTTCTACGGAGGGC
+AGCAGGCGCGCAAATTGCCCAATGTCAAAACAAAACGATGAGGCAGCGAAAAGAAATAGAGTTGTCAGTC
+CATTTGGATTGTCATTTCAATGGGGGATATTTAAACCCATCCAATATCGAGTAACAATTGGAGGACAAGT
+CTGGTGCCAGCACCCGCGGTAATTCCAGCTCCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAA</dna_sequence>
+        <protein_sequence>>AAC31146.1 thiol specific antioxidant [Leishmania major]
+MSCGNAKINSPAPSFEEVALMPNGSFKKISLSSYKGKWVVLFFYPLDFSFVCPTEVIAFSDSVSRFNELN
+CEVLACSIDSEYAHLQWTLQDRKKGGLGTMAIPMLADKTKSIARSYGVLEESQGVAYRGLFIIDPHGMLR
+QITVNDMPVGRSVEEVLRLLEAFQFVEKHGEVCPANWKKGAPTMKPEPNASVEGYFSKQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Researchers evaluated the potency of different DNA vaccine candidates in BALB/c mice using high dose footpad parasite challenge with L. major.  Mice inoculated pCMV3ISS-TSA developed significantly smaller lesions in their footpads after challenge with the parasite.  The vaccine was able to induce a partially protective effect [Ref1331:Ahmed et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1331">
+		<reference_name>Ahmed et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ahmed SB, Touihri L, Chtourou Y, Dellagi K, Bahloul C</authors>
+		<title>DNA based vaccination with a cocktail of plasmids encoding immunodominant Leishmania (Leishmania) major antigens confers full protection in BALB/c mice</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>1</issue>
+		<pages>99-9106</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1546">
+		<reference_name>Ameen, 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ameen M</authors>
+		<title>Cutaneous leishmaniasis: advances in disease pathogenesis, diagnostics and therapeutics</title>
+		<year>2010</year>
+		<volume>35</volume>
+		<issue>7</issue>
+		<pages>699-705</pages>
+		<journal_book_name>Clinical and experimental dermatology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2269">
+		<reference_name>Bhaumik et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bhaumik S, Basu R, Sen S, Naskar K, Roy S</authors>
+		<title>KMP-11 DNA immunization significantly protects against L. donovani infection but requires exogenous IL-12 as an adjuvant for comparable protection against L. major</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>9</issue>
+		<pages>1306-1316</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1333">
+		<reference_name>Chenik et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chenik M, Louzir H, Ksontini H, Dilou A, Abdmouleh I, Dellagi K</authors>
+		<title>Vaccination with the divergent portion of the protein histone H2B of Leishmania protects susceptible BALB/c mice against a virulent challenge with Leishmania major</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>14</issue>
+		<pages>2521-2529</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1336">
+		<reference_name>Handman et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Handman E, Symons FM, Baldwin TM, Curtis JM, Scheerlinck JP</authors>
+		<title>Protective vaccination with promastigote surface antigen 2 from Leishmania major is mediated by a TH1 type of immune response</title>
+		<year>1995</year>
+		<volume>63</volume>
+		<issue>11</issue>
+		<pages>4261-4267</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2647">
+		<reference_name>Hezarjaribi et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hezarjaribi HZ, Ghaffarifar F, Dalimi A, Sharifi Z, Jorjani O</authors>
+		<title>Effect of IL-22 on DNA vaccine encoding LACK gene of Leishmania major in BALB/c mice</title>
+		<year>2013</year>
+		<volume>134</volume>
+		<issue>3</issue>
+		<pages>341-348</pages>
+		<journal_book_name>Experimental parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1338">
+		<reference_name>Rafati et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rafati S, Kariminia A, Seyde-Eslami S, Narimani M, Taheri T, Lebbatard M</authors>
+		<title>Recombinant cysteine proteinases-based vaccines against Leishmania major in BALB/c mice: the partial protection relies on interferon gamma producing CD8(+) T lymphocyte activation</title>
+		<year>2002</year>
+		<volume>20</volume>
+		<issue>19-20</issue>
+		<pages>2439-2447</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1332">
+		<reference_name>Rafati et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rafati S, Ghaemimanesh F, Zahedifard F</authors>
+		<title>Comparison of potential protection induced by three vaccination strategies (DNA/DNA, Protein/Protein and DNA/Protein) against Leishmania major infection using Signal Peptidase type I in BALB/c mice</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>16</issue>
+		<pages>3290-3297</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5039">
+		<reference_name>Ramirez et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ramirez L, Corvo L, Duarte MC, Ch�vez-Fumagalli MA, Valadares DG, Santos DM, de Oliveira CI, Escutia MR, Alonso C, Bonay P, Tavares CA, Coelho EA, Soto M</authors>
+		<title>Cross-protective effect of a combined L5 plus L3 Leishmania major ribosomal protein based vaccine combined with a Th1 adjuvant in murine cutaneous and visceral leishmaniasis</title>
+		<year>2014</year>
+		<volume>7</volume>
+		<issue></issue>
+		<pages>3</pages>
+		<journal_book_name>Parasites &amp; vectors</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1547">
+		<reference_name>Reithinger et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Reithinger R, Dujardin JC, Louzir H, Pirmez C, Alexander B, Brooker S</authors>
+		<title>Cutaneous leishmaniasis</title>
+		<year>2007</year>
+		<volume>7</volume>
+		<issue>9</issue>
+		<pages>581-596</pages>
+		<journal_book_name>The Lancet infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3132">
+		<reference_name>Schroeder et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Schroeder J, Brown N, Kaye P, Aebischer T</authors>
+		<title>Single dose novel Salmonella vaccine enhances resistance against visceralizing L. major and L. donovani infection in susceptible BALB/c mice</title>
+		<year>2011</year>
+		<volume>5</volume>
+		<issue>12</issue>
+		<pages>e1406</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1337">
+		<reference_name>Solioz et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Solioz N, Blum-Tirouvanziam U, Jacquet R, Rafati S, Corradin G, Mauël J, Fasel N</authors>
+		<title>The protective capacities of histone H1 against experimental murine cutaneous leishmaniasis</title>
+		<year>1999</year>
+		<volume>18</volume>
+		<issue>9-10</issue>
+		<pages>850-859</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1335">
+		<reference_name>Walker et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Walker PS, Scharton-Kersten T, Rowton ED, Hengge U, Bouloc A, Udey MC, Vogel JC</authors>
+		<title>Genetic immunization with glycoprotein 63 cDNA results in a helper T cell type 1 immune response and protection in a murine model of leishmaniasis</title>
+		<year>1998</year>
+		<volume>9</volume>
+		<issue>13</issue>
+		<pages>1899-1907</pages>
+		<journal_book_name>Human gene therapy</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3080">
+		<reference_name>Zahedifard et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zahedifard F, Gholami E, Taheri T, Taslimi Y, Doustdari F, Seyed N, Torkashvand F, Meneses C, Papadopoulou B, Kamhawi S, Valenzuela JG, Rafati S</authors>
+		<title>Enhanced protective efficacy of nonpathogenic recombinant leishmania tarentolae expressing cysteine proteinases combined with a sand fly salivary antigen</title>
+		<year>2014</year>
+		<volume>8</volume>
+		<issue>3</issue>
+		<pages>e2751</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

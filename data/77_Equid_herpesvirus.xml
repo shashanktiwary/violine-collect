@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen173">
+		<pathogen_name>Equid herpesvirus</pathogen_name>
+		<taxon_id>10326</taxon_id>
+		<pathogenesis refs="reference1606">Primary EHV-1 replication occurs in the upper respiratory tract epithelial cells and local lymph nodes resulting in leukocyte-associated viremia. Leukocyte associated viremia in acute infection has been shown as a prerequisite for abortion and paresis by initiating replication of EHV-1 in the endothelial lining of blood vessels in the central nervous system (CNS) and pregnant uterus. A widespread infection of endometrial blood vessels results in severe vasculitis and multifocal thrombosis, which could result in an abortion of a virus negative fetus. Latency has been demonstrated in lymphoid and neural tissues for both EHV-1 and EHV-4 (Patel and Heldens, 2005).</pathogenesis>
+		<disease_name>Equine Rhinopneumonitis</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="">Equids</host_range>
+		<introduction refs="reference1606">In equids eight herpesviruses have been identified: five belong to the subfamily alpha herpesvirinae and three to the gamma herpesvirinae. The horse is the natural host to alphaherpesvirus types 1 (EHV-1), 3 (EHV-3 coital exanthemavirus), 4 (EHV-4) and gammaherpesvirus types 2 (EHV-2) and 5 (EHV-5). Until 1981, EHV-1 and EHV-4 were considered as two subtypes of the same virus, namely EHV-1. Both EHV-1 and EHV-4 are endemic in horse populations worldwide. Prior to 1981, a single virus ‘EHV-1’ was known as the cause of febrile rhinopneumonitis, ataxia, abortions and neonatal foal disease in horses (Allen and Bryans, 1986). However, it should be stated that as early as 1972 most ‘EHV-1’ strains were distinguishable as respiratory (subtype 2) and abortigenic (subtype 1) viruses. Acute, naturally occurring respiratory diseases due to EHV-1 and EHV-4 are characterised by fever, anorexia, nasal discharge of varying severity and ocular discharge. Bacterial proliferation in nasal passages may be a contributory factor in the development of rhinopneumonitis. Experimentally, however, EHV-1 causes a much more severe disease than that induced by EHV-4 (Patel and Heldens, 2005).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine2804">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis Eastern &amp; Western, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4844.30)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002253</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2829">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4847.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002258</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2835">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4847.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002259</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2841">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4847.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002260</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2847">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western &amp; Venezuelan, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4847.32)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002261</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2808">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4845.23)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002254</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2813">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4845.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002255</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2818">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4845.32)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002256</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2823">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza Eastern &amp; Western, Killed Virus Vaccine-Tetanus Toxoid (USDA: 4845.33)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002257</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2852">
+		<vaccine_name>Encephalomyelitis-Rhinopneumonitis-Influenza-West Nile Virus Eastern &amp; Western, Killed Virus, Killed Flavivirus Chimera Vaccine-Tetanus Toxoid (USDA: 4855.R2)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002262</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3250">
+		<vaccine_name>Equid herpesvirus gE mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002955</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering794" gene_id="gene984">
+			<type>Gene mutation</type>
+			<description refs="reference1922">This gE mutant is from Equid herpesvirus 1 (Tsujimura et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1078" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1922">A gE mutant is attenuated in mice (Tsujimura et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1922">A gE mutant induces significant protection in mice from challenge with wild type EHV (Tsujimura et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3251">
+		<vaccine_name>Equid herpesvirus gI mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002956</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering795" gene_id="gene983">
+			<type>Gene mutation</type>
+			<description refs="reference1922">This gI mutant is from Equid herpesvirus 1 (Tsujimura et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1079" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1922">A gI mutant is attenuated in mice (Tsujimura et al., 2006)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1922">A gI mutant induces significant protection in mice from challenge with wild type EHV (Tsujimura et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3252">
+		<vaccine_name>Equid herpesvirus TK mutant vaccine</vaccine_name>
+		<proper_name>PR1</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002957</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering796" gene_id="gene1043">
+			<type>Gene mutation</type>
+			<description refs="reference1983">This TK mutant is from Equid herpesvirus 1 (Slater et al., 1993).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1080" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1983">A TK mutant is attenuated in mice (Slater et al., 1993).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1983">A TK mutant induces significant protection from challenge with wild type EHV (Slater et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response1081" host_id="host18">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1983">A TK mutant is attenuated in foals (Slater et al., 1993).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1983">A TK mutant provides partial protection in foals from challenge with wild type EHV (Slater et al., 1993).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1742">
+		<vaccine_name>Equine Rhinopneumonitis Killed Virus Vaccine (USDA: 1525.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001778</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1743">
+		<vaccine_name>Equine Rhinopneumonitis Killed Virus Vaccine (USDA: 1525.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Intervet Inc.</manufacturer>
+		<vo_id>VO_0001779</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1744">
+		<vaccine_name>Equine Rhinopneumonitis Killed Virus Vaccine (USDA: 1525.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001780</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1745">
+		<vaccine_name>Equine Rhinopneumonitis Killed Virus Vaccine (USDA: 1525.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0001781</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1741">
+		<vaccine_name>Equine Rhinopneumonitis Modified Live Virus Vaccine (USDA: 1521.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0001782</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1746">
+		<vaccine_name>Equine Rhinopneumonitis-Influenza Killed Virus Vaccine (USDA: 1515.24)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002130</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1748">
+		<vaccine_name>Equine Rhinopneumonitis-Influenza Killed Virus Vaccine (USDA: 1515.26)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002131</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1750">
+		<vaccine_name>Equine Rhinopneumonitis-Influenza Killed Virus Vaccine (USDA: 1515.27)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002132</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1752">
+		<vaccine_name>Equine Rhinopneumonitis-Influenza Killed Virus Vaccine (USDA: 1515.2A)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002133</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1754">
+		<vaccine_name>Equine Rhinopneumonitis-Influenza Modified Live &amp; Killed Virus Vaccine (USDA: 1518.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Pfizer, Inc.</manufacturer>
+		<vo_id>VO_0002134</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4262">
+		<vaccine_name>NYVAC-EHV-1- vP1014</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004771</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3286">vP1014, a vaccinia-based construct (NYVAC) coding for the immediate early gene (gene 64) of EHV-1 (Paillot et al., 2006).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1761" host_id="host18">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3286">EHV-primed yearling ponies expressing this haplotype were vaccinated once (n = 1), three (n = 1), or four times (n = 2), and one pony was kept as an unvaccinated control (Paillot et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3286">The results demonstrated that vaccination with a NYVAC-based construct coding for gene 64 stimulated CMI. This immune response alone did not protect against challenge infection. However, the study does illustrate that vaccinia-based vaccines can stimulate CMI in the horse and may therefore contribute to protection against disease caused by EHV-1 (Paillot et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3286">The ponies were challenged with EHV-1 (Paillot et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene984">
+        <gene_name>gE</gene_name>
+        <strain>Equid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>330789</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:177575
+CDD:145558</xrefs>
+        <taxonomy_id>10326</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein E</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>550</protein_length>
+        <protein_note>envelope glycoprotein E; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|330789|gb|AAA66548.1| glycoprotein E [Equid herpesvirus 1]
+MELLAASRACIFFGLVTVLDAWGVQQVELSEGAWAMIDGRDVLTPTNTTTRVTKAWTFLETPPGCAGDIS
+VKKVCVSHSLCEDNIIIGKHCNLLTGEHGIALAEFNVVNGSLRRTDDVYFVNGTVFPILAETRSVLQIHR
+ATPSIAGVYTLHVSIDGMMKHSVVLLTVKKPPKQPQPRLRVKTPPPVTVPQVPVKTHTDFVVHGYHSRVY
+ADGESFELSVNLESHIVEPSFSAEIQWYYMNTSSSSCDLFRVFETCIFHPTAMACLHPEQHTCSFTSPIR
+ATKILHRVYGNCSDHGNSWPSRCHSTLLGNRLYFIQPAQNRVDLLFKDTPASATGLYVFVLLYNGHPEAW
+TYTLLSTANHFMNVLTDVTRPRLGEHFYTDLGHKIITPHPSVATTEELGAWTRHYLAFLLVIICTCAALL
+VALVVWGCILYIRSNRKPYEVLNPFETVYTSVPSNDPSDEVLVFERLASDSDDSFDSDSDEELEYPPPPK
+PAPQLPPYQFVDGGDAPSGRSGFKVWFRDTPEASPVPLHKPTLQGPDYSRVASKLKSILK</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A glycoprotein E mutant is attenuated in mice and hamsters and induced significant protection from challenge with wild type Equid herpesvirus in mice [Ref1922:Tsujimura et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene983">
+        <gene_name>gI</gene_name>
+        <strain>Equid herpesvirus 1</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>330788</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:177577</xrefs>
+        <taxonomy_id>10326</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glycoprotein I</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>424</protein_length>
+        <protein_note>envelope glycoprotein I; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|330788|gb|AAA66547.1| glycoprotein I [Equid herpesvirus 1]
+MAKLTGMFSAAILLSMAICSTAIIYRGEHMSMYLNASSEFAVYPTDQSLVLVGHLLFLDGQRLPTTNYSG
+LIELIHYNYSSVCYTVIQTISYESCPRVANNAFRSCLHKTSKHYHDYFRVNASVETNVLLNITKPQPTDS
+GAYILRVKLDHAPTADVFGVSAFVYDLKSKTVPDPMPTTQTVEPTTSYVSTPTYDYTDDVTTETESTSTS
+TQQAMTSTQTPSATWGTQLTTELPTNETVVIGQEALLCHWFQPSTRVPTLYLHLLGRTGNLPEDVLLVED
+SEFLRTTSPAHRPSASPADGDDFKQTNSTSLKARNKIVAMVVIPTACVLMLLLVVVGAIINGAVRKHLLS
+CASRRIYRSGQGGASAAERRRLTCGPTLAASSESLADDTTSSPPTPKPSKKTKLETDPLMEQLNRKLEAI
+KEES</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A glycoprotein I mutant is attenuated in mice and hamsters and induced significant protection from challenge with wild type Equid herpesvirus in mice [Ref1922:Tsujimura et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1043">
+        <gene_name>TK</gene_name>
+        <strain>Equid herpesvirus 1 Ab4</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>59214</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>1P73</pdb_id>
+        <xrefs>CDD:177537
+GOA:P69185
+InterPro:IPR001889
+UniProtKB/Swiss-Prot:P69185</xrefs>
+        <taxonomy_id>10326</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>thymidine kinase</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>352</protein_length>
+        <protein_note>thymidine kinase; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|59214|emb|CAA48144.1| thymidine kinase [Equid herpesvirus 1]
+MAARVPSGEARRSASGAPVRRQVTIVRIYLDGVYGIGKSTTGRVMASAASGGSPTLYFPEPMAYWRTLFE
+ADVISGIYDTQNRKQQGDLAADDAASITAHYQSRFTTPYLILHDHTFGLFGGDSLQRGTRPDLTVVFDRH
+PVASAVCFPAARYLIGDMSMCALIAMVATLPREPQGGNIVVTTLNVDEHVRRLRTRARIGEQIDMKLIAT
+LRNVYSMLANTSNFLRSGRVWRDGWGELPLSCETYKHRATQMDAFQERESPELSDTLFAMFKTPELLDDR
+GVILEVHAWALDALMLKLRNLSVFCADLSGTPRQCAATVESLIPLMSSTLSDSESASSLERAARTFNAEM
+GV</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A thymidine kinase-deficient mutant (PR1) is attenuated in mice and induced significant protection from challenge with wild type EHV-1 5 weeks after vaccination.  In foals, PR1 also showed attenuation; however, the mutant induced only partial protection from challenge with EHV-1 [Ref1983:Slater et al., 1993].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1606">
+		<reference_name>Patel and Heldens, 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Patel JR, Heldens J</authors>
+		<title>Equine herpesviruses 1 (EHV-1) and 4 (EHV-4)--epidemiology, disease and immunoprophylaxis: a brief review</title>
+		<year>2005</year>
+		<volume>170</volume>
+		<issue>1</issue>
+		<pages>14-23</pages>
+		<journal_book_name>Veterinary journal (London, England : 1997)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1983">
+		<reference_name>Slater et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Slater JD, Gibson JS, Field HJ</authors>
+		<title>Pathogenicity of a thymidine kinase-deficient mutant of equine herpesvirus 1 in mice and specific pathogen-free foals</title>
+		<year>1993</year>
+		<volume>74 ( Pt 5)</volume>
+		<issue></issue>
+		<pages>819-828</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1922">
+		<reference_name>Tsujimura et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tsujimura K, Yamanaka T, Kondo T, Fukushi H, Matsumura T</authors>
+		<title>Pathogenicity and immunogenicity of equine herpesvirus type 1 mutants defective in either gI or gE gene in murine and hamster models</title>
+		<year>2006</year>
+		<volume>68</volume>
+		<issue>10</issue>
+		<pages>1029-1038</pages>
+		<journal_book_name>The Journal of veterinary medical science / the Japanese Society of Veterinary Science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

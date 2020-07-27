@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen141">
+		<pathogen_name>Treponema pallidum</pathogen_name>
+		<taxon_id>160</taxon_id>
+		<pathogenesis refs="reference1528">T. pallidum (in the case of syphilis) generally first forms a chancre at the site of infection and the spirochetes are infectious. The bacteria then penetrate mucosal membranes, and invade the bloodstream as well as other tissues. The bacteria cause latent syphilis which can progress into tertiary syphilis by the bacteria causing inflammatory disease and thus creating problems in infected (Salyers and Whitt., 2002).</pathogenesis>
+		<disease_name>Syphilis</disease_name>
+		<protective_immunity refs="reference1513">The primary clearance mechanism responsible for removal of T. pallidum from syphilitic chancres is believed to be antibody‐mediated treponemal opsonization and subsequent phagocytosis and killing by macrophages (Cameron et al., 1998).</protective_immunity>
+		<host_range refs="reference1525">T. pallidum is an obligate internal parasite, meaning that it requires a mammalian host for survival. In the absence of mammalian cells, T. pallidum will be killed by the absence of nutrients, exposure to oxygen and heat. T. pallidum causes the human disease syphilis. Since T. pallidum cannot be grown in culture, animal models are needed to study syphilis. Although mice and monkeys can be used, rabbits are the animal model almost exclusively studied in the lab. Rabbits are used because unlike monkeys they are inexpensive and unlike mice, rabbits develop the signs and symptoms of human primary and secondary syphilis (MicrobeWiki: T. pallidum).</host_range>
+		<introduction refs="reference1516">T. pallidum pallidum is a motile spirochaete that is generally acquired by close sexual contact, entering the host via breaches in squamous or columnar epithelium. The organism can also be transmitted to a fetus by transplacental passage during the later stages of pregnancy, giving rise to congenital syphilis. The helical structure of T. pallidum pallidum allows it to move in a corkscrew motion through a viscous medium such as mucus. It gains access to host's blood and lymph systems through tissue and mucous membranes. The subspecies causing yaws, pinta, and bejel are morphologically and serologically indistinguishable from T. pallidum pallidum (syphilis); however, their transmission is not venereal in nature and the course of each disease is significantly different (Wiki: T. pallidum).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1069">
+		<vaccine_name>T. pallidum GlpQ Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004024</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector>pET-3a vector [Ref1513:Cameron et al., 1998].</vector>
+		<route>IM, SC, IP, and ID</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1513">Ribi adjuvant (Cameron et al., 1998).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">IM, SC, IP, and ID</route>
+		<antigen refs="">Recombinant GlpQ</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering558" gene_id="gene856">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response826" host_id="host6">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">New Zealand White</host_strain>
+			<vaccination_protocol refs="reference1513">Rabbits were immunized three times (IM, SC, IP, and ID) at 3-week intervals with the Ribi MPL + TDM + CWS adjuvant and 100 μg of purified inclusion bodies from E. coli expressing either the pET-3a vector alone or the Gpd-pET-3a construct (Cameron et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1513">Immunization with the recombinant GlpQ significantly protected rabbits from subsequent T. pallidum challenge, altering lesion development at the sites of challenge. All eight control rabbits developed typical red, raised, and highly indurated lesions at each of the six challenge sites that in some cases progressed to ulceration. All four of the Gpd-immunized rabbits developed atypical pale, flat, slightly indurated, and nonulcerative reactions at each of the six challenge sites. In all cases, induration in the Gpd-immunized animals resolved before lesions appeared in the control animals and resembled delayed-type hypersensitivity responses more than typical syphilis chancres (Cameron et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1513">Two weeks after administration of the final immunization, rabbits were challenged ID at each of six sites on their shaved backs with 103 T. pallidum per site (Cameron et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1070">
+		<vaccine_name>T. pallidum TmpB Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004025</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutanteous and i.p.</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1514">RIBI adjuvant (Wicher et al., 1991).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutanteous and i.p.</route>
+		<antigen refs="">Recombinant TmpB protein.</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering559" gene_id="gene857">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response827" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C4D</host_strain>
+			<vaccination_protocol refs="reference1514">In the first set of experiments, guinea pigs assigned randomly to seven groups of five animals each were immunized with TmpA, TmpB, TmpC, TmpA plus TmpB plus TmpC (TmpABC), or E. coli membranes. Five animals received adjuvant in phosphate-buffered saline, and five guinea pigs served as nonimmunized control. Each animal received six injections, each of 100 μg of antigen in a 0.4-ml volume, distributed in two subcutaneous injections (0.15 ml each) in the inguinal lymph nodes areas and one intraperitoneal injection (0.1 ml) (Wicher et al., 1991).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1514">Guinea pigs receiving TmpB antigen demonstrated protection expressed by the development of significantly (P less than 0.01) smaller, atypical lesions of significantly (P less than 0.01) shorter duration and devoid of or containing fewer T. pallidum organisms than lesions in the remaining immunized and control animals (Wicher et al., 1991).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">A week after immunizing injection 6, all animals, including untreated controls, were injected intradermally in a hind leg with 100 μl of suspension containing 3 X 10^6 T. pallidum Nichols freshly extracted from rabbit testes.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1071">
+		<vaccine_name>T. pallidum Tp92 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004026</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>i.m., s.c., i.p., and i.d.</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1515">Ribi adjuvant (Cameron et al., 2000).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">i.m., s.c., i.p., and i.d.</route>
+		<antigen refs="reference1515">125 μg of purified intact ORF recombinant Tp92 (Cameron et al., 2000).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering560" gene_id="gene858">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response828" host_id="host6">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">New Zealand White</host_strain>
+			<vaccination_protocol refs="reference1515">New Zealand White rabbits were immunized (intramuscularly, subcutaneously, intraperitoneally, and intradermally) at 3‐week intervals with Ribi adjuvant and 125 μg of purified intact ORF recombinant Tp92. Unimmunized rabbits were used as a control (Cameron et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1515">Immunization with recombinant Tp92 partially protected rabbits from subsequent T. pallidum challenge. the rabbits immunized with the T. pallidum recombinant Tp92 before challenge all demonstrated alteration of lesion development. Significant attenuation of lesion development was observed in these rabbits, with atypical pale, flat, slightly indurated, and for the most part, nonulcerative lesions appearing at the sites of challenge. In these protection experiments, the number of lesions progressing to ulceration and the number of darkfield‐positive lesions in the Tp92‐immunized rabbits were significantly smaller than those of lesions appearing in the control animals (Cameron et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1515">At 1–4 weeks after administration of the final immunization in each protection experiment, the immunized rabbits and a total of 4 unimmunized control rabbits were subjected to intradermal challenge at each of 8 sites on their shaved backs with 10^5 T. pallidum subsp. pallidum (Nichols strain) per site. The rabbits were examined daily to monitor the development, morphologic appearance, and progression of lesions appearing at the challenge sites (Cameron et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene856">
+        <gene_name>GlpQ</gene_name>
+        <strain>Treponema pallidum subsp. pallidum str. Nichols</strain>
+        <vo_id>VO_0012399</vo_id>
+        <ncbi_gene_id>2611763</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>499184166</ncbi_protein_id>
+        <gene_locus_tag>TP_RS01315</gene_locus_tag>
+        <gene_refseq>AE000520</gene_refseq>
+        <protein_refseq>WP_010881706</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243276</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>268189</gene_start>
+        <gene_end>269259</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>glycerophosphoryl diester phosphodiesterase</protein_name>
+        <protein_pi>9.44</protein_pi>
+        <protein_weight>38335.23</protein_weight>
+        <protein_length>356</protein_length>
+        <protein_note>hydrolyzes deacylated phospholipids to glycerol 3-phosphate and the corresponding alcohols; periplasmic</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_000919.1:268189-269259 Treponema pallidum subsp. pallidum str. Nichols complete genome
+TATGCGGGGAACATATTGTGTGACGCTTTGGGGGGGGGTGTTTGCGGCATTGGTTGCAGGCTGTGCGTCC
+GAACGTATGATAGTTGCGTATCGGGGCGCTGCAGGATATGTGCCCGAGCACACCTTTGCCTCGAAAGTTC
+TTGCTTTTGCACAAGGAGCAGATTACCTGCAGCAGGATGTCGTGCTTTCAAAGGATAATCAGCTTATCGT
+AGCGCAAAGCCATATTCTGGATAATATGACTGACGTGGCAGAAAAATTTCCACGCCGGCAGCGTGCGGAT
+GGGCATTTCTATGTCATAGATTTTACGGTAGAAGAACTTTCCCTCCTCCGTGCAACCAATAGTTTCTATA
+CGCGCGGTAAGCGACATACGCCGGTGTATGGCCAGCGCTTTCCTCTTTGGAAGCCTGGTTTTAGGCTGCA
+CACTTTTGAAGAGGAGTTGCAGTTTATCCGTGGGTTGGAACAGACAACCGGGAAAAAGATTGGAATTTAC
+TCTGAAATAAAGGTGCCGTGGTTTCATCATCAGGAAGGAAAAGACATCGCAGCGCTTACCCTCGCTCTGT
+TGAAAAAATACGGTTACCAAAGTCGATCGGATCTAGTGTATGTGCAAACGTATGATTTTAACGAGCTGAA
+GCGTATCAAACGAGAACTTTTACCAAAGTACGAAATGAACGTGAAGCTGATTCAGCGTGTTGCTTACACA
+GATCAACGTGAAACACAGGAGAAGGACTCGCGTGGGAAATGGATAAACTACAATTACAATTGGATGTTTG
+AGCCCGGTGGTATGCAGAAAATAGCAAAATATGCAGACGGCGTGGGTCCTGACTGGAGGATGCTCATAGA
+GAATGAATGGTCGAAGGTGGGCGCTGTTCGCCTGAGTCCGATGGTTTCTGCAATCCAAGATGCGAAATTG
+GAATGTCATGTGCACACGGTACGGAAAGAAACACTGCCTAGCTACGCGCGCACCATGGACGAGATGTTTT
+CCATTTTGTTCAAACAGACGGGCGCAAACGTGGTGCTCACGGATTTTCCTGATCTTGGGGTAAAGTTTCT
+GGGCAAACCCGCCCGCTATTG
+
+</dna_sequence>
+        <protein_sequence>>WP_010881706.1 glycerophosphodiester phosphodiesterase [Treponema pallidum]
+MRGTYCVTLWGGVFAALVAGCASERMIVAYRGAAGYVPEHTFASKVLAFAQGADYLQQDVVLSKDNQLIV
+AQSHILDNMTDVAEKFPRRQRADGHFYVIDFTVEELSLLRATNSFYTRGKRHTPVYGQRFPLWKPGFRLH
+TFEEELQFIRGLEQTTGKKIGIYSEIKVPWFHHQEGKDIAALTLALLKKYGYQSRSDLVYVQTYDFNELK
+RIKRELLPKYEMNVKLIQRVAYTDQRETQEKDSRGKWINYNYNWMFEPGGMQKIAKYADGVGPDWRMLIE
+NEWSKVGAVRLSPMVSAIQDAKLECHVHTVRKETLPSYARTMDEMFSILFKQTGANVVLTDFPDLGVKFL
+GKPARY
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunization with the recombinant GlpQ significantly protected rabbits from subsequent T. pallidum challenge, altering lesion development at the sites of challenge [Ref1513:Cameron et al., 1998].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene857">
+        <gene_name>TmpB</gene_name>
+        <strain>Treponema pallidum subsp. pallidum str. Nichols</strain>
+        <vo_id>VO_0012400</vo_id>
+        <ncbi_gene_id>2611387</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>499184674</ncbi_protein_id>
+        <gene_locus_tag>TP_RS03880</gene_locus_tag>
+        <gene_refseq>AE000520</gene_refseq>
+        <protein_refseq>WP_010882214</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243276</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>834955</gene_start>
+        <gene_end>835932</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>treponemal membrane protein B</protein_name>
+        <protein_pi>9.18</protein_pi>
+        <protein_weight>35471.38</protein_weight>
+        <protein_length>325</protein_length>
+        <protein_note>similar to GB:M58562 SP:P19649 PID:155065 percent identity: 100.00; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_000919.1:834955-835932 Treponema pallidum subsp. pallidum str. Nichols complete genome
+GATGAAGACACGTAATTTCTCGCTCGTATCCGCGTTGTACGTACTGCTGGGTGTTCCTCTGTTTGTGTCT
+GCCGCTTCCTACGACGACAATGAATTTTCTCGCAAGAGTCGTGCGTACTCGGAGCTTGCAGAGAAGACAT
+ACGATGCGGGAGAGTATGACGTCTCTGCAGAGTACGCCCGGCTCGCTGAGGATTTTGCGCAAAAATCCTC
+GGTCTACATCAAGGAAACTATGGCGCGCACCACTGCCGAGGACGCTATGAACGCTGCGCGCACCCGCCAC
+GCGTGGGCGAAAAATGAGCGCATCGATCGCGCCTATCCGACCGAGTATTTGCTCGCTAGCGAGGCTATCA
+AGACCGGAGGGCTCGCTTTTGACAGCAAGCAGTACGACGTAGCGCTCACGTGGGCGCGTAAGGCGTTGGA
+CGCACTCAAAAACGTAAAGCCTGAAAGTCAGTTGCTTGCAAAGGCCGCGAAGGAGGAGGCTGCGCGCAAG
+GCCGCCGAGGCACGAAAACTCGAAGAACAAAGAATTGCAGCCCAGAAAGCGCAGGAAGAACGTAAGCGTG
+CGGAGGAGGAAGCTGCGCGCAAGGCCGCCGAGGCACGAAAACTCGAAGAACAAAGAATTGCAGCCCAGAA
+AGCGCAGGAAGAACGTAAGCGTGCGGAGGAGGAAGCTGCGCGCAAGGCCGCCGAGGAAGCAGCGCGAAAG
+GCGGAGGAACTCGAGAAGGGTCGTGTGCTACCTGCGCAATACAAGGTGACTACGTGGTCCATTGACCGGG
+AATGTTTCTGGAATATTGCCAAAAACCCCGCCGTTTATGGCAACCCCTTCCTCTGGAAGAAGTTGTATGA
+GGCGAACAAGGACAAAATTCCTCAGTCCAAAAACCCCAATTGGGTAGAGCCTGAGACAGTCCTGGTCATC
+CCCAGTCTCAAGGGAGAGGAGCGCGAGGGTCTGTATGAGCCCAACGTGAAATACCGTCCTCTGCCGTA
+
+</dna_sequence>
+        <protein_sequence>>WP_010882214.1 membrane protein TmpB [Treponema pallidum]
+MKTRNFSLVSALYVLLGVPLFVSAASYDDNEFSRKSRAYSELAEKTYDAGEYDVSAEYARLAEDFAQKSS
+VYIKETMARTTAEDAMNAARTRHAWAKNERIDRAYPTEYLLASEAIKTGGLAFDSKQYDVALTWARKALD
+ALKNVKPESQLLAKAAKEEAARKAAEARKLEEQRIAAQKAQEERKRAEEEAARKAAEARKLEEQRIAAQK
+AQEERKRAEEEAARKAAEEAARKAEELEKGRVLPAQYKVTTWSIDRECFWNIAKNPAVYGNPFLWKKLYE
+ANKDKIPQSKNPNWVEPETVLVIPSLKGEEREGLYEPNVKYRPLP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Treponema pallidum-susceptible guinea pigs of strain C4D were immunized with recombinant T. pallidum antigen TmpB. Guinea pigs receiving TmpB antigen demonstrated protection expressed by the development of significantly (P less than 0.01) smaller, atypical lesions of significantly (P less than 0.01) shorter duration and devoid of or containing fewer T. pallidum organisms than lesions in the remaining immunized and control animals [Ref1514:Wicher et al., 1991].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene858">
+        <gene_name>tp92</gene_name>
+        <strain>Treponema pallidum subsp. pallidum str. Nichols</strain>
+        <vo_id>VO_0012401</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>AAC16524</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:227116</xrefs>
+        <taxonomy_id>243276</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>putative outer membrane protein</protein_name>
+        <protein_pi>8.68</protein_pi>
+        <protein_weight>88079.37</protein_weight>
+        <protein_length>944</protein_length>
+        <protein_note>Outer membrane protein assembly factor BamA [Cell wall/membrane/envelope biogenesis]; COG4775</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAC16524.1 putative outer membrane protein [Treponema pallidum subsp. pallidum str. Nichols]
+MLKKASAFLIASCCVMSLAWAQANDNWYEGKPISAISFEGLEYIARGQLDTIFSQYKGQKWTYELYLEIL
+QKVYDLEYFSEVSPKAVPTDPEYQYVMLQFTVKERPSVKGIKMVGNSQIRSGDLLSKILLKKGDIYNEVK
+MKVDQESLRRHYLDQGYAAVKISCEAKTEAGGVVVQFTIQEGKQTVVSRIQFKGNKAFTESVLKKVLSTQ
+EARFLTSGVFKENALEADKAAVHSYYAERGYIDARVEGVAKTVDKKTDASRNLVTLTYTVVEGEQYRYGG
+VTIVGNQIFSTEELQAKIRLKRGAIMNMVAFEQGFQALADAYFENGYTSNYLNKEEHRDTAEKTLSFKIT
+VVERERSHVEHIIIKGTKNTKDEVILREMLLKPGDVFSKSKFTDSLRNLFNLRYFSSLVPDVRPGSEQDL
+VDIILNVEEQSTANVQFGVTFSGVGEAGTFPLSLFCQWEEKNFLGKGNEISVNATLGSEAQSLKLGYVER
+WFLGSPLTVGFDFELTHKNLFVYRAGSYGNGLPHPYTSREQWASSPGLAESFRLKYSRFESAIGAHTGYQ
+WYPRYAVIRVNGGVDFRVVKNFYDKDNNQPFDLTVKEQLNWTSINSFWTSVSFDGRDFAYDPSSGWFLGQ
+RCTFNGLVPFLEKEHSFRSDTKAEFYVTLLNYPVSAVWNLKFVLAFYTGVSVQTYYGRRKSENGKGNGVR
+SGALVIDGVLVGRGWSEDAKKNTGDLLLHHWIEFRWPLAHGIVSFDFFFDAAMVYNIESQSPNGSSSASS
+SSSSSSSSSRTTSSEGLYKMSYGPGLRFTLPQFPLKLAFANTFTSPGGIPKTKKNWNFVLSFTVNNL</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunization with recombinant Tp92 partially protected rabbits from subsequent T. pallidum challenge [Ref1515:Cameron et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4750">
+		<reference_name>Borenstein et al., 1988</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Borenstein LA, Radolf JD, Fehniger TE, Blanco DR, Miller JN, Lovett MA</authors>
+		<title>Immunization of rabbits with recombinant Treponema pallidum surface antigen 4D alters the course of experimental syphilis</title>
+		<year>1988</year>
+		<volume>140</volume>
+		<issue>7</issue>
+		<pages>2415-2421</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4721">
+		<reference_name>Brautigam et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brautigam CA, Deka RK, Liu WZ, Norgard MV</authors>
+		<title>The Tp0684 (MglB-2) Lipoprotein of Treponema pallidum: A Glucose-Binding Protein with Divergent Topology</title>
+		<year>2016</year>
+		<volume>11</volume>
+		<issue>8</issue>
+		<pages>e0161022</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1513">
+		<reference_name>Cameron et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cameron CE, Castro C, Lukehart SA, Van Voorhis WC</authors>
+		<title>Function and protective capacity of Treponema pallidum subsp. pallidum glycerophosphodiester phosphodiesterase</title>
+		<year>1998</year>
+		<volume>66</volume>
+		<issue>12</issue>
+		<pages>5763-5770</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4806">
+		<reference_name>Cameron et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cameron CE, Castro C, Lukehart SA, Van Voorhis WC</authors>
+		<title>Function and protective capacity of Treponema pallidum subsp. pallidum glycerophosphodiester phosphodiesterase</title>
+		<year>1998</year>
+		<volume>66</volume>
+		<issue>12</issue>
+		<pages>5763-5770</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1515">
+		<reference_name>Cameron et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cameron CE, Lukehart SA, Castro C, Molini B, Godornes C, Van Voorhis WC</authors>
+		<title>Opsonic potential, protective capacity, and sequence conservation of the Treponema pallidum subspecies pallidum Tp92</title>
+		<year>2000</year>
+		<volume>181</volume>
+		<issue>4</issue>
+		<pages>1401-1413</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4907">
+		<reference_name>Cameron et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cameron CE, Lukehart SA, Castro C, Molini B, Godornes C, Van Voorhis WC</authors>
+		<title>Opsonic potential, protective capacity, and sequence conservation of the Treponema pallidum subspecies pallidum Tp92</title>
+		<year>2000</year>
+		<volume>181</volume>
+		<issue>4</issue>
+		<pages>1401-1413</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4752">
+		<reference_name>Centurion-Lara et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Centurion-Lara A, Arroll T, Castillo R, Shaffer JM, Castro C, Van Voorhis WC, Lukehart SA</authors>
+		<title>Conservation of the 15-kilodalton lipoprotein among Treponema pallidum subspecies and strains and other pathogenic treponemes: genetic and antigenic analyses</title>
+		<year>1997</year>
+		<volume>65</volume>
+		<issue>4</issue>
+		<pages>1440-1444</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4770">
+		<reference_name>Centurion-Lara et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Centurion-Lara A, Castro C, Barrett L, Cameron C, Mostowfi M, Van Voorhis WC, Lukehart SA</authors>
+		<title>Treponema pallidum major sheath protein homologue Tpr K is a target of opsonic antibody and the protective immune response</title>
+		<year>1999</year>
+		<volume>189</volume>
+		<issue>4</issue>
+		<pages>647-656</pages>
+		<journal_book_name>The Journal of experimental medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4867">
+		<reference_name>Clark et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Clark KL, Halay ED, Lai E, Burley SK</authors>
+		<title>Co-crystal structure of the HNF-3/fork head DNA-recognition motif resembles histone H5</title>
+		<year>1993</year>
+		<volume>364</volume>
+		<issue>6436</issue>
+		<pages>412-420</pages>
+		<journal_book_name>Nature</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4848">
+		<reference_name>Jiang et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jiang C, Zhao F, Xiao J, Zeng T, Yu J, Ma X, Wu H, Wu Y</authors>
+		<title>Evaluation of the recombinant protein TpF1 of Treponema pallidum for serodiagnosis of syphilis</title>
+		<year>2013</year>
+		<volume>20</volume>
+		<issue>10</issue>
+		<pages>1563-1568</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4810">
+		<reference_name>Kao et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kao WA, P?tro�ov� H, Ebady R, Lithgow KV, Rojas P, Zhang Y, Kim YE, Kim YR, Odisho T, Gupta N, Moter A, Cameron CE, Moriarty TJ</authors>
+		<title>Identification of Tp0751 (Pallilysin) as a Treponema pallidum Vascular Adhesin by Heterologous Expression in the Lyme disease Spirochete</title>
+		<year>2017</year>
+		<volume>7</volume>
+		<issue>1</issue>
+		<pages>1538</pages>
+		<journal_book_name>Scientific reports</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4714">
+		<reference_name>Lithgow et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lithgow KV, Hof R, Wetherell C, Phillips D, Houston S, Cameron CE</authors>
+		<title>A defined syphilis vaccine candidate inhibits dissemination of Treponema pallidum subspecies pallidum</title>
+		<year>2017</year>
+		<volume>8</volume>
+		<issue></issue>
+		<pages>14273</pages>
+		<journal_book_name>Nature communications</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4841">
+		<reference_name>McGill et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McGill MA, Edmondson DG, Carroll JA, Cook RG, Orkiszewski RS, Norris SJ</authors>
+		<title>Characterization and serologic analysis of the Treponema pallidum proteome</title>
+		<year>2010</year>
+		<volume>78</volume>
+		<issue>6</issue>
+		<pages>2631-2643</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1525">
+		<reference_name>MicrobeWiki: T. pallidum</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>MicrobeWiki: Treponema pallidum</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://microbewiki.kenyon.edu/index.php/Treponema_pallidum</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4799">
+		<reference_name>Morgan et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Morgan CA, Lukehart SA, Van Voorhis WC</authors>
+		<title>Immunization with the N-terminal portion of Treponema pallidum repeat protein K attenuates syphilitic lesion development in the rabbit model</title>
+		<year>2002</year>
+		<volume>70</volume>
+		<issue>12</issue>
+		<pages>6811-6816</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1528">
+		<reference_name>Salyers and Whitt., 2002</reference_name>
+		<reference_type>book</reference_type>
+		<authors>Abigail A. Salyers, Dixie D. Whitt</authors>
+		<title>The Spirochetes: Borrelia burgdorferi and Treponema pallidum</title>
+		<year>2002</year>
+		<volume></volume>
+		<issue></issue>
+		<pages>197-99</pages>
+		<journal_book_name>Bacterial Pathogenesis: A Molecular Approach</journal_book_name>
+		<publisher>ASM Press</publisher>
+		<publisher_location>Washington D.C. USA</publisher_location>
+		<book_editors></book_editors>
+		<isbn>1-55581-171-x</isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4911">
+		<reference_name>Sun et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sun ES, Molini BJ, Barrett LK, Centurion-Lara A, Lukehart SA, Van Voorhis WC</authors>
+		<title>Subfamily I Treponema pallidum repeat protein family: sequence variation and immunity</title>
+		<year>2004</year>
+		<volume>6</volume>
+		<issue>8</issue>
+		<pages>725-737</pages>
+		<journal_book_name>Microbes and infection</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4842">
+		<reference_name>Tomson et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tomson FL, Conley PG, Norgard MV, Hagman KE</authors>
+		<title>Assessment of cell-surface exposure and vaccinogenic potentials of Treponema pallidum candidate outer membrane proteins</title>
+		<year>2007</year>
+		<volume>9</volume>
+		<issue>11</issue>
+		<pages>1267-1275</pages>
+		<journal_book_name>Microbes and infection</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1514">
+		<reference_name>Wicher et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wicher K, Schouls LM, Wicher V, Van Embden JD, Nakeeb SS</authors>
+		<title>Immunization of guinea pigs with recombinant TmpB antigen induces protection against challenge infection with Treponema pallidum Nichols</title>
+		<year>1991</year>
+		<volume>59</volume>
+		<issue>12</issue>
+		<pages>4343-4348</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4839">
+		<reference_name>Wicher et al., 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wicher K, Schouls LM, Wicher V, Van Embden JD, Nakeeb SS</authors>
+		<title>Immunization of guinea pigs with recombinant TmpB antigen induces protection against challenge infection with Treponema pallidum Nichols</title>
+		<year>1991</year>
+		<volume>59</volume>
+		<issue>12</issue>
+		<pages>4343-4348</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1516">
+		<reference_name>Wiki: T. pallidum</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: T. pallidum</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Treponema_pallidum</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

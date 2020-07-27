@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen136">
+		<pathogen_name>Listeria monocytogenes</pathogen_name>
+		<taxon_id>1639</taxon_id>
+		<pathogenesis refs="reference1523 reference1524">L. monocytogenes may invade the gastrointestinal epithelium. Once the bacterium enters the host's monocytes, macrophages, or polymorphonuclear leukocytes, it becomes blood-borne (septicemic) and can grow. Its presence intracellularly in phagocytic cells also permits access to the brain and probably transplacental migration to the fetus in pregnant women. The pathogenesis of L. monocytogenes centers on its ability to survive and multiply in phagocytic host cells (Wiki: L. monocytogenes). Listeria is able to move from cell to cell via actin motility (Ramaswamy et al., 2007).</pathogenesis>
+		<disease_name>Listeriosis</disease_name>
+		<protective_immunity refs="reference1524">Infection is often controlled by cell mediated response. Infection is asymptomatic in most patients, and tends to be more severe in immunocompromised individuals (Ramaswamy et al., 2007).</protective_immunity>
+		<host_range refs="reference1524">Listeria can live in the intestines of humans, animals and birds without causing symptoms. Mice are used as a model of infection for listeria (Ramaswamy et al., 2007).</host_range>
+		<introduction refs="reference1524 reference1523">Listeria monocytogenes is a gram positive facultatively intracellular foodborne pathogen, which is often found in food and elsewhere in nature. Listeria can survive temperatures from below freezing to body temperature  (Ramaswamy et al., 2007). Infection by L. monocytogenes causes the disease listeriosis. The manifestations of listeriosis include septicemia, meningitis (or meningoencephalitis), encephalitis, corneal ulcer, pneumonia, and intrauterine or cervical infections in pregnant women, which may result in spontaneous abortion (2nd/3rd trimester) or stillbirth (Wiki: L. monocytogenes).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1077">
+		<vaccine_name>L. monocytogenes DNA Vaccine encoding hly</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004031</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCR3.1 plasmid vector (Invitrogen)</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">The hly gene of L. monocytogenes</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering567" gene_id="gene842">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response834" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1497">For immunization with the plasmid constructs, 6-to 8-wk-old mice received the first of a series of three i.m. immunizations (via the tibialis anterior muscles) at 3- to 4-wk intervals with ~100–125 µg of plasmid DNA in 50 µl of normal saline. Normal control mice received either no immunization or were immunized with either 0.2 ml of PBS (i.v.) or 50 µl of saline (i.m.) (Cornell et al., 1999).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1497">DNA immunization of mice provides protection against challenge with viable L. monocytogenes (Cornell et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1497">Briefly, groups of normal or immunized BALB/c mice received an i.v. injection with ~2 LD50 (~20,000 CFU) of L. monocytogenes in 0.2 ml of PBS, at 3–4 wk following the final immunization with plasmid DNA. Control groups consisted of normal (nonimmunized) mice and mice previously immunized (4–12 wk earlier) with a sublethal injection of viable L. monocytogenes (Cornell et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1078">
+		<vaccine_name>L. monocytogenes p60 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004032</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">p60 protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering568" gene_id="gene862">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response835" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1520">BALB/c mice (two mice/group) were immunized i.p. with 100 μl liposomes containing approximately 3 μg of p60 antigen shown (Grenningloh et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1520">Mice immunized with p60 encapsulated in liposomes launched a strong CTL response and were protected against a subsequent challenge with L. monocytogenes (Grenningloh et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1520">BALB/c mice were immunized with encapsulated  p60 and challenged intravenously on day 9 after immunization with 5 × 10^3 (1 × LD50) L. monocytogenes (Grenningloh et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3214">
+		<vaccine_name>Listeria monocytogenes actA mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002776</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering752" gene_id="gene921">
+			<type>Gene mutation</type>
+			<description refs="reference1774">This actA mutant is from Listeria monocytogenes (Darji et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1039" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1774">An actA mutant is attenuated in mice (Darji et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1774">An actA mutant induces significant protection in mice from challenge with wild type L. monocytogenes (Darji et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3215">
+		<vaccine_name>Listeria monocytogenes actA/plcB mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering753" gene_id="gene921">
+			<type>Gene mutation</type>
+			<description refs="reference1774">This actA/plcB mutant is from Listeria monocytogenes (Darji et al., 2003).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering754" gene_id="gene922">
+			<type>Gene mutation</type>
+			<description refs="reference1774">This actA/plcB mutant is from Listeria monocytogenes (Darji et al., 2003).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1040" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1774">An actA/plcB mutant is attenuated in mice (Darji et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1774">An actA/plcB mutant induces significant protection in mice from challenge with wild type L. monocytogenes (Darji et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response53" gene_id="gene1">
+			    <description refs="reference1774">The ΔactAΔplcB mutant is able to induce sufficient IFN-γ in mice to prevent a Th1 to Th2 switch and retains its ability to induce a strong CD8+-mediated T cell response, even though the amount of IFN-gamma produced is less than that produced after infection with the wild type strain (Darji et al., 2003).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene921">
+        <gene_name>actA</gene_name>
+        <strain>Listeria monocytogenes EGD-e</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>987035</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>16802250</ncbi_protein_id>
+        <gene_locus_tag>lmo0204</gene_locus_tag>
+        <gene_refseq>AL591974</gene_refseq>
+        <protein_refseq>NP_463735</protein_refseq>
+        <pdb_id>1EVH</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>169963</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>209469</gene_start>
+        <gene_end>211388</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>actin-assembly inducing protein precursor</protein_name>
+        <protein_pi>4.71</protein_pi>
+        <protein_weight>68063.81</protein_weight>
+        <protein_length>639</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|16802048:209469-211388 Listeria monocytogenes EGD-e, complete genome
+AGTGGGATTAAACAGATTTATGCGTGCGATGATGGTGGTTTTCATTACTGCCAATTGCATTACGATTAAC
+CCCGACATAATATTTGCAGCGACAGATAGCGAAGATTCTAGTCTAAACACAGATGAATGGGAAGAAGAAA
+AAACAGAAGAGCAACCAAGCGAGGTAAATACGGGACCAAGATACGAAACTGCACGTGAAGTAAGTTCACG
+TGATATTAAAGAACTAGAAAAATCGAATAAAGTGAGAAATACGAACAAAGCAGACCTAATAGCAATGTTG
+AAAGAAAAAGCAGAAAAAGGTCCAAATATCAATAATAACAACAGTGAACAAACTGAGAATGCGGCTATAA
+ATGAAGAGGCTTCAGGAGCCGACCGACCAGCTATACAAGTGGAGCGTCGTCATCCAGGATTGCCATCGGA
+TAGCGCAGCGGAAATTAAAAAAAGAAGGAAAGCCATAGCATCATCGGATAGTGAGCTTGAAAGCCTTACT
+TATCCGGATAAACCAACAAAAGTAAATAAGAAAAAAGTGGCGAAAGAGTCAGTTGCGGATGCTTCTGAAA
+GTGACTTAGATTCTAGCATGCAGTCAGCAGATGAGTCTTCACCACAACCTTTAAAAGCAAACCAACAACC
+ATTTTTCCCTAAAGTATTTAAAAAAATAAAAGATGCGGGGAAATGGGTACGTGATAAAATCGACGAAAAT
+CCTGAAGTAAAGAAAGCGATTGTTGATAAAAGTGCAGGGTTAATTGACCAATTATTAACCAAAAAGAAAA
+GTGAAGAGGTAAATGCTTCGGACTTCCCGCCACCACCTACGGATGAAGAGTTAAGACTTGCTTTGCCAGA
+GACACCAATGCTTCTTGGTTTTAATGCTCCTGCTACATCAGAACCGAGCTCATTCGAATTTCCACCACCA
+CCTACGGATGAAGAGTTAAGACTTGCTTTGCCAGAGACGCCAATGCTTCTTGGTTTTAATGCTCCTGCTA
+CATCGGAACCGAGCTCGTTCGAATTTCCACCGCCTCCAACAGAAGATGAACTAGAAATCATCCGGGAAAC
+AGCATCCTCGCTAGATTCTAGTTTTACAAGAGGGGATTTAGCTAGTTTGAGAAATGCTATTAATCGCCAT
+AGTCAAAATTTCTCTGATTTCCCACCAATCCCAACAGAAGAAGAGTTGAACGGGAGAGGCGGTAGACCAA
+CATCTGAAGAATTTAGTTCGCTGAATAGTGGTGATTTTACAGATGACGAAAACAGCGAGACAACAGAAGA
+AGAAATTGATCGCCTAGCTGATTTAAGAGATAGAGGAACAGGAAAACACTCAAGAAATGCGGGTTTTTTA
+CCATTAAATCCGTTTGCTAGCAGCCCGGTTCCTTCGTTAAGTCCAAAGGTATCGAAAATAAGCGCACCGG
+CTCTGATAAGTGACATAACTAAAAAAACGCCATTTAAGAATCCATCACAGCCATTAAATGTGTTTAATAA
+AAAAACTACAACGAAAACAGTGACTAAAAAACCAACCCCTGTAAAGACCGCACCAAAGCTAGCAGAACTT
+CCTGCCACAAAACCACAAGAAACCGTACTTAGGGAAAATAAAACACCCTTTATAGAAAAACAAGCAGAAA
+CAAACAAGCAGTCAATTAATATGCCGAGCCTACCAGTAATCCAAAAAGAAGCTACAGAGAGCGATAAAGA
+GGAAATGAAACCACAAACCGAGGAAAAAATGGTAGAGGAAAGCGAATCAGCTAATAACGCAAACGGAAAA
+AATCGTTCTGCTGGCATTGAAGAAGGAAAACTAATTGCTAAAAGTGCAGAAGACGAAAAAGCGAAGGAAG
+AACCAGGGAACCATACGACGTTAATTCTTGCAATGTTAGCTATTGGCGTGTTCTCTTTAGGGGCGTTTAT
+CAAAATTATTCAATTAAGAAAAAATAATTA</dna_sequence>
+        <protein_sequence>>gi|16802250|ref|NP_463735.1| actin-assembly inducing protein precursor [Listeria monocytogenes EGD-e]
+MGLNRFMRAMMVVFITANCITINPDIIFAATDSEDSSLNTDEWEEEKTEEQPSEVNTGPRYETAREVSSR
+DIKELEKSNKVRNTNKADLIAMLKEKAEKGPNINNNNSEQTENAAINEEASGADRPAIQVERRHPGLPSD
+SAAEIKKRRKAIASSDSELESLTYPDKPTKVNKKKVAKESVADASESDLDSSMQSADESSPQPLKANQQP
+FFPKVFKKIKDAGKWVRDKIDENPEVKKAIVDKSAGLIDQLLTKKKSEEVNASDFPPPPTDEELRLALPE
+TPMLLGFNAPATSEPSSFEFPPPPTDEELRLALPETPMLLGFNAPATSEPSSFEFPPPPTEDELEIIRET
+ASSLDSSFTRGDLASLRNAINRHSQNFSDFPPIPTEEELNGRGGRPTSEEFSSLNSGDFTDDENSETTEE
+EIDRLADLRDRGTGKHSRNAGFLPLNPFASSPVPSLSPKVSKISAPALISDITKKTPFKNPSQPLNVFNK
+KTTTKTVTKKPTPVKTAPKLAELPATKPQETVLRENKTPFIEKQAETNKQSINMPSLPVIQKEATESDKE
+EMKPQTEEKMVEESESANNANGKNRSAGIEEGKLIAKSAEDEKAKEEPGNHTTLILAMLAIGVFSLGAFI
+KIIQLRKNN</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An actA mutant is attenuated in mice and induced significant protection from challenge with wild type L. monocytogenes [Ref1774:Darji et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene842">
+        <gene_name>Hly</gene_name>
+        <strain>Listeria monocytogenes EGD-e</strain>
+        <vo_id>VO_0012388</vo_id>
+        <ncbi_gene_id>987033</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>16802248</ncbi_protein_id>
+        <gene_locus_tag>lmo0202</gene_locus_tag>
+        <gene_refseq>AL591824</gene_refseq>
+        <protein_refseq>NP_463733</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>169963</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>205818</gene_start>
+        <gene_end>207407</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>listeriolysin O precursor</protein_name>
+        <protein_pi>8.23</protein_pi>
+        <protein_weight>54322.11</protein_weight>
+        <protein_length>529</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_003210.1:205818-207407 Listeria monocytogenes EGD-e chromosome, complete genome
+CATGAAAAAAATAATGCTAGTTTTTATTACACTTATATTAGTTAGTCTACCAATTGCGCAACAAACTGAA
+GCAAAGGATGCATCTGCATTCAATAAAGAAAATTCAATTTCATCCATGGCACCACCAGCATCTCCGCCTG
+CAAGTCCTAAGACGCCAATCGAAAAGAAACACGCGGATGAAATCGATAAGTATATACAAGGATTGGATTA
+CAATAAAAACAATGTATTAGTATACCACGGAGATGCAGTGACAAATGTGCCGCCAAGAAAAGGTTACAAA
+GATGGAAATGAATATATTGTTGTGGAGAAAAAGAAGAAATCCATCAATCAAAATAATGCAGACATTCAAG
+TTGTGAATGCAATTTCGAGCCTAACCTATCCAGGTGCTCTCGTAAAAGCGAATTCGGAATTAGTAGAAAA
+TCAACCAGATGTTCTCCCTGTAAAACGTGATTCATTAACACTCAGCATTGATTTGCCAGGTATGACTAAT
+CAAGACAATAAAATCGTTGTAAAAAATGCCACTAAATCAAACGTTAACAACGCAGTAAATACATTAGTGG
+AAAGATGGAATGAAAAATATGCTCAAGCTTATCCAAATGTAAGTGCAAAAATTGATTATGATGACGAAAT
+GGCTTACAGTGAATCACAATTAATTGCGAAATTTGGTACAGCATTTAAAGCTGTAAATAATAGCTTGAAT
+GTAAACTTCGGCGCAATCAGTGAAGGGAAAATGCAAGAAGAAGTCATTAGTTTTAAACAAATTTACTATA
+ACGTGAATGTTAATGAACCTACAAGACCTTCCAGATTTTTCGGCAAAGCTGTTACTAAAGAGCAGTTGCA
+AGCGCTTGGAGTGAATGCAGAAAATCCTCCTGCATATATCTCAAGTGTGGCGTATGGCCGTCAAGTTTAT
+TTGAAATTATCAACTAATTCCCATAGTACTAAAGTAAAAGCTGCTTTTGATGCTGCCGTAAGCGGAAAAT
+CTGTCTCAGGTGATGTAGAACTAACAAATATCATCAAAAATTCTTCCTTCAAAGCCGTAATTTACGGAGG
+TTCCGCAAAAGATGAAGTTCAAATCATCGACGGCAACCTCGGAGACTTACGCGATATTTTGAAAAAAGGC
+GCTACTTTTAATCGAGAAACACCAGGAGTTCCCATTGCTTATACAACAAACTTCCTAAAAGACAATGAAT
+TAGCTGTTATTAAAAACAACTCAGAATATATTGAAACAACTTCAAAAGCTTATACAGATGGAAAAATTAA
+CATCGATCACTCTGGAGGATACGTTGCTCAATTCAACATTTCTTGGGATGAAGTAAATTATGATCCTGAA
+GGTAACGAAATTGTTCAACATAAAAACTGGAGCGAAAACAATAAAAGCAAGCTAGCTCATTTCACATCGT
+CCATCTATTTGCCAGGTAACGCGAGAAATATTAATGTTTACGCTAAAGAATGCACTGGTTTAGCTTGGGA
+ATGGTGGAGAACGGTAATTGATGACCGGAACTTACCACTTGTGAAAAATAGAAATATCTCCATCTGGGGC
+ACCACGCTTTATCCGAAATATAGTAATAAAGTAGATAATCCAATCGAATA
+
+</dna_sequence>
+        <protein_sequence>>NP_463733.1 listeriolysin O precursor [Listeria monocytogenes EGD-e]
+MKKIMLVFITLILVSLPIAQQTEAKDASAFNKENSISSMAPPASPPASPKTPIEKKHADEIDKYIQGLDY
+NKNNVLVYHGDAVTNVPPRKGYKDGNEYIVVEKKKKSINQNNADIQVVNAISSLTYPGALVKANSELVEN
+QPDVLPVKRDSLTLSIDLPGMTNQDNKIVVKNATKSNVNNAVNTLVERWNEKYAQAYPNVSAKIDYDDEM
+AYSESQLIAKFGTAFKAVNNSLNVNFGAISEGKMQEEVISFKQIYYNVNVNEPTRPSRFFGKAVTKEQLQ
+ALGVNAENPPAYISSVAYGRQVYLKLSTNSHSTKVKAAFDAAVSGKSVSGDVELTNIIKNSSFKAVIYGG
+SAKDEVQIIDGNLGDLRDILKKGATFNRETPGVPIAYTTNFLKDNELAVIKNNSEYIETTSKAYTDGKIN
+IDHSGGYVAQFNISWDEVNYDPEGNEIVQHKNWSENNKSKLAHFTSSIYLPGNARNINVYAKECTGLAWE
+WWRTVIDDRNLPLVKNRNISIWGTTLYPKYSNKVDNPIE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>In an attempt to generate a subunit vaccine in this experimental disease model, eukaryotic plasmid DNA expression vectors containing genes encoding either the wild-type or modified forms of recombinant listeriolysin O (hly) were generated and used for genetic vaccination of naive mice. Results of these studies indicate that the intramuscular immunization of mice with specifically designed plasmid DNA constructs encoding recombinant forms of listeriolysin O (hly) stimulates peptide-specific CD8+ immune T cells that exhibit in vitro cytotoxic activity. More importantly, such immunization can provide protective immunity against a subsequent challenge with viable L. monocytogenes [Ref1497:Cornell et al., 1999].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene862">
+        <gene_name>iap</gene_name>
+        <strain>Listeria monocytogenes strain L2K3-549C1</strain>
+        <vo_id>VO_0012404</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>215422507</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:333284</xrefs>
+        <taxonomy_id>1639</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>p60</protein_name>
+        <protein_pi>10.49</protein_pi>
+        <protein_weight>13324.02</protein_weight>
+        <protein_length>182</protein_length>
+        <protein_note>Cell wall-associated hydrolase, NlpC family [Cell wall/membrane/envelope biogenesis]; cl28464</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>BAG85375.1 p60, partial [Listeria monocytogenes]
+MSWNNLSSSSIYVGQKLAIKQTANTVTPKAEVKKEAPAAEKQAAPVVKENTNTNTNTTTEKKETTQQQTA
+PKAPTEAAKPAPAPSTNTNANKTNTNTNNTNTSTPSKNTNTNTNSNTNTNSNTNANQGS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with p60 encapsulated in  liposomes launched a strong CTL response and were protected against a subsequent challenge with L. monocytogenes [Ref1520:Grenningloh et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene922">
+        <gene_name>plcB</gene_name>
+        <strain>Listeria monocytogenes EGD-e</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>987036</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>16802251</ncbi_protein_id>
+        <gene_locus_tag>lmo0205</gene_locus_tag>
+        <gene_refseq>AL591974</gene_refseq>
+        <protein_refseq>NP_463736</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>169963</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>211424</gene_start>
+        <gene_end>212293</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>phospholipase C</protein_name>
+        <protein_pi>8.4</protein_pi>
+        <protein_weight>31887.47</protein_weight>
+        <protein_length>289</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|16802048:211424-212293 Listeria monocytogenes EGD-e, complete genome
+TATGAAATTCAAAAAGGTGGTTCTAGGTATGTGCTTGATCGCAAGTGTTCTAGTCTTTCCGGTAACGATA
+AAAGCAAATGCCTGTTGTGATGAATACTTACAAACACCCGCAGCTCCGCATGATATTGACAGCAAATTAC
+CACATAAACTTAGTTGGTCCGCGGATAACCCGACAAATACTGACGTAAATACGCACTATTGGCTTTTTAA
+ACAAGCGGAAAAAATACTAGCTAAAGATGTAAATCATATGCGAGCTAATTTAATGAATGAACTTAAAAAA
+TTCGATAAACAAATAGCTCAAGGAATATATGATGCGGATCATAAAAATCCATATTATGATACTAGTACAT
+TTTTATCTCATTTTTATAATCCTGATAGAGATAATACTTATTTGCCGGGTTTTGCTAATGCGAAAATAAC
+AGGAGCAAAGTATTTCAATCAATCGGTGACTGATTACCGAGAAGGGAAATTTGACACAGCGTTTTATAAA
+TTAGGCCTAGCAATCCATTATTATACGGATATTAGTCAACCTATGCACGCCAATAATTTTACCGCAATAT
+CATACCCTCCAGGCTACCACTGTGCATATGAAAATTACGTAGATACCATTAAACACAATTATCAAGCAAC
+GGAAGACATGGTAGCAAAAAGATTTTGCTCAGATGACGTGAAAGACTGGCTCTATGAAAATGCGAAAAGG
+GCGAAAGCGGACTACCCGAAAATAGTCAATGCGAAAACTAAAAAATCATATTTAGTAGGAAATTCTGAAT
+GGAAAAAGGATACAGTGGAACCTACTGGAGCTAGACTAAGAGATTCACAGCAAACTTTGGCAGGTTTTTT
+AGAATTTTGGTCTAAAAAAACAAATGAATA</dna_sequence>
+        <protein_sequence>>gi|16802251|ref|NP_463736.1| phospholipase C [Listeria monocytogenes EGD-e]
+MKFKKVVLGMCLIASVLVFPVTIKANACCDEYLQTPAAPHDIDSKLPHKLSWSADNPTNTDVNTHYWLFK
+QAEKILAKDVNHMRANLMNELKKFDKQIAQGIYDADHKNPYYDTSTFLSHFYNPDRDNTYLPGFANAKIT
+GAKYFNQSVTDYREGKFDTAFYKLGLAIHYYTDISQPMHANNFTAISYPPGYHCAYENYVDTIKHNYQAT
+EDMVAKRFCSDDVKDWLYENAKRAKADYPKIVNAKTKKSYLVGNSEWKKDTVEPTGARLRDSQQTLAGFL
+EFWSKKTNE</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A plcB mutant, in combination with an actA mutant, is attenuated in mice and induces significant protection from challenge with wild type L. monocytogenes [Ref1774:Darji et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1924">
+		<reference_name>Brockstedt et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brockstedt DG, Bahjat KS, Giedlin MA, Liu W, Leong M, Luckett W, Gao Y, Schnupf P, Kapadia D, Castro G, Lim JY, Sampson-Johannes A, Herskovits AA, Stassinopoulos A, Bouwer HG, Hearst JE, Portnoy DA, Cook DN, Dubensky TW Jr</authors>
+		<title>Killed but metabolically active microbes: a new vaccine paradigm for eliciting effector T-cell responses and protective immunity</title>
+		<year>2005</year>
+		<volume>11</volume>
+		<issue>8</issue>
+		<pages>853-860</pages>
+		<journal_book_name>Nature medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1497">
+		<reference_name>Cornell et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cornell KA, Bouwer HG, Hinrichs DJ, Barry RA</authors>
+		<title>Genetic immunization of mice against Listeria monocytogenes using plasmid DNA encoding listeriolysin O</title>
+		<year>1999</year>
+		<volume>163</volume>
+		<issue>1</issue>
+		<pages>322-329</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1774">
+		<reference_name>Darji et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Darji A, Mohamed W, Domann E, Chakraborty T</authors>
+		<title>Induction of immune responses by attenuated isogenic mutant strains of Listeria monocytogenes</title>
+		<year>2003</year>
+		<volume>21 Suppl 2</volume>
+		<issue></issue>
+		<pages>S102-109</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1520">
+		<reference_name>Grenningloh et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Grenningloh R, Darj A, Bauer H, zur Lage S, Chakraborty T, Jacobs T, Weiss S</authors>
+		<title>Liposome-encapsulated antigens induce a protective CTL response against Listeria monocytogenes independent of CD4+ T cell help</title>
+		<year>2008</year>
+		<volume>67</volume>
+		<issue>6</issue>
+		<pages>594-602</pages>
+		<journal_book_name>Scandinavian journal of immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1923">
+		<reference_name>Jiang et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jiang S, Rasmussen RA, Nolan KM, Frankel FR, Lieberman J, McClure HM, Williams KM, Babu US, Raybourne RB, Strobert E, Ruprecht RM</authors>
+		<title>Live attenuated Listeria monocytogenes expressing HIV Gag: immunogenicity in rhesus monkeys</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>42</issue>
+		<pages>7470-7479</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4834">
+		<reference_name>Orgun and Way, 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Orgun NN, Way SS</authors>
+		<title>A critical role for phospholipase C in protective immunity conferred by listeriolysin O-deficient Listeria monocytogenes</title>
+		<year>2008</year>
+		<volume>44</volume>
+		<issue>2</issue>
+		<pages>159-163</pages>
+		<journal_book_name>Microbial pathogenesis</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1524">
+		<reference_name>Ramaswamy et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ramaswamy V, Cresence VM, Rejitha JS, Lekshmi MU, Dharsana KS, Prasad SP, Vijila HM</authors>
+		<title>Listeria--review of epidemiology and pathogenesis</title>
+		<year>2007</year>
+		<volume>40</volume>
+		<issue>1</issue>
+		<pages>4-13</pages>
+		<journal_book_name>Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1523">
+		<reference_name>Wiki: L. monocytogenes</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Listeria monocytogenes</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Listeria_monocytogenes</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

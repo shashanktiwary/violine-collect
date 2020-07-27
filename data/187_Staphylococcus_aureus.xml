@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen138">
+		<pathogen_name>Staphylococcus aureus</pathogen_name>
+		<taxon_id>1280</taxon_id>
+		<pathogenesis refs="reference1502">The initial critical event in most staphylococcal infections is the ability of bacteria to adhere to components within host tissues (Nilsson et al., 1998).</pathogenesis>
+		<disease_name>Staph infections</disease_name>
+		<protective_immunity refs="reference1502">In general, protection against S. aureus infection is attributed to intact epithelial and mucosal barriers and normal cellular and humoral responses (Nilsson et al., 1998).</protective_immunity>
+		<host_range refs="reference1522 reference1504">S. aureus can survive on domesticated animals such as dogs, cats, and horses, and can cause bumblefoot in chickens. It is also a common commensal of human skin (Wiki: S. aureus). Mice are used as an animal model of infection (Senna et al., 2003).</host_range>
+		<introduction refs="reference1522">Staphylococcus aureus is a facultatively anaerobic, gram-positive coccus and is the most common cause of staph infections. It is frequently part of the skin flora found in the nose and on skin. S. aureus can cause a range of illnesses from minor skin infections, such as pimples, impetigo, boils (furuncles), cellulitis folliculitis, carbuncles, scalded skin syndrome, and abscesses, to life-threatening diseases such as pneumonia, meningitis, osteomyelitis, endocarditis, toxic shock syndrome (TSS), chest pain, bacteremia, and sepsis. Its incidence is from skin, soft tissue, respiratory, bone, joint, endovascular to wound infections. It is still one of the five most common causes of nosocomial infections, often causing postsurgical wound infections (Wiki: S. aureus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1082">
+		<vaccine_name>S. aureus ClfA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004047</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's complete adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference1503">Recombinant ClfA protein (Josefsson et al., 2001).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering572" gene_id="gene847">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1503">Expression and purification of recombinant proteins.Vector pCF40 expressed rClfA truncate rClfA40‐559 (Josefsson et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response839" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">NMRI</host_strain>
+			<vaccination_protocol refs="reference1503">Purified rClfA region A, comprising residues 40–559 (rClfA40‐559), and BSA (Sigma Chemical) were dissolved in physiologic saline and were emulsified 1:1 in Freund's complete adjuvant (Difco Laboratories). In total, 200 μL of the emulsion containing 30 μg of protein was injected subcutaneously (sc) on day −21 ( /group). Booster immunization with 30 μg of protein in physiologic saline:Freund's incomplete adjuvant 1:1 sc was done on day −10 (Josefsson et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1503">Mice immunized with rClfA40‐559 had less severe arthritis than did the control BSA‐immunized group throughout the experiment. Both the severity of synovitis and the extent of joint destruction were markedly less pronounced in mice immunized with rClfA40‐559 than in the BSA control group (Josefsson et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1503">On day 0, the mice were challenged iv with 1.6 x 10^7 cfu/mouse of wild‐type S. aureus strain Newman (Josefsson et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1083">
+		<vaccine_name>S. aureus CNA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004048</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund’s complete adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference1502">a recombinant fragment of CNA protein (Nilsson et al., 1998).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering573" gene_id="gene846">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1502">CNA fragments were expressed in E. coli and then purified (Nilsson et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response840" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">NMRI</host_strain>
+			<vaccination_protocol refs="reference1502">Purified recombinant collagen adhesin fragments M17, M31, M55, and BSA (Sigma Chemical Co.) were dissolved in PBS and emulsified 1:1 in Freund’s complete adjuvant  200 μl of the emulsion containing 100 μg of protein was injected subcutaneously (s.c.) on day -31. Booster immunizations (s.c.; 100 μg protein in PBS) were performed 15 and 24 d after the initial vaccination (Nilsson et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1502">At 14 d after inoculation, mortality in the collagen adhesin-vaccinated group was only 13%, compared with 87% in the control antigen immunized group (Nilsson et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1502">After the final boost, mice were inoculated intravenously (i.v.) with S. aureus (Nilsson et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3896">
+		<vaccine_name>S. aureus DNA vaccine encoding Efb, FnbpA, ClfA, Cna</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004542</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref2661:Castagliuolo et al., 2006]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference2661">fibrinogen binding protein (Efb), fibronectin-binding protein A (FnbpA), clumping factor A (ClfA) and collagen-binding protein (Cna) from S. aureus strain 1706 (Castagliuolo et al., 2006)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1610" gene_id="gene847">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1611" gene_id="gene846">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1612" gene_id="gene1732">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1613" gene_id="gene849">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1538" host_id="host3">
+			<immune_response refs="reference2661">Intranasal immunization with a pDNA mixture coding the four adhesins triggered significant levels of specific serum and mucosal Ig that inhibited S. aureus adhesion to cow mammary gland epithelial cells in vitro. Splenocytes of immunized mice challenged in vitro with S. aureus extracts showed a strong proliferative response (Castagliuolo et al., 2006).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2661">In non immune mice or mice injected with empty vectors, a large number of bacteria was recovered from the mammary glands. Whereas, in mice immunized with the genetic vaccine coding the four S. aureus adhesins, the amount of bacteria recovered from the mammary glands was significantly decreased (Castagliuolo et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1085">
+		<vaccine_name>S. aureus DNA Vaccine encoding PBP2a Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004192</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI-Neo Mammalian Expression Vector (Promega)</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering575" gene_id="gene848">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response842" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1504">Three days before the first immunization, bupivacain chloridrate 0.5% was injected at a dose of 2.5 μl/g of animal weight in the left quadriceps muscle. For DNA vaccination, three intramuscular injections with 10 μg of plasmid pCI-Neo-mecA or pCI-Neo only (negative control) diluted in 50 μl of sterile PBS were given at 2 weeks intervals into the left quadriceps muscle of mice (Senna et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1504">After challenge, the number of bacteria from kidneys from immunized and non-immunized mice was determined. Kidneys from immunized mice had 1000 times less on bacteria than the positive controls (non-immunized mice) (Senna et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">To assess the immune response against MRSA, mice immunized with pCI-Neo and pCI-Neo-mecA were challenged with MRSA (MRSA HPS-03). Mice received a sublethal dose of 2.0×10^6 cfu intraperitonially daily for 7 days. A non-immunized group receiving the same bacterial dose was included as positive control.</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3895">
+		<vaccine_name>S. aureus DNA vaccine pClfaSrtD13</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004541</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI [Ref2660:Gaudreau et al., 2007]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2660">Clumping factor A (Clfa), fibronectin binding protein A (FnBPA) and the enzyme Sortase (Srt) from strains “Newman” or “8325-4” (Gaudreau et al., 2007)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1442" gene_id="gene847">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1537" host_id="host3">
+			<immune_response refs="reference2660">All animals produced a mixed Th1 and Th2 response including functional antigen-specific, mostly IgG2a antibodies, sustained production of IFN-gamma and a predominantly CD8+ T-cell response (Gaudreau et al., 2007).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2660">Fourteen days after challenge, 70% of the vaccinated mice had survived as compared to only 15% of the control mice and after 21 days, the figures were 55% survival for the vaccinated as compared to 15% survival of the control group. However, signs of arthritis were observed in all the infected mice whether vaccinated or not (Gaudreau et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1084">
+		<vaccine_name>S. aureus FnbA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004049</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Complete Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="">Fibronectin binding domain of FnbA protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering574" gene_id="gene849">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response841" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BSVS</host_strain>
+			<vaccination_protocol refs="reference1505">Mice were vaccinated subcutaneously in the neck region with 20 μg of the antigens emulsified with complete Freund's adjuvant (primary vaccination) a few days after mating. Booster doses were given after 14 days with the same amount of immunogen, but emulsified with incomplete Freund's adjuvant (Mamo et al., 1994).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1505">Vaccination of mice with recombinant FnBP resulted in significant protection against challenge with S. aureus (Mamo et al., 1994).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1505">Mice were challenged 18-21 days after the booster dose by intramammary inoculation (mouse mastitis model) 23. Briefly, mice were anaesthetized using ether inhalation, the teat tips were aseptically removed and a 0.1 ml bacterial suspension (1 x l0^6 c.f.u, m1-1) was inoculated into the left quarter (L-4) and right quarter (R-4) mouse mammary glands (Mamo et al., 1994).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3039">
+		<vaccine_name>S. aureus IsdB subunit vaccine (V710)</vaccine_name>
+		<proper_name>V710</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004220</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1654">amorphous aluminum hydroxyphosphate sulfate adjuvant (AAHSA) (Kuklin et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Purified IsdB protein</antigen>
+		<host_response host_response_id="host_response877" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1654">Groups of 20 BALB/c or ICR mice  were immunized three times with IsdB (20 μg per dose) formulated with amorphous aluminum hydroxyphosphate sulfate adjuvant (AAHSA) (450 μg per dose) or were sham immunized with AAHSA alone. The doses were administered as two 50-μl intramuscular injections on days 0, 7, and 21(Kuklin et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1654">Mice immunized with IsdB exhibited greater survival (45, 40, 32, 29, 40, and 40%) than the mice in the sham-immunized control group (Kuklin et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1654">35 days after vaccination, mice were challenged with an 80 to 90% lethal dose (LD80-90) of S. aureus Becker (4.9 × 10^8 to 8.7 × 10^8 CFU for BALB/c mice and 1.0 × 10^9 to 2.0 × 10^9 CFU for ICR mice), and survival was monitored for 10 days.  (Kuklin et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3149">
+		<vaccine_name>Staphylococcus aureus aroA mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002797</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramammary immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramammary immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering663" gene_id="gene878">
+			<type>Gene mutation</type>
+			<description refs="reference1643">This aroA mutant is from Staphylococcus aureus (Buzzola et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response973" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1643">An aroA mutant is attenuated in mice (Buzzola et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1643">An aroA mutant induces significant protection in mice from challenge with wild type S. aureus (Buzzola et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response90" gene_id="gene1">
+			    <description refs="reference1643">Ninety-six hours after challenge with the wild-type strain RN6390 or heterologous strain MB319, the relative mRNA levels of IFN-γ and IL-4 were determined in mammary glands by RT-PCR.  Mammary glands from mice immunized with the aroA mutant showed a significant increase in the level of IFN-γ transcripts compared with control, unvaccinated mice (Buzzola et al., 2006).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response91" gene_id="gene125">
+			    <description refs="reference1643">Ninety-six hours after challenge with the wild-type strain RN6390 or heterologous strain MB319, the relative mRNA levels of IFN-γ and IL-4 were determined in mammary glands by RT-PCR.  Mice immunized with the aroA mutant showed a significant increase in the level of IL-4 transcripts compared with control, unvaccinated mice (Buzzola et al., 2006).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene878">
+        <gene_name>aroA</gene_name>
+        <strain>Staphylococcus aureus subsp. aureus ED98</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>8614197</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>269203089</ncbi_protein_id>
+        <gene_locus_tag>SAAV_1451</gene_locus_tag>
+        <gene_refseq>CP001781</gene_refseq>
+        <protein_refseq>YP_003282358</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>681288</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1517365</gene_start>
+        <gene_end>1518663</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>3-phosphoshikimate 1-carboxyvinyltransferase</protein_name>
+        <protein_pi>4.84</protein_pi>
+        <protein_weight>44289.51</protein_weight>
+        <protein_length>432</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|269201690:1517365-1518663 Staphylococcus aureus subsp. aureus ED98, complete genome
+ATTATCCCTCATTTTCTAAAAGCTTTAGTTTTGGTAAAAATCCTGGAAATGATACATTTACAGCATCAAA
+TTGTTTGATTTTGACAGGCTCGCTTGAAAGTAGAGAAGCAACTGCAAGCATCATTCCTATTCGATGATCA
+GTTAAACTATCAACTGTTGCATTTGTTTTAAATTCTGACGGATGAATAATCAATCCATCATTAGTTGGTT
+GTAATTCAAACCCTAACAAGTTTAACATATCAGCCGTTGTATCAATTCTATTTGTTTCTTTTACTTTTAA
+TTCCTCGGCATCTTTAATTGTACTCGTGCCAACTGCTTGTGTACAAAGTAATGCTATTACAGGCAGTTCA
+TCAATTGCTTTTGGAACTAATTCTCCTTCGATTGTTATTGGTTGAAGCATTGGTGTGTATTGAATACGAA
+TAGAAGCAGTAGGTTCAGCACCAGTTGTTTGATTGAAAAGTTGGATATTACCGCCCATTTTTTCAACAAT
+ATCAATAATACCTGAACGTGTTGGATTGATTCCAACATTATGAATTGTTACATCACTTTCTGGTGTGATA
+AGTGCTGCAACAATAAAGAACGCTGCAGATGAAATATCGCCAGGAACATGAAAATCTGCAGGTTTAATAT
+GTTGAATGGCATCAGGGGTTGTAGTTATTGATAACCTTTCTGCTTCAATTGGAATATTAAAATGTCTGAA
+CATCGTCTCAGTATGATTTCGACTTACATCTAATTCCTTTATTACCGTTGTATCATTTGAAAACAAACTT
+GCAAATAAAATGGCACTTTTTACTTGTGCACTTGCAACTTCCATTTGATAATTTATACCTTTTATGACAG
+ATGGCTTAATAATTAATGGTGTATAATTATCTTCAATACCTTCAATATTCGCATCCATAAGTTTCAATGG
+TCTCAAGACACGATCCATTGGCCTTTTACCAATTGAAACATCGCCAGACAAAACACTTTCAATACCTAAA
+CCACTTAACAAACCAGCTAACAATCGAGTCGTTGTGCCAGAGTTTCCAGTATATAAAACTTGATGAGGTG
+TTTTAAAAGCTTTATATCCAGGTGAATTCACAACCAATTTATCTTCATCTTCTTTAATATCTACGCCTAA
+TAATCGGAATATATCCATTGTACGACGACAATCTTCACCAAGTAATGGTTTATAAATATTGGAAGTTCCT
+TCAGCTAAAGATGCTAACATGATTGCTCGATGTGTCATCGACTTATCTCCAGGCACTTCTATTTCACCTT
+TAAGTGGCCCTGAAATATCGATAATTTGTTCACTTACCA</dna_sequence>
+        <protein_sequence>>gi|269203089|ref|YP_003282358.1| 3-phosphoshikimate 1-carboxyvinyltransferase [Staphylococcus aureus subsp. aureus ED98]
+MVSEQIIDISGPLKGEIEVPGDKSMTHRAIMLASLAEGTSNIYKPLLGEDCRRTMDIFRLLGVDIKEDED
+KLVVNSPGYKAFKTPHQVLYTGNSGTTTRLLAGLLSGLGIESVLSGDVSIGKRPMDRVLRPLKLMDANIE
+GIEDNYTPLIIKPSVIKGINYQMEVASAQVKSAILFASLFSNDTTVIKELDVSRNHTETMFRHFNIPIEA
+ERLSITTTPDAIQHIKPADFHVPGDISSAAFFIVAALITPESDVTIHNVGINPTRSGIIDIVEKMGGNIQ
+LFNQTTGAEPTASIRIQYTPMLQPITIEGELVPKAIDELPVIALLCTQAVGTSTIKDAEELKVKETNRID
+TTADMLNLLGFELQPTNDGLIIHPSEFKTNATVDSLTDHRIGMMLAVASLLSSEPVKIKQFDAVNVSFPG
+FLPKLKLLENEG</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An aroA mutant is attenuated in mice and induced significant protection from challenge with wild type S. aureus [Ref1643:Buzzola et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene847">
+        <gene_name>ClfA</gene_name>
+        <strain>Staphylococcus aureus subsp. aureus str. Newman</strain>
+        <vo_id>VO_0012390</vo_id>
+        <ncbi_gene_id>5330438</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>151220968</ncbi_protein_id>
+        <gene_locus_tag>NWMN_0756</gene_locus_tag>
+        <gene_refseq>AP009351</gene_refseq>
+        <protein_refseq>YP_001331790</protein_refseq>
+        <pdb_id>1N67</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>426430</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>849756</gene_start>
+        <gene_end>852557</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>clumping factor A</protein_name>
+        <protein_pi>3.44</protein_pi>
+        <protein_weight>91994.79</protein_weight>
+        <protein_length>933</protein_length>
+        <protein_note>fibrinogen-binding protein A</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_009641.1:849756-852557 Staphylococcus aureus subsp. aureus str. Newman DNA, complete genome
+AATGAATATGAAGAAAAAAGAAAAACACGCAATTCGGAAAAAATCGATTGGCGTGGCTTCAGTGCTTGTA
+GGTACGTTAATCGGTTTTGGACTACTCAGCAGTAAAGAAGCAGATGCAAGTGAAAATAGTGTTACGCAAT
+CTGATAGCGCAAGTAACGAAAGCAAAAGTAATGATTCAAGTAGCGTTAGTGCTGCACCTAAAACAGACGA
+CACAAACGTGAGTGATACTAAAACATCGTCAAACACTAATAATGGCGAAACGAGTGTGGCGCAAAATCCA
+GCACAACAGGAAACGACACAATCATCATCAACAAATGCAACTACGGAAGAAACGCCGGTAACTGGTGAAG
+CTACTACTACGACAACGAATCAAGCTAATACACCGGCAACAACTCAATCAAGCAATACAAATGCGGAGGA
+ATTAGTGAATCAAACAAGTAATGAAACGACTTTTAATGATACTAATACAGTATCATCTGTAAATTCACCT
+CAAAATTCTACAAATGCGGAAAATGTTTCAACAACGCAAGATACTTCAACTGAAGCAACACCTTCAAACA
+ATGAATCAGCTCCACAGAGTACAGATGCAAGTAATAAAGATGTAGTTAATCAAGCGGTTAATACAAGTGC
+GCCTAGAATGAGAGCATTTAGTTTAGCGGCAGTAGCTGCAGATGCACCGGCAGCTGGCACAGATATTACG
+AATCAGTTGACGAATGTGACAGTTGGTATTGACTCTGGTACGACTGTGTATCCGCACCAAGCAGGTTATG
+TCAAACTGAATTATGGTTTTTCAGTGCCTAATTCTGCTGTTAAAGGTGACACATTCAAAATAACTGTACC
+TAAAGAATTAAACTTAAATGGTGTAACTTCAACTGCTAAAGTGCCACCAATTATGGCTGGAGATCAAGTA
+TTGGCAAATGGTGTAATCGATAGTGATGGTAATGTTATTTATACATTTACAGACTATGTAAATACTAAAG
+ATGATGTAAAAGCAACTTTGACCATGCCCGCTTATATTGACCCTGAAAATGTTAAAAAGACAGGTAATGT
+GACATTGGCTACTGGCATAGGTAGTACAACAGCAAACAAAACAGTATTAGTAGATTATGAAAAATATGGT
+AAGTTTTATAACTTATCTATTAAAGGTACAATTGACCAAATCGATAAAACAAATAATACGTATCGTCAGA
+CAATTTATGTCAATCCAAGTGGAGATAACGTTATTGCGCCGGTTTTAACAGGTAATTTAAAACCAAATAC
+GGATAGTAATGCATTAATAGATCAGCAAAATACAAGTATTAAAGTATATAAAGTAGATAATGCAGCTGAT
+TTATCTGAAAGTTACTTTGTGAATCCAGAAAACTTTGAGGATGTCACTAATAGTGTGAATATTACATTCC
+CAAATCCAAATCAATATAAAGTAGAGTTTAATACGCCTGATGATCAAATTACAACACCGTATATAGTAGT
+TGTTAATGGTCATATTGATCCGAATAGCAAAGGTGATTTAGCTTTACGTTCAACTTTATATGGGTATAAC
+TCGAATATAATTTGGCGCTCTATGTCATGGGACAACGAAGTAGCATTTAATAACGGATCAGGTTCTGGTG
+ACGGTATCGATAAACCAGTTGTTCCTGAACAACCTGATGAGCCTGGTGAAATTGAACCAATTCCAGAGGA
+TTCAGATTCTGACCCAGGTTCAGATTCTGGCAGCGATTCTAATTCAGATAGCGGTTCAGATTCGGGTAGT
+GATTCTACATCAGATAGTGGTTCAGATTCAGCGAGTGATTCAGATTCAGCAAGTGATTCAGACTCAGCGA
+GTGATTCAGATTCAGCAAGCGATTCCGACTCAGCGAGCGATTCCGACTCAGACAATGACTCGGATTCAGA
+TAGCGATTCTGACTCAGACAGTGACTCAGATTCCGACAGTGACTCAGATTCAGATAGCGATTCTGACTCA
+GACAGTGACTCAGATTCAGATAGCGATTCAGATTCAGATAGCGATTCAGATTCCGACAGTGATTCCGACT
+CAGACAGCGATTCTGACTCCGACAGTGATTCCGACTCAGACAGCGATTCAGATTCCGACAGTGATTCCGA
+CTCAGATAGCGATTCCGACTCAGATAGCGACTCAGATTCAGACAGCGATTCAGATTCAGACAGCGATTCA
+GATTCAGATAGCGATTCAGATTCCGACAGTGACTCAGATTCCGACAGTGACTCGGATTCAGATAGCGATT
+CAGATTCCGACAGTGACTCAGATTCCGACAGTGACTCAGACTCAGACAGTGATTCGGATTCAGCGAGTGA
+TTCGGATTCAGATAGTGATTCCGACTCCGACAGTGACTCGGATTCAGATAGCGACTCAGACTCGGATAGC
+GACTCGGATTCAGATAGCGATTCGGACTCAGATAGCGATTCAGAATCAGACAGCGATTCAGAATCAGACA
+GCGATTCAGATTCAGACAGCGACTCAGACAGTGACTCAGATTCAGATAGTGACTCGGATTCAGCGAGTGA
+TTCAGACTCAGGTAGTGACTCCGATTCATCAAGTGATTCCGACTCAGAAAGTGATTCAAATAGCGATTCC
+GAGTCAGGTTCTAACAATAATGTAGTTCCGCCTAATTCACCTAAAAATGGTACTAATGCTTCTAATAAAA
+ATGAGGCTAAAGATAGTAAAGAACCATTACCAGATACAGGTTCTGAAGATGAAGCAAATACGTCACTAAT
+TTGGGGATTATTAGCATCAATAGGTTCATTACTACTTTTCAGAAGAAAAAAAGAAAATAAAGATAAGAAA
+TA
+
+</dna_sequence>
+        <protein_sequence>>YP_001331790.1 clumping factor A [Staphylococcus aureus subsp. aureus str. Newman]
+MNMKKKEKHAIRKKSIGVASVLVGTLIGFGLLSSKEADASENSVTQSDSASNESKSNDSSSVSAAPKTDD
+TNVSDTKTSSNTNNGETSVAQNPAQQETTQSSSTNATTEETPVTGEATTTTTNQANTPATTQSSNTNAEE
+LVNQTSNETTFNDTNTVSSVNSPQNSTNAENVSTTQDTSTEATPSNNESAPQSTDASNKDVVNQAVNTSA
+PRMRAFSLAAVAADAPAAGTDITNQLTNVTVGIDSGTTVYPHQAGYVKLNYGFSVPNSAVKGDTFKITVP
+KELNLNGVTSTAKVPPIMAGDQVLANGVIDSDGNVIYTFTDYVNTKDDVKATLTMPAYIDPENVKKTGNV
+TLATGIGSTTANKTVLVDYEKYGKFYNLSIKGTIDQIDKTNNTYRQTIYVNPSGDNVIAPVLTGNLKPNT
+DSNALIDQQNTSIKVYKVDNAADLSESYFVNPENFEDVTNSVNITFPNPNQYKVEFNTPDDQITTPYIVV
+VNGHIDPNSKGDLALRSTLYGYNSNIIWRSMSWDNEVAFNNGSGSGDGIDKPVVPEQPDEPGEIEPIPED
+SDSDPGSDSGSDSNSDSGSDSGSDSTSDSGSDSASDSDSASDSDSASDSDSASDSDSASDSDSDNDSDSD
+SDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSD
+SDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSASD
+SDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSDSESDSDSESDSDSDSDSDSDSDSDSDSDSDSASD
+SDSGSDSDSSSDSDSESDSNSDSESGSNNNVVPPNSPKNGTNASNKNEAKDSKEPLPDTGSEDEANTSLI
+WGLLASIGSLLLFRRKKENKDKK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with recombinant ClfA and challenged with S. aureus developed less-severe arthritis than did mice immunized with a control antigen [Ref1503:Josefsson et al., 2001].
+full-length ClfA N123 is required for maximal protection both locally and systemically.[Ref4941:Lacey et al., 2017]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene846">
+        <gene_name>cna</gene_name>
+        <strain>Staphylococcus aureus</strain>
+        <vo_id>VO_0012389</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>387879</ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_001039420</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAA20874.1</protein_refseq>
+        <pdb_id>2F68</pdb_id>
+        <xrefs>CDD:283410
+CDD:283411
+CDD:301706
+CDD:212461</xrefs>
+        <taxonomy_id>1280</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Cna B-type domain-containing protein</protein_name>
+        <protein_pi>6.09</protein_pi>
+        <protein_weight>124972.57</protein_weight>
+        <protein_length>1278</protein_length>
+        <protein_note>Collagen binding domain; pfam05737</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|387879|gb|M81736.1|STACNA Staphylococcus aureus collagen adhesin (cna) gene, complete cds
+ATGCACTTGTATTCGTTATACTGTATATATTTTGCATAATAAAATAATAATATGAATTTTTGATAAATTT
+CATTGAATAAGAACTAAATTAGTTTATAATTTATTATTAGTATCCTGTGGATATGACATAGAGTATAAGG
+AGGGGTTTTTATGAACAAAAATGTGTTGAAGTTTATGGTCTTTATAATGTTATTAAATATCATCACACCT
+TTATTTAATAAAAATGAAGCATTTGCAGCACGAGATATTTCATCAACGAATGTTACAGATTTAACTGTAT
+CACCGTCTAAGATAGAAGATGGTGGTAAAACGACAGTAAAAATGACGTTCGACGATAAAAATGGAAAAAT
+ACAAAATGGTGACATGATTAAAGTGGCATGGCCGACAAGCGGTACAGTAAAGATAGAGGGTTATAGTAAA
+ACAGTACCATTAACTGTTAAAGGTGAACAGGTGGGTCAAGCAGTTATTACACCAGACGGTGCAACAATTA
+CATTCAATGATAAAGTAGAAAAATTAAGTGATGTTTCGGGATTTGCAGAATTTGAAGTACAAGGAAGAAA
+TTTAACGCAAACAAATACTTCAGATGACAAAGTAGCTACGATAACATCTGGGAATAAATCAACGAATGTT
+ACGGTTCATAAAAGTGAAGCGGGAACAAGTAGTGTTTTCTATTATAAAACGGGAGATATGCTACCAGAAG
+ATACGACACATGTACGATGGTTTTTAAATATTAACAATGAAAAAAGTTATGTATCGAAAGATATTACTAT
+AAAGGATCAGATTCAAGGTGGACAGCAGTTAGATTTAAGCACATTAAACATTAATGTGACAGGTACACAT
+AGCAATTATTATAGTGGACAAAGTGCAATTACTGATTTTGAAAAAGCCTTTCCAGGTTCTAAAATAACTG
+TTGATAATACGAAGAACACAATTGATGTAACAATTCCACAAGGCTATGGGTCATATAATAGTTTTTCAAT
+TAACTACAAAACCAAAATTACGAATGAACAGCAAAAAGAGTTTGTTAATAATTCACAAGCTTGGTATCAA
+GAGCATGGTAAGGAAGAAGTGAACGGGAAATCATTTAATCATACTGTGCACAATATTAATGCTAATGCCG
+GTATTGAAGGTACTGTAAAAGGTGAATTAAAAGTTTTAAAACAGGATAAAGATACCAAGGCTCCTATAGC
+TAATGTAAAATTTAAACTTTCTAAAAAAGATGGATCAGTTGTAAAGGACAATCAAAAAGAAATTGAGATT
+ATAACAGATGCAAACGGTATTGCTAATATTAAAGCGTTGCCTAGTGGAGACTATATTTTAAAAGAAATAG
+AGGCGCCACGACCGTATACATTTGATAAGGATAAAGAATATCCGTTTACTATGAAAGATACAGATAATCA
+GGGATATTTTACGACTATTGAAAATGCAAAAGCGATAGAAAAAACAAAAGATGTTTCTGCTCAAAAGGTT
+TGGGAAGGCACTCAAAAAGTGAAACCAACGATTTATTTCAAGTTGTACAAACAAGATGACAATCAAAATA
+CAACACCAGTAGACAAAGCAGAGATTAAAAAATTAGAAGATGGAACGACAAAAGTGACATGGTCTAATCT
+TCCGGAAAATGACAAAAATGGCAAGGCTATTAAATATTTAGTTAAAGAAGTAAATGCTCAAGGTGAAGAT
+ACAACACCAGAAGGATATACTAAAAAAGAAAATGGTTTAGTGGTTACTAATACTGAAAAACCAATCGAAA
+CAACATCAATTAGTGGTGAAAAAGTATGGGACGACAAAGACAATCAAGATGGTAAGAGACCAGAAAAAGT
+CAGTGTGAATTTATTGGCTAACGGGGAGAAAGTAAAAACGTTAGACGTGACATCTGAAACAAACTGGAAG
+TACGAATTTAAAGACTTACCGAAGTATGATGAAGGAAAGAAAATAGAATATACAGTGACCGAAGATCACG
+TAAAAGACTACACAACAGACATCAACGGTACGACAATAACGAACAAGTATACACCAGGAGAGACATCGGC
+AACAGTAACAAAAAATTGGGATGACAATAATAACCAAGACGGAAAACGACCAACTGAAATCAAAGTTGAG
+TTATATCAAGATGGAAAAGCAACAGGAAAAACGGCAATATTAAATGAATCTAATAACTGGACACATACGT
+GGACAGGATTAGATGAAAAAGCAAAAGGACAACAAGTAAAATACACAGTCGAGGAATTAACAAAGGTCAA
+AGGTTATACAACACATGTGGATAACAATGATATGGGTAACTTGATTGTGACGAATAAATATACGCCAGAA
+ACAACATCAATTAGTGGTGAAAAAGTATGGGACGACAAAGACAATCAAGATGGTAAGAGACCAGAAAAAG
+TCAGTGTGAATTTATTGGCTGATGGAGAGAAAGTAAAAACGTTAGACGTGACATCTGAAACAAACTGGAA
+GTACGAATTTAAAGACTTACCGAAGTATGATGAAGGAAAGAAAATAGAATATACAGTGACCGAAGATCAC
+GTAAAAGACTACACAACAGACATCAACGGTACGACAATAACGAACAAGTATACACCAGGAGAGACATCGG
+CAACAGTAACAAAAAATTGGGATGACAATAATAACCAAGACGGAAAACGACCAACTGAAATCAAAGTTGA
+GTTATATCAAGATGGAAAAGCAACAGGAAAAACGGCAATATTAAATGAATCTAATAACTGGACACATACG
+TGGACAGGATTAGATGAAAAAGCAAAAGGACAACAAGTAAAATACACAGTCGAGGAATTAACAAAGGTCA
+AAGGTTATACAACACATGTGGATAACAATGATATGGGCAACTTGATTGTGACGAATAAATATACGCCAGA
+AACAACATCAATTAGTGGTGAAAAAGTATGGGACGACAAAGACAATCAAGATGGTAAGAGACCAGAAAAA
+GTCAGTGTGAATTTATTGGCTAACGGAGAGAAAGTAAAAACGTTAGACGTGACATCTGAAACAAACTGGA
+AGTACGAATTTAAAGACTTACCGAAGTATGATGAAGGAAAGAAAATAGAATATACAGTGACCGAAGATCA
+CGTAAAAGACTACACAACAGACATCAACGGTACGACAATAACGAACAAGTATACACCAGGAGAGACATCG
+GCAACAGTAACAAAAAATTGGGATGACAATAATAACCAAGACGGAAAACGACCAACTGAAATCAAAGTTG
+AGTTATATCAAGATGGAAAAGCAACAGGAAAAACGGCAATATTAAATGAATCTAATAACTGGACACATAC
+GTGGACAGGATTAGATGAAAAAGCAAAAGGACAACAAGTAAAATACACAGTCGATGAATTAACAAAAGTT
+AATGGCTATACAACGCATGTGGATAACAATGATATGGGTAACTTGATTGTGACAAATAAATATACGCCGA
+AAAAACCGAATAAACCAATCTATCCTGAAAAACCAAAAGACAAAACACCACCAACTAAACCTGATCATTC
+TAATAAAGTTAAACCAACTCCCCCAGATAAGCCATCAAAAGTGGATAAGGATGATCAACCTAAAGATAAT
+AAAACCAAACCTGAAAATCCTCTAAAAGAATTACCAAAAACTGGTATGAAGATTATAACTTCATGGATTA
+CATGGGTATTTATAGGTATATTGGGACTGTATTTAATTTTAAGAAAAAGATTTAACTCATAAACCATTAT
+AATTATTTTTATAGATAAGGCTATTCTTAGTTCTATGTATAATACATGTATATTAATAGGTCACTTTTAA
+TCTGTATGTAAGCAGACTAAGAGTGGCCTTTTAAACAAATAAAAAAA</dna_sequence>
+        <protein_sequence>>WP_001039420.1 Cna B-type domain-containing protein [Staphylococcus aureus]
+MNKNVLKFMVFIMLLNIITPLFNKNEALAARDISSTNVTDLTVSPTKIEDGGKTTVKMTFDDKSVKIQNG
+DTIKVAWPTSGTVKIEGYSKTVPLTVKGEQVGQAVITPDGATITFNDKVEKLSDVSGFAEFEVQGRNLTQ
+TNTSDDKVATITSGNKSTNVTVHKSEAGTSSVFYYKTGDMLPEDTTHVRWFLNINNEKRYVSKDITIKDQ
+IQGGQQLDLSTLNINVTGTHSNYYSGSNAITDFEKAFPGSKITVDNTKNTIDVTIPQGYGSYNSFSINYK
+TKITNEQQKEFVNNSQAWYQEHGKEEVNGKSFNHTVHNINANAGIEGTVKGELKVLKQDKDTKAPIANVK
+FKLSKKDGSVVKDNQKEIEIITDANGTANIKALPSGDYILKEIEAPAPYTFDKDKEYPFTMKDTDNQGYF
+TTIENAKEIEKTKDVSAQKVWEGTQKVKPTIYFKLYKQDDNQNTTPVDKAEIKKLEDGTTKVTWSNLPEN
+DKNGKTIKYLVKEVNAQGEDTTPEGYTKKENGLVVTNTEKPIETTSISGEKVWDDKDNQDGKRPEKVSVN
+LLANGEKVKTLDVTSETNWKYEFKNLPKYDEGKKIEYTVTEDHVKDYTTDINGTTITNKYTPGETSATVT
+KNWDDNNNQDGKRPTEIKVELYQDGKATGKTATLNESNNWTHTWAGLDEKAKGQQVKYTVEELTKVKGYT
+THVDNNDMGNLIVTNKYTPETTSISGEKVWDDKDNQDGKRPEKVSVNLLANGEKVKAVDVTSETNWKYEF
+KDLPKYDEGKKIEYTVTEDHVKDYTTDINGTTITNKYTPGETSATVTKNWDDNNNQDGKRPTEIKVELYQ
+DGKATGKTAKLNESNNWTHTWTGLDEKAKGQQVKYTVEELTKVKGYTTHVDNNDMGNLIVTNKYTPETTS
+INGEKVWDDKDNQDGKRPEKVSINLLANGEKVKTLDVTSETNWKYEFKDLPKYDEGKKIEYTVTEDHVKD
+YTTDINGTTITNKYTPGETSATVTKNWDDNNNQDGKRPTEIKVELYQDGKATGKTATLNESNNWTHTWAG
+LDEKAKGQQVKYTVEELTKVKGYTTHVDNNDMGNLIVTNKYTPEKPNKPIYPEKPKDKTPPTKPDHSNKV
+KPTPPDKPSKVDKDDQPKDNKTKPENPLKELPKTGMKIITSWITWVFIGILGLYLILRKRFNS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice were immunized with a recombinant fragment of CNA protein, and were then challenged  with the S. aureus clinical isolate strain Phillips. At 14 d after inoculation, mortality in the collagen adhesin-vaccinated group was only 13%, compared with 87% in the control antigen immunized group [Ref1502:Nilsson et al., 1998].
+Mice vaccinated with a combination of two Staphylococcus aureus antigens consisting of a recombinant collagen-binding protein (CnBP) and alpha-toxoid (alpha-toxoid) were significantly protected from intramammary challenge infection with S. aureus.[Ref4731:Mamo et al., 2000]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1732">
+        <gene_name>efb</gene_name>
+        <strain>Staphylococcus aureus subsp. aureus VRS11b</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>387748005</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:192953</xrefs>
+        <taxonomy_id>1116225</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>extracellular fibrinogen-binding protein Efb</protein_name>
+        <protein_pi>10.45</protein_pi>
+        <protein_weight>18630.02</protein_weight>
+        <protein_length>271</protein_length>
+        <protein_note>Extracellular fibrinogen binding protein C terminal; pfam12199</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>EIK34704.1 extracellular fibrinogen-binding protein Efb [Staphylococcus aureus subsp. aureus VRS11b]
+MKNKLIAKSLLTIAAIGITTTTIASTADASEGYGPREKKPVSINHNIVEYNDGTFKYQSRPKFNSTPKYI
+KFKHDYNILEFNDGTFEYGARPQFNKPAAKTDATIKKEQKLIQAQNLVREFEKTHTVSAHRKAQKAVNLV
+SFEYKVKKMVLQERIDNVLKQGLVR
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene849">
+        <gene_name>fnbA</gene_name>
+        <strain>Staphylococcus aureus subsp. aureus NCTC 8325</strain>
+        <vo_id>VO_0012392</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>120457</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:309682
+CDD:331378
+CDD:313621
+CDD:308566
+CDD:307064</xrefs>
+        <taxonomy_id>93061</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Fibronectin-binding protein A</protein_name>
+        <protein_pi>4.36</protein_pi>
+        <protein_weight>105986.3</protein_weight>
+        <protein_length>1133</protein_length>
+        <protein_note>FnbpA</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|P14738.1|FNBA_STAA8 RecName: Full=Fibronectin-binding protein A; Short=FnbpA; Flags: Precursor
+MKNNLRYGIRKHKLGAASVFLGTMIVVGMGQDKEAAASEQKTTTVEENGNSATDNKTSETQTTATNVNHI
+EETQSYNATVTEQPSNATQVTTEEAPKAVQAPQTAQPANIETVKEEVVKEEAKPQVKETTQSQDNSGDQR
+QVDLTPKKATQNQVAETQVEVAQPRTASESKPRVTRSADVAEAKEASNAKVETGTDVTSKVTVEIGSIEG
+HNNTNKVEPHAGQRAVLKYKLKFENGLHQGDYFDFTLSNNVNTHGVSTARKVPEIKNGSVVMATGEVLEG
+GKIRYTFTNDIEDKVDVTAELEINLFIDPKTVQTNGNQTITSTLNEEQTSKELDVKYKDGIGNYYANLNG
+SIETFNKANNRFSHVAFIKPNNGKTTSVTVTGTLMKGSNQNGNQPKVRIFEYLGNNEDIAKSVYANTTDT
+SKFKEVTSNMSGNLNLQNNGSYSLNIENLDKTYVVHYDGEYLNGTDEVDFRTQMVGHPEQLYKYYYDRGY
+TLTWDNGLVLYSNKANGNEKNGPIIQNNKFEYKEDTIKETLTGQYDKNLVTTVEEEYDSSTLDIDYHTAI
+DGGGGYVDGYIETIEETDSSAIDIDYHTAVDSEAGHVGGYTESSEESNPIDFEESTHENSKHHADVVEYE
+EDTNPGGGQVTTESNLVEFDEESTKGIVTGAVSDHTTVEDTKEYTTESNLIELVDELPEEHGQAQGPVEE
+ITKNNHHISHSGLGTENGHGNYDVIEEIEENSHVDIKSELGYEGGQNSGNQSFEEDTEEDKPKYEQGGNI
+VDIDFDSVPQIHGQNKGNQSFEEDTEKDKPKYEHGGNIIDIDFDSVPHIHGFNKHTEIIEEDTNKDKPSY
+QFGGHNSVDFEEDTLPKVSGQNEGQQTIEEDTTPPIVPPTPPTPEVPSEPETPTPPTPEVPSEPETPTPP
+TPEVPSEPETPTPPTPEVPAEPGKPVPPAKEEPKKPSKPVEQGKVVTPVIEINEKVKAVAPTKKPQSKKS
+ELPETGGEESTNKGMLFGGLFSILGLALLRRNKKNHKA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice were immunized with fusion proteins encompassing the fibronectin-binding domain of a staphylococcal fibronectin-binding protein (FnBP-A). Vaccination of mice with recombinant FnBP resulted in significant protection against challenge with S. aureus [Ref1505:Mamo et al., 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene125">
+        <gene_name>Il4 (interleukin 4)</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16189</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>10946584</ncbi_protein_id>
+        <gene_locus_tag>RP23-188H3.4</gene_locus_tag>
+        <gene_refseq>NM_021283.1</gene_refseq>
+        <protein_refseq>NM_021283.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IL-4, Interleukin 4</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|10946583|ref|NM_021283.1| Mus musculus interleukin 4 (Il4), mRNA
+GGATCCCCGGGCAGAGCTGGGGGGGGATTTGTTAGCATCTCTTGATAAACTTAATTGTCTCTCGTCACTG
+ACGGCACAGAGCTATTGATGGGTCTCAACCCCCAGCTAGTTGTCATCCTGCTCTTCTTTCTCGAATGTAC
+CAGGAGCCATATCCACGGATGCGACAAAAATCACTTGAGAGAGATCATCGGCATTTTGAACGAGGTCACA
+GGAGAAGGGACGCCATGCACGGAGATGGATGTGCCAAACGTCCTCACAGCAACGAAGAACACCACAGAGA
+GTGAGCTCGTCTGTAGGGCTTCCAAGGTGCTTCGCATATTTTATTTAAAACATGGGAAAACTCCATGCTT
+GAAGAAGAACTCTAGTGTTCTCATGGAGCTGCAGAGACTCTTTCGGGCTTTTCGATGCCTGGATTCATCG
+ATAAGCTGCACCATGAATGAGTCCAAGTCCACATCACTGAAAGACTTCCTGGAAAGCCTAAAGAGCATCA
+TGCAAATGGATTACTCGTAGTACTGAGCCACCATGCTTTAACTTATGAATTTTTAATGGTTTTATTTTAA
+TATTTATATATTTATAATTCATAAAATAAAATATTTGTATAATGT</dna_sequence>
+        <protein_sequence>>gi|10946584|ref|NP_067258.1| interleukin 4 [Mus musculus]
+MGLNPQLVVILLFFLECTRSHIHGCDKNHLREIIGILNEVTGEGTPCTEMDVPNVLTATKNTTESELVCR
+ASKVLRIFYLKHGKTPCLKKNSSVLMELQRLFRAFRCLDSSISCTMNESKSTSLKDFLESLKSIMQMDYS</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation>IL-4 plays an important role in Th2 immune response.</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene848">
+        <gene_name>MecA</gene_name>
+        <strain>Staphylococcus aureus subsp. aureus MRSA252</strain>
+        <vo_id>VO_0012391</vo_id>
+        <ncbi_gene_id>2861157</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>49482291</ncbi_protein_id>
+        <gene_locus_tag>SAR0039</gene_locus_tag>
+        <gene_refseq>BX571856</gene_refseq>
+        <protein_refseq>YP_039515</protein_refseq>
+        <pdb_id>1VQQ</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>282458</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>44918</gene_start>
+        <gene_end>46924</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>penicillin-binding protein 2 prime</protein_name>
+        <protein_pi>9.19</protein_pi>
+        <protein_weight>72330.63</protein_weight>
+        <protein_length>668</protein_length>
+        <protein_note>Identical to Staphylococcus epidermidis, and Staphylococcus aureus penicillin-binding protein 2 prime MecA TR:Q54113 (EMBL:X52592) (668 aa) fasta scores: E(): 0, 100.000% id in 668 aa, and to Staphylococcus sciuri methicillin resistanc protein MecA2 TR:O54283 (EMBL:Y13095) (668 aa) fasta scores: E(): 0, 99.102% id in 668 aa</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002952.2:44918-46924 Staphylococcus aureus subsp. aureus strain MRSA252, complete genome
+GTTATTCATCTATATCGTATTTTTTATTACCGTTCTCATATAGCTCATCATACACTTTACCTGAGATTTT
+GGCATTGTAGCTAGCCATTCCTTTATCTTGTACATCTTTAACATTAATAGCCATCATCATGTTTGGATTA
+TCTTTATCATATGATATAAACCACCCAATTTGTCTGCCAGTTTCTCCTTGTTTCATTTTGAGTTCTGCAG
+TACCGGATTTGCCAATTAAGTTTGCATAAGATCTATAAATATCTTCTTTATGTGTTTTATTTACGACTTG
+TTGCATACCATCAGTTAATAGATTGATATTTTCTTTGGAAATAATATTTTTCTTCCAAACTTTGTTTTTC
+GTGTCTTTTAATAAGTGAGGTGCGTTAATATTGCCATTATTTTCTAATGCGCTATAGATTGAAAGGATCT
+GTACTGGGTTAATCAGTATTTCACCTTGTCCGTAACCTGAATCAGCTAATAATATTTCATTATCTAAATT
+TTTGTTTGAAATTTGAGCATTATAAAATGGATAATCACTTGGTATATCTTCACCAACACCTAGTTTTTTC
+ATGCCTTTTTCAAATTTCTTACTGCCTAATTCGAGTGCTACTCTAGCAAAGAAAATGTTATCTGATGATT
+CTATTGCTTGTTTTAAGTCGATATTACCATTTACCACTTCATATCTTGTAACGTTGTAACCACCCCAAGA
+TTTATCTTTTTGCCAACCTTTACCATCGATTTTATAACTTGTTTTATCGTCTAATGTTTTGTTATTTAAC
+CCAATCATTGCTGTTAATATTTTTTGAGTTGAACCTGGTGAAGTTGTAATCTGGAACTTGTTGAGCAGAG
+GTTCTTTTTTATCTTCGGTTAATTTATTATATTCTTCGTTACTCATGCCATACATAAATGGATAGACGTC
+ATATGAAGGTGTGCTTACAAGTGCTAATAATTCACCTGTTTGAGGGTGGATAGCAGTACCTGAGCCATAA
+TCATTTTTCATGTTGTTATAAATACTCTTTTGAACTTTAGCATCAATAGTTAGTTGAATATCTTTGCCAT
+CTTTTTTCTTTTTCTCTATTAATGTATGTGCGATTGTATTGCTATTATCGTCAACGATTGTGACACGATA
+GCCATCTTCATGTTGGAGCTTTTTATCGTAAAGTTTTTCGAGTCCCTTTTTACCAATAACTGCATCATCT
+TTATAGCCTTTATATTCTTTTTGTTTTAATTCTTCAGAGTTAATGGGACCAACATAACCTAATAGATGTG
+AAGTCGCTTTTCCTAGAGGATAGTTACGACTTTCTGTTTCATTAGTTGTAAGATGAAATTTTTTTGCGAA
+ATCACTTAAATATTCATCCATTTTTTTAACGGTTTTAAGTGGAACGAAGGTATCATCTTGTACCCAATTT
+TGATCCATTTGTTGTTTGATATAGTCTTCAGAAATACTTAGTTCTTTAGCGATTGCTTTATAATCTTTTT
+TAGATACATTCTTTGGAACGATGCCTATCTCATATGCTGTTCCTGTATTGGCCAATTCCACATTGTTTCG
+GTCTAAAATTTTACCACGTTCTGATTTTAAATTTTCAATATGTATGCTTTGGTCTTTCTGCATTCCTGGA
+ATAATGACGCTATGATCCCAATCTAACTTCCACATACCATCTTCTTTAACAAAATTAAATTGAACGTTGC
+GATCAATGTTACCGTAGTTTGTTTTAATTTTATATTGAGCATCTACTCGTTTTTTATTTTTAGATACTTT
+TTTTATTTTACGATCCTGAATGTTTATATCTTTAACGCCTAAACTATTATATATTTTTATCGGACGTTCA
+GTCATTTCTACTTCACCATTATCGCTTTTAGAAATATAACTGCTATCTTTATAAACTTGTTTGAAATTTT
+TATCTTCAATTGCATCAATAGTATTATTAATTTCTTTATCTTTTGAAGCATAAAAATATATACCAAACCC
+GACAACTACAACTATTAAAATAAGTGGAACAATTTTTATCTTTTTCA
+
+</dna_sequence>
+        <protein_sequence>>YP_039515.1 penicillin-binding protein 2 prime [Staphylococcus aureus subsp. aureus MRSA252]
+MKKIKIVPLILIVVVVGFGIYFYASKDKEINNTIDAIEDKNFKQVYKDSSYISKSDNGEVEMTERPIKIY
+NSLGVKDINIQDRKIKKVSKNKKRVDAQYKIKTNYGNIDRNVQFNFVKEDGMWKLDWDHSVIIPGMQKDQ
+SIHIENLKSERGKILDRNNVELANTGTAYEIGIVPKNVSKKDYKAIAKELSISEDYIKQQMDQNWVQDDT
+FVPLKTVKKMDEYLSDFAKKFHLTTNETESRNYPLGKATSHLLGYVGPINSEELKQKEYKGYKDDAVIGK
+KGLEKLYDKKLQHEDGYRVTIVDDNSNTIAHTLIEKKKKDGKDIQLTIDAKVQKSIYNNMKNDYGSGTAI
+HPQTGELLALVSTPSYDVYPFMYGMSNEEYNKLTEDKKEPLLNKFQITTSPGSTQKILTAMIGLNNKTLD
+DKTSYKIDGKGWQKDKSWGGYNVTRYEVVNGNIDLKQAIESSDNIFFARVALELGSKKFEKGMKKLGVGE
+DIPSDYPFYNAQISNKNLDNEILLADSGYGQGEILINPVQILSIYSALENNGNINAPHLLKDTKNKVWKK
+NIISKENINLLTDGMQQVVNKTHKEDIYRSYANLIGKSGTAELKMKQGETGRQIGWFISYDKDNPNMMMA
+INVKDVQDKGMASYNAKISGKVYDELYENGNKKYDIDE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>An internal region from the transpeptidase domain from the PBP2a (encoded by mecA) was cloned into a mammalian expression vector, to be used as DNA vaccine in a Murine model. After three sets of DNA vaccination, the immune response represented by antibodies against a fragment of PBP2a was evaluated by enzyme linked immunosorbent assay (ELISA), showing a significant antibody response. The antibacterial effect of the DNA vaccine was evaluated by intraperitoneal immunization and challenge with a sublethal dose of MRSA for 7 days in mice. After the challenge, the number of bacteria from kidneys from immunized and non-immunized mice were determined. Kidneys from immunized mice had 1000 times less on bacteria than the positive controls (non-immunized mice) [Ref1504:Senna et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4872">
+		<reference_name>Bagnoli et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bagnoli F, Fontana MR, Soldaini E, Mishra RP, Fiaschi L, Cartocci E, Nardi-Dei V, Ruggiero P, Nosari S, De Falco MG, Lofano G, Marchi S, Galletti B, Mariotti P, Bacconi M, Torre A, Maccari S, Scarselli M, Rinaudo CD, Inoshima N, Savino S, Mori E, Rossi-Paccani S, Baudner B, Pallaoro M, Swennen E, Petracca R, Brettoni C, Liberatori S, Norais N, Monaci E, Bubeck Wardenburg J, Schneewind O, O'Hagan DT, Valiante NM, Bensi G, Bertholet S, De Gregorio E, Rappuoli R, Grandi G</authors>
+		<title>Vaccine composition formulated with a novel TLR7-dependent adjuvant induces high and broad protection against Staphylococcus aureus</title>
+		<year>2015</year>
+		<volume>112</volume>
+		<issue>12</issue>
+		<pages>3680-3685</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1643">
+		<reference_name>Buzzola et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Buzzola FR, Barbagelata MS, Caccuri RL, Sordelli DO</authors>
+		<title>Attenuation and persistence of and ability to induce protective immunity to a Staphylococcus aureus aroA mutant in mice</title>
+		<year>2006</year>
+		<volume>74</volume>
+		<issue>6</issue>
+		<pages>3498-3506</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2661">
+		<reference_name>Castagliuolo et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Castagliuolo I, Piccinini R, Beggiao E, PalÃ¹ G, Mengoli C, Ditadi F, Vicenzoni G, Zecconi A</authors>
+		<title>Mucosal genetic immunization against four adhesins protects against Staphylococcus aureus-induced mastitis in mice</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>20</issue>
+		<pages>4393-4402</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4866">
+		<reference_name>Clarke et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Clarke SR, Brummell KJ, Horsburgh MJ, McDowell PW, Mohamad SA, Stapleton MR, Acevedo J, Read RC, Day NP, Peacock SJ, Mond JJ, Kokai-Kun JF, Foster SJ</authors>
+		<title>Identification of in vivo-expressed antigens of Staphylococcus aureus and their use in vaccinations for protection against nasal carriage</title>
+		<year>2006</year>
+		<volume>193</volume>
+		<issue>8</issue>
+		<pages>1098-1108</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4884">
+		<reference_name>Cui et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cui JC, Hu DL, Lin YC, Qian AD, Nakane A</authors>
+		<title>Immunization with glutathione S-transferase and mutant toxic shock syndrome toxin 1 fusion protein protects against Staphylococcus aureus infection</title>
+		<year>2005</year>
+		<volume>45</volume>
+		<issue>1</issue>
+		<pages>45-51</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4939">
+		<reference_name>Delfani et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Delfani S, Mohabati Mobarez A, Imani Fooladi AA, Amani J, Emaneini M</authors>
+		<title>Protection of mice against Staphylococcus aureus infection by a recombinant protein ClfA-IsdB-Hlg as a vaccine candidate</title>
+		<year>2016</year>
+		<volume>205</volume>
+		<issue>1</issue>
+		<pages>47-55</pages>
+		<journal_book_name>Medical microbiology and immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2660">
+		<reference_name>Gaudreau et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gaudreau MC, Lacasse P, Talbot BG</authors>
+		<title>Protective immune responses to a multi-gene DNA vaccine against Staphylococcus aureus</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>5</issue>
+		<pages>814-824</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1653">
+		<reference_name>Harro et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Harro C, Betts R, Orenstein W, Kwak EJ, Greenberg HE, Onorato MT, Hartzel J, Lipka J, DiNubile MJ, Kartsonis N</authors>
+		<title>Safety and immunogenicity of a novel Staphylococcus aureus vaccine: results from the first study of the vaccine dose range in humans</title>
+		<year>2010</year>
+		<volume>17</volume>
+		<issue>12</issue>
+		<pages>1868-1874</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1503">
+		<reference_name>Josefsson et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Josefsson E, Hartford O, O'Brien L, Patti JM, Foster T</authors>
+		<title>Protection against experimental Staphylococcus aureus arthritis by vaccination with clumping factor A, a novel virulence determinant</title>
+		<year>2001</year>
+		<volume>184</volume>
+		<issue>12</issue>
+		<pages>1572-1580</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4787">
+		<reference_name>Karauzum et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Karauzum H, Adhikari RP, Sarwar J, Devi VS, Abaandou L, Haudenschild C, Mahmoudieh M, Boroun AR, Vu H, Nguyen T, Warfield KL, Shulenin S, Aman MJ</authors>
+		<title>Structurally designed attenuated subunit vaccines for S. aureus LukS-PV and LukF-PV confer protection in a mouse bacteremia model</title>
+		<year>2013</year>
+		<volume>8</volume>
+		<issue>6</issue>
+		<pages>e65384</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4889">
+		<reference_name>Kuipers et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kuipers A, Stapels DA, Weerwind LT, Ko YP, Ruyken M, Lee JC, van Kessel KP, Rooijakkers SH</authors>
+		<title>The Staphylococcus aureus polysaccharide capsule and Efb-dependent fibrinogen shield act in concert to protect against phagocytosis</title>
+		<year>2016</year>
+		<volume>162</volume>
+		<issue>7</issue>
+		<pages>1185-1194</pages>
+		<journal_book_name>Microbiology (Reading, England)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1654">
+		<reference_name>Kuklin et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kuklin NA, Clark DJ, Secore S, Cook J, Cope LD, McNeely T, Noble L, Brown MJ, Zorman JK, Wang XM, Pancari G, Fan H, Isett K, Burgess B, Bryan J, Brownlow M, George H, Meinz M, Liddell ME, Kelly R, Schultz L, Montgomery D, Onishi J, Losada M, Martin M, Ebert T, Tan CY, Schofield TL, Nagy E, Meineke A, Joyce JG, Kurtz MB, Caulfield MJ, Jansen KU, McClements W, Anderson AS</authors>
+		<title>A novel Staphylococcus aureus vaccine: iron surface determinant B induces rapid antibody responses in rhesus macaques and specific increased survival in a murine S. aureus sepsis model</title>
+		<year>2006</year>
+		<volume>74</volume>
+		<issue>4</issue>
+		<pages>2215-2223</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4941">
+		<reference_name>Lacey et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lacey KA, Leech JM, Lalor SJ, McCormack N, Geoghegan JA, McLoughlin RM</authors>
+		<title>The Staphylococcus aureus Cell Wall-Anchored Protein Clumping Factor A Is an Important T Cell Antigen</title>
+		<year>2017</year>
+		<volume>85</volume>
+		<issue>12</issue>
+		<pages></pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1505">
+		<reference_name>Mamo et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mamo W, Jonsson P, Flock JI, Lindberg M, Müller HP, Wadström T, Nelson L</authors>
+		<title>Vaccination against Staphylococcus aureus mastitis: immunological response of mice vaccinated with fibronectin-binding protein (FnBP-A) to challenge with S. aureus</title>
+		<year>1994</year>
+		<volume>12</volume>
+		<issue>11</issue>
+		<pages>988-992</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4731">
+		<reference_name>Mamo et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mamo W, Fr�man G, M�ller HP</authors>
+		<title>Protection induced in mice vaccinated with recombinant collagen-binding protein (CnBP) and alpha-toxoid against intramammary infection with Staphylococcus aureus</title>
+		<year>2000</year>
+		<volume>44</volume>
+		<issue>5</issue>
+		<pages>381-384</pages>
+		<journal_book_name>Microbiology and immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4853">
+		<reference_name>Narita et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Narita K, Hu DL, Asano K, Nakane A</authors>
+		<title>Vaccination with non-toxic mutant toxic shock syndrome toxin-1 induces IL-17-dependent protection against Staphylococcus aureus infection</title>
+		<year>2015</year>
+		<volume>73</volume>
+		<issue>4</issue>
+		<pages></pages>
+		<journal_book_name>Pathogens and disease</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1502">
+		<reference_name>Nilsson et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nilsson IM, Patti JM, Bremell T, Höök M, Tarkowski A</authors>
+		<title>Vaccination with a recombinant fragment of collagen adhesin provides protection against Staphylococcus aureus-mediated septic death</title>
+		<year>1998</year>
+		<volume>101</volume>
+		<issue>12</issue>
+		<pages>2640-2649</pages>
+		<journal_book_name>The Journal of clinical investigation</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4774">
+		<reference_name>Nilsson et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nilsson IM, Verdrengh M, Ulrich RG, Bavari S, Tarkowski A</authors>
+		<title>Protection against Staphylococcus aureus sepsis by vaccination with recombinant staphylococcal enterotoxin A devoid of superantigenicity</title>
+		<year>1999</year>
+		<volume>180</volume>
+		<issue>4</issue>
+		<pages>1370-1373</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4945">
+		<reference_name>Pozzi et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pozzi C, Lofano G, Mancini F, Soldaini E, Speziale P, De Gregorio E, Rappuoli R, Bertholet S, Grandi G, Bagnoli F</authors>
+		<title>Phagocyte subsets and lymphocyte clonal deletion behind ineffective immune response to Staphylococcus aureus</title>
+		<year>2015</year>
+		<volume>39</volume>
+		<issue>5</issue>
+		<pages>750-763</pages>
+		<journal_book_name>FEMS microbiology reviews</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4747">
+		<reference_name>Rauch et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rauch S, Gough P, Kim HK, Schneewind O, Missiakas D</authors>
+		<title>Vaccine protection of leukopenic mice against Staphylococcus aureus bloodstream infection</title>
+		<year>2014</year>
+		<volume>82</volume>
+		<issue>11</issue>
+		<pages>4889-4898</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4720">
+		<reference_name>Reddy et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Reddy PN, Paul S, Sripathy MH, Batra HV</authors>
+		<title>Evaluation of recombinant SEA-TSST fusion toxoid for protection against superantigen induced toxicity in mouse model</title>
+		<year>2015</year>
+		<volume>103</volume>
+		<issue></issue>
+		<pages>106-113</pages>
+		<journal_book_name>Toxicon : official journal of the International Society on Toxinology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1504">
+		<reference_name>Senna et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Senna JP, Roth DM, Oliveira JS, Machado DC, Santos DS</authors>
+		<title>Protective immune response against methicillin resistant Staphylococcus aureus in a murine model using a DNA vaccine approach</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>19-20</issue>
+		<pages>2661-2666</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1652">
+		<reference_name>Stranger-Jones et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Stranger-Jones YK, Bae T, Schneewind O</authors>
+		<title>Vaccine assembly from surface proteins of Staphylococcus aureus</title>
+		<year>2006</year>
+		<volume>103</volume>
+		<issue>45</issue>
+		<pages>16942-16947</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4822">
+		<reference_name>Veloso et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Veloso TR, Mancini S, Giddey M, Vouillamoz J, Que YA, Moreillon P, Entenza JM</authors>
+		<title>Vaccination against Staphylococcus aureus experimental endocarditis using recombinant Lactococcus lactis expressing ClfA or FnbpA</title>
+		<year>2015</year>
+		<volume>33</volume>
+		<issue>30</issue>
+		<pages>3512-3517</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1522">
+		<reference_name>Wiki: S. aureus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Staphylococcus aureus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Staphylococcus_aureus</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4937">
+		<reference_name>Yang et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yang HJ, Zhang JY, Wei C, Yang LY, Zuo QF, Zhuang Y, Feng YJ, Srinivas S, Zeng H, Zou QM</authors>
+		<title>Immunisation With Immunodominant Linear B Cell Epitopes Vaccine of Manganese Transport Protein C Confers Protection against Staphylococcus aureus Infection</title>
+		<year>2016</year>
+		<volume>11</volume>
+		<issue>2</issue>
+		<pages>e0149638</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4707">
+		<reference_name>Yang et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yang Y, Yu R, Yang X, Liu S, Fang T, Song X, Hou L, Yu C, Xu J, Fu L, Yi S, Chen W</authors>
+		<title>Protection against Staphylococcus aureus and tetanus infections by a combined vaccine containing SasA and TeNT?Hc in mice</title>
+		<year>2017</year>
+		<volume>15</volume>
+		<issue>4</issue>
+		<pages>2369-2373</pages>
+		<journal_book_name>Molecular medicine reports</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4868">
+		<reference_name>Yu et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu L, Fan Z, Ma J, Tong C, Song B, Zhu Z, Cui Y</authors>
+		<title>Cross-protective effect of a novel multi-antigen-chimeric vaccine against Streptococcus and Staphylococcus aureus infection in mice</title>
+		<year>2014</year>
+		<volume>63</volume>
+		<issue>Pt 12</issue>
+		<pages>1732-1740</pages>
+		<journal_book_name>Journal of medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4864">
+		<reference_name>Yu et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu S, Zhang H, Yao D, Liu W, Wang X, Chen X, Wei Y, Zhang Z, Wang J, Yu L, Sun H, Wu Z, Yu Y, Song B, Ma J, Tong C, Cui Y</authors>
+		<title>Identification of CD4+ T-cell epitopes on iron-regulated surface determinant B of Staphylococcus aureus</title>
+		<year>2015</year>
+		<volume>89</volume>
+		<issue></issue>
+		<pages>108-113</pages>
+		<journal_book_name>Microbial pathogenesis</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4845">
+		<reference_name>Zhao et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhao Z, Li B, Sun HQ, Zhang JY, Wang YL, Chen L, Hu J, He YF, Zeng H, Zou QM, Wu C</authors>
+		<title>Fine-mapping of immunodominant linear B-cell epitopes of the Staphylococcus aureus SEB antigen using short overlapping peptides</title>
+		<year>2014</year>
+		<volume>9</volume>
+		<issue>3</issue>
+		<pages>e90445</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

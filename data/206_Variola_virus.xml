@@ -1,0 +1,2525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen18">
+		<pathogen_name>Variola virus</pathogen_name>
+		<taxon_id>10255</taxon_id>
+		<pathogenesis refs="reference150 reference151 reference152 reference134">Smallpox is a viral disease unique to humans. To sustain itself, the virus must pass from person to person in a continuing chain of infection and is spread by inhalation of air droplets or aerosols. There are three principal routes of viral infection corresponding to the three principal surfaces of the body: the respiratory tract, the alimentary tract, and the skin. Minor routes of infection include the urinary and genital tracts and the conjunctiva. Although congenital infection occasionally occurred in smallpox, it was of no epidemiologic importance. The infectious dose is unknown but is believed to be only a few virions (Henderson, 1999).
+It is assumed to be low, 10 to 100 organisms (Franz et al., 1997). 
+Variola is most effectively spread via the respiratory route with as little as ten plaque-forming units contained within aerosolized saliva able to transmit the infection from person to person (Hassett, 2003).
+Variola virus is highly stable and retains its infectivity for long periods outside the host. It is infectious by aerosol, but natural airborne spread to other than close contacts is controversial. Approximately 30% of susceptible contacts became infected during the era of endemic smallpox, and the WHO eradication campaign was predicated on close person-to-person proximity being required for transmission to occur reliably. Nevertheless, variola virus's potential in low relative humidity for airborne dissemination was alarming in two hospital outbreaks. On natural exposure to aerosolized virus, variola travels from the upper or the lower respiratory tract to regional lymph nodes, where it replicates and gives rise to viremia, which is followed soon thereafter by a rash (PathPort).</pathogenesis>
+		<disease_name>Smallpox</disease_name>
+		<protective_immunity refs="reference182">Both cellular and humoral immune response are important in protection against smallpox. In mouse models of vaccinia infection, extensive studies have shown that passive immunotherapy with immune serum or monoclonal antibodies are protective. Antiviral antibody could protect mice efficiently even if CD4+ or CD8+ T cells were depleted prior to challenge. However, in B-cell-deficient or MHC II-deficient mice, which are unable to elicit effective antibody responses, strong antiviral T-cell responses played an important role in protecting against disease following viral challenge. Studies using non-human primates infected with lethal monkeypox showed that the smallpox vaccine-induced antibody responses were both necessary and sufficient for protection against lethal monkeypox infection. In humans, cellular immunity played the most important role in protective immunity in humans against  primary poxvirus infections based on the severe complications following smallpox vaccination of children with genetic T-cell deficiencies. Following vaccination, strong antiviral antibody responses are likely to be the main effector mechanism responsible for protection against secondary infection (Amanna et al., 2006). </protective_immunity>
+		<host_range refs="reference153">Variola virus is considered to be a host-restricted poxvirus, with humans as the reservoir host and no zoonotic hosts known.  However, the virus does replicate well in most mammalian cell cultures (McFadden, 2005).</host_range>
+		<introduction refs="reference134">The poxviruses are a family of large, enveloped deoxyribonucleic acid (DNA) viruses. The most notorious poxvirus is variola, the causative agent of smallpox. Smallpox was an important cause of morbidity and mortality in the developing world until recent times. Since the host range of the variola virus is confined to humans, aggressive case identification and contact vaccination were ultimately successful in controlling the disease. The last occurrence of endemic smallpox was in Somalia in 1977, and the last human cases were laboratory-acquired infections in 1978. By 1980, the World Health Organization (WHO) General Assembly ratified the declaration of success made by the Global Commission for the Certification of Smallpox Eradication (PathPort).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine95">
+		<vaccine_name>ACAM1000</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004089</vo_id>
+		<type>Replication competent virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference142 reference135">Dryvax supplies could be stretched by dilution. As vaccine supplies would still be insufficient, a new vaccine derived from Dryvax that is suitable for modern manufacture in cell culture at a large scale must be developed and clinically tested. The new vaccine forms the basis for the United States government's strategic vaccine stockpile for biodefense, and other countries are taking a similar course of action (Weltzin et al., 2003).
+Clinical trials have been conducted using the NYCBH-derived ACAM1000 vaccinia virus-based vaccines. ACAM1000 was similar to Dryvax in its ability to induce immune responses and in reactogenicity in phase I trials (Parrino et al., 2006). </description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference142">By most measures, ACAM 1000 is less virulent than Dryvax, the existing human smallpox vaccine (Weltzin et al., 2003).</virulence>
+		<preparation refs="reference142">ACAM1000 was purified from Dryvax by sequential plaque selection to isolate clone (Weltzin et al., 2003).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response113" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c </host_strain>
+			<vaccination_protocol refs="reference142">The following lethal intranasal vaccinia (strain WR) challenge model was used to evaluate protective immunization by vaccinia clones in mice. Mice were immunized by scarification with graded doses of ACAM1000 and then challenged by intranasal inoculation with 100 times the median lethal dose (LD50) of vaccinia-WR (Weltzin et al., 2003).                   </vaccination_protocol>
+			<persistence refs="reference142">In one mouse model, all sham-immunized animals died (average survival time [AST] = 5.2 d), whereas immunized mice all survived (3-5 weeks). Another mouse model involving IN challenge showed protection with minimal transient weight loss, while sham-immunized mice had severre weight loss and all died (AST = 12.6 d) (Weltzin et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference142">All mice immunized with 7 or 8 log10 PFU/ml survived. At lower vaccine doses, survival was reduced in a dose-dependent manner. Body weight decreased 1−2 d after challenge but increased subsequently in mice receiving the highest doses of vaccine viruses. Protection by all clones was similar to that of Dryvax. The dose that protected 50% of mice from death (PD50) was 5.5 log10 PFU/ml for Dryvax (Weltzin et al., 2003).</protection_efficacy>
+			<side_effects refs="reference142">transient weight loss (Weltzin et al., 2003)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference142">Vaccine candidates were purified from Dryvax either by sequential plaque selection to isolate clones or by passage at low multiplicity of infection (MOI) to isolate a polyclonal virus. The starting material was a pool of 30 vials (3,000 doses) of Dryvax from three different production lots. Six clones were isolated by three sequential rounds of plaque purification in MRC-5 cells (human lung fibroblast cell line). The clones were then amplified in fluid cultures to produce vaccine candidates. The polyclonal strain was produced by passage three times in MRC-5 cells at MOI 0.001 plaque-forming units (PFU)/cell. HindIII restriction endonuclease analysis was carried out on viral DNA isolated from the seven vaccine candidates and Dryvax. All DNA samples yielded digestion products corresponding to those of Dryvax, indicating that there were no major genetic rearrangements. Minor variations in the molecular weights of individual bands, such as band K of clone 3 and possibly the higher-molecular-weight bands of clone 2, were observed. Based on its attenuated phenotype in mice and similarity to Dryvax in other characteristics, clone 2 was selected as the best candidate for further development and was renamed ACAM1000 (Weltzin et al., 2003).</description>
+		</host_response>
+		<host_response host_response_id="host_response114" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Young adult rhesus monkeys.</host_strain>
+			<vaccination_protocol refs="reference142">Monkeys (six per group) were vaccinated by scarification using a bifurcated needle. All 18 monkeys developed typical primary cutaneous reactions. Neutralizing antibodies against both variola and vaccinia viruses were measured 30 d after vaccination (Weltzin et al., 2003).                                     </vaccination_protocol>
+			<persistence refs="reference142">Neutralizing antibodies against both variola and vaccinia viruses were present at &gt;30 d post-vaccination (Weltzin et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference142">Antibodies to variola at titers 1:40 were present in two of six monkeys inoculated with ACAM1000. Neutralizing antibodies to vaccinia virus appeared in five of six inoculated with ACAM1000 (titers, 1:10−40) (Weltzin et al., 2003).</protection_efficacy>
+			<side_effects refs="reference142">Dryvax can causes severe neurobiological illness and mortality via nonpurulent meningitis. ACAM 1000 can lead to mild edema and small areas of lymphoid infiltration (Weltzin et al., 2003).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference142">Vaccine candidates were purified from Dryvax either by sequential plaque selection to isolate clones or by passage at low multiplicity of infection (MOI) to isolate a polyclonal virus. The starting material was a pool of 30 vials (3,000 doses) of Dryvax from three different production lots. Six clones were isolated by three sequential rounds of plaque purification in MRC-5 cells. The clones were then amplified in fluid cultures to produce vaccine candidates at MRC-5 passage. The polyclonal strain was produced by passage three times in MRC-5 cells at MOI 0.001 plaque-forming units (PFU)/cell. HindIII restriction endonuclease analysis was carried out on viral DNA isolated from the seven vaccine candidates and Dryvax. All DNA samples yielded digestion products corresponding to those of Dryvax, indicating that there were no major genetic rearrangements. Minor variations in the molecular weights of individual bands, such as band K of clone 3 and possibly the higher-molecular-weight bands of clone 2, were observed. Based on its attenuated phenotype in mice and similarity to Dryvax in other characteristics, clone 2 was selected as the best candidate for further development and was renamed ACAM1000. This model was performed to confirm the immunogenicity of ACAM1000 that was observed in mice (Weltzin et al., 2003).</description>
+		</host_response>
+		<host_response host_response_id="host_response115" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Healthy adults 18-29 yrs.</host_strain>
+			<vaccination_protocol refs="reference142">ACAM1000 for clinical testing was produced at pilot lot scale (750,000 doses) according to current Good Manufacturing Practices. A randomized, double-blind clinical study was carried out under an Investigational New Drug application approved by the United States Food and Drug Administration to evaluate the safety, tolerability and immunogenicity of ACAM1000 in 60 healthy adults, without prior smallpox vaccination. On day 0, 30 eligible subjects received inoculation of ACAM1000 by 15 strokes of a bifurcated needle. The vaccine formulation contained 10^8 PFU/ml. Subjects took daily oral temperature, completed a symptom diary and returned to the clinic on days 3, 7, 10, 15, 30 and 45 and after 6 months for evaluation. The primary endpoint was the proportion of subjects developing a major cutaneous reaction ('take') on day 7 and/or day 10. The primary statistical method was a test of noninferiority of ACAM1000 to Dryvax intended to rule out a 20% difference in take rates. Based on a one-tailed test of noninferiority, with a significance level of 0.05 and power of 80%, and assuming that the common rate of major cutaneous reaction is 90%, 30 subjects per arm of the trial would be required to rule out an ACAM1000 rate of response of 70% or less. Secondary endpoints were neutralizing antibody and T cell responses on days 0 and 45. Peripheral blood mononuclear cells (PBMC) were evaluated by CTL, IFN-gamma ELISPOT and lymphoproliferation assays (Weltzin et al., 2003).                                                                        </vaccination_protocol>
+			<persistence refs="reference142">Subjects took daily oral temperature, completed a symptom diary and returned to the clinic on days 3, 7, 10, 15, 30 and 45 and after 6 months for evaluation. It is expected to confer lifelong immunity (Weltzin et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference142 reference154">The rate of successful vaccination was 100% (30 of 30 subjects) for ACAM1000 and 97% (29 of 30 subjects) for Dryvax (Table 1). By the prescribed statistical test, ACAM1000 was not inferior in immunogenicity to Dryvax (P &lt; 0.001) (Weltzin et al., 2003). 
+
+T-cell memory to smallpox declines slowly over time, with a half-life of 8–15 years, whereas serum antibody responses (and B-cell memory) to smallpox are maintained essentially for life with little or no observable decline. The protection afforded by smallpox vaccination shows that &gt;90% of vaccinees are protected against lethal smallpox (normally 30% mortality in unvaccinated individuals) for at least 60 years post-vaccination (Slifka, 2004).</protection_efficacy>
+			<side_effects refs="reference142">No serious adverse events were reported, and no subject was withdrawn from the study because of an adverse event. All 60 subjects experienced at least one adverse event related to the local cutaneous infection with vaccinia virus. Minimal changes in body temperature were noted. Two subjects experienced atypical healing at the vaccination site. No cardiac adverse events occurred, despite recent reports of myopericarditis. The trial was not powered sufficiently to detect the rare serious adverse events associated with smallpox vaccines (Weltzin et al., 2003).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference142">Dryvax supplies could be stretched by dilution. As vaccine supplies would still be insufficient, a new vaccine derived from Dryvax that is suitable for modern manufacture in cell culture at a large scale must be developed and clinically tested. Safety, tolerability and immunogenicity of ACAM1000  was evaluated based upon comparable results with Dryvax (Weltzin et al., 2003).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine96">
+		<vaccine_name>ACAM2000</vaccine_name>
+		<proper_name>Smallpox (Vaccinia) Vaccine, Live</proper_name>
+		<brand_name>ACAM2000</brand_name>
+		<manufacturer>Acambis, Inc</manufacturer>
+		<vo_id>VO_0000003</vo_id>
+		<type>Replication competent virus</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA (License #1733)</location_licensed>
+		<description refs="reference144 reference135">The benefits of cloning appeared to outweigh the recognized risk that a clonal virus population may differ biologically from the ‘genetic swarm’ represented by the animal-skin vaccine. Because it would not be possible to conduct field tests for efficacy, the new vaccine would need to match the licensed vaccine (Dryvax®) as closely as possible in preclinical tests for safety, immunogenicity, and protective activity and in clinical trials for safety and immunogenicity ( Monath et al., 2004).
+Clinical trials have been conducted using the NYCBH-derived ACAM2000 vaccinia virus-based vaccine. On the basis of animal studies, ACAM2000 is believed to be less neurovirulent than Dryvax. ACAM2000 was similar to Dryvax in its ability to induce immune responses and in reactogenicity in phase I trials. During phase II and phase III clinical trials, cases of myopericarditis were associated with both ACAM2000 and Dryvax in vaccinia-naive volunteers (Parrino et al., 2006).</description>
+		<adjuvant refs="reference144">Vaccine is reconstituted by addition of diluent [glycerol (50% v/v)-phenol (0.25% v/v)] in water for injection ( Monath et al., 2004).</adjuvant>
+		<storage refs="reference771">After reconstitution, ACAM2000 vaccine may be administered within 6 to 8 hours if kept at room temperature (20-25°C, 68-77°F); it should then be discarded as a biohazardous material. Unused, reconstituted ACAM2000 vaccine may be stored in a refrigerator (2-8°C, 36-46°F) up to 30 days, after which it should be discarded as a biohazardous material (FDA: ACAM2000).</storage>
+		<virulence refs="reference163 reference144 reference135">It has long been known that vaccinia strains differ with respect to neurovirulence in infant mice. Clones 1, 3, and 5 and the uncloned virus had virulence properties that were unacceptable for consideration as vaccine candidates. The same four viruses that had exhibited excessive virulence in rabbit skin were significantly more neurovirulent than Dryvax1 (p &lt; 0.05, Kaplan—Meier survival distribution, log rank test), whereas clones 2, 4, and 6 were similar to Dryvax1 or less virulent. The more virulent viruses also replicated to higher titer in mouse brain. In these initial experiments Clone 2 did not appear to be attenuated with respect to neurovirulence, but subsequent studies with larger numbers of animals showed significantly higher survival distribution compared to Dryvax1. Clone 2 (renamed ACAM1000) was selected as the candidate for further development, based on its similarity to Dryvax1 in pock formation in rabbit skin but its lower neurovirulence in mice and monkeys. Seed viruses and vaccine produced from each bioreactor run were tested for neurovirulence in suckling mice, using Dryvax1 as a comparator. Plaque-purified vaccinia virus lines were shown to differ significantly in neurovirulence for mice, in their ability to evoke immune responses against the inserted gene product, and in their HindIII restriction maps. The variant viruses often exhibit reduced infectivity and reduced virulence for mice. We found biological and molecular heterogeneity among 6 clones derived from Dryvax1, with some clonal subpopulations (e.g. Clone 3) having dramatically higher virulence and changes at the genomic level. The degree of neurovirulence for suckling mice was used to distinguish vaccine strains with low, moderate, or high pathogenicity (Vilesova et al., 1985). The new vaccine has advantages over first generation vaccines, since it has been produced to modern manufacturing and control standards, is free from adventitious agents , and does not contain subpopulations of virus with undesirable virulence properties (Monath et al., 2004).
+In addition, mice immunized with MVA were protected against lethal infection with a more virulent form of vaccinia virus altered to coexpress IL-4. IL-4 diminishes the cytolytic capacity of CD81 T cells, resulting in delayed viral clearance and increased virulence (Parrino et al., 2006).                                            </virulence>
+		<preparation refs="reference135 reference144">ACAM2000 was prepared from ACAM1000 master seed stock and produced in Vero cells to address the need for rapid large-scale vaccine production (Parrino et al., 2006). 
+Specifically, ACAM2000 was manufactured by infecting Vero cells grown on microcarriers under serum-free conditions with the P9 production virus inoculum at an MOI of 0.01–0.2. Virus particles were purified and concentrated. The resulting concentrated bulk vaccine was formulated by dilution with a buffer containing stabilizers to a final potency of 1.0–5.0 × 10^8 pfu/mL, filled into vials containing 0.3 mL ( Monath et al., 2004).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response116" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">3-4 day-old outbred ICR mice</host_strain>
+			<vaccination_protocol refs="reference144">Groups of mice were inoculated with graded doses (0.3 to 3.0 log10 pfu) ( Monath et al., 2004).                                                       </vaccination_protocol>
+			<persistence refs="reference144">Survival analysis showed that ACAM1000 and ACAM2000 did not differ from one another but had significantly longer survival than Dryvax ( Monath et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference144">The median lethal dose (LD50) and 90% lethal dose (LD90) were higher for mice receiving ACAM2000 and ACAM1000 compared to Dryvax ( Monath et al., 2004). </protection_efficacy>
+			<side_effects refs="reference144">We showed that ACAM1000 and ACAM2000 were significantly less neurovirulent for mice and monkeys than the parental Dryvax1 virus, presumably. ACAM2000 should be less likely to cause post-vaccinal encephalitis in humans. However, the pathogenesis of postvaccinal
+encephalitis is still uncertain. Vaccinia virus has been isolated from CSF and brain, suggesting that the virus invades the central nervous system in humans (Monath et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference144">The neurovirulence profiles of ACAM2000 and ACAM1000 vaccines were compared to Dryvax in a lethal dose assay ( Monath et al., 2004).</description>
+		</host_response>
+		<host_response host_response_id="host_response117" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Young adult BALB/c mice.</host_strain>
+			<vaccination_protocol refs="reference144">Groups of 5 mice were immunized with graded doses (4 to 7 log10 PFU/mL) of ACAM 2000 and then challenged 3 weeks later with 100 LD50 of vaccinia WR virus. Survival and body weight were recorded daily for 14 days after challenge ( Monath et al., 2004).</vaccination_protocol>
+			<persistence refs="reference144">The survival times were not statistically different between treatment groups ( Monath et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference144">Protective efficacy of the 3 viruses tested was similar ( Monath et al., 2004).</protection_efficacy>
+			<side_effects refs="reference144">We showed that ACAM1000 and ACAM2000 were significantly less neurovirulent for mice and monkeys than the parental Dryvax1 virus, presumably. ACAM2000 should be less likely to cause post-vaccinal encephalitis in humans. However, the pathogenesis of postvaccinal
+encephalitis is still uncertain. Vaccinia virus has been isolated from CSF and brain, suggesting that the virus invades the central nervous system in humans (Monath et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference144">Mice were used to compare the protective efficacy of immunization with ACAM2000, ACAM1000, and Dryvax ( Monath et al., 2004).</description>
+		</host_response>
+		<host_response host_response_id="host_response118" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Healthy adults aged 18–29 years.</host_strain>
+			<vaccination_protocol refs="reference144">Clinical development of ACAM2000 commenced with a Phase 1 open-label trial in 100 healthy adults without prior smallpox vaccination. The primary endpoint was the proportion of subjects with a major cutaneous reaction assessed at any time-point from Day 7 (±2) through Day 15 (±2). Fifty-six percent of subjects were male. The majority (89%) were Caucasian; the remaining subjects were African-American (7%), Asian (3%), or Hispanic (1%). The mean age was 23 years, with a range of 18 to 29 years ( Monath et al., 2004).</vaccination_protocol>
+			<persistence refs="reference144">Of the 99 subjects who experienced a major cutaneous reaction, 9% had a major cutaneous reaction by Day 3, and the rest experienced a major cutaneous reaction by Day 7. The progression of the cutaneous reaction and its size and appearance were similar to those observed in the trials of ACAM1000. The great majority (96%) developed ≥four fold increases in neutralizing antibodies. The geometric mean neutralizing antibody titer on Day 30 was 225. Four (4%) of 100 subjects did not have a four-fold increase in neutralizing antibody titer on Day 30. However, these 4 subjects all had a major cutaneous reaction by Day 7 ( Monath et al., 2004). </persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference144">Ninety-nine percent of the subjects experienced a successful vaccination ( Monath et al., 2004).</protection_efficacy>
+			<side_effects refs="reference144">With the diminishing threat of smallpox and increased focus on adverse events, vaccination in the United States was discontinued in 1972 for the general public and in 1989 for military personnel. The safety of ACAM2000 was assessed by documentation of adverse events, physical examination findings, lymph node assessments, measurements of vital signs, and clinical laboratory tests, including hematology, clinical chemistry, and urinalysis. Subjects in the study kept a diary of adverse events and took daily oral temperatures. There were no serious adverse events. All 70 subjects (100%) experienced at least one treatment-emergent, expected adverse event during the study. The adverse events were generally mild and did not interfere with the subjects’ daily activities. One subject experienced a serious adverse event, a single new onset seizure on Day 8; this event was considered by the investigator to be remotely related to the study vaccine. The most commonly reported treatment-emergent adverse events were related to the vaccination site and associated lymphadenitis, and the majority of adverse events reported were assessed as mild or moderate in intensity. Elevated temperature was reported as an adverse event for 9 (9%) subjects. Fortunately, cardiac adverse events appear to be self-limiting (Monath et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference144">Phase 1 clinical trials of ACAM1000 and 2000 indicate that the original goal of producing a second generation vaccine that closely matched the safety and immunogenicity of calf-skin vaccine (Dryvax®) was met. The cutaneous, antibody, and T cell responses in primary vaccinees were similar to those elicited by Dryvax®. The appearance and size of the cutaneous lesion and pattern of virus shedding from the vaccination site were also similar. Phase 2 trials in naïve and previously vaccinated subjects have been completed to define the dose response, and to extend safety and immunogenicity data. Phase 3 clinical trials are in progress ( Monath et al., 2004).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine97">
+		<vaccine_name>CCSV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004090</vo_id>
+		<type>Replication competent virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference135">Cell-cultured smallpox vaccine (CCSV) is a replication-competent vaccinia virus vaccine derived from a master seed stock originating from the NYCBH strain. In 2002, a phase I clinical trial conducted in 350 healthy vaccinia-naive and vaccinia-immune adults evaluated the safety, reactogenicity, and immunogenicity of CCSV and Dryvax. Among the study groups, 100 volunteers were assigned to receive various dilutions of CCSV. There were no statistically significant differences between the CCSV and Dryvax groups comparing humoral and cellular immune responses and rates of adverse events. At a delivered dose 50 times lower than the approved Dryvax dose, CCSV was still immunogenic and had a take rate of 100% (Parrino et al., 2006).</description>
+		<adjuvant refs="reference141">50% glycerin and 0·25% phenol in sterile water were added (Greenberg et al., 2005)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference141">(Greenberg et al., 2005)</virulence>
+		<preparation refs="reference141">CCSV was derived from Connaught Laboratories Master Seed number 17633 (originating from the New York City Board of Health vaccinia strain), adapted to replicate in MRC-5 cells, and plaque-purified three times. Cells were infected in ten-layer Nunc cell factories, incubated at 37°C for 3 days, and harvested by trypsinization. Infected cells were sonicated to release intracellular virus. The crude virus bulk was purified and concentrated by ultracentrifugation through a 36% sucrose cushion, and the resulting virus pellet was resuspended in 1 mmol/L Tris buffer (pH 9·0). The undiluted final vaccine material was formulated in 2% human serum albumin to give a concentration of 1×10^8 pfu per mL and was subsequently lyophilised. Lyophilised vials were stored at –20°C before use, reconstituted with 50% glycerin and 0·25% phenol in sterile water for injection, and used within 24 h after dilution (Greenberg et al., 2005).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response112" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Healthy adults age 18-65 years</host_strain>
+			<vaccination_protocol refs="reference141">The study was a randomized, blind single-center comparative trial in healthy adult volunteers. Cohorts 1-4 were randomly assigned equivalent doses (2·5×105 plaque-forming units [pfu]) of either CCSV or Dryvax in a double-blind fashion. Participants were stratified by previous exposure to vaccinia (naive vs non-naive) and randomly assigned to vaccine group with a computer-generated process. In the vaccinia-naive group, a ratio of 2 to 1 (CCSV to Dryvax) was used, whereas in the non-naive population, the ratio was 1 to 1. All cohorts were enrolled consecutively with at least a 21-day delay between vaccination of successive cohorts. Cohorts 1-3 consisted of 15, 45, and 90 vaccinia-naive individuals, respectively (100 assigned CCSV and 50 Dryvax). Cohort four consisted of 100 non-naive individuals (50 CCSV and 50 Dryvax). Doses in cohort five (vaccinia-naive) were single-blind (to volunteer only) to one of the following five dilutions of CCSV (20 per group, CCSV to diluent): undiluted, 1:5, 1:10, 1:25, and 1:50. A random subset of 60 volunteers from cohort three (40 CCSV and 20 Dryvax) and 40 volunteers from cohort four (20 from each group) had blood samples taken for testing of cell-mediated immune responses (Greenberg et al., 2005).</vaccination_protocol>
+			<persistence refs="reference141">Participants kept a daily diary of symptoms and body temperature for the first 2 weeks after vaccination, and returned to the clinic for follow-up on days 3, 6, 8, 10, 14, 28, 45, 60, and 180 after vaccination. In vaccinia-naive individuals, titres peaked on day 28, whereas in non-naive people, they peaked on day 14. Although PRN50 geometric mean titres were generally higher for recipients of Dryvax rather than CCSV, their overall patterns on days 14, 28, 60, and 180 after vaccination did not differ significantly between the two vaccine groups for either vaccinia-naive or non-naive individuals (Greenberg et al., 2005).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference141">The take rate was 100% for all volunteers who received undiluted CCSV, irrespective of previous vaccinia-exposure. The 95% CI of the point estimate for vaccinia-naive individuals was 96–100% for CCSV; similarly, the 95% CI for vaccinia-non-naive individuals was 93%–100%. CCSV was immunogenic in vaccine-naive volunteers at a dose 50 times lower than that approved for Dryvax. CCSV seems to be a safe and immunogenic alternative to calf-lymph derived vaccine for both vaccinia-naive and non-naive people (Greenberg et al., 2005).</protection_efficacy>
+			<side_effects refs="reference141">349 (99·7%) of 350 volunteers developed pock lesions; one vaccinia-naive individual who received a 1 in 25 dilution of CCSV did not. The rate of adverse events related to vaccine and the extent of humoral and cellular immune responses did not differ between the vaccine groups in vaccinia-naive or non-naive people. During clinic visits in the first 28 days, individuals were assessed for adverse events (vital signs, diary inspection, and concomitant medication) and formation of pock lesions (pock lesion inspection, measurements, and photographs). Intensity of adverse events was classified as mild (awareness of signs and symptoms that are easily tolerated), moderate (signs and symptoms produce discomfort sufficient to interfere with, but not prevent, normal daily activities), or severe (signs and symptoms produce sufficient discomfort to prevent normal daily activities). Differences between two proportions (eg, proportion with adverse events or proportion testing positive by an immunological assay). No serious vaccine-related adverse events were reported. Nobody withdrew from the study because of an adverse event. Other than rashes, no notable differences in frequency or severity of adverse events were recorded in the group receiving undiluted CCSV compared with those receiving diluted CCSV, and there were no notable differences in frequency of adverse events in the 1 in 50 group compared with those in other dilution groups. The adverse events reported for both vaccines were similar in severity and frequency, indicating that the manufacturing process in early human testing did not select for a more reactogenic vaccine, although it never entered larger clinical trials. As expected, vaccinia-non-naive participants tended to have fewer and milder adverse events than their vaccinia-naive counterparts. Overall, the adverse events in the diluted cohort were consistent with those of the other vaccinia-naive cohorts (Greenberg et al., 2005).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference141">U.S. government organizations have identified the need for a new smallpox vaccine to replenish limited stocks of the approved calf-lymph derived vaccine. Previous manufacturing methods using calf lymph are no longer acceptable because of the absence of controls in the process and the potential risk of contamination with the infectious agent associated with the prion disease bovine spongiform encephalitis. New manufacturing methods will need to eliminate the bovine intermediary. Because of ethical and safety considerations, challenge studies or field trials cannot be done to show efficacy. The strategy in designing the cell-cultured smallpox vaccine (CCSV) entailed selection of a well characterised isolate from a master vaccine seed stock used in the WHO eradication campaign. Methods of manufacture included consistency-validated processes for all aspects of manufacture, purification, storage, and distribution. Advantages of manufacture of this vaccine include the breadth of previous experience with well defined human diploid fetal lung fibroblasts in the production of other live, viral human vaccines, and the fact that the process is free from antimicrobial compounds that could produce reactions in sensitised individuals. The aims of this phase 1 clinical trial were to assess safety (frequency and severity of local and systemic adverse events), reactogenicity (frequency and characteristics of pock lesions), and immunogenicity (humoral and cellular immunity assays) of equivalent doses of CCSV and Dryvax in both vaccinia-naive and non-naive, healthy adult volunteers. Additionally, CCSV doses up to 50 times more dilute than the recommended dose for the Dryvax were assessed in a vaccinia-naive population (Greenberg et al., 2005).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine94">
+		<vaccine_name>Dryvax</vaccine_name>
+		<proper_name>Smallpox Vaccine, Dried, Calf Lymph Type</proper_name>
+		<brand_name>Dryvax</brand_name>
+		<manufacturer>Wyeth Pharmaceuticals Inc</manufacturer>
+		<vo_id>VO_0000035</vo_id>
+		<type>live vaccinia virus vaccine</type>
+		<status>Licensed</status>
+		<vector>test</vector>
+		<route>percutaneous (scarification)</route>
+		<location_licensed>USA (License #0003)</location_licensed>
+		<description refs="reference135">Dryvax is the only US Food and Drug Administration (FDA)–licensed vaccine in the United States. Vaccination of the general public stopped in the US in 1972, and production of this vaccine stopped in 1982. Recent studies were performed evaluating clinical and immunologic responses to diluted vaccine in volunteers who had not previously been immunized to determine whether this stock vaccine could safely be diluted to provide more available doses. At dilutions of 1:5 or 1:10 (10^7 plaque-forming units [pfu]), the vaccine retained its potency and was able to elicit adequate immune responses ( Parrino et al., 2006).</description>
+		<adjuvant refs="reference135">The vaccine was produced with a diluent containing 50% glycerol and 0.25% phenol in sterile water for injection, USP (Parrino et al., 2006).</adjuvant>
+		<storage refs="reference770">2° to 8°C (36° to 46°F) (FDA: Dryvax).</storage>
+		<virulence refs="reference135">Dryvax was used to vaccinate military personnel and a select civilian population beginning in 2002. In these highly screened individuals, there were fewer adverse events than anticipated on the basis of the historical data, and no cases of progressive vaccinia or eczema vaccinatum. However, a new finding of cardiac complications have become a cause for concern. Although European and Australian literature from the 1950s, 1960s, and 1970s reported fatal and nonfatal postvaccinial cardiac complications, such reports were rare in the United States. At the time, this difference was believed to have been related to the less reactogenic strain of vaccinia virus used in the United States. However, the findings from the military and civilian vaccination programs indicate those with cardiac disease should not receive vaccinia in nonemergent settings. Of the 38,885 civilian smallpox vaccines administered between 2002 and 2003, there were 21 cases of myopericarditis and 10 ischemic cardiac events, of which 2 were fatal. In the military program as of June 2006, there were more than 1 million vaccinations and 120 cases of myopericarditis. The 16 cases of ischemic heart disease were consistent with rates in unvaccinated military recruits of the same age. The investigation of 8 fatalities after vaccination determined 1 death from an acute lupuslike illness may have a causal relationship to vaccine. In addition, vaccination was thought possibly to contribute to the sudden death of a 26-year-old military recruit 16 days after he received smallpox and influenza vaccinations. However, autopsy revealed myocarditis with parvovirus B in the cardiac muscle and no evidence of vaccinia virus ( Parrino et al., 2006).</virulence>
+		<preparation refs="reference135">This vaccine is derived from NYCBH strain. It is lyophilized calf lymph and comes with a diluent containing 50% glycerol and 0.25% phenol in sterile water for injection, USP ( Parrino et al., 2006).</preparation>
+		<route refs="">percutaneous (scarification)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response110" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">federal, state, and local potential first responders</host_strain>
+			<vaccination_protocol refs="reference139">A total of 37,901 volunteers in 55 jurisdictions received at least 1 dose of smallpox vaccine (Casey et al., 2005).</vaccination_protocol>
+			<persistence refs="reference135">Although the vaccine is effective, it is unclear how long it provides protection. Data suggest vaccine-specific memory B cells may persist for more than 50 years after vaccination, but not knowing which immunologic responses determine protection makes it difficult to define the duration of protective immunity.17 Alternative vaccine strategies designed to be safer than the presently available live virus vaccines are being pursued (Parrino et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference139">A total of 38,885 smallpox vaccinations were administered, with a take rate of 92%. VAERS received 822 reports of adverse events following smallpox vaccination (overall reporting rate, 217 per 10,000 vaccinees) (Casey et al., 2005).</protection_efficacy>
+			<side_effects refs="reference139">A total of 590 adverse events (72%) were reported within 14 days of vaccination. Nonserious adverse events (n = 722) included multiple signs and symptoms of mild and self-limited local reactions. One hundred adverse events (12%) were designated as serious, resulting in 85 hospitalizations, 2 permanent disabilities, 10 life-threatening illnesses, and 3 deaths. Among the serious adverse events, 21 cases were classified as myocarditis and/or pericarditis and 10 as ischemic cardiac events that were not anticipated based on historical data. Two cases of generalized vaccinia and 1 case of post-vaccinial encephalitis were detected. No preventable life-threatening adverse reactions, contact transmissions, or adverse reactions that required treatment with vaccinia immune globulin were identified. Serious adverse events were more common among older revaccinees than younger first-time vaccinees (Casey et al., 2005).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference139">The US Department of Health and Human Services (DHHS) implemented a preparedness program in which smallpox vaccine was administered to federal, state, and local volunteers who might be first responders during a bioterrorism event (Casey et al., 2005).</description>
+		</host_response>
+		<host_response host_response_id="host_response111" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">US service members and DoD civilian workers eligible for smallpox vaccination</host_strain>
+			<vaccination_protocol refs="reference140">To develop vaccination policy, the US Department of Defense (DoD) drew from its own physicians, scientists, and administrators  as well as colleagues in government and academia. The military vaccination program included vaccination for smallpox epidemic response teams (2000-5000 people) to assist with epidemic control and contact tracing in an outbreak, medical teams for hospitals and clinics (10,000-25,000 people) to care for smallpox cases, and operational forces (up to 500,000 people) to preserve critical capabilities. The licensed full-strength smallpox vaccine containing the NYCBH strain of vaccinia was used. First-time vaccination entailed punctures with a bifurcated needle. Previous vaccinees received 15 punctures. Those who did not respond with a major reaction as defined by the World Health Organization (WHO) were vaccinated again. Smallpox vaccinations began at 4 pilot sites: Walter Reed Army Medical Center, Washington, DC; Aberdeen Proving Ground, MD; Wilford Hall Air Force Medical Center, Lackland Air Force Base, San Antonio, TX; and the National Naval Medical Center, Bethesda, MD. For quality control, clinics tracked the vaccination response rates of the first 25 people for each vaccinator (Grabenstein et al., 2003).</vaccination_protocol>
+			<persistence refs="reference135"> In addition to unacceptable side effects and problems related to production, although the vaccine is effective, it is unclear how long it provides protection. Data suggest vaccine-specific memory B cells may persist for more than 50 years after vaccination, but not knowing which immunologic responses determine protection makes it difficult to define the duration of protective immunity.17 Alternative vaccine strategies designed to be safer than the presently available live virus vaccines are being pursued (Parrino et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference140">In 5.5 months, the DoD administered 450,293 smallpox vaccinations (70.5% primary vaccinees and 29.5% revaccinees). In 2 settings, 0.5% and 3.0% of vaccine recipients needed short-term sick leave. Most adverse events occurred at rates below historical rates (Grabenstein et al., 2003).</protection_efficacy>
+			<side_effects refs="reference140">One case of encephalitis and 37 cases of acute myopericarditis developed after vaccination; all cases recovered. Among 19,461 worker-months of clinical contact, there were no cases of transmission of vaccinia from worker to patient, no cases of eczema vaccinatum or progressive vaccinia, and no attributed deaths (Grabenstein et al., 2003).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference140">The US implemented a program of smallpox vaccinations for approximately 500,000 military personnel. The directive came as part of a national program of preparedness against biological attack. Pre-attack vaccination was determined to be the best way to personally protect troops so that they could continue their missions. The program was therefore mandatory for designated service members and employees except those with contraindications (Grabenstein et al., 2003).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine101">
+		<vaccine_name>dVV-L</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004094</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference135">dVV-L has been evaluated as a poxvirus vaccine. One great advantage of this approach is that the attenuated virus can be manufactured in a cell line that complements the uracil-DNA-glycosylase (UDG) deficiency, rather than in primary cells or eggs as is often needed for other replication-defective viruses, resulting in an improved safety profile and increased capacity for rapid production (Parrino et al., 2006).</description>
+		<adjuvant refs="reference146">Complete Freund's adjuvant is used during innoculation, followed by a boost in incomplete Freund's adjuvant (Ober et al., 2002).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference146">The vaccinia virus strain NYVAC was genetically attenuated by deletion of many nonessential genes, including virulence and host range genes, resulting in a strain growing only in primary cells. Passaging in mammalian cells increases virulence in mammals, resulting in new MVA-like strains with unknown safety profiles in humans. The resulting viruses grow exclusively in a complementing permanent cell line, excluding reversion to virulence and obviating the need for primary cells. The WR strain is a vaccinia virus laboratory strain passaged in mouse brain that has unfavorable properties, such as neurovirulence and gonadotropism, not suitable for clinical use. The large deletions characteristic for MVA seemed to suggest that the restriction in host range and virulence was mainly due to these deletions, including the loss of a host range gene and many immune modulatory genes. It will be interesting to see whether an MVA strain first adapted to growth in mammalian cells and then passaged in mouse brain also regains virulence. In contrast to MVA, dVVs with an essential gene deleted cannot regain replication and virulence functions upon passaging in a chosen host. Reversion to virulence can principally be excluded because the vector lacks an essential gene, which restricts its host range to a complementing cell line (Ober et al., 2002).</virulence>
+		<preparation refs="reference135">This vaccine strain was created from the Lister strain by deleting a gene necessary to encode the UDG enzyme, which is essential for a complete cycle of viral replication (Parrino et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering26" gene_id="gene27">
+			<type>Protein</type>
+			<description refs="reference146">Tumor suppressor protein p53, a nuclear protein, plays an essential role in the regulation of cell cycle, specifically in the transition from G0 to G1. It is found in very low levels in normal cells; however, in a variety of transformed cell lines, it is expressed in high amounts and is believed to contribute to transformation and malignancy. p53 is a DNA-binding protein containing DNA-binding, oligomerization, and transcription activation domains. It is postulated to bind as a tetramer to a p53-binding site and activate expression of downstream genes that inhibit growth and/or invasion and thus function as a tumor suppressor. Mutants of p53 that frequently occur in a number of different human cancers fail to bind the consensus DNA binding site and hence cause the loss of tumor suppressor activity. Alterations of the TP53 gene occur not only as somatic mutations in human malignancies, but also as germline mutations in some cancer-prone families with Li-Fraumeni syndrome (Ober et al., 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response121" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Mice (BALB/c/SCID, 6 to 8 weeks old).</host_strain>
+			<vaccination_protocol refs="reference146">Groups of four immunodeficient mice were challenged subcutaneously (s.c.) with high doses of the wild-type Lister strain or the nonreplicating Lister- or MVA-based vectors (Ober et al., 2002).</vaccination_protocol>
+			<persistence refs="reference146">Using the wild-type Lister virus, doses of ≥10^6 PFU led to a progressive vaccinia virus infection within a 2-month observation period (Ober et al., 2002).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference146">A more suitable smallpox prevaccine for immunocompromised subjects, dVV was highly protective in a preclinical challenge model, induced antibodies and CTLs similarly to MVA, and was as safe as MVA-based recombinants in immunodeficient mice. In addition, reversion to virulence can principally be excluded because the vector lacks an essential gene, which restricts its host range to a complementing cell line (Ober et al., 2002).</protection_efficacy>
+			<side_effects refs="reference146">The defective Lister strain-based viruses did not induce any signs of progressive disease. The nonreplicating virus was tolerated without any visible signs of discomfort of the mice at doses of 10^7 and 10^8 PFU. The highest dose of 10^9 PFU was accompanied by mild signs of sickness in the first few days, which disappeared later. At 4 weeks after challenge a lesion was observed at the injection site, which subsequently healed. In summary, not only in the in vitro system but also in vivo in immunodeficient animals, dVVs based on the Lister strain are as well tolerated as the MVA-based viruses (Ober et al., 2002).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference146">The main concern about the use of replication-competent viruses in immunotherapy is that severe adverse effects may occur in immunocompromised patients. The mouse model was used to more thoroughly address the safety question in an in vivo model (Ober et al., 2002).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine102">
+		<vaccine_name>IMV-EEV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004095</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference149 reference135">Both intracellular mature virus (IMV) and EV are infectious, but they contain different viral outer membrane proteins, bind to cells differently and have different requirements for entry. Although the entry process is not well understood, a model consistent with available data is that IMV fuse directly with plasma membrane, whereas EV entry involves endocytosis, low-pH-induced disruption of the outer membrane, and fusion of the exposed IMV with the endosomal membrane. Protein subunit vaccines have been evaluated in mice (Fogg et al., 2004).
+Recombinant proteins of the outer membranes of IMV and EEV forms of vaccinia virus were used individually or in combination to immunize mice before i.n. challenge with a lethal dose of the WR strain of vaccinia virus. Vaccination with the individual proteins afforded partial protection; complete protection was achieved with 3 doses of the 3-protein IMV–EEV combination vaccine (Parrino et al., 2006).</description>
+		<adjuvant refs="reference149">Either a Ribi adjuvant system consisting of MPL+TDM or the saponin adjuvant QS-21 was used (Fogg et al., 2004).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference149">(Fogg et al., 2004)</virulence>
+		<preparation refs="reference149">Soluble forms of L1, A33, and B5 were purified. Recombinant proteins (10 µg) were diluted in PBS with the adjuvant for a total injection volume of 0.1 ml. Monophosphoryl-lipid A plus trehalose dicorynomycolate emulsion (MPL+TDM) was prepared immediately before each immunization according to manufacturer's instructions (Fogg et al., 2004).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering40" gene_id="gene41">
+			<type>Protein</type>
+			<description refs="reference149">The cell-associated and released extracellular virions (EV) are thought to be largely responsible for direct cell-to-cell and long-range virus spread within a host, respectively (Fogg et al., 2004).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering41" gene_id="gene42">
+			<type>Protein</type>
+			<description refs="reference149">Infectious intracellular mature virions (IMV), containing a complex core structure and an outer membrane with nonglycosylated viral proteins, are assembled in factory regions within the cytoplasm of vaccinia virus-infected cells. Some IMV migrate out of the factories, become wrapped with an additional double membrane containing viral glycoproteins, and are then transported on microtubules to the periphery of the cell. The outer of the two added membranes fuses with the plasma membrane during exocytosis, and the resulting extracellular particles consist of an IMV surrounded by one extra fragile membrane (Fogg et al., 2004).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering42" gene_id="gene43">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering55" gene_id="gene56">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-L1R; target of neutralizing antibody; S-S bond formation pathw thiol substrate; myristylprotein ( NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering56" gene_id="gene57">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-A33R; associates with A36R; involved in CEV-cell adherence and actin tail formation ( NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering57" gene_id="gene55">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-B5R; required for trans-Golgi/endosomal membrane-wrapping of IMV ( NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering58" gene_id="gene59">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-A34R; involved in CEV cell adherence and actin tail formation ( NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering59" gene_id="gene60">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-A36R; interacts with A33R and used in actin tail formation ( NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering61" gene_id="gene62">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-H3L; involved in IMV maturation ( NCBI).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response134" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference149">Female 5- to 6-week-old BALB/c mice were purchased from Taconic (Germantown, N.Y.). 15 µg of QS-21 aliquots (2 mg/ml in water) were used for each immunization. Proteins were administered at 3-week intervals. Blood was collected from the tail vein 1 day prior to each immunization.
+One day prior to challenge, serum samples were collected and mice were weighed. On the day of challenge, an aliquot of purified VV-WR was thawed, sonicated, and diluted in PBS. Mice were anesthetized by inhalation of isoflurane and inoculated i.n. with a 20-µl suspension of 1 x 10^6 or 2 x10^7 PFU of VV-WR. Mice were weighed daily for 2 w following challenge and were euthanatized when they lost 30% of their initial body weight (Fogg et al., 2004).</vaccination_protocol>
+			<persistence refs="reference149">(Fogg et al., 2004)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference149">Complete survival was obtained with the combination of all three proteins. Although there is a need for safer vaccines, it is difficult to evaluate their efficacy in the absence of human smallpox or information regarding the correlates of immunity (Fogg et al., 2004).</protection_efficacy>
+			<side_effects refs="reference149">(Fogg et al., 2004)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference149">Soluble forms of several vaccinia virus IMV and EV membrane proteins have been engineered to learn more about immunity to poxviruses and to test the proteins as components of a vaccine. The present study involves recombinant L1, A33, and B5 proteins individually or in combinations and then challenged the mice (Fogg et al., 2004).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine311">
+		<vaccine_name>Killed Vaccinia Virus with Adjuvant NanoEmulsion</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004150</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference708">NanoEmulsion (NE), the W205EC formulation, which is made through emulsification of cetyl pyridum chloride, Tween 20, and ethanol in water with soybean oil (Bielinska et al., 2008).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference708">The viruses killed by incubation were incubated for 3 h at 37°C in 10% NE. Nasal instillation killed virus was diluted to obtain either 1 x 10^3 PFU or 1 x 10^5 PFU per dose in 1% NE. Vaccine formulations containing formalin-killed virus (Fk) were prepared by incubation of VV (about 10^8 PFU/ml) with 0.1% formalin at room temperature for 3 h. This mixture was then diluted in either saline or 1% NE to 1 x 10^3 or 1 x 10^5 PFU per dose to reduce the formalin to nontoxic concentrations for intranasal (i.n.) immunization (Bielinska et al., 2008).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference708">Two strains of vaccinia virus (VV) were used for antigens: VV Western Reserve strain (VVWR) and recombinant Western Reserve strain (VVWR-Luc). The recombinant strain is the same as the VVWR except for expression of firefly luciferase from the pH 7.5 early/late promoter (Bielinska et al., 2008).</antigen>
+		<host_response host_response_id="host_response399" host_id="host3">
+			<immune_response refs="reference708">The intranasal vaccination resulted in both systemic and mucosal anti-VV immunity, virus-neutralizing antibodies, and Th1-biased cellular responses (Bielinska et al., 2008).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference708">Mice were vaccinated with 10 to 15 µl of vaccine formulation per naris by use of a pipette tip. Emulsion was applied slowly to minimize bronchial distribution and swallowing of the material (Bielinska et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference708">Nasal vaccination with VV/NE vaccine produced protection against lethal infection equal to vaccination by scarification, with 100% survival after challenge (Bielinska et al., 2008).</protection_efficacy>
+			<side_effects refs="reference708">Mice protected with VV/NE immunization did have clinical symptoms more extensive than animals vaccinated by scarification post-challenge (Bielinska et al., 2008).</side_effects>
+			<challenge_protocol refs="reference708">Aliquots of purified recombinant VVWR-Luc or VVWR were thawed and diluted in saline on the day of the challenge. Mice were challenged i.n. with a 20-µl suspension of 2 x 10^6 PFU live VVWR-Luc, corresponding to 10 times the 50% lethal dose, or with live VVWR doses ranging from 1 x 10^7 to 3.2 x 10^3 in fivefold dilutions (Bielinska et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine107">
+		<vaccine_name>LC16m0</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004098</vo_id>
+		<type>Live attenuated</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference166">The LC16m0 strain is one of several temperature-sensitive and further attenuated variants derived from the Lister (Elstree) strain of vaccinia virus, which has a proven safety record in human populations. Several types of recombinant vaccinia viruses expressing a foreign antigen gene from a pathogenic virus have been constructed using the LC16m0 strain as a vector, and their immunological and virological characteristics have been investigated extensively (Sugimoto et al., 1994).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference166">Both LC16m8 and LC16m0 strains are temperature-sensitive and revealed much lower neurovirulence in cynomolgus monkeys and rabbits than the parental virus (LO): viral growth of LC16m0 and LC16m8 in the brain of rabbits and cynomolgus monkeys was at a lower level than that of LO. The genes responsible for neurovirulence and temperature sensitivity do not seem to correlate with the B5R gene and remain to be identified. The identification of these genes will make it possible to improve the VV vectors. The neurovirulence of RVVs tended to be milder than that of the parental vaccinia viruses. The neurovirulence of the WR strain and its recombinant was strongest, followed by that of LO1/LO-RVV (Sugimoto et al., 1994).</virulence>
+		<preparation refs="reference166">The Lister strain (Elstree) was one of the vaccinia viruses employed in the preparation of vaccines which were widely used in the World Health Organization smallpox eradication program with an acceptable safety record. The LC16 strains were first selected through 36 passages of the original Lister (LO) strain in primary rabbit kidney cells at 30°C. After a further 6 passages, LC16m0 was selected as a temperature-sensitive and medium pock-forming virus, and LC16m8 was cloned from the LC16m0 strain as a small pock-forming variant. The LC16m0 strain was shown to be satisfactorily attenuated in terms of fever response by inoculating nearly 1000 subjects, and the LC16m8 strain was confirmed to be more attenuated, especially in terms of dermal reaction, by tests on more than 100,000 children in Japan in 1974 and 1975, and was licensed as the first attenuated smallpox vaccine (Sugimoto et al., 1994).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine98">
+		<vaccine_name>LC16m8</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004091</vo_id>
+		<type>Attenuated Lister strain</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference143">LC16m8 was developed and widely used in Japan prior to the global eradication of smallpox. Numerous preclinical safety studies in several animal species were conducted comparing LC16m8 to the parental strain Lister, each showing that the attenuated vaccinia virus strain, in contrast to Lister, was incapable of invading the central nervous system (CNS). LC16m8 also was not neuroinvasive in cortisone-treated immunocompromised mice. Clinical trials in Japan, in which over 10,000 children received LC16m8, demonstrated enhanced safety of this attenuated vaccine in comparison to Lister, while confirming that its immunogenicity was unaltered (Empig et al., 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference143">RPV is a virulent strain of vaccinia virus that produces high levels of detectable EEV. In infected rabbits, it causes a generalized, disseminated infection, resulting in death in the majority of cases. However, LC16m8, despite the B5R mutation, is equivalent to Dryvax in the capacity to protect rabbits from lethal RPV challenge (Empig et al., 2006).</virulence>
+		<preparation refs="reference143">Virus suspensions were diluted serially in phosphate-buffered saline (PBS) supplemented with adjuvant and overlaid with a suspension of 1% carboxyl methyl cellulose in DMEM supplemented to contain 5% FBS (Empig et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering54" gene_id="gene55">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-B5R; required for trans-Golgi/endosomal membrane-wrapping of IMV ( NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering62" gene_id="gene57">
+			<type>Protein</type>
+			<description refs="reference167"> Similar to VACCP-A33R; associates with A36R; involved in CEV-cell adherence and actin tail formation (NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering63" gene_id="gene59">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-A34R; involved in CEV cell adherence and actin tail formation (NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering64" gene_id="gene60">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-A36R; interacts with A33R and used in actin tail formation (NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering65" gene_id="gene66">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-A56R; EEV; type-I membrane glycoprotein; inhibits cell fusion (NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering66" gene_id="gene67">
+			<type>Protein</type>
+			<description refs="reference167">Similar to VACCP-F13L; phospholipase motif, required for IEV formation (NCBI).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering67" gene_id="gene68">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response122" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">A/NCR</host_strain>
+			<vaccination_protocol refs="reference143">Three groups of 30 4–6 week old A/NCR mice each were vaccinated at the base of the tail with LC16m8 (approximately 2 × 10^5 PFU). Forty-one days post-vaccination, sera were collected for assessment of virus-specific antibody responses prior to challenge. Forty-nine days post-vaccination, animals were challenged with ECTV delivered by aerosol. ECTV was suspended in DMEM without FBS and inoculated by using a nose-only inhalation exposure system. The remaining mice were observed for 21 days for signs of disease and mortality. Animals were evaluated daily for weight assessment and clinical symptoms (Empig et al., 2006).</vaccination_protocol>
+			<persistence refs="reference143">(Empig et al., 2006)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference143">Mice immunized with LC16m8 were protected against lethal ECTV infection. LC16m8 generated antibody responses in mice that exceeded those generated by Dryvax (Empig et al., 2006).</protection_efficacy>
+			<side_effects refs="reference143">Despite limiting vaccination to healthy individuals in recent vaccination campaigns, adverse reactions were still observed, highlighting the need for a safer yet equally protective alternative to Dryvax. However, no serious adverse reactions, such as encephalitis, were observed during the early use of LC16m8 vaccine (Empig et al., 2006).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference143">To evaluate the protective efficacy of LC16m8 in comparison to Dryvax, the study employed both rabbit and mouse models of poxvirus disease (Empig et al., 2006).</description>
+		</host_response>
+		<host_response host_response_id="host_response123" host_id="host6">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">New Zeland White (NZW)</host_strain>
+			<vaccination_protocol refs="reference143">Groups of 20 NZW rabbits (10 male and 10 female) were vaccinated with LC16m8 (at approximately 2 × 10^5 PFU) via scarification to the hind flank. 28 d after vaccination, animals were challenged intradermally with either low (200 PFU) or high (1000 PFU) doses of RPV, which correspond to 1 or 5 times the LD100 value, respectively. Animals were monitored daily for temperature and behavioral changes. Survival was determined at 10 d after RPV challenge, at which time all living rabbits were euthanized (Empig et al., 2006).                  </vaccination_protocol>
+			<persistence refs="reference143">(Empig et al., 2006)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference143">Rabbits vaccinated with LC16m8 survived lethal RPV challenge at both challenge doses tested (Empig et al., 2006).</protection_efficacy>
+			<side_effects refs="reference143">A mild inflammatory response was detected over the vaccination site 1–7 d following vaccination with either LC16m8 or Dryvax. The response was characterized by ulceration and erythema, followed by pock formation and a small scar. Despite limiting vaccination to healthy individuals in recent vaccination campaigns, adverse reactions were still observed, highlighting the need for a safer yet equally protective alternative to Dryvax. However, no serious adverse reactions, such as encephalitis, were observed during the early use of LC16m8 vaccine (Empig et al., 2006).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference143">To evaluate the protective efficacy of LC16m8 in comparison to Dryvax, the study employed both rabbit and mouse models of poxvirus disease (Empig et al., 2006).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine99">
+		<vaccine_name>MVA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004092</vo_id>
+		<type>Replication-defective virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference135">Modified vaccinia Ankara (MVA) has been studied most extensively out of the replication-defective vaccines. MVA has an excellent safety profile and could be used in groups in whom Dryvax is currently contraindicated. MVA was given to 120,000 people in Germany in the 1970s, followed by vaccination with live virus Elstree. MVA was safe but was not field-tested because smallpox was not present in Europe at that time. MVA has since been evaluated in animal models and in human studies. In phase I human clinical trials, MVA was found to be safe and immunogenic on its own and found to prime for greater immune responses and attenuate lesion formation if given in advance of Dryvax vaccination. MVA is also being evaluated in persons with contraindications to live virus vaccine such as atopic dermatitis and immunosuppression (Parrino et al., 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference155 reference156">(Earl et al., 2004)(Meseda et al., 2005)</virulence>
+		<preparation refs="reference155">A vial of MVA passage 572 was plaque-purified, propagated in chick embryo fibroblasts, and purified by sedimentation through a sucrose cushion (Earl et al., 2004).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response124" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Cynomolgous macaque (Macaca fascicularis)</host_strain>
+			<vaccination_protocol refs="reference155">Monkeys were inoculated with 10^8 plaque-forming units (PFU). 24 monkeys were divided into 4 groups: group 1 received an inoculation with 10^8 PFU of MVA at t = 0 and a second 2 months later; group 2 received one injection with 10^8 PFU of MVA followed 2 months later by a standard percutaneous inoculation with Dryvax; group 3 received nothing at t = 0 and 1 Dryvax inoculation 2 months later; group 4 served as the unimmunized control (Earl et al., 2004).</vaccination_protocol>
+			<persistence refs="reference155">The response to the first MVA inoculation was detected at 1 week, peaked at 2-4 weeks, and was boosted 1 week after the second MVA dose (Earl et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference155">All immunized animals remained clinically well (Earl et al., 2004).</protection_efficacy>
+			<side_effects refs="reference155">MVA caused no adverse effects, even when high doses were injected into immune-deficient NHPs (Earl et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference155">As vaccines can no longer be tested for their ability to prevent smallpox, licensing will necessarily include comparative immunogenicity and protection studies in non-human primates (NHPs). Here, a highly attenuated MVA is compared with the licensed Dryvax vaccine in an NHP model (Earl et al., 2004).</description>
+		</host_response>
+		<host_response host_response_id="host_response125" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/cByJ</host_strain>
+			<vaccination_protocol refs="reference156">To compare the effectiveness of various routes of MVA immunization, male BALB/cByJ mice (obtained from the Jackson Laboratory, Bar Arbor, ME) were immunized through 3 different routes at doses from 10^6 to 10^8 pfu, and sera were collected every 3 weeks for 15 weeks for evaluation of Dryvax-specific antibody by ELISA using inactivated virus (Meseda et al., 2005).                  </vaccination_protocol>
+			<persistence refs="reference156">The antibody response to vaccination was observed in mice over a relatively long period of time (12–15 weeks) following the initial dose of vaccine. By each measurement, the elicited immune response was stable over this time frame for both Dryvax and MVA. Further, when animals received a second dose of MVA, the antibody response was elevated compared to a single immunization, and was stable for the remainder of the observation period (6 to 9 weeks) (Meseda et al., 2005).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference156">Mice immunized intradermally (i.d.) with either 10^8 pfu of MVA, or a prime-boost combination of 10^8 pfu of MVA followed by either 10^6 pfu of Dryvax or 10^8 pfu of MVA survived an intranasal (i.n.) challenge with 25 LD50s of vaccinia virus WR. Furthermore, vaccination with a single dose of 10^8 pfu of MVA resulted in a minimal weight loss (&lt;10%), as did a vaccination combination of 10^8 pfu of MVA followed by 10^6 pfu of Dryvax. When mice that were immunized with a lower dose of 10^6 pfu of MVA were challenged with i.n. vaccinia virus WR, 4/5 survived a challenge with 10 LD50s at either 6 weeks or 12 weeks post-vaccination. When mice received a single immunization of 10^6 pfu of MVA and were challenged with 25 LD50s, 4/5 survived challenge at 6 weeks post-vaccination and 3/5 survived challenge at 12 weeks post-vaccination. In contrast, all animals receiving 10^6 MVA and boosted 6 weeks later with either 10^6 pfu of MVA or 10^6 pfu of Dryvax survived. These results indicate that combinations of MVA are as effective as Dryvax in eliciting immune responses and inducing protective immunity in a mouse model (Meseda et al., 2005).</protection_efficacy>
+			<side_effects refs="reference155 reference156">A safer smallpox vaccine could benefit the millions of people that are advised not to take the current one because they or their contacts have increased susceptibility to severe vaccine side effects. Because the correlates of smallpox protection are unknown, findings of similar humoral and cellular immune responses to MVA and Dryvax in NHPs and substantial protection against a severe monkeypox virus challenge are important steps in the evaluation of MVA as a replacement vaccine for those with increased risk of severe side effects from the standard live vaccine, or as a pre-vaccine. As a result of extreme attenuation, MVA causes no adverse effects even when high doses are injected into immunedeficient NHPs. No adverse local or systemic effects were noted after vaccination with MVA. As expected, pustular skin lesions did develop after Dryvax (Earl et al., 2004).
+Significant adverse events are associated with vaccination with the currently licensed smallpox vaccine. Candidate new-generation smallpox vaccines, such as MVA, produce very few adverse events in experimental animals and in limited human clinical trials conducted near the end of the smallpox eradication campaign. MVA was administered to more than 120,000 individuals in the latter stages of the smallpox eradication campaign without significant adverse events, although the thoroughness of safety data monitoring at that time is unclear. In addition to a vaccination strategy that employs multiple immunizations of MVA, alternative smallpox vaccination strategies may include an initial vaccination with non-replicating virus vaccine followed by a second immunization with a traditional replicating virus vaccine in order to reduce the possibility of vaccine-associate adverse events due to replicating vaccinia virus. Such a scheme of vaccination may be considered as a means of reducing the rate of adverse events associated with traditional smallpox vaccination, provided that vaccine efficacy is not compromised (Meseda et al., 2005).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference156">The aim of the present study was to compare the immunogenicity and protective ability of MVA (a leading candidate new-generation smallpox vaccine) to the licensed smallpox vaccine Dryvax in a mouse model of vaccination. MVA is a replication-defective vaccinia virus derived from the Ankara strain by more than 500 passages through primary chicken embryo fibroblasts (CEF). This virus grows to high titer in CEF cells but replicates poorly, if at all, in human cells (Meseda et al., 2005).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine106">
+		<vaccine_name>MVA-BN</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004097</vo_id>
+		<type>Highly attenuated clone</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference157">MVA-BN (IMVAMUNE) was developed from the Modified Vaccinia Ankara strain (MVA) that was used as a priming vaccine prior to administration of conventional smallpox vaccine in a two-step program and shown to be safe in more than 120,000 primary vaccinees in Germany and used as a veterinary vaccine to protect against several veterinary orthopoxvirus infections (Vollmar et al., 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference157">(Vollmar et al., 2006)</virulence>
+		<preparation refs="reference157">MVA-BN has been derived via additional passages in serum free chicken embryo fibroblast (CEF) cultures, and is replication incompetent in mammalian cell lines, avirulent even in immune compromised hosts, highly immunogenic in mammalian animal models, and may be administered both s.c. and i.m. The vaccine was produced by IDT under Good Manufacturing Practice (GMP) conditions and provided by Bavarian Nordic as a liquid frozen product stored at −80 °C. Doses of 2 × 10^6, 2 × 10^7, 2 × 10^8 TCID50/ml were formulated in 10 mM Tris, 140 mM NaCl, pH 7.4. The vaccine was thawed and 0.5 ml were administered to subjects to deliver a dose of 10^6, 10^7, 10^8 TCID50, respectively (Vollmar et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response126" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Adult males</host_strain>
+			<vaccination_protocol refs="reference157">Healthy male subjects aged 20–55 years were eligible for recruitment. The study design was divided into two parts: Part I subjects (n = 68) had no prior history of smallpox vaccination, while Part II (n = 18) subjects had a prior history of smallpox vaccination, documented by a vaccination certificate or a typical vaccination scar. Part I subjects were randomly assigned to receive a dose of either 10^6 (Group 1, n = 18), 10^7 (Group 2, n = 16), 10^8 (Group 3, n = 16) TCID50 MVA-BN in a double-blind manner, or 10^8 TCID50 (Group 4, n = 18) open-label, on day 0 and d28. Part II participants received a single dose of 10^8 TCID50 (Group 5, n = 18), open-label, to evaluate a boost response in previously vaccinated subjects. Study-specific assessments were conducted at screening and on d 0, 7, 28, 35, 42, and 126 (Vollmar et al., 2006).</vaccination_protocol>
+			<persistence refs="reference157">T-cell immunity can persist for up to 50 years after immunization (Vollmar et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference157">The immune responses achieved after administration of MVA-BN were highly dose-dependent. Total IgG seropositivity rates, as determined by the ELISA, reached a maximum of 81% and 88% following a single vaccination using the highest dose (10^8 TCID50) via the s.c. or i.m. routes, respectively. They reached 100% following the second vaccination. On the other hand, the pre-immunized subjects attained 100% seropositivity after a single vaccination with MVA-BN although only 4 of these subjects had detectable antibody titers prior to inclusion, implying a pre-existing boostable immunity more than 20 years post-vaccination (Vollmar et al., 2006).</protection_efficacy>
+			<side_effects refs="reference157">15 of the 64 general adverse events were assessed as possibly related to the study vaccine. 2 of these each occurred in Groups 1, 3, and 4, respectively, and 9 (28%) in the pre-immunized subjects. Only 1 serious adverse event was reported during the study: a subject in Group 4 was hospitalized due to an infected epidermal cyst on the face, 12 days after the second injection; however, this event was judged to be unrelated to the study vaccine, and the subject recovered without sequelae (Vollmar et al., 2006).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference157">The primary objective of the study was to demonstrate safety and tolerability of MVA-BN at different doses administered to healthy subjects with or without a history of smallpox vaccination. Immunogenicity was assessed in all subjects as a secondary endpoint and was also used to evaluate dose-related responses and optimal route of application (Vollmar et al., 2006).</description>
+		</host_response>
+		<host_response host_response_id="host_response128" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">cynomolgus macaques (Macaca fascicularis)</host_strain>
+			<vaccination_protocol refs="reference159">Four groups of six captive-bred sub-adult healthy monkeys each were vaccinated: the first group was vaccinated twice with a high dose of 10^8 TCID50 MVA-BN at an interval of 4 weeks, the second group was vaccinated with a low dose of 2 x 10^6 TCID50 MVA-BN followed 10 days later by a s.c. vaccination with Elstree-RIVM, the third group was vaccinated with one s.c. standard dose of Elstree-RIVM, and the fourth group was vaccinated s.c. with one standard dose of Elstree-BN. Group V was sham vaccinated. 15 weeks after the last vaccination, all of the animals were challenged intratracheal (i.t.) with either 10^6 PFU (3 animals per group) or 10^7 PFU (3 animals per group) of MPXV, which were chosen as sub-lethal and lethal challenges, respectively (Stittelaar et al., 2005).</vaccination_protocol>
+			<persistence refs="reference159">(Stittelaar et al., 2005)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference159">All vaccinated animals that were challenged showed an episode of elevated body temperature (&gt;1°C; ~2.65%) that occurred between days 5 and 8 post-challenge which returned to normal by d 12. Only one vaccinated animal developed pocks upon MPXV challenge, while all others showed no clinical signs of the disease apart from an elevated body temperature. This animal, which was vaccinated with MVA-BN (group I), initially developed pocks (&gt;70) on d 11 after the challenge with MPXV (Stittelaar et al., 2005).</protection_efficacy>
+			<side_effects refs="reference159">Elevated body temperatures were observed (Stittelaar et al., 2005).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference159">The present study investigated different combinations of candidate and traditional vaccines, followed by MPXV challenge i.t. The MVA strain (MVA-BN, or IMVAMUNE) is currently being tested in &gt;300 human subjects in on-going phase I and II clinical studies, including individuals for whom vaccination with traditional smallpox vaccines is traditionally contraindicated. For the present study, the immune response and efficacy of MVA-BN vaccination were compared to those of a primary vaccination with MVA-BN followed by vaccination with a first-generation smallpox vaccine produced on calf skins (Elstree-RIVM). For this purpose, a low dose of MVA was chosen to prime the immune system, thus reducing the side effects of vaccination with a traditional vaccine shortly thereafter without changing the take rate of the traditional vaccine. In addition, vaccination protocols with Elstree-RIVM alone and vaccination with a second-generation vaccine (Elstree-BN) were evaluated. Elstree-BN is based on the same vaccinia virus strain as Elstree-RIVM, but the former was passaged and produced on chicken embryo fibroblasts to further attenuate the virus and to make a better defined vaccine preparation that does not depend on the use of calves (Stittelaar et al., 2005).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine100">
+		<vaccine_name>NYVAC</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004093</vo_id>
+		<type>Replication defective virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference161">Smallpox vaccination induced significantly larger skin lesions in immunocompromised macaques than in healthy macaques. Vaccination of immunocompromised macaques with the genetically-engineered, replication-deficient poxvirus NYVAC, before or after retrovirus infection, was safe and lessened the severity of Dryvax-induced skin lesions. Neutralizing antibodies to vaccinia were induced by NYVAC, even in macaques with severe CD4+ T cell depletion, and their titers inversely correlated with the time to complete resolution of the skin lesions. Together, these results provide the proof of concept, in macaque models that mirror human immunodeficiency virus (HIV) type 1 infection, that a prime-boost approach with a highly attenuated poxvirus followed by Dryvax increases the safety of smallpox vaccination, and they highlight the importance of neutralizing antibodies in protection against virulent poxvirus (Edghill-Smith et al., 2003).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference165 reference164">(Belyakov et al., 2003)(Edghill-Smith et al., 2003)</virulence>
+		<preparation refs="reference135">NYVAC was derived from the Copenhagen strain and developed by selective deletion of 18 open reading frames (ORFs) (Parrino et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response131" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c, B cell-deficient, and CD1 KO–/– mice</host_strain>
+			<vaccination_protocol refs="reference165">Female BALB/c mice (6–10  weeks old, purchased from Frederick Cancer Research Facility, Frederick, MD), B cell-deficient (Taconic Farms), and CD1 KO-/- (CD1KO, from M. Grusby) mice were innoculated with NYVAC at doses from 10^3 to 10^7 pfu. For comparison, and as a positive control, immunization with Wyeth human vaccine strain of vaccinia virus was given by tail scratch (corresponding to skin scratch used for human vaccination). One month after immunization, mice were challenged with 10^6 pfu of WR by intranasal (i.n.) inoculation (Belyakov et al., 2003).</vaccination_protocol>
+			<persistence refs="reference165">(Belyakov et al., 2003)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference165">Protection at most doses of NYVAC given i.m. was roughly comparable to that produced by the corresponding doses of MVA given i.m., and no statistically significant difference was detected. It was found that i.m. injection with MVA induced protection of immunized animals in a dose-dependent manner. A dose of 10^7 pfu of MVA given i.m. induced complete protection against challenge with WR (Belyakov et al., 2003).</protection_efficacy>
+			<side_effects refs="reference165">None were mentioned. Replication-defective strains might be valuable as a preliminary immunization to reduce the risk of serious adverse ffects of conventional smallpox vaccination (Belyakov et al., 2003).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference165">At sufficient doses, the protection provided by modified NYVAC replication-deficient vaccinia viruses, safe in immunocompromised animals, was equivalent to that of the licensed Wyeth vaccine strain against a pathogenic vaccinia virus i.n. challenge of mice. A similar variety and pattern of immune responses were involved in protection induced by modified vaccinia Ankara and Wyeth viruses. For both, antibody was essential to protect against disease, whereas neither effector CD4+ nor CD8+ T cells were necessary or sufficient. However, in the absence of antibody, T cells were necessary and sufficient for survival and recovery. Also, T cells played  a greater role in control of sublethal infection in unimmunized animals. These properties, shared with the existing smallpox vaccine, provide a basis for further evaluation of these replication-deficient vaccinia viruses as safer vaccines against smallpox or against complications from vaccinia virus (Belyakov et al., 2003).</description>
+		</host_response>
+		<host_response host_response_id="host_response135" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Indian rhesus macaques</host_strain>
+			<vaccination_protocol refs="reference164">Twenty-five monkeys were enrolled: 6 of the macaques were immunocompetent (groups 1 and 2), and macaques in group 1 were vaccinia naive. Macaques in group 2 had been exposed previously to the attenuated nef- SIVmac239 strain. They were immunized with a single inoculation of NYVAC 1 month before Dryvax vaccination. Group 3 included 7 macaques, 3 that had been infected with the chimeric SHIV 89.6 PD strain for 8 months, 3 that had been infected with the SIVmac251 strain for 12 months, and 1 that had been infected with the nef- SIVmac239 strain for 32 months. Four macaques (group 5) that, at first, had been infected with the same SIVmac251 strain and that subsequently were vaccinated with 3 inoculations of NYVAC, at weeks 10, 19, and 23 after infection (for macaques 480, 644, and H684) or at weeks 42, 48, and 54 after infection (for macaque 3143), were used. The overall time of SIVmac251 infection was 41 months for macaques 480 and 644 and 25 months for macaques H684 and 3143. Four macaques had been infected with SHIV 89.6 PD for 12 months. They were vaccinated with 3 inoculations of NYVAC (10^8 pfu) 6 weeks apart and were challenged with Dryvax 6 months after the final NYVAC immunization. All 25 macaques were vaccinated with Dryvax at the same dose at the times indicated. In brief, the bifurcated needle was immersed in the vaccine suspension and was used to poke the skin 15 consecutive times, in accordance with US Food and Drug Administration (FDA) guidelines. The lesions that developed after smallpox vaccination were photographed every 2 days and were imaged by manually defining the topographic contours of the affected skin ( Edghill-Smith et al., 2003).</vaccination_protocol>
+			<persistence refs="reference164">The immunocompromised macaques were vaccinated with NYVAC at 6 months to a maximum of 36 months before Dryvax challenge, suggesting that this vaccine is able to induce lasting immune responses even as CD4+ helper T cells are progressively depleted. However, the lag between NYVAC and Dryvax vaccinations appears to be important ( Edghill-Smith et al., 2003).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference164">The prime-boost approach with a highly attenuated poxvirus followed by Dryvax increases the safety of smallpox vaccination, and highlights the importance of neutralizing antibodies in protection against virulent poxvirus ( Edghill-Smith et al., 2003).</protection_efficacy>
+			<side_effects refs="reference164">The prime-boost approach with a highly attenuated poxvirus followed by Dryvax increases the safety of smallpox vaccination (Edghill-Smith et al., 2003).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference164">The replication competence of live vaccines, such as the only currently available smallpox vaccine, Dryvax, may pose safety concerns when injected in individuals with congenital, acquired, or iatrogenic immunodeficiency. Because the number of patients with immunodeficiency has increased worldwide as a result of the HIV-1 epidemic, the increase in the number of organ transplants, and aggressive chemotherapy in patients with cancer, the risks associated with Dryvax vaccination may affect a larger portion of the population than before. It has been hypothesized that immunization of immunocompromised individuals, with highly attenuated poxviruses, may ameliorate the clinical outcome of Dryvax vaccination. In macaques with modest to severe depletion of CD4+ T cells, it was tested whether immunization with NYVAC before or after infection with simian immunodeficiency virus (SIV) or simian/human immunodeficiency virus (SHIV) would increase the safety of Dryvax vaccination. NYVAC was shown to be safer in severely immunocompromised macaques and that NYVAC priming resulted in a faster resolution of Dryvax-induced lesions in both healthy and immunocompromised macaques ( Edghill-Smith et al., 2003).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine305">
+		<vaccine_name>Recombinant vaccinia A27L, D8L, and B5R Proteins with adjuvant MPL-TDM</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004149</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference701">The adjuvant used in this vaccine was Monophosphoryl Lipid A and Trehalose Dicorynomycolate (MPL-TDM) (Berhanu et al., 2008).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference701">Vaccines contained 10 micrograms of A27L, D8L, and B5R in 100 microliters of phosphate buffered saline mixed with 100 microliters of MPL-TDM (Berhanu et al., 2008).</preparation>
+		<route refs=""></route>
+		<antigen refs="reference701">This vaccine uses the A27L and D8L proteins from the intracellular mature virus form and the B5R protein from the extracellular enveloped virus form of the vaccinia virus (Berhanu et al., 2008).</antigen>
+		<host_response host_response_id="host_response391" host_id="host3">
+			<immune_response refs="reference701">Three immunization with the proteins alone induced potent neutralizing antibody reponses (Berhanu et al., 2008).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference701">Six-week old mice were immunized three times subcutaneously at weeks 0, 3, and 5 (Berhanu et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference701">Immunization provided complete protection against lethal viral challenge. Several linear B-cell epitopes within the three proteins were recognized by serum from the immunized mice. In addition protein-specific cellular responses were detected in spleens of immunized mice by gamma interferon (Berhanu et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference701">Five weeks or two weeks after the last immunization, mice were challenged intranasally with with 20 LD50 VV-WR in 20 microliters of PBS by applying equally between the two nares (Berhanu et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine103">
+		<vaccine_name>Smallpox DNA Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004096</vo_id>
+		<type>DNA</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference135">DNA vaccine strategies have been investigated in animal models. A DNA vaccine composed of 4 vaccinia virus genes protected rhesus macaques from severe disease, with the animals exhibiting mild clinical and laboratory abnormalities, after challenge with a lethal dose of monkeypox virus. When vaccinated with a single gene (L1R), macaques developed severe, but not fatal, disease. Heterologous prime-boost strategies have also been evaluated. Priming BALB/c mice with DNA vaccine resulted in greater immune responses after boosting with live vaccinia virus compared with controls (Parrino et al., 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference138">(Hooper et al., 2004)</virulence>
+		<preparation refs="reference138">The 4pox DNA vaccine contained two IMV-specific genes (L1R and A27L) and two EEV-specific genes (A33R and B5R) (Hooper et al., 2004).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering27" gene_id="gene28">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering28" gene_id="gene29">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering29" gene_id="gene30">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering30" gene_id="gene31">
+			<type>Protein</type>
+			<description refs="reference138">(Hooper et al., 2004)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response129" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">rhesus macaque (Macaca mulata)</host_strain>
+			<vaccination_protocol refs="reference138">The challenge experiment included 4 groups: group 1 consisted of 3 monkeys vaccinated with the 4pox DNA vaccine, group 2 consisted of 2 monkeys vaccinated with the L1R DNA vaccine, group 3 (negative controls) consisted of 3 monkeys vaccinated with a Hantaan virus DNA vaccine, and group 4 (positive controls) consisted of 2 monkeys vaccinated with the human smallpox vaccine (Dryvax). The L1R DNA vaccine was tested to determine the degree to which vaccination with a single immunogen eliciting IMV-neutralizing antibodies could confer protection. The DNA vaccines were administered by gene gun. Five weeks before challenge, all monkeys, except the monkeys vaccinated with Dryvax and one of the negative controls, were vaccinated with new preparations of the same DNA vaccine they had received 1-2 years earlier. This booster vaccination was administered to affirm that immunological memory had been elicited by the initial vaccination series and to ensure robust responses to the DNA vaccines with the intent to prove concepts rather than explore minimal requirements for protection. Based on the dosing experiments, a dose of 2 x 10^7 PFU was chosen for the vaccine evaluation experiment. Vaccinated monkeys were challenged with MPOV-Z79 by i.v. injection into the right or left saphenous vein. At 2-day intervals, whole-blood, serum, and throat swab samples were collected, and rectal temperature, pulse, and blood oxygen saturation were measured (Hooper et al., 2004).</vaccination_protocol>
+			<persistence refs="reference138">Gene gun vaccination with the 4pox DNA vaccine or the L1R DNA vaccine elicited a memory response that was maintained for at least a year and up to 2 years (Hooper et al., 2004).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference138">Monkeys vaccinated with the 4pox DNA vaccine were protected not only from lethal monkeypox but also from severe disease. This is the first demonstration that vaccination with a combination of VACV immunogens, rather than the whole infectious virus, is sufficient to protect NHPs against any poxvirus disease (Hooper et al., 2004).</protection_efficacy>
+			<side_effects refs="reference138">Although VACV is highly immunogenic and is known to confer long-lasting protective immunity to smallpox, the adverse events associated with the present smallpox vaccine (i.e., Dryvax) pose a significant obstacle to successful vaccination campaigns. Adverse events historically associated
+with VACV range from the nonserious (e.g., fever, rash, headache, pain, and fatigue) to life threatening (e.g., eczema vaccinatum, encephalitis, and progressive vaccinia). Serious adverse events that are not necessarily causally associated with vaccination, including myocarditis and/or myopericarditis, have been reported during past and present smallpox vaccination programs. Several adverse cardiac events reported in the first 4 months of the 2003 civilian and military vaccination campaigns prompted the CDC to revise their recommendations for exclusion of potential smallpox recipients to include those persons with heart disease or several other conditions. In addition, identifying protective immunogens might allow the development of a subunit smallpox vaccine that affords protection with negligible adverse events (Hooper et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference138">Much of the threat posed by orthopoxviruses could be eliminated by vaccination; however, because the smallpox vaccine is a live orthopoxvirus vaccine administered to the skin, the vaccine itself can pose a serious health risk. The present study demonstrates that monkeys vaccinated with a DNA vaccine consisting of four vaccinia virus genes (L1R, A27L, A33R, and B5R) were protected from severe disease after an otherwise lethal challenge with monkeypox virus. Animals vaccinated with a single gene (L1R), which encodes a target of neutralizing antibodies, developed severe disease but survived. This is the first demonstration that a subunit vaccine approach to smallpox-monkeypox immunization is feasible (Hooper et al., 2004).</description>
+		</host_response>
+		<host_response host_response_id="host_response132" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference160">Adult (16–23 g) female BALB/c mice were vaccinated in the skin of the thigh using an Easy Vax™ DNA vaccine delivery system to deliver the vaccine plasmids on weeks 0, 3, and 8. Anesthetized mice were scarified by placing 10 μl of PBS containing live VACV on the tail. A 26 gauge 5/8&quot; needle was used to scratch the tail to facilitate infection/vaccination. A lesion (pock) at the site of scarification on d 10 indicated successful vaccination. Mice were anesthetized and weighed before i.n. injection of 50 μl of PBS containing 2 × 10^6 pfu of VACV strain IHD-J using a plastic pipette tip. After challenge, mice were observed and weighed daily for 3 weeks (Hooper et al., 2006).</vaccination_protocol>
+			<persistence refs="reference162">(Hooper et al., 2006)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference160">Mice vaccinated with the 4pox DNA vaccine using the Easy Vax™ device were completely protected from i.n. challenge with &gt;10 LD50 of VACV, strain IHD-J (Hooper et al., 2006).</protection_efficacy>
+			<side_effects refs="reference162">There are several drawbacks to the current anthrax vaccines including nonserious and serious adverse events that make the vaccine contraindicated in large segments of the population (e.g., persons who are immunodeficient, immunosuppressed, pregnant, breastfeeding, or have history of cardiac disease), and because this vaccine results in a localized skin infection containing infectious virus (i.e. pock), the infection can spread to other sites on the body (e.g. ocular autoinoculation) or to persons who come in close contact with the vaccinee. Identification of the genes associated with protective immunity and, conversely, the genes associated with adverse events unrelated to dissemination or transmission will be important for characterizing the next-generation smallpox vaccines and for engineering future smallpox vaccines (Hooper et al., 2006).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference162">The enhanced immunogenicity of DNA vaccines delivered by gene gun likely involves the direct introduction of plasmid DNA to cells in the skin, including specialized antigen-presenting cells (APCs). While the gene gun has yielded among the most promising immune responses for a DNA vaccine thus far, there is the possibly that all of the criteria required for successful product development will not be satisfied. Hence, it is important to continue to evaluate alternative technologies that might better facilitate the development of licensed human vaccines. Alternative means of delivering DNA vaccines under investigation include the use of electric field technologies. Electroporation is a process whereby cells are transiently permeabilized by high-intensity electric field pulses. The present study tests a novel device capable of targeting electroporation to the dermis using a microneedle array. The plasmid DNA is dried onto the tips of the microneedles, which are inserted into the skin where the DNA dissolves in interstial fluid and is then transfected into the surrounding cells by electroporation (Hooper et al., 2006).</description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene68">
+        <gene_name>A21L</gene_name>
+        <strain>Vaccinia virus</strain>
+        <vo_id>VO_0012363</vo_id>
+        <ncbi_gene_id>3707670</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>66275937</ncbi_protein_id>
+        <gene_locus_tag>VACWR140</gene_locus_tag>
+        <gene_refseq>AY603355</gene_refseq>
+        <protein_refseq>YP_233022</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10245</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>127904</gene_start>
+        <gene_end>128257</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>IMV membrane protein</protein_name>
+        <protein_pi>8.71</protein_pi>
+        <protein_weight>12850.65</protein_weight>
+        <protein_length>117</protein_length>
+        <protein_note>IMV membrane protein; similar to vaccinia virus strain Copenhagen A21L; The poxviridae are enveloped unsegmented dsDNA viruses; unlike many dsDNA viruses that replicate in the host nucleus poxviruses encode their own replication machinery and therefore replicate in the cytoplasm; viral genes are expressed in a bi-phasic manner with early genes encoding non-structural proteins involved in genome replication and late genes encoding the viral structural proteins</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_006998.1:127904-128257 Vaccinia virus, complete genome
+TTTAGGTAGTAAAAAATAAGTCAGAATATGCCCTATAACACGATCGTGCAAAACCTGGTATATCGTCTCT
+ATCTTTATCACAATATAGTGTATCGACATCTTTATTATTATTGACCTCGTTTATCTTGGAACATGGAATG
+GGAACATTTTTGTTATCAACGGCCACCTTTGCCTTAATTCCAGATGTTGTAAAATTATAACTAAACAGTC
+TATCATCGACACAAATGAAATTCTTGTTTAGACGTTTGTAGTTTACGTATGCGGCTCGTTCGCGTCTCAT
+TTTTTCAGATATTGCAGGTACTATAATATTAAAAATAAGAATGAAATAACATAGGATTAAAAATAAAGTT
+ATCA
+
+</dna_sequence>
+        <protein_sequence>>YP_233022.1 Membrane protein [Vaccinia virus]
+MITLFLILCYFILIFNIIVPAISEKMRRERAAYVNYKRLNKNFICVDDRLFSYNFTTSGIKAKVAVDNKN
+VPIPCSKINEVNNNKDVDTLYCDKDRDDIPGFARSCYRAYSDLFFTT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene29">
+        <gene_name>A27L</gene_name>
+        <strain>Monkeypox virus (strain: Zaire-96-I-16)</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>928973</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>MPXVgp137</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|17529780:c137905-135815 Monkeypox virus strain Zaire-96-I-16, complete genome
+ATGGAGGTCACGAACCTTATTAAAAAATGTACCAAACACTCCAAAGATTTCGCCACTGAGGTAGAAAAAC
+TATGGAATGATGAGTTGAGTTCTGAATCAGGTCTCACAAGAAAAACAAGAAATGTAATTCGTAATATTCT
+TCGTGATATCACTAAGTCATTAACTACAGATAAGAAATCAAAGTGTTTCCGTATACTAGAACGTTCGACG
+ATTAACGGAGAGCAGATTAAAGATGTATATAAAACTATTTTTAATAATGGTGTTGATGTGGAGTCTAGAA
+TCAACACTACAGGAAAGTATGTTCTATTTACAGTTATGACTTATGCTGCTGAACTACATCTCATTAAGTC
+AGACGAGATATTCGCTCTTCTATCAAGATTTTTTAACATGATATGTGATATTCATAGAAAATACGGATGT
+GGTAATATGTTTGTTGGTATTCCTGCCGCTCTAATTGTTCTGTTGGAAATTGATCACATCAATAAACTGT
+TTAGCGTGTTTAGTACAAGATATGATGCTAAGGCATATCTATATACTGAATATTTCCTCTTCCTTAACAT
+TAATCATTATCTACTTAGTGGTTCAGATCTATTTATCAACGTAGCATATGGTGCTGTATCTTTTTCGTCA
+CCCATTAGTGTTCCAGACTATATCATGGAAGCATTGACATTTAAGGCATGCGATCATATTATGAAATCTG
+GAGATCTAAAATATACATATGCATTTACTAAAAAGGTCAAGGATCTGTTTAATACTAAATCTGATTCTGT
+TTATCAATACGTTAGACTTCATGAAATGTCATATGATGGCGTTTCAGAAGATACGGATGATGACGATGAG
+GTATTCGCTATCCTTAACTTGAGTATCGATTCCAGCGTTGATAGATACAGAAACAGAGTTCTTCTACTAA
+CTCCTGAAGTCGCGTCTCTTAGAAAAGAATATTCTGAAACAGAACCCGATTATAAATACTTGATGGATGA
+GGAAGTGCCCGCGTACGACAAGCATTTGTCTAAGCCTATTACTAATACTGGTATTGAAGAACCACATGCT
+ACTGGAGGAGATAAGGAGGACCAACCAATTAAGGTTGTCCATCCCCCACCTAATAATGATAAAGATGATG
+CTATCAAGCCATACAATCCATTAGAAGATCCTAATTATGTTCCCACAAATACAAGAACGGTTATAGGAAT
+CGCTGATTACCAACTAGTCATTAATAAACTAATTGAATGGTTAGATAAATGCGAGGAAGAATGCGGAAAT
+GATGGAGAGTTTAAAACAGACTTGGAAGAAGCCAAGAGAAAACTCACTGAATTGAATGAAGAACTTAGTG
+ATAAACTCAGTAAGATTAGGACTTTGGAAAGGGATTCTGTTTATAAAACCGAAAGAATCGACAGACTTAC
+AACAGAGATCAAAGAACTCAGGGATATGCAACAAAATGGGACAGATGATGGTTCAGATTCATCAGAAATT
+GATAAGAAGACTATACGAGAATTGAGAGAATCTCTTGATATGGAACGAGAAATGCGGTCAGAACTAGAAA
+AGGAACTGGATACTATTAGGGATGGAAAAGTAGATGGATCTTGTCAACGAGAACTTGAACTCAGTCGTAT
+GTGGCTAAAACAACGCGACGACGATCTCCGAGCTGAAATCGATAAACGTCGTAATGTCGAATGGGAACTG
+TCCAGACTTCGTATGGATATCAAGGAATGTGACAAATACAAGGAGGATCTTGATAAGGATAAGACAACTA
+TTAGTACATACGTGAGCAGAATCAGTACTCTAGAATCAGAAATTGCTAAATATCAACAAGATAGGGACAC
+GCTTTCTGTAGTACACAGAGAACTTGAGGAAGAACGACGACACGTTAGAGATCTCGAATCTAGACTCGAT
+GAATGCACACGCAATCAAGAAGACACACAAGAAGTTGATGCACTGCGTTCACGTATTAGAGAACTAGAGA
+ATAAGTTGACCGACTGCATCGAGAGCGGAGGAGGAAATCTTACAGAGATTAGCAGACTCCAATCTAGAAT
+CTCAGATCTTGAAAGACAACTGAGTGAATGCCGTGGAAATGCTACAGAGATTACAATCTAG</dna_sequence>
+        <protein_sequence>>gi|17529917:1-696 A27L [Monkeypox virus]
+MEVTNLIKKCTKHSKDFATEVEKLWNDELSSESGLTRKTRNVIRNILRDITKSLTTDKKSKCFRILERST
+INGEQIKDVYKTIFNNGVDVESRINTTGKYVLFTVMTYAAELHLIKSDEIFALLSRFFNMICDIHRKYGC
+GNMFVGIPAALIVLLEIDHINKLFSVFSTRYDAKAYLYTEYFLFLNINHYLLSGSDLFINVAYGAVSFSS
+PISVPDYIMEALTFKACDHIMKSGDLKYTYAFTKKVKDLFNTKSDSVYQYVRLHEMSYDGVSEDTDDDDE
+VFAILNLSIDSSVDRYRNRVLLLTPEVASLRKEYSETEPDYKYLMDEEVPAYDKHLSKPITNTGIEEPHA
+TGGDKEDQPIKVVHPPPNNDKDDAIKPYNPLEDPNYVPTNTRTVIGIADYQLVINKLIEWLDKCEEECGN
+DGEFKTDLEEAKRKLTELNEELSDKLSKIRTLERDSVYKTERIDRLTTEIKELRDMQQNGTDDGSDSSEI
+DKKTIRELRESLDMEREMRSELEKELDTIRDGKVDGSCQRELELSRMWLKQRDDDLRAEIDKRRNVEWEL
+SRLRMDIKECDKYKEDLDKDKTTISTYVSRISTLESEIAKYQQDRDTLSVVHRELEEERRHVRDLESRLD
+ECTRNQEDTQEVDALRSRIRELENKLTDCIESGGGNLTEISRLQSRISDLERQLSECRGNATEITI</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene30">
+        <gene_name>A33R from Monkeypox virus (strain: Zaire-96-I-16)</gene_name>
+        <strain>Monkeypox virus (strain: Zaire-96-I-16)</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>928961</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>MPXVgp143</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|17529780:141611-142039 Monkeypox virus strain Zaire-96-I-16, complete genome
+ATGGCATCTATTTTAAATACACTTAGGTTTTTAGAAAAAACATCATTTTATAATTGTAACGATTCAATAA
+CTAAAGAAAAGATTAAGATTAAACATAAGGGAATGTCATTTGTATTTTATAAGCCAAAGCATTCTACCGT
+TGTTAAATACTTGTCTGGAGGAGGTATATATCATGATGATTTGGTTGTATTGGGGAAGGTAACAATTAAT
+GATCTAAAGATGATGCTATTTTACATGGATTTATCATATCATGGAGTGACAAGTAGTGGAGCAATTTACA
+AATTGGGATCGTCTATCGATAGACTTTCTCTAAATAGGACTATTGTTACAAAAGTTAATAACAATTATAA
+CAATTATAACAATTATAATTGTTATAATAATTATAATTGTTATAATTATGATGATACATTTTTTGACGAT
+GATGATTGA</dna_sequence>
+        <protein_sequence>>gi|17529923:1-142 A33R [Monkeypox virus]
+MASILNTLRFLEKTSFYNCNDSITKEKIKIKHKGMSFVFYKPKHSTVVKYLSGGGIYHDDLVVLGKVTIN
+DLKMMLFYMDLSYHGVTSSGAIYKLGSSIDRLSLNRTIVTKVNNNYNNYNNYNCYNNYNCYNYDDTFFDD
+DD</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene57">
+        <gene_name>A33R from Vaccinia virus (strain: WR (Western Reserve))</gene_name>
+        <strain>Vaccinia virus (strain: WR (Western Reserve))</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3707686</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACWR156</gene_locus_tag>
+        <gene_refseq>NC_006998</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|66275797:143331-143888 Vaccinia virus, complete genome
+ATGATGACACCAGAAAACGACGAAGAGCAGACATCTGTGTTCTCCGCTACTGTTTACGGAGACAAAATTC
+AAGGAAAGAATAAACGCAAACGCGTGATTGGTCTATGTATTAGAATATCTATGGTTATTTCACTACTATC
+TATGATTACCATGTCCGCGTTTCTCATAGTGCGCCTAAATCAATGCATGTCTGCTAACGAGGCTGCTATT
+ACTGACGCCGCTGTTGCCGTTGCTGCTGCATCATCTACTCATAGAAAGGTTGCGTCTAGCACTACACAAT
+ATGATCACAAAGAAAGCTGTAATGGTTTATATTACCAGGGTTCTTGTTATATATTACATTCAGACTACCA
+GTTATTCTCGGATGCTAAAGCAAATTGCACTGCGGAATCATCAACACTACCCAATAAATCCGATGTCTTG
+ATTACCTGGCTCATTGATTATGTTGAGGATACATGGGGATCTGATGGTAATCCAATTACAAAAACTACAT
+CCGATTATCAAGATTCTGATGTATCACAAGAAGTTAGAAAGTATTTTTGTGTTAAAACAATGAACTAA</dna_sequence>
+        <protein_sequence>>gi|222720|dbj|BAA01805.1| 20.5K protein [Vaccinia virus]
+MMTPENDEEQTSVFSATVYGDKIQGKNKRKRVIGLCIRISMVISLLSMITMSAFLIVRLNQCMSANEAAI
+TDAAVAVAAASSTHRKVASSTTQYDHKESCNGLYYQGSCYILHSDYQLFSDAKANCTAESSTLPNKSDVL
+ITWLIDYVEDTWGSDGNPITKTTSDYQDSDVSQEVRKYFCVKTMN</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene59">
+        <gene_name>A34R</gene_name>
+        <strain>Vaccinia virus (strain: WR (Western Reserve))</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3707687</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACWR157</gene_locus_tag>
+        <gene_refseq>NC_006998</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>EEV glycoprotein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|66275797:143912-144418 Vaccinia virus, complete genome
+ATGAAATCGCTTAATAGACAAACTGTAAGTAGGTTTAAGAAGTTGTCGGTGCCGGCCGCTATAATGATGA
+TACTCTCAACCATTATTAGTGGCATAGGAACATTTCTGCATTACAAAGAAGAACTGATGCCTAGTGCTTG
+CGCCAATGGATGGATACAATACGATAAACATTGTTATTTAGATACTAACATTAAAATGTCTACAGATAAT
+GCGGTTTATCAGTGTCGTAAATTACGAGCCAGATTGCCTAGACCGGATACTAGACATCTGAGAGTATTGT
+TTAGTATTTTTTATAAAGATTATTGGGTAAGTTTAAAAAAGACCAATGATAAATGGTTAGATATTAATAA
+TGATAAAGATATAGATATTAGTAAATTAACAAATTTTAAACAACTAAACAGTACGACGGATGCTGAAGCG
+TGTTATATATACAAGTCTGGAAAACTGGTTAAAACAGTATGTAAAAGTACTCAATCTGTACTATGTGTTA
+AAAAATTCTACAAGTGA</dna_sequence>
+        <protein_sequence>>gi|222721|dbj|BAA01806.1| 19.5K protein [Vaccinia virus]
+MKSLNRQTVSRFKKLSVPAAIMMILSTIISGIGTFLHYKEELMPSACANGWIQYDKHCYLDTNIKMSTDN
+AVYQCRKLRARLPRPDTRHLRVLFSIFYKDYWVSLKKTNDKWLDINNDKDIDISKLTNFKQLNSTTDAEA
+CYIYKSGKLVKTVCKSTQSVLCVKKFYK</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene60">
+        <gene_name>A36R</gene_name>
+        <strain>Variola virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3707689</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACWR159</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>IEV transmembrane phosphoprotein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|66275797:145059-145724 Vaccinia virus, complete genome
+ATGATGCTGGTACCTCTTATCACGGTGACCGTAGTTGCGGGAACAATATTAGTATGTTATATATTATATA
+TTTGTAGGAAAAAGATACGTACTGTCTATAATGACAATAAAATTATCATGACAAAATTAAAAAAGATAAA
+GAGTTCTAATTCCAGCAAATCTAGTAAATCAACTGATAGCGAATCAGACTGGGAGGATCACTGTAGTGCT
+ATGGAACAAAACAATGACGTAGATAATATTTCTAGGAATGAGATATTGGACGATGATAGCTTCGCTGGTA
+GTTTAATATGGGATAACGAATCCAATGTCATGGCGCCTAGCACAGAACACATTTACGATAGTGTTGCTGG
+AAGCACGCTGCTAATAAATAATGATCGTAATGAACAGACTATTTATCAGAACACTACAGTAGTAATTAAT
+GAGACGGAGACTGTTGAAGTACTTAATGAAGATACCAAACAGAATCCTAACTATTCATCCAATCCTTTCG
+TAAATTATAATAAAACCAGTATTTGTAGCAAGTCAAATCCGTTCATTACAGAACTCAACAATAAATTTAG
+TGAGAATAATCCGTTTAGACGAGCACATAGCGATGATTATCTTAATAAGCAAGAACAAGATCATGAACAC
+GATGATATAGAATCATCGGTCGTATCATTGGTGTGA</dna_sequence>
+        <protein_sequence>>gi|222723|dbj|BAA01808.1| 25.1K protein [Vaccinia virus]
+MMLVPLITVTVVAGTILVCYILYICRKKIRTVYNDNKIIMTKLKKIKSSNSSKSSKSTDSESDWEDHCSA
+MEQNNDVDNISRNEILDDDSFAGSLIWDNESNVMAPSTEHIYDSVAGSTLLINNDRNEQTIYQNTTVVIN
+ETETVEVLNEDTKQNPNYSSNPFVNYNKTSICSKSNPFITELNNKFSENNPFRRAHSDDYLNKQEQDHEH
+DDIESSVVSLV</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene66">
+        <gene_name>A56R</gene_name>
+        <strain>Vaccinia virus (strain: WR (Western Reserve))</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3707652</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACWR181</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|335637|gb|M93956.1|VACHGG Vaccinia virus hemagglutinin gene, complete cds
+TTGGACATTGGATAATGGTCACGTGTTACCACGCAATTATATAATGTATAAATGCGAACCGATTAAACAT
+AAATATCCATTGGAAAAAACACAGTACACGAATGATTTTCTAAAGTATTTGGAAAGTTTTATAGGTAGTT
+GATAGAACAAAATACATAATTTTGTAAAAATAAATCACTTTTTATACTAATATGACACGATTACCAATAC
+TTTTGTTACTAATATCATTAGTATACGCTACACCTTTTCCTCAGACATCTAAAAAAATAGGTGATGATGC
+AACTCTATCATGTAATCGAAATAATACAAATGACTACGTTGTTATGAGTGCTTGGTATAAGGAGCCCAAT
+TCCATTATTCTTTTAGCTGCTAAAAGCGACGTCTTGTATTTTGATAATTATACCAAGGATAAAATATCTT
+ACGACTCTCCATACGATGATCTAGTTACAACTATCACAATTAAATCATTGACTGCTAGAGATGCCGGTAC
+TTATGTATGTGCATTCTTTATGACATCAACTACAAATGACACTGATAAAGTAGATTATGAAGAATACTCC
+ACAGAGTTGATTGTAAATACAGATAGTGAATCGACTATAGACATAATACTATCTGGATCTACACATTCAC
+CGGAAACTAGTTCTAAGAAACCTGATTATATAGATAATTCTAATTGCTCGTCGGTATTCGAAATCGCGAC
+TCCGGAACCAATTACTGATAATGTAGAAGATCATACAGACACCGTCACATACACTAGTGATAGCATTAAT
+ACAGTAAGTGCATCATCTGGAGAATCCACAACAGACGAGACTCCGGAACCAATTACTGATAAAGAAGATC
+ATACAGTTACAGACACTGTCTCATACACTACAGTAAGTACATCATCTGGAATTGTCACTACTAAATCAAC
+CACCGATGATGCGGATCTTTATGATACGTACAATGATAATGATACAGTACCACCAACTACTGTAGGCGGT
+AGTACAACCTCTATTAGCAATTATAAAACCAAGGACTTTGTAGAAATATTTGGTATTACCGCATTAATTA
+TATTGTCGGCCGTGGCAATATTCTGTATTACATATTATATATATAATAAACGTTCACGTAAATACAAAAC
+AGAGAACAAAGTCTAGATTTTTGACTTACATAAATGTCTGGGATAGTAAAATCTATCATATTGAGCGGAC
+CATCTGGTTTAGGAAAGACAGCCATAGCCAAAAGACTATGGGAATATATTTGGATTTGTGGTGTCCCATA
+CCACTAGATTTCCTCGTCCTATGGAACGAGAAGGTGTTGATTACCATTACGTTAACAGAGAGGCCATCTG
+GAAGGGAATAGCCGCCGGAAACTTTCTAGAACATACTGAGTTTTTAGGAAATATTTACGGAACTTCTAAA
+ACAGCTGTGAATACACGGCTATTAATAATCGTATTTGTGTGATGGATCTAAACATCGACGGTGTTAGAAG
+TCTTAAAAATACGTACCTAATGCCTTACTCGGTGTATATAAGACCTACCTCTCTTAAAATGGTTGAGACC
+AAGCTTGGCACTGGCGTCGTTT</dna_sequence>
+        <protein_sequence>>gi|335638|gb|AAA48252.1| hemagglutinin
+MTRLPILLLLISLVYATPFPQTSKKIGDDATLSCNRNNTNDYVVMSAWYKEPNSIILLAAKSDVLYFDNY
+TKDKISYDSPYDDLVTTITIKSLTARDAGTYVCAFFMTSTTNDTDKVDYEEYSTELIVNTDSESTIDIIL
+SGSTHSPETSSKKPDYIDNSNCSSVFEIATPEPITDNVEDHTDTVTYTSDSINTVSASSGESTTDETPEP
+ITDKEDHTVTDTVSYTTVSTSSGIVTTKSTTDDADLYDTYNDNDTVPPTTVGGSTTSISNYKTKDFVEIF
+GITALIILSAVAIFCITYYIYNKRSRKYKTENKV</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene31">
+        <gene_name>B5R from Monkeypox virus (strain: Zaire-96-I-16)</gene_name>
+        <strain>Monkeypox virus (strain: Zaire-96-I-16)</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>928916</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>MPXVgp166</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|17974913:163058-164743 Monkeypox virus, complete genome
+ATGGATTTTTTTAAAAAGGAAATACTTGACTGGAGTATATATTTATTTCTTCATTACATAACACGTCTGT
+GTTCTAATTCTTCCAATTCTTCCACATCTCATATAATACAGGAATATAATCTTGTTCGAAAATACGAGAA
+AGTGGATAAAACAATAGTTGATTTTTTATCTAGGTGGCCAAATTTATTCCATATTTTAGAATATGGGGAA
+AATATTCTACATATTTATTTTATAGATGCTGCTAATACGAATATTATGATTTTTTTTCTAGATAGAGTAT
+TAAATATTAATAAGAACCGTGGGTCATTTATACATAATCTCGGGTTATCATCCATTAATATAAAAGAATA
+TGTATATCAATTAGTTAATAATGATCATCTAGATAATAGTATAAGACTAATGCTTGAAAATGGACGTAGA
+ACAAGACATTTTTTGTCTTATATATTGGATACAGTTAATATCTATATAAGTATTTTAATAAATCATAGAT
+TTTATATAGATGCCGAAGACAGTTACGGTTGTACATTATTACATAGATGTATATATAACTATAGGAAATC
+AGAATCAGAATCATATAATGAATTAATTAAGATATTGTTAAATAATGGATCAGATGTAGATAAAAAAGAT
+ACGTACGGAAACACACCGTTTATCCTATTATGTAAACACGATATCGACAACGCGGAATTGTTTGAGATAT
+GTTTAGAGAATGCTAATATAGACTCTGTAGACTTTAATGGATATACACCTCTTCATTATGTCTCATGTCG
+TAATAAATATGATTTTGTAAAGTTATTAATTTCTAAAGGAGCAAATGTTAATGCACGTAATAGATTCGGA
+ACTACTCCATTTTATTGTGGAATTATACACGGTATCTCGCTTATAAAACTATATTTGGAATCAGACACAG
+AGTTAGAAATAGATAATGAACATATAGTTCGTCATTTAATAATTTTTGATGCTGTTGAATCTTTAGATTA
+TCTATTGTCCAGAGGAGTTATTGATATTAACTATCGTACTATATACAACGAAACATCTATTTACGACGCT
+GTCAGTTATAATGCGTATAATACGTTAGTCTATCTATTAAACAGAAATGGTGATTTTGAGACGATTACTA
+CTAGTGGATGTACATGTATTTCGGAAGCAGTCGCGAACAACAACAAAATAATAATGGATATACTATTGTC
+TAAACGACCATCTTTGAAAATTATGATACCATCTATGATAGCAATTACTAAACATAAACAACATAATGCA
+GATTTATTGAAAATGTGTATAAAATATACTGCGTGTATGACCGATTATGATACTCTTATAGATGTACAAT
+CGCTACATCAATATAAATGGTATATTTTAAAATGTTTTGATGAAATAGATATCATGAAGAGATGTTATAT
+AAAAAATAAAACTGTATTCCAATTAGTTTTTTGTATCAAAGACATTAATACTTTAATGAGATACGGTAGA
+CATCCTTCTTTCGTGAAATGTAATATTCTCGACGTATACGGAAGTCATGTACGTAATATCATAGCATCTA
+TTAGATATCGTCAGAGATTAATTAGTCTATTATCCAAGAAGCTGGATGCTGGAGATAAATGGTCGTGTTT
+TCCTAACGAAATAAAATATAAAATATTGGAAAACTTTAACGATAACGAACTGACCACATATCTAAAAATC
+TTATAA</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene55">
+        <gene_name>B5R from Vaccinia virus (strain: WR (Western Reserve))</gene_name>
+        <strain>Vaccinia virus (strain: WR (Western Reserve))</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3707658</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACWR187</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>EEV type-I membrane glycoprotein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|66275797:168374-169327 Vaccinia virus, complete genome
+ATGAAAACGATTTCCGTTGTTACGTTGTTATGCGTACTACCTGCTGTTGTTTATTCAACATGTACTGTAC
+CCACTATGAATAACGCTAAATTAACGTCTACCGAAACATCGTTTAATGATAAACAGAAAGTTACGTTTAC
+ATGTGATCAGGGATATCATTCTTCGGATCCAAATGCTGTCTGCGAAACAGATAAATGGAAATACGAAAAT
+CCATGCAAAAAAATGTGCACAGTTTCTGATTACATCTCTGAATTATATAATAAACCGCTATACGAAGTGA
+ATTCCACCATGACACTAAGTTGCAACGGCGAAACAAAATATTTTCGTTGCGAAGAAAAAAATGGAAATAC
+TTCTTGGAATGATACTGTTACGTGTCCTAATGCGGAATGTCAACCTCTTCAATTAGAACACGGATCGTGT
+CAACCAGTTAAAGAAAAATACTCATTTGGGGAATATATGACTATCAACTGTGATGTTGGATATGAGGTTA
+TTGGTGCTTCGTACATAAGTTGTACAGCTAATTCTTGGAATGTTATTCCATCATGTCAACAAAAATGTGA
+TATGCCGTCTCTATCTAATGGATTAATTTCCGGATCTACATTTTCTATCGGTGGCGTTATACATCTTAGT
+TGTAAAAGTGGTTTTACACTAACGGGGTCTCCATCATCCACATGTATCGACGGTAAATGGAATCCCGTAC
+TCCCAATATGTGTACGAACTAACGAAGAATTTGATCCAGTGGATGATGGTCCCGACGATGAGACAGATTT
+GAGCAAACTCTCGAAAGACGTTGTACAATATGAACAAGAAATAGAATCGTTAGAAGCAACTTATCATATA
+ATCATAGTGGCGTTAACAATTATGGGCGTCATATTTTTAATCTCCGTTATAGTATTAGTTTGTTCCTGTG
+ACAAAAATAATGACCAATATAAGTTCCATAAATTGCTACCGTAA</dna_sequence>
+        <protein_sequence>>gi|222750|dbj|BAA01835.1| 35.1K protein [Vaccinia virus]
+MKTISVVTLLCVLPAVVYSTCTVPTMNNAKLTSTETSFNDKQKVTFTCDQGYHSSDPNAVCETDKWKYEN
+PCKKMCTVSDYISELYNKPLYEVNSTMTLSCNGETKYFRCEEKNGNTSWNDTVTCPNAECQPLQLEHGSC
+QPVKEKYSFGEYMTINCDVGYEVIGASYISCTANSWNVIPSCQQKCDMPSLSNGLISGSTFSIGGVIHLS
+CKSGFTLTGSPSSTCIDGKWNPVLPICVRTNEEFDPVDDGPDDETDLSKLSKDVVQYEQEIESLEATYHI
+IIVALTIMGVIFLISVIVLVCSCDKNNDQYKFHKLLP</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene42">
+        <gene_name>D8L</gene_name>
+        <strain>Vaccinia virus (strain: WR (Western Reserve))</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3707569</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACWR113</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>IMV membrane protein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|66275797:c103975-103061 Vaccinia virus, complete genome
+ATGCCGCAACAACTATCTCCTATTAATATAGAAACTAAAAAAGCAATTTCTAACGCGCGATTGAAGCCGT
+TAGACATACATTATAATGAGTCGAAACCAACCACTATCCAGAACACTGGAAAACTAGTAAGGATTAATTT
+TAAAGGAGGATATATAAGTGGAGGGTTTCTCCCCAATGAATATGTGTTATCATCACTACATATATATTGG
+GGAAAGGAAGACGATTATGGATCCAATCACTTGATAGATGTGTACAAATACTCTGGAGAGATTAATCTTG
+TTCATTGGAATAAGAAAAAATATAGTTCTTATGAAGAGGCAAAAAAACACGATGATGGACTTATCATTAT
+TTCTATATTCTTACAAGTATTGGATCATAAAAATGTATATTTTCAAAAGATAGTTAATCAATTGGATTCC
+ATTAGATCCGCCAATACGTCTGCACCGTTTGATTCAGTATTTTATCTAGACAATTTGCTGCCTAGTAAGT
+TGGATTATTTTACATATCTAGGAACAACTATCAACCACTCTGCAGACGCTGTATGGATAATTTTTCCAAC
+GCCAATAAACATTCATTCTGATCAACTATCTAAATTCAGAACACTATTGTCGTCGTCTAATCATGATGGA
+AAACCGCATTATATAACAGAGAACTATAGAAATCCGTATAAATTGAACGACGACACGCAAGTATATTATT
+CTGGGGAGATTATACGAGCAGCAACTACCTCTCCAGCGCGCGAGAACTATTTTATGAGATGGTTGTCCGA
+TTTGAGAGAGACATGTTTTTCATATTATCAAAAATATATCGAAGAGAATAAAACATTCGCAATTATTGCC
+ATAGTATTCGTGTTTATACTTACCGCTATTCTCTTTTTTATGAGTCGACGATATTCGCGAGAAAAACAAA
+ACTAG</dna_sequence>
+        <protein_sequence>>gi|335652|gb|AAA48264.1| ORF8 cds
+MPQQLSPINIETKKAISNARLKPLDIHYNESKPTTIQNTGKLVRINFKGGYISGGFLPNEYVLSSLHIYW
+GKEDDYGSNHLIDVYKYSGEINLVHWNKKKYSSYEEAKKHDDGLIIISIFLQVLDHKNVYFQKIVNQLDS
+IRSANTSAPFDSVFYLDNLLPSKLDYFTYLGTTINHSADAVWIIFPTPINIHSDQLSKFRTLLSSSNHDG
+KPHYITENYRNPYKLNDDTQVYYSGEIIRAATTSPARENYFMRWLSDLRETCFSYYQKYIEENKTFAIIA
+IVFVFILTAILFFMSRRYSREKQN</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene67">
+        <gene_name>F13L</gene_name>
+        <strain>Vaccinia virus (strain: WR (Western Reserve))</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3707509</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACWR052</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|335610|gb|M12882.1|VACENVANT Vaccinia virus (HindIII F fragment) p37K gene, encoding an envelope antigen
+GTCGACTTTGATGAAAATTTTAGCGATATAGCCGATGATATTCTAGATCGTTGATAGAACAGGATGTATA
+AGTTTTTATGTTAACTAAATGTGGCCATTTGCATCGGTACCTGCGGGAGCAAAATGTAGGCTGGTAGAAA
+CACTACCAGAAAATATGGATTTTAGATCCGATCATTTAACAACATTTGAATGTTTTAACGAAATTATCAC
+TCTAGCTAAGAAATATATATACATAGCATCTTTTTGTTGTAATCCTCTGAGTACGACTAGGGGAGCGCTT
+ATTTTTGATAAACTAAAAGAGGCATCTGAAAAAGGGATTAAAATAATAGTTTTGCTAGATGAACGAGGGA
+AAAGAAATCTGGGAGAGCTACAAAGTCACTGCCCGGATATAAATTTTATAACCGTTAATATAGATAAAAA
+AAATAATGTGGGACTACTACTCGGTTGTTTTTGGGTGTCAGATGATGAAAGATGTTATGTAGGAAACGCG
+TCATTTACTGGAGGATCTATACATACGATTAAAACGTTAGGTGTATATTCTGATTATCCCCCGCTGGCCA
+CAGATCTTCGTAGAAGATTTGATACTTTTAAAGCCTTTAATAGCGCAAAAAATTCATGGTTGAATTTATG
+CTCTGCGGCTTGTTGTTTGCCAGTTAGCACTGCGTATCATATTAAGAATCCTATAGGTGGAGTGTTCTTT
+ACTGATTCTCCGGAACACCTATTGGGATATTCTAGAGATCTAGATACCGATGTAGTTATTGATAAACTCA
+AGTCGGCTAAGACTAGTATAGATATTGAACATTTGGCCATAGTTCCCACTACACGTGTCGACGGTAATAG
+CTACTATTGGCCCGACATTTACAACTCCATTATAGAAGCAGCCATTAATAGAGGAGTTAAGATCAGACTT
+CTAGTTGGTAATTGGGATAAGAACGACGTATATTCTATGGCAACCGCCAGAAGTCTAGACGCGTTGTGTG
+TTCAAAATGATCTATCTGTGAAGGTTTTCACTATTCAGAATAATACAAAATTGTTGATAGTCGACGACGA
+ATATGTTCATATCACTTCGGCAAATTTCGACGGAACCCATTACCAAAATCACGGATTCGTCAGTTTTAAT
+AGTATAGATAAACAGCTTGTAAGCGAGGCTAAAAAAATATTTGAGAGAGATTGGGTATCTAGCCACAGTA
+AATCGTTAAAAATTTAAAAAAAAGAAAATAGAGACGTATAGA</dna_sequence>
+        <protein_sequence>>gi|335611|gb|AAA48235.1| envelope antigen
+MWPFASVPAGAKCRLVETLPENMDFRSDHLTTFECFNEIITLAKKYIYIASFCCNPLSTTRGALIFDKLK
+EASEKGIKIIVLLDERGKRNLGELQSHCPDINFITVNIDKKNNVGLLLGCFWVSDDERCYVGNASFTGGS
+IHTIKTLGVYSDYPPLATDLRRRFDTFKAFNSAKNSWLNLCSAACCLPVSTAYHIKNPIGGVFFTDSPEH
+LLGYSRDLDTDVVIDKLKSAKTSIDIEHLAIVPTTRVDGNSYYWPDIYNSIIEAAINRGVKIRLLVGNWD
+KNDVYSMATARSLDALCVQNDLSVKVFTIQNNTKLLIVDDEYVHITSANFDGTHYQNHGFVSFNSIDKQL
+VSEAKKIFERDWVSSHSKSLKI</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene62">
+        <gene_name>H3L</gene_name>
+        <strain>Vaccinia virus</strain>
+        <vo_id>VO_0010935</vo_id>
+        <ncbi_gene_id>3707557</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>66275898</ncbi_protein_id>
+        <gene_locus_tag>VACWR101</gene_locus_tag>
+        <gene_refseq>KT184691</gene_refseq>
+        <protein_refseq>YP_232983</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10245</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>88322</gene_start>
+        <gene_end>89296</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>IMV heparin binding surface protein</protein_name>
+        <protein_pi>6.43</protein_pi>
+        <protein_weight>34569.08</protein_weight>
+        <protein_length>324</protein_length>
+        <protein_note>similar to VACCP-H3L; involved in IMV maturation</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_006998.1:88322-89296 Vaccinia virus, complete genome
+GTTAGATAAATGCGGTAACGAATGTTCCTGTAAGGAACCATAACAGTTTAGATTTAACGTTAAAGATGAG
+CATAAACATAATAAACAAAATTACAATCAAACCTATAACATTAATATCAAACAATCCAAAAAATGAAATC
+AGTGGAGTAGTAAACGCGTACATAACTCCTGGATAACGTTTAGTAGCTGCCGTTCCTATTCTAGACCAAA
+AATTCGGTTTCATGTTTTCGAAACGGTGTTCTGCAACAAGTCGGGGATCGTGTTCTACATATTTGGCGGC
+ATTATCCAGTATCTGCCTATTGATCTTCATTTCGTTTTCAATTCTGGCTATTTCAAAATAAAATCCCGAT
+GATAGACCTCCAGACTTTATAATTTCATCTACGATGTTCAGCGCCGTAGTAACTCTAATAATATAGGCTG
+ATAAGCTAACATCATACCCTCCTGTATATGTGAATATGGCATGATTTTTGTCCATTACAAGCTCGGTTTT
+AACTTTATTGCCTGTAATAATTTCTCTCATCTGTAGGATATCTATTTTTTTGTCATGCATTGCCTTCAAG
+ACGGGACGAAGAAACGTAATATCCTCAATAACGTTATCGTTTTCTACAATAACTACATATTCTACCTTTT
+TATTTTCTAACTCGGTAAAAAAATTAGAATCCCATAGGGCTAAATGTCTAGCGATATTTCTTTTCGTTTC
+CTCTGTACACATAGTGTTACAAAACCCTGAAAAGAAGTGAGTATACTTGTCATCATTTCTAATGTTTCCT
+CCAGTCCACTGTATAAACGCATAATCCTTGTAATGATCTGGATCATCCTTGACTACCACAACATTTCTTT
+TTTCTGGCATAACTTCGTTGTCCTTTACATCATCGAACTTCTGATCATTAATATGCTCATGAACATTAGG
+AAATGTTTCTGATGGAAGTCTATCAATAACTGGCACAACAATAACAGGAGTTTTCGCCGCCGCCA
+
+</dna_sequence>
+        <protein_sequence>>YP_232983.1 IMV heparin binding surface protein [Vaccinia virus]
+MAAAKTPVIVVPVIDRLPSETFPNVHEHINDQKFDDVKDNEVMPEKRNVVVVKDDPDHYKDYAFIQWTGG
+NIRNDDKYTHFFSGFCNTMCTEETKRNIARHLALWDSNFFTELENKKVEYVVIVENDNVIEDITFLRPVL
+KAMHDKKIDILQMREIITGNKVKTELVMDKNHAIFTYTGGYDVSLSAYIIRVTTALNIVDEIIKSGGLSS
+GFYFEIARIENEMKINRQILDNAAKYVEHDPRLVAEHRFENMKPNFWSRIGTAATKRYPGVMYAFTTPLI
+SFFGLFDINVIGLIVILFIMFMLIFNVKSKLLWFLTGTFVTAFI
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice were immunized with recombinant H3L protein to examine H3L-specific antibody responses in greater detail. H3L-immunized mice developed high-titer vaccinia virus-neutralizing antibodies (mean PRNT50 = 1:3,760). Importantly, H3L-immunized mice were subsequently protected against lethal intranasal challenges with 1 or 5 50% lethal doses (LD50) of pathogenic vaccinia virus strain WR, demonstrating the in vivo value of an anti-H3L response. To formally demonstrate that neutralizing anti-H3L antibodies are protective in vivo, we performed anti-H3L serum passive-transfer experiments. Mice receiving H3L-neutralizing antiserum were protected from a lethal challenge with 3 LD50 of vaccinia virus strain WR (5/10 versus 0/10; P &gt; 0.02) [Ref1470:Davies et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene28">
+        <gene_name>L1R from Monkeypox virus Zaire-96-I-16</gene_name>
+        <strain>Monkeypox virus Zaire-96-I-16</strain>
+        <vo_id>VO_0010871</vo_id>
+        <ncbi_gene_id>928938</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>17974998</ncbi_protein_id>
+        <gene_locus_tag>MPXVgp085</gene_locus_tag>
+        <gene_refseq>AF380138</gene_refseq>
+        <protein_refseq>NP_536512</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>619591</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>80280</gene_start>
+        <gene_end>80738</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>L1R</protein_name>
+        <protein_pi>4.99</protein_pi>
+        <protein_weight>17001.2</protein_weight>
+        <protein_length>152</protein_length>
+        <protein_note>similar to Vaccinia virus strain Copenhagen J1R</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_003310.1:80280-80738 Monkeypox virus Zaire-96-I-16, complete genome
+AATGGATCACAACCAGTATCTCTTAACGATGTTCTTCGCAGATGATGATTCATTTTTTAAGTATTTTGCT
+AGTCAAGATGATGAATCTTCATTATCTGATATATTGCAAATCACTCAATATCTAGACTTTCTGTTATTAT
+TATTGATCCAATCAAAAAATAAATTAGAAGCTGTGGGTCATTGTTATGAATCTCTTTCAGAGGAATACAG
+ACAATTGACAAAATTCACAGACTCTCAAGATTTTAAAAAACTGTTTAACAAGGTCCCTATTGTTACAGAT
+GGAAGGGTCAAACTTAATAAAGGATATTTGTTCGACTTTGTGATTAGTTTGATGCGATTCAAAAAAGAAT
+CAGCTCTAGCTACCACCGCAATAGATCCTGTTAGATACATAGATCCTCGTCGTGATATCGCATTTTCTAA
+CGTGATGGATATATTAAAGTCGAATAAAGTTGAACAATA
+
+</dna_sequence>
+        <protein_sequence>>NP_536512.1 L1R [Monkeypox virus Zaire-96-I-16]
+MDHNQYLLTMFFADDDSFFKYFASQDDESSLSDILQITQYLDFLLLLLIQSKNKLEAVGHCYESLSEEYR
+QLTKFTDSQDFKKLFNKVPIVTDGRVKLNKGYLFDFVISLMRFKKESALATTAIDPVRYIDPRRDIAFSN
+VMDILKSNKVEQ
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>It has previously been shown that a DNA subunit vaccine (4pox) based on four orthopoxvirus immunogens (L1R, B5R, A27L and A33R) can produce protective immunity against lethal orthopoxvirus challenges in mice and nonhuman primates. the immunogenicity of an L1R construct to which a tissue plasminogen activator signal sequence was placed in frame with the full-length L1R gene was tested. When the tPA-L1R construct was substituted for the unmodified L1R gene in the 4pox vaccine, given as a prime and single boost, animals were better protected from lethal challenge with vaccinia virus (VACV) [Ref1469:Golden et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene56">
+        <gene_name>L1R from Vaccinia virus (strain: WR (Western Reserve))</gene_name>
+        <strain>Vaccinia virus (strain: WR (Western Reserve))</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>3707544</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACWR088</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>IMV membrane protein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|61387|emb|X01978.1| Vaccinia virus gene cluster with thymidine kinase gene
+AAGCTTTTAGAATATGTGCATATAGGACCACTAGCAAAAGATAAAGAGGATAAAGTAAAGAAAAGATATC
+CAGAGTTTAGATTAGTCAACACAGGACCCGGTGGTCTTTCGGCATTGTTAAGACAATCGTATAATGGAAC
+CGCACCCAATTGCTGTCGCACTTTTAATCGTACTCATTATTGGAAGAAGGATGGAAAGATATCAGATAAG
+TATGAAGAGGGTGCAGTATTAGAATCGTGTTGGCCAGACGTTCACGACACCGGAAAATGCGATGTTGATT
+TATTCGACTGGTGTCAGGGGGATACGTCCGATAGAAACATATGCCATCAGTGGATCGGTTCAGCCTTTAA
+TAGGAGTAATAGAACTGTAGAGGGTCAACAATCGTTAATAAATCTGTATAATAAGATGCAAACATTATGT
+AGTAAAGATGCTAGTGTACCAATATGTGAATCATTTTTGCATCATTTACGCGCACACAATACAGAAGATA
+GCAAAGAGATGATCGATTATATTCTAAGACAACAGTCTGCGGACTTTAAACAGAAATATATGAGATGTAG
+TTATCCCACTAGAGATAAGTTAGAAGAGTCATTAAAATATGCGGAACCTCGAGAATGTTGGGATCCAGAG
+TGTTCGAATGCCAATGTTAATTTCTTGCTAACACGTAATTATAATAATTTAGGACTTTGCAATATTGTAC
+GATGTAATACTAGCGTGAACAACTTACAGATGGATAAAACTTCCTCATTAAGATTGTCATGTGGATTAAG
+CAATAGTGATAGATTTTCTACTGTTCCCGTCAATAGAGCAAAAGTAGTTCAACATAATATTAAACACTCG
+TTCGACTCAAAATTGCATTTGATCAGTTTATTATCTCTCTTGGTAATATGGATACTAATTGTAGCTATTT
+AAATGGGTGCCGCGGCAAGCATACAGACGACGGTGAATACACTCAGCGAACGTATCTCGTCTAAATTAGA
+ACAAGAAGCGAATGCTAGTGCTCAAACAAAATGTGATATAGAAATCGGAAATTTTTATATCCGACAAAAC
+CATGGATGTAACCTCACTGTTAAAAATATGTGCTCTGCGGACGCGGATGCTCAGTTGGATGCTGTGTTGT
+CAGCCGCTACAGAAACATATAGTGGATTAACACCGGAACAAAAAGCATACGTGCCAGCTATGTTTACTGC
+TGCGTTAAACATTCAGACGAGTGTAAACACTGTTGTTAGAGATTTTGAAAATTATGTGAAACAGACTTGT
+AATTCTAGCGCGGTCGTCGATAACAAATTAAAGATACAAAACGTAATCATAGATGAATGTTACGGAGCCC
+CAGGATCTCCAACAAATTTGGAATTTATTAATACAGGATCTAGCAAAGGAAATTGTGCCATTAAGGCGTT
+GATGCAATTGACGACTAAGGCCACTACTCAAATAGCACCTAAACAAGTTGCTGGTACAGGAGTTCAGTTT
+TATATGATTGTTATCGGTGTTATAATATTGGCAGCGTTGTTTATGTACTATGCCAAGCGTATGTTGTTCA
+CATCCACCAATGATAAAATCAAACTTATTTTAGCCAATAAGGAAAACGTCCATTGGACTACTTACATGGA
+CACATTCTTTAGAACTTCTCCGATGGTTATTGCTACCACGGATATGCAAAACTGAAAATATATTGATAAT
+ATTTTAATAGATTAACATGGAAGTTATCACTGATCGTCTAGACGATATAGTGAAACAAAATATAGCGGAT
+GAAAAATTTGTAGATTTTGTTATACACGGTCTAGAGCATCAATGTCCTGCTATACTTCGACCATTAATTA
+GGTTGTTTATTGATATACTATTATTTGTTATAGTAATTTATATTTTTACGGTACGTCTAGTAAGTAGAAA
+TTATCAAATGTTGTTGGCGTTGGTGGCGCTAGTCATCACAATTAACTATTTTTTATTACTTTATACTATA
+ATAGTACTAGACTGACTTCTAACAAACATCTCACCTGCCATAAATAAATGCTTGATATTAAAGTCTTCTA
+TTTCTAACACTATTCCATCTGTGGAAAATAATACTCTGACATTATCGCTAATTGACACATCGGTGAGTGA
+TATGCCTATAAAGTAATAATCTTCTTTGGGCACATATACCAGTGTACCAGGTTCTAACAACCTATTTACT
+GGTGCTCCTATAGCATACTTTTTCTTTACCTTGAGAATATCCATCGTTTGCTTGGTCAATAGCGATATGT
+GATTTTTTATCAACCACTCGAAAAAGTAATTGGAGTGTTCATATCCTCTACGGGCTATTGTCTCATGGCC
+GTGTATGAAATTTAAGTAACACGACTGTGGTAGATTTGTTCTATAGAGCCGGTTGCCGCAAATAGATAGA
+ACTACCAATATGTCTGTACAAATGTTAAACATTAATTGATTAACAGAAAAAACAATGTTCGTTCTGGGAA
+TAGAAACCAGATCAAAACAAAATTCGTTAGAATATATGCCACGTTTATACATTGAATATAAAATAACTAC
+AGTTTGAAAAATAACAGTATCATTTAAACATTTAACTTGCGGGGTTAATCTCACAACTTTACTGTTTTTG
+AACTGTTCAAAATATAGCATAGATCCGTGAGAAATACGTTTAGCCGCCTTTAATAGAGGAAATCCCACCG
+CCTTTCTGGATCTCACCAACGACGATAGTTCTGACCAGCAACTCATTTCTTCATCATCCACCTGTTTTAA
+CATATAATAGGCAGGAGATAGATATCCGTCATTGCAATATTCCTTCTCGTAGGCACACAATCTAATATTG
+ATAAAATCTCCATTCTCTTCTCTGCATTTATTATCTTGTTTCGGTGGCTGATTAGGCTGTAGTCTTGGTT
+TAGGCTTTGGTATATCGTTGTTGAATCTATTTTGGTCATTAAATCTTTCATTTCTTCCTGGTATATTTTT
+ATCACCTCGTTTGGTTGGATTTTTGTCTATATTATCGTTTGTAACATCGGTACGGGTATTCATTTATCAC
+AAAAAAAACTTCTCTAAATGAGTCTACTGCTAGAAAACCTCATCGAAGAAGATACCATATTTTTTGCAGG
+AAGTATATCTGAGTATGATGATTTACAAATGGTTATTGCCGGCGCAAAATCCAAATTTCCAAGATCTATG
+CTTTCTATTTTTAATATAGTACCTAGAACGATGTCAAAATATGAGTTGGAGTTGATTCATAACGAAAATA
+TCACAGGAGCAATGTTTACCACAATGTATAATATAAGAAACAATTTGGGTCTAGGAGATGATAAACTAAC
+TATTGAAGCCATTGAAAACTATTTCTTGGATCCTAACAATGAAGTTATGCCTCTTATTATTAATAATACG
+GATATGACTGCCGTCATTCCTAAAAAAAGTGGTAGGAGAAAGAATAAGAACATGGTTATCTTCCGTCAAG
+GATCATCACCTATCTTGTGTATTTTCGAAACTCGTAAAAAGATTAATATTTATAAAGAAAATATGGAATC
+CGCGTCGACTGAGTATACACCTATCGGAGACAACAAGGCTTTGATATCTAAATATGCGGGAATTAATATC
+CTAAATGTGTATTCTCCTTCCACATCCATAAGATTGAATGCCATTTACGGATTCACCAATAAAAATAAAC
+TAGAGAAACTTAGTACTAATAAGGAACTAGAATCGTATAGTTCTAGCCCTCTTCAAGAACCCATTAGGTT
+AAATGATTTTCTGGGACTATTGGAATGTGTTAAAAAGAATATTCCTCTAACAGATATTCCGACAAAGGAT
+TGATTACTATAAATGGAGAATGTTCCTAATGTATACTTTAATCCTGTGTTTATAGAGCCCACGTTTAAAC
+ATTCTTTATTAAGTGTTTATAAACACAGATTAATAGTTTTATTTGAAGTATTCGTTGTATTCATTCTAAT
+ATATGTATTTTTTAGATCTGAATTAAATATGTTCTTCATGCCTAAACGAAAAATACCCGATCCTATTGAT
+AGATTACGACGTGCTAATCTAGCGTGTGAAGACGATAAATTAATGATCTATGGATTACCATGGATGACAA
+CTCAAACATCTGCGTTATCAATAAATAGTAAACCGATAGTGTATAAAGATTGTGCAAAGCTTTTGCGATC
+AATAAATGGATCACAACCAGTATCTCTTAACGATGTTCTTCGCAGATGATGATTCATTTTTTAAGTATTT
+GGCTAGTCAAGATGATGAATCTTCATTATCTGATATATTGCAAATCACTCAATATCTAGACTTTCTGTTA
+TTATTATTGATCCAATCAAAAAATAAATTAGAAGCCGTGGGTCATTGTTATGAATCTCTTTCAGAGGAAT
+ACAGACAATTGACAAAATTCACAGACTTTCAAGATTTTAAAAAACTGTTTAACAAGGTCCCTATTGTTAC
+AGATGGAAGGGTCAAACTTAATAAAGGATATTTGTTCGACTTTGTGATTAGTTTGATGCGATTCAAAAAA
+GAATCCTCTCTAGCTACCACCGCAATAGATCCTGTTAGATACATAGATCCTCGTCGCAATATCGCATTTT
+CTAACGTGATGGATATATTAAAGTCGAATAAAGTGAACAATAATTAATTCTTTATTGTCATCATGAACGG
+CGGACATATTCAGTTGATAATCGGCCCCATGTTTTCAGGTAAAAGTACAGAATTAATTAGACGAGTTAGA
+CGTTATCAAATAGCTCAATATAAATGCGTGACTATAAAATATTCTAACGATAATAGATACGGAACGGGAC
+TATGGACGCATGATAAGAATAATTTTGAAGCATTGGAAGCAACTAAACTATGTGATGTCTTGGAATCAAT
+TACAGATTTCTCCGTGATAGGTATCGATGAAGGACAGTTCTTTCCAGACATTGTTGAATTCTGTGAGCGT
+ATGGCAAACGAAGGAAAAATAGTTATAGTAGCCGCACTCGATGGGACATTTCAACGTAAACCGTTTAATA
+ATATTTTGAATCTTATTCCATTATCTGAAATGGTGGTAAAACTAACTGCTGTGTGTATGAAATGCTTTAA
+GGAGGCTTCCTTTTCTAAACGATTGGGTGAGGAAACCGAGATAGAAATAATAGGAGGTAATGATATGTAT
+CAATCGGTGTGTAGAAAGTGTTACATCGACTCATAATATTATATTTTTTATCTAAAAAACTAAAAATAAA
+CATTGATTAAATTTTAATATAATACTTAAAAATGGATGTTGTGTCGTTAGATAAACCGTTTATGTATTTT
+GAGGAAATTGATAATGAGTTAGATTACGAACCAGAAAGTGCAAATGAGGTCGCAAAAAAACTGCCGTATC
+AAGGACAGTTAAAACTATTACTAGGAGAATTATTTTTTCTTAGTAAGTTACAGCGACACGGTATATTAGA
+TGGTGCCACCGTAGTGTATATAGGATCTGCTCCCGGTACACATATACGTTATTTGAGAGATCATTTCTAT
+AATTTAGGAGTGATCATCAAATGGATGCTAATTGACGGCCGCCATCATGATCCTATTTTAAATGGATTGC
+GTGATGTGACTCTAGTGACTCGGTTCGTTGATGAGGAATATCTACGATCCATCAAAAAACAACTGCATCC
+TTCTAAGATTATTTTAATTTCTGATGTGAGATCCAAACGAGGAGGAAATGAACCTAGTACGGCGGATTTA
+CTAAGTAATTACGCTCTACAAAATGTCATGATTAGTATTTTAAACCCCGTGGCGTCTAGTCTTAAATGGA
+GATGCCCGTTTCCAGATCAATGGATCAAGGACTTTTATATCCCACACGGTAATAAAATGTTACAACCTTT
+TGCTCCTTCATATTCAGCTGAAATGAGATTATTAAGTATTTATACCGGTGAGAACATGAGACTGACTCGA
+GTTACCAAATCAGACGCTGTAAATTATGAAAAAAAGATGTACTACCTTAATAAGATCGTCCGTAACAAAG
+TAGTTGTTAACTTTGATTATCCTAATCAGGAATATGACTATTTTCACATGTACTTTATGCTGAGGACCGT
+GTACTGCAATAAAACATTTCCTACTACTAAAGCAAAGGTACTATTTCTACAACAATCTATATTTCGTTTC
+TTAAATATTCCAACAACATCAACTGAAAAAGTTAGTCATGAACCAATACAACGTAAAATATCTAGCAAAA
+ATTCTATGTCTAAAAACAGAAATAGCAAGAGATCCGTACGCAGTAATAAATAGAAACGTACTACTGAGAT
+ATACTACCGATATAGAGTATAATGATTTAGTTACTTTAATAACCGTTAGACATAAAATTGATTCTATGAA
+AACTGTGTTTCAGGTATTTAACGAATCATCCATAAATTATACTCCGGTTGATGATGATTATGGAGAACCA
+ATCATTATAACATCGTATCTTCAAAAAGGTCATAACAAGTTTCCTGTAAATTTTCTATACATAGATGTGG
+TAATATCTGACTTATTTCCTAGCTTTGTTAGACTAGATACTACAGAAACTAATATAGTTAATAGTGTACT
+ACAAACAGGCGATGGTAAAAAGACTCTTCGTCTTCCCAAAATGTTAGAGACGGAAATAGTTGTCAAGATT
+CTCTATCGCCCTAATATACCATTAAAAATTGTTAGATTTTTCCGCAATAACATGGTAACTGGAGTAGAGA
+TAGCCGATAGATCTGTTATTTCAGTCGCTGATTAATCAATTAGTAGAGATGAGATAAGAACATTATAATA
+ATCAATAATATATCTTATATCTCGTTTAGAAAAATGCTAATATTAAAATAGCTAACGCAGTAATCCAATC
+GGAAGCCATTTGATATCTATAATAGGGTATCTAATTTCCTGATTCAGATAGCGGACAGCTATATTCTCGG
+TAGCTACTCGTTTGGAATCACAAACATTATTTACATCTAATTTACTATCTGTAATGGAAACGTTTCCCAA
+TGAAATGGTACAATCCGATACATTGCATTTTGTTATATTTTTTTTTAAAGAGGCTGGTAACAACGCATCG
+CTTCGTTTACATGGCTCGTACCAACAATAATAGGGTAATCTTGTATCTATTCCTATCCGTACTATGCTTT
+TATCAGGATAAATACATTTACATCGTATATCGTCTTTGTTAGCATCACAGAATGCATAAATTTGTTCGTC
+CGTCATGATAAAAATTTAAAGTGTAAATATAACTATTATTTTTATAGTTGTAATAAAAAGGGAAATTTGA
+TTGTATACCTTCGGTTCTTTAAAAGAAACTGACTTGATAAAAATGGCTGTAATCTCTAAGGTTACGTATA
+GTCTATATGATCAAAAAGAGATTAATGCTACAGATATTATCATTAGTCATGTTAAAAATGACGACGATAT
+CGGTACCGTTAAAGATGGTAGACTAGGTGCTATGGATGGGGCATTATGTAAGACTTGTGGGAAAACGGAA
+TTGGAATGTTTCGGTCAGTGGGGTAAAGTAAGTATTTATAAAACTCATATAGTTAAGCCTGAATTTATTT
+CAGAAATCACTCGTTTACTGAATCATATATGTATTCACTGCGGATTATTGCGTTCACGAGAACCGTATTC
+CGACGATATTAACCTAAAAGAGTTAT</dna_sequence>
+        <protein_sequence>>gi|61389|emb|CAA26010.1| F2 polypeptide [Vaccinia virus]
+MGAAASIQTTVNTLSERISSKLEQEANASAQTKCDIEIGNFYIRQNHGCNLTVKNMCSADADAQLDAVLS
+AATETYSGLTPEQKAYVPAMFTAALNIQTSVNTVVRDFENYVKQTCNSSAVVDNKLKIQNVIIDECYGAP
+GSPTNLEFINTGSSKGNCAIKALMQLTTKATTQIAPKQVAGTGVQFYMIVIGVIILAALFMYYAKRMLFT
+STNDKIKLILANKENVHWTTYMDTFFRTSPMVIATTDMQN</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene27">
+        <gene_name>p53</gene_name>
+        <strain>Homo sapiens</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>7157</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>TP53, LFS1, TRP53, tumor protein p53 (Li-Fraumeni syndrome)</xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|42821409|dbj|AB118156.1| Homo sapiens p53 gene for P53, exon 5, partial cds
+TACTCCCCTGCCCTCAACAAGATGTTTTGCCAACTGGCCAAGACCTGCCCTGTGCAGCTGTGGGTTGATT
+CCACACCCCCGCCCGGCACCCGCGTCCGCGCCATGGCCATCTACAAGCAGTCACAGCACATGACGGAGGT
+TGTGAGGCGCTGCCCCCACCATGAGCGCTGCTCAGATAGCGATG</dna_sequence>
+        <protein_sequence>>gi|42821410|dbj|BAD11806.1| P53 [Homo sapiens]
+YSPALNKMFCQLAKTCPVQLWVDSTPPPGTRVRAMAIYKQSQHMTEVVRRCPHHERCSDSD</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene43">
+        <gene_name>VACVgp196</gene_name>
+        <strain>Vaccinia virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1486323</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACVgp196</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>EEV glycoprotein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|335508|gb|AAA48160.1| putative A33R [Vaccinia virus Copenhagen]
+MMTPENDEEQTSVFSATVYGDKIQGKNKRKRVIGLCIRISMVISLLSMITMSAFLIVRLNQCMSANEAAI
+TDAAVAVAAASSTHRKVASSTTQYDHKESCNGLYYQGSCYILHSDYQLFSDAKANCTAESSTLPNKSDVL
+ITWLIDYVEDTWGSDGNPITKTTSDYQDSDVSQEVRKYFCVKTMN</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene41">
+        <gene_name>VACVgp200</gene_name>
+        <strain>Vaccinia virus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1486327</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>VACVgp200</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>EEV membrane protein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|335512|gb|AAA48164.1| putative A36R [Vaccinia virus Copenhagen]
+MMLVPLITVTVVAGTILVCYILYICRKKIRTVYNDNKIIMTKLKKIKSSNSSKSSKSTDSESDWEDHCSA
+MEQNNDVDNISRNEILDDDSFAGSLIWDNESNVMAPSTEHIYDSVAGSTLLINNDRNEQTIYQNTTVVIN
+ETETVEVLNEDTKQNPNYSSNPFVNYNKTSICSKSNPFITELNNKFSENNPFRRAHSDDYLNKQEQDHEH
+DDIESSVVSLV</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference182">
+		<reference_name>Amanna et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Amanna IJ, Slifka MK, Crotty S</authors>
+		<title>Immunity and immunological memory following smallpox vaccination</title>
+		<year>2006 Jun</year>
+		<volume>211</volume>
+		<issue></issue>
+		<pages>320-37</pages>
+		<journal_book_name>Immunological reviews</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference165">
+		<reference_name>Belyakov et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Belyakov IM, Earl P, Dzutsev A, Kuznetsov VA, Lemon M, Wyatt LS, Snyder JT, Ahlers JD, Franchini G, Moss B, Berzofsky JA</authors>
+		<title>Shared modes of protection against poxvirus infection by attenuated and conventional smallpox vaccine viruses</title>
+		<year>2003 Aug 5</year>
+		<volume>100</volume>
+		<issue>16</issue>
+		<pages>9458-63</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference701">
+		<reference_name>Berhanu et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Berhanu A, Wilson RL, Kirkwood-Watts DL, King DS, Warren TK, Lund SA, Brown LL, Krupkin AK, Vandermay E, Weimers W, Honeychurch KM, Grosenbach DW, Jones KF, Hruby DE</authors>
+		<title>Vaccination of BALB/c mice with Escherichia coli-expressed vaccinia virus proteins A27L, B5R, and D8L protects mice from lethal vaccinia virus challenge</title>
+		<year>2008</year>
+		<volume>82</volume>
+		<issue>7</issue>
+		<pages>3517-3529</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference708">
+		<reference_name>Bielinska et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bielinska AU, Chepurnov AA, Landers JJ, Janczak KW, Chepurnova TS, Luker GD, Baker JR Jr</authors>
+		<title>A novel, killed-virus nasal vaccinia virus vaccine</title>
+		<year>2008</year>
+		<volume>15</volume>
+		<issue>2</issue>
+		<pages>348-358</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference139">
+		<reference_name>Casey et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Casey CG, Iskander JK, Roper MH, Mast EE, Wen XJ, Torok TJ, Chapman LE, Swerdlow DL, Morgan J, Heffelfinger JD, Vitek C, Reef SE, Hasbrouck LM, Damon I, Neff L, Vellozzi C, McCauley M, Strikas RA, Mootrey G</authors>
+		<title>Adverse events associated with smallpox vaccination in the United States, January-October 2003</title>
+		<year>2005 Dec 7</year>
+		<volume>294</volume>
+		<issue>21</issue>
+		<pages>2734-43</pages>
+		<journal_book_name>JAMA : the journal of the American Medical Association</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1470">
+		<reference_name>Davies et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Davies DH, McCausland MM, Valdez C, Huynh D, Hernandez JE, Mu Y, Hirst S, Villarreal L, Felgner PL, Crotty S</authors>
+		<title>Vaccinia virus H3L envelope protein is a major target of neutralizing antibodies in humans and elicits protection against lethal challenge in mice</title>
+		<year>2005</year>
+		<volume>79</volume>
+		<issue>18</issue>
+		<pages>11724-11733</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference155">
+		<reference_name>Earl et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Earl PL, Americo JL, Wyatt LS, Eller LA, Whitbeck JC, Cohen GH, Eisenberg RJ, Hartmann CJ, Jackson DL, Kulesh DA, Martinez MJ, Miller DM, Mucker EM, Shamblin JD, Zwiers SH, Huggins JW, Jahrling PB, Moss B</authors>
+		<title>Immunogenicity of a highly attenuated MVA smallpox vaccine and protection against monkeypox</title>
+		<year>2004 Mar 11</year>
+		<volume>428</volume>
+		<issue>6979</issue>
+		<pages>182-5</pages>
+		<journal_book_name>Nature</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference164">
+		<reference_name>Edghill-Smith et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Edghill-Smith Y, Venzon D</authors>
+		<title>Modeling a safer smallpox vaccination regimen, for human immunodeficiency virus type 1-infected patients, in immunocompromised macaques</title>
+		<year>2003 Oct 15</year>
+		<volume>188</volume>
+		<issue>8</issue>
+		<pages>1181-91</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference143">
+		<reference_name>Empig et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Empig C, Kenner JR, Perret-Gentil M, Youree BE, Bell E, Chen A, Gurwith M, Higgins K, Lock M, Rice AD, Schriewer J, Sinangil F, White E, Buller RM, Dermody TS, Isaacs SN, Moyer RW</authors>
+		<title>Highly attenuated smallpox vaccine protects rabbits and mice against pathogenic orthopoxvirus challenge</title>
+		<year>2006 Apr 24</year>
+		<volume>24</volume>
+		<issue>17</issue>
+		<pages>3686-94</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference771">
+		<reference_name>FDA: ACAM2000</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: ACAM2000 Vaccine for Variola Virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094065.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference770">
+		<reference_name>FDA: Dryvax</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Dryvax Vaccine for Variola Virus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094066.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference149">
+		<reference_name>Fogg et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fogg C, Lustig S, Whitbeck JC, Eisenberg RJ, Cohen GH, Moss B</authors>
+		<title>Protective immunity to vaccinia virus induced by vaccination with multiple recombinant outer membrane proteins of intracellular and extracellular virions</title>
+		<year>2004 Oct</year>
+		<volume>78</volume>
+		<issue>19</issue>
+		<pages>10230-7</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference151">
+		<reference_name>Franz et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Franz DR, Jahrling PB, Friedlander AM, McClain DJ, Hoover DL, Bryne WR, Pavlin JA, Christopher GW, Eitzen EM Jr</authors>
+		<title>Clinical recognition and management of patients exposed to biological warfare agents</title>
+		<year>1997 Aug 6</year>
+		<volume>278</volume>
+		<issue>5</issue>
+		<pages>399-411</pages>
+		<journal_book_name>JAMA : the journal of the American Medical Association</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1469">
+		<reference_name>Golden et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Golden JW, Josleyn MD, Hooper JW</authors>
+		<title>Targeting the vaccinia virus L1 protein to the cell surface enhances production of neutralizing antibodies</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>27-28</issue>
+		<pages>3507-3515</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference140">
+		<reference_name>Grabenstein et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Grabenstein JD, Winkenwerder W Jr</authors>
+		<title>US military smallpox vaccination program experience</title>
+		<year>2003 Jun 25</year>
+		<volume>289</volume>
+		<issue>24</issue>
+		<pages>3278-82</pages>
+		<journal_book_name>JAMA : the journal of the American Medical Association</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference141">
+		<reference_name>Greenberg et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Greenberg RN, Kennedy JS, Clanton DJ, Plummer EA, Hague L, Cruz J, Ennis FA, Blackwelder WC, Hopkins RJ</authors>
+		<title>Safety and immunogenicity of new cell-cultured smallpox vaccine compared with calf-lymph derived vaccine: a blind, single-centre, randomised controlled trial</title>
+		<year>2005 Jan 29-Feb 4</year>
+		<volume>365</volume>
+		<issue>9457</issue>
+		<pages>398-409</pages>
+		<journal_book_name>Lancet</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference152">
+		<reference_name>Hassett, 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hassett DE</authors>
+		<title>Smallpox infections during pregnancy, lessons on pathogenesis from nonpregnant animal models of infection</title>
+		<year>2003 Oct</year>
+		<volume>60</volume>
+		<issue>1</issue>
+		<pages>13-24</pages>
+		<journal_book_name>Journal of reproductive immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference150">
+		<reference_name>Henderson, 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Henderson DA</authors>
+		<title>Smallpox: clinical and epidemiologic features</title>
+		<year>1999 Jul-Aug</year>
+		<volume>5</volume>
+		<issue>4</issue>
+		<pages>537-9</pages>
+		<journal_book_name>Emerging infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference138">
+		<reference_name>Hooper et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hooper JW, Thompson E, Wilhelmsen C, Zimmerman M, Ichou MA, Steffen SE, Schmaljohn CS, Schmaljohn AL, Jahrling PB</authors>
+		<title>Smallpox DNA vaccine protects nonhuman primates against lethal monkeypox</title>
+		<year>2004 May</year>
+		<volume>78</volume>
+		<issue>9</issue>
+		<pages>4433-43</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference162">
+		<reference_name>Hooper et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hooper JW, Golden JW, Ferro AM, King AD</authors>
+		<title>Smallpox DNA vaccine delivered by novel skin electroporation device protects mice against intranasal poxvirus challenge</title>
+		<year>2006 Nov 27</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5024">
+		<reference_name>Maksiutov and Shchelkunov, 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Maksiutov RA, Shchelkunov SN</authors>
+		<title>[Comparison of protective properties of the smallpox DNA-vaccine based on the variola virus A30L gene and its variant with modified codon usage]</title>
+		<year>2011</year>
+		<volume></volume>
+		<issue>2</issue>
+		<pages>30-34</pages>
+		<journal_book_name>Molekuliarnaia genetika, mikrobiologiia i virusologiia</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference153">
+		<reference_name>McFadden, 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McFadden G</authors>
+		<title>Poxvirus tropism</title>
+		<year>2005 Mar</year>
+		<volume>3</volume>
+		<issue>3</issue>
+		<pages>201-13</pages>
+		<journal_book_name>Nature reviews. Microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference156">
+		<reference_name>Meseda et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Meseda CA, Garcia AD, Kumar A, Mayer AE, Manischewitz J, King LR, Golding H, Merchlinsky M, Weir JP</authors>
+		<title>Enhanced immunogenicity and protective effect conferred by vaccination with combinations of modified vaccinia virus Ankara and licensed smallpox vaccine Dryvax in a mouse model</title>
+		<year>2005 Sep 1</year>
+		<volume>339</volume>
+		<issue>2</issue>
+		<pages>164-75</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference144">
+		<reference_name>Monath et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Monath TP, Caldwell JR, Mundt W, Fusco J, Johnson CS, Buller M, Liu J, Gardner B, Downing G, Blum PS, Kemp T, Nichols R, Weltzin R</authors>
+		<title>ACAM2000 clonal Vero cell culture vaccinia virus (New York City Board of Health strain)--a second-generation smallpox vaccine for biological defense</title>
+		<year>2004 Oct</year>
+		<volume>8 Suppl 2</volume>
+		<issue></issue>
+		<pages>S31-44</pages>
+		<journal_book_name>International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference168">
+		<reference_name>Morikawa et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Morikawa S, Sakiyama T, Hasegawa H, Saijo M, Maeda A, Kurane I, Maeno G, Kimura J, Hirama C, Yoshida T, Asahi-Ozaki Y, Sata T, Kurata T, Kojima A</authors>
+		<title>An attenuated LC16m8 smallpox vaccine: analysis of full-genome sequence and induction of immune protection</title>
+		<year>2005 Sep</year>
+		<volume>79</volume>
+		<issue>18</issue>
+		<pages>11873-91</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference167">
+		<reference_name>NCBI</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Entrez Gene</title>
+		<year>2006</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&amp;DB=gene</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference146">
+		<reference_name>Ober et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ober BT, Bruhl P, Schmidt M, Wieser V, Gritschenberger W, Coulibaly S, Savidis-Dacho H, Gerencer M, Falkner FG</authors>
+		<title>Immunogenicity and safety of defective vaccinia virus lister: comparison with modified vaccinia virus Ankara</title>
+		<year>2002 Aug</year>
+		<volume>76</volume>
+		<issue>15</issue>
+		<pages>7713-23</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference135">
+		<reference_name>Parrino et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Parrino J, Graham BS</authors>
+		<title>Smallpox vaccines: Past, present, and future</title>
+		<year>2006 Dec</year>
+		<volume>118</volume>
+		<issue>6</issue>
+		<pages>1320-6</pages>
+		<journal_book_name>The Journal of allergy and clinical immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference134">
+		<reference_name>PathPort</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Virginia Bioinformatics Institute</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://pathport.vbi.vt.edu/pathinfo/pathogens/Clostridium_botulinum_Info.shtml</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference154">
+		<reference_name>Slifka, 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Slifka MK</authors>
+		<title>Immunological memory to viral infection</title>
+		<year>2004 Aug</year>
+		<volume>16</volume>
+		<issue>4</issue>
+		<pages>443-50</pages>
+		<journal_book_name>Current opinion in immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference159">
+		<reference_name>Stittelaar et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Stittelaar KJ, van Amerongen G, Kondova I, Kuiken T, van Lavieren RF, Pistoor FH, Niesters HG, van Doornum G, van der Zeijst BA, Mateo L, Chaplin PJ, Osterhaus AD</authors>
+		<title>Modified vaccinia virus Ankara protects macaques against respiratory challenge with monkeypox virus</title>
+		<year>2005 Jun</year>
+		<volume>79</volume>
+		<issue>12</issue>
+		<pages>7845-51</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference166">
+		<reference_name>Sugimoto et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sugimoto M, Yamanouchi K</authors>
+		<title>Characteristics of an attenuated vaccinia virus strain, LC16m0, and its recombinant virus vaccines</title>
+		<year>1994 Jun</year>
+		<volume>12</volume>
+		<issue>8</issue>
+		<pages>675-81</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference163">
+		<reference_name>Vilesova et al., 1985</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vilesova IS, Gurvich EB, Dzagurov SG, Grigor'eva LV, Abel H</authors>
+		<title>[Changes in the properties of the vaccinia virus isolated in postvaccinal encephalitis]</title>
+		<year>1985 Jul-Aug</year>
+		<volume>30</volume>
+		<issue>4</issue>
+		<pages>477-82</pages>
+		<journal_book_name>Voprosy virusologii</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference157">
+		<reference_name>Vollmar et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vollmar J, Arndtz N, Eckl KM, Thomsen T, Petzold B, Mateo L, Schlereth B, Handley A, King L, Hulsemann V, Tzatzaris M, Merkl K, Wulff N, Chaplin P</authors>
+		<title>Safety and immunogenicity of IMVAMUNE, a promising candidate as a third generation smallpox vaccine</title>
+		<year>2006 Mar 15</year>
+		<volume>24</volume>
+		<issue>12</issue>
+		<pages>2065-70</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference142">
+		<reference_name>Weltzin et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Weltzin R, Liu J, Pugachev KV, Myers GA, Coughlin B, Blum PS, Nichols R, Johnson C, Cruz J, Kennedy JS, Ennis FA, Monath TP</authors>
+		<title>Clonal vaccinia virus grown in cell culture as a new smallpox vaccine</title>
+		<year>2003 Sep</year>
+		<volume>9</volume>
+		<issue>9</issue>
+		<pages>1125-30</pages>
+		<journal_book_name>Nature medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen131">
+		<pathogen_name>Entamoeba histolytica</pathogen_name>
+		<taxon_id>5759</taxon_id>
+		<pathogenesis refs="reference1418">The amoeba can actually 'bore' into the intestinal wall, causing lesions and intestinal symptoms, and it may reach the blood stream. From there, it can reach different vital organs of the human body, usually the liver, but sometimes the lungs, brain, spleen, etc. A common outcome of this invasion of tissues is a liver abscess, which can be fatal if untreated. Ingested red blood cells are sometimes seen in the amoeba cell cytoplasm (Wiki: Entamoeba histolytica).</pathogenesis>
+		<disease_name>Amoebiasis</disease_name>
+		<protective_immunity refs="reference1382">It has been shown that amoeba-specific sIgA antibodies are capable of blocking parasite adherence to target cells, preventing cytotoxic activity (Carrero et al., 2010).</protective_immunity>
+		<host_range refs="reference1418">Other than infecting humans, mammals such as dogs and cats can become infected transiently, but are not thought to contribute significantly to transmission (Wiki: Entamoeba histolytica).</host_range>
+		<introduction refs="reference1418">Entamoeba histolytica is an anaerobic parasitic protozoan, part of the genus Entamoeba. Predominantly infecting humans and other primates, E. histolytica is estimated to infect about 50 million people worldwide. Many older textbooks state that 10% of the world population is infected, but these figures predate the recognition that at least 90% of these infections were due to a second species, E. dispar. Mammals such as dogs and cats can become infected transiently, but are not thought to contribute significantly to transmission.
+
+The active (trophozoite) stage exists only in the host and in fresh loose faeces; cysts survive outside the host in water, soils and on foods, especially under moist conditions on the latter. The cysts are readily killed by heat and by freezing temperatures, and survive for only a few months outside of the host. When cysts are swallowed they cause infections by excysting (releasing the trophozoite stage) in the digestive tract. The trophozoite stage is readily killed in the environment and cannot survive passage through the acidic stomach to cause infection.  Symptoms can include fulminating dysentery, bloody diarrhea, weight loss, fatigue, abdominal pain, and amoeboma (Wiki: Entamoeba histolytica).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine918">
+		<vaccine_name>E. histolytica CEL-170/4 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011414</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's incomplete and complete adjuvants</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">E. histolytica alactose-specific adherence lectin heavy subunit (CEL-170/4)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering398" gene_id="gene795">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1386">The galactose-specific lectin has been purified from a pathogenic strain of E. histolytica by monoclonal antibody affinity chromatography (Petri and Ravdin, 1991).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response675" host_id="host40">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1386">Adult male gerbils were immunized by intraperitoneal or subcutaneous injection of 10 ,ug of the affinity-purified lectin emulsified in complete Freund's adjuvant (GIBCO, Grand Island, N.Y.) and boosted with 10 ,ug of the lectin in incomplete Freund's adjuvant at 2 and 4 weeks. Control gerbils were sham immunized with Freund's complete and incomplete adjuvants alone. Prechallenge gerbil sera were collected at 5 weeks after the initial immunization by cardiac puncture (Petri and Ravdin, 1991).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1386">Researcherse tested the ability of the galactose-specific adherence lectin of E. histolytica to elicit a protective immune response in conjunction with Freund's incomplete and complete adjuvants.  Four independent trials demonstrated complete protection from amebic liver abscess formation in 67% of lectin-immunized gerbils.  The gerbil antilectin antibodies were shown by Western immunoblotting to be directed to the heavy subunit (CEL-170/4) but not the light subunit of the lectin (Petri and Ravdin, 1991).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1386">Gerbils were challenged intrahepatically with E. histolytica (Petri and Ravdin, 1991).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine915">
+		<vaccine_name>E. histolytica Eh29 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011450</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Incomplete Freund’s adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">E. histolytica alkyl hydroperoxide reductase Eh29</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering394" gene_id="gene791">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1382">The full coding region of the gEh29 gene which encodes Eh29 (GenBank Accession No. X70996.1) was amplified by PCR and the 0.7 Kb amplicon was cloned into the expression vector pRSET-A (Invitrogen, CA, USA) following standard methods. After transformation into Escherichia coli BL21 (DE3) pLysS (Stratagene, CA, USA) positive clones were selected on ampicillin and chloramphenicol and were induced for expression of amino-terminal His-tagged Eh29 by incubation with 2 mM IPTG (Carrero et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response672" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/HeJ</host_strain>
+			<vaccination_protocol refs="reference1382">Mice were divided into seven groups of 10 animals. Two groups were left unimmunized. The remaining five groups were immunized using Eh29 combined with CT (Eh29 + CT), Eh29–CTxB fusion protein, CT alone, CTxB alone, or ARF combined with CT (ARF + CT). Mice were immunized orally with a dose of the relevant protein solution on days 1, 7, and 21 using a plastic cannula (standard wall spaghetti tubing; Chemplast Inc., USA). The protein solutions were prepared in 0.2 M NaHCO3, pH 8.3 such that one dose contained 100 μg of either recombinant Eh29, Eh29–CTxB or ARF, and 10 μg of commercial CT or CTxB, as pertinent. Additionally, on day 14, all immunized groups received an intraperitoneal boost with 25 μg of the corresponding recombinant protein emulsified in incomplete Freund’s adjuvant. The groups receiving only CT or CTxB were boosted with adjuvant emulsified in PBS (Carrero et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1382">80% of C3H/HeJ mice immunized with Eh29 administered in combination with a subclinical dose of whole cholera toxin, but not as an Eh29-CTxB fusion, showed no evidence of infection in tissue sections harvested following intracecal challenge with virulent E. histolytica trophozoites. These results suggest that Eh29 is capable of inducing protective anti-amoebic immune responses in mice following oral immunization and could be used in the development of oral vaccines against amoebiasis (Carrero et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1382">On day 27 all mice (except those from one of the unimmunized groups) were infected intracecally with E. histolytica trophozoites recovered after three passages from hamster liver abscesses (Carrero et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine916">
+		<vaccine_name>E. histolytica Gal/GalNAc lectin protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011451</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Incomplete or complete Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">E. histolyica Gal/GalNAc lectin</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering395" gene_id="gene792">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1383">The native E. histolytica Gal/GalNAc lectin was purified from strain HM1:IMSS trophozoites grown under axenic conditions as described previously [5]. A large fragment of the Gal/GalNAc lectin heavy subunit spanning amino acids 578–1154 (“LecA”) was cloned into a pRSET-A vector (Invitrogen, Carlsbad, CA) with a kanamycin resistance gene and expressed in E. coli. The E. coli cells were lyzed by sonication and isolated inclusion bodies were denatured in inclusion body solubilization reagent (Pierce, Rockford, IL) (Houpt et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response673" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/HeJ</host_strain>
+			<vaccination_protocol refs="reference1383">Mice were immunized with a combined intranasal and intraperitoneal regimen over 6–9 weeks.  Intranasal immunizations used 10 μg of antigen and 1 μg of cholera toxin (Sigma) administered intranasally in 20 μl of PBS into C3H mice under isoflurane anesthesia. Intraperitoneal immunizations used 15 μg of antigen emulsified in equal volumes of either complete (CFA) or incomplete Freund’s adjuvant (IFA) (Gibco, Grand Island, NY) injected via 20 gauge syringe. The lectin-1 trial utilized 150 μl of complete Freund’s adjuvant, the week 4 immunization of the lectin-2 trial two utilized 100 μl of CFA, and all other i.p. immunizations utilized 150 μl of incomplete Freund’s adjuvant. Sham-immunized mice from each trial were administered an identical regimen of PBS with adjuvant (Houpt et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1383">Vaccination prevented intestinal infection with efficacies of 84 and 100% in the two native lectin trials and 91 and 34% in the two LecA trials.  Results show for the first time that immunization with the Gal/GalNAc lectin can prevent intestinal amebiasis in mice (Houpt et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1383">Mice were challenged intracecally with trophozoites 2 weeks after the final immunization (Houpt et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine920">
+		<vaccine_name>E. histolytica SREHP protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011416</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral</route>
+		<antigen refs="">E. histolytica serine-rich protein (SREHP)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering401" gene_id="gene793">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1384">Expressed the SREHP-MBP molecule in an attenuated vaccine strain of Salmonella typhimurium (Zhang and Stanley, 1996).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response677" host_id="host41">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1384">female BALB/c mice or gerbils were deprived of water and food for 4 h and then were given 50 ml of 10% sodium bicarbonate solution per orogastric gavage with a 21-gauge ball-tipped gavage needle. Five minutes later, they received by gavage 50 ml of 0.16Mphosphate-buffered saline (PBS), pH 7.0, containing 109 S. typhimurium cells harboring either pSS3137 (Stm-SREHP) or pYA3137 (Stm-Ctrl). Mice and gerbils were immunized on days 0, 7, and 21.  Serum samples were obtained on days 0, 7, 21, and 28 (Zhang and Stanley, 1996).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1384">Report describes a recombinant fusion protein containing the serine-rich Entamoeba histolytica protein (SREHP), a protective antigen derived from virulent amebae, and a bacterially derived maltose-binding protein (MBP) from an attenuated strain of Salmonella typhimurium.  Gerbils vaccinated with S typhimurium SREHP-MBP were protected against amebic liver abscess after challenge with E. histolytica, the most common extraintestinal complication of amebiasis (Zhang and Stanley, 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1384">On day 35 (14 days following the final booster immunization) control gerbils vaccinated with Stm-Ctrl and gerbils vaccinated with Stm-SREHP were challenged intrahepatically with 5 x 10^5 E. histolytica HM1:IMSS trophozoites (Zhang and Stanley, 1996).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene795">
+        <gene_name>CEL-170/4</gene_name>
+        <strain>Entamoeba histolytica</strain>
+        <vo_id>VO_0011326</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>401088</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5759</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>170 kDa surface lectin</protein_name>
+        <protein_pi>4.96</protein_pi>
+        <protein_weight>138236.38</protein_weight>
+        <protein_length>1384</protein_length>
+        <protein_note>{ECO:0000269|PubMed:2000392, ECO:0000269|PubMed:2536731}.</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|P23502.2|SL17_ENTHI RecName: Full=170 kDa surface lectin; Flags: Precursor
+MKLLLLNILLLCCLADKLNEFSADIDYYDLGIMSRGKNAGSWYHSYTHQYDVFYYLAMQPWRHFVWTTCE
+TTKGNKECYKYIINEDHNLNAQQLNNIKNLDKQDFCQKEYAYPIEKYEVDWDNVPVDEQQIESVDINGKT
+CFKYAAKRPLAYVYLNTKMTYATKTEAYDVCRMDFIGGRSITFRSFNNENKDFIDQYNTNTTSKCIIDVH
+KNNVNTHLAIILGITDSTVIKSLQENLSLLSQLKQSRVTLYYLKDDSYATDNIKLKDLKYETLVKYTAGQ
+GQVDPLVNQAKNDLFKMISDKKIKRGTMVVLMDNALGSEFNAETEFDRKNISVHTVVLNRNKDSKITYSA
+LKLVSLGPHYHEFTSNSEVSTTIDELFKGIRANLTERCDRDKCSGFCDAMNRCTCPMCCENDCFYTSCDV
+ETGSCIPWPKAKPKAKKECPATCVGLYECKDLEGCVVTKYNASCEPKVKCMVPYCDDDNNLKEVCKQKAN
+CEADQKPSSDGYCWSYTCDETTGFCKKYKHGNLCTGKTTNCQEYVCDSEQRCTVQEKVCVKTSPYIEMSC
+YVAKCNLNTGMCENRLSCDTYSSCGGDSTGSVCKCDASTGNQCKCNKVENGNYCDSSKHEICDYTGDKPK
+CIVSECTEDLVRDGCLIKRCNKTSKTTYWENVDCSNTKIEFAQDGKSETMCKPYYSATCLNGQCVVQAVG
+DVSNVGCGYCSMGTDNVITYHDDCDSRKSQCGNFNGKCQPNGDNSYSCVFEKDKTSSKSDNDICAECSSL
+TCPADTTYRTYTYDSKTGTCKATVKPTPSCSVCEKGKFVEKSKDQKLERKVTLEDGKEYQYNIPKDCVNE
+QCIPRTYVDCLANDDNFGEIYKFYLPCQAYVTATYHYSSLFNLTSYKLHLPQSEEFMKEADKEAYCTYEI
+TTRECKTCSLTETKEKVEEIDLCAEETKNGGVPFKCKNNNCIIDPNFDCQPIECKIQEIVITEKDGIKTT
+TCKDGTKTTCDTNNKRIEDARKAFIEGKEGIEQVECASTVCQNDNSCPIIADVEKCNQNTEVDYGCKAMT
+GECDGTTYLCKFVQLTDDPSLDSEHFRTKSGVELNNACLKYKCVESKGSDGKITHKWEIDTERSNIDPKP
+RNPCETATCDQTTGETIYTKKTCTVSEEFPTITPNQGRCFYCQCSYLDGSSVLTMYGETDKEYYDLDACG
+NCRVWNQTDRTQQLNNHTECILAGEINNVGAIAAATTVAVVVVAVVVALIVVSIGLFKTYQLVSSAMKNA
+ITTTNENAEYVGADNEATNAATYNG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Researcherse tested the ability of the galactose-specific adherence lectin of E. histolytica to elicit a protective immune response in conjunction with Freund's incomplete and complete adjuvants.  Four independent trials demonstrated complete protection from amebic liver abscess formation in 67% of lectin-immunized gerbils.  The gerbil antilectin antibodies were shown by Western immunoblotting to be directed to the heavy subunit (CEL-170/4) but not the light subunit of the lectin [Ref1386:Petri and Ravdin, 1991].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene792">
+        <gene_name>Gal/GalNAc lectin</gene_name>
+        <strain>Entamoeba histolytica HM-1:IMSS</strain>
+        <vo_id>VO_0011323</vo_id>
+        <ncbi_gene_id>3404842</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>67469085</ncbi_protein_id>
+        <gene_locus_tag>EHI_046650</gene_locus_tag>
+        <gene_refseq>DS571321</gene_refseq>
+        <protein_refseq>XP_650534</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>294381</taxonomy_id>
+        <chromosome>Unknown</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>16307</gene_start>
+        <gene_end>19930</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>4.63</protein_pi>
+        <protein_weight>126939.55</protein_weight>
+        <protein_length>1207</protein_length>
+        <protein_note>transcript EHI_046650A</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NW_001915036.1:16307-19930 Entamoeba histolytica HM-1:IMSS scf_1104750517013 genomic scaffold, whole genome shotgun sequence
+ATTATCCATTGAAATTAGCATTTGTGGCATTATCATCTTTAGCTGTGAATTGTGGGTTATTCACAGTATT
+ATCAACAGTATTCTTTCTTGCAGAAATAACAATATCAACAGTTTGCTTAATTCCAATAGCAATAATTACC
+ATAACAACAACAATTACTGCAACAACAACTGCAACAGTGGTACCAGCAGCAATAGCAGCTGTATTATCAA
+CGTCTTGCCATAACAAACAAACAGCATCTTTATCAACCAATTCATCATTGATCTTACAATTACCACATGC
+ATCTAATGAGAATCTATGATCTGCATAATCAGAGTACATTGTTAAAATCCACCCACTTTCAGATTGTAAT
+GAACATTCACAATAGAAACAATTCTTAGCTGCTTTAGACATATTAGGGAATTGAATATCAATATCACATT
+GAACAAAATTAGTTTCAATTTCTCCTGTTTCTTTGTCACAATAAGCGTCTTGACATTTATTCTTATAGAG
+CAATGCTTTTTCATGTCCATCAATATTACTTGTCCATTTATGTGTTATCACTCCTTCAGTGATAGTTTCA
+ACACAGGTATAATTATAACATTTATCAGTACAATCCCTATCATTAGATGGCTCATCACTACATTTTGTAA
+ATTCCTTCTTGATACAATATCCTGTACTTGTATCACATTTACCTGTTAATGAAGCACACCCAACATCAGC
+AGTATTTGATGAACAAATAGAATCATCATACACACCACTACATTTTGGAATACTTCCAGAAGCATCACAA
+TTAGTTTTCATACAAATAACTTCTCCAGGTTTACTAGGAGGAAGTGATGGACAAATAGTGACATTAGTTG
+GTTCACAAAGTTGGGATGTTCCAGTCTTTACTTGAATGAAACAATTATTAGTTGGATTACAATCTCCTTC
+ATATTTACAATCCCCATCTGAACAAGTCATCTGATAAATATTTCCAGATGCATCTACTTGATTTGGACAT
+TTATCAACAAGAGTAGACTCTTTATCCATTCCACTACAATACTTACATAAACTTTTTACCTTTTCTTCGT
+TTGAATTCCATTCACATTTATATTCATCAAATGTTGTGCCAATAATTAATTTGTAATCAAGAACATCAAG
+ACATTTACTAGGGAAATTCTCATGTTTAGTACAATCAAATTCATCATCAATATGACAACTTCCATCACGA
+CATACATATGGAATACCATTTATATTCTTTTTATTAGTACAATCCATTTTAATAAGTTTAGCTGGGTCAA
+CAAGAATATTATCATATGAACAATACATACACTGACTATCTAAAATAACTTTTGATCCATCTTTTACAAT
+AACTTTACATTCTCCATTTGCATATTCCCATTCATAATATTGTTCACAATCACTTAATCTATCTTTGAAA
+AGATCTTTACAATCATATTCATCTGGTGCTTGACATTCTCCATCTTTACAAACAAATGGAATTCCTTGTG
+ATGTAGTCAAACCTTCACATTTATTAACAATTTCATTTCCATCACAAATTTTACATTCTTGAATTGCTTT
+ATCTGTAGTTACAAGTATACATTCTCTATTTCCACTACATACATAATTAGCATATCCATCACATTTTTCA
+GGTACTTTTTCTTTACATACATATTCCTCTTGGTCTACAACATATTGAGTCGTTCCATTAGCAGTATATT
+CTTTACAGACTTTTTTGTAACAACCTTCCCAAACAATATCATGTCCTTTAAGCTCTTCACAATTATCAAC
+ATTAATACATTTTGGATCCCCATCTGTATAATCACAAACTTCGCCATTAGTACATCCATTACTAGTATCA
+CATTTACATTGATATGATGTAGATGCATCACATCGACAATTTCCATTAACTTTCCCACACACTTTCATTC
+CAGAACTACATCCAACTAAATTCATAACACAATTTCCAGTTTCACTATCACATGTAGCTTCATAACATGG
+ATTTTCTTCATATGGAGATACTTTAATACATTTCTTTTCTTGAACCATACATGTTCCAGCAGAACAATAA
+TATTCTTCACACTTACTTGATAATTTAGGACAATAGCTAGATGATTGTAATGTATTTGGAATACATTCTC
+CATTTGTTCTATCACATGAATAAGTTCTACAAACAAATTTTTCTACTCCAGATTCAATAATTGAAGATGG
+CTTAATATCATCAGTACAATTACTTCTAAAAGCACAGTTGTTTCCTGAACAATAAGGCTCTAAACATTTA
+ACTGTTGAAACACATTTATTTTGTTCAATAGTACATCCAATATCTTCAACACATTTAGCTACACCTAAAC
+AACTTTCTGTTGTACATTTTCTTTTTTCAATTTTATGATCAGCACTTGGATAATAAACACATTCTCCATT
+TTCAGTATTACATGTTGTATAATAACATTCACTATGACAACACATTGGACATGTACAACGAGCCCCACCA
+TCACAAAATCCTTTACAAGTTTTTCTATCACATAATTCAGTATTATTTGCCATAATAGTATTATATAATT
+GTGGAAGAGAAGTGCTTAATGATGAAACAGATGATTTAAAGTAATGTTCCCCTTTATTAACTAATTCTTC
+AAGTTGATATTCTTCTTCAATTGATGAGTCTAAATTAAATACATAAAATGTAGTATTATGACTATAAAGA
+GTATTTAACATATTAGAAGCTTTTCCTGCATATTTACTGATATAAACAATATTCTTTCCTGCTTTTGAAG
+ACATTTGGTTATATACAGTTTCTATAGCTTTTGTTTCATTTCCTTTTCTCATAACAGTAATTCCATTTAA
+TACATTTTTAATATTATCCTTTGTTACTAATGAATCTGAATGATATGGATTTTGAGAGTTAATATAATAA
+GCGAATGAAGTATCATTTGGGAATAAATCAATCAAATAATTAACAATTGAACTAAATATATTTCTTAATG
+TATTAGTCATATCTAAATTAACAACAATACCAACCGCCATATTATTTGTTGGTGGTAAAACAGTAGAAGC
+ATGACATTTAGTAATATTATTATTTTTATAGTCAGTGATAAAATTATCAGAAAATTCTGAACTACTTCTA
+AATGTAATAACTTTACCTCCAATATATTCAAATCTACATGGTGACATTCCTTCTGCATATTTATTTGTTA
+CATCATATGTTTTTTCAAGAAAATATGCAGCTGTTAATGGTGGTTTAGCAGCATATTTATAACAAGTTAA
+TCCATTAATTGAAACAACTGGTAATTTAGAAGTATCTGATGGAATACGAGACCAATCCAATTGATATTCT
+CTAATAGGATATCCCATTTTCTTTCTACACATATTTTCTTCTTTTGTATCACTTTTATCACGGTCATAAT
+CTTGATTAAATATCATTTCAGTAAAATATTTACTTTGGTCTTTAGTAGGAAAATTACTATCAATAGTTGT
+CCATTCTAAATTTCTCCATGGTTGCATTGTTAAATAATAAAATACACTATACTTTTTATTTACACTTCTT
+GACCATGAAGCTGCATTTTTACCCATTCCCATTCTTCCTTTATCTTGGATATCTACAGTTCCAGAAAACT
+CATTTAAATTAATTCCTAAAGCAATTGAAGCATAAAATAATACCAAAATTATCA
+
+</dna_sequence>
+        <protein_sequence>>XP_650534.1 Gal/GalNAc lectin heavy subunit, putative [Entamoeba histolytica HM-1:IMSS]
+MIILVLFYASIALGINLNEFSGTVDIQDKGRMGMGKNAASWSRSVNKKYSVFYYLTMQPWRNLEWTTIDS
+NFPTKDQSKYFTEMIFNQDYDRDKSDTKEENMCRKKMGYPIREYQLDWSRIPSDTSKLPVVSINGLTCYK
+YAAKPPLTAAYFLEKTYDVTNKYAEGMSPCRFEYIGGKVITFRSSSEFSDNFITDYKNNNITKCHASTVL
+PPTNNMAVGIVVNLDMTNTLRNIFSSIVNYLIDLFPNDTSFAYYINSQNPYHSDSLVTKDNIKNVLNGIT
+VMRKGNETKAIETVYNQMSSKAGKNIVYISKYAGKASNMLNTLYSHNTTFYVFNLDSSIEEEYQLEELVN
+KGEHYFKSSVSSLSTSLPQLYNTIMANNTELCDRKTCKGFCDGGARCTCPMCCHSECYYTTCNTENGECV
+YYPSADHKIEKRKCTTESCLGVAKCVEDIGCTIEQNKCVSTVKCLEPYCSGNNCAFRSNCTDDIKPSSII
+ESGVEKFVCRTYSCDRTNGECIPNTLQSSSYCPKLSSKCEEYYCSAGTCMVQEKKCIKVSPYEENPCYEA
+TCDSETGNCVMNLVGCSSGMKVCGKVNGNCRCDASTSYQCKCDTSNGCTNGEVCDYTDGDPKCINVDNCE
+ELKGHDIVWEGCYKKVCKEYTANGTTQYVVDQEEYVCKEKVPEKCDGYANYVCSGNRECILVTTDKAIQE
+CKICDGNEIVNKCEGLTTSQGIPFVCKDGECQAPDEYDCKDLFKDRLSDCEQYYEWEYANGECKVIVKDG
+SKVILDSQCMYCSYDNILVDPAKLIKMDCTNKKNINGIPYVCRDGSCHIDDEFDCTKHENFPSKCLDVLD
+YKLIIGTTFDEYKCEWNSNEEKVKSLCKYCSGMDKESTLVDKCPNQVDASGNIYQMTCSDGDCKYEGDCN
+PTNNCFIQVKTGTSQLCEPTNVTICPSLPPSKPGEVICMKTNCDASGSIPKCSGVYDDSICSSNTADVGC
+ASLTGKCDTSTGYCIKKEFTKCSDEPSNDRDCTDKCYNYTCVETITEGVITHKWTSNIDGHEKALLYKNK
+CQDAYCDKETGEIETNFVQCDIDIQFPNMSKAAKNCFYCECSLQSESGWILTMYSDYADHRFSLDACGNC
+KINDELVDKDAVCLLWQDVDNTAAIAAGTTVAVVVAVIVVVMVIIAIGIKQTVDIVISARKNTVDNTVNN
+PQFTAKDDNATNANFNG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study tested if vaccination with the E. histolytica Gal/GalNAc lectin could prevent cecal infection in a C3H mouse model of amebic colitis. Vaccination prevented intestinal infection with efficacies of 84 and 100% in the two native lectin trials and 91 and 34% in the two LecA trials.  Results show for the first time that immunization with the Gal/GalNAc lectin can prevent intestinal amebiasis in mice [Ref1383:Houpt et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene791">
+        <gene_name>gEh29</gene_name>
+        <strain>Entamoeba histolytica</strain>
+        <vo_id>VO_0011322</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>399673</ncbi_nucleotide_id>
+        <ncbi_protein_id>399674</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>CAA50324.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:223527
+CDD:239313
+GOA:P19476
+InterPro:IPR000866
+InterPro:IPR012335
+InterPro:IPR012336
+InterPro:IPR017936
+InterPro:IPR019479
+UniProtKB/Swiss-Prot:P19476</xrefs>
+        <taxonomy_id>5759</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>alkyl hydroperoxide reductase</protein_name>
+        <protein_pi>7.38</protein_pi>
+        <protein_weight>25237.95</protein_weight>
+        <protein_length>304</protein_length>
+        <protein_note>Alkyl hydroperoxide reductase subunit AhpC (peroxiredoxin) [Defense mechanisms]; COG0450</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|399673|emb|X70996.1| E.histolytica gEh29 gene for alkyl-hydroperoxidase reductase
+TTAGTTAAAAAGTATTTGATGACTTATTAGTTCATGTTACATATACAAAAATAATACTTTTATTGAAGTT
+TTGTGCCAATACATTTCTCTTTCTCCTCATCATATTCTTCATTAGATTCTTTGAGAATGTGTGGATGTGT
+GTATCTCCGTTTTCTTCTTTTTATCTAGTCATTTTTGTTTTCTATTTACCAGTTCTTTCATTATAAGTTG
+TTTAAATGTTGAATAATTACCATAATGAGAATAATGCAGAAGTGATGATGACGACATTTTTATTTTAGTT
+AAGTAAAGATGATTTTGGTAGTTCATTTGTCATTTAAACATCTCATCATCACCACAATCTCATCAATTCA
+ATCAGTCAAATGTCTTGCAATCAACAAAAAGAGTGTTGTAAAAAAGAATGTCAAGAGAAAGAATGTTGTA
+AAGAATGTTGTTGTCCAAGAATAAAAGCATTTAAGAAATTTATAAACACATTTGAAAAAGCACAAATTGG
+AAAAGAAGCACCAGAATTTAAAGCACCAGCATATTGTCCATGTGGTTCAATCAAAGAGATTGATATTAAT
+GAATATAGAGGAAAATATGTTGTATTGTTGTTTTATCCATTGGATTGGACATTTGTTTGTCCAACAGAAA
+TGATTGGATATAGTGAACTTGCAGGACAATTGAAAGAAATCAATTGTGAAGTTATTGGAGTGAGTGTAGA
+TTCAGTTTATTGTCATCAAGCATGGTGTGAAGCAGATAAAAGTAAAGGAGGAGTAGGAAAGTTGACATTC
+CCATTAGTATCAGATATTAAGAGATGCATTTCTATCAAATATGGAATGTTAAATGTCGAAGCAGGAATTG
+CAAGAAGAGGATATGTCATCATTGACGATAAAGGAAAAGTAAGATACATTCAAATGAATGATGATGGAAT
+TGGAAGATCAACGGAAGAAACAATCAGAATAGTGAAAGCAATTCAATTCAGTGATGAACATGGAGCAGTT
+TGTCCACTCAATTGGAAACCAGGCAAAGACACCATTGAACCAACACCAGATGGAATTAAGAAATATTTAA
+CAGCACATTAAAACAAACAAGATAATTTAATACAAATTATTTTATGTTTTATAAGAAGAAAATGATATAA
+TAAAAGATAAA</dna_sequence>
+        <protein_sequence>>CAA50324.1 alkyl hydroperoxide reductase [Entamoeba histolytica]
+MSCNQQKECCKKECQEKECCKECCCPRIKAFKKFINTFEKAQIGKEAPEFKAPAYCPCGSIKEIDINEYR
+GKYVVLLFYPLDWTFVCPTEMIGYSELAGQLKEINCEVIGVSVDSVYCHQAWCEADKSKGGVGKLTFPLV
+SDIKRCISIKYGMLNVEAGIARRGYVIIDDKGKVRYIQMNDDGIGRSTEETIRIVKAIQFSDEHGAVCPL
+NWKPGKDTIEPTPDGIKKYLTAH
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>80% of C3H/HeJ mice immunized with Eh29 administered in combination with a subclinical dose of whole cholera toxin, but not as an Eh29-CTxB fusion, showed no evidence of infection in tissue sections harvested following intracecal challenge with virulent E. histolytica trophozoites. These results suggest that Eh29 is capable of inducing protective anti-amoebic immune responses in mice following oral immunization and could be used in the development of oral vaccines against amoebiasis [Ref1382:Carrero et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene793">
+        <gene_name>SREHP</gene_name>
+        <strain>Entamoeba histolytica HM-1:IMSS</strain>
+        <vo_id>VO_0011324</vo_id>
+        <ncbi_gene_id>3402462</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>67463194</ncbi_protein_id>
+        <gene_locus_tag>EHI_116360</gene_locus_tag>
+        <gene_refseq>DS571976</gene_refseq>
+        <protein_refseq>XP_648254</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>294381</taxonomy_id>
+        <chromosome>Unknown</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1107</gene_start>
+        <gene_end>1833</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>4.01</protein_pi>
+        <protein_weight>24419.56</protein_weight>
+        <protein_length>233</protein_length>
+        <protein_note>transcript EHI_116360A</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NW_001915691.1:1107-1833 Entamoeba histolytica HM-1:IMSS scf_1104750518053 genomic scaffold, whole genome shotgun sequence
+AGACTAAAGTCAAATAACTTCATTTAGAAGATGATAGCTATAATGATAGCACAGAAAACAATGAATGGAC
+TTGATGCAGCATCAAGGTTATTATTATCGTTATCTGAACTACTTCCTGATTTATCATTTGAATTACTAGT
+TGAGCTTGCTTCTGGTTTATTAGTTGAGCTTGCTTCTGGTTTATTAGTTGAGCTTGCTTCTGGTTTATTA
+GTTGAGCTTGCTTCTGGTTTATTAGTTGAGCTTGCTTCTGGTTTATTATCTGGTTTATCACTTGAGCTTG
+CTTCTGGTTTATTATCTGGTTTATCACTTGAGCTTGCTTCTGGTTTATTATCTGGTTTATCACTTGAACT
+TGCTTCTGGTTTATTATCTGGTTTATCACTTGAACTTGCTTCTGGTTTATTATCTGGTTTATCACTTGAA
+CTTGCTTCTGGTTTATCACTTGAACTTGCTTCTGGTTTATTATCTGGTTTATCACTTGAGCTTGATTCTG
+AGTTATCACTTGAACTTGCTTTTTCATCTTCATCATCTTCATTATCTTCATTTGAACTTGATTCTGGTTT
+TGCTGAGCTACTTTTTTCTTTTTCTTCAGCTTCTTCAAGCTTTTCAGGACTAGCTTCGTTCTTTAAAAAT
+ACACCGTAGATATTAGTATCTTTTACTTCTTGATCCAAATCAAGAATGATATTAGTTGCACTAGTGAATG
+CAATAAACAATAAAAATGCGAACATTG
+
+</dna_sequence>
+        <protein_sequence>>XP_648254.1 serine-rich protein [Entamoeba histolytica HM-1:IMSS]
+MFAFLLFIAFTSATNIILDLDQEVKDTNIYGVFLKNEASPEKLEEAEEKEKSSSAKPESSSNEDNEDDED
+EKASSSDNSESSSSDKPDNKPEASSSDKPEASSSDKPDNKPEASSSDKPDNKPEASSSDKPDNKPEASSS
+DKPDNKPEASSSDKPDNKPEASSTNKPEASSTNKPEASSTNKPEASSTNKPEASSTSNSNDKSGSSSDND
+NNNLDAASSPFIVFCAIIIAIIF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Report describes a recombinant fusion protein containing the serine-rich Entamoeba histolytica protein (SREHP), a protective antigen derived from virulent amebae, and a bacterially derived maltose-binding protein (MBP) from an attenuated strain of Salmonella typhimurium.  Gerbils vaccinated with S typhimurium SREHP-MBP were protected against amebic liver abscess after challenge with E. histolytica, the most common extraintestinal complication of amebiasis [Ref1384:Zhang and Stanley, 1996].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1382">
+		<reference_name>Carrero et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Carrero JC, Contreras-Rojas A, Sánchez-Hernández B, Petrosyan P, Bobes RJ, Ortiz-Ortiz L, Laclette JP</authors>
+		<title>Protection against murine intestinal amoebiasis induced by oral immunization with the 29kDa antigen of Entamoeba histolytica and cholera toxin</title>
+		<year>2010</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Experimental parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5053">
+		<reference_name>He, 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>He GZ</authors>
+		<title>Entamoeba histolytica: cloning, expression and evaluation of the efficacy of a recombinant amebiasis cysteine proteinase gene (ACP1) antigen in minipig</title>
+		<year>2012</year>
+		<volume>130</volume>
+		<issue>2</issue>
+		<pages>126-129</pages>
+		<journal_book_name>Experimental parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1383">
+		<reference_name>Houpt et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Houpt E, Barroso L, Lockhart L, Wright R, Cramer C, Lyerly D, Petri WA</authors>
+		<title>Prevention of intestinal amebiasis by vaccination with the Entamoeba histolytica Gal/GalNac lectin</title>
+		<year>2004</year>
+		<volume>22</volume>
+		<issue>5-6</issue>
+		<pages>611-617</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1386">
+		<reference_name>Petri and Ravdin, 1991</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Petri WA Jr, Ravdin JI</authors>
+		<title>Protection of gerbils from amebic liver abscess by immunization with the galactose-specific adherence lectin of Entamoeba histolytica</title>
+		<year>1991</year>
+		<volume>59</volume>
+		<issue>1</issue>
+		<pages>97-9101</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5055">
+		<reference_name>Priest et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Priest JW, Kwon JP, Montgomery JM, Bern C, Moss DM, Freeman AR, Jones CC, Arrowood MJ, Won KY, Lammie PJ, Gilman RH, Mead JR</authors>
+		<title>Cloning and characterization of the acidic ribosomal protein P2 of Cryptosporidium parvum, a new 17-kilodalton antigen</title>
+		<year>2010</year>
+		<volume>17</volume>
+		<issue>6</issue>
+		<pages>954-965</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1418">
+		<reference_name>Wiki:  Entamoeba histolytica</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Entamoeba histolytica</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Entamoeba_histolytica</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1384">
+		<reference_name>Zhang and Stanley, 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang T, Stanley SL Jr</authors>
+		<title>Oral immunization with an attenuated vaccine strain of Salmonella typhimurium expressing the serine-rich Entamoeba histolytica protein induces an antiamebic immune response and protects gerbils from amebic liver abscess</title>
+		<year>1996</year>
+		<volume>64</volume>
+		<issue>5</issue>
+		<pages>1526-1531</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

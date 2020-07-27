@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen123">
+		<pathogen_name>Cryptosporidium parvum</pathogen_name>
+		<taxon_id>5807</taxon_id>
+		<pathogenesis refs="reference1413">Invasion of the apical tip of ileal enterocytes by sporozoites and merozoites causes pathology seen in the disease. Infection is generally self-limiting in immunocompetent people. In immunocompromised patients, such as those with AIDS or those undergoing immunosuppressive therapy, infection may not be self-limiting, leading to dehydration and, in severe cases, death (Wiki: Cryptosporidium parvum).</pathogenesis>
+		<disease_name>Cryptosporidiosis</disease_name>
+		<protective_immunity refs="reference1367">Cryptosporidium sp. infection induces both cellular and humoral immune responses in infected hosts, but protection is mediated primarily through cellular immunity (Ehigiator et al., 2007).</protective_immunity>
+		<host_range refs="reference1367">Cryptosporidiosis is an enteric diarrheal disease caused mainly by Cryptosporidium parvum, an obligate intracellular protozoan parasite of the intestinal epithelium that infects a variety of mammalian species, including rodents, livestock, and humans (Ehigiator et al., 2007).</host_range>
+		<introduction refs="reference1413">Cryptosporidium parvum is one of several species that cause cryptosporidiosis, a parasitic disease of the mammalian intestinal tract.  Primary symptoms of C. parvum infection are acute, watery, and non-bloody diarrhoea. C. parvum infection is of particular concern in immunocompromised patients, where diarrhea can reach 10–15L per day. Other symptoms may include anorexia, nausea/vomiting and abdominal pain.
+
+Infection is caused by ingestion of sporulated oocysts transmitted by the fecal-oral route. In healthy human hosts, the median infective dose is 132 oocysts.  The general C. parvum life cycle is shared by other members of the genus. Invasion of the apical tip of ileal enterocytes by sporozoites and merozoites causes pathology seen in the disease.  Infection is generally self-limiting in immunocompetent people. In immunocompromised patients, such as those with AIDS or those undergoing immunosuppressive therapy, infection may not be self-limiting, leading to dehydration and, in severe cases, death.
+
+The diagnosis of C. parvum consists of serological tests and microscopic evaluation of oocysts in stools using Kinyoun acid-fast staining.  C. parvum is considered to be the most important waterborne pathogen in developed countries. It is resistant to all practical levels of chlorination, surviving for 24hrs at 1000 mg/L free chlorine (Wiki: Cryptosporidium parvum).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine900">
+		<vaccine_name>C. parvum DNA vaccine encoding CP15/60</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011502</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCP15/60 [Ref1368:Jenkins et al., 1999]</vector>
+		<route>Parenchymal injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Parenchymal injection</route>
+		<antigen refs="">C. parvum sporozoite surface antigen CP15/60</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering375" gene_id="gene777">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1368">Recombinant pCP15/60 plasmid DNA was prepared using standard procedures and resuspended to 1 mg/ml in 0.15 M NaCl. Sera was collected from multiparous Holstein–Fresian cows at 8–12 weeks prior to parturition and tested by IFA for presence of Ab to C. parvum oocysts (Jenkins et al., 1999).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response658" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6NCr</host_strain>
+			<vaccination_protocol refs="reference1368">Cows (n=2) with negligible titers (&lt;1:50) to C. parvum oocysts were immunized at 6, 4 and 2 weeks prior to parturition with 1 mg of plasmid DNA by needle-syringe injection into the parenchymal tissue of the mammary gland.  Colostrum from the cows was also tested for conferring passive immunity against C. parvum infection by oral administration to immunosuppressed adult inbred mice. Immune colostrum and control colostrum were administered to separate groups of dexamethasone (DEX)-treated adult C57BL/6NCr mice beginning 12 h before and at 12 h intervals for 3 days after oral C. parvum oocyst infection (Jenkins et al., 1999).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1368">Mice receiving immune colostrum showed partial protection (about 50% reduction) against intestinal C. parvum development compared to mice receiving control colostrum. This protection was evident at a challenge dose of 10^3 C. parvum oocysts per mouse (Jenkins et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1368">In three separate experiments, DEX-treated mice (n=4 per group, six groups per treatment) received 250 μl of HBC or NBC by gastric intubation using a 26 ga. gavage needle 12 h prior to C. parvum infection. At 0 h, the mice were infected with either 103 or 104 C. parvum oocysts and given 250 μl of either HBC or NBC. Control mice were given H2O and either infected or not infected with C. parvum oocysts (Jenkins et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1050">
+		<vaccine_name>C. parvum DNA vaccine encoding CP23</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011362</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pUMVC4b expression vector</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">Cp23 antigen</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering536" gene_id="gene776">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1367">The C. parvum 27-kDa antigen coding sequence (GenBank accession number U34390) was amplified from a Cp23- pGEX 4T-2 clone.  The fragment was cloned into the EcoRI and NotI restriction enzyme sites of the pUMVC4b expression vector (Adevron, Fargo, ND, USA).  This vector has a cytomegalovirus promoter and immunoadjuvant site that enhances immune responses. Plasmids containing inserts (pUMVC4b-Cp23) and plasmids without inserts (pUMVC4b) were transformed into UltraMAX™ DH5a-FT™ Competent Cells (Invitrogen, Carlsbad, CA, USA), purified, and dissolved in sterile Tris–borate–ethylenediamine tetraacetic acid (TBE). After cloning, the sequence of the resulting clone was confirmed by automated DNA sequencing (Ehigiator et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response803" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6 KO</host_strain>
+			<vaccination_protocol refs="reference1367">Mice (ten per group) were injected subcutaneously in the ear with 100-μg plasmid pUMVC4b-Cp23 in TBE on days 0, 14, and 29. Mice in the control group were injected with either the vector pUMVC4b without the insert or with PBS (Ehigiator et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1367">Cp23-DNA vaccination induced a 50-60% reduction in oocysts shedding, indicating a partial protection against C. parvum infection in IL-12 KO mice (Ehigiator et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1367">The different treatment groups of IL-12p40KO mice were challenged with a dose of 1,000 C. parvum oocysts by oral gavage 2 weeks after the last immunization (Ehigiator et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response289" gene_id="gene1107">
+			    <description refs="reference1367">Six weeks post immunization, mice were bled and antibody responses were measured by ELISA.  IgG1 responses were significantly higher in Cp23 vaccinated mice than vector (control) immunized mice (Ehigiator et al., 2007).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response290" gene_id="gene1106">
+			    <description refs="reference1367">Six weeks post immunization, mice were bled and antibody responses were measured by ELISA.  IgG2a responses were significantly higher in Cp23 vaccinated mice than vector (control) immunized mice (Ehigiator et al., 2007).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene777">
+        <gene_name>CP15/60</gene_name>
+        <strain>Cryptosporidium parvum</strain>
+        <vo_id>VO_0011309</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>170676501</ncbi_nucleotide_id>
+        <ncbi_protein_id>170676502</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>ACB30404.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5807</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>sporozoite surface antigen CP15/60</protein_name>
+        <protein_pi>4.64</protein_pi>
+        <protein_weight>15777.88</protein_weight>
+        <protein_length>224</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|170676501|gb|EU532137.1| Cryptosporidium parvum sporozoite surface antigen CP15/60 mRNA, complete cds
+ATGGGTAACTTGAAATCCTGTTGTTCTTTTGCCGATGAACACTCCCTAACCCCTACTCAACTAGTAGTTG
+GAAATGGTTCAGGAGCTTCAGAAACTGCTTCCAACCACCCCCAAGAAGAAGTTAATGATATTAATACTTT
+TAATGTAAAGTTAACAATGCAAGATAGAAGTAAGCTTGACTGTGAGGTAGTATTTGATAGCACAAGTATT
+TCGCTTTCTGGAGATGGAAAATGCAGAAATATTGCTTTGGATGAAATCCACCAATTATTATATTCAAAGG
+AAGAGCTCTCTAGAGTTGAAAGTAGTGCTGGAATCAGTGATTCCGACAATTGTGTTGCAATTCATCTCAA
+AGAATCAGGAAACTGTATTCCCCTTTTCTTTAATAATTCGCAAGACAAAGAAAGATTTGTTGCAACAGCA
+AACAAATTCAAACCAAACTTTAACTAAAACAGGAATTTCATTAATTCTGGATTTGTTTTTTCCAAACCCT
+ATAAATAAAATCCAAATAGCTTTTCTTCAATAACAGGGAG</dna_sequence>
+        <protein_sequence>>ACB30404.1 sporozoite surface antigen CP15/60 [Cryptosporidium parvum]
+MGNLKSCCSFADEHSLTPTQLVVGNGSGASETASNHPQEEVNDINTFNVKLTMQDRSKLDCEVVFDSTSI
+SLSGDGKCRNIALDEIHQLLYSKEELSRVESSAGISDSDNCVAIHLKESGNCIPLFFNNSQDKERFVATA
+NKFKPNFN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Preparturient cows were immunized three times over a six-week period with recombinant plasmid DNA encoding the Cryptosporidium parvum CP15/60 antigen by injecting the DNA in the mammary gland.  Colostrum from these cows contained Ab specific for C. parvum sporozoites and oocysts as indicated by immunofluorescence Ab (IFA) staining.  Mice receiving immune colostrum showed partial protection (about 50% reduction) against intestinal C. parvum development compared to mice receiving control colostrum. This protection was evident at a challenge dose of 10^3 C. parvum oocysts per mouse [Ref1368:Jenkins et al., 1999].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene776">
+        <gene_name>CP23</gene_name>
+        <strain>Cryptosporidium parvum</strain>
+        <vo_id>VO_0011308</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>88659549</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5807</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Cp23 antigen</protein_name>
+        <protein_pi>4.69</protein_pi>
+        <protein_weight>11901.22</protein_weight>
+        <protein_length>177</protein_length>
+        <protein_note>genotype: cervine</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABD47677.1 Cp23 antigen [Cryptosporidium parvum]
+MGCSSSKPETKVADNKSAADANKQRELAEKKAQLAKAVKNPAPISNQPQAKPEEPKKAEPAPVPAPAPVP
+APAPAPVPTPAPVPEAPAAEAPSNQAPAPVPAEAPAAEAPVDQNGVPQEKPADA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>In this study, Cp23 antigen was investigated as a vaccine candidate using the DNA vaccine model in adult interleukin-12 (IL-12) knockout (KO) mice, which are susceptible to C. parvum infection.  Cp23-DNA vaccination induced a 50-60% reduction in oocysts shedding, indicating a partial protection against C. parvum infection in IL-12 KO mice [Ref1367:Ehigiator et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1107">
+        <gene_name>Ighg1</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16017</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC160982</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1106">
+        <gene_name>Ighv1-9</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>668478</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC073561</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>114583568</gene_start>
+        <gene_end>114583861</gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>immunoglobulin heavy variable V1-9</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as Igg2a; Gm16697</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099098:114583568-114583861 Mus musculus strain C57BL/6J chromosome 12, GRCm38 C57BL/6J
+GTCTTGCACAGTAATAGATGGCAGAGTCCTCAGTTGTCAGGCTGCTGAGTTGCATGTAGGCTGTGTTGGA
+GGATGTATCTGCAGTGAATGTGGCCTTGCCCTTGAACTTCTCATTGTAGTTAGTACTACCACTTCCAGGT
+AAAATCTCTCCAATCCACTCAAGGCCATGTCCAGGCCTCTGCTTTACCCACTCTATCCAGTAGCCAGTGA
+ATGTGTAGCCAGTAGCCTTGCAGGAAAGCTTCACTGAGGCCCCAGGCTTCATCAGCTCAGCTCCAGACTG
+CTGCAGCTGAACCT</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference5033">
+		<reference_name>Askari et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Askari N, Shayan P, Mokhber-Dezfouli MR, Ebrahimzadeh E, Lotfollahzadeh S, Rostami A, Amininia N, Ragh MJ</authors>
+		<title>Evaluation of recombinant P23 protein as a vaccine for passive immunization of newborn calves against Cryptosporidium parvum</title>
+		<year>2016</year>
+		<volume>38</volume>
+		<issue>5</issue>
+		<pages>282-289</pages>
+		<journal_book_name>Parasite immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1367">
+		<reference_name>Ehigiator et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ehigiator HN, Romagnoli P, Priest JW, Secor WE, Mead JR</authors>
+		<title>Induction of murine immune responses by DNA encoding a 23-kDa antigen of Cryptosporidium parvum</title>
+		<year>2007</year>
+		<volume>101</volume>
+		<issue>4</issue>
+		<pages>943-950</pages>
+		<journal_book_name>Parasitology research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1368">
+		<reference_name>Jenkins et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jenkins MC, O'Brien C, Trout J, Guidry A, Fayer R</authors>
+		<title>Hyperimmune bovine colostrum specific for recombinant Cryptosporidium parvum antigen confers partial protection against cryptosporidiosis in immunosuppressed adult mice</title>
+		<year>1999</year>
+		<volume>17</volume>
+		<issue>19</issue>
+		<pages>2453-2460</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5062">
+		<reference_name>Roche et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Roche JK, Rojo AL, Costa LB, Smeltz R, Manque P, Woehlbier U, Bartelt L, Galen J, Buck G, Guerrant RL</authors>
+		<title>Intranasal vaccination in mice with an attenuated Salmonella enterica Serovar 908htr A expressing Cp15 of Cryptosporidium: impact of malnutrition with preservation of cytokine secretion</title>
+		<year>2013</year>
+		<volume>31</volume>
+		<issue>6</issue>
+		<pages>912-918</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1413">
+		<reference_name>Wiki:  Cryptosporidium parvum</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Cryptosporidium parvum</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Cryptosporidium_parvum</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

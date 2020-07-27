@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen135">
+		<pathogen_name>Borrelia burgdorferi</pathogen_name>
+		<taxon_id>139</taxon_id>
+		<pathogenesis refs="reference1527">B. burgdorferi is deposited in skin lesions left by Ixodes ticks, and can then invade the bloodstream leading to dissemination throughout the body and cause problems in joints and nervous tissues (Salyers and Whitt., 2002).</pathogenesis>
+		<disease_name>Lyme Disease</disease_name>
+		<protective_immunity refs="reference1527">In most people B. burgdorferi is cleared from the bloodstream via antibodies and phagocytic cells (Salyers and Whitt., 2002).</protective_immunity>
+		<host_range refs="reference1527">White footed mouse are the reservoir of B. burgdorferi. The bacteria are carried by ticks which vector the bacteria to other hosts such as humans, as well as small mammals such as voles and shrews. Animal models include rabbits, mice and dogs (Salyers and Whitt., 2002).</host_range>
+		<introduction refs="reference1496">Borrelia burgdorferi is a species of Gram negative bacteria of the spirochete class of the genus Borrelia. B. burgdorferi is predominant in North America, but also exists in Europe, and is the agent of Lyme disease. It is a zoonotic, vector-borne disease transmitted by ticks and is named after the researcher Willy Burgdorfer who first isolated the bacterium in 1982.  B. burgdorferi is one of the few pathogenic bacteria that can survive without iron, having replaced all of its iron-sulfur cluster enzymes with enzymes that use manganese, thus avoiding the problem many pathogenic bacteria face in acquiring iron (Wiki: B. burgdorferi).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1073">
+		<vaccine_name>B. burgdorferi DbpA and OspA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004188</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">DbpAN40-OspAN40</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering562" gene_id="gene841">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering563" gene_id="gene838">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response830" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/HeJ</host_strain>
+			<vaccination_protocol refs="reference1495">Mice were immunized by intraperitoneal injection of 10 μg of DbpAN40, 10 μg of OspAN40, 5 μg of DbpAN40 plus 5 μg of OspAN40, or 2.5 μg of E. coli protein extract with complete Freund's adjuvant and then, 4 weeks later, were given a second immunization of protein in incomplete Freund's adjuvant (Hanson et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1495">All mice immunized with the combined DbpAN40-OspAN40 vaccine (5 μg of each antigen) were protected against even the highest challenge dose of 10^6 spirochetes (Hanson et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1495">At week 6, five of the mice in each immunization group were challenged by subcutaneous injection, into the dorsolateral thorax, of cloned B. burgdorferi N40 (Hanson et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1072">
+		<vaccine_name>B. burgdorferi DbpA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004027</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference1495">The recombinant fusion lipoprotein pp2:DbpAN40(His)6 (DbpAN40) (Hanson et al., 2000).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering561" gene_id="gene841">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response829" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/HeJ</host_strain>
+			<vaccination_protocol refs="reference1495">Mice were immunized by intraperitoneal injection of 10 μg of DbpAN40, 10 μg of OspAN40, 5 μg of DbpAN40 plus 5 μg of OspAN40, or 2.5 μg of E. coli protein extract with complete Freund's adjuvant and then, 4 weeks later, were given a second immunization of protein in incomplete Freund's adjuvant (Hanson et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1495">Mice immunized with recombinant DbpA protein are protected against challenge with Borrelia burgdorferi. Nearly all mice immunized with 10 μg of  DbpAN40  were protected from challenge with 10^3 or 10^4 spirochetes (Hanson et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1495">At week 6, five of the mice in each immunization group were challenged by subcutaneous injection, into the dorsolateral thorax, of cloned B. burgdorferi N40 (Hanson et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3863">
+		<vaccine_name>B. burgdorferi DNA vaccine encoding strain B31 OspA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004513</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VR2210 [Ref2523:Luke et al., 1997]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1415" gene_id="gene838">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1498" host_id="host3">
+			<immune_response refs="reference2523">Sera from mice immunized with the ospA-bearing plasmid DNA had high levels of antibody that recognized both native and rOspA lipoprotein (Luke et al., 1997).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2523">Female C3H/HeN mice (6-10 weeks old) were injected with plasmid diluted in sterile 0.9% saline. Each mouse received intramuscular injections into left and right rectus femoris muscles with 50 J-lg of plasmid in 50 J-lL of saline. For immunization with protein, mice were injected in the back with purified B31 rOspA lipoprotein (Luke et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2523">Immunization with VR2210 protected 100% of mice against infection with Sh-2-82 or N40, 2 infectious strains of B. burgdorferi (Luke et al., 1997).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2523">Mice were challenged intradermally by injecting 100 x ID50 of the infectious isolate at the base of the tail (Luke et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3669">
+		<vaccine_name>B. burgdorferi DNA vaccine pCMV-ZS7/TPA encoding OspC from Borrelia burgdorferi sensu lato</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004413</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCMV-TPA/ZS7 [Ref2524:Scheiblhofer et al., 2003]</vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1417" gene_id="gene840">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1499" host_id="host3">
+			<immune_response refs="reference2524">Both i.d. injection and gene-gun application of plasmid DNA encoding the ospC gene induced a reliable humoral response with high antibody titers, antigen-specific cellular responses and, most importantly, provided effective protection (Scheiblhofer et al., 2003).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2524">The protection rate after challenge with 10 B. burgdorferi organisms per mouse was between 80% and 100% for all groups. These results demonstrate that a DNA vaccine encoding OspC of B. burgdorferi is suitable for inducing protection against Lyme borreliosis (Scheiblhofer et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2524">Control groups received challenge doses B. burgdorferi strain ZS7 of 10^4, 10^3, 10^2, and 10 live spirochetes per animal (Scheiblhofer et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1074">
+		<vaccine_name>B. burgdorferi OspA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004028</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1493">Freund's adjuvant (Probert and LeFebvre, 1994).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">Recombinant OspA protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering564" gene_id="gene838">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response831" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/HeN</host_strain>
+			<vaccination_protocol refs="reference1493">Four-week-old female mice were primed intraperitoneally with 20 μg of each immunogen in 200 μL of complete Freund's adjuvant. Three boosts containing the same amount of immunogen in incomplete Freund's adjuvant were administered at 2, 5, and 8 weeks following the initial injection (Probert and LeFebvre, 1994).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1493">Mice immunized with recombinant OspA protein were protected from challenge with Borrelia burgdorferi (Probert and LeFebvre, 1994).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1493">Ten days following the final boost, mice received a subcutaneous inoculation containing 10^7 SON 188 organisms in 100 μl of BSK II medium (Probert and LeFebvre, 1994).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1075">
+		<vaccine_name>B. burgdorferi OspB Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004029</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">200 μL of complete Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">Recombinant OspB protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering565" gene_id="gene839">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response832" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/HeN</host_strain>
+			<vaccination_protocol refs="reference1493">Four-week-old female mice were primed intraperitoneally with 20 μg of each immunogen in 200 μL of complete Freund's adjuvant. Three boosts containing the same amount of immunogen in incomplete Freund's adjuvant were administered at 2, 5, and 8 weeks following the initial injection (Probert and LeFebvre, 1994).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1493">Mice immunized with recombinant OspB protein were protected from challenge with Borrelia burgdorferi (Probert and LeFebvre, 1994).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1493">Ten days following the final boost, mice received a subcutaneous inoculation containing 107 SON 188 organisms in 100 μl of BSK II medium (Probert and LeFebvre, 1994).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1076">
+		<vaccine_name>B. burgdorferi OspC Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004030</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">200 μL of complete Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">Recombinant OspC protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering566" gene_id="gene840">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response833" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C3H/HeN</host_strain>
+			<vaccination_protocol refs="reference1493">Four-week-old female mice were primed intraperitoneally with 20 μg of each immunogen in 200 μL of complete Freund's adjuvant. Three boosts containing the same amount of immunogen in incomplete Freund's adjuvant were administered at 2, 5, and 8 weeks following the initial injection (Probert and LeFebvre, 1994).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1494">Mice immunized with recombinant OspC protein were protected from challenge with Borrelia burgdorferi (Hanson et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1493">Ten days following the final boost, mice received a subcutaneous inoculation containing 107 SON 188 organisms in 100 μl of BSK II medium (Probert and LeFebvre, 1994).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3267">
+		<vaccine_name>Borrelia burgdorferi fla mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002809</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering816" gene_id="gene1075">
+			<type>Gene mutation</type>
+			<description refs="reference2055">This fla mutant is from Borrelia burgdorferi (Sadziene et al., 1996).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1096" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2055">A fla mutant is attenuated in SCID mice (Sadziene et al., 1996).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2055">A fla mutant induces protection in mice from challenge with wild type B. burgdorferi 28 days after inoculation (Sadziene et al., 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2552">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Borrelia Burgdorferi Bacterin (USDA: 47A5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth, Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002239</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2557">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Borrelia Burgdorferi Bacterin-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 47E5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002244</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2554">
+		<vaccine_name>Canine Coronavirus Killed Virus Vaccine-Borrelia Burgdorferi Bacterin-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract (USDA: 47E5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002243</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2582">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Borrelia Burgdorferi Bacterin (USDA: 47C5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002241</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2588">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Borrelia Burgdorferi Bacterin (USDA: 47C5.29)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002242</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2594">
+		<vaccine_name>Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Modified Live &amp; Killed Virus Vaccine-Borrelia Burgdorferi Bacterin-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract (USDA: 46B9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002219</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene841">
+        <gene_name>DbpA</gene_name>
+        <strain>Borrelia burgdorferi 297</strain>
+        <vo_id>VO_0012387</vo_id>
+        <ncbi_gene_id>8319341</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>256041910</ncbi_protein_id>
+        <gene_locus_tag>Bbu297_A24</gene_locus_tag>
+        <gene_refseq>U75866</gene_refseq>
+        <protein_refseq>YP_003110629</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>521009</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>297_lp54</plasmid>
+        <gene_start>13807</gene_start>
+        <gene_end>14370</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>decorin binding protein A</protein_name>
+        <protein_pi>9.68</protein_pi>
+        <protein_weight>19412.03</protein_weight>
+        <protein_length>187</protein_length>
+        <protein_note>identified by match to protein family HMM PF02352</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_013128.1:13807-14370 Borrelia burgdorferi 297 plasmid 297_lp54, complete sequence
+ATTACGATTTAGCAGTGCTGTCTTCGGTATTTTTTTTCTTTAAGGTGTCTTGGTTTTTCTTGTGAACCCT
+TTGTAATTTTTCTCTCATTTTTTTTGCAATTTCAAGCACTCCTTGAGCTGTAGTTGGAGGATTCTCTTCA
+GCTGCCATTGAGACTGTTTTTGTCATCTCTTGTATTCCCAATTCTTGTAATGGTTTTGAGACTTCAAACA
+TTAAATCATACATTGCTGAGAATTCACCACTACTTCCAGTTTCTTTAAGTTTAGTAGCTTCCTCTTCTAT
+TGCTATTACGAATTTTTCCGCTACTGTAGTAGCTCGCACTTTTGCTTCAAGTATGAATGGATTTTCTGAT
+ACCCCACTACCCGTTTTTTTATCTTTAAAGGCATCAAAATTTACACCCATAGAAGCAGCCTTTTTTTTAA
+TTGCATCTATTTCATCTACAATGGCTTTAGCTGATGATTCTAATTTGATTTTTGTTGCTCCTGTTAGTCC
+ACATGATATAAGTAGGTTAACAAGTATAGTTAGTTTAAGTAAATTGTTAAAAGTTTTATTATTACATTTA
+ATCA
+
+</dna_sequence>
+        <protein_sequence>>YP_003110629.1 decorin binding protein A (plasmid) [Borreliella burgdorferi 297]
+MIKCNNKTFNNLLKLTILVNLLISCGLTGATKIKLESSAKAIVDEIDAIKKKAASMGVNFDAFKDKKTGS
+GVSENPFILEAKVRATTVAEKFVIAIEEEATKLKETGSSGEFSAMYDLMFEVSKPLQELGIQEMTKTVSM
+AAEENPPTTAQGVLEIAKKMREKLQRVHKKNQDTLKKKNTEDSTAKS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with recombinant DbpA protein are protected against challenge with Borrelia burgdorferi [Ref1495:Hanson et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1075">
+        <gene_name>fla</gene_name>
+        <strain>Borrelia burgdorferi HB19</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>435009</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:183758
+CDD:144315
+CDD:144340
+GOA:Q44895
+HSSP:1ORY
+InterPro:IPR001029
+InterPro:IPR001444
+InterPro:IPR001492
+InterPro:IPR019776
+UniProtKB/TrEMBL:Q44895</xrefs>
+        <taxonomy_id>139</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>flagellin</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>336</protein_length>
+        <protein_note>flagellin; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|435009|emb|CAA53011.1| flagellin [Borrelia burgdorferi]
+MIINHNTSAINASRNNGINAANLSKTQEKLSSGYRINRASDDAAGMGVSGKINAQIRGLSQASRNTSKAI
+NFIQTTEGNLNEVEKVLVRMKELAVQSGNGTYSDADRGSIQIEIEQLTDEINRIADQAQYNQMHMLSNKS
+ASQNVRTAEELGMQPAKINTPASLSGSQASWTLRVHVGAPQDEAIAVNIYAANVANLFSGEGAQTAQAAP
+VQEGVQQEGAQQPAPATAPSQGGVNSPVNVTTTVDANTSLAKIENAIRMISDQRPNLGAFQNRLESIKDS
+TEYAIENLKASYAQIKDATMTDEVVAATTNSILTQSAMAMIAQANQLPQYVLSLLR</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A flagella-less mutant of Borrelia burgdorferi (HB19Fla-) was attenuated in immunodeficient SCID mice.  Mice were challenged 28 days later with virulent strain Sh. 2 and were protected from challenge [Ref2055:Sadziene et al., 1996].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene838">
+        <gene_name>OspA</gene_name>
+        <strain>Borrelia burgdorferi B31</strain>
+        <vo_id>VO_0012384</vo_id>
+        <ncbi_gene_id>1194357</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>11496927</ncbi_protein_id>
+        <gene_locus_tag>BB_A15</gene_locus_tag>
+        <gene_refseq>AE000790</gene_refseq>
+        <protein_refseq>NP_045688</protein_refseq>
+        <pdb_id>2HKD</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>224326</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>lp54</plasmid>
+        <gene_start>9456</gene_start>
+        <gene_end>10277</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>outer surface protein A</protein_name>
+        <protein_pi>9.36</protein_pi>
+        <protein_weight>26986.42</protein_weight>
+        <protein_length>273</protein_length>
+        <protein_note>similar to SP:P14013 GB:L23137 GB:L23138 GB:L23139 GB:L23140 percent identity: 98.90; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001857.2:9456-10277 Borrelia burgdorferi B31 plasmid lp54, complete sequence
+TATGAAAAAATATTTATTGGGAATAGGTCTAATATTAGCCTTAATAGCATGTAAGCAAAATGTTAGCAGC
+CTTGACGAGAAAAACAGCGTTTCAGTAGATTTGCCTGGTGAAATGAAAGTTCTTGTAAGCAAAGAAAAAA
+ACAAAGACGGCAAGTACGATCTAATTGCAACAGTAGACAAGCTTGAGCTTAAAGGAACTTCTGATAAAAA
+CAATGGATCTGGAGTACTTGAAGGCGTAAAAGCTGACAAAAGTAAAGTAAAATTAACAATTTCTGACGAT
+CTAGGTCAAACCACACTTGAAGTTTTCAAAGAAGATGGCAAAACACTAGTATCAAAAAAAGTAACTTCCA
+AAGACAAGTCATCAACAGAAGAAAAATTCAATGAAAAAGGTGAAGTATCTGAAAAAATAATAACAAGAGC
+AGACGGAACCAGACTTGAATACACAGGAATTAAAAGCGATGGATCTGGAAAAGCTAAAGAGGTTTTAAAA
+GGCTATGTTCTTGAAGGAACTCTAACTGCTGAAAAAACAACATTGGTGGTTAAAGAAGGAACTGTTACTT
+TAAGCAAAAATATTTCAAAATCTGGGGAAGTTTCAGTTGAACTTAATGACACTGACAGTAGTGCTGCTAC
+TAAAAAAACTGCAGCTTGGAATTCAGGCACTTCAACTTTAACAATTACTGTAAACAGTAAAAAAACTAAA
+GACCTTGTGTTTACAAAAGAAAACACAATTACAGTACAACAATACGACTCAAATGGCACCAAATTAGAGG
+GGTCAGCAGTTGAAATTACAAAACTTGATGAAATTAAAAACGCTTTAAAATA
+
+</dna_sequence>
+        <protein_sequence>>NP_045688.1 outer surface protein A (plasmid) [Borreliella burgdorferi B31]
+MKKYLLGIGLILALIACKQNVSSLDEKNSVSVDLPGEMKVLVSKEKNKDGKYDLIATVDKLELKGTSDKN
+NGSGVLEGVKADKSKVKLTISDDLGQTTLEVFKEDGKTLVSKKVTSKDKSSTEEKFNEKGEVSEKIITRA
+DGTRLEYTGIKSDGSGKAKEVLKGYVLEGTLTAEKTTLVVKEGTVTLSKNISKSGEVSVELNDTDSSAAT
+KKTAAWNSGTSTLTITVNSKKTKDLVFTKENTITVQQYDSNGTKLEGSAVEITKLDEIKNALK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with recombinant OspA protein were protected from challenge with Borrelia burgdorferi [Ref1493:Probert and LeFebvre, 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene839">
+        <gene_name>OspB</gene_name>
+        <strain>Borrelia burgdorferi B31</strain>
+        <vo_id>VO_0012385</vo_id>
+        <ncbi_gene_id>1194340</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>365823348</ncbi_protein_id>
+        <gene_locus_tag>BB_A16</gene_locus_tag>
+        <gene_refseq>AE000790</gene_refseq>
+        <protein_refseq>NP_045689</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>224326</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>lp54</plasmid>
+        <gene_start>10287</gene_start>
+        <gene_end>11177</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>outer surface protein B</protein_name>
+        <protein_pi>9.6</protein_pi>
+        <protein_weight>30144.4</protein_weight>
+        <protein_length>296</protein_length>
+        <protein_note>similar to GB:L23136 SP:P17739 GB:L23137 GB:L23138 GB:L23139 percent identity: 98.65; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001857.2:10287-11177 Borrelia burgdorferi B31 plasmid lp54, complete sequence
+TATGAGATTATTAATAGGATTTGCTTTAGCGTTAGCTTTAATAGGATGTGCACAAAAAGGTGCTGAGTCA
+ATTGGTTCTCAAAAAGAAAATGATCTAAACCTTGAAGACTCTAGTAAAAAATCACATCAAAACGCTAAAC
+AAGACCTTCCTGCGGTGACAGAAGACTCAGTGTCTTTGTTTAATGGTAATAAAATTTTTGTAAGCAAAGA
+AAAAAATAGCTCCGGCAAATATGATTTAAGAGCAACAATTGATCAGGTTGAACTTAAAGGAACTTCCGAT
+AAAAACAATGGTTCTGGAACCCTTGAAGGTTCAAAGCCTGACAAGAGTAAAGTAAAATTAACAGTTTCTG
+CTGATTTAAACACAGTAACCTTAGAAGCATTTGATGCCAGCAACCAAAAAATTTCAAGTAAAGTTACTAA
+AAAACAGGGGTCAATAACAGAGGAAACTCTCAAAGCTAATAAATTAGACTCAAAGAAATTAACAAGATCA
+AACGGAACTACACTTGAATACTCACAAATAACAGATGCTGACAATGCTACAAAAGCAGTAGAAACTCTAA
+AAAATAGCATTAAGCTTGAAGGAAGTCTTGTAGGCGGAAAAACAACAGTGGAAATTAAAGAAGGTACTGT
+TACTCTAAAAAGAGAAATTGAAAAAGATGGAAAAGTAAAAGTCTTTTTGAATGACACTGCAGGTTCTAAC
+AAAAAAACAGGTAAATGGGAAGACAGTACTAGCACTTTAACAATTAGTGCTGACAGCAAAAAAACTAAAG
+ATTTGGTGTTCTTAACAGATGGTACAATTACAGTACAACAATACAACACAGCTGGAACCAGCCTAGAAGG
+ATCAGCAAGTGAAATTAAAAATCTTTCAGAGCTTAAAAACGCTTTAAAATA
+
+</dna_sequence>
+        <protein_sequence>>NP_045689.2 outer surface protein B (plasmid) [Borreliella burgdorferi B31]
+MRLLIGFALALALIGCAQKGAESIGSQKENDLNLEDSSKKSHQNAKQDLPAVTEDSVSLFNGNKIFVSKE
+KNSSGKYDLRATIDQVELKGTSDKNNGSGTLEGSKPDKSKVKLTVSADLNTVTLEAFDASNQKISSKVTK
+KQGSITEETLKANKLDSKKLTRSNGTTLEYSQITDADNATKAVETLKNSIKLEGSLVGGKTTVEIKEGTV
+TLKREIEKDGKVKVFLNDTAGSNKKTGKWEDSTSTLTISADSKKTKDLVFLTDGTITVQQYNTAGTSLEG
+SASEIKNLSELKNALK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with recombinant OspB protein were protected from challenge with Borrelia burgdorferi [Ref1493:Probert and LeFebvre, 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene840">
+        <gene_name>OspC</gene_name>
+        <strain>Borrelia burgdorferi B31</strain>
+        <vo_id>VO_0012386</vo_id>
+        <ncbi_gene_id>1194415</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>11497024</ncbi_protein_id>
+        <gene_locus_tag>BB_B19</gene_locus_tag>
+        <gene_refseq>AE000792</gene_refseq>
+        <protein_refseq>NP_047005</protein_refseq>
+        <pdb_id>1GGQ</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>224326</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>cp26</plasmid>
+        <gene_start>16902</gene_start>
+        <gene_end>17534</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>outer surface protein C</protein_name>
+        <protein_pi>8.68</protein_pi>
+        <protein_weight>21347.6</protein_weight>
+        <protein_length>210</protein_length>
+        <protein_note>similar to GB:AE000792 percent identity: 100.00; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001903.1:16902-17534 Borrelia burgdorferi B31 plasmid cp26, complete sequence
+AATGAAAAAGAATACATTAAGTGCAATATTAATGACTTTATTTTTATTTATATCTTGTAATAATTCAGGG
+AAAGATGGGAATACATCTGCAAATTCTGCTGATGAGTCTGTTAAAGGGCCTAATCTTACAGAAATAAGTA
+AAAAAATTACGGATTCTAATGCGGTTTTACTTGCTGTGAAAGAGGTTGAAGCGTTGCTGTCATCTATAGA
+TGAAATTGCTGCTAAAGCTATTGGTAAAAAAATACACCAAAATAATGGTTTGGATACCGAAAATAATCAC
+AATGGATCATTGTTAGCGGGAGCTTATGCAATATCAACCCTAATAAAACAAAAATTAGATGGATTGAAAA
+ATGAAGGATTAAAGGAAAAAATTGATGCGGCTAAGAAATGTTCTGAAACATTTACTAATAAATTAAAAGA
+AAAACACACAGATCTTGGTAAAGAAGGTGTTACTGATGCTGATGCAAAAGAAGCCATTTTAAAAACAAAT
+GGTACTAAAACTAAAGGTGCTGAAGAACTTGGAAAATTATTTGAATCAGTAGAGGTCTTGTCAAAAGCAG
+CTAAAGAGATGCTTGCTAATTCAGTTAAAGAGCTTACAAGCCCTGTTGTGGCAGAAAGTCCAAAAAAACC
+TTA
+
+</dna_sequence>
+        <protein_sequence>>NP_047005.1 outer surface protein C (plasmid) [Borreliella burgdorferi B31]
+MKKNTLSAILMTLFLFISCNNSGKDGNTSANSADESVKGPNLTEISKKITDSNAVLLAVKEVEALLSSID
+EIAAKAIGKKIHQNNGLDTENNHNGSLLAGAYAISTLIKQKLDGLKNEGLKEKIDAAKKCSETFTNKLKE
+KHTDLGKEGVTDADAKEAILKTNGTKTKGAEELGKLFESVEVLSKAAKEMLANSVKELTSPVVAESPKKP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with recombinant OspC protein were protected from challenge with Borrelia burgdorferi [Ref1493:Probert and LeFebvre, 1994].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4814">
+		<reference_name>Brandt et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brandt KS, Patton TG, Allard AS, Caimano MJ, Radolf JD, Gilmore RD</authors>
+		<title>Evaluation of the Borrelia burgdorferi BBA64 protein as a protective immunogen in mice</title>
+		<year>2014</year>
+		<volume>21</volume>
+		<issue>4</issue>
+		<pages>526-533</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4784">
+		<reference_name>Bryksin et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bryksin AV, Godfrey HP, Carbonaro CA, Wormser GP, Aguero-Rosenfeld ME, Cabello FC</authors>
+		<title>Borrelia burgdorferi BmpA, BmpB, and BmpD proteins are expressed in human infection and contribute to P39 immunoblot reactivity in patients with Lyme disease</title>
+		<year>2005</year>
+		<volume>12</volume>
+		<issue>8</issue>
+		<pages>935-940</pages>
+		<journal_book_name>Clinical and diagnostic laboratory immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4680">
+		<reference_name>Floden et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Floden AM, Gonzalez T, Gaultney RA, Brissette CA</authors>
+		<title>Evaluation of RevA, a fibronectin-binding protein of Borrelia burgdorferi, as a potential vaccine candidate for lyme disease</title>
+		<year>2013</year>
+		<volume>20</volume>
+		<issue>6</issue>
+		<pages>892-899</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1494">
+		<reference_name>Hanson et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hanson MS, Cassatt DR, Guo BP, Patel NK, McCarthy MP, Dorward DW, Höök M</authors>
+		<title>Active and passive immunity against Borrelia burgdorferi decorin binding protein A (DbpA) protects against infection</title>
+		<year>1998</year>
+		<volume>66</volume>
+		<issue>5</issue>
+		<pages>2143-2153</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1495">
+		<reference_name>Hanson et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hanson MS, Patel NK, Cassatt DR, Ulbrandt ND</authors>
+		<title>Evidence for vaccine synergy between Borrelia burgdorferi decorin binding protein A and outer surface protein A in the mouse model of lyme borreliosis</title>
+		<year>2000</year>
+		<volume>68</volume>
+		<issue>11</issue>
+		<pages>6457-6460</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4863">
+		<reference_name>Labandeira-Rey et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Labandeira-Rey M, Baker EA, Skare JT</authors>
+		<title>VraA (BBI16) protein of Borrelia burgdorferi is a surface-exposed antigen with a repetitive motif that confers partial protection against experimental Lyme borreliosis</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>3</issue>
+		<pages>1409-1419</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1493">
+		<reference_name>Probert and LeFebvre, 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Probert WS, LeFebvre RB</authors>
+		<title>Protection of C3H/HeN mice from challenge with Borrelia burgdorferi through active immunization with OspA, OspB, or OspC, but not with OspD or the 83-kilodalton antigen</title>
+		<year>1994</year>
+		<volume>62</volume>
+		<issue>5</issue>
+		<pages>1920-1926</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2055">
+		<reference_name>Sadziene et al., 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sadziene A, Thompson PA, Barbour AG</authors>
+		<title>A flagella-less mutant of Borrelia burgdorferi as a live attenuated vaccine in the murine model of Lyme disease</title>
+		<year>1996</year>
+		<volume>173</volume>
+		<issue>5</issue>
+		<pages>1184-1193</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1527">
+		<reference_name>Salyers and Whitt., 2002</reference_name>
+		<reference_type>book</reference_type>
+		<authors>Abigail A. Salyers, Dixie D. Whitt</authors>
+		<title>The Spirochetes: Borrelia burgdorferi and Treponema pallidum</title>
+		<year>2002</year>
+		<volume></volume>
+		<issue></issue>
+		<pages>187-199</pages>
+		<journal_book_name>Bacterial Pathogenesis: A Molecular Approach</journal_book_name>
+		<publisher>ASM Press</publisher>
+		<publisher_location>Washington D.C. USA</publisher_location>
+		<book_editors></book_editors>
+		<isbn>1-55581-171-x</isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4843">
+		<reference_name>Ulbrandt et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ulbrandt ND, Cassatt DR, Patel NK, Roberts WC, Bachy CM, Fazenbaker CA, Hanson MS</authors>
+		<title>Conformational nature of the Borrelia burgdorferi decorin binding protein A epitopes that elicit protective antibodies</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>8</issue>
+		<pages>4799-4807</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1496">
+		<reference_name>Wiki: B. burgdorferi</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Borrelia burgdorferi</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Borrelia_burgdorferi</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

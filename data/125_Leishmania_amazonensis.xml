@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen117">
+		<pathogen_name>Leishmania amazonensis</pathogen_name>
+		<taxon_id>5659</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Leishmaniasis</disease_name>
+		<protective_immunity refs="reference1346 reference1351">Protective mechanisms in L. amazonensis are unclear. During L. amazonensis infection, BALB/c mice display a mixed profile of both Th1 and Th2 responses, although the implications of this mixed profile are ambiguous. However, the necessity for vaccines to induce a Th1-dominant response for these species of Leishmania appears to be consequential for protection (Campbell et al., 2004). The immune responses induced against L. (L.) amazonensis have showed a distinct pattern from that described for L. (L.) major. While mice that are resistant or susceptible to infection with L. (L.) major exhibit immune responses polarized to Th1 and Th2, respectively, susceptibility to L. (L.) amazonensis can not be correlated to an increased Th2 response (Fedeli et al., 2010).</protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1344">The different Leishmania species cause a broad spectrum of human diseases. L. amazonensis is known to be associated with cutaneous, diffuse cutaneous, and visceral leishmaniasis in South and Central America. The pathological mechanisms responsible for the variable outcomes of infection in humans are not fully understood; however, it is generally agreed that long-lasting immunity against reinfection can be developed in cutaneous leishmaniasis patients. Several vaccination trials have demonstrated that killed L. amazonensis can induce protection from natural infection. However, the efficacy of heat-killed vaccines against Leishmania has been extremely low or highly variable within the same study. Live parasites have been used as a vaccine strategy, and although they are highly effective in inducing immunity, this strategy has been virtually abandoned due to safety issues associated with injecting virulent organisms (Campbell et al., 2003).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine1110">
+		<vaccine_name>L. amazonensis CP Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004199</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Complete Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference1351">A 500 bp fragment encoding an isoform of cysteine proteinase (CP) from Leishmania (Leishmania) amazonensis was subcloned and expressed in the pHis vector, resulting in a recombinant protein of 24 kDa, rLacys24 (Fedeli et al., 2010).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering600" gene_id="gene758">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response867" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1351">Female BALB/c mice (six per group) were immunized thrice with a 2 week interval with 25 μg of rLacys24 plus complete Freund’s adjuvant (CFA)  by the subcutaneous route in the base of the tail. Control animals received PBS or only adjuvant (Fedeli et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1351">Immunization of BALB/c mice with rLacys24 plus CFA adjuvant resulted in a low but significant decrease of foot lesions after challenge with L. (L.) amazonensis compared to those exhibited by control mice (Fedeli et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1351">Two weeks after the last dose animals were challenged with 2.5 × 10^5 L. (L.) amazonensis amastigotes in PBS in the hind footpad (Fedeli et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1038">
+		<vaccine_name>L. amazonensis DNA vaccine encoding GP46</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011354</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VR1012 plasmid</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">L. amazonensis gp46</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering526" gene_id="gene755">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1348">cDNAs encoding L. m. amazonensis gp46 antigen was subcloned into the VR1012 plasmid (Dumonteil et al., 2000)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response792" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1348">Susceptible BALB/c mice were immunised with two i.m. injections of 100 microg of plasmid DNA (Dumonteil et al., 2000).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1348">Measurement of lesion size indicated that mice immunised with VR012-GP46 were partially protected against infection (Dumonteil et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1348">Mice were challenged by the injection of 4 x 10^6 L. m. mexicana parasites in the foot pad to evaluate protection (Dumonteil et al., 2000).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1041">
+		<vaccine_name>L. amazonensis DNA vaccine encoding WD protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011349</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1/Hygro(−) (Invitrogen)</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">L. amazonensis WD</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering528" gene_id="gene753">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1346">The whole gene insert from the pBK-CMV clone containing the LAWD gene was subcloned into the pET32a plasmid (Invitrogen) for His tag protein expression. To ensure that the ORF would be read in frame, the plasmid was first digested with BamHI and then blunt-ended by a Klenow reaction (Invitrogen) (Campbell et al., 2004).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response794" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1346">Mice (five per group) were immunized in five locations with a total of 100 μg of DNA (50 μg of LAWD and 50 μg of IL-12) per mouse: four injections in both sides of the inner and outer thigh muscles of the hind legs (∼50 μl/site) and one subcutaneous injection in the left hind foot (∼5 μl/site) (Campbell et al., 2004).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1346">DNA vaccination in BALB/c mice with the LAWD (for Leishmania antigenic WD protein) and IL-12 genes significantly delayed lesion development from challenge with Leishmania amazonensis, which correlated with a dramatic reduction in parasite burdens (Campbell et al., 2004).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1346">Mice were boosted twice at 3-week intervals and then challenged 3 weeks after the last immunization with 2 × 10^5 metacyclic promastigotes in the right hind foot (Campbell et al., 2004).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1039">
+		<vaccine_name>L. amazonensis M2 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011355</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Killed Corynebacterium parvum</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">L. amazonensis M2</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering527" gene_id="gene754">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1347">M-2, a 46-kDa promastigote-specific glycoprotein was isolated. The protein was further purified by removal of detergent with an anionexchange column(Champsi and McMahon-Pratt, 1988).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response793" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">CBA</host_strain>
+			<vaccination_protocol refs="reference1347">BALB/c, CBA, and C57BL/6 mice were immunized intraperitoneally with M-2 at a final concentration of 0.03 mg/ml.  The amount of C. parvum used in immunizations 2 and 3 was reduced to 0.05 mg per immunization (Champsi and McMahon-Pratt, 1988).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1347">Immunization of CBA mice with the M-2 glycoprotein of L. amazonensis and C. parvum adjuvant resulted in complete protection against a challenge infection of 10^4 and 10^6 late log-phase promastigotes of L. amazonensis. In the BALB/c strain, complete protection was observed in some of the immunized animals (28 to 50%); in the rest of the mice the onset of infection was significantly delayed. Protective immunity for C57BL/6 mice was observed only at the low infecting dose (10(4) L. amazonensis organisms) (Champsi and McMahon-Pratt, 1988).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1347">Animals were rested for 2 to 4 weeks after final immunization and challenged in the right hindfoot with late-log-phase promastigotes. Parasites used for infections were passaged a maximum of four times. Challenge doses of 10^3, 10^4, 10^5, and 10^6 were used (Champsi and McMahon-Pratt, 1988).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene758">
+        <gene_name>CP cysteine proteinase</gene_name>
+        <strain>Leishmania amazonensis</strain>
+        <vo_id>VO_0011295</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>30142041</ncbi_nucleotide_id>
+        <ncbi_protein_id>30142042</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAN34826.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:185513
+CDD:214853
+CDD:278538
+CDD:239068</xrefs>
+        <taxonomy_id>5659</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>cysteine proteinase</protein_name>
+        <protein_pi>6.56</protein_pi>
+        <protein_weight>36075.3</protein_weight>
+        <protein_length>418</protein_length>
+        <protein_note>forma: amastigote</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|30142041|gb|AY141759.1| Leishmania mexicana amazonensis clone 2A1 cysteine proteinase mRNA, complete cds
+CCGTCACGCCCTTCTCGTGCGCACGTTGCAGAACCAGGATCGGCAAAGATGGCGCGCCGCAACCCCCTTT
+TGTTTGCGATAGTGGTGACGATCCTGTTCGTGGTGTGCTACGGTTCCGCTCTCATCGCCCAGACACCCCC
+CGCCGTCGACAACTTCGTTGCCTCAGCGCATTACGGAAGTTTTAAGAAGCGCCACAGTAAGGCCTTCGGC
+GGGGACGCCGAGGAGGGTCACCGCTTCAATGCCTTCAAGCAGAACATGCAGACAGCCTACTTCCTCAACA
+CGCAGAACCCCCACGCGCACTACGACGTGTCCGGCAAGTTCGCGGACCTCACCCCGCAGGAGTTCGCCAA
+GCTGTACCTGAATCCCGACTACTACACGAGCCACCTCAAGGATCACAAGGAGGACGTGCACGTCGACGAC
+AGCGCCCCCAGTGGTGTGATGTCGGTGGACTGGCGTGATAAGGGTGCCGTGACGCCGGTGAAGAACCAGG
+GATTATGCGGCTCGTGCTGGGCCTTCTCCGCCATTGGCAACATCGAAGGTCAGTGGGCTGCAAGCGGCCA
+CTCGTTGGTTTCACTGTCAGAACAGATGCTCGTGTCGTGCGACAACGTCGATGAAGGGTGCAACGGCGGG
+CTGATGGACCAGGCAATGAACTGGATCATGCAGAGTCACAACGGCAGTGTGTTCACGGAGGCCAGCTATC
+CCTACACCTCTGGCGGCGGCACCAGACCGCCGTGCCATGACGAAGGTGAAGTTGGCGCTAAAATCACCGG
+TTTCCTCTCCCTGCCGCACGACGAGGAGCGGATCGCGGACTGGGTGGAGAAGAGAGGCCCCGTCGCCGTC
+GCCGTCGACGCGACAACCTGGCAGCTGTACTTTGGCGGTGTGGTCTCCCTCTGCCTCGCGTGGTCGCTCA
+ACCACGGTGTGCTCATTGTCGGCTTCAACAAAAACGCGAAACCGCCGTACTGGATCGTGAAGAACTCGTG
+GGGCTCCTCGTGGGGTGAGAAGGGGTACATCCGCCTTGCCATGGGCAGCAACCAGTGCATGCTCAAGAAT
+TACCCCGTGTCGGCCACGGTTGAAAGCCCCCACACCCCACACGTGCCGACGACAACGGCCTAGCTGGAGC
+CCAGGCCCACGGCGCCTGGGCGAATGAGCTGCTTTTTTTTTCGAGTGGGTGCTCGAGGCTGTGCACAAGC
+ACGACCTATCCGACCTGTGTGTGCCTGAAGCGCCAGAATGGCGGCTCTGCCCAGGTGACCTGTGGCAAAC
+CCGAGACGGCGGAGCTTCTCTACAACTGGCCGGGTTGCTCCGAGGCTGCCACCGAGGCCTGCATGCCGCT
+GAACAATATGTATGCGCAGCTACGCCGGCTACCTCCAGAACGTCTGCACTGCGTTCGTCGCTTGCACTGA
+GAACCAACGACGCCGTCTCTGACTTGACCAAGCCAACCATCTTGGGCCAACCACACGTCCCGTACGCGAG
+GCACGCGGGGATCCAGGACTGGCAGGATCCACTGCGCACTATACGCCTCAGCTGCACCGATGCGGATCCC
+TCCCTCAAAAAAAAAAAAAAAAAAAAAA</dna_sequence>
+        <protein_sequence>>AAN34826.1 cysteine proteinase [Leishmania amazonensis]
+MARRNPLLFAIVVTILFVVCYGSALIAQTPPAVDNFVASAHYGSFKKRHSKAFGGDAEEGHRFNAFKQNM
+QTAYFLNTQNPHAHYDVSGKFADLTPQEFAKLYLNPDYYTSHLKDHKEDVHVDDSAPSGVMSVDWRDKGA
+VTPVKNQGLCGSCWAFSAIGNIEGQWAASGHSLVSLSEQMLVSCDNVDEGCNGGLMDQAMNWIMQSHNGS
+VFTEASYPYTSGGGTRPPCHDEGEVGAKITGFLSLPHDEERIADWVEKRGPVAVAVDATTWQLYFGGVVS
+LCLAWSLNHGVLIVGFNKNAKPPYWIVKNSWGSSWGEKGYIRLAMGSNQCMLKNYPVSATVESPHTPHVP
+TTTA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>A 500 bp fragment encoding an isoform of cysteine proteinase (CP) from Leishmania (Leishmania) amazonensis was subcloned and expressed in the pHis vector, resulting in a recombinant protein of 24 kDa, rLacys24.  Immunization of BALB/c mice with rLacys24 plus CFA adjuvant resulted in a low but significant decrease of foot lesions after challenge with L. (L.) amazonensis compared to those exhibited by control mice [Ref1351:Fedeli et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene755">
+        <gene_name>Gp46</gene_name>
+        <strain>Leishmania amazonensis</strain>
+        <vo_id>VO_0011292</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>159320</ncbi_nucleotide_id>
+        <ncbi_protein_id>159321</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAA29234.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:178695
+CDD:275380</xrefs>
+        <taxonomy_id>5659</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>surface membrane glycoprotein GP46/M-2</protein_name>
+        <protein_pi>8.21</protein_pi>
+        <protein_weight>46877.99</protein_weight>
+        <protein_length>560</protein_length>
+        <protein_note>hypothetical protein; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|159320|gb|M38368.1|LEIGP46M2 L.amazonensis surface membrane glycoprotein GP46/M-2 gene, complete cds
+ATGGCGCAGTGCGTGCGTCGGCTGGTGCTGGCGGCGCCCCTCGCCGCTGTGGTGGCGCTGCTGCTGTGCA
+CGAGCAGTGCACCGGTGGCGCGTGCTGCGGGGACGAGCGACTTCACTGGTGCGCAGCAGAAGAACACGCT
+GACGGTGCTGCAGGCGTTTGCGCGTGCGATCCCTGCGCTTGGGGACACGTGGACGGGCAGCGACTTCTGC
+TCGTGGGAGCACATCATCTGCTACTCCTCCGGCGTCGGCGTGTGGATGCACAATGTGGATTATACCGGCA
+CGCTGCCGGAGATGCCTGCGAGCGTCGACTACAAGGACGTCATGATCTTGGCACTGGACTTCGGCGCAAT
+GGGCCAGGGGCTGAGCGGGACGCTGCCCCCCTCATGGAGCTCGATGAAGCACCTGATCGTTCTGGATCTG
+GAGGGCACTAAGGTGTCCGGCACGCTGCCGCCCGAGTGGAGTGAGATGACGAGTGCTGAGGCCCTGCAGC
+TGGAGAACTGCGGTCTGTCCGGGAGTCTGCCCACCTCGTGGTCTTCGATGCCGAAGCTGCGTATCGTCTC
+ACTGAGCGGCAACCACTTCTGCGGGTGCGTGCCCGACTCGTGGAGGGAGAAGGACCGCCTCGATGTGACC
+ATCGAGGAATGGCACATGGGCGAGGACTGCAAGCTTGCTAACGCCTGCCGCCCGACTGCTGCTCCGGGAA
+CGACCACGACTAACCCGCCCACCACCACCGGCACCCCAGCAGCCTCCTCTACTCCTTCTCCAGGGTCGGG
+GTGCGAGGTGGATGGGTGTGAGGTGTGCGAGGGGGACTCCGCTGCGCGGTGCGCCAGGTGCCGTGAGGGC
+TACTCCCTGACGGACGAGAAGACGTGCCTGGGCGAACCACGATGGCGGCGTGGCGGCGGCGTCGAGCGGA
+CGGCTGGCTGCCGCTGCTGTGTGGGCGGCTGTGCTGTTGAGCGTGGGGCTGGTGGCGTGAGGGTGCGGCG
+GGCCCCTCTTCTCTGTGGTGCCCCTGGTGCCTGCCCTCGCCCCCGGCACGGCGTCGTCGCTGCCCTCTCA
+CCCCCACCAGCCGACGGGGAGACCGACAGCCACACGCGCACGCGCACACGCCGTCGTGCATCGCGTGTGC
+TTTCCGCCGTTGTGGCGCCTGCGCGGATGCACGGGCATGCGGAGGCGTGCATGCGTGTGCGCGTGCCGGC
+TCTTGTGTGTCTCTCCGTGTGGCCAGCAGTCGGCACCCGCCGCCGATCGAATGTGCGCGCGGCGGCGGTG
+TGTCGCCTTGGACAGCGGAGATGCGGCGCCCGCCCCTCGCCGTGTGCCTCGGTCTGCGTGTCGTGGCCGC
+GCGAGCGACGTACGGAGTGCGCGTGTCCGGCCCTCTTCGACGGGGCTCGCTTGCGGTGCTGTGCTCTCGT
+GGTCTGTGCCGGTGCTGCCCCGGCGGGGTGA</dna_sequence>
+        <protein_sequence>>AAA29234.1 surface membrane glycoprotein GP46/M-2 [Leishmania amazonensis]
+MAQCVRRLVLAAPLAAVVALLLCTSSAPVARAAGTSDFTGAQQKNTLTVLQAFARAIPALGDTWTGSDFC
+SWEHIICYSSGVGVWMHNVDYTGTLPEMPASVDYKDVMILALDFGAMGQGLSGTLPPSWSSMKHLIVLDL
+EGTKVSGTLPPEWSEMTSAEALQLENCGLSGSLPTSWSSMPKLRIVSLSGNHFCGCVPDSWREKDRLDVT
+IEEWHMGEDCKLANACRPTAAPGTTTTNPPTTTGTPAASSTPSPGSGCEVDGCEVCEGDSAARCARCREG
+YSLTDEKTCLGEPRWRRGGGVERTAGCRCCVGGCAVERGAGGVRVRRAPLLCGAPGACPRPRHGVVAALS
+PPPADGETDSHTRTRTRRRASRVLSAVVAPARMHGHAEACMRVRVPALVCLSVWPAVGTRRRSNVRAAAV
+CRLGQRRCGARPSPCASVCVSWPRERRTECACPALFDGARLRCCALVVCAGAAPAG
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>cDNAs encoding L. m. amazonensis gp46 antigen were subcloned into the VR1012 plasmid, and susceptible BALB/c mice were immunised with two i.m. injections of 100 microg of plasmid DNA.  Mice were challenged by the injection of 4 x 10^6 L. m. mexicana parasites in the foot pad to evaluate protection. Measurement of lesion size indicated that mice immunised with VR012-GP46 were partially protected against infection [Ref1348:Dumonteil et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene754">
+        <gene_name>M2</gene_name>
+        <strain>Leishmania amazonensis</strain>
+        <vo_id>VO_0011291</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>2828562</ncbi_nucleotide_id>
+        <ncbi_protein_id>2828563</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAC08302.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:240315
+CDD:153108</xrefs>
+        <taxonomy_id>5659</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ribonucleotide reductase M2 subunit</protein_name>
+        <protein_pi>5.07</protein_pi>
+        <protein_weight>38155.95</protein_weight>
+        <protein_length>424</protein_length>
+        <protein_note>hydroxyurea-resistant strain derived from LV-78;
+cloned from extrachromosomal amplified circular DNA</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|2828562|gb|AF005247.1| Leishmania mexicana amazonensis extrachromosomal element ribonucleotide reductase M2 subunit gene, complete cds
+ATGAAACCGGTTGCGGCTGGCGCCGAGGTGCTGCCGGCGGACAAGGTTGCCCAGGGGACGAACGCCGAGG
+AGGAGCCGCTGCAGCAGGAGAACCCGTTCCGCTACGTCCTCTTCCCAATCCAGTACCATGACATCTGGCG
+GAAGTACAAGGAGCAGGAGAGCTGCATCTGGACGGTGGAGGAGATCGACCTGGGCAACGACATGAAGGAC
+TGGGCAACGCTGAACGACGGTGAGCGGCACTTCATCAAGCATGTGCTTGCCTTCTTCGCCGGCAGCGACG
+GCATAGTCATCGAGAATCTTGCGCAGCGCTTCATGAGCGACGTGAAGGTGCCAGAGGCGCGCGCGTTCTA
+CGGGTTCCAGCTGATGATGGAGAACATCCACTCGGAGACGTACTCTGTGCTGCTGGACACGTACATCACG
+GACAGCGAGGAGAAGCTGCGGCTGCTGCACGCGATACAGACGATCCCGTGCATCCAGAAGAAGGCGGAGT
+GGCCCGTGCGGTGGATCGGGAGCAGCGCGAGCTTTCAGCAGCGGCTGATCGGCTTTGCCGCGGTGGAGGG
+CATTTTCTTTTCCGGGTCGTTCTGCGCGCTGTTCTGGCTGAAGAAGCGCGGTCTGATGCCAGGGCTGACG
+TTCAGCAACGAGCTCATCTCGCGCGACGAGGGTCTACACACGGACTTCGCATGCCTGCTGTACAACTCGC
+ACATCAAGCACAAGCTGCCGCGCGAGCGCGTGCTGGAGATCATCGTGGATGCGGTGAACATCGAGCGTGA
+GTTCATCTGCGACGCGCTGCCGGTGCGGCTGATTGGCATGAACGCGGAGCTGATGGCGCAGTACATCGAG
+TTCGTCGCGGACCGGCTGCTGGTGTCGCTCGGCGAGGAGAAGCACTACCGCTCGACGCAGCCGTTCGACT
+TCATGGAGATGATCTCGCTGCAGGGCAAAACGAACTTCTTCGAGAAGAGGGTGGGGGAGTACCAGAAGGC
+CGGCGTGATGAGCACGGAGGGCACGTCGAAAAAGTTCTCCCTCTCGGAGGACTTCTAA</dna_sequence>
+        <protein_sequence>>AAC08302.1 ribonucleotide reductase M2 subunit [Leishmania amazonensis]
+MKPVAAGAEVLPADKVAQGTNAEEEPLQQENPFRYVLFPIQYHDIWRKYKEQESCIWTVEEIDLGNDMKD
+WATLNDGERHFIKHVLAFFAGSDGIVIENLAQRFMSDVKVPEARAFYGFQLMMENIHSETYSVLLDTYIT
+DSEEKLRLLHAIQTIPCIQKKAEWPVRWIGSSASFQQRLIGFAAVEGIFFSGSFCALFWLKKRGLMPGLT
+FSNELISRDEGLHTDFACLLYNSHIKHKLPRERVLEIIVDAVNIEREFICDALPVRLIGMNAELMAQYIE
+FVADRLLVSLGEEKHYRSTQPFDFMEMISLQGKTNFFEKRVGEYQKAGVMSTEGTSKKFSLSEDF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunization of CBA mice with the M-2 glycoprotein of L. amazonensis and C. parvum adjuvant resulted in complete protection against a challenge infection of 10^4 and 10^6 late log-phase promastigotes of L. amazonensis. In the BALB/c strain, complete protection was observed in some of the immunized animals (28 to 50%); in the rest of the mice the onset of infection was significantly delayed. Protective immunity for C57BL/6 mice was observed only at the low infecting dose (10(4) L. amazonensis organisms) [Ref1347:Champsi and McMahon-Pratt, 1988].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene753">
+        <gene_name>WD</gene_name>
+        <strain>Leishmania amazonensis</strain>
+        <vo_id>VO_0011290</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>38455440</ncbi_nucleotide_id>
+        <ncbi_protein_id>38455441</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAR20840.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:225201
+CDD:238121
+CDD:293791</xrefs>
+        <taxonomy_id>5659</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>antigenic WD protein</protein_name>
+        <protein_pi>6.52</protein_pi>
+        <protein_weight>70626.83</protein_weight>
+        <protein_length>743</protein_length>
+        <protein_note>WD40 repeat [General function prediction only]; COG2319</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|38455440|gb|AY457171.1| Leishmania amazonensis antigenic WD protein mRNA, complete cds
+CCCTCCCACTACCACGCAGCTTGTCATATCATACTGTGTTTCATTGTATGCATCCGGCGTGAGCAATTCT
+TTGTGTCCTCAACCGCTCTTTCCTTTCGTCTTTCATCGCTGTGCTTCCTCTCCCCTCAGCGCCCCCCCCT
+CTCCCTTCTCGCACACGCACGCACAGTGGCACAGATACATACAGAGGCACTCCTCTTCTCCCTACACTAT
+CTTGCAGTGCCCTCTTCTTCCCCCGCCTCTTACTCTGCCCGTCCCTCTCCGACTCTCTTTCACGTTTCGC
+AACACCAGTATCAACCATGGCCAAGGAGAAACTCGGCTTCAAGATCCAGGGGAAGACCGTCTCCTACGAG
+GGTTACCCCGAGCGTCCGCCAAGGGACCTGATGGACATCTTGGTCAAAATGGGTGTCGGCGAAGCTGCCG
+TGGTGACCACCTTTCTAGAAAATATTGAGAACCACCGGGAGTTCACCGACGAGCAGGTGATGGTGATGTA
+CAACGAAGCAAAAATGACGCGCGAGAAGAAGGCTCGTGCGAAGGCCGGCAACCAGGGTGACTCAGCCGCT
+GCCGCCGCCGCTCCATCGGGCGCCGCCGATGAGGCGGAGAAGCCGCAGAAGATCCTTCTTTCCTACCGCG
+GCAAGCAGCTTTCCTACGTAGGTTTGCCCAGCGGCAAGCGCAACGCCGTGCTGCAACTCCTCTCCAAGCA
+AGAGGAGCTCACCCGGGAGCTTGCAGTGGAGACGTTCCGCACGAACCTGCCCAGTGATCCGTCCACGGAG
+GAGGAGATTTGGATCTTGGTGCAGGCAGTCAAAGATCGCAAGAGTAGGAAGAGCCAAGCGAAGGGTCAGG
+ATGGCGAAAGGTCCGGCGGTAACGGTGCGACTGCGTCGCTTGGGGCAGGCAGCAGCGCCATGGACAGCAT
+AACCGGTATGTCCGAGAGGGAGCGCGACGACCTGAACAACTTCATTCTTCAGGTGCTGCAGCAGCCAGCG
+CCGGATGTGGCCGCCCTCTTACATGAGAATCCGAAACCGCGCAAAGACACGGAAGACAATGCGGAGCTGG
+CACTGACAGCGCGCATGTCGGGTAAGATTCCGGTTTACCTGCAGGAAGAGAACACCAGCAGCACGAAGCT
+CATCTACGCCACGCCCCACATGAGCTTCGAAGATTTTTCTACCATTGTCGAGAAGAAGTGTGGCCGCAAG
+TTGTCGCTGTCCTTCTACGACGGCGACGACCTCATCATGATGGATGATGACGACGTGCTGGCCATGTTTC
+TCGAAATGACAGTGCAGAACGACCCAAAGAAGGTGCGCCTCATTTGCTCCAACCCTGGAGTCCCAAGGAA
+GGCGGCGGATGACCGGATGATGGAAAACCGTCAAAATACCTTCAGCGGTCTTCCGCAGGTCTCAACGACC
+AAGGCATTGGCGTACTCGAACGGCGAGCTCAACGTCGCGGAGGCTCGCACCTACTTTGGCCACTCTCTTG
+CCGTCTACTGCTGCTGCTTCTCGCCAAGGGGCGACATGTTCGTTACGGCAAGTCGCGACCGCACCGTCCG
+CCTGTGGAACTTGCGCACCGGTGTCTCCACAGTCATGAAAGGCGGGCACAACGGCTTTGTGCTGTCTTGC
+GACTACTCGCCAAAGGGCAACCGCGTCGCTTCCTCTTCTGATGACCGCACTATCAAACTGTGGAACACGT
+CGTCATGCAACAAGGTTGCCACACTTAAAGGGCACGAGGACAAGGTATACTGCGTCAAGTACAACTCTAG
+CGGAGATCTCCTCGTGTCCGCCTCTTGCGACACCACAGTGCGCGTGTGGAACGCCGAAAGTCAGGCGAAG
+CTGGTGACGCTGAGGGGCCACACCCTCGCCGTTTTTTCCTGCGCCTTCAGCAACAGCGATAATGGAAAGT
+TCGTCGTCTCCGGCAGCGATGACCGCGTTATAAAGCTGTGGGACTGGGGCGCCGGCAGAGAGATCCTGTC
+GCTGGTGGGTCACATCGGCACCGTGTGGACGGTTGTCTTCTCCCACAACGACAGGTACGTTCTCAGTGGC
+AGCATGGACTATGAGCTCATTCTCTGGGATTCAATGACTGGCGCTCGCCTGCGCTCGATGGACGGGCACA
+AGACATCGGTGCACCACGCCATCTTCTCCGAGGACGACGCATACATCTTCTCCTGCGCCCGCGACTGGAG
+CGTCATGGTGTGGCGCACCGAAGATGGCGAGCATGTAGAGACCATCATCGGTCACCTCAGCACTGTCTAC
+CACATGGACATCAGCGAGGACAAGTTGCTCACCTGCTCTCTTGATGACAAGATCAAGCTGTGGAATATCA
+GGCGCCACTGAAGTTGAGCACCAGCGGAAAATGTGGTAGTGCGAACACTGGCGGGAGGGGCACGTGCCAG
+CCGCAACCGAGAAAGAGGTGTGGGCGGGAAGGCACGTGATAGGTGATACAGACACTGTACCCGTACACCA
+TTCCTCTTTTCAGCAGCAGTCCTGCACACAGAAAGACACTCGGATTTTTCATTGACAAATCAGGTGGGTC
+TGAAGACGATTTCAAGAAGAAGCGAGCGTTCGTATGTACCGCCCTCCTCCCTCCACCGATACTGCAACAC
+ACACACACACACATTTTACGGTCTTGTCTACTTTTCTTCGTTTCGCTCTCGTCAGTTCCACCGAGTCCTG
+GCTGCGTTTGGGTGCCACGCGTGTGAATGTGTGAGCGCCACCGTTGGTCGACCCTTTTCGCTTTCCTGCA
+TGCTTTTTTTCTTTTCGTATCTCTACGTCCTGCTCACAGCGCATCGACCTCTGCCAGAGGATATCATTTG
+GCAGTGTCGTTTCTTTTGCTCTTTTTCTCTCTTTGCCACCGTTCTTGCGGGCCAACGGCACCGTGCTCCC
+CGCTTCTCTGTCTCGCGACCTCGACATTCATCTCTTCCATGCTTCTCCCTCTCCCCCTCCGTCTCCCCAG
+CTTTTTGTCGTTTGTGCATTCTCCTCTTTTCTTAAGTGATGCTTCAAAGGAAACGAAAAAAAAAAAAAAA
+AA</dna_sequence>
+        <protein_sequence>>AAR20840.1 antigenic WD protein [Leishmania amazonensis]
+MAKEKLGFKIQGKTVSYEGYPERPPRDLMDILVKMGVGEAAVVTTFLENIENHREFTDEQVMVMYNEAKM
+TREKKARAKAGNQGDSAAAAAAPSGAADEAEKPQKILLSYRGKQLSYVGLPSGKRNAVLQLLSKQEELTR
+ELAVETFRTNLPSDPSTEEEIWILVQAVKDRKSRKSQAKGQDGERSGGNGATASLGAGSSAMDSITGMSE
+RERDDLNNFILQVLQQPAPDVAALLHENPKPRKDTEDNAELALTARMSGKIPVYLQEENTSSTKLIYATP
+HMSFEDFSTIVEKKCGRKLSLSFYDGDDLIMMDDDDVLAMFLEMTVQNDPKKVRLICSNPGVPRKAADDR
+MMENRQNTFSGLPQVSTTKALAYSNGELNVAEARTYFGHSLAVYCCCFSPRGDMFVTASRDRTVRLWNLR
+TGVSTVMKGGHNGFVLSCDYSPKGNRVASSSDDRTIKLWNTSSCNKVATLKGHEDKVYCVKYNSSGDLLV
+SASCDTTVRVWNAESQAKLVTLRGHTLAVFSCAFSNSDNGKFVVSGSDDRVIKLWDWGAGREILSLVGHI
+GTVWTVVFSHNDRYVLSGSMDYELILWDSMTGARLRSMDGHKTSVHHAIFSEDDAYIFSCARDWSVMVWR
+TEDGEHVETIIGHLSTVYHMDISEDKLLTCSLDDKIKLWNIRRH
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>DNA vaccination in BALB/c mice with the LAWD (for Leishmania antigenic WD protein) and IL-12 genes significantly delayed lesion development from challenge with Leishmania amazonensis, which correlated with a dramatic reduction in parasite burdens [Ref1346:Campbell et al., 2004].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1344">
+		<reference_name>Campbell et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Campbell K, Diao H, Ji J, Soong L</authors>
+		<title>DNA immunization with the gene encoding P4 nuclease of Leishmania amazonensis protects mice against cutaneous Leishmaniasis</title>
+		<year>2003</year>
+		<volume>71</volume>
+		<issue>11</issue>
+		<pages>6270-6278</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1346">
+		<reference_name>Campbell et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Campbell K, Popov V, Soong L</authors>
+		<title>Identification and molecular characterization of a gene encoding a protective Leishmania amazonensis Trp-Asp (WD) protein</title>
+		<year>2004</year>
+		<volume>72</volume>
+		<issue>4</issue>
+		<pages>2194-2202</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1347">
+		<reference_name>Champsi and McMahon-Pratt, 1988</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Champsi J, McMahon-Pratt D</authors>
+		<title>Membrane glycoprotein M-2 protects against Leishmania amazonensis infection</title>
+		<year>1988</year>
+		<volume>56</volume>
+		<issue>12</issue>
+		<pages>3272-3279</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5050">
+		<reference_name>Duarte et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Duarte MC, Lage DP, Martins VT, Costa LE, Carvalho AMRS, Ludolf F, Santos TTO, Vale DL, Roatt BM, Menezes-Souza D, Fernandes AP, Tavares CAP, Coelho EAF</authors>
+		<title>A vaccine composed of a hypothetical protein and the eukaryotic initiation factor 5a from Leishmania braziliensis cross-protection against Leishmania amazonensis infection</title>
+		<year>2017</year>
+		<volume>222</volume>
+		<issue>2</issue>
+		<pages>251-260</pages>
+		<journal_book_name>Immunobiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1348">
+		<reference_name>Dumonteil et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dumonteil E, Andrade-Narvarez F, Escobedo-Ortegon J, Ramirez-Sierra MJ, Valencia-Pacheco G, Flores-Serrano A, Canto-Lara S, Arjona-Torres A</authors>
+		<title>Comparative study of DNA vaccines encoding various antigens against Leishmania mexicana</title>
+		<year>2000</year>
+		<volume>104</volume>
+		<issue></issue>
+		<pages>135-141</pages>
+		<journal_book_name>Developments in biologicals</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1351">
+		<reference_name>Fedeli et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fedeli CE, Ferreira JH, Mussalem JS, Longo-Maugéri IM, Gentil LG, dos Santos MR, Katz S, Barbiéri CL</authors>
+		<title>Partial protective responses induced by a recombinant cysteine proteinase from Leishmania (Leishmania) amazonensis in a murine model of cutaneous leishmaniasis</title>
+		<year>2010</year>
+		<volume>124</volume>
+		<issue>2</issue>
+		<pages>153-158</pages>
+		<journal_book_name>Experimental parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

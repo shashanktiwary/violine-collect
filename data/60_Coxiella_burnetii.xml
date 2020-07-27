@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen37">
+		<pathogen_name>Coxiella burnetii</pathogen_name>
+		<taxon_id>777</taxon_id>
+		<pathogenesis refs="reference610 reference596 reference593 reference594 reference597 reference598 reference611 reference612">C. burnetii is found in large numbers in birth fluids of goat and cows (Stoker and Marmion, 1955). Humans are then infected by inhaling from the infected aerosols or dust particles with the contaminated birth fluids. Approximately only 10 microorganisms are needed to infect humans (Tigertt et al., 1961). Based on animal models, C. burnetii is first engulfed by macrophages after inital infection in the lungs (Burton et al., 1971)(Burton et al., 1978). The microorganism grows within the acidic environment, with a pH around 4.7 - 4.8 (Ohkuma and Poole, 1978), in the phagolysosome and eventually rupture the host cells and infect other neighboring cells (Hackstadt and Williams, 1981) (Burton et al., 1971). C. burnetii suppresses the host immune responses and avoids host cell activation (avoid recognition by TLR). As a result, the microogranism is able to persist within phagolysosome (Zamboni et al., 2004)(Shannon et al., 2005).</pathogenesis>
+		<disease_name>Q fever</disease_name>
+		<protective_immunity refs="reference613 reference614">Antibodies produced by the immune system is not the primary mechanism used for resistance. Studies have shown that the activation of monocytes and macrophages by gamma interferon results in the production of active nitrogen and oxygen intermediates. This mechanism results in the killing of C. burnetii (Brennan et al., 2004)(Turco et al., 1984). However, C. burnetii minimizes detection by the host cell, thereby minimizes the killing by the intermediates (see Microbial Pathogensis for more information).</protective_immunity>
+		<host_range refs="reference592 reference606 reference607 reference608 reference609">Several species are infected by C. burnetii. However, the disease seems to be more severe in human beings (Waag, 2007). C. burnetii has also been found to cause abortions in humans, goats, sheeps, and cattles (Langley et al., 2003)(Palmer et al., 1983)(Waldhalm et al., 1978). C. burnetii can be cultured and isolated using chicken embryo yolk sacs. Model organisms normally use for infection research include mice and guinea pigs, and sheeps (Williams and Thompson, 1991).</host_range>
+		<introduction refs="reference593 reference594 reference600 reference599 reference602 reference603 reference624">Coxiella burnetii is an intracellular organism that causes Q fever. Unlike other rickettisiae, however, C. burnetii, multiplies in the phagolysosomal vacuoles and remains in the vacuoles throughout its life cycle (Burton et al., 1971) (Burton et al., 1978) (Ormsbee, 1969). The microorganism is able to survive under the hostile conditions within the phagolysosomes (Akporiaye and Baca, 1983). C. burnetii also has two phases (phase I and phase II) based on the pathways involved and the cell coating (Mege et al., 1997) (Capo et al., 1999). Phase I organisms are more virulent and have complete smooth-type lipopolysaccharide (LPS) while phase II organisms are avirulent and have incomplete rough-type LPS (Hackstadt et al., 1985) . Due to highly resistance to chemical agents and hostile environments, and the low number of C. burnetii required for an infection through inhalation, Coxiella burnetii is listed CDC category B priority agent. Common symptoms for Q fever include fever, headache, malaise, and myalgia.</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine244">
+		<vaccine_name>Chlamyvax FQ</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Chlamyvax-FQ</brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004135</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference627">Chlamyvax FQ is an inactivated phase II vaccine commercially available in France (Arricau-Bouvery et al., 2005).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">Chlamyvax FQ is prepared as an oil emulsion with Chlamydophila abortus and phase II C. burnetii.</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response316" host_id="host13">
+			<immune_response refs="reference627">After the goats were vaccinated and before the challenge, the antibody response was lower in the group vaccinated with Chlamyvax FQ than the group vaccinated with phase I vaccine Coxevac. This showed that the phase II vaccine antigens were less immunogenic than phase I vaccine antigens. About 7 weeks after challenge, goats vaccinated with Chlamyvax FQ had higher antibody rates than those of goats vaccinated with Coxevac, indicating that the phase II vaccine Chlamyvax FQ was not sufficient in controlling bacterial infection (Arricau-Bouvery et al., 2005).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference627">Two groups of goat (one- and two year-old) were immunized subcutaneously with either Chlamyvax FQ or Coxevac six weeks before mating. Three weeks after initial vaccination, a booster dose was injected. A group of unvaccinated goats served as the control (Arricau-Bouvery et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference627">Chlamyvax FQ did not show effectiveness in protection against abortion and C. burnetii shedding in milk, feces, placenta, and vaginal secretions. Results showed that 87% and 93.3% of the goats vaccinated with Chlamyvax FQ had abortion and contaminated placenta, respectively. These figures were comparable with the data from the control group without vaccination (Arricau-Bouvery et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference627">The groups of goats were challenged with 10^4 infective mouse doses (I.M.D.) of CbC1 strain C. burnetii 105 days after booster dose, injected subcutaneously in the front right shoulder (Arricau-Bouvery et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine241">
+		<vaccine_name>Chloroform-methanol residue (CMR)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004132</vo_id>
+		<type>chloroform-methanol residue vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="">The CMR vaccine consists of chloroform-methanol residues from killed whole cells of C. burnetii.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference618">The CMR vaccine is prepared from chloroform-methanol residue of Formalin-killed whole cells of C. burnetii. C. burnetii whole cells are lyophilized and refluxed with CM azeotrope of 4:1. 150 mg of whole cells are then added to 100 ml of CM, which is then refluxed for 6 to 8 hours. Cellular material is separated by filtration and the residue on filter is mixed with 100 ml of CM. After three repetitions, the filtrate (extractable component) is the CME and the residue (particulate material) is the CMR (Williams and Cantrell, 1982).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response313" host_id="host5">
+			<immune_response refs="reference626">A single 30 μg dose of CMR and a single 30 μg dose of Q-Vax resulted in similar antibody responses. The 100 μg single CMR dose and the two 30 μg doses of CMR increased the immunogenicity of the vaccine, but the antibody responses were short-lived. Anti-phases I and II antibody responses rose at equal magnitude and antibody titers leveled off 2 weeks after challenge for the vaccinated monkeys. In contrast, control monkeys had a higher anti-phase II response than anti-phase I response. Within three weeks, monkeys in control group had anti-phase II response that was greater than that in the vaccinated monkeys (Waag et al., 2002).</immune_response>
+			<host_strain refs="">Adult cynomolgus monkeys</host_strain>
+			<vaccination_protocol refs="reference626">Two groups of 10 monkeys (2.0 to 6.0 kg in weight) were immunized with 30 μg of CMR subcutaneously. Single groups were immunized with 30 μg of Q-Vax, or 100 μg of CMR, or placebo subcutaneously.The group initially given 30 μg of CMR was given a booster of another 30 μg of CMR after twenty-eight days (Waag et al., 2002).</vaccination_protocol>
+			<persistence refs="reference626">The antibody responses at single 100 μg dose of CMR and two 30 μg doses of CMR were short-lived. Anti-phases I and II antibody levels dropped to baseline levels at the 17th week after immunization (Waag et al., 2002).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference626">The study showed that CMR and Q-Vax were equally efficacious and immunogenic in monkeys challenged by aerosol (Waag et al., 2002).</protection_efficacy>
+			<side_effects refs="reference626">Monkeys challenged six months after vaccination showed signs of illness. However, the illnesses were less severe and/or of shorter duration for the vaccinated monkeys than for the control monkeys. A majority of the control monkeys had increases in interstitial and bronchial opacity (as opposed to only a minority of vaccinated monkeys showing those changes). A drop in hemaglobin and hematocrit was observed in all groups. All monkeys, besides groups vaccinated with single dose 100 μg CMR or two 30 μg doses of CMR, were bacteremic, which correlated with fever (Waag et al., 2002).</side_effects>
+			<challenge_protocol refs="reference626">After six months of initial immunization, the monkeys were challenged with approximately 10^5 virulent phase I Henzerling strian C. burnetii administered using aerosol (Waag et al., 2002).</challenge_protocol>
+			<description refs="reference626">This study investigated the vaccine efficacy of CMR and Q-Vax in monkeys challenged by aerosol, which resembles the route of human infection (Waag et al., 2002).</description>
+		</host_response>
+		<host_response host_response_id="host_response308" host_id="host7">
+			<immune_response refs="">None reported</immune_response>
+			<host_strain refs="">Hartley guinea pigs</host_strain>
+			<vaccination_protocol refs="reference625">Groups of seven 250-300 g Hartley guinea pigs were vaccinated subcutaneously with 0.5 ml of 0.003, 0.03, 0.3, 3, or 30 μg of CMR. Guinea pigs in control groups were given USP saline (Waag et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference625">0.003 and 0.03 μg dose did not effectively protect the pigs from infection. Guinea pigs vaccinated with 0.3, 3.0, or 30.0 μg CMR were significantly protected compared to the groups injected with USP saline (Waag et al., 1997).</protection_efficacy>
+			<side_effects refs="">None reported</side_effects>
+			<challenge_protocol refs="reference625">Six weeks from vaccination, the guinea pigs were challenged with10-fold 50% infection dose of phase I Henzerling strain C. burnetii administered in a small particle aerosol (Waag et al., 1997)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response309" host_id="host3">
+			<immune_response refs="">None reported</immune_response>
+			<host_strain refs="">A/J</host_strain>
+			<vaccination_protocol refs="reference625">Groups of ten six-week-old A/J strain female mice were immunized with 0.5 ml of 0.01, 0.1, or 1.0 μg of CMR. Mice in control groups were given USP saline (Waag et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference625">Mice vaccinated with 0.01 or 0.1 μg of CMR were not protected. However, the 1.0 μg dose of CMR were effective in protecting the mice from infection (Waag et al., 1997).</protection_efficacy>
+			<side_effects refs="">None reported</side_effects>
+			<challenge_protocol refs="reference625">Six weeks from vaccination, the mice were challenged with10-fold 50% infection dose of phase I Henzerling strain C. burnetii administered in a small particle aerosol (Waag et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response302" host_id="host3">
+			<immune_response refs="reference618">High titers of phase II antibodies were detected with mice immunized with CMR.Similar detection was found for killed cells treated mice. However, there was a lower level of phase I antibodies for CMR treated mice than killed whole cells treated mice. Neither phase I nor phase II antibodies was found for mice immunized with CME (Williams and Cantrell, 1982).</immune_response>
+			<host_strain refs="">C57BL/10ScN mice</host_strain>
+			<vaccination_protocol refs="reference618">Endotoxin nonresponder male mice (C57BL/10ScN, 8 to 10 weeks old) in experimental groups of 5 to 10 were given a single injection of 30 or 300 μg of killed cells, CMR, or CME (Williams and Cantrell, 1982).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference618">Mice immunized with 30 μg of CMR resulted in higher protection (70% to 90%) than mice inoculated with killed whole cells (which was 50%). However, mice immunized with 300 μg CME had only 10% survival rate (Williams and Cantrell, 1982).</protection_efficacy>
+			<side_effects refs="reference618">No side effects of splenomegaly, hepatomegaly, or liver necrosis were observed for mice treated with CMR or CME. However, the mice group treated with killed whole cells showed severe, life-threatening side effects (Williams and Cantrell, 1982).</side_effects>
+			<challenge_protocol refs="reference618">Fourteen or thirty days after vaccination, the mice were challenged with 7 x 10^10 PFU of viable organisms of phase I C. burnetii Ohio strain (Williams and Cantrell, 1982).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response307" host_id="host2">
+			<immune_response refs="reference619">CMR induced the greatest IgM responses. IgM responses to phase I antigen were similar while the IgM responses to phase II antigen were less frequent. IgG responses were less common to CMR, phase I, and phase II antigens (Fries et al., 1993).</immune_response>
+			<host_strain refs="">Volunteers without cardiovascular, pulmonary, hepatitis, renal, or immunologic disease or without hepatitis B virus or HIV type 1 infection or without receiving any immunosuppressive medication</host_strain>
+			<vaccination_protocol refs="reference619">Human subjects were randomly assigned to receive either vaccine or placebo in a ratio of 5:2. Groups of five subjects were immunized with 30, 60, or 120 μg of CMR at one-week intervals. Twenty subjects then received 240 μg  of CMR. Each group had corresponding placebo recipients in the 5:2 ratio. Subjects’ temperatures were checked on days 1, 2, 3, 7, 15, and 30 with blood specimens obtained 15, 30, 90, and 180 days after immunization. Vaccine immunogenicity were assayed with kinetic enyzme-linked immunosorbent assay (KELISA) (Fries et al., 1993).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference619">CMR at 30 and 60 μg caused minimal side effects. Higher doses of CMR caused reactions similar to those cause by 30 μg of whole-cell vaccines. 120 μg and 240 μg dose induced local erythema in 5 (out of 15) and 8 (out of 10) recipients and subcutaneous induration in 4 (out of 15) and 7 (out of 10) recipients, respectively (Fries et al., 1993).</side_effects>
+			<challenge_protocol refs="reference619">Subjects were not challenged (Fries et al., 1993).</challenge_protocol>
+			<description refs="reference619">CMR vaccine could be safely administered to human subjects unscreened for prior C. burnetii immunity with acceptable local reactions at 30 to 120 μg doses (Fries et al., 1993).</description>
+              <host_gene_response host_gene_response_id="host_gene_response241" gene_id="gene1184">
+			    <description refs="reference619">CMR induced the greatest serum IgM responses. IgM responses to phase I antigen were similar while the IgM responses to phase II antigen were less frequent.  The group receiving 240 micrograms had significantly higher responses than the placebo group at all post immunization time points.  The 120-microgram dose group approached significant difference from placebo recipients at days 30, 90, and180 post immunization ( (Fries et al., 1993).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine243">
+		<vaccine_name>Coxevac</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Coxevax</brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004134</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference627">Coxevac vaccine is an inactivated phase I vaccine commercially available in Slovakia (Arricau-Bouvery et al., 2005).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference627">Coxevac vaccine is prepared with Nine Mile strain of C. burnetii in yolk sacs of pathogen-free embryonated hen eggs. The vaccine consists of purified formaldehyde inactivated phase I C. burnetii corpuscular antigens. It is standardized at 100 μg of antigens in 1 ml. The vaccine is then preserved by thiomersale (Arricau-Bouvery et al., 2005).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response315" host_id="host13">
+			<immune_response refs="reference627">After the goats were vaccinated and before the challenge, the antibody response was higher in the group vaccinated with Coxevac than the group vaccinated with phase II vaccine Chlamyvax FQ. This showed that the phase I vaccine antigens were more immunogenic than phase II vaccine antigens. About 7 weeks after challenge, goats vaccinated with Coxevac had lower antibody rates than those of goats vaccinated with Chlamyvax FQ, indicating that the phase I vaccine Coxevac was more sufficient in controlling bacterial infection (Arricau-Bouvery et al., 2005).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference627">One group of goat (one- and two year-old) were immunized subcutaneously with either Coxevac or Chlamyvax FQ six weeks before mating. Three weeks after initial vaccination, a booster dose was injected. A group of unvaccinated goats served as the control (Arricau-Bouvery et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference627">Coxevac showed significant protection against abortion and C. burnetii shedding in milk, feces, placenta, and vaginal secretions. Results showed that 75% and 100% of the control goats had abortion and contaminated placenta, respectively. In comparison, only 6% and 37.5% of the goats vaccinated with Coxevac had abortion and contaminated placenta, respectively (Arricau-Bouvery et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference627">The groups of goats were challenged with 10^4 infective mouse doses (I.M.D.) of CbC1 strain C. burnetii 105 days after booster dose, injected subcutaneously in the front right shoulder (Arricau-Bouvery et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine240">
+		<vaccine_name>M-44</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004131</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference631">M-44 vaccine is developed from attenuated phase II M-44 strain of C. burnetii (Robinson and Hasty, 1974).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference631">Crude rickettsial pools are produced in embryonated eggs of hens free from avian leucosis virus. The embryonated eggs are inoculated with 0.2 ml of seed stock containing 10^7.9 median infectious doses at 35C. After 6 to 7 days, the yolk sacs are collected and diluted to a 50% suspension with distilled water. The strains are then obtained through purification using alternating low-speed and high-speed centrifugations. After centrifugation, the pellet is suspended in 10% sucrose and centrifuged onto a 70% sucrose solution. The purified strains are then obtained from the surface and diluted with Snyder I buffer to result in a final titer of 10^9.5 median infectious dose per ml and freeze-dried (Robinson and Hasty, 1974).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response304" host_id="host7">
+			<immune_response refs="reference631">Vaccine at high doses prevented anamnestic-type response (Robinson and Hasty, 1974).</immune_response>
+			<host_strain refs="">Hartley guinea pigs</host_strain>
+			<vaccination_protocol refs="reference631">Hartley guinea pigs (250 to 350 g) were immunized intraperitoneally or subcutaneously with serial 10-fold dilutions (prepared in physiological buffered saline) of M-44 vaccine (Robinson and Hasty, 1974).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference631">10^2 median infectious dose protected the guinea pigs from death, but did not protect the animals from febrile effects of challenge. Protections against the febrile effects of the challenge of phase I C. burnetii were observed at vaccines doses of 10^4 median infectious dose or greater. Protections against the febrile effects of the challenge of phase II C. burnetii were observed at vaccine doses of 10^3 median infectious dose or greater (Robinson and Hasty, 1974).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference631">Guinea pigs were challenged with either phase I or phase II C. burnetii (Robinson and Hasty, 1974).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine242">
+		<vaccine_name>P1-HspB (fusion of protein 1 and heat-shock protein B)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004133</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Complete &amp; incomplete Freund's adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference621">Gene fragments encoding C. burnetii outer membrane protein 1 (P1) and heat-shock protein B (HspB) are amplified by PCR from genomic DNA extracted from C. burnetii. The amplified p1 and hspB gene fragments are purified and digested with DNA endonuclease pairs BamHI/ScaI and SacI/PstI, respectively. The genes are then ligated with pQE30 (digested with homologous enzyme pair) with T4 ligase, resulting in recombinant expression plasmids pQE30/p1 and pQE30/hspB. Plasmid pQE30/p1-hspB is constructed by ligating hspB of pQE30/hspB with p1 fragment from pQE30/p1. E.coli M15 cells are then transformed with the ligation mixtures and screened on medium containing ampicillin and kanamycin. The E. coli cells were propagated in LB medium and induced by IPTG. The resulting recombinant proteins were purified by affinity chromatography with nickel-nitrilotriacetic resin (Li et al., 2005).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering182" gene_id="gene171">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference621">The primers were synthesized and the target DNA fragments were amplified by PCR from C. burnetii genomic DNA. The mixture used during amplification consisted of 0.3 M primer, 200 M deoxynucleoside triphosphate, and 0.6 U of Taq polymerase (Li et al., 2005). See preparation below for more information.</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering183" gene_id="gene175">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference621">The primers were synthesized and the target DNA fragments were amplified by PCR from C. burnetii genomic DNA. The mixture used during amplification consisted of 0.3 M primer, 200 M deoxynucleoside triphosphate, and 0.6 U of Taq polymerase (Li et al., 2005). See preparation below for more information.</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response305" host_id="host3">
+			<immune_response refs="">HspB was found to be efficient in eliciting humoral immunoresponses while P1 was found to be efficient in eliciting cell-mediated immunoresponses. There was higher antibody titer for HspB-ummunized mice than that for P1-immunized mice.</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference621">Mice (six to eight weeks old) were immunized subcutaneously with 30 μg of purified P1, HspB, P1-HspB, or whole-cell antigen with Freund's complete adjuvant. After four weeks, the mice were then immunized intraperitoneally twice every two weeks with 15 μg of homologous antigen with Freund's incomplete adjuvant (Li et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference621">P1-HspB fusion protein provided a better protection against C. burnetii than that offered by P1 or HspB alone (Li et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference621">Eight weeks and ten days from after initial immunization, each group of mice was challenged with10-fold 50% infection dose of C. burnetii. After seven days, mice's spleens were removed and evaluated.
+(Li et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine237">
+		<vaccine_name>Q-VAX</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Q-VAX</brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004129</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference616">Q-VAX(R) is a formalin-inactivated phase I Corxiella burnetii. This vaccine is produced and licensed in Australia. It is currently the most effective vaccine in preventing Q fever (Ackland et al., 1994).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference616">The formalin-inactivated vaccine is prepared from phase I Henzerling strain of Corxiella burnetii grown in the yolk sacs of embryonated eggs (Ackland et al., 1994).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response312" host_id="host5">
+			<immune_response refs="reference626">A single 30 μg dose of Q-Vax and a single 30 μg dose of CMR resulted in similar antibody responses. Anti-phases I and II antibody responses rose at equal magnitude and antibody titers leveled off 2 weeks after challenge for the vaccinated monkeys (for both Q-Vax and CMR). In contrast, control monkeys had a higher anti-phase II response than anti-phase I response. Within three weeks, monkeys in control group had anti-phase II response that was greater than that in the vaccinated monkeys (Waag et al., 2002).</immune_response>
+			<host_strain refs="">Adult cynomolgus monkeys</host_strain>
+			<vaccination_protocol refs="reference626">Groups of 10 monkeys (2.0 to 6.0 kg in weight) were immunized with 30 μg of Q-Vax, or 100 μg of CMR, or placebo subcutaneously. Two groups were immunized with 30 μg of CMR subcutaneously. The group initially given 30 μg of CMR was given a booster of another 30 μg of CMR after twenty-eight days (Waag et al., 2002).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference626">The study showed that CMR and Q-Vax were equally efficacious and immunogenic in monkeys challenged by aerosol (Waag et al., 2002).</protection_efficacy>
+			<side_effects refs="reference626">Monkeys challenged six months after vaccination showed signs of illness. However, the illnesses were less severe and/or of shorter duration for the both Q-Vax and CMR vaccinated monkeys than for the control monkeys. A majority of the control monkeys had increases in interstitial and bronchial opacity (as opposed to only a minority of vaccinated monkeys showing those changes). A drop in hemaglobin and hematocrit was observed in all groups. All monkeys, besides groups vaccinated with single dose 100 μg CMR or two 30 μg doses of CMR, were bacteremic, which correlated with fever (Waag et al., 2002).</side_effects>
+			<challenge_protocol refs="reference626">After six months of initial immunization, the monkeys were challenged with approximately 10^5 virulent phase I Henzerling strian C. burnetii administered using aerosol (Waag et al., 2002).</challenge_protocol>
+			<description refs="reference626">This study investigated the vaccine efficacy of CMR and Q-Vax in monkeys challenged by aerosol (Waag et al., 2002). See Host Response (Host Name: Monkey) under Chloroform-methanol residue (CMR) for more descriptive detail on results of the groups vaccinated with CMR.</description>
+		</host_response>
+		<host_response host_response_id="host_response310" host_id="host3">
+			<immune_response refs="">None reported</immune_response>
+			<host_strain refs="">A/J</host_strain>
+			<vaccination_protocol refs="reference625">Groups of ten six-week-old A/J strain female mice were immunized with 0.5 ml of 0.01, 0.1, or 1.0 μg of Q-Vax. Mice in control groups were given USP saline (Waag et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference625">Mice vaccinated with 0.01 or 0.1 μg of Q-Vax were not protected. However, the 1.0 μg dose of Q-Vax were effective in protecting the mice from infection (Waag et al., 1997).</protection_efficacy>
+			<side_effects refs="">None reported</side_effects>
+			<challenge_protocol refs="reference625">Six weeks from vaccination, the mice were challenged with10-fold 50% infection dose of phase I Henzerling strain C. burnetii administered in a small particle aerosol (Waag et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response311" host_id="host7">
+			<immune_response refs="">None reported</immune_response>
+			<host_strain refs="">Hartley guinea pigs</host_strain>
+			<vaccination_protocol refs="reference625">Groups of seven 250-300 g Hartley guinea pigs were vaccinated subcutaneously with 0.5 ml of 0.003, 0.03, 0.3, 3, or 30 μg of Q-Vax. Guinea pigs in control groups were given USP saline (Waag et al., 1997).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference625">0.003 and 0.03 μg dose did not effectively protect the pigs from infection. Guinea pigs vaccinated with 0.3, 3.0, or 30.0 μg Q-Vax were significantly protected compared to the groups injected with USP saline (Waag et al., 1997). </protection_efficacy>
+			<side_effects refs="">None reported</side_effects>
+			<challenge_protocol refs="reference625">Six weeks from vaccination, the guinea pigs were challenged with10-fold 50% infection dose of phase I Henzerling strain C. burnetii administered in a small particle aerosol (Waag et al., 1997).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response303" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference616">Among the 2555 employees who were vaccinated, only two cases of Q fever were found. However, 55 cases were found among the 1365 unvaccinated employees. The two vaccinated employees had Q fever only within days of vaccination (before immunity was developed). Therefore, the protective efficacy of Q-Vax was 100% (Ackland et al., 1994).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference616">A survey of all vaccinated and unvaccinated employees who had Q fever at three abattoirs in Australia from 1985 to 1990 were studied (Ackland et al., 1994).</description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene175">
+        <gene_name>htpB</gene_name>
+        <strain>Coxiella burnetii</strain>
+        <vo_id>VO_0010934</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>197253489</ncbi_protein_id>
+        <gene_locus_tag>AY251297</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:234573
+CDD:237231
+CDD:239460</xrefs>
+        <taxonomy_id>777</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>heat shock protein B</protein_name>
+        <protein_pi>4.88</protein_pi>
+        <protein_weight>51650.62</protein_weight>
+        <protein_length>612</protein_length>
+        <protein_note>chaperonin GroEL; Reviewed; PRK00013</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|30142089|gb|AY251297.1| Coxiella burnetii strain Xinqiao heat shock protein B (htpB) gene, complete cds
+ATGGCTGCAAAAGTTTTAAAATTTTCCCACGAGGTATTACACGCAATGAGTCGTGGCGTGGAAGTTTTGG
+CCAACGCGGTAAAAGTGACGTTGGGACCAAAAGGTCGCAATGTCGTTTTAGATAAATCATTTGGCGCACC
+AACCATTACTAAAGACGGCGTTAGCGTAGCTAAAGAAATCGAGTTGGAAGACAAATTTGAAAATATGGGC
+GCTCAAATGGTTAAAGAAGTGGCTTCGCGTACATCAGACGATGCGGGTGATGGTACCACAACAGCGACCG
+TACTGGCTCAAGCGATTTTGGTTGAAGGCATCAAAGCCGTTATTGCTGGAATGAACCCCATGGATTTGAA
+ACGGGGTATTGATAAAGCCGTAACGGCAGCGGTAGCTGAATTGAAGAAAATTTCCAAGCCTTGCAAAGAC
+CAGAAAGCGATTGCGCAAGTAGGCACCATTTCTGCGAATTCGGATAAGTCGATTGGAGATATTATTGCGG
+AAGCGATGGAGAAAGTGGGCAAAGAAGGCGTCATAACAGTAGAAGATGGCTCTGGTCTTGAAAACGCGCT
+TGAAGTAGTTGAAGGTATGCAGTTCGATCGTGGTTACTTGTCGCCATACTTTATCAACAATCAACAAAAC
+ATGAGTGCGGAGCTTGAAAATCCGTTTATCTTATTGGTTGACAAGAAGATTTCTAATATTCGTGAACTCA
+TTCCGTTGTTAGAAAACATAGCAAAGTCTGGTCGGCCCTTATTGGTGATTGCCGAAGATATCGAAGGCGA
+AGCTTTAGCGACGTTAGTGGTTAATAATATTCGCGGTGTTGTTAAAGTCGCGGCTGTAAAAGCACCTGGC
+TTTGGCGATCGTCGTAAAGCGATGTTGCAAGATATTGCTGTTTTGACGGGCGGTAAGGTTATTTCTGAAG
+AAGTCGGATTGTCCCTTGAGGCCGCTTCTTTGGATGATTTAGGTTCTGCTAAACGCGTTGTTGTCACTAA
+AGATGACACCACCATCATTGATGGTTCTGGTGACGCCGGTGACATTAAAAACCGCGTGGAGCAAATCCGA
+AAAGAAATAGAAAATAGCTCGTCGGACTATGATAAAGAGAAATTACAAGAACGTCTGGCAAAATTAGCCG
+GTGGTGTGGCGGTCATTAAAGTGGGCGCTGCGACTGAAGTTGAAATGAAAGAGAAAAAAGCCCGCGTGGA
+AGATGCCTTACATGCGACGCGCGCAGCCGTCGAAGAAGGTGTCGTACCGGGTGGTGGCGTTGCTTTAATC
+CGCGTGCTTAAATCGCTTGATTCAGTGGAAGTTGAGAATGAAGACCAACGCGTGGGCGTGGAAATTGCTC
+GCCGTGCGATGGCTTACCCGCTTTCTCAAATCGTGAAAAACACGGGTGTTCAAGCAGCCGTTGTCGCTGA
+CAAAGTCTTGAACCATAAAGACGTTAATTATGGTTATAACGCAGCGACGGGTGAATACGGTGACATGATT
+GAGATGGGTATTCTCGACCCAACCAAAGTGACCCGCACCGCGTTGCAAAACGCAGCTTCTATCGCTGGTC
+TTATGATTACCACCGAATGTATGGTAACAGAAGCTCCCAAGAAGAAAGAGGAGTCGATGCCCGGCGGCGG
+TGACATGGGCGGCATGGGAGGAATGGGCGGCATGGGCGGCATGATGTAA</dna_sequence>
+        <protein_sequence>>ACH54112.1 heat shock protein B, partial [Coxiella burnetii]
+AAKVLKFSHEVLHAMSRGVEVLADAVKVTLGPKGRNVVLDKSFGAPTITKDGVSVAKEIELEDKFENMGA
+QMVKEVASRTSDDAGDGTTTATVLAQAILVEGIKAVIAGMNPMDLKRGIDKAVTAAVAELKKISKPCKDQ
+KAIAQVGTISANSDKSIGDIIAEAMEKVGKEGVITVEDGSGLENALEVVEGMQFDRGYLSPYFINNQQNM
+SAELENPFILLVDKKISNIRELIPLLENVAKSGRPLLVIAEDIEGEALATLVVNNIRGVVKVAAVKAPGF
+GDRRKAMLQDIAVLTGGKVISEEVGLSLEAASLDDLGSAKRVVVTKDDTTIIDGSGDAGDIKNRVEQIRK
+EIENSSSDYDKEKLQERLAKLAGGVAVIKVGAATEVEMKEKKARVEDALHATRAAVEEGVVPGGGVALIR
+VLKSLDSVEVENEDQRVGVEIARRAMAYPLSQIVKNTGVQAAVVADKVLNHKDVNYGYNAATGEYGDMIE
+MGILDPTKVTRTALQNAASIAGLMITTECMVTEAPKKKEESMPGGGDMGGM
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The purified recombinant proteins, P1, HspB, and P1-HspB, and whole-cell antigen (WCA) of C. burnetii were used to immunize BALB/c mice. Protective immunity against Q fever was induced with a recombinant P1 antigen fused with HspB after Coxiella burnetii challenge [Ref621:Li et al., 2005].
+
+This result showed that these proteins had the ability to evoke a humoral immune response and yield specific antibodies whose reactivity increased gradually with the progression of the infection. In addition, 15 proteins on the array had higher FI values than the Coxiella outer membrane protein 1 (Com1), which is the first surface protein antigen of C. burnetii recognized by Q fever sera. This suggests that these proteins might be major seroreactive antigens of C. burnetii. [Ref4679:Wang et al., 2013]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1184">
+        <gene_name>IgM (partial)</gene_name>
+        <strain>Homo sapiens</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1020017</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:143181
+CDD:203725</xrefs>
+        <taxonomy_id>9606</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>IgM</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>112</protein_length>
+        <protein_note>Immunoglobulin (Ig) light chain, kappa type, variable (V) domain; cd04980</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|1020017|gb|AAC41922.1| IgM, partial [Homo sapiens]
+EIVMTQSPATLSVSPGERATLSCRASQSVSSNLAWYQQKPGQAPRLLIYGASTRATGIPARFSGSGSGTE
+FTLTISSLQSEDFAVYYCQQYNNWPPWTFGQGTKVEIKRTVA</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene171">
+        <gene_name>p1</gene_name>
+        <strain>Coxiella burnetii</strain>
+        <vo_id>VO_0010930</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>ACJ19787</ncbi_protein_id>
+        <gene_locus_tag>AY249911</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>ncbi protein accession number: AAP04425.1</xrefs>
+        <taxonomy_id>434924</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>outer membrane porin P1</protein_name>
+        <protein_pi>7.87</protein_pi>
+        <protein_weight>25162.44</protein_weight>
+        <protein_length>321</protein_length>
+        <protein_note>phase I</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|30025840|gb|AY249911.1| Coxiella burnetii strain Xinqiao outer membrane protein P1 gene, complete cds
+ATGGAAACAACTACAAAACTCGCCATAGGCGTTTCTGCACTATGCTGCTTAGCCAGCGCTGCCTTTGCTG
+GCGGTCCTGATATCCCCATGATTGATATGAATGGTTTTCATATCGGTTTGGGTTTTGGATATAAATCTTA
+TACCTATGATCAGGTCGGAACCGTTACAGTTACTACTAATGGGGGCACTGTTCTGAGCGTGCTTCACCCA
+GTTTCTGCTTCAATAACCCAATCTGGTCCTGTCGGTGAATTAGGTTATACCTTCGCAAGTGACTGGTGGA
+TAGCAGGTGTTAAGGCTCAATACCAGTACGATAACGTACGAAGCGTCCACATAATGGATGCACCTTTAGT
+AGGTTCTAATTATTCTTATCGAATCCGTTTGGGTTCCCACTTTACTGCTATGCTGTTAGCAGGTATTAAA
+GTAAACGAAGCTAATGCTGTTTACTTAGAAGCCGGTTATTCGACAGTGTGGGGGAAAACTACCCTCTTTG
+GTCCTGGCCCAGTTGCAGTTAGTATAAAGAATCGGCTGAACGGTGGTATCGCTGGTATCGGTTGGAGACA
+TTATTTTATGAACAATGTCTTTCTTGATCTTAGCTATGACTACGCATTGTATAGAAGTAAATCCAATAGC
+GTAACTCTCTCTTCAGCTACTGCTTCAGCAGAAGGGACGGCGATTGGCGTTTCAGGAACTGTTCAAAATC
+CGAAACGAGTCGCAATTAACGGCATTACCGCAACCGTTAATTACCTGTTCAATATCTAA</dna_sequence>
+        <protein_sequence>>ACJ19787.1 outer membrane porin P1 [Coxiella burnetii CbuK_Q154]
+METTTKLAIGVSALCCLASAAFAGGPDIPMIDMNGFHIGLGFGYKSYTYDQVGTVTVTTDGGTILSVLHP
+VSASITQFSPVGELGYTFASDWWIAGVKAQYQYDNVRSVHIMDASLVGSTYRTRLGSHLTAMLLAGIKVN
+EANAVYLEAGYSTVWGKTTLFGPGPVAVSMKNRLNGGIAGIGWRHYFMNNVFLDLSYDYALYRSKSNSVT
+LSSATASAEEAAIGVLGTVQNPKRVAINGITATVNYLFNI</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The purified recombinant proteins, P1, HspB, and P1-HspB, and whole-cell antigen (WCA) of C. burnetii were used to immunize BALB/c mice.  Protective immunity against Q fever was induced with a recombinant P1 antigen fused with HspB after Coxiella burnetii challenge [Ref621:Li et al., 2005].
+
+The identification of 37 SEPs and show that 30 react with sera from mice immunized with Cox. burnetii and sera from patients with Q fever. [Ref4899:Jiao et al., 2014]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference616">
+		<reference_name>Ackland et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ackland JR, Worswick DA, Marmion BP</authors>
+		<title>Vaccine prophylaxis of Q fever. A follow-up study of the efficacy of Q-Vax (CSL) 1985-1990</title>
+		<year>1994</year>
+		<volume>160</volume>
+		<issue>11</issue>
+		<pages>704-708</pages>
+		<journal_book_name>The Medical journal of Australia</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference599">
+		<reference_name>Akporiaye and Baca, 1983</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Akporiaye ET, Baca OG</authors>
+		<title>Superoxide anion production and superoxide dismutase and catalase activities in Coxiella burnetii</title>
+		<year>1983</year>
+		<volume>154</volume>
+		<issue>1</issue>
+		<pages>520-523</pages>
+		<journal_book_name>Journal of bacteriology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference627">
+		<reference_name>Arricau-Bouvery et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Arricau-Bouvery N, Souriau A, Bodier C, Dufour P, Rousset E, Rodolakis A</authors>
+		<title>Effect of vaccination with phase I and phase II Coxiella burnetii vaccines in pregnant goats</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>35</issue>
+		<pages>4392-4402</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference613">
+		<reference_name>Brennan et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brennan RE, Russell K, Zhang G, Samuel JE</authors>
+		<title>Both inducible nitric oxide synthase and NADPH oxidase contribute to the control of virulent phase I Coxiella burnetii infections</title>
+		<year>2004</year>
+		<volume>72</volume>
+		<issue>11</issue>
+		<pages>6666-6675</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference593">
+		<reference_name>Burton et al., 1971</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Burton PR, Kordova N, Paretsky D</authors>
+		<title>Electron microscopic studies of the rickettsia Coxiella burneti: entry, lysosomal response, and fate of rickettsial DNA in L-cells</title>
+		<year>1971</year>
+		<volume>17</volume>
+		<issue>2</issue>
+		<pages>143-150</pages>
+		<journal_book_name>Canadian journal of microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference594">
+		<reference_name>Burton et al., 1978</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Burton PR, Stueckemann J, Welsh RM, Paretsky D</authors>
+		<title>Some ultrastructural effects of persistent infections by the rickettsia Coxiella burnetii in mouse L cells and green monkey kidney (Vero) cells</title>
+		<year>1978</year>
+		<volume>21</volume>
+		<issue>2</issue>
+		<pages>556-566</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference603">
+		<reference_name>Capo et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Capo C, Lindberg FP, Meconi S, Zaffran Y, Tardei G, Brown EJ, Raoult D, Mege JL</authors>
+		<title>Subversion of monocyte functions by coxiella burnetii: impairment of the cross-talk between alphavbeta3 integrin and CR3</title>
+		<year>1999</year>
+		<volume>163</volume>
+		<issue>11</issue>
+		<pages>6078-6085</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference619">
+		<reference_name>Fries et al., 1993</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fries LF, Waag DM, Williams JC</authors>
+		<title>Safety and immunogenicity in human volunteers of a chloroform-methanol residue vaccine for Q fever</title>
+		<year>1993</year>
+		<volume>61</volume>
+		<issue>4</issue>
+		<pages>1251-1258</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference598">
+		<reference_name>Hackstadt and Williams, 1981</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hackstadt T, Williams JC</authors>
+		<title>Biochemical stratagem for obligate parasitism of eukaryotic cells by Coxiella burnetii</title>
+		<year>1981</year>
+		<volume>78</volume>
+		<issue>5</issue>
+		<pages>3240-3244</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference624">
+		<reference_name>Hackstadt et al., 1985</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hackstadt T, Peacock MG, Hitchcock PJ, Cole RL</authors>
+		<title>Lipopolysaccharide variation in Coxiella burnetti: intrastrain heterogeneity in structure and antigenicity</title>
+		<year>1985</year>
+		<volume>48</volume>
+		<issue>2</issue>
+		<pages>359-365</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4899">
+		<reference_name>Jiao et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jiao J, Xiong X, Qi Y, Gong W, Duan C, Yang X, Wen B</authors>
+		<title>Serological characterization of surface-exposed proteins of Coxiella burnetii</title>
+		<year>2014</year>
+		<volume>160</volume>
+		<issue>Pt 12</issue>
+		<pages>2718-2731</pages>
+		<journal_book_name>Microbiology (Reading, England)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference620">
+		<reference_name>Johnson et al., 1977</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Johnson JW, McLeod CG, Stookey JL, Higbee GA, Pedersen CE Jr</authors>
+		<title>Lesions in guinea pigs infected with Coxiella burnetii strain M-44</title>
+		<year>1977</year>
+		<volume>135</volume>
+		<issue>6</issue>
+		<pages>995-998</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference606">
+		<reference_name>Langley et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Langley JM, Marrie TJ, Leblanc JC, Almudevar A, Resch L, Raoult D</authors>
+		<title>Coxiella burnetii seropositivity in parturient women is associated with adverse pregnancy outcomes</title>
+		<year>2003</year>
+		<volume>189</volume>
+		<issue>1</issue>
+		<pages>228-232</pages>
+		<journal_book_name>American journal of obstetrics and gynecology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference621">
+		<reference_name>Li et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li Q, Niu D, Wen B, Chen M, Qiu L, Zhang J</authors>
+		<title>Protective immunity against Q fever induced with a recombinant P1 antigen fused with HspB of Coxiella burnetii</title>
+		<year>2005</year>
+		<volume>1063</volume>
+		<issue></issue>
+		<pages>130-142</pages>
+		<journal_book_name>Annals of the New York Academy of Sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference602">
+		<reference_name>Mege et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mege JL, Maurin M, Capo C, Raoult D</authors>
+		<title>Coxiella burnetii: the 'query' fever bacterium. A model of immune subversion by a strictly intracellular microorganism</title>
+		<year>1997</year>
+		<volume>19</volume>
+		<issue>4</issue>
+		<pages>209-217</pages>
+		<journal_book_name>FEMS microbiology reviews</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference597">
+		<reference_name>Ohkuma and Poole, 1978</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ohkuma S, Poole B</authors>
+		<title>Fluorescence probe measurement of the intralysosomal pH in living cells and the perturbation of pH by various agents</title>
+		<year>1978</year>
+		<volume>75</volume>
+		<issue>7</issue>
+		<pages>3327-3331</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference600">
+		<reference_name>Ormsbee, 1969</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ormsbee RA</authors>
+		<title>Rickettsiae (as organisms)</title>
+		<year>1969</year>
+		<volume>23</volume>
+		<issue></issue>
+		<pages>275-292</pages>
+		<journal_book_name>Annual review of microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference607">
+		<reference_name>Palmer et al., 1983</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Palmer NC, Kierstead M, Key DW, Williams JC, Peacock MG, Vellend H</authors>
+		<title>Placentitis and Abortion in Goats and Sheep in Ontario Caused by Coxiella burnetii</title>
+		<year>1983</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<pages>60-61</pages>
+		<journal_book_name>The Canadian veterinary journal. La revue veterinaire canadienne</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference631">
+		<reference_name>Robinson and Hasty, 1974</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Robinson DM, Hasty SE</authors>
+		<title>Production of a potent vaccine from the attenuated M-44 strain of Coxiella burneti</title>
+		<year>1974</year>
+		<volume>27</volume>
+		<issue>4</issue>
+		<pages>777-783</pages>
+		<journal_book_name>Applied microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference612">
+		<reference_name>Shannon et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shannon JG, Howe D, Heinzen RA</authors>
+		<title>Virulent Coxiella burnetii does not activate human dendritic cells: role of lipopolysaccharide as a shielding molecule</title>
+		<year>2005</year>
+		<volume>102</volume>
+		<issue>24</issue>
+		<pages>8722-8727</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference610">
+		<reference_name>Stoker and Marmion, 1955</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Stoker MG, Marmion BP</authors>
+		<title>The spread of Q fever from animals to man; the natural history of a rickettsial disease</title>
+		<year>1955</year>
+		<volume>13</volume>
+		<issue>5</issue>
+		<pages>781-806</pages>
+		<journal_book_name>Bulletin of the World Health Organization</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference596">
+		<reference_name>Tigertt et al., 1961</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tigertt WD, Beneson AS, Gochenour WS</authors>
+		<title>Airborne Q fever</title>
+		<year>1961</year>
+		<volume>25</volume>
+		<issue></issue>
+		<pages>285-293</pages>
+		<journal_book_name>Bacteriological reviews</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference614">
+		<reference_name>Turco et al., 1984</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Turco J, Thompson HA, Winkler HH</authors>
+		<title>Interferon-gamma inhibits growth of Coxiella burnetii in mouse fibroblasts</title>
+		<year>1984</year>
+		<volume>45</volume>
+		<issue>3</issue>
+		<pages>781-783</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference625">
+		<reference_name>Waag et al., 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Waag DM, England MJ, Pitt ML</authors>
+		<title>Comparative efficacy of a Coxiella burnetii chloroform:methanol residue (CMR) vaccine and a licensed cellular vaccine (Q-Vax) in rodents challenged by aerosol</title>
+		<year>1997</year>
+		<volume>15</volume>
+		<issue>16</issue>
+		<pages>1779-1783</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference626">
+		<reference_name>Waag et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Waag DM, England MJ, Tammariello RF, Byrne WR, Gibbs P, Banfield CM, Pitt ML</authors>
+		<title>Comparative efficacy and immunogenicity of Q fever chloroform:methanol residue (CMR) and phase I cellular (Q-Vax) vaccines in cynomolgus monkeys challenged by aerosol</title>
+		<year>2002</year>
+		<volume>20</volume>
+		<issue>19-20</issue>
+		<pages>2623-2634</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference592">
+		<reference_name>Waag, 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Waag DM</authors>
+		<title>Coxiella burnetii: Host and bacterial responses to infection</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>42</issue>
+		<pages>7288-7295</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference608">
+		<reference_name>Waldhalm et al., 1978</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Waldhalm DG, Stoenner HG, Simmons RE, Thomas LA</authors>
+		<title>Abortion associated with Coxiella burnetii infection in dairy goats</title>
+		<year>1978</year>
+		<volume>173</volume>
+		<issue>12</issue>
+		<pages>1580-1581</pages>
+		<journal_book_name>Journal of the American Veterinary Medical Association</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4679">
+		<reference_name>Wang et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang X, Xiong X, Graves S, Stenos J, Wen B</authors>
+		<title>Protein array of Coxiella burnetii probed with Q fever sera</title>
+		<year>2013</year>
+		<volume>56</volume>
+		<issue>5</issue>
+		<pages>453-459</pages>
+		<journal_book_name>Science China. Life sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference618">
+		<reference_name>Williams and Cantrell, 1982</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Williams JC, Cantrell JL</authors>
+		<title>Biological and immunological properties of Coxiella burnetii vaccines in C57BL/10ScN endotoxin-nonresponder mice</title>
+		<year>1982</year>
+		<volume>35</volume>
+		<issue>3</issue>
+		<pages>1091-1102</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference609">
+		<reference_name>Williams and Thompson, 1991</reference_name>
+		<reference_type>book</reference_type>
+		<authors>Williams JC, Thompson HA</authors>
+		<title>Methods for isolation, amplification, and purification of Coxiella burnetii</title>
+		<year>1991</year>
+		<volume></volume>
+		<issue></issue>
+		<pages>73-115</pages>
+		<journal_book_name>Q Fever: The Biology of Coxiella burnetii</journal_book_name>
+		<publisher>CRC Press</publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference865">
+		<reference_name>Williams et al., 1990</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Williams JC, Hoover TA, Waag DM, Banerjee-Bhatnagar N, Bolt CR, Scott GH</authors>
+		<title>Antigenic structure of Coxiella burnetii. A comparison of lipopolysaccharide and protein antigens as vaccines against Q fever</title>
+		<year>1990</year>
+		<volume>590</volume>
+		<issue></issue>
+		<pages>370-380</pages>
+		<journal_book_name>Annals of the New York Academy of Sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4849">
+		<reference_name>Xiong et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xiong X, Qi Y, Jiao J, Gong W, Duan C, Wen B</authors>
+		<title>Exploratory study on Th1 epitope-induced protective immunity against Coxiella burnetii infection</title>
+		<year>2014</year>
+		<volume>9</volume>
+		<issue>1</issue>
+		<pages>e87206</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference611">
+		<reference_name>Zamboni et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zamboni DS, Campos MA, Torrecilhas AC, Kiss K, Samuel JE, Golenbock DT, Lauw FN, Roy CR, Almeida IC, Gazzinelli RT</authors>
+		<title>Stimulation of toll-like receptor 2 by Coxiella burnetii is required for macrophage production of pro-inflammatory cytokines and resistance to infection</title>
+		<year>2004</year>
+		<volume>279</volume>
+		<issue>52</issue>
+		<pages>54405-54415</pages>
+		<journal_book_name>The Journal of biological chemistry</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

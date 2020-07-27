@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen14">
+		<pathogen_name>Clostridium botulinum </pathogen_name>
+		<taxon_id>1491</taxon_id>
+		<pathogenesis refs="reference101">The botulinum neurotoxin is a metalloproteinase that enters nerve cells and blocks neurotransmitter release by zinc-dependent cleavage of protein components of the neuroexocytosis apparatus. Specifically, botulinum toxin types A and E target a protein known as SNAP-25, and toxin types B, D, F, and G target the protein VAMP/synaptobrevin. Toxin C targets both SNAP-25 and syntaxin. Target protein cleavage significantly disrupts release of the neurotransmitter acetylcholine. In its native state, this neurotoxin is bound to nontoxic proteins, which greatly enhances toxin molecular stability. Botulinum toxin introduced into the body (potentially by a number of mechanisms but most commonly by absorption from the gastrointestinal tract) is carried throughout the body by the bloodstream. Toxin binds to nerve-ending receptors, becomes internalized within the neuron, and causes an irreversible blockade of cholinergic transmission at the following sites: all ganglionic synapses, all postganglionic parasympathetic synapses, and all neuromuscular junctions. The far-reaching results at these sites include widespread flaccid paralysis and potentially devastating autonomic nervous system perturbations (PathPort).</pathogenesis>
+		<disease_name>Botulism</disease_name>
+		<protective_immunity refs="reference109">Inhibition of BoNT action at any of the key steps of the BoNT pathogenesis process outlined above could abolish the onset of botulism. Protective antibody immune response against specific BoNT toxin types is required to protect against different BoNT toxin types in botulism infections.  The administration of antitoxin is the only specific pharmacologic treatment available for botulism (Byrne et al., 2000).</protective_immunity>
+		<host_range refs="reference101">The following animal models have been established:  binding of the progenitor toxins and recombinant proteins to human erythrocytes, binding experiments of the progenitor toxins and recombinant proteins to paraformaldehyde-fixed sections of guinea pig upper small intestine, wound botulism in mice using an inoculum of Clostridium botulinum type A spores, a rat model of localized disuse induced by the Clostridium botulinum toxin,  and the rat as an animal model for infant botulism (PathPort).</host_range>
+		<introduction refs="reference101">The threat posed by botulism, classically a food- and waterborne disease with a high morbidity and mortality, has increased exponentially in an age of bioterrorism. Because botulinum neurotoxin (BoNT) could be easily disseminated by terrorists using an aerosol or could be used to contaminate the food or water supply, the Centers for Disease Control and Prevention and the National Institute of Allergy and Infectious Diseases has classified it as a category A agent. In 1895, a botulism outbreak after a funeral dinner with smoked ham in the small Belgian village of Ellezelles led to the discovery of the pathogen Clostridium botulinum by Emile Pierre van Ermengem, Professor of bacteriology at the University of Ghent. The bacterium was so called because of its pathological association with the sausages (Latin word for sausage - &quot;botulus&quot;) and not-as it was suggested-because of its shape. Modern botulinum toxin treatment was pioneered by Alan B. Scott and Edward J. Schantz. Over 100 years ago, the classic food-borne type was found to be caused by ingesting contaminated food containing the toxin produced by a bacteria. In the first half of the 20th century a second form, wound botulism, was discovered. Three additional forms (infant, hidden, and inadvertent) were first described in the last quarter of the 20th century. Botulism is today divided into 5 clinical forms: classic or food-borne botulism, infant botulism, wound botulism, hidden botulism, and inadvertent botulism. BoNTs are serologically differentiated according to their neutralization with type-specific antitoxins into seven serotypes, designated by the letters A through G. Based on the toxin type produced, C. botulinum strains are divided in groups I to IV, with groups I and II being the main human pathogens. Group I consists of proteolytic types A, B, and F, and group II consists of nonproteolytic types B, E, and F. The two groups are completely different in their phenotypical characteristics, such as temperature requirements, biochemical profile, and production of metabolites. Types C and D provoke botulism in animal species, including the avian form. All eight neurotoxins (BoNT/A to BoNT/G and TeTx (tetanus toxin)) are synthesized as a single-chain, 150,000 Da molecule which subsequently becomes nicked to the more potent dichain form, composed of a heavy (H) (approximately 100,000 Da) chain and a light (L) (50,000 Da) chain polypeptide linked by at least one disulfide bridge (PathPort). </introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine74">
+		<vaccine_name>BoNT/A(Hc) </vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004074</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference107">The botulinum neurotoxins (BoNT) are the causative agents of botulism and represent a family of seven structurally similar but antigenically distinct serotypes (A to G). These toxins exert their action by blocking release of the neurotransmitter acetylcholine at the neuromuscular junction. BoNT are usually expressed in as a single polypeptide chain and then post-translationally nicked, forming a dichain consisting of a 100-kDa heavy chain and a 50-kDa light chain held together by a single disulfide bond. Topologically, these neurotoxins are composed of three domains: binding, translocation, and catalytic, each of which is believed to play a role in intoxication. The carboxy-terminal portion of the heavy chain is responsible for binding nerve cell receptor(s). After toxin binding, it is thought to be internalized into an endosome through receptor-mediated endocytosis. It is believed that the 50-kDa amino-terminal domain of the heavy chain possesses channel-forming capabilities when in the acidic environment of the endosome, allowing internalization of the toxin. The final step in the mechanism involves zinc-dependent proteolysis by the catalytic domain of key cytosolic substrates necessary for neurotransmitter release (Byrne et al., 1998). </description>
+		<adjuvant refs="reference107">0.2% Alhydrogel (Superfos Biosector, Kvistgaard, Denmark) (Byrne et al., 1998).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference107">(Byrne et al., 1998)</virulence>
+		<preparation refs="reference107">After fermentation and cell disruption, BoNT/A(Hc) was purified by using a three-step chromatographic process consisting of expanded-bed chromatography, Mono S cation-exchange chromatography, and hydrophobic interaction chromatography (Byrne et al., 1998).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering74" gene_id="gene75">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response76" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Cr1:CD-1 (ICR) mice (Charles River).</host_strain>
+			<vaccination_protocol refs="reference107">Each of 10 mice per group was injected one to three times with 0.01, 0.1, 0.5, 1.0, or 2.0 µg FPLC-purified BoNT/A(Hc). Multiple injections were given 14 days apart. Two days before challenge, mice were bled retro-orbitally for ELISA and serum neutralization testing (Byrne et al., 1998). </vaccination_protocol>
+			<persistence refs="reference107">ELISA titers for individual mice successfully predicted survival. When the titers were at least 1600, 98.8% of the mice survived. When the titers were 100 or less, mice had only a 14.3% survival rate (Byrne et al., 1998).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference107">In general, multiple injections protected better than one, with complete or nearly complete protection realized at doses of 0.5 µg/mouse (Byrne et al., 1998).</protection_efficacy>
+			<side_effects refs="reference107">None noted (Byrne et al., 1998).</side_effects>
+			<challenge_protocol refs="reference107">Mice were challenged 21 days after the last injection with 1,000 mouse i.p. LD50 of BoNT/A toxin complex diluted in GPB in a total volume of 100 µl per mouse. Mice were observed daily, and deaths were recorded 5 days post-challenge (Byrne et al., 1998).</challenge_protocol>
+			<description refs="reference107">Inhibition of BoNT action at a key step of the process could abolish the onset of botulism. One approach to developing a vaccine against botulism would be to construct and express a gene encoding only the binding domain of BoNT [BoNT(Hc)] and purify the translated product. This material, when administered to an organism, would not cause botulism because it lacks the enzyme and should not be able to enter the nerve cell without the translocation domain. Antibodies toward the product which neutralize BoNT serotype A (BoNT/A) toxicity when the host is directly challenged could be produced. Currently, a toxoid vaccine against BoNT serotypes A to E is used. However, there are inherent problems with the toxoid. The product consists of a crude extract of clostridial proteins. The material is dangerous to produce, and there is a high cost associated with preparing the toxoid vaccine. The toxoid also contains formalin, which is very painful for the recipient. Finally, only five of the seven serotypes are represented in the formulation. Thus, the aim of the present work was to develop a process for isolating a highly immunogenic recombinant BoNT(Hc) which could protect animals against a direct challenge of BoNT and that would be cheaper and less dangerous to produce. Ultimately, the developed process will be licensed as a vaccine (Byrne et al., 1998).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine78">
+		<vaccine_name>BoNT/B(Hc)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004077</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference110">Botulinum neurotoxins (BoNT) are a group of seven (A–G) antigenically distinct proteins produced by Clostridium botulinum, a gram-positive, spore-forming, obligate anaerobic bacillus found in soil and marine sediments from all parts of the world. BoNTs inhibit the release of acetylcholine (ACH) at the synapse of motor neurons, which initially causes muscle weakness, progressing to flaccid paralysis, subsequent ventilatory failure, and death. This can happen at very low concentrations of BoNT (10−9 g/kg), making the toxin one of the most potent poisons known.The most common exposures to BoNT are food-borne, infant, and wound botulism. The likely mode of delivery of BoNT in bio-warfare or terrorist scenarios is through aerosol delivery. Toxicity from BoNT can be lethal without early detection and intensive supportive therapy. Trivalent equine-based antitoxins (A, B, and E) are available and are used clinically to neutralize and clear BoNT from the circulatory system. A number of different products have been proposed as candidate vaccines against BoNT. For BoNT to express its deleterious effects, sequential mechanistic events are carried out by three discrete structural domains of the protein. The BoNT exert toxicity only after they bind specifically to a neuron receptor at the neuromuscular junction. This receptor-toxin complex is then internalized within a vesicle followed by translocation of a portion of the toxin into the neuronal cytosol. This part of the molecule is responsible for the inherent toxicity that arises from its endoprotease activity on neurovesicle transport proteins. Once enzymatically inactivated by the toxin, these &quot;SNARE&quot; proteins cannot facilitate ACH-containing neurovesicles docking to the plasma membrane at the neuromuscular junction. This inhibits the vesicle from expelling its contents (ACH) into the synaptic space. The different toxin events are brought about by distinct protein domains of the holotoxin that are nearly equal in mass, which have been structurally and functionally defined. The holotoxin, approximately 150 kDa, consists of a heavy chain (approximately 100 kDa) that extends from the carboxy terminus to a disulfide bridge where the light chain (approximately 50 kDa) is attached. The receptor-binding domain is found in the carboxy portion of the heavy chain known as the C fragment or HC region. The remaining fragment of the heavy chain is known as the HN and, with the carboxy terminus of the light chain, spans the disulfide bridge to comprise the translocation domain, which facilitates light-chain entry into the neuronal cytoplasm. The light chain contains the zinc-dependent endoprotease domain responsible for inactivating docking proteins, inhibiting exocytosis, and the inherent toxicity of BoNT. Because BoNT toxicity is neuro-specific and enzymatic, while substrate is limited, relatively few molecules of BoNT are necessary to inhibit neurovesicle docking and expulsion. A number of regions of the BoNT have been investigated and cloned for potential use as immunogens for recombinant vaccine candidates A and B serotypes. The C fragment of BoNT was a logical choice for a vaccine candidate based on its native function, immunogenicity, and lack of observed signs of toxicity (Boles et al., 2006).</description>
+		<adjuvant refs="reference110">Alhydrogel (aluminium hydroxide gel adjuvant, HCI Biosector, Frederikssund, Denmark, 2% stock concentration (Lot No. 3174)) at 0.2% in 0.8% normal saline is the adjuvant (Boles et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference110">(Boles et al., 2006)</virulence>
+		<preparation refs="reference110">Purified rBoNTB(Hc) vaccine (Lot No. 0490) was produced under current Good Manufacturing Practices at the Department of Biologics Research, Pilot Bio-Production Facility, Walter Reed Army Institute of Research, Forest Glen, MD. The pilot production lot of rBoNTB(HC) was expressed by the yeast vector Pichia pastoris, producing an intracellular protein product that was subsequently highly purified to yield a product of 2.34 g of rBoNTB(HC) per 6 kg wet yeast mass. Final dilutions to a 0.5 ml injection volume was made with the addition of 0.8% normal sterile saline (Boles et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response77" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus monkeys (Macaca mulatta)</host_strain>
+			<vaccination_protocol refs="reference110">Twenty-eight monkeys were randomly chosen to receive either vehicle (Alhydrogel only, n=2) or 1 μg (n=6) or 5 μg (n=6) of the recombinant vaccine. All animals received the same lot no. of rBoNTB(Hc) vaccine or vehicle, administered 3 times, 4 weeks apart, in the thigh, in a final volume of 0.5 ml saline, all of which contained a final concentration of 0.2% alhydrogel adjuvant. The challenge phase consisted of 14 monkeys that were aerosol challenged with BoNTB as described below at 6 weeks after the last vaccine dose. The remaining 14 animals were treated identically with the exception that blood was drawn at more distant time points for the duration of immunity phase of the study and were not challenged. Phlebotomies and aerosol exposures were performed under light anesthesia via tiletamine-zolazepam ( Boles et al., 2006).                  </vaccination_protocol>
+			<persistence refs="reference110">ELISA and SNA titers in non-human primates demonstrated a response for up to 2 years. In addition, the rBoNTB(HC) vaccine candidate produced SNA titers that were protective for at least the monkeys at 14 week from the first phase, whether these same or higher titers are protective for the second phase monkeys up to 2 years was not assessed ( Boles et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference110">All rhesus monkeys inoculated with either 1 or 5 μg of rBoNTB(Hc) survived the aerosol challenge at 14 weeks after the first injection ( Boles et al., 2006).</protection_efficacy>
+			<side_effects refs="reference110">Daily observations by the veterinary staff revealed no adverse reactions to the recombinant vaccine itself, consistent with the findings of other studies evaluating rBoNT(HC) vaccines for other serotypes (Boles et al., 2006).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference110">A number of different products have been proposed as candidate vaccines against BoNT and some, including BoNTB(Hc), use a development strategy based on known structure activity relationships. For BoNT to express its deleterious effects, sequential mechanistic events are carried out by three discrete structural domains of the protein. The BoNT exert toxicity only after they bind specifically to a neuron receptor at the neuromuscular junction. This receptor-toxin complex is then internalized within a vesicle followed by translocation of a portion of the toxin into the neuronal cytosol. This part of the molecule is responsible for the inherent toxicity that arises from its endoprotease activity on neurovesicle transport proteins. Once enzymatically inactivated by the toxin, the SNARE proteins cannot facilitate ACH-containing neurovesicles docking to the plasma membrane at the neuromuscular junction. This, in effect, inhibits the vesicle from expelling its contents (ACH) into the synaptic space.
+
+The different toxin events are brought about by distinct protein domains of the holotoxin that are nearly equal in mass, which have been structurally and functionally defined. The holotoxin, approximately 150 kDa, consists of a heavy chain (approximately 100 kDa) that extends from the carboxy terminus to a disulfide bridge where the light chain (approximately 50 kDa) is attached. The receptor-binding domain is found in the carboxy portion of the heavy chain known as the C fragment or HC region. The remaining fragment of the heavy chain is known as the HN and, with the carboxy terminus of the light chain, spans the disulfide bridge to comprise the translocation domain, which facilitates light-chain entry into the neuronal cytoplasm. The light chain contains the zinc-dependent endoprotease domain responsible for inactivating docking proteins, inhibiting exocytosis, and the inherent toxicity of BoNT. Because BoNT toxicity is neuro-specific and enzymatic, while substrate is limited, relatively few molecules of BoNT are necessary to inhibit neurovesicle docking and expulsion ( Boles et al., 2006).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine91">
+		<vaccine_name>BoNT/C</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004004</vo_id>
+		<type>Toxoid vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference133">Botulism, caused by Clostridium botulinum type C, is one of the most important diseases of wild waterfowl. During outbreaks, management usually consists of collection and disposal of sick and dead birds to reduce the amount of carcass material that can act as substrate for further toxin production. Immunization might be used to reduce the risk of re-intoxication in treated waterfowl. Immunization has been used to protect
+pheasants (Phasianus colchicus), broiler chickens, and other birds (Martinez et al., 1999).</description>
+		<adjuvant refs="reference133">An aluminum adjuvant (Martinez et al., 1999).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference133">(Martinez et al., 1999)</virulence>
+		<preparation refs="reference133">The vaccine used was a bacterin-toxoid vaccine prepared from a pure culture of C. botulinum type C, inactivated with formalin and combined with 
+adjuvant (Martinez et al., 1999).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response107" host_id="host9">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">mallards (Anas platyrhynchos) and Northern pintails (anas acuta)</host_strain>
+			<vaccination_protocol refs="reference133">Three separate trials were conducted. In Trial I, 60 adult male mallards were divided randomly into two groups of 30. Each bird in the immunized group was injected on the dorsum of the lower neck with 1 ml of vaccine. The 30 control birds were injected with 1 ml of sterile 0.85% saline at the same site. On days 5, 10 and 15 post-immunization, a sub-group of 10 immunized birds and a subgroup of 10 control birds were moved to a separate room and each bird was given approximately 4.5 x 10^4 mouse lethal doses (MLD50) of type C botulinum toxin by gastric intubation. The birds were then observed several times each day. Clinical signs of botulism were recorded as Stage I (bird is able to walk but has paresis or ataxia), Stage II (bird has difficulty walking, often using the wings to assist, but is able to evade capture and can reach food and water), or Stage III (bird is prostrate and paralyzed). Birds in Stage III were euthanized by overexposure to anaesthetic, and a necropsy was performed (Martinez et al., 1999).</vaccination_protocol>
+			<persistence refs="reference133">In Trials I and II, protection was not evident at 5 days but developed by 10 days pi and appeared to persist for 90 days (Martinez et al., 1999).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference133">The results of Trials I and II confirm that a single dose of toxoid vaccine will provide significant protection to ducks against botulism. Approximately 85% of the immunized mallards and pintails did not have any clinical signs of botulism when challenged at 10 and 15 d, while all of the control birds had clinical botulism (Martinez et al., 1999).</protection_efficacy>
+			<side_effects refs="reference133">None noted (Martinez et al., 1999)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference133">The purpose of the study was to determine the protection afforded by a single dose of a commercially available vaccine given to ducks under experimental conditions, and to test the effectiveness of simultaneous administration of antitoxin and vaccine to intoxicated birds, as might be done under field conditions (Martinez et al., 1999).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine76">
+		<vaccine_name>BoNT/F(Hc)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004076</vo_id>
+		<type>Toxoid vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference109">A separate monovalent toxoid vaccine against BoNTF was manufactured for the U.S. Army by Porton Products Limited in cooperation with the United Kingdom Governments Center for Applied Microbiology and Research (CAMR) in 1990 ( Byrne et al., 2000).</description>
+		<adjuvant refs="reference109">Aluminum hydroxide ( Byrne et al., 2000).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference109">Even though toxoid vaccines are available, there are numerous shortcomings with their current use and ease of production.  First, because C. botulinum is a spore-former, a dedicated facility is required to manufacture a toxin-based product.  The requirement for a dedicated manufacturing facility is not trivial.  It is extremely costly to renovate and upgrade an existing facility or to build a new one and then to maintain the facility in accordance with current Good Manufacturing Practices (cGMP) to manufacture one vaccine.  Second, the yields of toxin production from C. botulinum are relatively low.  Third, the toxoid-producing process involves handling large quantities of toxin and thus is dangerous, and the added safety precautions increase the cost of manufacturing.  Fourth, the toxoid product for types A-E consists of a crude extract of clostridial proteins that may influence immunogenicity or reactivity of the vaccine, and the type F toxoid is only partially purified (IND 5077).  Fifth, because the toxoid-producing process involves the use of formaldehyde, which inactivates the toxin, and residual levels of formaldehyde (not to exceed 0.02%) are part of the product formulation to prevent reactivation of the toxin, the vaccine is reactogenic.  An additional component of the toxoid vaccines is the preservative thimerosal (0.01%), which also increases the reactogenicity of the product ( Byrne et al., 2000).</virulence>
+		<preparation refs="reference109">The vaccine batch no. 002/90 was derived from pooling three production lots of C. botulinum F toxin.  The harvested toxin (i.e. by acid precipitation, tangential flow filtration, and centrifugation) from each of three fermentation runs was pooled and the type F toxin extracted with sodium phosphate buffer (PBS).  After ribonuclease treatment, the toxin was further purified by ammonium sulfate precipitation, and repeated fractionation on fast liquid column chromatography on a fast flow Q Sepharose column.  Unlike the toxoid (estimated toxoid purity of 10%), the purity of the type F botulinum toxoid Lot no. 002/90 was greater than 60% (IND 5077).  The partially purified F toxin was formalin-detoxified and adsorbed to adjuvant ( Byrne et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response106" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference124">Mice were injected with 50 μl inoculum into each hind leg of each mouse.  All mice were tail bled for sera 1 day prior to toxin challenge.  Mice were then challenged i.p. with 10^4 MLD of type F C. botulinum toxin (BoNT/F).  Mice were challenged 28 d after their final vaccination.  Untreated groups of age-matched mice were used as controls (Jathoul et al., 2004).</vaccination_protocol>
+			<persistence refs="reference124">(Jathoul et al., 2004)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference124">BoNT/F DNA vaccine provided 90% protection against 10^4 MLD BoNT/F in mice following two immunizations with 100 μg DNA (Jathoul et al., 2004).</protection_efficacy>
+			<side_effects refs="reference124">None were noted (Jathoul et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference124">A vaccine consisting of inactivated C. botulinum culture supernatants has been produced to provide military personnel with protection against BoNTs A, B, C, D and E.  However, disadvantages associated with this vaccine include its expense and requirement for frequent boosters to maintain protection, as well as its efficacy against only 5 of the 7 BoNT types.  Thus, new generation botulinum vaccines are being investigated, including the use of non-toxic BoNT Hc fragments as antigens.  More recently, DNA vaccines encoding BoNT/A Hc and type F botulinum neurotoxin Hc fragment (BoNT/F Hc) have been evaluated as candidate next generation botulism vaccines.  Such DNA vaccines may be optimized in terms of the regulatory elements used to drive expression of BoNT Hc (Jathoul et al., 2004).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine983">
+		<vaccine_name>C. botulinum DNA vaccine pSCARSA/BHc</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004166</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pSCAR DNA replicon expression vector [Ref1071:Yu et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference1071">Clostridium botulinum neurotoxin serotypes A (BoNT/A) and B (BoNT/B) (Yu et al., 2009)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1505" gene_id="gene449">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1506" gene_id="gene448">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1561" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1071">Vaccinated mice were challenged with doses of 1000 and 10,000 LD50 of BoNT/A and BoNT/B, and immune protection was observed.  100% of mice (8/8) survived in the group challenged with 1000 LD50, which was significantly higher protection than that of the single pSCARSAHc or pSCARSBHc-vaccinated mice groups, and 87.5% of mice (7/8) survived in the group challenged with 10,000 LD50 (Yu et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine897">
+		<vaccine_name>C. botulinum FHc protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011504</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Complete Freund adjuvant (Sigma)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">C. botulinum FHc</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering371" gene_id="gene446">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1068">A new gene encoding the Hc domain of Clostridium botulinum neurotoxin serotype F (FHc) was designed and completely synthesized with oligonucleotides. A soluble recombinant Hc of C. botulinum neurotoxin serotype F was highly expressed in Escherichia coli with this synthetic FHc gene (Yu et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response655" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1068">Female BALB/c mice (specific pathogen free), 6 weeks of age, were randomly assigned to different groups. In the first vaccination study, groups of six mice were vaccinated with 1 or 10 μg of FHc. The FHc protein in phosphate-buffered saline (PBS) was mixed 50:50 with complete Freund adjuvant (Sigma) for the first vaccination and with incomplete Freund adjuvant (Sigma) for the second or third vaccinations. Each mouse was treated with 0.4 ml of the material in either two (days 0 and 14) or three vaccinations (days 0, 14, and 28) via the subcutaneous route. Each vaccination group was repeated once. In the second vaccination study, groups of six mice were vaccinated intramuscularly (i.e., in each thigh quadriceps bilaterally) with either one, two, or three doses of 0.04, 0.2, 1, or 5 μg of FHc. Vaccine was diluted in 25% (vol/vol) Alhydrogel (Sigma), and injections were administered at 3-week intervals (100 μl/injection). For a negative control, PBS instead of the antigen was mixed with the adjuvant. The mice were tail bled for sera before each immunization or neurotoxin challenge (Yu et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1068">Purified FHc was used to vaccinate mice and evaluate their survival against challenge with active botulinum neurotoxin serotype F (BoNT/F).  Mice that received one injection of 5 microg or two injections of &gt;or=0.04 microg of FHc were completely protected (Yu et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1068">Mice were challenged intraperitoneally (i.p.) with 2 × 10^3 or 2 × 10^4 50% lethal doses (LD50) of BoNT/F (Langeland strain, from the National Institute for the Control of Pharmaceutical and Biological Products) 2 weeks after the last vaccination. The mice were observed for 1 week, and death or survival was recorded (Yu et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine88">
+		<vaccine_name>HC of type C and D</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004084</vo_id>
+		<type>Subunit vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference125">Type C and D toxins provoke botulism in many animal species, including birds. C. botulinum type C organisms have been isolated from the contents of the gastric tract of the carcass and environmental materials such as soil, maggots, food, and/or straw mats. At present, the most widely available vaccine for humans and animals is formalin-inactivated toxoids. Although these are very effective, they are expensive and time-consuming to prepare and are ssomewhat hazardous during detoxification. To solve these problems, a recombinant vaccine has been considered ( Arimitsu et al., 2004).</description>
+		<adjuvant refs="reference125">Aluminum hydroxide ( Arimitsu et al., 2004).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference125">(Arimitsu et al., 2004)</virulence>
+		<preparation refs="reference125">The C. botulinum type C strain, C-Stockholm (C-St), and the type D strain, D-1873, were used for the production and purification of type C and D toxins, respectively ( Arimitsu et al., 2004).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response100" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">ddY</host_strain>
+			<vaccination_protocol refs="reference125">Male 6- to 8-week-old ddY strain mice ,purchased from Shimizu Laboratory Supplies Co., Ltd. (Kyoto, Japan), were immunized according to protocol. As a negative control, PBS instead of the antigen was mixed with the adjuvant. Each antigen solution was injected s.c. into the dorsal side of the mice (0.1 ml). At 3 weeks post-immunization, a second immunization was performed. Partial bleeding was performed via the tail vein (mice) at 3 and 5 weeks after the primary immunization, and the specific antibody titers were checked by ELISA and Western blotting tests ( Arimitsu et al., 2004).</vaccination_protocol>
+			<persistence refs="reference125">(Arimitsu et al., 2004)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">The mice were challenged with lethal doses of the 16 S toxins. All 5 mice immunized with type C-H chain survived a 10^5 mouse i.p. MLD of C-16 S toxin with no symptoms. However, 4/6 mice challenged with a 10^6 mouse i.p. MLD died, and the 2 surviving mice showed severe botulism. On the other hand, all 5 mice immunized with type D-H chain were completely protected even though they were challenged with a 10^6 mouse i.p. MLD of D-16 S toxin. When the mice that survived the challenge with type C and D toxins were then cross-challenged with 10 mouse i.p. MLD of D and C toxins, respectively, no mice survived.</protection_efficacy>
+			<side_effects refs="reference125">None were noted (Arimitsu et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference125">Since it appears to be difficult to prepare a large amount of recombinant whole neurotoxin, the study attempted to prepare recombinant HC containing the histidine (His) tag of types C and D, and the vaccine effects were analyzed in mice ( Arimitsu et al., 2004).</description>
+		</host_response>
+		<host_response host_response_id="host_response105" host_id="host9">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">The ducks were a cross of Japanese Mallard and Khaki Cambell, male and female, 3 weeks old, and were purchased from the Takahashi Hatching Farm (Osaka, Japan). </host_strain>
+			<vaccination_protocol refs="reference125">Male and female 3-week-old ducks (a cross of Japanese Mallard and Khaki Cambell, purchased from the Takahashi Hatching Farm in Osaka, Japan) were immunized with 0.2 ml dorsal injections. As a negative control, PBS instead of the antigen was mixed with the adjuvant. At 3 weeks post-immunization, a second immunization was performed. Partial bleeding was performed via the basilic vein at 3 and 5 weeks after the primary immunization, and the specific antibody titers were checked by ELISA and Western blotting tests (Arimitsu et al., 2004).</vaccination_protocol>
+			<persistence refs="reference125">(Arimitsu et al., 2004)</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference125">All 7 immunized ducks resisted the challenge with 10 duck i.v. MLD, but the survival rate decreased to 5/7 (71.4%) and 4/7 (57.1%) when the birds were challenged with 10^2 and 10^3 duck i.v. MLD (Arimitsu et al., 2004).</protection_efficacy>
+			<side_effects refs="reference125">None were noted (Arimitsu et al., 2004).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference125">Type C and D toxins provoke botulism in many animal species, including the avian form. In Japan, some farmers have used ducks, named &quot;Aigamo&quot; in Japanese, which are cross strain of Japanese Mallard and Khaki Campbell, for reducing the chemicals in the rice. Young ducks are released into a rice field to exterminate harmful insects or unwanted plants, grow up during the rice crop, and are used as meats after the completion of the harvest. However, a few hundred ducks died of botulism in a certain area of Ishikawa prefecture. These ducks showed symptoms of leg and wing paralysis and became weak and listless. C. botulinum type C organisms were isolated from the contents of the GI tract of the carcass and environmental materials such as soil, maggots, food, and/or straw mats. A study of vaccination in ducks ensued (Arimitsu et al., 2004).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2886">
+		<vaccine_name>Mink Distemper-Enteritis Modified Live &amp; Killed Virus Vaccine-Clostridium Botulinum Type C Bacterin-Toxoid (USDA: 4929.31)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>United Vaccines, Inc.</manufacturer>
+		<vo_id>VO_0001833</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2889">
+		<vaccine_name>Mink Distemper-Enteritis Modified Live &amp; Killed Virus Vaccine-Clostridium Botulinum Type C-Pseudomonas Aeruginosa Bacterin-Toxoid (USDA: 4949.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001834</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2893">
+		<vaccine_name>Mink Distemper-Enteritis Modified Live &amp; Killed Virus Vaccine-Clostridium Botulinum Type C-Pseudomonas Aeruginosa Bacterin-Toxoid (USDA: 4949.31)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>United Vaccines, Inc.</manufacturer>
+		<vo_id>VO_0001835</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2883">
+		<vaccine_name>Mink Distemper-Enteritis Modified Live Virus &amp; Killed Virus Vaccine-Clostridium Botulinum Type C Bacterin-Toxoid (USDA: 4929.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001836</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2896">
+		<vaccine_name>Mink Enteritis Killed Virus Vaccine-Clostridium Botulinum Type C Bacterin-Toxoid (USDA: 4955.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001837</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2898">
+		<vaccine_name>Mink Enteritis Killed Virus Vaccine-Clostridium Botulinum Type C Bacterin-Toxoid (USDA: 4955.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>United Vaccines, Inc.</manufacturer>
+		<vo_id>VO_0001838</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2900">
+		<vaccine_name>Mink Enteritis Killed Virus Vaccine-Clostridium Botulinum Type C-Pseudomonas Aeruginosa Bacterin-Toxoid (USDA: 49A5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001839</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2903">
+		<vaccine_name>Mink Enteritis Killed Virus Vaccine-Clostridium Botulinum Type C-Pseudomonas Aeruginosa Bacterin-Toxoid (USDA: 49A5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>United Vaccines, Inc.</manufacturer>
+		<vo_id>VO_0001840</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine108">
+		<vaccine_name>pABFHc2 </vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004099</vo_id>
+		<type>DNA vaccine</type>
+		<status></status>
+		<vector>pSecTag2C [Ref127:Bennett et al., 2003]</vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference127">Previous research achieved protection in a murine model using purified FHc which had been obtained from cultures of recombinant Escherichia coli and recombinant Pichia pastoris. FHc has also been expressed in a Salmonella vector and achieved protection against intoxication in a murine model. Therefore, BoNT F could constitute a good candidate for DNA vaccination, and the given study constructed a DNA vaccine based on the Hc domain of BoNT subtype F in order to investigate the utility of DNA vaccination for protection against intoxication with this subtype (Bennett et al., 2003).</description>
+		<adjuvant refs="reference127">aplasmid DNA (100 μg per dose) was formulated with bupivacaine hydrochloride (0.25%; Astra Pharmaceuticals Ltd., Kings Langley, UK) in PBS in a volume of 100 μl per dose (Bennett et al., 2003).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference127">DNA encoding the binding domain of BoNT subtype F (FHc) was obtained as the plasmid clone pHILD4.New.FHc. Recombinant plasmid DNA was purified using Endofree Mega-Q kits (Qiagen Ltd.). Cells were analysed for expression of FHc 24 h after transfection as follows: cells were fixed in 4% paraformaldehyde at 4 °C overnight, then washed in PBS and incubated in PBS containing 2% saponin and 10% foetal calf serum (PBS-SFCS) for 2 h at 37 °C. Primary antibody, from mice immunised with pABFHc2 and boosted with recombinant FHc protein, was diluted 1:500 in PBS-SFCS and incubated with fixed cells for 1 h at 37 °C. Following washing, anti-mouse IgG conjugated to fluorescein isothiocyanate was added and the incubation was continued for a further hour at 37 °C. The cells were washed in PBS and were visualised by fluorescent confocal microscopy (Bennett et al., 2003).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response136" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Balb/c mice (female, 6–8-week-old).</host_strain>
+			<vaccination_protocol refs="reference127">Mice were injected with 50 μl and received up to five vaccinations. For protein boosting of DNA-vaccinated mice, E. coli-derived MBP-FHc was formulated in alhydrogel (20% (v/v)). A single dose of 5 μg in a volume of 100 μl was administered by i.p. injection. Blood was taken from a tail vein 12 days after each injection for serum antibody analysis by enzyme-linked immunosorbent assay (ELISA). All mice were microchipped in order to monitor antibody response and survival of individual animals. Mice were challenged with a purified preparation containing 10^4 MLD of botulinum toxin serotype F by i.p. injection (Bennett et al., 2003). </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference127">A minimum of three vaccinations with pABFHc2, given over a 4-week period, were sufficient to protect 100% of mice against the  high challenge dose (10^4 MLD of BoNT type F). Two doses of pABFHc2 protected up to 90% of vaccinated animals. A single dose of pABFHc2 protected 60% of mice when challenged with toxin at least 28 days after vaccination (Bennett et al., 2003).</protection_efficacy>
+			<side_effects refs="">None noted.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference127">Vaccination with DNA encoding the Hc domain of botulinum neurotoxin subtype A has been attempted but had limited success; thus a clinically viable DNA vaccine for subtype A was not achieved. BoNT F is serologically distinct from A and the amino acid sequences of type F toxins from different strains of Clostridia fall into a distinct phylogenetic group. Type F toxin cleaves VAMP (vesicle associated membrane protein), whereas BoNT A cleaves SNAP-25. Protection in a murine model has been previously achieved using purified FHc which had been obtained from cultures of recombinant Escherichia coli and recombinant Pichia pastoris. FHc was also expressed in a Salmonella vector and achieved protection against intoxication in a murine model. Therefore, BoNT F could constitute a good candidate for DNA vaccination. A DNA vaccine was constructed based on the Hc domain of BoNT subtype F in order to investigate the utility of DNA vaccination for protection against intoxication with this subtype (Bennett et al., 2003).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine75">
+		<vaccine_name>PBT</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004075</vo_id>
+		<type>Toxoid vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference109">Currently, a pentavalent botulinum toxoid (PBT) against serotypes A-E is used to immunize specific populations of at-risk individuals. The manufacture of PBT, by the Michigan Department of Public Health (MDPH), took place in stages and over many years. The fermentation, isolation, purification and detoxification steps for each serotype took place in the late 1960s and early 1970s. The monovalent bulks were completed in 1971, and first packaged in 1978. Investigational New Drug (IND) status was granted for the PBT under the CDC's IND 161 (at risk workers) and under the United States Army's Office of Surgeon General IND 3723 (for military deployment). The MDPH product was studied and used as an investigational vaccine from 1979 until the present time.
+An effort is ongoing on the part of the US Army to obtain Food and Drug Administration (FDA) licensure for the PBT lots PBP003 and PBP004. For licensure of the PBT, FDA required that a pivotal clinical trial be performed to re-evaluate safety and assess immunogenicity of the toxoid,and that a new lot of toxoid be manufactured to demonstrate reproducibility and robustness of the manufacturing process and consistency of the manufactured product. The final report on the pivotal clinical study was expected in June 2000. This study will have evaluated, in a significant number of participants, the protective immunogenicity of all 5 serotype vaccines with respect to their homologous neurotoxins. Results from this pivotal study and the status of a new-generation, recombinant vaccine will be factors in deciding whether to proceed with a new lot of toxoid ( Byrne et al., 2000).</description>
+		<adjuvant refs="reference109">Aluminum hydroxide ( Byrne et al., 2000).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference109">Even though toxoid vaccines are available, there are numerous shortcomings with their current use and ease of production. First, because C. botulinum is a spore-former, a dedicated facility is required to manufacture a toxin-based product. The requirement for a dedicated manufacturing facility is not trivial. It is extremely costly to renovate and upgrade an existing facility or to build a new one and then to maintain the facility in accordance with current Good Manufacturing Practices (cGMP) to manufacture one vaccine. Second, the yields of toxin production from C. botulinum are relatively low. Third, the toxoiding process involves handling large quantities of toxin and thus is dangerous, and the added safety precautions increase the cost of manufacturing. Fourth, the toxoid product for types A-E consists of a crude extract of clostridial proteins that may influence immunogenicity or reactivity of the vaccine, and the type F toxoid is only partially purified (IND 5077). Fifth, because the toxoiding process involves the use of formaldehyde, which inactivates the toxin, and residual levels of formaldehyde (not to exceed 0.02%) are part of the product formulation to prevent reactivation of the toxin, the vaccine is reactogenic. An additional component of the toxoid vaccines is the preservative thimerosal (0.01%), which also increases the reactogenicity of the product ( Byrne et al., 2000).</virulence>
+		<preparation refs="reference109">The toxoid was manufactured by initially culturing C. botulinum serotypes A-E to produce crude preparations of neurotoxins. The toxins were separated from the culture fluid by acid precipitation overnight in the cold then separated from the supernatant fluid by filtration and/or centrifugation. The precipitated toxin was washed, extracted, and filtered to remove any particulate material.  Toxins were again precipitated, filter-sterilized, and detoxified by adding formalin. Residual formalin was left in the vaccine products to ensure that the neurotoxins remained non-toxic. Monovalent vaccines were then adsorbed to the adjuvant and blended into a pentavalent vaccine ( Byrne et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response99" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Homo sapiens</host_strain>
+			<vaccination_protocol refs="reference109">Primary series of three immunizations of 0.5 ml were administered to immunize personnel considered to be at risk for botulism in the laboratory of this given study at 0, 2, and 12 weeks, with the third immunization given 10 weeks after the second. The initial booster is given 12 months after the first immunization of the primary series, and additional boosters are administered annually (Byrne et al., 2000).</vaccination_protocol>
+			<persistence refs="reference109">Immunological response indicated that 61 to 83% of the study subjects met the criteria for a booster dose at 1 year because of their low antitoxin levels (i.e. &lt; 0.10 IU/mL) at 6 months. One hundred percent of the subjects boosted at 1 year developed high concentrations of protective antitoxin by day 56 post-boost, and protective levels (≥ 0.02 IU/mL) persisted for at least 360 days in all subjects (Byrne et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference109">After the primary series of 3 immunizations, 21/23 persons tested (91%) had a titer for type A that was 20.08 international units (IU)/ml, and 18 (78%) had a titer for type B of 0.02 IU/ml. Just before the first annual booster, 10/21 (48%) and 14/21 (67%) people lacked a detectable titer for type A and for type B, respectively. After the first booster, all individuals tested had a demonstrable titer to both types A and B. Of 77 persons who had previously received from 1-8 boosts of the toxoid, 74 (96%) had an A titer of 0.25 IU/ml (Byrne et al., 2000).</protection_efficacy>
+			<side_effects refs="reference109">None were noted.  At a pre-IND meeting on April 9, 1999, held to review the recombinant BoNT(HC) vaccines, a CBER panel voiced concern as to the potential of our putative HC vaccine to cause adverse neurological reactions or disorders due to its nature of binding to specific receptors on cholinergic nerve cells (Byrne et al., 2000).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference109">PBT was produced by MDPH in 1969-1971 and bottled under contract to the US Army in 1978. Lot A-2, manufactured to contain less residual formaldehyde (Byrne et al., 2000).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine82">
+		<vaccine_name>VRP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004078</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference118">The development of multi-agent vaccines offers the advantage of eliciting protection against multiple diseases with minimal inoculations over a shorter time span. Formulations consisted of individual Venezuelan equine encephalitis (VEE) virus replicon-vectored vaccines against a bacterial disease (anthrax), a viral disease (Marburg fever), and a toxin-mediated disease (botulism). The individual VEE replicon particles (VRP) expressed mature 83-kDa protective antigen (MAT-PA) from Bacillus anthracis, the glycoprotein (GP) from Marburg virus (MBGV), or the H(C) fragment from botulinum neurotoxin (BoNT H(C)) ( Lee et al., 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="reference118">(Lee et al., 2006)</virulence>
+		<preparation refs="reference118">Construction begins with the VEE replicon vector, the capsid helper, and the glycoprotein helper, which contains attenuating mutations. Construction, characterization, and assembly of the replicons into VRP for the BoNT/A HC, the anthrax MAT-PA replicon, the MBGV-GP replicon, and the negative control comprising mutagenized staphylococcal enterotoxin B (mSEB) replicon were then prepared. The BoNT/C HC gene was PCR-cloned into the VEE replicon plasmid by using Cla I restriction enzyme recognition sequence—gene specific primers. The VRP titers are expressed as focus-forming units (FFU) where 1 FFU is equivalent to 1 infectious unit (iu) ( Lee et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response93" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Swiss, CBA/J</host_strain>
+			<vaccination_protocol refs="">Swiss and CBA/J mice were inoculated behind the neck with either a single VRP or with a mixture of VRPs at a dose of 10^7 iu of each VRP in 200 μl of PBS on days 0, 35, and 70. The mice were challenged i.p. on d 105 or 164 with 1000 50% median lethal doses (MLD50) of BoNT/A or BoNT/C diluted in PBS containing 0.2% gelatin, respectively. CBA/J mice were challenged s.c. on d 105 with 10 LD50 units (2 × 10^8 spores) of heat-shocked spores of the Sterne strain of B. anthracis. Positive control mice were inoculated with 0.1 ml of anthrax vaccine adsorbed (AVA, Bioport Corp., Lansing, MI) or with 0.1 ml of pentavalent botulinum toxoid vaccine, and negative control mice were inoculated with mSEB VRP, and all were used as controls for the challenges. As a comparison, the dose of AVA or toxoid vaccine administered to humans is 0.5 ml. Sera for ELISA were obtained 2 d before each inoculation and 2 d before challenge.</vaccination_protocol>
+			<persistence refs="reference118">The quality (i.e. neutralizing verses non-neutralizing antibody activity) of the anti-C/HC antibody response was considerably better than the anti-A/HC antibody response measured for CBA/J mice or that the BoNT/C circulated in the animals for longer periods before entering neurons thus allowing more time for antibody-mediated neutralization of the toxin in the animal after challenge (Lee et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference118">Inoculation of Swiss mice on d 0, 35, and 70 with 10^7 iu of BoNT/A HC VRP, either alone or in combinations with MAT-PA or MBGV-GP, or with all three VRP vaccines, completely protected the mice from challenge with BoNT/A. CBA/J mice inoculated with BoNT/A HC VRP were 90% protected from a BoNT/A challenge, whereas a mix of BoNT/A HC and MAT-PA VRP poorly protected the animals (2/10 survived) from the same BoNT/A challenge ( Lee et al., 2006).</protection_efficacy>
+			<side_effects refs="reference118">No adverse reactions or side effects were noted in mice receiving individual or combination VRP vaccines ( Lee et al., 2006).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference118">Increased concerns about the use of biological agents in acts of terrorism and warfare have also increased the need for the rapid development of vaccines against a wide range of bacteria, toxins, and viruses. The NIAID has classified biological organisms and toxins that could be used in bioterrorism and biowarfare as category A, B, or C priority pathogens. In response, current studies involve a multiagent vaccine that utilizes the VEE virus replicon as a vector for BoNT, anthrax, and MBGV, all of which are classified as category A pathogens ( Lee et al., 2006).</description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene448">
+        <gene_name>BoNT/A1 from C. botulinum A str. Hall</gene_name>
+        <strain>Clostridium botulinum A str. Hall</strain>
+        <vo_id>VO_0010903</vo_id>
+        <ncbi_gene_id>5398487</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>153936924</ncbi_protein_id>
+        <gene_locus_tag>CLC_0862</gene_locus_tag>
+        <gene_refseq>CP000727</gene_refseq>
+        <protein_refseq>YP_001386738</protein_refseq>
+        <pdb_id>3NF3</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>441771</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>882202</gene_start>
+        <gene_end>886092</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>botulinum neurotoxin type A1</protein_name>
+        <protein_pi>6.31</protein_pi>
+        <protein_weight>142277.54</protein_weight>
+        <protein_length>1296</protein_length>
+        <protein_note>identified by similarity to SP:P10845; similarity to SP:P30996; match to protein family HMM PF01742; match to protein family HMM PF07951; match to protein family HMM PF07952; match to protein family HMM PF07953</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_009698.1:882202-886092 Clostridium botulinum A str. Hall chromosome, complete genome
+TATGCCATTTGTTAATAAACAATTTAATTATAAAGATCCTGTAAATGGTGTTGATATTGCTTATATAAAA
+ATTCCAAATGCAGGACAAATGCAACCAGTAAAAGCTTTTAAAATTCATAATAAAATATGGGTTATTCCAG
+AAAGAGATACATTTACAAATCCTGAAGAAGGAGATTTAAATCCACCACCAGAAGCAAAACAAGTTCCAGT
+TTCATATTATGATTCAACATATTTAAGTACAGATAATGAAAAAGATAATTATTTAAAGGGAGTTACAAAA
+TTATTTGAGAGAATTTATTCAACTGATCTTGGAAGAATGTTGTTAACATCAATAGTAAGGGGAATACCAT
+TTTGGGGTGGAAGTACAATAGATACAGAATTAAAAGTTATTGATACTAATTGTATTAATGTGATACAACC
+AGATGGTAGTTATAGATCAGAAGAACTTAATCTAGTAATAATAGGACCCTCAGCTGATATTATACAGTTT
+GAATGTAAAAGCTTTGGACATGAAGTTTTGAATCTTACGCGAAATGGTTATGGCTCTACTCAATACATTA
+GATTTAGCCCAGATTTTACATTTGGTTTTGAGGAGTCACTTGAAGTTGATACAAATCCTCTTTTAGGTGC
+AGGCAAATTTGCTACAGATCCAGCAGTAACATTAGCACATGAACTTATACATGCTGGACATAGATTATAT
+GGAATAGCAATTAATCCAAATAGGGTTTTTAAAGTAAATACTAATGCCTATTATGAAATGAGTGGGTTAG
+AAGTAAGCTTTGAGGAACTTAGAACATTTGGGGGACATGATGCAAAGTTTATAGATAGTTTACAGGAAAA
+CGAATTTCGTCTATATTATTATAATAAGTTTAAAGATATAGCAAGTACACTTAATAAAGCTAAATCAATA
+GTAGGTACTACTGCTTCATTACAGTATATGAAAAATGTTTTTAAAGAGAAATATCTCCTATCTGAAGATA
+CATCTGGAAAATTTTCGGTAGATAAATTAAAATTTGATAAGTTATACAAAATGTTAACAGAGATTTACAC
+AGAGGATAATTTTGTTAAGTTTTTTAAAGTACTTAACAGAAAAACATATTTGAATTTTGATAAAGCCGTA
+TTTAAGATAAATATAGTACCTAAGGTAAATTACACAATATATGATGGATTTAATTTAAGAAATACAAATT
+TAGCAGCAAACTTTAATGGTCAAAATACAGAAATTAATAATATGAATTTTACTAAACTAAAAAATTTTAC
+TGGATTGTTTGAATTTTATAAGTTGCTATGTGTAAGAGGGATAATAACTTCTAAAACTAAATCATTAGAT
+AAAGGATACAATAAGGCATTAAATGATTTATGTATCAAAGTTAATAATTGGGACTTGTTTTTTAGTCCTT
+CAGAAGATAATTTTACTAATGATCTAAATAAAGGAGAAGAAATTACATCTGATACTAATATAGAAGCAGC
+AGAAGAAAATATTAGTTTAGATTTAATACAACAATATTATTTAACCTTTAATTTTGATAATGAACCTGAA
+AATATTTCAATAGAAAATCTTTCAAGTGACATTATAGGCCAATTAGAACTTATGCCTAATATAGAAAGAT
+TTCCTAATGGAAAAAAGTATGAGTTAGATAAATATACTATGTTCCATTATCTTCGTGCTCAAGAATTTGA
+ACATGGTAAATCTAGGATTGCTTTAACAAATTCTGTTAACGAAGCATTATTAAATCCTAGTCGTGTTTAT
+ACATTTTTTTCTTCAGACTATGTAAAGAAAGTTAATAAAGCTACGGAGGCAGCTATGTTTTTAGGCTGGG
+TAGAACAATTAGTATATGATTTTACCGATGAAACTAGCGAAGTAAGTACTACGGATAAAATTGCGGATAT
+AACTATAATTATTCCATATATAGGACCTGCTTTAAATATAGGTAATATGTTATATAAAGATGATTTTGTA
+GGTGCTTTAATATTTTCAGGAGCTGTTATTCTGTTAGAATTTATACCAGAGATTGCAATACCTGTATTAG
+GTACTTTTGCACTTGTATCATATATTGCGAATAAGGTTCTAACCGTTCAAACAATAGATAATGCTTTAAG
+TAAAAGAAATGAAAAATGGGATGAGGTCTATAAATATATAGTAACAAATTGGTTAGCAAAGGTTAATACA
+CAGATTGATCTAATAAGAAAAAAAATGAAAGAAGCTTTAGAAAATCAAGCAGAAGCAACAAAGGCTATAA
+TAAACTATCAGTATAATCAATATACTGAGGAAGAGAAAAATAATATTAATTTTAATATTGATGATTTAAG
+TTCGAAACTTAATGAGTCTATAAATAAAGCTATGATTAATATAAATAAATTTTTGAATCAATGCTCTGTT
+TCATATTTAATGAATTCTATGATCCCTTATGGTGTTAAACGGTTAGAAGATTTTGATGCTAGTCTTAAAG
+ATGCATTATTAAAGTATATATATGATAATAGAGGAACTTTAATTGGTCAAGTAGATAGATTAAAAGATAA
+AGTTAATAATACACTTAGTACAGATATACCTTTTCAGCTTTCCAAATACGTAGATAATCAAAGATTATTA
+TCTACATTTACTGAATATATTAAGAATATTATTAATACTTCTATATTGAATTTAAGATATGAAAGTAATC
+ATTTAATAGACTTATCTAGGTATGCATCAAAAATAAATATTGGTAGTAAAGTAAATTTTGATCCAATAGA
+TAAAAATCAAATTCAATTATTTAATTTAGAAAGTAGTAAAATTGAGGTAATTTTAAAAAATGCTATTGTA
+TATAATAGTATGTATGAAAATTTTAGTACTAGCTTTTGGATAAGAATTCCTAAGTATTTTAACAGTATAA
+GTCTAAATAATGAATATACAATAATAAATTGTATGGAAAATAATTCAGGATGGAAAGTATCACTTAATTA
+TGGTGAAATAATCTGGACTTTACAGGATACTCAGGAAATAAAACAAAGAGTAGTTTTTAAATACAGTCAA
+ATGATTAATATATCAGATTATATAAACAGATGGATTTTTGTAACTATCACTAATAATAGATTAAATAACT
+CTAAAATTTATATAAATGGAAGATTAATAGATCAAAAACCAATTTCAAATTTAGGTAATATTCATGCTAG
+TAATAATATAATGTTTAAATTAGATGGTTGTAGAGATACACATAGATATATTTGGATAAAATATTTTAAT
+CTTTTTGATAAGGAATTAAATGAAAAAGAAATCAAAGATTTATATGATAATCAATCAAATTCAGGTATTT
+TAAAAGACTTTTGGGGTGATTATTTACAATATGATAAACCATACTATATGTTAAATTTATATGATCCAAA
+TAAATATGTCGATGTAAATAATGTAGGTATTAGAGGTTATATGTATCTTAAAGGGCCTAGAGGTAGCGTA
+ATGACTACAAACATTTATTTAAATTCAAGTTTGTATAGGGGGACAAAATTTATTATAAAAAAATATGCTT
+CTGGAAATAAAGATAATATTGTTAGAAATAATGATCGTGTATATATTAATGTAGTAGTTAAAAATAAAGA
+ATATAGGTTAGCTACTAATGCATCACAGGCAGGCGTAGAAAAAATACTAAGTGCATTAGAAATACCTGAT
+GTAGGAAATCTAAGTCAAGTAGTAGTAATGAAGTCAAAAAATGATCAAGGAATAACAAATAAATGCAAAA
+TGAATTTACAAGATAATAATGGGAATGATATAGGCTTTATAGGATTTCATCAGTTTAATAATATAGCTAA
+ACTAGTAGCAAGTAATTGGTATAATAGACAAATAGAAAGATCTAGTAGGACTTTGGGTTGCTCATGGGAA
+TTTATTCCTGTAGATGATGGATGGGGAGAAAGGCCACTGTA
+
+</dna_sequence>
+        <protein_sequence>>YP_001386738.1 botulinum neurotoxin type A1 [Clostridium botulinum A str. Hall]
+MPFVNKQFNYKDPVNGVDIAYIKIPNAGQMQPVKAFKIHNKIWVIPERDTFTNPEEGDLNPPPEAKQVPV
+SYYDSTYLSTDNEKDNYLKGVTKLFERIYSTDLGRMLLTSIVRGIPFWGGSTIDTELKVIDTNCINVIQP
+DGSYRSEELNLVIIGPSADIIQFECKSFGHEVLNLTRNGYGSTQYIRFSPDFTFGFEESLEVDTNPLLGA
+GKFATDPAVTLAHELIHAGHRLYGIAINPNRVFKVNTNAYYEMSGLEVSFEELRTFGGHDAKFIDSLQEN
+EFRLYYYNKFKDIASTLNKAKSIVGTTASLQYMKNVFKEKYLLSEDTSGKFSVDKLKFDKLYKMLTEIYT
+EDNFVKFFKVLNRKTYLNFDKAVFKINIVPKVNYTIYDGFNLRNTNLAANFNGQNTEINNMNFTKLKNFT
+GLFEFYKLLCVRGIITSKTKSLDKGYNKALNDLCIKVNNWDLFFSPSEDNFTNDLNKGEEITSDTNIEAA
+EENISLDLIQQYYLTFNFDNEPENISIENLSSDIIGQLELMPNIERFPNGKKYELDKYTMFHYLRAQEFE
+HGKSRIALTNSVNEALLNPSRVYTFFSSDYVKKVNKATEAAMFLGWVEQLVYDFTDETSEVSTTDKIADI
+TIIIPYIGPALNIGNMLYKDDFVGALIFSGAVILLEFIPEIAIPVLGTFALVSYIANKVLTVQTIDNALS
+KRNEKWDEVYKYIVTNWLAKVNTQIDLIRKKMKEALENQAEATKAIINYQYNQYTEEEKNNINFNIDDLS
+SKLNESINKAMININKFLNQCSVSYLMNSMIPYGVKRLEDFDASLKDALLKYIYDNRGTLIGQVDRLKDK
+VNNTLSTDIPFQLSKYVDNQRLLSTFTEYIKNIINTSILNLRYESNHLIDLSRYASKINIGSKVNFDPID
+KNQIQLFNLESSKIEVILKNAIVYNSMYENFSTSFWIRIPKYFNSISLNNEYTIINCMENNSGWKVSLNY
+GEIIWTLQDTQEIKQRVVFKYSQMINISDYINRWIFVTITNNRLNNSKIYINGRLIDQKPISNLGNIHAS
+NNIMFKLDGCRDTHRYIWIKYFNLFDKELNEKEIKDLYDNQSNSGILKDFWGDYLQYDKPYYMLNLYDPN
+KYVDVNNVGIRGYMYLKGPRGSVMTTNIYLNSSLYRGTKFIIKKYASGNKDNIVRNNDRVYINVVVKNKE
+YRLATNASQAGVEKILSALEIPDVGNLSQVVVMKSKNDQGITNKCKMNLQDNNGNDIGFIGFHQFNNIAK
+LVASNWYNRQIERSSRTLGCSWEFIPVDDGWGERPL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice and rabbits were immunized with recombinant HCR/A1 (rHCR/A1) from the classical type A-Hall strain (ATCC 3502) (BoNT/A1) and rHCR/E from BoNT serotype E Beluga (BoNT/E(B)).  The protection elicited by rHCR/A1 to BoNT/A1 and BoNT/A2 and by rHCR/E(B) to BoNT/E(A) indicate that immunization with receptor binding domains elicit protection within sub-serotypes of BoNT [Ref1070:Baldwin et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene449">
+        <gene_name>BoNT/B</gene_name>
+        <strain>Clostridium botulinum B1 str. Okra</strain>
+        <vo_id>VO_0010904</vo_id>
+        <ncbi_gene_id>6030102</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>169834607</ncbi_protein_id>
+        <gene_locus_tag>CLD_A0068</gene_locus_tag>
+        <gene_refseq>AB232927</gene_refseq>
+        <protein_refseq>YP_001693307</protein_refseq>
+        <pdb_id>1S0F</pdb_id>
+        <xrefs>CDD:279999
+CDD:285227
+CDD:285228
+CDD:285226</xrefs>
+        <taxonomy_id>498213</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid>pCLD</plasmid>
+        <gene_start>42316</gene_start>
+        <gene_end>46191</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>botulinum neurotoxin type B</protein_name>
+        <protein_pi>4.97</protein_pi>
+        <protein_weight>145339.54</protein_weight>
+        <protein_length>1291</protein_length>
+        <protein_note>Clostridial neurotoxin zinc protease; pfam01742</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_010379.1:42316-46191 Clostridium botulinum B1 str. Okra plasmid pCLD, complete sequence
+ATTATTCAGTCCACCCTTCATCTTTAGGAATAAACTGCCAATTACATCCCAATTTTAAATTATATGGTTT
+CCTTTTTACCTCTTTTAAGTACCATTTACTTATACAAAAATAATCTTTATACTCTTCAAATACAATTCCA
+GATTCGTAGAAACGATGAATACCAATCAATCCTATCTCATCAGTACTTTCTTCATCTTTTTTAAAAAGCA
+ACTGACAACTATATGTTGGCTGTTCATCATATTCTTTTATTTGTATAGTATTGTAAAACTCATCAGAATC
+ACTTATAGGAGCTAAAAACAATTTTTCTTCCTCTTTCTTAAAATATTTATAGGTATATACTCTCCACTCT
+TGATTTAAATTAAAAAAATCTAGATATATATAATCTTCTTTTCTAACTATATCATCATTTATAGATTGAG
+AATTTGACTTTCTTCTTATAATAAATTTTTCTCCAATATATAAATCTCTATAATTTATATATTTAGAATT
+TTGATTATATTTGCTACGTGTTAAAATTTCACCTACAGGTGAATCTTTCTTTAGTTTAATATATGAATTT
+TTATTCCCCGCATTAAACATATAATATTCTTTATTGTACATTAAAGGATTTCCCCAAAAATCTTTTAAAT
+ATTCGCTATATGATTGAATTTTATATCTTTCTTCAATATTTGATTGACTTAATTCCGTATTAAAAATACT
+GAAATATTTCATCCAAATAAATTGTGTTCTATCTATATCACCATCTAATTTAAATATTATTTCACCATTA
+GCAATAACTTCTCTTATATCTTTAATATCTGTATTTGATTCTAGCTTACCATTAATATAAATTTTAGCGT
+TATTCAAATTATTAGTAATAGTTACAAAAAACCATCTATTTATATACTCTGATATATCTTCTCTTATGTT
+ATATTCAAAAAATACCGATTTGGTTTTTCCATTTATATCAATTAAAGTCCATATTATCCTATTACCCCTA
+ATAGATATTTTCCAGCCCGAATTATTTTTCATACAATTAATTATTGTATATTCATTATGAATATAATTTT
+GTATACCATCATTCTTATATTTAGGTATTCTTATCCAAAAGCTAACGCTAAAATCAAGGAACACACTATT
+AAATATGATATTCTGATTTTGAGTCACTCTAATCTTACTATTTGCTGAACTAGTTAATTTAAATTGATTT
+TTATCATTAAGCTCGACTCCATCATATACCTCTACCTTTGCCCCATATCCTGATAAATCTATTAAATTAT
+TATCCTTATATCTTAAATTTAAGATAATATTATTTAAAATTTCGCTATTATATTTATTAAACATTTCTAT
+TAGTATTGTATCATTGGTATATATTGAAAGATCAAACGGCATAATGGTTTTCAAGTATTTATTTACTTTT
+GATTTTTCATATTCTGCACTTCCAATCAAATATAATTTATTTTCATCTATATAATTTAACAAATTTTTTT
+TGAGAGTATTATCAAAGTCTAGTAATTTTTCTACAGCTAATGGAATCATTTTTTTCATTAAATATGATAC
+AGAACATCCATTTATAAAATTATTTATATTATCTATAGCTTGGTTAATACCCTCATTAAGTTTAGAATTT
+ATATCATTAAAATCGATGTTAATATTTGACTTTTCTTTTTCAGAATATATATTATATCTGTATTTTATTA
+TTTCTTCCAATGCTTGTGCTTGATAATTTAAAGCCTTATACATTCCCTCTTTTATTGTATAAAATTGAGT
+ATTAACTGTTGAGAGCCATTGCGCTACTATTAATCCGTACATATCACTCCATTTTTCATTTCTTTTAGTT
+AAAGCATTATCTATTGTTTTAATAATTTTATTTTTATTGTCAATATATGATTCTAATAAAAAGGCTCCAA
+CTACAGGTATTAAAAGTTCTGGTATAAATTCTAGTAGAATACTGGCTCCTGCAATCTCAAAAGCATTTTC
+AAAATTTCCTTTAGCTGTTTCATTTCCTACATTTAAAGCTAATCCTATATAAGGAACAATTAGAGATATA
+TCTGCAATTTTATCCATAGTATTGCTTTTATTAGCTTCGATTACAAAATCATTTACTATCTGTTTCACCC
+AACCTGCAAATAATCCTGCTTCTACCACTTTATTAGCAGTTTTAATATAATCCATAGAAAAAAATGAATA
+AACTTTGTTAGAAAATAATAATGCATCATCAAATGAAGATGTTAAACTTATATCTCTTATATCTAGAGGA
+AATGTCTGAGAGTATAAATATTGAAAGATGGTATTTTCATCTGTAAAAATTTTTTTTATAGCGGGTTGTT
+TTTCATATACTGGAACATCTACATTAAAATCAGTAAGTGATTCTGTATTTTCACTTGGTAATTCTATTTT
+ACTTATTAAATCAGTATCTAAAATTAATTCATTTATAGGGAAGTCATTTTCTATATAATTACTCTGTGTA
+TTATATTCTATTCTTTCGTTTTTAGATAAATCATCTGAAAAACTATTTTTATCAGCTATAAAGAACAAAT
+CTTCATTATCAACATCAATACATATTCCTGGAGCTTTAACACTTTTACACATTTGTATCTTATATACAGC
+CAAATGCTCCTTGCTAATTTCTTCATAAGCTTGTTTATTTATAGCTTTATTCTGACCTCTATATTCTTTT
+TCCATATCTTTATCAGATATATTAAACCCTTCCTCTATAGTATAGATTTCATTATCTAATAAATTTTTTA
+TTTTTACTGGTGGTAAGGAATCACTAAAATAAGAAGCTCTAGTTTTTATTTTATAATTTTCTGCTATATT
+AGTTTCTGTAAAACCAAACATTAAGCTTTTATATAATTTATCAAAACTTTCTACATCTATACTATATTTT
+CCCTCAGAATCTTCAACGAATTTATATTTATCTTTAAATTTATTTTTATATATATTAATATTAATGTTAG
+GATCTGATATGCAAACTAAAACCTTGTTAAGTCTATCAACTATCCCTCTAAAATTTTGCAAAACTTTATC
+ATAGATACTTTTATCCGTAGAAGGAGTTATGATGCTGGGATCTTGTCCTCCAAATGTATATAGTTCTTCT
+GCCTGTATAGCATCTGTAGATTGCATAAAAAATTTTTTTTCATTTGGTACAATTGGTAAATCATCTACTT
+TAATGCCATATAATCCATGTAAAACATGTATAAGTTCATGCATTAATATCAAGGCTGGATCTGAAAAATA
+TCCACGTCTATTAAATATACTTGCGCCTTTGTTTTCTTGAACATTATTAAATACGCTTACATATTCTGGG
+CAAAACTTCATTTGCATTATACCCCCGAAGCCTTCCCTTGATGCAAAATGATTTTGTATACCTATATCTA
+TAGTCTCATTTTCATTTAAAACTGGCCCAGGTCCAAATATTATTAAATTTGCGAAAATACCTTTTTTTCG
+CTCCACTTCTCCTGGATTACTGATTAATTTATTAACAGTTACACTAGCAATGTTTGTGTTAAACTCTTCG
+AGTGGAACACGTCTATCTCCAAGATAAGGTATACCATTTATAATCATCTCTAATAACTTTTCACCCAATG
+GTTTTGATTTGATTCTATTAAATAACTTGATCATTGTTTGTAAAAATATATTCTTTTTATCATTAGTATT
+TAAGTAATCTGGATCATAATATTCACAAACATCTCTATTAAAAATACCGGAACTTTTATTAAAATCCTCA
+GGTTTATATCCAAAAGTATATCTTTCCGGTATTATCCAAATACGATCTGTGATTTTAAAAGCTTTATAAT
+ATCTCCCCGTACCTCTCGCAAATGGAGGCTCCATCATAATAATATTATTATTATCAATAGGATCATTATA
+ATTAAAATTATTTATTGTAACTGGCA
+
+</dna_sequence>
+        <protein_sequence>>YP_001693307.1 botulinum neurotoxin type B (plasmid) [Clostridium botulinum B1 str. Okra]
+MPVTINNFNYNDPIDNNNIIMMEPPFARGTGRYYKAFKITDRIWIIPERYTFGYKPEDFNKSSGIFNRDV
+CEYYDPDYLNTNDKKNIFLQTMIKLFNRIKSKPLGEKLLEMIINGIPYLGDRRVPLEEFNTNIASVTVNK
+LISNPGEVERKKGIFANLIIFGPGPVLNENETIDIGIQNHFASREGFGGIMQMKFCPEYVSVFNNVQENK
+GASIFNRRGYFSDPALILMHELIHVLHGLYGIKVDDLPIVPNEKKFFMQSTDAIQAEELYTFGGQDPSII
+TPSTDKSIYDKVLQNFRGIVDRLNKVLVCISDPNININIYKNKFKDKYKFVEDSEGKYSIDVESFDKLYK
+SLMFGFTETNIAENYKIKTRASYFSDSLPPVKIKNLLDNEIYTIEEGFNISDKDMEKEYRGQNKAINKQA
+YEEISKEHLAVYKIQMCKSVKAPGICIDVDNEDLFFIADKNSFSDDLSKNERIEYNTQSNYIENDFPINE
+LILDTDLISKIELPSENTESLTDFNVDVPVYEKQPAIKKIFTDENTIFQYLYSQTFPLDIRDISLTSSFD
+DALLFSNKVYSFFSMDYIKTANKVVEAGLFAGWVKQIVNDFVIEANKSNTMDKIADISLIVPYIGLALNV
+GNETAKGNFENAFEIAGASILLEFIPELLIPVVGAFLLESYIDNKNKIIKTIDNALTKRNEKWSDMYGLI
+VAQWLSTVNTQFYTIKEGMYKALNYQAQALEEIIKYRYNIYSEKEKSNINIDFNDINSKLNEGINQAIDN
+INNFINGCSVSYLMKKMIPLAVEKLLDFDNTLKKNLLNYIDENKLYLIGSAEYEKSKVNKYLKTIMPFDL
+SIYTNDTILIEMFNKYNSEILNNIILNLRYKDNNLIDLSGYGAKVEVYDGVELNDKNQFKLTSSANSKIR
+VTQNQNIIFNSVFLDFSVSFWIRIPKYKNDGIQNYIHNEYTIINCMKNNSGWKISIRGNRIIWTLIDING
+KTKSVFFEYNIREDISEYINRWFFVTITNNLNNAKIYINGKLESNTDIKDIREVIANGEIIFKLDGDIDR
+TQFIWMKYFSIFNTELSQSNIEERYKIQSYSEYLKDFWGNPLMYNKEYYMFNAGNKNSYIKLKKDSPVGE
+ILTRSKYNQNSKYINYRDLYIGEKFIIRRKSNSQSINDDIVRKEDYIYLDFFNLNQEWRVYTYKYFKKEE
+EKLFLAPISDSDEFYNTIQIKEYDEQPTYSCQLLFKKDEESTDEIGLIGIHRFYESGIVFEEYKDYFCIS
+KWYLKEVKRKPYNLKLGCNWQFIPKDEGWTE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The DNA replicon vaccine (pSCARSBHc) encoding the Hc domain of BoNT/B (BHc) induced better responses and protection against BoNT/B mouse challenge than conventional DNA vaccine.  Recombinant SFV particle VRP-BHc protected mice from high-dose BoNT/B challenge [Ref1071:Yu et al., 2009].
+The production of ciBoNT/B1 HP, ciBoNT/C1 HP, ciBoNT/E1 HP and ciBoNT/F1 HP suggest the ciBoNT HP vaccines exhibit superior potency after single vaccinations.[Ref4727:Webb et al., 2017]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene446">
+        <gene_name>FHc</gene_name>
+        <strain></strain>
+        <vo_id>VO_0010901</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>166236883</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:285228
+CDD:285226</xrefs>
+        <taxonomy_id>32630</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>recombinant botulinum toxin F Hc domain</protein_name>
+        <protein_pi>9.28</protein_pi>
+        <protein_weight>47714.27</protein_weight>
+        <protein_length>504</protein_length>
+        <protein_note>Clostridium neurotoxin, N-terminal receptor binding; pfam07953</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABY86211.1 recombinant botulinum toxin F Hc domain [synthetic construct]
+MYFNKLYKKIKDNSILDMRYENNKFIDISGYGSNISINGDVYIYSTNRNQFGIYSSKPSEVNIAQNNDII
+YNGRYQNFSISFWVRIPKYFNKVNLNNEYTIIDCIRNNNSGWKISLNYNKIIWTLQDTAGNNQKLVFNYT
+QMISISDYINKWIFVTITNNRLGNSRIYINGNLIDEKSISNLGDIHVSDNILFKIVGCNDTRYVGIRYFK
+VFDTELGKTEIETLYSDEPDPSILKDFWGNYLLYNKRYYLLNLLRTDKSITQNSNFLNINQQRGVYQKPN
+IFSNTRLYTGVEVIIRKNGSTDISNTDNFVRKNDLAYINVVDRDVEYRLYADISIAKPEKIIKLIRTSNS
+NNSLGQIIVMDSIGNNCTMNFQNNNGGNIGLLGFHSNNLVASSWYYNNIRKNTSSNGCFWSFISKEHGWQ
+EN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Purified FHc was used to vaccinate mice and evaluate their survival against challenge with active botulinum neurotoxin serotype F (BoNT/F).  Mice that received one injection of 5 microg or two injections of >or=0.04 microg of FHc were completely protected [Ref1068:Yu et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference125">
+		<reference_name>Arimitsu et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Arimitsu H, Lee JC, Sakaguchi Y, Hayakawa Y, Hayashi M, Nakaura M, Takai H, Lin SN, Mukamoto M, Murphy T, Oguma K</authors>
+		<title>Vaccination with recombinant whole heavy chain fragments of Clostridium botulinum Type C and D neurotoxins</title>
+		<year>2004 May</year>
+		<volume>11</volume>
+		<issue>3</issue>
+		<pages>496-502</pages>
+		<journal_book_name>Clinical and diagnostic laboratory immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference120">
+		<reference_name>Arnon et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Arnon SS, Schechter R, Inglesby TV, Henderson DA, Bartlett JG, Ascher MS, Eitzen E, Fine AD, Hauer J, Layton M, Lillibridge S, Osterholm MT, O'Toole T, Parker G, Perl TM, Russell PK, Swerdlow DL, Tonat K</authors>
+		<title>Botulinum toxin as a biological weapon: medical and public health management</title>
+		<year>2001 Feb 28</year>
+		<volume>285</volume>
+		<issue>8</issue>
+		<pages>1059-70</pages>
+		<journal_book_name>JAMA : the journal of the American Medical Association</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1070">
+		<reference_name>Baldwin et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Baldwin MR, Tepp WH, Pier CL, Bradshaw M, Ho M, Wilson BA, Fritz RB, Johnson EA, Barbieri JT</authors>
+		<title>Characterization of the antibody response to the receptor binding domain of botulinum neurotoxin serotypes A and E</title>
+		<year>2005</year>
+		<volume>73</volume>
+		<issue>10</issue>
+		<pages>6998-7005</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference127">
+		<reference_name>Bennett et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bennett AM, Perkins SD, Holley JL</authors>
+		<title>DNA vaccination protects against botulinum neurotoxin type F</title>
+		<year>2003 Jul 4</year>
+		<volume>21</volume>
+		<issue>23</issue>
+		<pages>3110-7</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference110">
+		<reference_name>Boles et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Boles J, West M, Montgomery V, Tammariello R, Pitt ML, Gibbs P, Smith L, LeClaire RD</authors>
+		<title>Recombinant C fragment of botulinum neurotoxin B serotype (rBoNTB (HC)) immune response and protection in the rhesus monkey</title>
+		<year>2006 Jun 15</year>
+		<volume>47</volume>
+		<issue>8</issue>
+		<pages>877-84</pages>
+		<journal_book_name>Toxicon : official journal of the International Society on Toxinology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference107">
+		<reference_name>Byrne et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Byrne MP, Smith TJ, Montgomery VA, Smith LA</authors>
+		<title>Purification, potency, and efficacy of the botulinum neurotoxin type A binding domain from Pichia pastoris as a recombinant vaccine candidate</title>
+		<year>1998 Oct</year>
+		<volume>66</volume>
+		<issue>10</issue>
+		<pages>4817-22</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference109">
+		<reference_name>Byrne et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Byrne MP, Smith LA</authors>
+		<title>Development of vaccines for prevention of botulism</title>
+		<year>2000 Sep-Oct</year>
+		<volume>82</volume>
+		<issue>9-10</issue>
+		<pages>955-66</pages>
+		<journal_book_name>Biochimie</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1069">
+		<reference_name>Clayton et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Clayton MA, Clayton JM, Brown DR, Middlebrook JL</authors>
+		<title>Protective vaccination with a recombinant fragment of Clostridium botulinum neurotoxin serotype A expressed from a synthetic gene in Escherichia coli</title>
+		<year>1995</year>
+		<volume>63</volume>
+		<issue>7</issue>
+		<pages>2738-2742</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4894">
+		<reference_name>Gil et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gil LA, da Cunha CE, Moreira GM, Salvarani FM, Assis RA, Lobato FC, Mendon�a M, Dellagostin OA, Concei��o FR</authors>
+		<title>Production and evaluation of a recombinant chimeric vaccine against clostridium botulinum neurotoxin types C and D</title>
+		<year>2013</year>
+		<volume>8</volume>
+		<issue>7</issue>
+		<pages>e69692</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference124">
+		<reference_name>Jathoul et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jathoul AP, Holley JL, Garmory HS</authors>
+		<title>Efficacy of DNA vaccines expressing the type F botulinum toxin Hc fragment using different promoters</title>
+		<year>2004 Sep 28</year>
+		<volume>22</volume>
+		<issue>29-30</issue>
+		<pages>3942-6</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference147">
+		<reference_name>Johnson, 1997</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Johnson S</authors>
+		<title>Antibody responses to clostridial infection in humans</title>
+		<year>1997 Sep</year>
+		<volume>25 Suppl 2</volume>
+		<issue></issue>
+		<pages>S173-7</pages>
+		<journal_book_name>Clinical infectious diseases : an official publication of the Infectious Diseases Society of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference118">
+		<reference_name>Lee et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lee JS, Groebner JL, Hadjipanayis AG, Negley DL, Schmaljohn AL, Welkos SL, Smith LA, Smith JF</authors>
+		<title>Multiagent vaccines vectored by Venezuelan equine encephalitis virus replicon elicits immune responses to Marburg virus and protection against anthrax and botulinum neurotoxin in mice</title>
+		<year>2006 Nov 17</year>
+		<volume>24</volume>
+		<issue>47-48</issue>
+		<pages>6886-92</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference102">
+		<reference_name>Lohenry et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lohenry K, Foulke K</authors>
+		<title>Botulism: rare, but deadly</title>
+		<year>2006 Nov</year>
+		<volume>19</volume>
+		<issue>11</issue>
+		<pages>41-5</pages>
+		<journal_book_name>JAAPA : official journal of the American Academy of Physician Assistants</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference133">
+		<reference_name>Martinez et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Martinez R, Wobeser G</authors>
+		<title>Immunization of ducks for type C botulism</title>
+		<year>1999 Oct</year>
+		<volume>35</volume>
+		<issue>4</issue>
+		<pages>710-5</pages>
+		<journal_book_name>Journal of wildlife diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference171">
+		<reference_name>NCBI</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title> Entrez Gene </title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&amp;DB=gene</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference101">
+		<reference_name>PathPort</reference_name>
+		<reference_type>website</reference_type>
+		<authors>Sobral B., Dickerman A., Crasta O., Kenyon R.</authors>
+		<title>Virginia Bioinformatics Institute</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://pathport.vbi.vt.edu/pathinfo/pathogens/Clostridium_botulinum_Info.shtml</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4775">
+		<reference_name>Prisilla et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Prisilla A, Prathiviraj R, Sasikala R, Chellapandi P</authors>
+		<title>Structural constraints-based evaluation of immunogenic avirulent toxins from Clostridium botulinum C2 and C3 toxins as subunit vaccines</title>
+		<year>2016</year>
+		<volume>44</volume>
+		<issue></issue>
+		<pages>17-27</pages>
+		<journal_book_name>Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference148">
+		<reference_name>Rubin et al., 1982</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rubin LG, Dezfulian M, Yolken RH</authors>
+		<title>Serum antibody response to Clostridium botulinum toxin in infant botulism</title>
+		<year>1982 Oct</year>
+		<volume>16</volume>
+		<issue>4</issue>
+		<pages>770-1</pages>
+		<journal_book_name>Journal of clinical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference129">
+		<reference_name>Siegel, 1988</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Siegel LS</authors>
+		<title>Human immune response to botulinum pentavalent (ABCDE) toxoid determined by a neutralization test and by an enzyme-linked immunosorbent assay</title>
+		<year>1988 Nov</year>
+		<volume>26</volume>
+		<issue>11</issue>
+		<pages>2351-6</pages>
+		<journal_book_name>Journal of clinical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1067">
+		<reference_name>Webb et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Webb RP, Smith TJ, Wright P, Brown J, Smith LA</authors>
+		<title>Production of catalytically inactive BoNT/A1 holoprotein and comparison with BoNT/A1 subunit vaccines against toxin subtypes A1, A2, and A3</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>33</issue>
+		<pages>4490-4497</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4727">
+		<reference_name>Webb et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Webb RP, Smith TJ, Smith LA, Wright PM, Guernieri RL, Brown JL, Skerry JC</authors>
+		<title>Recombinant Botulinum Neurotoxin Hc Subunit (BoNT Hc) and Catalytically Inactive Clostridium botulinum Holoproteins (ciBoNT HPs) as Vaccine Candidates for the Prevention of Botulism</title>
+		<year>2017</year>
+		<volume>9</volume>
+		<issue>9</issue>
+		<pages></pages>
+		<journal_book_name>Toxins</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1068">
+		<reference_name>Yu et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu YZ, Li N, Wang RL, Zhu HQ, Wang S, Yu WY, Sun ZW</authors>
+		<title>Evaluation of a recombinant Hc of Clostridium botulinum neurotoxin serotype F as an effective subunit vaccine</title>
+		<year>2008</year>
+		<volume>15</volume>
+		<issue>12</issue>
+		<pages>1819-1823</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1071">
+		<reference_name>Yu et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu Y, Yu J, Li N, Wang S, Yu W, Sun Z</authors>
+		<title>Individual and bivalent vaccines against botulinum neurotoxin serotypes A and B using DNA-based Semliki Forest virus vectors</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>44</issue>
+		<pages>6148-6153</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1072">
+		<reference_name>Zeng et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zeng M, Xu Q, Elias M, Pichichero ME, Simpson LL, Smith LA</authors>
+		<title>Protective immunity against botulism provided by a single dose vaccination with an adenovirus-vectored vaccine</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>43</issue>
+		<pages>7540-7548</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

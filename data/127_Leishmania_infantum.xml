@@ -1,0 +1,1017 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen116">
+		<pathogen_name>Leishmania infantum</pathogen_name>
+		<taxon_id>5671</taxon_id>
+		<pathogenesis refs="reference1339">The parasites are transmitted by the bite of sandflies and the infecting promastigotes differentiate into and replicate as amastigotes within macrophages in the mammalian host (Goto et al., 2007).</pathogenesis>
+		<disease_name>Infantile visceral leishmaniasis</disease_name>
+		<protective_immunity refs="reference1339">In common with other intracellular pathogens, cellular immune responses are critical for protection against leishmaniasis. Th1 immune responses play an important role in mediating protection against Leishmania, including roles for CD4+ and CD8+ T cells, IFN-γ, IL-12, TNF-α and NO, whereas inhibitory effects have been reported for IL-10 and TGF-β (Goto et al., 2007).</protective_immunity>
+		<host_range refs="reference1339">Wild canids and domestic dogs are the natural reservoir of L. infantum, and the parasite is vectored by sandflies which pass on infection when they bite mammals including humans (Goto et al., 2007).</host_range>
+		<introduction refs="reference1406">Leishmania infantum is the causative agent of infantile visceral leishmaniasis in the Mediterranean region of the Old World and in Latin America, where it has been called Leishmania chagasi. It is also an unusual cause of cutaneous leishmaniasis. Wild canids and domestic dogs are the natural reservoir of this organism. L. infantum is closely-related to L. donovani and some authors believe that these two species are so close as to actually be subspecies of each other, however phylogenetic analyses can distinguish between these two groups (Wiki: Leishmania infantum).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4096">
+		<vaccine_name>A2-CPA-CPB(-CTE)-recombinant L. tarentolae</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004628</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>[Ref3081:Saljoughian et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3081">Recombinant L. tarentolae expressing the L. donovani A2 antigen along with cysteine proteinases (CPA and CPB without its unusual C-terminal extension (CPB(-CTE))) as a tri-fusion gene (Saljoughian et al., 2013).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1827" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3081">Group 1 (DNA cSLN/Live) immunized with pcDNA-A2-CPA-CPB-CTE-cSLN (50 µg of pcDNA-A2-CPA-CPB-CTE formulated by cSLN nanoparticles as a chemical delivery as previously described [59] as a prime and with 2×10^7 recombinant L. tarentolae A2-CPA-CPB-CTE as a boost; group 2 (L. tarentolae Live A2-CPA-CPB-CTE/L. tarentolae Live A2-CPA-CPB-CTE) vaccinated with 2×10^7 recombinant L. tarentolae-A2-CPA-CPB-CTE as prime and boost; group 3 (PBS as a control); group 4 [(empty vector pcDNA-cSLN (prime)/Live L. tarentolae wild type (boost) as a control)]; and group 5 (L. tarentolae Live/L. tarentolae Live) vaccinated with 2×10^7 L. tarentolae wild type as prime and boost and used as a control. All groups were immunized via footpad (Saljoughian et al., 2013).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3081">Our results showed that immunization with both prime-boost A2-CPA-CPB(-CTE)-recombinant L. tarentolae protects BALB/c mice against L. infantum challenge (Saljoughian et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3081">Three weeks after the last immunization, all animals were challenged with 10^7 stationary phase L. infantum promastigotes by lateral tail vein (Saljoughian et al., 2013).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1042">
+		<vaccine_name>L. infantum H1 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011350</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Montanide™ ISA 720 (70% formulation, according to manufacturer's instructions, SEPPIC)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs="">L. infantum histone H1</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering529" gene_id="gene748">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1342">The histone H1 and HASPB1 proteins were purified from endotoxins under pyrogenic free conditions in 1× PBS on a Superose 12 column (Amersham Biosciences) (Moreno et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response795" host_id="host36">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Beagle</host_strain>
+			<vaccination_protocol refs="reference1342">Dogs received three intradermal doses (dorsum; 1 ml/dose) of each vaccine formulation for a period of 3 months. On day 0, dogs from group HASPB1 and group H1 received 100 μg of HASPB1 or histone H1 protein. On days 30 and 60 the dogs received 45 μg of either protein. Dogs in group HASPB1 + H1 received a cocktail of histone H1 and HASPB1 (100 μg each) at day 0, and 45 μg of each protein on days 30 and 60. The adjuvant used for dogs in groups HASPB1, H1 and HASPB1 + H1 was Montanide™ ISA 720 (70% formulation, according to manufacturer's instructions, SEPPIC), given on days 0 and 30. The final immunization on day 60 for groups HASPB1, H1, and HASPB1 + H1 was prepared in the absence of adjuvant to avoid side effects observed following the second dose (Moreno et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1342">Following infection with L. infantum promastigotes, five out of eight beagle dogs immunized with H1 Montanide remained free of clinical signs, compared to two out of eight dogs in the control group.  The results demonstrate that H1 antigens with Montanide were able to induce partial protection against canine leishmaniasis, even under extreme experimental challenge conditions (Moreno et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1342">Forty-five days following the final immunization, all dogs were infected intravenously with 1 × 10^8 virulent L. infantum promastigotes (Moreno et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1043">
+		<vaccine_name>L. infantum HASPB1 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011351</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Montanide™ ISA 720 (70% formulation, according to manufacturer's instructions, SEPPIC)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs="">L. infantum HASPB1</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering541" gene_id="gene749">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1342">The L. infantum histone H1  was cloned into the pGEX-KG vector (Amersham Biosciences), expressed in Escherichia coli and purified using GST affinity resin (Amersham Biosciences) (Moreno et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response810" host_id="host36">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Beagle</host_strain>
+			<vaccination_protocol refs="reference1342">Dogs received three intradermal doses (dorsum; 1 ml/dose) of each vaccine formulation for a period of 3 months. On day 0, dogs from group HASPB1 and group H1 received 100 μg of HASPB1 or histone H1 protein. On days 30 and 60 the dogs received 45 μg of either protein. Dogs in group HASPB1 + H1 received a cocktail of histone H1 and HASPB1 (100 μg each) at day 0, and 45 μg of each protein on days 30 and 60. The adjuvant used for dogs in groups HASPB1, H1 and HASPB1 + H1 was Montanide™ ISA 720 (70% formulation, according to manufacturer's instructions, SEPPIC), given on days 0 and 30. The final immunization on day 60 for groups HASPB1, H1, and HASPB1 + H1 was prepared in the absence of adjuvant to avoid side effects observed following the second dose (Moreno et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1342">Following infection with L. infantum promastigotes, four out of eight beagle dogs immunized with HASPB1 Montanide remained free of clinical signs, compared to two out of eight dogs in the control group.  The results demonstrate that HASPB1 antigens with Montanide were able to induce partial protection against canine leishmaniasis, even under extreme experimental challenge conditions (Moreno et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1342">Forty-five days following the final immunization, all dogs were infected intravenously with 1 × 10^8 virulent L. infantum promastigotes (Moreno et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1108">
+		<vaccine_name>L. infantum SMT Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004066</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1339">20 μg of MPL®-SE (GlaxoSmithKline Biologicals, Rixensant, Belgium) (Goto et al., 2007).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering598" gene_id="gene745">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response865" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1339">Mice were immunized with 10 μg of rSMT plus 20 μg of MPL®-SE  in a volume of 0.1 ml. Another group of mice was administrated with 10 μg of rSMT alone. Control groups received either saline or MPL®-SE alone. The mice were immunized subcutaneously three times at three weeks intervals in the right hind footpad and at the base of the tail (Goto et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1339">Significant reduction of parasites was seen in mice immunized with rSMT plus MPL®-SE compared with those in saline or adjuvant alone groups. The immunized mice showed 43-fold and 55-fold reduction in the number of parasites in spleens, 111-fold and 117-fold reduction in livers compared with saline and adjuvant alone groups, respectively (Goto et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1339">Mice  were challenged with L. infantum three weeks after the last immunization. 5 × 10^6 L. infantum promastigotes were suspended in Hank's balanced salt solution and injected i.v. into the tail vein of the mouse (Goto et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3277">
+		<vaccine_name>Leishmania infantum HSP70 II mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0003006</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference2080">The HSP70-II null mutant (∆hsp70-II::NEO/∆hsp70-II::HYG) is a cloned line that was generated by targeted deletion of both HSP70-II alleles in the L. infantum  strain MCAN/ES/96/BCN150 [32]. L. major promastigote (strain MHOM/IL/80/Friedlin; clon V1) were also used in this study. Promastigotes of both species were grown in RPMI 1640 culture medium supplemented with 10% heatinactivated FBS, 100 U/ml penicillin and 100 µg/ml streptomycin (Carrion et al., 2011).</preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering834" gene_id="gene1096">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1105" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c mouse</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2080">L. infantum parasites lacking the HSP70-II gene have a virulence greatly reduced (Carrion et al., 2011).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2080">Inoculation of ∆HSP70-II parasites protects BALB/c mice against L. major challenge (Carrion et al., 2011).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response203" gene_id="gene1106">
+			    <description refs="reference2080">The IgG2a titers were high for all groups with differing inoculation routes, suggesting that infection with ΔHSP70-II parasites, independent of the inoculation route, leads to a predominant production of anti-Leishmania antibodies of the IgG2a isotope.  Antibody titers were determined by ELISA before and 4 weeks after inoculation and showed an increase between the two samples.  IgG2a titers were significantly higher than IgG1 titers (Carrion et al., 2011).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1106">
+		<vaccine_name>pcDNA3-LiP0</vaccine_name>
+		<proper_name>DNA Vaccine encoding LIPO-A Protein of L. infantum</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004197</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>Eukaryotic expression plasmid pcDNA3 (Invitrogen, San Diego, Calif.) [Ref1340:Iborra et al., 2003]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">LiP0</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering596" gene_id="gene746">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response863" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1340">In DNA immunization experiments, mice were inoculated twice intramuscularly (i.m.) in both quadriceps with 100 μg of DNA (50 μg per leg) of either pcDNA3-LiP0 or pcDNA3 (controls) in a total volume of 100 μl of PBS. When “prime-boost” immunization was carried out, two inoculations of DNA and two inoculations of recombinant protein were administered. In all groups, the mice were inoculated at 2-week intervals (Iborra et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1340">Three weeks after challenge, the parasite burden was found to be significantly lower in mice vaccinated with pcDNA3-LiP0 than in controls. Mice vaccinated with LiP0-DNA had a 99.1% reduction in the parasite burden 3 weeks after infection compared with mice vaccinated with control DNA (Iborra et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1340">Two weeks after the final inoculation, immunized mice were challenged with 5 × 10^4 stationary-phase promastigotes of L. major that were suspended in 50 μl of PBS and injected into the left hind footpad (Iborra et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1107">
+		<vaccine_name>VVr expressing L. infantum P36/LACK</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004198</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Recombinant vaccinia virus (VVr) derived from the wild-type Western Reserve strain (WR) [Ref1341:Gonzalo et al., 2001].</vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">L. infantum p36/LACK protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering597" gene_id="gene747">
+			<type>Recombinant vector construction</type>
+			<description refs="reference1341">The gene encoding L. infantum p36/LACK protein was expressed by recombinant vaccinia virus, and co-expressed murine IL-12 (Gonzalo et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response864" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1341">Mice were primed with VVr (5 × 10^7 PFU/mouse) by the intraperitoneal (i.p.) route. Two weeks later (14 days p.i.), animals were boosted with VVr or recombinant p36 antigen (Gonzalo et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1341">BALB/c mice immunized with a DNA vector expressing p36/LACK of Leishmania infantum followed by a booster with VVp36/LACK induced significant protection against Leishmania major infection (Gonzalo et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1341">35 days p.i., mice were challenged in the right hind foot with 10^5 of L. major stationary-phase promastigote culture (Gonzalo et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene748">
+        <gene_name>H1</gene_name>
+        <strain>Leishmania infantum</strain>
+        <vo_id>VO_0011285</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>78146499</ncbi_nucleotide_id>
+        <ncbi_protein_id>78146500</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>ABB22792.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>5671</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>histone H1</protein_name>
+        <protein_pi>12.41</protein_pi>
+        <protein_weight>10687.41</protein_weight>
+        <protein_length>155</protein_length>
+        <protein_note>L.infH1</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|78146499|gb|DQ232891.1| Leishmania infantum histone H1 gene, complete cds
+ATGTCCTCTGATTCCGCCGTTGCTGCCCTTTCCGCTGCCATGACCTCGCCGCAGAAGTCTCCTCGCTCGT
+CGCCGAAGAAGACGGCTGCGAAGAAGGCCGCGGCGAAGAAGGCCGCGGCGAAGAAGGCCGGGGCGAAGAA
+GGCCGGGGCGAAGAAGGCGGTGAGGAAGGTGGCTACGCCGAAGAAGCCGGCGAAGAAGGCTGCGAAGAAG
+GCCGCGAAGAAGCCGGCGAAGAAGGTCGCGAAGAAGCCGGCGAAGAAGGCTGCGAAGAAGCCGGCGAAGA
+AGCCGGCGAAGAAGGCTGCGAAGAAGGCCGCGGCGAAGAAGTAA</dna_sequence>
+        <protein_sequence>>ABB22792.1 histone H1 [Leishmania infantum]
+MSSDSAVAALSAAMTSPQKSPRSSPKKTAAKKAAAKKAAAKKAGAKKAGAKKAVRKVATPKKPAKKAAKK
+AAKKPAKKVAKKPAKKAAKKPAKKPAKKAAKKAAAKK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Following infection with L. infantum promastigotes, five out of eight beagle dogs immunized with H1 Montanide remained free of clinical signs, compared to two out of eight dogs in the control group.  The results demonstrate that H1 antigens with Montanide were able to induce partial protection against canine leishmaniasis, even under extreme experimental challenge conditions [Ref1342:Moreno et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene749">
+        <gene_name>HASPB1</gene_name>
+        <strain>Leishmania infantum</strain>
+        <vo_id>VO_0011286</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>3724133</ncbi_nucleotide_id>
+        <ncbi_protein_id>3724134</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>CAA09789.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:273344
+UniProtKB/TrEMBL:O77301</xrefs>
+        <taxonomy_id>5661</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>HASPB1 protein</protein_name>
+        <protein_pi>4.47</protein_pi>
+        <protein_weight>42746.61</protein_weight>
+        <protein_length>457</protein_length>
+        <protein_note>K+-dependent Na+/Ca+ exchanger; TIGR00927</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|3724133|emb|AJ011810.1| Leishmania donovani HASPB1 gene
+ATGGGAACTTCTTGTACAAAGGACTCCGCAAAGGAGCCCCAGAAGCGTGCTGATAACATCCATAAAACCA
+CTGAGGCCAATCACGGAGGCGCCACTGGTGTGCCCCCGAAGCACACCGGCAGTGCGATGAACGACTCTGC
+CCCGAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCTAAGGAGGACGGCCATACACAGAAA
+AATGACGGCGATGGCCCGAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCTAAGGAGGACG
+GCCATACACAGAAAAATGACGGCGATGGCCCGAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGG
+CCCTAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCGAAGGAGGACGGCCATACACAGAAA
+AATGACGGCGATGGCCCTAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCGAAGGAGGACG
+GCCATACACAGAAAAATGACGGCGATGGCCCTAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGG
+CCCGAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCGAAGGAGGACGGCCATACACAGAAA
+AATGACGGCGATGGCCCTAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCGAAGGAGGACG
+GCCATACACAGAAAAATGACGGCGATGGCCCTAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGG
+CCCGAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCTAAGGAGGACGGCCATACACAGAAA
+AATGACGGCGATGGCCCGAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCTAAGGAGGACG
+GCCATACACAGAAAAATGACGGCGATGGCCCGAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGG
+CCCTAAGGAGGACGGCCATACACAGAAAAATGACGGCGATGGCCCGAAGGAGGACGGCCATACACAGAAA
+AATGACGGCGATGGCCCTAAGGAGGGTGAGAATCTGCAGCAAAACGATGGGGATGCGCAGGAGAAGAACG
+AAGATGGACACAACGTGGGGGATGGAGCTAACGGCAATGAGGATGGTAACGATGATCAGCCGAAGGAGCA
+CGCTGCCGGCAACTAG</dna_sequence>
+        <protein_sequence>>CAA09789.1 HASPB1 protein [Leishmania donovani]
+MGTSCTKDSAKEPQKRADNIHKTTEANHGGATGVPPKHTGSAMNDSAPKEDGHTQKNDGDGPKEDGHTQK
+NDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQK
+NDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQK
+NDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQK
+NDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQKNDGDGPKEDGHTQK
+NDGDGPKEGENLQQNDGDAQEKNEDGHNVGDGANGNEDGNDDQPKEHAAGN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Following infection with L. infantum promastigotes, four out of eight beagle dogs immunized with HASPB1 Montanide remained free of clinical signs, compared to two out of eight dogs in the control group.  The results demonstrate that HASPB1 antigens with Montanide were able to induce partial protection against canine leishmaniasis, even under extreme experimental challenge conditions [Ref1342:Moreno et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1096">
+        <gene_name>HSP70 II</gene_name>
+        <strain>Leishmania infantum JPCM5</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>5073319</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>146101862</ncbi_protein_id>
+        <gene_locus_tag>LINJ_35_4220</gene_locus_tag>
+        <gene_refseq>FR796467</gene_refseq>
+        <protein_refseq>XP_001469224</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>435258</taxonomy_id>
+        <chromosome>35</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1642294</gene_start>
+        <gene_end>1644234</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>5.06</protein_pi>
+        <protein_weight>65055.03</protein_weight>
+        <protein_length>646</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|339899319:1642294-1644234 Leishmania infantum JPCM5 chromosome 35, complete sequence
+AATGAATCGACACAACAAGTTCTACGCTGAGGTGGCTGGCGAGTTGGAGGGGGACGACTACTACGGTGAC
+GACGACGACTACAACTATGATGAAGAGTACGAGGAGGAGGGGGAGTACGACGAGGCAGCGTACGAGGCCA
+CAGCGAGTGCGGCGCCGCCTGAACCGGCGCACATGTCCGAAAGCACCGCTCAGGCCACTGCGTCCGCCGC
+TCCGGCCGTGCGCGTTAACCCGTACACAACGATATCGCCGCAGGTGGACGATGACTACGAGCTGCTCGAC
+ATGCTGTTGCCGCAGCTGCACGCCTTGTGGAAAGCAAGTGCACCGACGATGCTGCCGCTCTCGGAGGGCG
+AGGCGGTCACGGCACTTCGGGCAAGCAACTACGACGTCGAGCCCGCCTTCCTGCAACTCAAAGAAAAGCG
+AGACGAGGAGCGCTCCAAGCGCGGCGGCGGCGTCCTGAAGGTCACCGCAGCTGCTGGACCCGCGAACCGG
+GCATCCACTTTTCCAGCTGTCGAGTCACCCGAACCCGGCGGCGAGGAGGCGAGCGATAACGAGGGCAACT
+CTGCATCGCCGAGCGCGAGTTCTGGCCGCACCACGACCACCTTGAGGGGCTCGAAGGGCACATCGCAGCG
+ACGCACGAAGCAGATGCTAGAGATGGAACCGGACAAGGAGAAGCCGGACTGCACGTTTGTGATTGCCGGC
+CACGTCGATGCCGGAAAGAGCACCACGCTGGGCCACCTCCTCCTGCTCTTGGGCCGCGTTAGCATCCAGG
+ATGTCGAGAGAAACGAAAAAGCAGACCGCACGCACCGCAAGGACTCCTTCAAGTACGCCTGGCTGCTGGA
+CCAGTGTGAGGAGGAGCGGCGCCGTGGCGTCACCATCGACTCCGGCTCTTTCTGCTTCGAAACGGAGCAC
+CGTCGCGTGCACATCCTCGATGCCCCAGGGCACAAGGACTTTGTGCTCAGCATGATCAGCAGTGCCACCC
+AGGCCGATGCTGCCTTGCTCGTCGTGACGGCGGCCACCTCCGAGTTCGAGACGGGGCTGCACCACGGTAC
+CAAGTCTCATCTTCTGGTCTTGAAAACGCTCGGCGTCGGGTCCATTGTCGTCGCCGTCAACAAGATGGAC
+GCCGTCGCCTATTCACAGGAGCGCTACGACTACGTGGTGCGGGAGCTGCAGCTCCTGCTCAAGCAGACCC
+GCATCCCGGAGGAAGCCATCATCGGCTTTTGCCCCATTAGTGGCATGGCAGGCGTCAACATCACTCAGCG
+GGGCGCCAAGGAGACGCCTTGGTACCACGATCTCAGCTTGATCGAGATGATTGACAAGTGTCCGTTGGAG
+AGTCGCCTGCTGAACAGACCGCTGCGCCTGAGTCTGCAAGACGTGCAGGGCACCACCCTCTACGCCAAGG
+TCGAGAGCGGAAGGCTCTTCACAGGGGACACGGTTCATTTCGTGCCGAGCGAGGTGCGGGTCGCTGTCAA
+GTCGATTCAGAAGCCCACTGTGGCTGGCCCTGTTCTCGTCGCCTTTGCTGGCGAGATGGTAGAGATCAGC
+ACGAACTCGTCCGTGACAGGACTGTACCCGGGCTGTGTGGGCTGCGAGCCGAATTTGTTAATCCACAGTT
+CCACCGACTTTGAGGCGCATATCCAGACCTTTCGCACCCTCACCAAGTCCATCCTGCCAGGGGCGAGCTT
+CACCATCATTGTGCACGCCCTGACGGTGCGGGTGCATGTTGTCGCACTCATATCTAAGATGGACGGCAAA
+ACAGGAAACTGGTCGAAGGGGATGGTGAAGTGTGTGCCGCCGGCCGCACAGGCGATGATGCTCTTCCGTG
+CTGAGTCGCCTGTCGCCCTCGAACCGGCGACGGAGTGCCGCGCGCTGGGGCGGTTTGTCCTTCAGCAGGA
+TGGCGAAACGGTTGCTGGCGGCCTGGTCACACGCGTTGTGGACAAGCCGTG</dna_sequence>
+        <protein_sequence>>gi|146101862|ref|XP_001469224.1| hsp70 subfamily B suppressor 1 [Leishmania infantum JPCM5]
+MNRHNKFYAEVAGELEGDDYYGDDDDYNYDEEYEEEGEYDEAAYEATASAAPPEPAHMSESTAQATASAA
+PAVRVNPYTTISPQVDDDYELLDMLLPQLHALWKASAPTMLPLSEGEAVTALRASNYDVEPAFLQLKEKR
+DEERSKRGGGVLKVTAAAGPANRASTFPAVESPEPGGEEASDNEGNSASPSASSGRTTTTLRGSKGTSQR
+RTKQMLEMEPDKEKPDCTFVIAGHVDAGKSTTLGHLLLLLGRVSIQDVERNEKADRTHRKDSFKYAWLLD
+QCEEERRRGVTIDSGSFCFETEHRRVHILDAPGHKDFVLSMISSATQADAALLVVTAATSEFETGLHHGT
+KSHLLVLKTLGVGSIVVAVNKMDAVAYSQERYDYVVRELQLLLKQTRIPEEAIIGFCPISGMAGVNITQR
+GAKETPWYHDLSLIEMIDKCPLESRLLNRPLRLSLQDVQGTTLYAKVESGRLFTGDTVHFVPSEVRVAVK
+SIQKPTVAGPVLVAFAGEMVEISTNSSVTGLYPGCVGCEPNLLIHSSTDFEAHIQTFRTLTKSILPGASF
+TIIVHALTVRVHVVALISKMDGKTGNWSKGMVKCVPPAAQAMMLFRAESPVALEPATECRALGRFVLQQD
+GETVAGGLVTRVVDKP</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A Leishmania infantum deletion mutant of HSP70-II gene is attenuated and provides protection against Leishmania infection in the L. major-BALB/c infection model. Also, DeltaHSP70-II is a safe live vaccine as immunodeficient SCID mice, and hamsters, infected with mutant parasites did not develp any sign of pathology [Ref2080:Carrion et al., 2011].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1106">
+        <gene_name>Ighv1-9</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>668478</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC073561</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>114583568</gene_start>
+        <gene_end>114583861</gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>immunoglobulin heavy variable V1-9</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as Igg2a; Gm16697</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099098:114583568-114583861 Mus musculus strain C57BL/6J chromosome 12, GRCm38 C57BL/6J
+GTCTTGCACAGTAATAGATGGCAGAGTCCTCAGTTGTCAGGCTGCTGAGTTGCATGTAGGCTGTGTTGGA
+GGATGTATCTGCAGTGAATGTGGCCTTGCCCTTGAACTTCTCATTGTAGTTAGTACTACCACTTCCAGGT
+AAAATCTCTCCAATCCACTCAAGGCCATGTCCAGGCCTCTGCTTTACCCACTCTATCCAGTAGCCAGTGA
+ATGTGTAGCCAGTAGCCTTGCAGGAAAGCTTCACTGAGGCCCCAGGCTTCATCAGCTCAGCTCCAGACTG
+CTGCAGCTGAACCT</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene746">
+        <gene_name>LIPO-A</gene_name>
+        <strain>Leishmania infantum</strain>
+        <vo_id>VO_0011283</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>730579</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:140267
+CDD:240221</xrefs>
+        <taxonomy_id>5671</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>60S acidic ribosomal protein P0</protein_name>
+        <protein_pi>4.83</protein_pi>
+        <protein_weight>33714.61</protein_weight>
+        <protein_length>399</protein_length>
+        <protein_note>60S acidic ribosomal protein P0. /FTId=PRO_0000154772.</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>sp|P39097.1|RLA0_LEIIN RecName: Full=60S acidic ribosomal protein P0
+MPSITTAKREYEERLVDCLTKYSCVLFVGMDNVRSQQVHDVGRALRAKAEFMMGKKTLQGKIVEKRAQAK
+DASPEAKHFNDQCEEYNLLSGNTGLIFTNNAVQEITSVLDAHRVKRAARVGAISPCDVIVAAGSTGMEPT
+QTSFFQALNIATKIAKGMVEIVTEKKVLSVGDKVDNSTATLLQKLNISPFYYQVNVLSVWDRGVLFTRED
+LMMTEDMVEKMLMEGLSNVAAMALGAGIPTSSTIGPMLVDAFKNLLAVSVATSYEFEEHNGKELREAAIN
+GLLAGSCSAAAEPAAAAPAAPSAAAKEEPEESDEDDFGMGGLF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Study examined the immunogenic properties of the Leishmania infantum acidic ribosomal protein P0 (LiP0) in the BALB/c mouse model.  When mice were immunized with pcDNA3-LiP0, noticeable protection against L. major infection was achieved [Ref1340:Iborra et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene747">
+        <gene_name>P36/LACK</gene_name>
+        <strain>Leishmania infantum</strain>
+        <vo_id>VO_0011284</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>134085114</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:238121
+CDD:293791
+InterPro:IPR001680
+InterPro:IPR011046
+InterPro:IPR015943
+InterPro:IPR017986
+InterPro:IPR019775
+InterPro:IPR019781
+InterPro:IPR019782
+InterPro:IPR020472
+UniProtKB/Swiss-Prot:P62884</xrefs>
+        <taxonomy_id>5671</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>activated protein kinase c receptor (LACK); p36 LACK protein</protein_name>
+        <protein_pi>6.77</protein_pi>
+        <protein_weight>33141.22</protein_weight>
+        <protein_length>413</protein_length>
+        <protein_note>guanine nucleotide-binding protein beta subunit-like protein</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAM69515.1 activated protein kinase c receptor (LACK); p36 LACK protein [Leishmania infantum]
+MNYEGHLKGHRGWVTSLACPQQAGSYIKVVSTSRDGTAISWKANPDRHSVDSDYGLPSHRLEGHTGFVSC
+VSLAHATDYALTASWDRSIRMWDLRNGQCQRKFLKHTKDVLAVAFSPDDRLIVSAGRDNVIRVWNVAGEC
+MHEFLRDGHEDWVSSICFSPSLEHPIVVSGSWDNTIKVWNVNGGKCERTLKGHSNYVSTVTVSPDGSLCA
+SGGKDGAALLWDLSTGEQLFKINVESPINQIAFSPNRFWMCVATERSLSVYDLESKAVIAELTPDGAKPS
+ECISIAWSADGNTLYSGHKDNLIRVWSISDAE
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB/c mice immunized with a DNA vector expressing p36/LACK of Leishmania infantum followed by a booster with VVp36/LACK induced significant protection against Leishmania major infection [Ref1341:Gonzalo et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene745">
+        <gene_name>SMT</gene_name>
+        <strain>Leishmania infantum</strain>
+        <vo_id>VO_0011282</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>146104463</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:332925
+CDD:332923
+CDD:312111
+GOA:A4IDL3
+InterPro:IPR013216
+InterPro:IPR013705
+UniProtKB/TrEMBL:A4IDL3</xrefs>
+        <taxonomy_id>435258</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>putative sterol 24-c-methyltransferase</protein_name>
+        <protein_pi>6.62</protein_pi>
+        <protein_weight>38177.872</protein_weight>
+        <protein_length>443</protein_length>
+        <protein_note>2-polyprenyl-3-methyl-5-hydroxy-6-metoxy-1,4-benzoquinol methylase [Coenzyme transport and metabolism]; cl28104</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>XP_001469832.1 putative sterol 24-c-methyltransferase [Leishmania infantum JPCM5]
+MSAGGRETAPTNLIRRRNKDETNGDVSAAADRFRDRFEKATLEERKAATTTMVNEYYDLVTDFYEYGWGQ
+NFHFAPRYAGETFFESLARHEYFLAARGGFMEGDHIVDVGCGVGGPARNMVRLTRCNVIGVNNNDYQISR
+ARRHDALAGMSSKIDYVKTDFCNMSLADNTFDGAYAIEATCHAKDKVKCYSEVFRVIKPGTCFVLYEWCM
+TDKYNPNDEYHRTIKHRIELGDGLPEMETCKQVIEYMKQAGFVVEEAIDVISQFESSPIKSIPWYQPLVG
+DYSSLQGLRSTPIGRILTNVMCRVLEFVRLAPKGTYKATEILEEAAESLVVGGQLGIFTPSFYIRARKPS
+KQA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Upon challenge with L. infantum, C57BL/6 mice immunized with SMT formulated in MPL-SE adjuvant showed significantly lower parasite burdens in both spleens and livers compared with non-immunized mice or mice injected with adjuvant alone [Ref1339:Goto et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2080">
+		<reference_name>Carrion et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Carrion J, Folgueira C, Soto M, Fresno M, Requena JM</authors>
+		<title>Leishmania infantum HSP70-II null mutant as candidate vaccine against leishmaniasis: a preliminary evaluation</title>
+		<year>2011</year>
+		<volume>4</volume>
+		<issue>1</issue>
+		<pages>150</pages>
+		<journal_book_name>Parasites &amp; vectors</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5067">
+		<reference_name>Dias et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dias DS, Ribeiro PAF, Martins VT, Lage DP, Ramos FF, Dias ALT, Rodrigues MR, Portela �SB, Costa LE, Caligiorne RB, Steiner BT, Ch�vez-Fumagalli MA, Salles BCS, Santos TTO, Silveira JAG, Magalh�es-Soares DF, Roatt BM, Machado-de-�vila RA, Duarte MC, Menezes-Souza D, Silva ES, Galdino AS, Coelho EAF</authors>
+		<title>Recombinant prohibitin protein of Leishmania infantum acts as a vaccine candidate and diagnostic marker against visceral leishmaniasis</title>
+		<year>2018</year>
+		<volume>323</volume>
+		<issue></issue>
+		<pages>59-69</pages>
+		<journal_book_name>Cellular immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1341">
+		<reference_name>Gonzalo et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gonzalo RM, Rodríguez JR, Rodríguez D, González-Aseguinolaza G, Larraga V, Esteban M</authors>
+		<title>Protective immune response against cutaneous leishmaniasis by prime/booster immunization regimens with vaccinia virus recombinants expressing Leishmania infantum p36/LACK and IL-12 in combination with purified p36</title>
+		<year>2001</year>
+		<volume>3</volume>
+		<issue>9</issue>
+		<pages>701-711</pages>
+		<journal_book_name>Microbes and infection / Institut Pasteur</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1339">
+		<reference_name>Goto et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Goto Y, Bogatzki LY, Bertholet S, Coler RN, Reed SG</authors>
+		<title>Protective immunization against visceral leishmaniasis using Leishmania sterol 24-c-methyltransferase formulated in adjuvant</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>42</issue>
+		<pages>7450-7458</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1340">
+		<reference_name>Iborra et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Iborra S, Soto M, Carrión J, Nieto A, Fernández E, Alonso C, Requena JM</authors>
+		<title>The Leishmania infantum acidic ribosomal protein P0 administered as a DNA vaccine confers protective immunity to Leishmania major infection in BALB/c mice</title>
+		<year>2003</year>
+		<volume>71</volume>
+		<issue>11</issue>
+		<pages>6562-6572</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1342">
+		<reference_name>Moreno et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Moreno J, Nieto J, Masina S, Cañavate C, Cruz I, Chicharro C, Carrillo E, Napp S, Reymond C, Kaye PM, Smith DF, Fasel N, Alvar J</authors>
+		<title>Immunization with H1, HASPB1 and MML Leishmania proteins in a vaccine trial against experimental canine leishmaniasis</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>29</issue>
+		<pages>5290-5300</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5051">
+		<reference_name>Mortazavidehkordi et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mortazavidehkordi N, Farjadfar A, Khanahmad H, Ghayour Najafabadi Z, Hashemi N, Fallah A, Najafi A, Kia V, Hejazi SH</authors>
+		<title>Evaluation of a novel lentiviral vaccine expressing KMP11-HASPB fusion protein against Leishmania infantum in BALB/c mice</title>
+		<year>2016</year>
+		<volume>38</volume>
+		<issue>11</issue>
+		<pages>670-677</pages>
+		<journal_book_name>Parasite immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3081">
+		<reference_name>Saljoughian et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Saljoughian N, Taheri T, Zahedifard F, Taslimi Y, Doustdari F, Bolhassani A, Doroud D, Azizi H, Heidari K, Vasei M, Namvar Asl N, Papadopoulou B, Rafati S</authors>
+		<title>Development of novel prime-boost strategies based on a tri-gene fusion recombinant L. tarentolae vaccine against experimental murine visceral leishmaniasis</title>
+		<year>2013</year>
+		<volume>7</volume>
+		<issue>4</issue>
+		<pages>e2174</pages>
+		<journal_book_name>PLoS neglected tropical diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1406">
+		<reference_name>Wiki:  Leishmania infantum</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Leishmania infantum</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Leishmania_infantum</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,2174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen47">
+		<pathogen_name>Streptococcus pneumoniae</pathogen_name>
+		<taxon_id>1313</taxon_id>
+		<pathogenesis refs="reference715">S. pneumoniae is normally found in the nasopharynx. It attaches to nasopharyngeal cells through interaction of bacterial surface adhesins. It can cause otitis media or sinusitis if it enters areas such as the Eustachian tube or nasal sinuses. Pneumonia occurs if the organisms are inhaled into the lungs and not eliminated. S. pneumoniae can activate complement, stimulate cytokine production, and attracts neutrophils and other white blood cells. The organism's polysaccharide capsule makes it resistant to phagocytosis. S. pneumoniae can spread to other areas and cause various diseases. S. pneumoniae has several virulence factors, including the polysaccharide capsule, pneumococcal surface proteins, and IgA1 protease (Wiki: S. pneumoniae).</pathogenesis>
+		<disease_name>Pneumonia</disease_name>
+		<protective_immunity refs="reference1461">The bacteria invade and grow primarily due to their resistance to the host phagocytic response. The cell wall components directly activate multiple inflammatory cascades, including the alternative pathway of complement activation, the coagulation cascade and the cytokine cascade, inducing interleukin-1, interleukin-6 and tumor necrosis factor (TNF) from macrophages and other cells (Textbook of Bacteriology).</protective_immunity>
+		<host_range refs="reference1461">Pneumococci spontaneously cause disease in humans, monkeys, rabbits, horses, mice and guinea pigs. Nasopharyngeal colonization occurs in approximately 40% of the population (Textbook of Bacteriology).</host_range>
+		<introduction refs="reference714">Streptococcus pneumoniae, or pneumococcus, is a Gram-positive, alpha-hemolytic diplococcus aerotolerant anaerobe and a member of the genus Streptococcus. S. pneumoniae is the most common cause of both pneumonia overall and fatal pneumonia. Antibiotic resistance has developed worldwide and is most frequent in pneumococcal serotypes that are most prevalent in children (types/groups 6, 14, 19, and 23). The incidence of pneumococcal disease is the highest in children &lt; 2 years of age and in adults &gt; 65 years of age. Other important risk factors are chronic heart and lung disease, cigarette smoking, and asplenia (Ortqvist et al., 2005). Other than pneumonia, it also causes acute sinusitis, otitis media, meningitis, bacteremia, osteomyelitis, septic arthritis, endocarditis, peritonitis, pericarditis, cellulitis, and brain abscess.</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3867">
+		<vaccine_name>DNA vaccine expressing PspA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004516</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pSecTag2A  [Ref2528:Ferreira et al., 2006]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1419" gene_id="gene620">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1510" host_id="host3">
+			<immune_response refs="reference2528">Animals immunized with a vector expressing secreted PspA developed higher levels of antibody than mice immunized with the vector expressing the antigen in the cytosol (Ferreira et al., 2006).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2528">Groups of at least six mice were inoculated intramuscularly with 50 μl of 10 μM cardiotoxin into each tibialis anterior muscle, 5 days before immunization with 50 μg vaccine vector in PBS (100 μl). Mice received a booster after 3 weeks with the same dose of plasmid DNA. For immunization with recombinant protein, mice were injected subcutaneously with 5 μg rPspA3NS, using aluminium hydroxide as the adjuvant, and also boosted 3 weeks after priming (Ferreira et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2528">All the immunized groups showed significant protection when compared with control groups. Animals immunized with pSec-pspA3NS showed a tendency towards increased survival when compared with animals primed with rPspA3NS (Ferreira et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2528">Immunized mice were challenged by intraperitoneal injection of 200 c.f.u. S. pneumoniae strain St 679/99 (PspA clade 3, serotype 6B) in 0·5 ml saline 6 weeks after priming. Animals were then observed for 2 weeks (Ferreira et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine615">
+		<vaccine_name>Pneumo 23</vaccine_name>
+		<proper_name>Pneumococcal Polysaccharide Vaccine</proper_name>
+		<brand_name>Pneumo 23</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010731</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.), Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Polysaccharide.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.), Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3098">
+		<vaccine_name>pneumococcal polysaccharide conjugate vaccine serotype 1 (PNC-1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004265</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response927" host_id="host3">
+			<immune_response refs="reference2037">Administration of PNC-1 i.n. with either LT-K63 or LT-R72 elicited significantly higher antibody responses than the s.c. route for both 0.5- and 2.0-μg doses of PNC-1 in saline (Jakobsen et al., 1999).</immune_response>
+			<host_strain refs="">NMRI</host_strain>
+			<vaccination_protocol refs="reference2037">Mice were immunized i.n. with 0.5 or 2.0 μg of PNC-1 alone or mixed with either LT-K63 or LT-R72 (Jakobsen et al., 1999).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2037">Immunization i.n. with PNC-1 and LT-K63 or LT-R72 conferred 100% clearance of lung infection caused by serotype 1 pneumococci (Jakobsen et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2037">Mice were challenged with 50 μl of pneumococcal suspension i.n. and were allowed to aspirate it into the lungs for 10 min (Jakobsen et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine317">
+		<vaccine_name>Pneumovax 23</vaccine_name>
+		<proper_name>Pneumococcal Vaccine, Polyvalent</proper_name>
+		<brand_name>Pneumovax 23</brand_name>
+		<manufacturer>Merck &amp; Co, Inc.</manufacturer>
+		<vo_id>VO_0000088</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs="reference715 reference716">Pneumococcal polysaccharide vaccine provides at least 85% protection in those under 55 years of age for five years or longer. Immunization is suggested for those at highest risk of infection, including those 65 years or older. The vaccine is generally given with a single lifetime dose (Wiki: S. pneumoniae). The most common adverse experiences reported with PNEUMOVAX 23 in clinical trials were: Local reaction at injection site including soreness, erythema, warmth, swelling and induration, and fever &lt;102°F. In post-marketing experience, injection site cellulitis-like reactions were reported rarely; between 1989 and 2002, when approximately 43 million doses were distributed, the annual reporting rate was &lt;2/100,000 doses (Merck: PNEUMOVAX 23).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store unopened and opened vials at 2-8°C (36-46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference772">It consists of a mixture of highly purified capsular polysaccharides from the 23 most prevalent or invasive pneumococcal types of Streptococcus pneumoniae, including the six serotypes that most frequently cause invasive drug-resistant pneumococcal infections among children and adults in the United States (FDA: PNEUMOVAX 23).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response437" host_id="host2">
+			<immune_response refs="reference716">It has been established that the purified pneumococcal capsular polysaccharides induce antibody production and that such antibody is effective in preventing pneumococcal disease (Merck: PNEUMOVAX 23).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference772">In many clinical studies on the efficacy of the vaccine, it has been found to have a 70-90% efficacy rate (FDA: PNEUMOVAX 23).</protection_efficacy>
+			<side_effects refs="reference716">Side effects of vaccination include: redness and soreness of the injection site, fever, and chills (Merck: PNEUMOVAX 23).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine318">
+		<vaccine_name>Prevnar</vaccine_name>
+		<proper_name>Pneumococcal 7-valent Conjugate Vaccine (Diphtheria CRM197 Protein)</proper_name>
+		<brand_name>Prevnar</brand_name>
+		<manufacturer>Wyeth Pharmaceuticals Inc.</manufacturer>
+		<vo_id>VO_0000090</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA (License #0003)</location_licensed>
+		<description refs="reference715">In the USA, a heptavalent pneumococcal conjugate vaccine vaccine (PCV 7) (e.g. Prevnar) is recommended since 2000 for all children aged 2–23 months and for at-risk children aged 24–59 months. The normally 4-doses series is given at 2, 4, 6 &amp; 12–14 months of age. Protection is good against deep pneumococcal infections (especially septicemia and meningitis) (Wiki: S. pneumoniae).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">DO NOT FREEZE. Store refrigerated at 2°C TO 8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">Each serotype is grown in soy peptone broth. The individual polysaccharides are purified through centrifugation, precipitation, ultrafiltration, and column chromatography.</preparation>
+		<route refs=""></route>
+		<antigen refs="reference768">A sterile solution of saccharides of the capsular antigens of Streptococcus pneumoniae serotypes 4, 6B, 9V, 14, 18C, 19F, and 23F individually conjugated to diphtheria CRM197 protein (FDA: Prevnar).</antigen>
+		<host_response host_response_id="host_response439" host_id="host2">
+			<immune_response refs="reference768">There were no reports of streptococcus pneumoniae in the group vaccinated with PREVNAR whereas in the control group, there were between 17-22 cases reported after vaccination (FDA: Prevnar).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference768">Efficacy was assessed in a randomized, double-blinded clinical trial in a multiethnic population at Northern California Kaiser Permanente (NCKP) from October 1995 through August 20, 1998, in which 37,816 infants were randomized to receive either Prevnar or a control vaccine at 2, 4, 6, and 12-15 months of age (FDA: Prevnar).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects of vaccination include: fever, irratibility, drowsiness, decreased appetite, rash and soreness/redness of the injection site.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1115">
+		<vaccine_name>Prevnar 13</vaccine_name>
+		<proper_name>Pneumococcal 13-valent Conjugate Vaccine [Diphtheria CRM197 Protein]</proper_name>
+		<brand_name>Prevnar</brand_name>
+		<manufacturer>Wyeth Pharmaceuticals, Inc</manufacturer>
+		<vo_id>VO_0001244</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA, Canada</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store refrigerated at +2ºC to +8ºC (36ºF to 46ºF)</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3868">
+		<vaccine_name>PsaA DNA Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004517</vo_id>
+		<type>DNA vaccine</type>
+		<status>Licensed</status>
+		<vector>pCI [Ref2529:Miyaji et al., 2001]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1420" gene_id="gene605">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1511" host_id="host3">
+			<immune_response refs="reference2529">Analysis of sera from mice immunized with purified PsaA showed the induction of mostly IgG1, that is, a Th2 like response. Furthermore, mice immunized with pCI-psaA developed readily detectable serum antibody titers 1 month after priming (Miyaji et al., 2001).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2529">Five male BALB/c mice were inoculated into each muscle tibialis anterior as previously described with 100 μl of 10 μM cardiotoxin and after 5 days with 25 μg of plasmid DNA in PBS (50 μl) (Miyaji et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2529">Immunization of mice with purified PsaA was shown to be protective against challenge with an heterologous S. pneumoniae strain (Miyaji et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine792">
+		<vaccine_name>S. pneumoniae 6PGD Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004069</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1213">Inject Alum adjuvant (Daniely et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference1213">Recombinant 6-Phosphogluconate dehydrogenase (6PGD) (Daniely et al., 2006).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering253" gene_id="gene622">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response552" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1213">Six-week-old BALB/c female mice were immunized intraperitoneally with 25 µg of r6PGD and 75 µl of Inject Alum adjuvant  on days 0 (primary immunization) and 21 (booster). Control mice were sham-immunized with adjuvant only (Daniely et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1213">Immunization of mice with r6PGD protected 60% (P &lt; 0.001) of mice for 5 days and 40% (P &lt; 0.05) of the mice for 21 days following intranasal lethal challenge (Daniely et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1213">For respiratory challenge r6PGD immunized and control  mice were anaesthetized with pentobarbital sodium (0·6 mg/kg) and inoculated intranasally with 1 × 10^8 S. pneumoniae strain WU2 (in 25 µl PBS). This inoculum's size was used as it was found to be the lowest that causes 100% mortality in our mouse model system within 96 h. Survival was monitored daily (Daniely et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine787">
+		<vaccine_name>S. pneumoniae CbpA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004005</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1274">Monophospholipid A (MPL) and aluminium phosphate (AlPO4) (Ogunniyi et al., 2001).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference1274">N-terminal fragment of choline binding protein A (CbpA) (Ogunniyi et al., 2001).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering248" gene_id="gene619">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response547" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1274">5- to 6-week-old male BALB/c mice (13 to 15 per group) were immunized intraperitoneally with either adjuvant alone, adjuvant plus CbpA, or CbpA alone. Each mouse received three doses of 10 μg of each protein antigen in either formulation (AlPO4 or MPL plus AlPO4) at 12- to 14-day intervals (Ogunniyi et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1274">CbpA was able to protect mice from intraperitoneal challenge with medium to very high doses of a highly virulent capsular type 2 pneumococcal strain, D39 (Ogunniyi et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1274">Intraperitoneal-challenge experiments were carried out 2 weeks after the third immunization using a highly virulent capsular type 2 strain (D39). Groups of immunized BALB/c mice were infected with either 1.3 × 10^5 or 1.3 × 10^7 CFU of the challenge strain. The challenge dose was equivalent to approximately 10^3 or 10^5 times the 50% lethal dose (LD50), respectively, for BALB/c mice. The mice were closely monitored for 21 days, and the survival time of each mouse was recorded (Ogunniyi et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine789">
+		<vaccine_name>S. pneumoniae ClpP protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004006</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="">ATP-dependent caseinolytic protease (ClpP)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering250" gene_id="gene608">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response549" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1203">Female BALB/c mice, weighing 16 to 18 g, were immunized three times at 14-day intervals with 10 µg of protein in alum adjuvant (3:1 [vol/vol]) of either ClpP protein in alum adjuvant or control protein in alum. Mice were boosted intraperitoneally with the same doses on days 14 and 28 (Wu et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1203">Compared to the control protein, ClpP reduced the median bacterial load nearly 100-fold in the focal pneumonia model (Wu et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1203">For the intraperitoneal challenge models, at 2 weeks after the last immunization BALB/c mice were administrated the virulent pneumococcal strain D39 at 1,500 times the 50% lethal dose (LD50; 1.5 x 10^5 CFU) or 150 times the LD50 (2.0 x 10^4 CFU). In the focal pneumonia models, BALB/c mice were intranasally inoculated with pneumococcal strain 31614 (serotype 14, 1.5 x 10^6 CFU) or 31693 (serotype 19F, 10^7 CFU). For intranasal challenge with pneumococcal strain D39, mice inspired the virulent pneumococcal strain D39 at 104 (7.5 x 10^7 CFU) or 103 (6.0 x 10^6 CFU) times the LD50 in a volume of 40 µl under injection anesthesia (Wu et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5658">
+		<vaccine_name>S. pneumoniae detoxified PlyD1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference5093">Recombinant PLY was produced from Escherichia coli containing the entire gene sequence of wild-type pneumolysin from strain R36A; the protein was column purified. PlyD1, a highly detoxified PLY variant, was generated by site-directed mutagenesis and differs from the wild-type form by three amino acid substitutions of T65C, G293C, and C428A. Recombinant PlyD1 protein was expressed in E. coli as soluble protein and column purified.(Salha et al., 2012)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1813" gene_id="gene4404">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5657">
+		<vaccine_name>S. pneumoniae DnaJ Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference5091">PCR amplified DnaJ was ligated in pQE-30 expression vector and subsequently transformed in E. coli DH5alpha strain.(Khan et al., 2006)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1812" gene_id="gene4402">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference5091">PCR amplified DnaJ was ligated in pQE-30 expression vector and subsequently transformed in E. coli DH5alpha strain.(Khan et al., 2006)</description>
+		</gene_engineering>
+	</vaccine>
+	<vaccine vaccine_id="vaccine790">
+		<vaccine_name>S. pneumoniae GtS Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004068</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1210">Imject Alum adjuvant (Mizrachi et al., 2007).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference1210">recombinant (r) Glutamyl tRNA synthetase (GtS) (Mizrachi et al., 2007).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering251" gene_id="gene617">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response551" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c OlaHsd</host_strain>
+			<vaccination_protocol refs="reference1210">Mice were immunized intraperitoneally with 25 μg of rGtS and 75 μL of Imject Alum adjuvant on days 0 and 21. Control mice were sham immunized with adjuvant only (Mizrachi et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1210">Thirty-nine percent of rGtS-immunized mice survived a lethal bacterial challenge, whereas no control mice survived (Mizrachi et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1210">For lethal respiratory challenge with S. pneumoniae, rGtS‐immunized and control mice were anesthetized with isoflurane and inoculated intranasally with  S. pneumoniae serotype 3 strain WU2 (in 25 μL of PBS). The size of this inoculum was found to be the lowest that causes 100% mortality in control mice within 96 h. Survival was monitored daily (Mizrachi et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1100">
+		<vaccine_name>S. pneumoniae PhpA-79 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004063</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1492">100 μg of monophosphoryl lipid A (MPL; Corixa, Hamilton, Mont.) per dose (Zhang et al., 2001).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="">Recombinant PhpA-79</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering590" gene_id="gene836">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response857" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">CBA/N</host_strain>
+			<vaccination_protocol refs="reference1492">CBA/N mice, at 10 animals per group, were immunized with 5 μg of either rPhpA-79 or rPhpA-20. For parenteral immunization, rPhpA-79 or rPhpA-20 protein was mixed with 100 μg of monophosphoryl lipid A (MPL; Corixa, Hamilton, Mont.) per dose to a final volume of 200 μl in saline and then injected s.c. into mice. All groups received a booster with the same dose and by the same route 3 and 5 weeks after the primary immunization. Control mice were injected with MPL alone (Zhang et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1492">Immunization with either rPhpA-79–MPL provided 100% protection against death caused by type 3 S. pneumoniae infection (Zhang et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1492">Mice were challenged with either serotype 3 or serotype 14 streptomycin-resistant S. pneumoniae (Zhang et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine793">
+		<vaccine_name>S. pneumoniae PiaA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004070</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Imject Alum No. 77161</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference1214">Recombinant PiaA protein (Brown et al., 2001).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering254" gene_id="gene623">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response553" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1214">For the active protection experiments, each mouse was immunized by intraperitoneal (i.p.) injection of 100 μl of each protein preparation in alum adjuvant on days 0, 10, and 20 (Brown et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1214">After 14 days the mortality of the group of mice immunized PiuA was 52%, showing that immunization with these proteins protects against systemic infection with S. pneumoniae (Brown et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1214">On day 34 mice were challenged i.p. with ca. 10^6 CFU of S. pneumoniae strain D39 organisms (Brown et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine795">
+		<vaccine_name>S. pneumoniae PspA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004007</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Alum</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering256" gene_id="gene620">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response555" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c and CD1</host_strain>
+			<vaccination_protocol refs="reference1212">The mice received three doses of 10 μg of each antigen alone (or in combination) in 100 μg of alum adjuvant via Intraperitoneal injection (i.p.) at 14-day intervals or a placebo (Ogunniyi et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1212">PspA elicited protection by using moderate challenge doses of S. pneumoniae (Ogunniyi et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1212">Mice were challenged i.p. 2 weeks after the third immunization with either the highly virulent capsular type 2 strain D39 or a serotype 6A (WCH16) strain (Ogunniyi et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3961">
+		<vaccine_name>S. pneumoniae pspA-rBCG Vector Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004601</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>recombinant Bacille Calmette-Guerin (rBCG) [Ref2795:Langermann et al., 1994]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference2795">Streptococcus pneumoniae is one of the leading causes of bacterial pneumonia and acute otitis media, a type of meningitis.  It is becoming increasingly antibiotic resistant and the current available vaccine does not elicit protection in children. (Langermann et al., 1994)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2795">Pneumococcal surface protein A (PspA) present on all strains of pneumococci (Langermann et al., 1994)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1658" gene_id="gene620">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1606" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c and C3H/HeJ mice</host_strain>
+			<vaccination_protocol refs="reference2795">A single intraperitoneal inoculation with a live BCG bacterial vaccine expressing PspA as a secreted mature protein in or a chimeric exported lipoprotein (rBCG-PspA), followed by a booster at 17 weeks(Langermann et al., 1994)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2795">Mice experienced passive protection with the use of rBCG against lethal challenge with the highly virulent, encapsulated WU2 strain of Streptococcus pneumoniae and two additional virulent strains exhibiting heterologous PspA and capsular sero- types(Langermann et al., 1994)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2795">BALB/c and C3H/HeJ mice immunized with rBCG-PspA vaccine strains were challenged intraperitoneally with 10^4 CFU of the highly lethal S. pneumoniae strain WU2 (Langermann et al., 1994)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine794">
+		<vaccine_name>S. pneumoniae RASV synthesizing PsaA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004071</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Attenuated Salmonella enterica serovar Typhimurium strain RASV [Ref1202:Wang et al., 2010].</vector>
+		<route>Intranasally</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasally</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering255" gene_id="gene605">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response554" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c, C57BL/6J</host_strain>
+			<vaccination_protocol refs="reference1202">Mice were inoculated intranasally with 10 µl or orally with 20 µl of BSG containing 1 x 10^9 CFU of the RASV or control strain. In some experiments, the mice were boosted at week 6 with the same dose by using the same route as that used for primary immunization (Wang et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1202">BALB/c (haplotype H2(d)) or C57BL/6 (haplotype H2(b)) mice vaccinated either orally or intranasally exhibited a significant reduction in colonization of nasopharyngeal tissues after intranasal challenge with S. pneumoniae strains compared to controls, although protection was not observed with all challenge strains (Wang et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1202">At week 10, mice were challenged either by intraperitoneal injection with 2 x 10^4 CFU of S. pneumoniae WU2 (equal to 100x the 50% lethal dose [LD50]) or intranasally with 20 µl containing 5 x 10^6 CFU S. pneumoniae strain L82016 or E134 or 1 x 10^7 CFU of strain A66.1 or D39 (Wang et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine798">
+		<vaccine_name>S. pneumoniae SrtA Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004008</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1208">Freund's adjuvant (Gianfaldoni et al., 2009).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference1208">Recombinant sortase A (SrtA) (Gianfaldoni et al., 2009).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering259" gene_id="gene615">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response558" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c mice</host_strain>
+			<vaccination_protocol refs="reference1208">Specific-pathogen-free BALB/c mice (Charles River) received three intraperitoneal administrations, 2 weeks apart, of 20 μg of SrtA along with Freund's adjuvant. Controls received the same course of saline plus adjuvant (Gianfaldoni et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1208">Intraperitoneal immunization with recombinant SrtA was found to have conferred to mice protection against S. pneumoniae intraperitoneal challenge and the passive transfer of immune serum before intraperitoneal challenge was also protective. Moreover, by using the intranasal challenge model, significant reduction of bacteremia when mice were intraperitoneally immunized with SrtA was observed, while a moderate decrease of lung infection was achieved by intranasal immunization, even though no influence on nasopharynx colonization was seen (Gianfaldoni et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1208">Three weeks after the last immunization, the animals were challenged intraperitoneally with one of the following S. pneumoniae strains: TIGR4, 1.4 × 10^2 CFU/mouse; D39, 10^3 CFU/mouse; or 35B-SME15, 7 × 10^3 CFU/mouse (Gianfaldoni et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1114">
+		<vaccine_name>Synflorix</vaccine_name>
+		<proper_name>Pneumococcal conjugate vaccine (Non-Typeable Haemophilus influenzae (NTHi) protein D, diphtheria or tetanus toxoid conjugates) adsorbed</proper_name>
+		<brand_name>Synflorix</brand_name>
+		<manufacturer>GlaxoSmithKline Inc.</manufacturer>
+		<vo_id>VO_0001245</vo_id>
+		<type>Conjugate vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="reference1559">SYNFLORIX™ [(pneumococcal conjugate vaccine (Non-Typeable Haemophilus influenzae (NTHi) protein D, diphtheria or tetanus toxoid conjugates) adsorbed] is a 10- valent pneumococcal polysaccharide conjugate vaccine using protein D derived from Non-Typeable Haemophilus influenzae as a carrier protein for 8 out of the 10 serotypes (1, 4, 5, 6B, 7F, 9V, 14 and 23F). Serotypes 18C and 19F are conjugated to tetanus toxoid and to diphtheria toxoid, respectively. All conjugates are adsorbed onto aluminum phosphate (GSK: Synflorix).</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store in a refrigerator (2°C - 8°C).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference1559">Pneumococcal polysaccharides of serotypes 1,4,5,6B,7F,9V,14,18C,19F,23F (GSK: Synflorix).</antigen>
+	</vaccine>
+	<gene gene_id="gene619">
+        <gene_name>CbpA</gene_name>
+        <strain>Streptococcus pneumoniae D39</strain>
+        <vo_id>VO_0011203</vo_id>
+        <ncbi_gene_id>4441159</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>116515359</ncbi_protein_id>
+        <gene_locus_tag>SPD_2017</gene_locus_tag>
+        <gene_refseq>CP000410</gene_refseq>
+        <protein_refseq>YP_817402</protein_refseq>
+        <pdb_id>1W9R</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>373153</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1995043</gene_start>
+        <gene_end>1997148</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>choline binding protein A</protein_name>
+        <protein_pi>8.27</protein_pi>
+        <protein_weight>75722.56</protein_weight>
+        <protein_length>701</protein_length>
+        <protein_note>equivalent gene in S.pneumoniae R6 = spr1995 This gene is also called SpsA, pspC (pneumococcal surface protein C)and Hic; identified by match to protein family HMM PF01473; match to protein family HMM PF04650; match to protein family HMM PF05062; match to protein family HMM TIGR01168</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008533.1:1995043-1997148 Streptococcus pneumoniae D39, complete genome
+TTTAGTTTACCCATTCACCATTGGCATTGACTCCATAGCCATCTACAGTTGTGTTGACTGCAAGGGCACC
+TGAGCCATTGACATAGTACCATTTATCTGATACTTTGAACCATTGGCTTGCTTTCATAGCACCTGATGCT
+TCAAGATAGTACCAGGTATCTCCATCTTTCACCCAACCTGTCGCCATATCACCATTAGCGTTGAGGTAAT
+ACCATGAACCGTTGTATTGGAGCCATCCTGTCGCCATATCACCATTAGCGTTGAGGTAGTACCATGAACC
+GTTGTTTTGGAGCCATCCTGTCGCCATATCACCATTAGCGTTGAGGTAGTACCATGAGCCATTGTATTGG
+AGCCATCCTGTCGCCATAGCGCCATTGCTGTTTAGGTAGTACCATGAACCATTGTATTGGAGCCATCCTG
+TCGCCATAGCACCATTAGCGTTTAGGTAGTACCATGAACCATTGTTTTGGAGCCATCCTGTTGCCATTGA
+ACCATTAGCGTTTAGATAGTACCATGAACCATTGTTTTGGAGCCATCCTGTCGCCATAGCACCATTAGCG
+TTTAGATAGTACCATGAACCGTTGTTTTGGAGCCATCCTGTTGCCATTGAACCATCAGTATTGTAGAAGT
+ACCACATACCGTTTTCTTGTTTCCAGCCTGTTTTTGGAGTAGATGGTTGTGCTGGTTTTTCAGTTTTTGG
+CGGTTGCTGTTGAGTCAAGCGATTATATTCTTCTTCTGATCTACGAGCATAGTCTTCTTCAGCTTGTTGA
+TCATCTGTTTTTTCTGCTTTTGGTTGTTCAGCTGGCTTCTCTGGTTTTGGAGCTGGTTTTTCTGGTTGAG
+TAGCCGGCGCTGGTTGTGGTTGTTCAGCTGGTTTTTCTTTAACTTTATCTTCTTCTGCTGCTTTTCGTTT
+AGCTTCTTCTTCTGCTTTTTTACGATCTGTCTTGATGTTTTCTAACCTTGTAGCCTCAGCTTTTTTACTC
+TCAACTTTCGCTTTTGCTTGCTTAATTTTTTCCTCGTCTCGAGGTTCCTTAGCTTCCTCTTTTACTAGTT
+CAAGCTCCGCTTCTTTAACTTTCACATCGGACTCAGCAATTTCAAGGTCAAGCGTTTTGTAAGTATTGGT
+TGGGTAGTTACGGCGATCTTCTTCTTTTTGATCCTTGGCTTTTTTCTCAGCTTCTTCAACCTTCTTCTCA
+GCTTCTGCTACCTTTTTTCCTGATTTCAGGGATGAGCTTGGAAGAGTTTCTTCACCTACGCTAGAATCTG
+AAGACTTCGCATCATTTTCTTTTTTATCAGGTGTTGCTAGCTCTCCAGGAACTCCTCGTTTTGCCCGCCC
+CTTTGGTTTACCTTGATCTGAAGTCGCTACATTAGCTTCCTTCAACTTAGCATCTGCTTTTCGTTTAGCT
+TCTTCTTCTGCTTTTTTACGATCTGTCTTGATGTTTTCTAACCTTGTAGCCTCAGCTTTTTTACTCTCAA
+CTTTCTCTTTTGCTTGCTTAATTGTGCCCTCGTTTCGAGATTCTTTAGCTTCCTCTTTTACTAGTTCAAG
+CTCCGCTTCTTTAACTTTCACATCGAACTCAGCAATTTCAAGTTCAAGCGTTTTGTAAGTATTGGTTGGG
+TAGTTACGACGATCTTCTTCTTTTTGATCCTCGGCTTTTTTCTTAGCTTCTTCAACCTTCTTCTTAGCTT
+CTGCTACCTTTTCTCCTGGTTTCAATGTATCTTTTTTAAACTTCTCAAAAGCTGCGTCTAACTTTGCTTT
+TATTTCTGACGGCAACTCATCTTTCGACTTCTCTTCTAAAACATTTAATTCACGCAAATACTTCGTTTTA
+ATTGCGCTCAACTTTATGTTTAAGGCGACATTTTGGGTATGTTTTCTTCTATCTAGTTGAATCTCCCTCA
+ACATTTTTTCTATATATTCATCGACGACTTGTTTAGCAGCTTTCCTATGTTCTGTCTTTGCCATATTAGA
+AGAAGTGGCTGCTTGGGTACTTCCCTCGTTCTCTGTCGCATGAACCACACTTCCCATAACAAGACTGGCA
+ACAGCTACACTAGCTACTCCAATACTAAATTTACGAATTGAATAATGTACTTTTCTTTCGCTTTTTGATG
+CAAACA
+
+</dna_sequence>
+        <protein_sequence>>YP_817402.1 choline binding protein A [Streptococcus pneumoniae D39]
+MFASKSERKVHYSIRKFSIGVASVAVASLVMGSVVHATENEGSTQAATSSNMAKTEHRKAAKQVVDEYIE
+KMLREIQLDRRKHTQNVALNIKLSAIKTKYLRELNVLEEKSKDELPSEIKAKLDAAFEKFKKDTLKPGEK
+VAEAKKKVEEAKKKAEDQKEEDRRNYPTNTYKTLELEIAEFDVKVKEAELELVKEEAKESRNEGTIKQAK
+EKVESKKAEATRLENIKTDRKKAEEEAKRKADAKLKEANVATSDQGKPKGRAKRGVPGELATPDKKENDA
+KSSDSSVGEETLPSSSLKSGKKVAEAEKKVEEAEKKAKDQKEEDRRNYPTNTYKTLDLEIAESDVKVKEA
+ELELVKEEAKEPRDEEKIKQAKAKVESKKAEATRLENIKTDRKKAEEEAKRKAAEEDKVKEKPAEQPQPA
+PATQPEKPAPKPEKPAEQPKAEKTDDQQAEEDYARRSEEEYNRLTQQQPPKTEKPAQPSTPKTGWKQENG
+MWYFYNTDGSMATGWLQNNGSWYYLNANGAMATGWLQNNGSWYYLNANGSMATGWLQNNGSWYYLNANGA
+MATGWLQYNGSWYYLNSNGAMATGWLQYNGSWYYLNANGDMATGWLQNNGSWYYLNANGDMATGWLQYNG
+SWYYLNANGDMATGWVKDGDTWYYLEASGAMKASQWFKVSDKWYYVNGSGALAVNTTVDGYGVNANGEWV
+N
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice were actively immunized with a fragment of choline binding protein A (CbpA; also known as PspC, Hic, and SpsA). CbpA was able to protect mice from intraperitoneal challenge with medium to very high doses of a highly virulent capsular type 2 pneumococcal strain, D39 [Ref1274:Ogunniyi et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene608">
+        <gene_name>ClpP</gene_name>
+        <strain>Streptococcus pneumoniae D39</strain>
+        <vo_id>VO_0011193</vo_id>
+        <ncbi_gene_id>4441476</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_000613477</ncbi_protein_id>
+        <gene_locus_tag>SPD_0650</gene_locus_tag>
+        <gene_refseq>CP000410</gene_refseq>
+        <protein_refseq>YP_816144</protein_refseq>
+        <pdb_id>1Y7O</pdb_id>
+        <xrefs>CDD:178955
+CDD:132928</xrefs>
+        <taxonomy_id>1301</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>668966</gene_start>
+        <gene_end>669556</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>ATP-dependent Clp protease proteolytic subunit</protein_name>
+        <protein_pi>4.37</protein_pi>
+        <protein_weight>22213.63</protein_weight>
+        <protein_length>293</protein_length>
+        <protein_note>ATP-dependent Clp protease proteolytic subunit; Reviewed; PRK00277</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008533.1:668966-669556 Streptococcus pneumoniae D39, complete genome
+AATGATTCCTGTAGTTATTGAACAAACAAGCCGTGGAGAACGTTCTTACGATATTTACTCACGTCTTCTC
+AAAGACCGCATCATTATGCTGACAGGTCCGGTTGAAGACAATATGGCTAACTCTGTTATTGCCCAACTGC
+TTTTCTTGGATGCCCAAGATAGTACAAAAGATATTTACCTTTATGTCAATACACCAGGTGGTTCTGTTTC
+AGCTGGTTTGGCAATCGTAGATACCATGAACTTTATCAAGGCAGATGTCCAAACCATTGTTATGGGAATG
+GCTGCATCTATGGGAACAGTCATCGCATCAAGTGGAGCAAAAGGCAAACGTTTCATGCTTCCAAATGCTG
+AATACATGATTCACCAACCAATGGGCGGTACAGGTGGTGGTACCCAACAAACTGATATGGCTATCGCTGC
+AGAACACTTGCTCAAAACTCGTAATACCTTGGAAAAAATCTTGGCTGAAAATTCAGGTCAGTCAATGGAA
+AAAGTCCATGCAGATGCAGAACGTGATAACTGGATGAGCGCCCAGGAAACACTTGAATATGGCTTTATTG
+ATGAAATTATGGCCAACAATTCATTGAACTA</dna_sequence>
+        <protein_sequence>>WP_000613477.1 MULTISPECIES: ATP-dependent Clp protease proteolytic subunit [Streptococcus]
+MIPVVIEQTSRGERSYDIYSRLLKDRIIMLTGPVEDNMANSVIAQLLFLDAQDSTKDIYLYVNTPGGSVS
+AGLAIVDTMNFIKADVQTIVMGMAASMGTVIASSGAKGKRFMLPNAEYMIHQPMGGTGGGTQQTDMAIAA
+EHLLKTRNTLEKILAENSGQSMEKVHADAERDNWMSAQETLEYGFIDEIMANNSLN</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The protective effects of ATP-dependent caseinolytic protease (ClpP) was evaluated. Vaccinated mice were intraperitoneally and/or intranasally challenged with different pneumococcal strains. In intraperitoneal challenge models with pneumococcal strain D39 (serotype 2), clpP elicited some protection in mice [Ref1203:Wu et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene4402">
+        <gene_name>DnaJ</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_001035362</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:331332
+CDD:227588
+CDD:332379</xrefs>
+        <taxonomy_id>1313</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>hypothetical protein</protein_name>
+        <protein_pi>4.54</protein_pi>
+        <protein_weight>79758.9</protein_weight>
+        <protein_length>820</protein_length>
+        <protein_note>Gap junction protein N-terminal region; cl26511</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>WP_001035362.1 hypothetical protein [Streptococcus pneumoniae]
+MNKKKMILTSLASVAILGAGFVTSQPTFVRAEESPQVVEKSSLEKKYEEAKAKADTAKKDYETAKKKAED
+AQKKYEDDQKRTEEKARKEAEASQKLNDVALVVQNAYKEYREVQNQRSKYKSDAEYQKKLTEVDSKIEKA
+RKEQQDLQNKFNEVRAVVVPEPNALAETKKKAEEAKAEEKVAKRKYDYATLKVALAKKEVEAKELEIEKL
+QYEISTLEQEVATAQHQVDNLKKLLAGADPDDGTEVIEAKLKKGEAELNAKQAELAKKQTELEKLLDSLD
+PEGKTQDELDKEAEEAELDKKADELQNKVADLEKEISNLEILLGGADPEDDTAALQNKLAAKKAELAKKQ
+TELEKLLDSLDPEGKTQDELDKEAEEAELDKKADELQNKVADLEKEISNLEILLGGADSEDDTAALQNKL
+ATKKAELEKTQKELDAALNELGPDGDEEETPAPAPQPEQPAPAPKPEQPAPAPKPEQPAPAPKPEQPAPA
+PKPEQPAPAPKPEQPAKPEKPAEEPTQPEKPATPKTGWKQENGMWYFYNTDGSMAIGWLQNNGSWYYLNA
+NGAMATGWVKDGDTWYYLEASGAMKASQWFKVSDKWYYVNSNGAMATGWLQYNGSWYYLNANGDMATGWL
+QYNGSWYYLNANGDMATGWAKVNGSWYYLNANGAMATGWAKVNGSWYYLNANGSMATGWVKDGDTWYYLE
+ASGAMKASQWFKVSDKWYYVNGLGALAVNTTVDGYKVNANGEWV</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>All the control mice died within 2 days of post-infection, while 70% of animals immunized with DnaJ survived the lethal challenge by S. pneumoniae. The study reveals that immunization of mice with DnaJ elicits protective immunity against S. pneumoniae infection.[Ref5091:Khan et al., 2006]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene617">
+        <gene_name>GltX</gene_name>
+        <strain>Streptococcus pneumoniae TIGR4</strain>
+        <vo_id>VO_0011201</vo_id>
+        <ncbi_gene_id>931970</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_000031087</ncbi_protein_id>
+        <gene_locus_tag>SP_2069</gene_locus_tag>
+        <gene_refseq>AE005672</gene_refseq>
+        <protein_refseq>NP_346492</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:234953</xrefs>
+        <taxonomy_id>1313</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1976626</gene_start>
+        <gene_end>1978086</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>glutamate--tRNA ligase</protein_name>
+        <protein_pi>4.67</protein_pi>
+        <protein_weight>54587.89</protein_weight>
+        <protein_length>560</protein_length>
+        <protein_note>glutamyl-tRNA synthetase; Reviewed; PRK01406</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_003028.3:1976626-1978086 Streptococcus pneumoniae TIGR4, complete genome
+TTTATTTAGAGATTTCTTTTAGCATGTTTTCGATATGCTGAATTGATTTTTCACGTCCAAGCAAGAAAAT
+TGTATCTGGTAATTCTGGCCCATGCATTTCGCCTGAAACTGCGATACGAATAGGCATGAAAAGATTTTTC
+CCTTTAATACCTGTTTCTTTTTGGACTGCTTTAATTTGTGGGAAGATATTTTCTGTCACAAATTCATCAT
+CTGTCATCGCTTCAAGTTTTGCTTTGAATGCTTCAAGAACTGTTGGAACTGTTTCACCCGTCATGACTTC
+GCGCTCTGCTTCTGTCAATTCTGGGAAATCTGAGAAGAAAAGATCTGTCAATGGGATAATCTCATCTACT
+GATTTCATTTGTGGTTTATAGAGCTCAACTAATTTTTCAGCCTTGTCAGTCAAACGGCCTGCTTCCTCTA
+AGAATGGTTTTGCCATTTCAAAGATGGTTTCAAGGTCTGCATTCTTGATATAATCATTGCTCATCCAGTC
+TAGTTTTTTCTGATCAAAGGCTGCTGGTGACTTGCTGAGGCGGTTTTCATCAAAAAGTTTAATGAATTCT
+TCACGAGAGAAAATCTCATCTTCACCACCTGGGTTCCAACCAAGAAGAGCAATAAAGTTAAAGACTGCTT
+CTGGAAGGTAACCTTTCTTTCGGTAATCTTCGATAAATTGAAGTGTATTAGTATCACGTTTAGATAACTT
+CTTACCAGTTTCAGAGTTGATAATCAAGGTCATGTGACCGAACTCTGGAGCTTCCCAACCAAGAGCTTCA
+TAGACCATAAGCTGTTTTGGTGTATTAGCAATATGGTCATCTCCACGGATAACATGAGAGATTTGCATAT
+CGTGGTCATCGATAACAACGGCAAAGTTGTAAGTTGGGTAACCGTCTTTCTTTTGGATAACCCAGTCACC
+ACCGATATTGCCACCTTCAAATTCGATATCGCCTTTGACCATATCATGCCACTTGTAGATACCTGACTCA
+TTGACAGCCAAACGAACAGTTGGGATGATCCCTGCTGCTTCACGTTCTGCGATGTAAGCTGCTTTTTCTT
+CTTCACTCATACCAAGGTATTCATTGATGTAGCGTGGTGTTTCGCCAGCTACTTCTTGGCGTTCGCGTTC
+AGCTGCCAACTCTTCTTCTGTAACGTAAGATTTATAGGCTTTTCCTTCAGCTAATAGTTGGTCAATATAT
+TTTTGATACAAGTCCAAACGCTCAGACTGGCGATAATTCTCATGTGATTCTGGACTTTCATCCCAATCCA
+TGCCTAACCAGCGAAGGTTTTCAAGTTGTGAACGTTCACCATCCTCGACATGGCGTTTACGGTCAGTATC
+TTCGATACGGATGAGAAATGTTCCACCATGATGGCGCGCATACAAGTAATTAAACAATGCTGTACGAGCA
+TTTCCGATGTGTAGTAGTCCTGTTGGACTTGGTGCGTAACGTACGCGGATATCTTTTGACA</dna_sequence>
+        <protein_sequence>>WP_000031087.1 glutamate--tRNA ligase [Streptococcus pneumoniae]
+MSKDIRVRYAPSPTGLLHIGNARTALFNYLYARHHGGTFLIRIEDTDRKRHVEDGERSQLENLRWLGMDW
+DESPESHENYRQSERLDLYQKYIDQLLAEGKAYKSYVTEEELAAERERQEVAGETPRYINEYLGMSEEEK
+AAYIAEREAAGIIPTVRLAVNESGIYKWHDMVKGDIEFEGGNIGGDWVIQKKDGYPTYNFAVVIDDHDMQ
+ISHVIRGDDHIANTPKQLMVYEALGWEAPEFGHMTLIINSETGKKLSKRDTNTLQFIEDYRKKGYLPEAV
+FNFIALLGWNPGGEDEIFSREEFIKLFDENRLSKSPAAFDQKKLDWMSNDYIKNADLETIFEMAKPFLEE
+AGRLTDKAEKLVELYKPQMKSVDEIIPLTDLFFSDFPELTEAEREVMTGETVPTVLEAFKAKLEAMTDDE
+FVTENIFPQIKAVQKETGIKGKNLFMPIRIAVSGEMHGPELPDTIFLLGREKSIQHIENMLKEISK</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Glutamyl tRNA synthetase (GtS) has been found to be among the Streptococcus pneumoniae cell wall-derived proteins that have age-dependent immunogenicity in children. Here, GtS was cloned, expressed, and purified and then was used to immunize 7-week-old BALB/c OlaHsd mice. Thirty-nine percent of rGtS-immunized mice survived a lethal bacterial challenge, whereas no control mice survived [Ref1210:Mizrachi et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene622">
+        <gene_name>Gnd</gene_name>
+        <strain>Streptococcus pneumoniae D39</strain>
+        <vo_id>VO_0011206</vo_id>
+        <ncbi_gene_id>4441177</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_000158781</ncbi_protein_id>
+        <gene_locus_tag>SPD_0343</gene_locus_tag>
+        <gene_refseq>CP000410</gene_refseq>
+        <protein_refseq>YP_815856</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:236453</xrefs>
+        <taxonomy_id>1301</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>347261</gene_start>
+        <gene_end>348685</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>NADP-dependent phosphogluconate dehydrogenase</protein_name>
+        <protein_pi>4.58</protein_pi>
+        <protein_weight>51871.44</protein_weight>
+        <protein_length>574</protein_length>
+        <protein_note>6-phosphogluconate dehydrogenase; Validated</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008533.1:347261-348685 Streptococcus pneumoniae D39, complete genome
+AATGACAAAAGCTAACTTTGGTGTCGTAGGTATGGCCGTAATGGGTCGTAACCTTGCCCTTAATATTGAA
+TCACGTGGTTACACAGTTGCTATCTACAACCGTAGTAAAGAAAAAACGGAAGATGTGATTGCTTGCCATC
+CTGAAAAGAATTTTGTACCAAGCTATGACGTTGAAAGTTTTGTAAACTCAATCGAAAAACCTCGTCGTAT
+CATGCTGATGGTTCAAGCTGGACCTGGTACAGATGCTACTATTCAAGCCCTTCTTCCGCACCTTGACAAG
+GGTGATATCTTGATTGACGGTGGAAATACTTTCTACAAAGATACCATCCGTCGTAATGAAGAATTGGCAA
+ACTCTGGTATCAACTTTATCGGTACTGGGGTTTCTGGTGGTGAAAAAGGTGCCCTTGAAGGTCCTTCTAT
+CATGCCTGGTGGACAAAAAGAAGCCTACGAATTGGTTGCGGATGTTCTTGAAGAAATCTCAGCTAAAGCA
+CCAGAAGATGGCAAACCATGTGTGACTTACATCGGTCCTGATGGAGCTGGTCACTATGTGAAAATGGTTC
+ACAATGGTATTGAGTACGGTGATATGCAATTGATCGCAGAAAGCTATGACTTGATGCAACACTTGCTAGG
+CCTTTCTGCAGAAGATATGGCTGAAATCTTTACTGAGTGGAACAAGGGTGAATTAGACAGCTACTTGATT
+GAAATCACAGCTGATATCTTGAGCCGTAAAGACGATGAAGGCCAAGATGGACCAATCGTAGACTACATCC
+TTGATGCTGCAGGTAACAAGGGAACTGGTAAATGGACTAGCCAATCATCTCTTGACCTTGGTGTACCATT
+GTCACTGATTACTGAGTCAGTGTTTGCACGCTACATTTCAACTTACAAAGAAGAACGTGTACATGCTAGC
+AAGGTGCTTCCAAAACCAGCTGCCTTCAACTTTGAAGGAGACAAGGCTGAATTGATTGAAAAGATCCGTC
+AAGCCCTTTACTTCTCAAAAATCATTTCATACGCACAAGGATTTGCTCAATTGCGTGTAGCCTCTAAAGA
+AAACAACTGGAACTTGCCATTTGCAGATATCGCATCTATCTGGCGTGATGGCTGTATCATCCGTTCTCGT
+TTCTTGCAAAAGATTACAGATGCTTACAACCGCGATGCAGATCTTGCCAACCTTCTTTTGGACGAGTACT
+TCTTGGATGTTACTGCTAAGTACCAACAAGCAGTACGTGATATCGTAGCTCTTGCGGTTCAAGCAGGTGT
+GCCAGTGCCAACTTTCTCAGCAGCTATTACTTACTTTGATAGCTACCGTTCAGCTGACCTTCCAGCTAAC
+TTGATCCAAGCACAACGTGACTACTTTGGTGCTCACACTTACCAACGTAAAGACAAAGAAGGAACCTTCC
+ACTACTCTTGGTATGACGAAAAATA</dna_sequence>
+        <protein_sequence>>WP_000158781.1 MULTISPECIES: NADP-dependent phosphogluconate dehydrogenase [Streptococcus]
+MTKANFGVVGMAVMGRNLALNIESRGYTVAIYNRSKEKTEDVIACHPEKNFVPSYDVESFVNSIEKPRRI
+MLMVQAGPGTDATIQALLPHLDKGDILIDGGNTFYKDTIRRNEELANSGINFIGTGVSGGEKGALEGPSI
+MPGGQKEAYELVADVLEEISAKAPEDGKPCVTYIGPDGAGHYVKMVHNGIEYGDMQLIAESYDLMQHLLG
+LSAEDMAEIFTEWNKGELDSYLIEITADILSRKDDEGQDGPIVDYILDAAGNKGTGKWTSQSSLDLGVPL
+SLITESVFARYISTYKEERVHASKVLPKPAAFNFEGDKAELIEKIRQALYFSKIISYAQGFAQLRVASKE
+NNWNLPFADIASIWRDGCIIRSRFLQKITDAYNRDADLANLLLDEYFLDVTAKYQQAVRDIVALAVQAGV
+PVPTFSAAITYFDSYRSADLPANLIQAQRDYFGAHTYQRKDKEGTFHYSWYDEK</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>BALB/c mice were immunized with recombinant 6-Phosphogluconate dehydrogenase (r6PGD) and boosted after 3 weeks. Immunized mice were challenged intranasally with a lethal dose of S. pneumoniae. Immunization of mice with r6PGD protected 60% (P &gt; 0.001) of mice for 5 days and 40% (P &gt; 0.05) of the mice for 21 days following intranasal lethal challenge [Ref1213:Daniely et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene836">
+        <gene_name>phpA</gene_name>
+        <strain>Streptococcus pneumoniae</strain>
+        <vo_id>VO_0012383</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>NP_358654</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:273578
+CDD:282170
+CDD:293251</xrefs>
+        <taxonomy_id>171101</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>histidine motif-containing protein</protein_name>
+        <protein_pi>5.38</protein_pi>
+        <protein_weight>92561.31</protein_weight>
+        <protein_length>947</protein_length>
+        <protein_note>streptococcal histidine triad protein; TIGR01363</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>NP_358654.1 histidine motif-containing protein [Streptococcus pneumoniae R6]
+MNQIYLRKEERMKINKKYLAGSVATLVLSVCAYELGLHQAQTVKENNRVSYIDGKQATQKTENLTPDEVS
+KREGINAEQIVIKITDQGYVTSHGDHYHYYNGKVPYDAIISEELLMKDPNYQLKDEDIISEIKGGYVIKV
+DGKYYVYLKDAAHADNVRTKEEINRQKQEHSQHREGGTPRNDGAVALARSQGRYTTDDGYIFNASDIIED
+TGDAYIVPHGDHYHYIPKNELSASELAAAKAFLSGRGNLSNSRTYRRQNSDNTSRTNWVPSVSNPGTTNT
+NTSNNSNTNSQASQSNDIDSLLKQLYKLPLSQRHVESDGLIFDPAQITSRTANGVAVPHGDHYHFIPYSQ
+LSPLEEKLARIIPLRYRSNHWVPDSRPEQPSPQSTPEPSPSPQPAPNPQPAPSNPIDEKLVKEAVRKVGD
+GYVFEENGVPRYIPAKDLSAETAAGIDSKLAKQESLSHKLGAKKTDLPSSDREFYNKAYDLLARIHQDLL
+DNKGRQVDFEALDNLLERLKDVSSDKVKLVDDILAFLAPIRHPERLGKPNAQITYTDDEIQVAKLAGKYT
+TEDGYIFDPRDITSDEGDAYVTPHMTHSHWIKKDSLSEAERAAAQAYAKEKGLTPPSTDHQDSGNTEAKG
+AEAIYNRVKAAKKVPLDRMPYNLQYTVEVKNGSLIIPHYDHYHNIKFEWFDEGLYEAPKGYSLEDLLATV
+KYYVEHPNERPHSDNGFGNASDHVQRNKNGQADTNQTEKPNEEKPQTEKPEEETPREEKPQSEKPESPKP
+TEEPEEESPEESPEESEEPQVETEKVKEKLREAEDLLGKIQNPIIKSNAKETLTGLKNNLLFGTQDNNTI
+MAEAEKLLALLKESK</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunization with rPhpA-79 protein adjuvanted with monophosphoryl lipid A (for subcutaneous immunization) or a mutant cholera toxin, CT-E29H (for intranasal immunization), protected CBA/N mice against death and bacteremia, as well as reduced nasopharyngeal colonization, following intranasal challenge with a heterologous pneumococcal strain [Ref1492:Zhang et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene623">
+        <gene_name>PiaA</gene_name>
+        <strain>Streptococcus pneumoniae D39</strain>
+        <vo_id>VO_0011207</vo_id>
+        <ncbi_gene_id>4442863</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>WP_000731179</ncbi_protein_id>
+        <gene_locus_tag>SPD_0226</gene_locus_tag>
+        <gene_refseq>CP000410</gene_refseq>
+        <protein_refseq>YP_815744</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:328725</xrefs>
+        <taxonomy_id>1313</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>216000</gene_start>
+        <gene_end>216368</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>extracellular solute-binding protein</protein_name>
+        <protein_pi>4.84</protein_pi>
+        <protein_weight>35132.62</protein_weight>
+        <protein_length>424</protein_length>
+        <protein_note>Type 2 periplasmic binding fold superfamily; cl21456</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008533.1:216000-216368 Streptococcus pneumoniae D39, complete genome
+TTTACTGTTTAGATTGGATATCTGTAAAGACTTCGTTGTATTTCTTAACGATATCTGATTTATTCTTGAT
+GACATAATCATAATCTTCAGTGAGTGTTTTGATTTTGTCAATTGGTTTCATGTTTTCGCTTGTTTTAGCA
+TTTTTACGAACAGGACGGTTAGTAGTGGTTGTACCAAGTGTATCTTGTACTTCTTGAGAGATAATAAAAT
+CGATAAATTTCTTGGCATTTTCCATATTTTTAGATTTTTTAACGATAGCAGCACTAGCAGGTAGGAAGAC
+GGTTCCTTCTTTTGGATAGACTACTTTAATGTTAGCTCCGTCATTTAAGAGTTTAACTGCTGAATCTTCA
+TAAGAGAGACCAACAGTCA</dna_sequence>
+        <protein_sequence>>WP_000731179.1 extracellular solute-binding protein [Streptococcus pneumoniae]
+MKKKWMYYAACSSNESADDSSSDKGDGGSLVVYSPNSEGLIGATIPAFEEKYGIKVELIQAGTGELFKKL
+ESEKEVPVADVIFGGSYTQYTTHGELFENYTSKENDNVIKEYQNTTGYSTPYTLDGSVLIVNPDLTKGMN
+IEGYNDLFKPELKGKIATADPANSSSAFAQLTNMLQAQGGYKDDKAWSYVKDLFTLIDGKIGSSSSSVYK
+VVADGEMAVGLSYEDPAVKLLNDGANIKVVYPKEGTVFLPASAAIVKKSKNMENAKKFIDFIISQEVQDT
+LGTTTTNRPVRKNAKTSENMKPIDKIKTLTEDYDYVIKNKSDIVKKYNEVFTDIQSKQ</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice immunized with recombinant PiaA were protected against systemic challenge to a degree similar to those immunized with an existing protein vaccine candidate, PdB (a genetically modified pneumolysin toxoid). Immunization with a combination of both PiuA and PiaA resulted in additive protection and was highly protective against systemic infection with S. pneumoniae [Ref1214:Brown et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene4404">
+        <gene_name>PlyD1</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>detoxified pneumolysin [Streptococcus pneumoniae]
+MANKAVNDFILAMNYDKKKLLTHQGESIENRFIKEGNQLPDEFVVIERKKRSLSTNTSDISVTACNDSRL
+YPGALLVVDETLLENNPTLLAVDRAPMTYSIDLPGLASSDSFLQVEDPSNSSVRGAVNDLLAKWHQDYGQ
+VNNVPARMQYEKITAHSMEQLKVKFGSDFEKTGNSLDIDFNSVHSGEKQIQIVNFKQIYYTVSVDAVKNP
+GDVFQDTVTVEDLKQRGISAERPLVYISSVAYGRQVYLKLETTSKSDEVEAAFEALIKGVKVAPQTEWKQ
+ILDNTEVKAVILGCDPSSGARVVTGKVDMVEDLIQEGSRFTADHPGLPISYTTSFLRDNVVATFQNSTDY
+VETKVTAYRNGDLLLDHSGAYVAQYYITWNELSYDHQGKEVLTPKAWDRNGQDLTAHFTTSIPLKGNVRN
+LSVKIREATGLAWEWWRTVYEKTDLPLVRKRTISIWGTTLYPQVEDKVEND</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Results have shown that PlyD1 immunization protected mice against lethal intranasal (i.n.) challenge with pneumococci and lung injury mediated by PLY challenge. [Ref5093:Salha et al., 2012]
+PlyD1 significantly reduced bacterial burden in MEF at 48 hpi (p = 0.02)[Ref4728:Xu et al., 2017]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene605">
+        <gene_name>psaA</gene_name>
+        <strain>Streptococcus pneumoniae</strain>
+        <vo_id>VO_0011190</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>NP_359087</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id>1PSZ</pdb_id>
+        <xrefs>CDD:238557</xrefs>
+        <taxonomy_id>171101</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ABC transporter substrate-binding protein - manganese transport</protein_name>
+        <protein_pi>5.19</protein_pi>
+        <protein_weight>33579.58</protein_weight>
+        <protein_length>421</protein_length>
+        <protein_note>Metal binding protein PsaA. These proteins have been shown to function as initial receptors in ABC transport of Mn2+ and as surface adhesins in some eubacterial species. They belong to the TroA superfamily of periplasmic metal binding proteins that...; cd01137</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAL00298.1 ABC transporter substrate-binding protein - manganese transport [Streptococcus pneumoniae R6]
+MKKLGTLLVLFLSAIILVACASGKKDTTSGQKLKVVATNSIIADITKNIAGDKIDLHSIVPIGQDPHEYE
+PLPEDVKKTSEADLIFYNGINLETGGNAWFTKLVENAKKTENKDYFAVSDGVDVIYLEGQNEKGKEDPHA
+WLNLENGIIFAKNIAKQLSAKDPNNKEFYEKNLKEYTDKLDKLDKESKDKFNKIPAEKKLIVTSEGAFKY
+FSKAYGVPSAYIWEINTEEEGTPEQIKTLVEKLRQTKVPSLFVESSVDDRPMKTVSQDTNIPIYAQIFTD
+SIAEQGKEGDSYYSMMKYNLDKIAEGLAK</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Vaccination with an RASV synthesizing full-length PsaA induced high titers of anti-PsaA antibodies in both systemic (IgG in serum) and mucosal (IgA in vaginal washes, nasal washes, and lung homogenates) sites. BALB/c (haplotype H2(d)) or C57BL/6 (haplotype H2(b)) mice vaccinated either orally or intranasally exhibited a significant reduction in colonization of nasopharyngeal tissues after intranasal challenge with S. pneumoniae strains compared to controls, although protection was not observed with all challenge strains. None of the vaccine constructs provided protection against intraperitoneal challenge with S. pneumoniae strain WU2 (serotype 3) [Ref1202:Wang et al., 2010].
+The results of colonization experiment showed that compared with the control group, the PepO, PsaA, and combined immunization groups showed a significant reduction in the colonization of Streptococcus pneumoniae (CMCC31693 and CMCC31207) in the nasopharynx and lung (P&gt;0.05).[Ref4933:Zhang et al., 2017]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene620">
+        <gene_name>PspA</gene_name>
+        <strain>Streptococcus pneumoniae D39</strain>
+        <vo_id>VO_0011204</vo_id>
+        <ncbi_gene_id>4441373</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>116515876</ncbi_protein_id>
+        <gene_locus_tag>SPD_0126</gene_locus_tag>
+        <gene_refseq>CP000410</gene_refseq>
+        <protein_refseq>YP_815641</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>373153</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>128355</gene_start>
+        <gene_end>130214</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>surface protein A</protein_name>
+        <protein_pi>4.82</protein_pi>
+        <protein_weight>66023.6</protein_weight>
+        <protein_length>619</protein_length>
+        <protein_note>equivalent gene in S.pneumoniae R6 = spr0121; identified by match to protein family HMM PF01473</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008533.1:128355-130214 Streptococcus pneumoniae D39, complete genome
+GATGAATAAGAAAAAAATGATTTTAACAAGTCTAGCCAGCGTCGCTATCTTAGGGGCTGGTTTTGTTGCG
+TCTCAGCCTACTGTTGTAAGAGCAGAAGAATCTCCCGTAGCCAGTCAGTCTAAAGCTGAGAAAGACTATG
+ATGCAGCGAAGAAAGATGCTAAGAATGCGAAAAAAGCAGTAGAAGATGCTCAAAAGGCTTTAGATGATGC
+AAAAGCTGCTCAGAAAAAATATGACGAGGATCAGAAGAAAACTGAGGAGAAAGCCGCGCTAGAAAAAGCA
+GCGTCTGAAGAGATGGATAAGGCAGTGGCAGCAGTTCAACAAGCGTATCTAGCCTATCAACAAGCTACAG
+ACAAAGCCGCAAAAGACGCAGCAGATAAGATGATAGATGAAGCTAAGAAACGCGAAGAAGAGGCAAAAAC
+TAAATTTAATACTGTTCGAGCAATGGTAGTTCCTGAGCCAGAGCAGTTGGCTGAGACTAAGAAAAAATCA
+GAAGAAGCTAAACAAAAAGCACCAGAACTTACTAAAAAACTAGAAGAAGCTAAAGCAAAATTAGAAGAGG
+CTGAGAAAAAAGCTACTGAAGCCAAACAAAAAGTGGATGCTGAAGAAGTCGCTCCTCAAGCTAAAATCGC
+TGAATTGGAAAATCAAGTTCATAGACTAGAACAAGAGCTCAAAGAGATTGATGAGTCTGAATCAGAAGAT
+TATGCTAAAGAAGGTTTCCGTGCTCCTCTTCAATCTAAATTGGATGCCAAAAAAGCTAAACTATCAAAAC
+TTGAAGAGTTAAGTGATAAGATTGATGAGTTAGACGCTGAAATTGCAAAACTTGAAGATCAACTTAAAGC
+TGCTGAAGAAAACAATAATGTAGAAGACTACTTTAAAGAAGGTTTAGAGAAAACTATTGCTGCTAAAAAA
+GCTGAATTAGAAAAAACTGAAGCTGACCTTAAGAAAGCAGTTAATGAGCCAGAAAAACCAGCTCCAGCTC
+CAGAAACTCCAGCCCCAGAAGCACCAGCTGAACAACCAAAACCAGCGCCGGCTCCTCAACCAGCTCCCGC
+ACCAAAACCAGAGAAGCCAGCTGAACAACCAAAACCAGAAAAAACAGATGATCAACAAGCTGAAGAAGAC
+TATGCTCGTAGATCAGAAGAAGAATATAATCGCTTGACTCAACAGCAACCGCCAAAAGCTGAAAAACCAG
+CTCCTGCACCAAAAACAGGCTGGAAACAAGAAAACGGTATGTGGTACTTCTACAATACTGATGGTTCAAT
+GGCGACAGGATGGCTCCAAAACAACGGTTCATGGTACTACCTCAACAGCAATGGTGCTATGGCTACAGGT
+TGGCTCCAATACAATGGTTCATGGTATTACCTCAACGCTAACGGCGCTATGGCAACAGGTTGGGCTAAAG
+TCAACGGTTCATGGTACTACCTCAACGCTAATGGTGCTATGGCTACAGGTTGGCTCCAATACAACGGTTC
+ATGGTATTACCTCAACGCTAACGGCGCTATGGCAACAGGTTGGGCTAAAGTCAACGGTTCATGGTACTAC
+CTCAACGCTAATGGTGCTATGGCTACAGGTTGGCTCCAATACAACGGTTCATGGTACTACCTCAACGCTA
+ACGGTGCTATGGCTACAGGTTGGGCTAAAGTCAACGGTTCATGGTACTACCTCAACGCTAATGGTGCTAT
+GGCAACAGGTTGGGTGAAAGATGGAGATACCTGGTACTATCTTGAAGCATCAGGTGCTATGAAAGCAAGC
+CAATGGTTCAAAGTATCAGATAAATGGTACTATGTCAATGGTTTAGGTGCCCTTGCAGTCAACACAACTG
+TAGATGGCTATAAAGTCAATGCCAATGGTGAATGGGTTTA
+
+</dna_sequence>
+        <protein_sequence>>YP_815641.1 surface protein A [Streptococcus pneumoniae D39]
+MNKKKMILTSLASVAILGAGFVASQPTVVRAEESPVASQSKAEKDYDAAKKDAKNAKKAVEDAQKALDDA
+KAAQKKYDEDQKKTEEKAALEKAASEEMDKAVAAVQQAYLAYQQATDKAAKDAADKMIDEAKKREEEAKT
+KFNTVRAMVVPEPEQLAETKKKSEEAKQKAPELTKKLEEAKAKLEEAEKKATEAKQKVDAEEVAPQAKIA
+ELENQVHRLEQELKEIDESESEDYAKEGFRAPLQSKLDAKKAKLSKLEELSDKIDELDAEIAKLEDQLKA
+AEENNNVEDYFKEGLEKTIAAKKAELEKTEADLKKAVNEPEKPAPAPETPAPEAPAEQPKPAPAPQPAPA
+PKPEKPAEQPKPEKTDDQQAEEDYARRSEEEYNRLTQQQPPKAEKPAPAPKTGWKQENGMWYFYNTDGSM
+ATGWLQNNGSWYYLNSNGAMATGWLQYNGSWYYLNANGAMATGWAKVNGSWYYLNANGAMATGWLQYNGS
+WYYLNANGAMATGWAKVNGSWYYLNANGAMATGWLQYNGSWYYLNANGAMATGWAKVNGSWYYLNANGAM
+ATGWVKDGDTWYYLEASGAMKASQWFKVSDKWYYVNGLGALAVNTTVDGYKVNANGEWV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Groups of BALB/c mice immunized with choline binding protein PspA were challenged with either D39 or WCH16. PspA elicited protection by using moderate challenge doses of S. pneumoniae [Ref1212:Ogunniyi et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene615">
+        <gene_name>SrtA</gene_name>
+        <strain>Streptococcus pneumoniae D39</strain>
+        <vo_id>VO_0011199</vo_id>
+        <ncbi_gene_id>4442999</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>116515518</ncbi_protein_id>
+        <gene_locus_tag>SPD_1076</gene_locus_tag>
+        <gene_refseq>CP000410</gene_refseq>
+        <protein_refseq>YP_816547</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>373153</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1102250</gene_start>
+        <gene_end>1102993</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>sortase</protein_name>
+        <protein_pi>5.46</protein_pi>
+        <protein_weight>26445.89</protein_weight>
+        <protein_length>247</protein_length>
+        <protein_note>equivalent gene in S.pneumoniae TIGR4 = SP1218; equivalent gene in S.pneumoniae R6 = spr1098; identified by match to protein family HMM PF04203; match to protein family HMM TIGR01076</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_008533.1:1102250-1102993 Streptococcus pneumoniae D39, complete genome
+ATTAATAAAATTGTTTATATGGTTGATTGAAAGCTGTTAGGATTTCATCAGATGTTTGTGAATAATCTTT
+TGTTTCTTTCAAATCACCTTTGACAATAATACGTTCTGTAGCAGCAAGGTCTTCACAGGTTACTAATGTG
+ATTTCATTGACCCCATCTCTATCATCAACTTCATCAACACGATCTGGTGTCACACGTTTGACTTCACGTA
+TTTCATAAGTATAAACTTTATTTTTATCGGTTAGATAAATCTTCATGCCATTTTTAGCATTATCTAAAGG
+AGAAAATAACATTTTATTAGCATTATCAACACCAAAGATATGGTGACTAGCTAGACTATAATTTCCTTCT
+CCCATTACTTGCTCGCGTTTCATTGTACCAGCTCCGTAGAAGAGATTAACATTATCAAGTCCTTTAAAAA
+TCGGCAAATTCATTTCCAATTCAGGAATTGCAATTCCCCCAATAACTGGTAATTTTTGAGCATCCCATTG
+AGAAGTTAGAACAGCTTCCGAAGAGATAGCTTTGACAGAATCAAAGTCAAAATTGCCTTCTGTATCCTGA
+TTTTCTTCTAATTTTTCTTTTGATACCTGGCTAACTTGATACTTATTGGTATTCCAGACTATGAAAATAT
+TTCGAATTTGAGTATTAAAAATCAAAGCCAGTGACAGTAATATCAGAAATCCTGCTAGGATATTTGTCAG
+CAGATTTTTTCGCTTGTTTTTCTTTTTATTATTTTTTTGAGACA
+
+</dna_sequence>
+        <protein_sequence>>YP_816547.1 sortase [Streptococcus pneumoniae D39]
+MSQKNNKKKNKRKNLLTNILAGFLILLSLALIFNTQIRNIFIVWNTNKYQVSQVSKEKLEENQDTEGNFD
+FDSVKAISSEAVLTSQWDAQKLPVIGGIAIPELEMNLPIFKGLDNVNLFYGAGTMKREQVMGEGNYSLAS
+HHIFGVDNANKMLFSPLDNAKNGMKIYLTDKNKVYTYEIREVKRVTPDRVDEVDDRDGVNEITLVTCEDL
+AATERIIVKGDLKETKDYSQTSDEILTAFNQPYKQFY
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Intraperitoneal immunization with recombinant SrtA was found to have  conferred to mice protection against S. pneumoniae intraperitoneal challenge and the passive transfer of immune serum before intraperitoneal challenge was also protective. Moreover, by using the intranasal challenge model,  significant reduction of bacteremia when mice were intraperitoneally immunized with SrtA was observed, while a moderate decrease of lung infection was achieved by intranasal immunization, even though no influence on nasopharynx colonization was seen [Ref1208:Gianfaldoni et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference4753">
+		<reference_name>Anderson et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Anderson RJ, Guru S, Weeratna R, Makinen S, Falconer DJ, Sheppard NC, Lang S, Chang B, Goenaga AL, Green BA, Merson JR, Gracheck SJ, Eyles JE</authors>
+		<title>In vivo screen of genetically conserved Streptococcus pneumoniae proteins for protective immunogenicity</title>
+		<year>2016</year>
+		<volume>34</volume>
+		<issue>50</issue>
+		<pages>6292-6300</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1214">
+		<reference_name>Brown et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brown JS, Ogunniyi AD, Woodrow MC, Holden DW, Paton JC</authors>
+		<title>Immunization with components of two iron uptake ABC transporters protects mice against systemic Streptococcus pneumoniae infection</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>11</issue>
+		<pages>6702-6706</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4826">
+		<reference_name>Chen et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen A, Mann B, Gao G, Heath R, King J, Maissoneuve J, Alderson M, Tate A, Hollingshead SK, Tweten RK, Briles DE, Tuomanen EI, Paton JC</authors>
+		<title>Multivalent Pneumococcal Protein Vaccines Comprising Pneumolysoid with Epitopes/Fragments of CbpA and/or PspA Elicit Strong and Broad Protection</title>
+		<year>2015</year>
+		<volume>22</volume>
+		<issue>10</issue>
+		<pages>1079-1089</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1213">
+		<reference_name>Daniely et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Daniely D, Portnoi M, Shagan M, Porgador A, Givon-Lavi N, Ling E, Dagan R, Mizrachi Nebenzahl Y</authors>
+		<title>Pneumococcal 6-phosphogluconate-dehydrogenase, a putative adhesin, induces protective immune response in mice</title>
+		<year>2006</year>
+		<volume>144</volume>
+		<issue>2</issue>
+		<pages>254-263</pages>
+		<journal_book_name>Clinical and experimental immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference772">
+		<reference_name>FDA: PNEUMOVAX 23</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: PNEUMOVAX 23 Vaccine for Streptococcus pneumoniae</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094055.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference768">
+		<reference_name>FDA: Prevnar</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Pneumococcal 7-valent Conjugate Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094057.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1560">
+		<reference_name>FDA: Prevnar 13</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Prevnar 13</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm201667.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2528">
+		<reference_name>Ferreira et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ferreira DM, Miyaji EN, Oliveira ML, Darrieux M, ArÃªas AP, Ho PL, Leite LC</authors>
+		<title>DNA vaccines expressing pneumococcal surface protein A (PspA) elicit protection levels comparable to recombinant protein</title>
+		<year>2006</year>
+		<volume>55</volume>
+		<issue>Pt 4</issue>
+		<pages>375-378</pages>
+		<journal_book_name>Journal of medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1208">
+		<reference_name>Gianfaldoni et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gianfaldoni C, Maccari S, Pancotto L, Rossi G, Hilleringmann M, Pansegrau W, Sinisi A, Moschioni M, Masignani V, Rappuoli R, Del Giudice G, Ruggiero P</authors>
+		<title>Sortase A confers protection against Streptococcus pneumoniae in mice</title>
+		<year>2009</year>
+		<volume>77</volume>
+		<issue>7</issue>
+		<pages>2957-2961</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4818">
+		<reference_name>Gonz�lez-Miro et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gonz�lez-Miro M, Rodr�guez-Noda L, Fari�as-Medina M, Garc�a-Rivera D, V�rez-Bencomo V, Rehm BHA</authors>
+		<title>Self-assembled particulate PsaA as vaccine against &lt;i&gt;Streptococcus pneumoniae&lt;/i&gt; infection</title>
+		<year>2017</year>
+		<volume>3</volume>
+		<issue>4</issue>
+		<pages>e00291</pages>
+		<journal_book_name>Heliyon</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1559">
+		<reference_name>GSK: Synflorix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Synflorix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.gsk.ca/english/docs-pdf/Synflorix_PM_20090505_EN.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2037">
+		<reference_name>Jakobsen et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jakobsen H, Schulz D, Pizza M, Rappuoli R, Jónsdóttir I</authors>
+		<title>Intranasal immunization with pneumococcal polysaccharide conjugate vaccines with nontoxic mutants of Escherichia coli heat-labile enterotoxins as adjuvants protects mice against invasive pneumococcal infections</title>
+		<year>1999</year>
+		<volume>67</volume>
+		<issue>11</issue>
+		<pages>5892-5897</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4936">
+		<reference_name>Jang et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jang AY, Seo HS, Lin S, Chung GH, Kim HW, Lim S, Zhao L, Park IH, Lim JH, Kim KH</authors>
+		<title>Molecular characterization of pneumococcal surface protein K, a potential pneumococcal vaccine antigen</title>
+		<year>2017</year>
+		<volume>8</volume>
+		<issue>6</issue>
+		<pages>875-890</pages>
+		<journal_book_name>Virulence</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5091">
+		<reference_name>Khan et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Khan MN, Bansal A, Shukla D, Paliwal P, Sarada SK, Mustoori SR, Banerjee PK</authors>
+		<title>Immunogenicity and protective efficacy of DnaJ (hsp40) of Streptococcus pneumoniae against lethal infection in mice</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>37-39</issue>
+		<pages>6225-6231</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2795">
+		<reference_name>Langermann et al., 1994</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Langermann S, Palaszynski SR, Burlein JE, Koenig S, Hanson MS, Briles DE, Stover CK</authors>
+		<title>Protective humoral response against pneumococcal infection in mice elicited by recombinant bacille Calmette-GuÃ©rin vaccines expressing pneumococcal surface protein A</title>
+		<year>1994</year>
+		<volume>180</volume>
+		<issue>6</issue>
+		<pages>2277-2286</pages>
+		<journal_book_name>The Journal of experimental medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5092">
+		<reference_name>McNeil et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McNeil SA, Halperin SA, Langley JM, Smith B, Warren A, Sharratt GP, Baxendale DM, Reddish MA, Hu MC, Stroop SD, Linden J, Fries LF, Vink PE, Dale JB</authors>
+		<title>Safety and immunogenicity of 26-valent group a streptococcus vaccine in healthy adult volunteers</title>
+		<year>2005</year>
+		<volume>41</volume>
+		<issue>8</issue>
+		<pages>1114-1122</pages>
+		<journal_book_name>Clinical infectious diseases : an official publication of the Infectious Diseases Society of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference716">
+		<reference_name>Merck: PNEUMOVAX 23</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Merck: PNEUMOVAX 23</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.merckvaccines.com/vaccines/pneu/index.html</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2529">
+		<reference_name>Miyaji et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Miyaji EN, Dias WO, Gamberini M, Gebara VC, Schenkman RP, Wild J, Riedl P, Reimann J, Schirmbeck R, Leite LC</authors>
+		<title>PsaA (pneumococcal surface adhesin A) and PspA (pneumococcal surface protein A) DNA vaccines induce humoral and cellular immune responses against Streptococcus pneumoniae</title>
+		<year>2001</year>
+		<volume>20</volume>
+		<issue>5-6</issue>
+		<pages>805-812</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1210">
+		<reference_name>Mizrachi et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mizrachi Nebenzahl Y, Bernstein A, Portnoi M, Shagan M, Rom S, Porgador A, Dagan R</authors>
+		<title>Streptococcus pneumoniae surface-exposed glutamyl tRNA synthetase, a putative adhesin, is able to induce a partially protective immune response in mice</title>
+		<year>2007</year>
+		<volume>196</volume>
+		<issue>6</issue>
+		<pages>945-953</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1273">
+		<reference_name>Morsczeck et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Morsczeck C, Prokhorova T, Sigh J, Pfeiffer M, Bille-Nielsen M, Petersen J, Boysen A, Kofoed T, Frimodt-Møller N, Nyborg-Nielsen P, Schrotz-King P</authors>
+		<title>Streptococcus pneumoniae: proteomics of surface proteins for vaccine development</title>
+		<year>2008</year>
+		<volume>14</volume>
+		<issue>1</issue>
+		<pages>74-81</pages>
+		<journal_book_name>Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1274">
+		<reference_name>Ogunniyi et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ogunniyi AD, Woodrow MC, Poolman JT, Paton JC</authors>
+		<title>Protection against Streptococcus pneumoniae elicited by immunization with pneumolysin and CbpA</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>10</issue>
+		<pages>5997-6003</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1212">
+		<reference_name>Ogunniyi et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ogunniyi AD, Grabowicz M, Briles DE, Cook J, Paton JC</authors>
+		<title>Development of a vaccine against invasive pneumococcal disease based on combinations of virulence proteins of Streptococcus pneumoniae</title>
+		<year>2007</year>
+		<volume>75</volume>
+		<issue>1</issue>
+		<pages>350-357</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference714">
+		<reference_name>Ortqvist et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ortqvist A, Hedlund J, Kalin M</authors>
+		<title>Streptococcus pneumoniae: epidemiology, risk factors, and clinical features</title>
+		<year>2005</year>
+		<volume>26</volume>
+		<issue>6</issue>
+		<pages>563-574</pages>
+		<journal_book_name>Seminars in respiratory and critical care medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1651">
+		<reference_name>Roche et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Roche AM, King SJ, Weiser JN</authors>
+		<title>Live attenuated Streptococcus pneumoniae strains induce serotype-independent mucosal and systemic protection in mice</title>
+		<year>2007</year>
+		<volume>75</volume>
+		<issue>5</issue>
+		<pages>2469-2475</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5093">
+		<reference_name>Salha et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Salha D, Szeto J, Myers L, Claus C, Sheung A, Tang M, Ljutic B, Hanwell D, Ogilvie K, Ming M, Messham B, van den Dobbelsteen G, Hopfer R, Ochs MM, Gallichan S</authors>
+		<title>Neutralizing antibodies elicited by a novel detoxified pneumolysin derivative, PlyD1, provide protection against both pneumococcal infection and lung injury</title>
+		<year>2012</year>
+		<volume>80</volume>
+		<issue>6</issue>
+		<pages>2212-2220</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference988">
+		<reference_name>Shi et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shi H, Wang S, Roland KL, Gunn BM, Curtiss R 3rd</authors>
+		<title>Immunogenicity of a live recombinant Salmonella enterica serovar typhimurium vaccine expressing pspA in neonates and infant mice born from naive and immunized mothers</title>
+		<year>2010</year>
+		<volume>17</volume>
+		<issue>3</issue>
+		<pages>363-371</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1205">
+		<reference_name>Shivshankar et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shivshankar P, Sanchez C, Rose LF, Orihuela CJ</authors>
+		<title>The Streptococcus pneumoniae adhesin PsrP binds to Keratin 10 on lung cells</title>
+		<year>2009</year>
+		<volume>73</volume>
+		<issue>4</issue>
+		<pages>663-679</pages>
+		<journal_book_name>Molecular microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1461">
+		<reference_name>Textbook of Bacteriology</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Online Textbook of Bacteriology: Streptococcus pneumoniae</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://textbookofbacteriology.net/S.pneumoniae.html</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4819">
+		<reference_name>Tostes et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tostes RO, Rodrigues TC, da Silva JB, Schanoski AS, Oliveira ML, Miyaji EN</authors>
+		<title>Protection Elicited by Nasal Immunization with Recombinant Pneumococcal Surface Protein A (rPspA) Adjuvanted with Whole-Cell Pertussis Vaccine (wP) against Co-Colonization of Mice with Streptococcus pneumoniae</title>
+		<year>2017</year>
+		<volume>12</volume>
+		<issue>1</issue>
+		<pages>e0170157</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2527">
+		<reference_name>Vadesilho et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Vadesilho CF, Ferreira DM, Moreno AT, Chavez-Olortegui C, Machado de Avila RA, Oliveira ML, Ho PL, Miyaji EN</authors>
+		<title>Characterization of the antibody response elicited by immunization with pneumococcal surface protein A (PspA) as recombinant protein or DNA vaccine and analysis of protection against an intranasal lethal challenge with Streptococcus pneumoniae</title>
+		<year>2012</year>
+		<volume>53</volume>
+		<issue>5-6</issue>
+		<pages>243-249</pages>
+		<journal_book_name>Microbial pathogenesis</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1202">
+		<reference_name>Wang et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang S, Li Y, Shi H, Scarpellini G, Torres-Escobar A, Roland KL, Curtiss R 3rd</authors>
+		<title>Immune responses to recombinant pneumococcal PsaA antigen delivered by a live attenuated Salmonella vaccine</title>
+		<year>2010</year>
+		<volume>78</volume>
+		<issue>7</issue>
+		<pages>3258-3271</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference715">
+		<reference_name>Wiki: S. pneumoniae</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wikipedia: Streptococcus pneumoniae</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Streptococcus_pneumoniae</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1203">
+		<reference_name>Wu et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wu K, Zhang X, Shi J, Li N, Li D, Luo M, Cao J, Yin N, Wang H, Xu W, He Y, Yin Y</authors>
+		<title>Immunization with a combination of three pneumococcal proteins confers additive and broad protection against Streptococcus pneumoniae Infections in Mice</title>
+		<year>2010</year>
+		<volume>78</volume>
+		<issue>3</issue>
+		<pages>1276-1283</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4728">
+		<reference_name>Xu et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xu Q, Pryharski K, Pichichero ME</authors>
+		<title>Trivalent pneumococcal protein vaccine protects against experimental acute otitis media caused by Streptococcus pneumoniae in an infant murine model</title>
+		<year>2017</year>
+		<volume>35</volume>
+		<issue>2</issue>
+		<pages>337-344</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1492">
+		<reference_name>Zhang et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang Y, Masi AW, Barniak V, Mountzouros K, Hostetter MK, Green BA</authors>
+		<title>Recombinant PhpA protein, a unique histidine motif-containing protein from Streptococcus pneumoniae, protects mice against intranasal pneumococcal challenge</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>6</issue>
+		<pages>3827-3836</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4933">
+		<reference_name>Zhang et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang J, Cui YL, Jiang YM</authors>
+		<title>[Immunoprotective effect of combined pneumococcal endopeptidase O and pneumococcal surface adhesin A vaccines against Streptococcus pneumoniae infection]</title>
+		<year>2017</year>
+		<volume>19</volume>
+		<issue>5</issue>
+		<pages>583-589</pages>
+		<journal_book_name>Zhongguo dang dai er ke za zhi = Chinese journal of contemporary pediatrics</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

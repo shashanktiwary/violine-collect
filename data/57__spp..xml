@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen132">
+		<pathogen_name>Coccidioides spp.</pathogen_name>
+		<taxon_id>5500</taxon_id>
+		<pathogenesis refs="reference1553">The tiny spores (2 × 4 μm) convert into multinucleate round cells (spherules) within the lungs of the host and undergo isotropic growth to produce large parasitic cells (60 to &gt; 100 μm in diameter). The latter undergo an elaborate process of wall growth and cytoplasmic compartmentalization to form and release a multitude of endospores (4–10 μm in diameter). Each endospore grows and differentiates into a second-generation spherule, which is again able to yield an average of 200 to 300 endospores. Mature spherules most likely escape phagocytosis simply because they are too large to be ingested by neutrophils, macrophages, and dendritic cells (Hung et al., 2007).</pathogenesis>
+		<disease_name>Coccidioidomycosis (California disease, Desert rheumatism, San Joaquin valley fever,  and Valley fev</disease_name>
+		<protective_immunity refs="reference1385">Both clinical and experimental evidence have demonstrated that T-cell immunity is pivotal for defense against this respiratory disease. The ability of the host to elicit a strong delayed-type hypersensitivity response to the pathogen is essential (Tarcha et al., 2006).</protective_immunity>
+		<host_range refs="reference1388">Coccidiomycosis is mainly a disease of immunocompromised in humans, but mice and monkeys have been used as animal models of disease (Ivey et al., 2003).</host_range>
+		<introduction refs="reference1385">Coccidioidomycosis is a human respiratory disease caused by inhalation of airborne spores produced by Coccidioides spp (Coccidioides immitis and C. posadasii). The pathogen is an anamorphic (asexual) ascomycetous fungus which resides in alkaline desert and semidesert soil in regions of the southwestern United States. The major areas where this disease is endemic include some of the most rapidly growing communities of Arizona and southern California. People who are frequently exposed to dust from the soil in these regions have a high chance of infection with Coccidioides. Recurrent epidemics of coccidioidomycosis appear to be correlated with climatic conditions. Periods of rain in the spring enhance growth of the soilborne saprobic phase of Coccidioides, which results in “blooms” of spores that are air dispersed during the late fall and winter seasons. Risk factors known to contribute to symptomatic coccidioidal infection include pregnancy (third trimester), immunosuppression, age (&gt;65 years), and racial or geographic origin. Antifungal drug therapy for coccidioidomycosis (e.g., amphotericin B, fluconazole, or intraconazole) is typically continued for many months to years. Persons who contract coccidioidal meningitis require lifelong therapy. Coccidioides infection can be life threatening and, at the very least, is responsible for high medical costs incurred by patients as a result of hospitalization, clinic visits, lost wages, and long-term drug therapy (Tarcha et al., 2006).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine851">
+		<vaccine_name>C. immitis Subunit URE Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011463</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1390">CpG ODN (Li et al., 2001)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering321" gene_id="gene800">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response609" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1390">Mice each were immunized s.c. with recombinant protein (15 μg of rURE) or bovine serum albumin for control group (Li et al., 2001).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1390">The rURE-immune mice showed significantly lower counts of C. immitis in both lungs and spleens compared to control mice immunized with BSA plus CpG ODN (Li et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1390">Mice were challenged by the i.p. route at 14 days after the last protein immunization or 30 days after the last DNA immunization. The inoculum contained 100 viable arthroconidia in 100 μl of PBS (Li et al., 2001).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine849">
+		<vaccine_name>C. posadasii DNA Vaccine encoding PRA Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011461</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pVR1012 [Ref1392:Awasthi et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering320" gene_id="gene802">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response608" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL6</host_strain>
+			<vaccination_protocol refs="reference1392">C57BL6 mice were anesthetized by i.m. injection of ketamine-xylazine (75 µg/g and 10 µg/g body weight, respectively). Transfected DCs (1–1.5 x 10^6 per 30 µl) were intranasally administered in both nares alternately. Comparative controls were Ag2/PRA plasmid DNA alone, nontransfected cells, and cells transfected with the vector plasmid alone. The immunization was performed twice at an interval of 1 wk (on days 0 and 7). The second immunization was given to boost the immune response (Awasthi et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1392">Upon necropsy after 10 days of infection, fungal burden in lung and spleen of immunized mice was significantly reduced as compared with the control animals. The lung tissue homogenates of immunized animals showed higher levels of IFN-gamma. Histologically, lung tissues of immunized mice were in better condition than the control mice (Awasthi et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1392">The immunized mice were infected with C. posadasii either i.p. or intranasally. Intranasal challenge was given on day 19 with 30 arthroconidia per 30 µl of saline, whereas the i.p. challenge was given on day 14 with 2500 arthroconidia per 500 µl of saline. The infected mice become symptomatic around day 9–10 and start dying on day 11. Therefore, the mice were sacrificed on 10th day of infection, and their lungs and spleens were collected (Awasthi et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine846">
+		<vaccine_name>C. posadasii Subunit GEL1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011490</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1389">CpG ODN (Integrated DNA Technologies, Inc., Coralville, Iowa) (Delgado et al., 2003).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering317" gene_id="gene799">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response605" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c, C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1389">Mice were immunized subcutaneously (s.c.) with rGel1p plus adjuvant. The mice were then boosted by s.c. immunization 14 days later with the same amount of immunogen plus adjuvant (Delgado et al., 2003).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1389">rGel1p-immune mice infected with the pathogen showed a significant reduction in fungal burden and increased survival compared to nonimmune mice (Delgado et al., 2003).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1389">The animals were subsequently challenged with 100 viable arthroconidia by the i.p. route 2 weeks after the last immunization and then sacrificed 12 days later to determine the residual CFU in the lungs and spleen (Delgado et al., 2003).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine848">
+		<vaccine_name>C. posadasii Subunit PMP1 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011460</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference1391">Monophosphoryl lipid A-stable emulsion (MPL-SE) adjuvant (Orsborn et al., 2006).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering318" gene_id="gene801">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response606" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1391">Mice were immunized subcutaneously with 1, 5, or 50 μg rPmp1 with monophosphoryl lipid A-stable emulsion (MPL-SE) adjuvant on day 0 and day 14. Control mice received adjuvant only (Orsborn et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1391">Vaccination with PMP1 elicited significant protection in mice and a reduction in colonization of organs by Coccidioides (Orsborn et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1391">Four weeks after boosting (day 42), the mice were infected intraperitoneally with 310 arthroconidia and sacrificed 2 weeks later (Orsborn et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene799">
+        <gene_name>GEL1</gene_name>
+        <strain>Coccidioides posadasii</strain>
+        <vo_id>VO_0011330</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>14582416</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:304882</xrefs>
+        <taxonomy_id>199306</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>glucanosyltransferase</protein_name>
+        <protein_pi>8.01</protein_pi>
+        <protein_weight>15771.51</protein_weight>
+        <protein_length>231</protein_length>
+        <protein_note>Glycosyl hydrolase family 1; cl23725</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAK69492.1 glucanosyltransferase, partial [Coccidioides posadasii]
+SGGLVYEYPQEPSNYGLVQLGKGKPKELDDFKALAKAFKGTKNPSGDGGYNSTGGANPCPKKNAPNWDVD
+SESLPAIPEPAKKFMKDGPGEGPGLSGKGSQNAGTQSSGTATPGSGSVDPTSSAGAAAGLRPEFGIAPMM
+CAMLVVLSSMFGASFIFMV
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The GEL1 mRNA of C. posadasii was detected at the highest level during the endosporulation stage of the parasitic cycle, and the mature protein was immunolocalized to the surface of endospores. BALB/c or C57BL/6 mice were immunized subcutaneously with the bacterium-expressed recombinant protein (rGel1p) to evaluate its protective efficacy against a lethal challenge of C. posadasii by either the intraperitoneal or intranasal route. In both cases, rGel1p-immune mice infected with the pathogen showed a significant reduction in fungal burden and increased survival compared to nonimmune mice [Ref1389:Delgado et al., 2003].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene801">
+        <gene_name>pmp1</gene_name>
+        <strain>Coccidioides posadasii</strain>
+        <vo_id>VO_0011332</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>78364922</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:239311</xrefs>
+        <taxonomy_id>199306</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>peroxisomal matrix protein</protein_name>
+        <protein_pi>5.21</protein_pi>
+        <protein_weight>16731.65</protein_weight>
+        <protein_length>234</protein_length>
+        <protein_note>Peroxiredoxin (PRX) family, PRX5-like subfamily; members are similar to the human protein, PRX5, a homodimeric TRX peroxidase, widely expressed in tissues and found cellularly in mitochondria, peroxisomes and the cytosol. The cellular location of PRX5...; cd03013</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABB42829.1 peroxisomal matrix protein [Coccidioides posadasii]
+MASLKAGDSFLSDVVFSYIPWTPDNKDIKACGMPQNYEASKLWADKKVVLFSLPGAFTPTCSASHLPGYI
+QKLPQLKEKGVDVVAVLAFNDAWVMSAWGKANGVTGDDILFLSDPEAKFSKSIGWNAGERTGRYAMIIDH
+GQVTYAEIEPGREVTVSGADAVISKL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Recombinant Pmp1 was reactive with serum from individuals with both acute and protracted disease, and evoked protection in two murine models of infection with C. posadasii [Ref1391:Orsborn et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene802">
+        <gene_name>pra</gene_name>
+        <strain>Coccidioides immitis</strain>
+        <vo_id>VO_0011333</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>42742528</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:128986
+CDD:282710</xrefs>
+        <taxonomy_id>5501</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>proline-rich antigen</protein_name>
+        <protein_pi>3.93</protein_pi>
+        <protein_weight>18554.97</protein_weight>
+        <protein_length>254</protein_length>
+        <protein_note>eight cysteine-containing domain present in fungal extracellular membrane proteins; smart00747</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAS45282.1 proline-rich antigen [Coccidioides immitis]
+MQFSHALIALVAAGLASAQLPDIPPCALNCFVEALGNDGCTRLTDFKCHCSKPELPGQITPCVEEACPLD
+ARISVSNIVVDQCSKAGVPIEIPPVDTTAAPEPSETAEPTAEPTEEPTAEPTAEPTAEPTHEPTEEPTAV
+PTGTGGGVPTGTGSFTVTGRPTASTPAEFPGAGSNVRASVGGIAAALLGLAAYL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>C57BL6 mice were immunized with syngeneic, bone marrow-derived DCs (JAWS II cells) transfected with a cDNA encoding the protective Coccidioides-Ag2/proline-rich Ag (pra). The immunized mice were lethally challenged with C. posadasii through either an i.p. or intranasal route. Upon necropsy after 10 days of infection, fungal burden in lung and spleen of immunized mice was significantly reduced as compared with the control animals. The lung tissue homogenates of immunized animals showed higher levels of IFN-gamma. Histologically, lung tissues of immunized mice were in better condition than the control mice [Ref1392:Awasthi et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene800">
+        <gene_name>URE</gene_name>
+        <strain>Coccidioides immitis</strain>
+        <vo_id>VO_0011331</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>73808050</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:294200</xrefs>
+        <taxonomy_id>5501</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>urease</protein_name>
+        <protein_pi>4.18</protein_pi>
+        <protein_weight>15939.32</protein_weight>
+        <protein_length>219</protein_length>
+        <protein_note>Superfamily of metallo-dependent hydrolases (also called amidohydrolase superfamily) is a large group of proteins that show conservation in their 3-dimensional fold (TIM barrel) and in details of their active site. The vast majority of the members have a...; cl00281</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>BAE20261.1 urease, partial [Coccidioides immitis]
+CGIGKAGNPDVMDGVTPNMIVGSSTDVIACEGKIVTAGGIDTHVHFICPQQVEEALASGVTTLLGGGTGP
+TEGTNATTCTPAPNQFKTMMQACDHLPINVGLTGKGNDSGLPSLRDQCRAGAAGLKVHEDWGATPAVIDT
+CLQVCDEFDIQCLIHTDTLNESGF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Recombinant urease (rURE) of C. immitis was expressed in Escherichia coli and tested asa vaccine candidate in BALB/c mice. BALB/c mice immunized subcutaneously with rURE and subsequently challenged by the intraperitoneal (i.p.) route with a lethal inoculum of C. immitis arthroconidia demonstrated a significant reduction in the level of C. immitis infection compared to control animals [Ref1390:Li et al., 2001].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1392">
+		<reference_name>Awasthi et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Awasthi S, Awasthi V, Magee DM, Coalson JJ</authors>
+		<title>Efficacy of antigen 2/proline-rich antigen cDNA-transfected dendritic cells in immunization of mice against Coccidioides posadasii</title>
+		<year>2005</year>
+		<volume>175</volume>
+		<issue>6</issue>
+		<pages>3900-3906</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1389">
+		<reference_name>Delgado et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Delgado N, Xue J, Yu JJ, Hung CY, Cole GT</authors>
+		<title>A recombinant beta-1,3-glucanosyltransferase homolog of Coccidioides posadasii protects mice against coccidioidomycosis</title>
+		<year>2003</year>
+		<volume>71</volume>
+		<issue>6</issue>
+		<pages>3010-3019</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1553">
+		<reference_name>Hung et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hung CY, Xue J, Cole GT</authors>
+		<title>Virulence mechanisms of coccidioides</title>
+		<year>2007</year>
+		<volume>1111</volume>
+		<issue></issue>
+		<pages>225-235</pages>
+		<journal_book_name>Annals of the New York Academy of Sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1388">
+		<reference_name>Ivey et al., 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ivey FD, Magee DM, Woitaske MD, Johnston SA, Cox RA</authors>
+		<title>Identification of a protective antigen of Coccidioides immitis by expression library immunization</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>27-30</issue>
+		<pages>4359-4367</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1450">
+		<reference_name>Kirkland et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kirkland TN, Thomas PW, Finley F, Cole GT</authors>
+		<title>Immunogenicity of a 48-kilodalton recombinant T-cell-reactive protein of Coccidioides immitis</title>
+		<year>1998</year>
+		<volume>66</volume>
+		<issue>2</issue>
+		<pages>424-431</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1390">
+		<reference_name>Li et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li K, Yu JJ, Hung CY, Lehmann PF, Cole GT</authors>
+		<title>Recombinant urease and urease DNA of Coccidioides immitis elicit an immunoprotective response against coccidioidomycosis in mice</title>
+		<year>2001</year>
+		<volume>69</volume>
+		<issue>5</issue>
+		<pages>2878-2887</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1391">
+		<reference_name>Orsborn et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Orsborn KI, Shubitz LF, Peng T, Kellner EM, Orbach MJ, Haynes PA, Galgiani JN</authors>
+		<title>Protein expression profiling of Coccidioides posadasii by two-dimensional differential in-gel electrophoresis and evaluation of a newly recognized peroxisomal matrix protein as a recombinant vaccine candidate</title>
+		<year>2006</year>
+		<volume>74</volume>
+		<issue>3</issue>
+		<pages>1865-1872</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1385">
+		<reference_name>Tarcha et al., 2006a</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tarcha EJ, Basrur V, Hung CY, Gardner MJ, Cole GT</authors>
+		<title>A recombinant aspartyl protease of Coccidioides posadasii induces protection against pulmonary coccidioidomycosis in mice</title>
+		<year>2006</year>
+		<volume>74</volume>
+		<issue>1</issue>
+		<pages>516-527</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1387">
+		<reference_name>Tarcha et al., 2006b</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tarcha EJ, Basrur V, Hung CY, Gardner MJ, Cole GT</authors>
+		<title>Multivalent recombinant protein vaccine against coccidioidomycosis</title>
+		<year>2006</year>
+		<volume>74</volume>
+		<issue>10</issue>
+		<pages>5802-5813</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

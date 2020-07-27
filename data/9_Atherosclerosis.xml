@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen215">
+		<pathogen_name>Atherosclerosis</pathogen_name>
+		<taxon_id></taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>Atherosclerosis, arteriosclerotic vascular disease (ASVD)</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference2063">Atherosclerosis is an inflammatory disease characterized by endothelial activation and dysfunction, lipid accumulation, monocyte infiltration and differentiation, T-cell infiltration and activation, foam cell formation, and fibrosis in the lesion area. Two of its common final results, coronary and cerebrovascular disease, are the major causes of morbidity worldwide. Nowadays, atherosclerosis is increasingly considered an immune-mediated inflammatory process of the vasculature in which intense immunological activity is occurring. Hypertension, hyperlipidemia, hyperglycemia, diabetes, obesity, cigarette smoking, age, and sex are well-established risk factors for atherosclerosis (Jan et al., 2010).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3110">
+		<vaccine_name>human apo B-100 peptide-2 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004275</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference2066">Peptide antigen was prepared using Imject SuperCarrier EDC kit (Pierce, Rockford, IL) according to manufacturer’s instruction with minor modification. One milligram peptide in 500 μl conjugation buffer was mixed with 2 mg carrier in 200 μl deionized water. This mixture was then incubated with 1 mg conjugation reagent (EDC, 1-ethyl-3-[3-dimethylaminopropyl]-carbodiimide HCl) at room temperature for 2 h followed by dialysis against 0.083 M sodium phosphate, 0.9 M sodium chloride, pH 7.2, solution overnight at 4 °C. The dialyzed conjugate was diluted with Imject dry blend purification buffer to a final volume of 1.5 ml. Alum was used as immunoadjuvant and mixed with peptide conjugate with 1:1 dilution in volume. The amount of peptide in each immunization was 33 μg/100 μl per injection (Chyu et al., 2005).</preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference2066">Peptide-2,  a peptide taken from the sequence of human apo B-100, with an amino acid sequence of ATRFKHLRKYTYNYEAESSS (Chyu et al., 2005).</antigen>
+		<host_response host_response_id="host_response938" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">male apo E (−/−) mice</host_strain>
+			<vaccination_protocol refs="reference2066">Peptide immunization For early immunization study, male apo E (−/−) mice, maintained on normal chow diet, received subcutaneous primary immunization with peptide-1 (n = 10), peptide-2 (n = 10) or alum alone (n = 9) at 6–7 weeks of age, followed by an intra-peritoneal booster 3 weeks later. Two weeks after booster, diet was switched to high cholesterol chow (0.15% cholesterol, 21% fat, TD 88137, Harlan-Teklad) and continued until sacrifice at the age of 25 weeks. Blood samples were collected by retro-orbital bleeding 2 weeks after booster and at the time of sacrifice. For late immunization study, male apo E (−/−) mice were kept on high cholesterol diet since 6–7 weeks of age. Since peptide-1 immunization did not reduce atherosclerosis (see Result below), peptide-1 was omitted in this part of the study. At 16 weeks of age, mice received subcutaneous primary immunization with peptide-2 or alum alone, followed by an intra-peritoneal booster 3 weeks later. Mice were sacrificed at age of 30 weeks. A separate group of mice were kept on high cholesterol diet and sacrificed at 16 weeks of age to serve as baseline control (Chyu et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2066">Peptide-2 immunization reduced aortic atherosclerosis by 40% and plaque inflammation by 80% compared to controls without a reduction in circulating cholesterol levels whereas Peptide-1 immunization had no effect. Peptide-2 immunization also reduced the progression of aortic lesions when mice were immunized at 16 weeks of age, suggesting the possibility of immuno-modulation in treating established atherosclerosis (Chyu et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3111">
+		<vaccine_name>MDA-modified human apo B-100 peptide Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004276</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference2067">MDA-modified apo B-100 (Fredrikson et al., 2005).</antigen>
+		<host_response host_response_id="host_response939" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Male apo E0 mice on C57BL/6 background</host_strain>
+			<vaccination_protocol refs="reference2067">Mice (n = 8–10 per group) were given a first injection with a MDA modified peptide conjugated to the carrier or the carrier alone at 6 weeks of age and booster injections 3 and 5 weeks later. Each injection contained 50 mg of the MDA-modified peptide conjugated to 50mg of the carrier cBSA (cationized bovine serum albumin) dissolved in 0.083M sodium phosphate 0.9M NaCl pH 7.2, according to the manufacture’s protocol (No. 77652, Pierce, Rockford, IL, USA), and with Alum (aluminum hydroxide, Pierce) included in all injections as adjuvant. The mice were fed a cholesterol diet (0.15% cholesterol, 21% fat; Lactamin AB, Kimstad, Sweden) from the age of 10 weeks (Fredrikson et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2067">Immunization with fragment P45 reduced atherosclerosis with 48%; fragment P74with 31; whereas immunization with P240 had no effect (Fredrikson et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<reference reference_id="reference2066">
+		<reference_name>Chyu et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chyu KY, Zhao X, Reyes OS, Babbidge SM, Dimayuga PC, Yano J, Cercek B, Fredrikson GN, Nilsson J, Shah PK</authors>
+		<title>Immunization using an Apo B-100 related epitope reduces atherosclerosis and plaque inflammation in hypercholesterolemic apo E (-/-) mice</title>
+		<year>2005</year>
+		<volume>338</volume>
+		<issue>4</issue>
+		<pages>1982-1989</pages>
+		<journal_book_name>Biochemical and biophysical research communications</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2067">
+		<reference_name>Fredrikson et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fredrikson GN, Andersson L, Söderberg I, Dimayuga P, Chyu KY, Shah PK, Nilsson J</authors>
+		<title>Atheroprotective immunization with MDA-modified apo B-100 peptide sequences is associated with activation of Th2 specific antibody expression</title>
+		<year>2005</year>
+		<volume>38</volume>
+		<issue>2</issue>
+		<pages>171-179</pages>
+		<journal_book_name>Autoimmunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2063">
+		<reference_name>Jan et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jan M, Meng S, Chen NC, Mai J, Wang H, Yang XF</authors>
+		<title>Inflammatory and autoimmune reactions in atherosclerosis and vaccine design informatics</title>
+		<year>2010</year>
+		<volume>2010</volume>
+		<issue></issue>
+		<pages>459798</pages>
+		<journal_book_name>Journal of biomedicine &amp; biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen89">
+		<pathogen_name>Theileria parva</pathogen_name>
+		<taxon_id>5875</taxon_id>
+		<pathogenesis refs="reference1402">The sporozoite develops in the salivary glands of the vector and is introduced into the mammalian host during tick feeding. Sporozoites rapidly enter lymphocytes by a receptor-mediated process and differentiate into schizonts. After several cycles of multiplication, a proportion of schizonts undergo merogony to produce merozoites, which invade erythrocytes and develop into piroplasms, the infective stage for ticks. The disease is characterized by pyrexia, generalized lymphadenopathy, and leukopenia (Musoke et al., 1992).</pathogenesis>
+		<disease_name>East Coast Fever</disease_name>
+		<protective_immunity refs="reference1196">Cattle that recover from ECF develop solid, strain-specific immunity that lasts for several years. Experiments have shown that passive transfer of antibodies to the schizont and piroplasm stages from immune to naïve cattle is not protective. There is now strong evidence that protective immunity is mediated by the generation of MHC class I restricted cytotoxic T cells (CTLs) specific for schizont-infected lymphocytes (Morzaria et al., 2000).</protective_immunity>
+		<host_range refs="reference1196">The African buffalo plays an important role in the epidemiology of the disease since it is a natural host that does not suffer from the disease but remains a constant source of infection for ticks. The disease that occurs in cattle after the introduction of T. parva from buffalo is referred to as corridor disease, and is characterized by high mortality and low parasitosis (Morzaria et al., 2000).</host_range>
+		<introduction refs="reference1196">Theileria parva, a tick transmitted protozoan parasite, causes a severe lymphoproliferative disease in cattle variously known as East Coast fever, January disease or corridor disease. The main vector of the parasite is a three-host tick Rhipicephalus appendiculatus. The disease is present in 10 countries in Eastern and Central Africa, however the vector is more widely distributed than the parasite and there is a potential danger of the disease spreading to other areas. Theileria parva is highly pathogenic to cattle and mortality in Bos taurus cattle and their crosses can approach 100%. The parasite is considered to be the major factor in inhibiting the introduction of highly productive taurine breeds of cattle in sub-Saharan Africa. Where such cattle are maintained successfully in Africa, it is through heavy cost to the farmer, involving the use of toxic and expensive chemicals to kill the vector. Estimated annual losses are around US$190 million. The most common form of the disease in cattle due to T. parva is East Coast fever (ECF). It is characterized by high mortality in exotic cattle and large numbers of schizonts and piroplasms. A mild form of the disease, known as January disease, occurs predominantly in Zimbabwe. This disease occurs seasonally, and the outbreaks, coinciding with the emergence from diapause of adult ticks in January, are usually characterized by high morbidity and low mortality with low numbers of parasites. The main vector of January disease is Rhipicephalus zambesiensis (Morzaria et al., 2000).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine839">
+		<vaccine_name>T. parva Subunit p67 Protein Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011494</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous Injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous Injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering309" gene_id="gene598">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response598" host_id="host12">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1402">The immunization regimen consisted of five inoculations in 2-ml vol containing 1 mg of recombinant p67 emulsified in 3% saponin (Merck) and administered subcutaneously at monthly intervals (Musoke et al., 1992).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1402">Immunization with p67 induced  protection in 70% of the immunized cattle (Musoke et al., 1992).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1402">Immunized groups were challenged 10 days after the final inoculation along with four nonimmunized control animals. In both experiments, the nonimmunized controls served to test the infectivity of the sporozoite stabilate (Musoke et al., 1992).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine427">
+		<vaccine_name>Theileria parva vaccine by Centre for Ticks and Tickborne Disease, Malawi</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Centre for Ticks and Tickborne Disease, Malawi</manufacturer>
+		<vo_id>VO_0011475</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>NA</route>
+		<location_licensed></location_licensed>
+		<description refs="reference845">Infection followed by drug treatment(Boulter and Hall, 1999)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">NA</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene598">
+        <gene_name>p67</gene_name>
+        <strain>Theileria parva strain Mugaga</strain>
+        <vo_id>VO_0011183</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>4106806</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:253298</xrefs>
+        <taxonomy_id>5875</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>p67 surface antigen</protein_name>
+        <protein_pi>4.7</protein_pi>
+        <protein_weight>70967</protein_weight>
+        <protein_length>771</protein_length>
+        <protein_note>Sporozoite P67 surface antigen; pfam05642</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAD03021.1 p67 surface antigen [Theileria parva]
+MQITQFLLIIPVFFVSAGDKMPTEEQPFPSRLGPLVTLESAITQPTPVYTMRTVGNVSKAAKVWKSAVSS
+PDVSTTILTPVSEENITSTLQTQTEEVPAASGSDSSRATNLVQTQSQVQDNVKQQQDTKGNRSDSEEENE
+DGTLSTDVSPAIPTPVSEEIITPTLQAQTKEEVPPADLSDQVPSNGSDSEEEDEDSSLGTDERGLKKTLP
+PGKTSTGETTSDQDLKTKQQKNGVSGPAGGSHSSGLKVPGLGVPGEVSPQGGQSLASNTSREGQTQHHQV
+RDGDGRVIEPKIGLPGPPSAPEPSPGAPGIKVRESGNRAMDIVQFLGRFRPEPRAYEGERTNVAELKKFL
+FEELESLVNTLIELKLAIANDFVEITDGLRKNTKDHEARLKLLTGVEFTKRKSAANVVKGFSSLYCVLLM
+NMNVIKEKTKESEVADGIWKLSTIPDKVANELLLAMEKIVVPPKTPELDEAFKEIEFGFKIAYYATKDIL
+SSIENTVHNLMHAKNYEENFIAQVRNSLRMVPHQMNLTESSFVIKISDMMRRRGTASQDEPAGAGSGVTP
+GRGSSGTPGAAGTGGGSLRGFDLSEEEVKKILDEIVKDPSDGELGLGDLSDPSGRSSGRQPSLGPSLGIT
+DGQAGPTIVSPTGPTIAAGGEQPPSAPNGTATGPAGTQPEGGEKKEGLIQKLKKKLLGSGFEVASLMIPM
+ATIIISIVH
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunization with recombinant forms of a sporozoite surface antigen (r-p67), derived from either bacterial or insect cells, induces high levels of sporozoite neutralizing antibodies in cattle.In vivo immunization studies have shown that approximately 30% of immunized cattle are nonreactors to a needle LD70 sporozoite challenge, 40% experience a mild disease reaction from which they recover, and the remaining 30% suffer severe disease and are clinically indistinguishable from controls. Transient parasitosis and mild clinical reactions are also observed in challenge of cattle immunized by infection and treatment and such responses constitute immunity to ECF. Hence, p67 is able to routinely induce immunity at a level of about 70% [Ref1196:Morzaria et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference845">
+		<reference_name>Boulter and Hall, 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Boulter N, Hall R</authors>
+		<title>Immunity and vaccine development in the bovine theilerioses</title>
+		<year>1999</year>
+		<volume>44</volume>
+		<issue></issue>
+		<pages>41-97</pages>
+		<journal_book_name>Advances in parasitology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5061">
+		<reference_name>Graham et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Graham SP, Pell� R, Honda Y, Mwangi DM, Tonukari NJ, Yamage M, Glew EJ, de Villiers EP, Shah T, Bishop R, Abuya E, Awino E, Gachanja J, Luyai AE, Mbwika F, Muthiani AM, Ndegwa DM, Njahira M, Nyanjui JK, Onono FO, Osaso J, Saya RM, Wildmann C, Fraser CM, Maudlin I, Gardner MJ, Morzaria SP, Loosmore S, Gilbert SC, Audonnet JC, van der Bruggen P, Nene V, Taracha EL</authors>
+		<title>Theileria parva candidate vaccine antigens recognized by immune bovine cytotoxic T lymphocytes</title>
+		<year>2006</year>
+		<volume>103</volume>
+		<issue>9</issue>
+		<pages>3286-3291</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1196">
+		<reference_name>Morzaria et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Morzaria S, Nene V, Bishop R, Musoke A</authors>
+		<title>Vaccines against Theileria parva</title>
+		<year>2000</year>
+		<volume>916</volume>
+		<issue></issue>
+		<pages>464-473</pages>
+		<journal_book_name>Annals of the New York Academy of Sciences</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1402">
+		<reference_name>Musoke et al., 1992</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Musoke A, Morzaria S, Nkonge C, Jones E, Nene V</authors>
+		<title>A recombinant sporozoite surface antigen of Theileria parva induces protection in cattle</title>
+		<year>1992</year>
+		<volume>89</volume>
+		<issue>2</issue>
+		<pages>514-518</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

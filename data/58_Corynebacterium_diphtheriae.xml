@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen62">
+		<pathogen_name>Corynebacterium diphtheriae</pathogen_name>
+		<taxon_id>1717</taxon_id>
+		<pathogenesis refs="reference1551">Diptheria as a disease presents itself in two forms: respiratory and cutaneous. Cutaneous diphtheria can be caused by both the toxigenic and the nontoxigenic strains of C. diphtheriae. Cutaneous diphtheria presents as nondescript sores or shallow ulcers on the skin, and is usually mild and treatable. Only 1-2% of cutaneous cases become toxigenic. Respiratory diphtheria is caused by C. diphtheriae bacteria adhering to and colonizing the tonsils, nasal cavity, and throat. Mechanisms of adherence are unknown, but recent research suggests that proteins SpaB and SpaC found on two minor pili play an important role in specifically binding to pharyngeal cells. A visible, leathery pseudomembrane forms over the surface of the cells, especially the tonsils and throat. A lesion develops and plasma from injured epithelial cells leaks into the lesion, producing a fibrin network infused with C. diphtheriae. Symptoms present themselves 2-5 days after infection with C. diphtheriae. Initially, symptoms include a sore throat and low fever. More severe symptoms include inflammation of the neck and difficulty breathing or asphyxiation (MicrobeWiki: C. diphtheriae).</pathogenesis>
+		<disease_name>Diphtheria</disease_name>
+		<protective_immunity refs="reference1552">Acquired immunity to diphtheria is due primarily to toxin-neutralizing antibody (antitoxin). Passive immunity in utero is acquired transplacentally and can last at most 1 or 2 years after birth. In areas where diphtheria is endemic and mass immunization is not practiced, most young children are highly susceptible to infection. Probably, active immunity can be produced by a mild or inapparent infection in infants who retain some maternal immunity, and in adults infected with strains of low virulence (inapparent infections) (Textbook of Bacteriology).</protective_immunity>
+		<host_range refs="reference1551">C. diphtheriae is only found in the mouth, throat, nose, skin, bodily secretions, and wounds of infected persons. Animals do not easily contract Diphtheria from human beings, and naturally have immunity (MicrobeWiki: C. diphtheriae).</host_range>
+		<introduction refs="reference774">Corynebacterium diphtheriae is an aerobic Gram-positive bacterium that causes diphtheria in humans. Respiratory diphtheria is an upper respiratory tract illness characterized by a sore throat with low-grade fever and an adherent membrane of the tonsils, pharynx, or nose. Neck swelling is usually present in severe disease. Cutaneous diphtheria presents as infected skin lesions which lack a characteristic appearance (CDC: Diphtheria).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine554">
+		<vaccine_name>Actacel</vaccine_name>
+		<proper_name>Diphtheria, tetanus, acellular pertussis, Haemophilus influenzae type b conjugate vaccine</proper_name>
+		<brand_name>Actacel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010705</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + Conjugate.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Refrigerate at 2° to 8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine371">
+		<vaccine_name>Adacel</vaccine_name>
+		<proper_name>Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine, Adsorbed</proper_name>
+		<brand_name>Adacel</brand_name>
+		<manufacturer>Sanofi Pasteur, Ltd (USA: License #1726)</manufacturer>
+		<vo_id>VO_0000005</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA: License #1726</location_licensed>
+		<description refs="">It is a sterile liquid suspension of tetanus and diphtheria toxoids and acellular pertussis components adsorbed onto aluminum phosphate, for intramuscular administration.</description>
+		<adjuvant refs="">aluminum phosphate</adjuvant>
+		<storage refs="">Adacel vaccine should be stored at 2° to 8°C (35° to 46°F). DO NOT FREEZE</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference802">Corynebacterium diphtheriae is grown in modified Mueller‘s growth medium. After purification by ammonium sulfate fractionation, diphtheria toxin is detoxified with formaldehyde and diafiltered. Diphtheria  toxoid is adsorbed onto aluminum phosphate (Adacel).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Pertussis</antigen>
+		<host_response host_response_id="host_response477" host_id="host2">
+			<immune_response refs="reference802">Immunosuppressive therapies, including irradiation, antimetabolites, alkylating agents, cytotoxic drugs and corticosteroids (used in greater than physiologic doses), may reduce the immune response. (Adacel)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference802">The principal immunogenicity study was a comparative, multi-center, randomized, observer blind, controlled trial which enrolled 4,480 participants; 2,053 adolescents (11-17 years of age).  and 2,427 adults (18-64 years of age). Enrollment was stratified by age to ensure adequate representation across the entire age range. Participants had not received a tetanus or diphtheria toxoid containing vaccine within the previous 5 years (Adacel).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference802">A severe allergic reaction (e.g., anaphylaxis) after a previous dose of Adacel vaccine. Also, headache, body ache or muscle weakness, tiredness, chills, sore and swollen joints, nausea, lymph node swelling, diarrhea, vomiting, and rash may result (Adacel).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5571">
+		<vaccine_name>Adacel-Polio</vaccine_name>
+		<proper_name>Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine Adsorbed Combined with Inactivated Poliomyelitis Vaccine</proper_name>
+		<brand_name>Adacel-Polio</brand_name>
+		<manufacturer>Sanofi Pasteur SA</manufacturer>
+		<vo_id></vo_id>
+		<type>Toxoid vaccine + Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="reference4068">ADACEL®-POLIO is a sterile, uniform, cloudy, white suspension of tetanus and diphtheria toxoids and acellular pertussis vaccine adsorbed separately on aluminum phosphate and combined with inactivated poliomyelitis vaccine (vero cell origin) types 1, 2 and 3, and suspended in water for injection. Acellular pertussis vaccine is composed of five purified pertussis antigens (PT, FHA, PRN and FIM). (Product Monograph: Adacel-Polio)</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine372">
+		<vaccine_name>Boostrix</vaccine_name>
+		<proper_name>Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine, Adsorbed</proper_name>
+		<brand_name>Boostrix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000015</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617)</location_licensed>
+		<description refs="reference801">BOOSTRIX (Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine, Adsorbed) is a noninfectious, sterile, vaccine for intramuscular administration. It contains tetanus toxoid, diphtheria toxoid, and pertussis antigens (inactivated pertussis toxin [PT] and formaldehyde-treated filamentous hemagglutinin [FHA] and pertactin). The antigens are the same as those in INFANRIX, but BOOSTRIX is formulated with reduced quantities of these antigens (Boostrix).</description>
+		<adjuvant refs="">aluminum Phosphate</adjuvant>
+		<storage refs="">Store refrigerated between 2º and 8ºC (36º and 46ºF). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">Shake vigorously to obtain a homogeneous, turbid, white suspension before administration. Do not use if resuspension does not occur with vigorous shaking.
+The diphtheria toxin is produced by growing Corynebacterium diphtheriae in Fenton medium containing a bovine extract. The bovine materials used in this extract are sourced from countries which the United States Department of Agriculture (USDA) has determined neither have nor are at risk of bovine spongiform encephalopathy (BSE). The diphtheria toxin is detoxified with formaldehyde, concentrated by ultrafiltration, and purified by precipitation, dialysis, and sterile filtration .</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response476" host_id="host2">
+			<immune_response refs="reference801">Prior to vaccination, antibody levels in subjects were 85.8% while after vaccination were 99.9% (Boostrix).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference801">In a randomized, observer-blinded, controlled study in the US, 3,080 adolescents 10 to 18 years of age received a single dose of BOOSTRIX and 1,034 received the control Td vaccine (Boostrix).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference801">Common solicited adverse events (≥15%) in adolescents were pain, redness, and swelling at the injection site, increase in arm circumference of injected arm, headache, fatigue, and gastrointestinal symptoms.(Boostrix)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5572">
+		<vaccine_name>Boostrix-Polio</vaccine_name>
+		<proper_name>Combined diphtheria, tetanus, acellular pertussis (adsorbed) and inactivated poliomyelitis vaccine</proper_name>
+		<brand_name>Boostrix-Polio</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id></vo_id>
+		<type>Toxoid vaccine + Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="reference4070">BOOSTRIX®-POLIO (combined diphtheria, tetanus, acellular pertussis and inactivated poliomyetitis) vaccine contains diphtheria toxoid, tetanus toxoid, three purified pertussis antigens [pertussis toxoid (PT), filamentous haemagglutinin (FHA) and pertactin (69 kDalton outer membrane protein)] adsorbed onto aluminum salts and inactivated polio virus types 1, 2 and 3. (GSK: Boostrix-Polio)</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine356">
+		<vaccine_name>DAPTACEL</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed</proper_name>
+		<brand_name>DAPTACEL</brand_name>
+		<manufacturer>Sanofi Pasteur, Ltd.</manufacturer>
+		<vo_id>VO_0000029</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA (License #1726)</location_licensed>
+		<description refs="">DAPTACEL is a vaccine indicated for active immunization against diphtheria, tetanus and pertussis as a five dose series in infants and children 6 weeks through 6 years of age.</description>
+		<adjuvant refs="">aluminum phosphate</adjuvant>
+		<storage refs="">DAPTACEL vaccine should be stored at 2° to 8°C (35° to 46°F). DO NOT FREEZE</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference781">DAPTACEL vaccine is a sterile isotonic suspension of pertussis antigens and diphtheria toxoids adsorbed on aluminum phosphate.  Corynebacterium diphtheriae is grown in modified Mueller’s growth medium. After purification by ammonium sulfate fractionation, diphtheria toxin is detoxified with formaldehyde and diafiltered (FDA: DAPTACEL).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response452" host_id="host2">
+			<immune_response refs="reference781">One clinical study found that among a random subset of children who received the fourth dose of DAPTACEL vaccine at 15-16 months of age, 96.5% achieved diphtheria antitoxin levels of ≥1.0 IU/mL after the fourth dose (FDA: DAPTACEL).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference781">In a randomized, double-blinded pertussis vaccine efficacy trial, the Sweden I Efficacy Trial, conducted in Sweden during 1992-1995, the safety of DAPTACEL vaccine was compared with DT and a whole-cell pertussis DTP vaccine. A standard diary card was kept for 14 days after each dose and follow-up telephone calls were made 1 and 14 days after each injection. Telephone calls were made monthly to monitor the occurrence of severe events and/or hospitalizations for the 2 months after the last injection (FDA: DAPTACEL).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Side effects of vaccination are: injection site reactions, irritability, fussiness, and lethargy.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine369">
+		<vaccine_name>DECAVAC</vaccine_name>
+		<proper_name>Tetanus and Diphtheria Toxoids Adsorbed For Adult Use</proper_name>
+		<brand_name>DECAVAC</brand_name>
+		<manufacturer>Sanofi Pasteur, Inc</manufacturer>
+		<vo_id>VO_0000030</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1725)</location_licensed>
+		<description refs="reference804">It is for intramuscular injection, and is a sterile suspension of alum (aluminum potassium sulfate)-precipitated toxoids in an isotonic sodium chloride solution (FDA: Decavac).</description>
+		<adjuvant refs="">aluminum potassium sulfate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F). Do not freeze.  Do not use vaccine after expiration date.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference804">The cultures are grown in a modified Mueller and Miller medium. Diphtheria toxins produced during the growth of the cultures are detoxified with formaldehyde. The detoxified materials are then separately purified by serial ammonium sulfate fractionation and diafiltration, and adsorbed onto alum. (FDA: Decavac).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response479" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference804">A clinical study involving 58 individuals 6-58 years of age (FDA: Decavac).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference804">The results that indicated protective levels of antibody were achieved in greater than 90% of the study population after primary immunization with both components. Booster effects were achieved in 100% of the individuals with pre-existing antibody responses (FDA: Decavac).</protection_efficacy>
+			<side_effects refs="reference804">Side effects include: erythema, tenderness and induration at the injection site and 2% systemic reactions consisting of headache, malaise and temperature elevations.  Boosters can accentuate side effects(FDA: Decavac)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine353">
+		<vaccine_name>Diphtheria and Tetanus Toxoids Adsorbed</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids Adsorbed</proper_name>
+		<brand_name>None</brand_name>
+		<manufacturer>Sanofi Pasteur Inc</manufacturer>
+		<vo_id>VO_0000033</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1725), Canada</location_licensed>
+		<description refs="reference778">The primary series of vaccination for infants 6 weeks through 12 months, consists of 4 doses: administer three 0.5 mL doses intramuscularly 4 to 8 weeks apart. A reinforcing dose is given 6 to 12 months after the third injection (FDA: Diphtheria and Tetanus Toxoids Adsorbed USP).</description>
+		<adjuvant refs="">aluminum potassium sulfate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F). DO NOT FREEZE.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">The vaccine is grown in a peptone-based medium containing bovine extract. The meat used in this medium is US sourced. Both toxins are detoxified with formaldehyde. The detoxified materials are then separately purified by serial ammonium sulfate fractionation and diafiltration.</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response449" host_id="host2">
+			<immune_response refs="reference778">Protective levels of diphtheria antitoxins were detected in 100% of the children following two doses of the vaccine (FDA: Diphtheria and Tetanus Toxoids Adsorbed USP).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference778">A clinical study was performed in 20 children under one year of age to determine the serological responses and the adverse reactions (FDA: Diphtheria and Tetanus Toxoids Adsorbed USP).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference778">A complete vaccination series substantially reduces the risk of developing diphtheria, and vaccinated persons who develop disease have milder illness. Protection lasts at least 10 years. Vaccination does not, however, eliminate carriage of C. diphtheriae in the pharynx or nose or on the skin (FDA: Diphtheria and Tetanus Toxoids Adsorbed USP).</protection_efficacy>
+			<side_effects refs="reference778">With vaccination, there are little to no adverse reactions to the vaccine.  The most widely reported side effects were injection site reactions (FDA: Diphtheria and Tetanus Toxoids Adsorbed USP).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine563">
+		<vaccine_name>DT Polio Adsorbed</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>DT Polio Adsorbed</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010709</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Formaldehyde.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine355">
+		<vaccine_name>Infanrix</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed</proper_name>
+		<brand_name>Infanrix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000064</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617)</location_licensed>
+		<description refs="reference780">INFANRIX is indicated for active immunization against diphtheria, tetanus, and pertussis (whooping cough) as a 5-dose series in infants and children 6 weeks to 7 years of age.  INFANRIX should not be administered to any infant before the age of 6 weeks, or to individuals 7 years of age or older (FDA: INFANRIX).</description>
+		<adjuvant refs="">Aluminum Hydroxide</adjuvant>
+		<storage refs="">Store INFANRIX refrigerated between 2° and 8°C (36° and 46°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">The diphtheria toxin is produced by growing Corynebacterium diphtheriae in Fenton medium containing a bovine extract.</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response451" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference780">Efficacy of diphtheria toxoid used in INFANRIX was determined on the basis of immunogenicity studies (FDA: INFANRIX).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference780">A VERO cell toxin neutralizing test confirmed the ability of infant sera, obtained 1 month after a 3-dose primary series, to neutralize diphtheria toxin. Levels of diphtheria antitoxin  were achieved in 100% of the sera tested (FDA: INFANRIX).</protection_efficacy>
+			<side_effects refs="reference780">Side effects of vaccination include: injection site reactions, fever, irritability, drowsiness, loss of appetite, and vomiting (FDA: INFANRIX).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine592">
+		<vaccine_name>Infanrix -IPV/Hib</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Infanrix -IPV/Hib</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010722</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus + conjugate. Other components: Formaldehyde Polysorbate 80, Lactose.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store in a refrigerator (2°C – 8°C).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine578">
+		<vaccine_name>Infanrix-hexa</vaccine_name>
+		<proper_name>Combined diphtheria and tetanus toxoids, acellular pertussis, hepatitis B (recombinant), inactivated poliomyelitis and adsorbed conjugated Haemophilus influenzae type b vaccine</proper_name>
+		<brand_name>Infanrix-hexa</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010719</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed viruses + conjugate. Other components: Yeast protein Formaldehyde, Lactose, Polysorbate 20 and 80.</description>
+		<adjuvant refs="">Aluminum phosphate and aluminum hydroxide</adjuvant>
+		<storage refs="">Should be stored at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine588">
+		<vaccine_name>Infanrix-IPV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Infanrix-IPV</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010721</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store in a refrigerator (2°C - 8°C).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine584">
+		<vaccine_name>Infanrix/Hib</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Infanrix/Hib</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010720</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + conjugate. Other components: Formaldehyde, Lactose.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store at 2°C – 8°C (in a refrigerator).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine358">
+		<vaccine_name>KINRIX</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed and Inactivated Poliovirus Vaccine</proper_name>
+		<brand_name>KINRIX</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000067</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617)</location_licensed>
+		<description refs="reference783">A single dose of KINRIX is indicated for active immunization against diphtheria, tetanus, pertussis, and poliomyelitis as the fifth dose in the diphtheria, tetanus, and acellular pertussis (DTaP) vaccine series and the fourth dose in the inactivated poliovirus vaccine (IPV) series in children 4 through 6 years of age whose previous DTaP vaccine doses have been with INFANRIX and/or PEDIARIX for the first three doses and INFANRIX for the fourth dose (FDA: KINRIX).</description>
+		<adjuvant refs="">Aluminum Hydroxide</adjuvant>
+		<storage refs="">Store refrigerated between 2° and 8°C (36° and 46°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference783">The diphtheria toxin is produced by growing Corynebacterium diphtheriae in Fenton medium containing a bovine extract.  After, they are detoxified with formaldehyde, concentrated by ultrafiltration, and purified by precipitation, dialysis, and sterile filtration (FDA: KINRIX).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference783">Each 0.5-mL dose is formulated to contain 25 Lf of diphtheria toxoid, 10 Lf of tetanus toxoid, 25 mcg of inactivated pertussin toxin (PT), 25 mcg of filamentous hemagglutinin (FHA), 8 mcg of pertactin (69 kiloDalton outer membrane protein), 40 D-antigen Units (DU) of Type 1 poliovirus (Mahoney), 8 DU of Type 2 poliovirus (MEF-1), and 32 DU of Type 3 poliovirus (Saukett) (FDA: KINRIX).
+
+The diphtheria, tetanus, and pertussis components of KINRIX are the same as those in INFANRIX and PEDIARIX and the poliovirus component is the same as that in PEDIARIX.</antigen>
+		<host_response host_response_id="host_response454" host_id="host2">
+			<immune_response refs="reference783">After vaccination, antibody levels in clinical trials was determined to be between 85-100% for all subjects (FDA: KINRIX).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference783">The primary study (Study 048), conducted in the United States, was a randomized, controlled clinical trial in which children 4 to 6 years of age were vaccinated with KINRIX (N = 3,156) or control vaccines (INFANRIX and IPOL® vaccine [IPV, Sanofi Pasteur SA]; N = 1,053) as a fifth DTaP vaccine dose following 4 doses of INFANRIX and as a fourth IPV dose following 3 doses of IPOL (FDA: KINRIX).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference783">The most common side effects reported were: injection site reactions, fever, drowisness, and loss of appetite (FDA: KINRIX).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine604">
+		<vaccine_name>Pediacel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed  Combined with Inactivated Poliomyelitis Vaccine and Haemophilus b Conjugate Vaccine (Tetanus Protein – Conjugate)</proper_name>
+		<brand_name>Pediacel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010730</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins, killed virus + conjugate. Other components: Bovine serum Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine357">
+		<vaccine_name>Pediarix</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Hepatitis B (Recombinant) and Inactivated Poliovirus Vaccine Combined</proper_name>
+		<brand_name>Pediarix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0000082</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617)</location_licensed>
+		<description refs="reference782">It contains diphtheria and tetanus toxoids, 3 pertussis antigens (inactivated pertussis toxin [PT] and formaldehyde-treated filamentous hemagglutinin [FHA] and pertactin [69 kiloDalton outer membrane protein]), hepatitis B surface antigen, plus poliovirus Type 1 (Mahoney), Type 2 (MEF-1), and Type 3 (Saukett) (FDA: Pediarix).</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">The vaccine should be refrigerated between 2º and 8ºC (36º and 46ºF). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference782">The diphtheria toxin is produced by growing Corynebacterium diphtheriae in Fenton medium containing a bovine extract.  The diphtheria, tetanus, and pertussis antigens are individually adsorbed onto aluminum hydroxide then diluted and combined to produce the final formulated vaccine (FDA: Pediarix).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response453" host_id="host2">
+			<immune_response refs="">In response to vaccination, all patients seem to have around 90-100% antibody response.</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference782">A double-blind, randomized, active Diphtheria and Tetanus Toxoids (DT)-controlled trial conducted in Italy, sponsored by the National Institutes of Health (NIH), assessed the absolute protective efficacy of INFANRIX when administered at 2, 4, and 6 months of age (FDA: Pediarix).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference782">The most reported side effects included: injection site reactions, fever, drowsiness, loss of appetite and fussiness (FDA: Pediarix).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine359">
+		<vaccine_name>Pentacel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus and Haemophilus b Conjugate (Tetanus Toxoid Conjugate) Vaccine</proper_name>
+		<brand_name>Pentacel</brand_name>
+		<manufacturer>Sanofi Pasteur Limited</manufacturer>
+		<vo_id>VO_0000084</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1726), Canada</location_licensed>
+		<description refs="reference784">It consists of a Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed and Inactivated Poliovirus (DTaP-IPV) component and an ActHIB® vaccine component.  Pentacel vaccine is indicated for active immunization against diphtheria, tetanus, pertussis, poliomyelitis and invasive disease due to Haemophilus influenzae type b (FDA: Pentacel).</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference784">Corynebacterium diphtheriae is grown in modified Mueller’s growth medium. After purification by ammonium sulfate fractionation, the diphtheria toxin is detoxified with formaldehyde and diafiltered. (FDA: Pentacel).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response455" host_id="host2">
+			<immune_response refs="reference784">After vaccination, subjects achieved 90% or greater anti-PRP ≥0.15 μg/mL (FDA: Pentacel).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference784">A clinical study looked at anti-PRP seroprotection rates and GMCs one month following Dose 3 of Pentacel vaccine or separately administered ActHIB vaccine in studies P3T06 and M5A10 (FDA: Pentacel).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference784">Injection site reactions include: Redness, swelling, tenderness, and an increase in arm circumference. The Systemic reactions include: fever, decreased activity, inconsolable crying, and irritability. (FDA: Pentacel).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine623">
+		<vaccine_name>Quadracel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed   Combined with Inactivated Poliomyelitis Vaccine</proper_name>
+		<brand_name>Quadracel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010736</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Bovine albumin Formaldehyde, Glutaraldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2 to 8C (35 to 46F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine771">
+		<vaccine_name>Td Adsorbed</vaccine_name>
+		<proper_name>Tetanus and Diphtheria Toxoids Adsorbed</proper_name>
+		<brand_name>Td Adsorbed</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010739</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Td ADSORBED is a sterile, cloudy, uniform suspension of tetanus and diphtheria toxoids adsorbed on aluminum phosphate asuspended in isotonic sodium chloride solution for intramuscular injection only.</description>
+		<adjuvant refs="">aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2º to 8ºC (35º to 46ºF).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine629">
+		<vaccine_name>Td Polio Adsorbed</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Td Polio Adsorbed</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0011482</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Td POLIO ADSORBED [Tetanus and Diphtheria Toxoids Adsorbed and Inactivated Poliomyelitis Vaccine] produced by Sanofi Pasteur Limited, is a sterile, cloudy, white, uniform suspension of tetanus and diphtheria toxoids adsorbed on aluminum phosphate and suspended in phosphate buffered saline solution and combined with Inactivated Poliomyelitis Vaccine for intramuscular injection only. Products: Proteins + killed virus. Other components: Bovine albumin Formaldehyde, Polysorbate.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine370">
+		<vaccine_name>TENIVAC</vaccine_name>
+		<proper_name>Tetanus and Diphtheria Toxoids Adsorbed For Adult Use</proper_name>
+		<brand_name>TENIVAC</brand_name>
+		<manufacturer>Sanofi Pasteur, Ltd</manufacturer>
+		<vo_id>VO_0000102</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1726)</location_licensed>
+		<description refs="reference803">Is a vaccine indicated for active immunization for the prevention of tetanus and diphtheria in persons 7 years of age and older.(Tenivac)</description>
+		<adjuvant refs="">Aluminum Phosphate</adjuvant>
+		<storage refs="">TENIVAC vaccine should be stored at 2° to 8°C (35° to 46°F). DO NOT FREEZE.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference803">Corynebacterium diphtheriae is grown in modified Mueller’s 223 growth medium. After purification by ammonium sulfate fractionation, diphtheria toxin is 224 detoxified with formaldehyde and diafiltered.(Tenivac)</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response478" host_id="host2">
+			<immune_response refs="reference803">Four weeks following the second dose, all 17 participants had a serum diphtheria antitoxin level ≥0.01 IU/mL. Four weeks following the third dose, all 17 participants had a serum diphtheria antitoxin level &gt;0.1 IU/mL (Tenivac).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference803">A clinical study evaluated 17 participants ages 6 to 56 years conducted in Canada (Tenivac).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference803">The most frequent solicited injection site reaction within 0-3 days following TENIVAC was pain, reported in 78.3% of study participants 11-59 years of age and 35.3% of participants ≥60 years of age.  Contraindicatons include pain, redness, swelling, and systemic adverse effects (Tenivac).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5574">
+		<vaccine_name>Tetanus and Diphtheria Toxoids Adsorbed</vaccine_name>
+		<proper_name>Tetanus and Diphtheria Toxoids, Adsorbed</proper_name>
+		<brand_name>None</brand_name>
+		<manufacturer>MassBiologics</manufacturer>
+		<vo_id></vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA</location_licensed>
+		<description refs="reference4072">Tetanus and Diphtheria Toxoids Adsorbed (Td) manufactured by MassBiologics is a sterile vaccine for intramuscular injection. After shaking, the vaccine appears as a homogeneous milky white suspension. Each 0.5 ml dose of MassBiologics’ Td is formulated to contain the following active ingredients: 2 Lf of tetanus toxoid and 2 Lf of diphtheria toxoid. Each 0.5 ml dose also contains aluminum adjuvant (not more than 0.53 mg aluminum by assay), &lt; 100 mcg (0.02%) of residual formaldehyde, and a trace amount of thimerosal [mercury derivative, (&lt; 0.3 mcg mercury/dose)] (not as a preservative) from the manufacturing process. (FDA: Tetanus and Diphtheria Toxoids Adsorbed)</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2°C - 8°C (36°F - 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine632">
+		<vaccine_name>Tripacel</vaccine_name>
+		<proper_name>Pertussis Vaccine-Acellular, Combined with Diphtheria and Tetanus Toxoids (Adsorbed)</proper_name>
+		<brand_name>Tripacel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010742</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins. Other components: Formaldehyde, Glutaraldehyde.</description>
+		<adjuvant refs="">Aluminum phospate</adjuvant>
+		<storage refs="">Store at 2° to 8°C.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine354">
+		<vaccine_name>Tripedia</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed</proper_name>
+		<brand_name>Tripedia</brand_name>
+		<manufacturer>Sanofi Pasteur, Inc.</manufacturer>
+		<vo_id>VO_0000112</vo_id>
+		<type>Toxoid vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1725)</location_licensed>
+		<description refs="reference779">Tripedia vaccine combines diptheria and tetanus toxoids with purified pertussis antigens.  It consists of 3 doses administered at intervals of 4-8 weeks (FDA: Tripedia).</description>
+		<adjuvant refs="">aluminum potassium sulfate</adjuvant>
+		<storage refs="">Store between 2 and 8 degrees Celsius.  DO NOT FREEZE.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference779">Corynebacterium diphtheriae cultures are grown in a modified Mueller and Miller medium.  It is detoxified with formaldehyde and then seperately purified by serial ammonium sulfate fractionation and diafiltration (FDA: Tripedia).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response450" host_id="host2">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">Complete immunization significantly reduces the risk of developing diptheria and protection lasts around 10 years.</protection_efficacy>
+			<side_effects refs="reference779">Side effects of vaccination include: injection site reactions, fevver, irritability, drowsiness, and vomiting.  In some cases with infant immunization, anorexia and an unusual hig-pitched cry were reported (FDA: Tripedia).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<reference reference_id="reference802">
+		<reference_name>Adacel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Adacel</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172481.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference801">
+		<reference_name>Boostrix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Boostrix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172925.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference774">
+		<reference_name>CDC: Diphtheria</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>CDC: Diphtheria general information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.cdc.gov/ncidod/dbmd/diseaseinfo/diptheria_t.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference781">
+		<reference_name>FDA: DAPTACEL</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: DAPTACEL Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm101572.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference804">
+		<reference_name>FDA: Decavac</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Decavac</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm094067.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference778">
+		<reference_name>FDA: Diphtheria and Tetanus Toxoids Adsorbed</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Diphtheria and Tetanus Toxoids Adsorbed</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM142732.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference780">
+		<reference_name>FDA: INFANRIX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: INFANRIX</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm101568.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference783">
+		<reference_name>FDA: KINRIX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: KINRIX Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM241453.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference798">
+		<reference_name>FDA: Menactra</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Menactra Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm176044.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference782">
+		<reference_name>FDA: Pediarix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Pediarix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm146759.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference784">
+		<reference_name>FDA: Pentacel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Pentacel Vaccine</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM109810.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4078">
+		<reference_name>FDA: Quadracel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Quadracel vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM439903.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference803">
+		<reference_name>FDA: TENIVAC</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: TENIVAC vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM152826.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4072">
+		<reference_name>FDA: Tetanus and Diphtheria Toxoids Adsorbed</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Tetanus and Diphtheria Toxoids Adsorbed vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM164127.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference779">
+		<reference_name>FDA: Tripedia</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Tripedia</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm101565.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4070">
+		<reference_name>GSK: Boostrix-Polio</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK:Boostrix-Polio vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://ca.gsk.com/media/589683/boostrix-polio.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4083">
+		<reference_name>GSK: Infanrix-hexa</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-hexa vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/537989/infanrix-hexa.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4075">
+		<reference_name>GSK: Infanrix-IPV</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-IPV vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/590851/infanrix-ipv.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4080">
+		<reference_name>GSK: Infanrix-IPV/Hib</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-IPV/Hib vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/590970/infanrix-ipv-hib.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1343">
+		<reference_name>Holmes, 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Holmes RK</authors>
+		<title>Biology and molecular epidemiology of diphtheria toxin and the tox gene</title>
+		<year>2000</year>
+		<volume>181 Suppl 1</volume>
+		<issue></issue>
+		<pages>S156-167</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4776">
+		<reference_name>Khrustaleva et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Khrustaleva TA, Khrustalev VV, Barkovsky EV, Kolodkina VL, Astapov AA</authors>
+		<title>Structural and antigenic features of the synthetic SF23 peptide corresponding to the receptor binding fragment of diphtheria toxin</title>
+		<year>2015</year>
+		<volume>63</volume>
+		<issue>2</issue>
+		<pages>235-244</pages>
+		<journal_book_name>Molecular immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1551">
+		<reference_name>MicrobeWiki: C. diphtheriae</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>MicrobeWiki: C. diphtheriae</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://microbewiki.kenyon.edu/index.php/Corynebacterium_diphtheriae</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4068">
+		<reference_name>Product Monograph: Adacel-Polio</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Adacel-Polio vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/document.cfm?file=adacel-polio_e.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4081">
+		<reference_name>Product Monograph: Pediacel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Pediacel vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/document.cfm?file=Pediacel_E.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4071">
+		<reference_name>Product Monograph: Td Adsorbed</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Td Adsorbed vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/document.cfm?file=td_adsorbed_e.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4073">
+		<reference_name>Product Monograph: Td Polio Adsorbed</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Td Polio Adsorbed vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/document.cfm?file=td_polio_adsorbed_e.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1552">
+		<reference_name>Textbook of Bacteriology</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Diphtheria</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://textbookofbacteriology.net/diphtheria</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

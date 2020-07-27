@@ -1,0 +1,2280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen86">
+		<pathogen_name>Actinobacillus pleuropneumoniae</pathogen_name>
+		<taxon_id>715</taxon_id>
+		<pathogenesis refs="reference1536">Actinobacillus pleuropneumoniae interacts closely with epithelial cells in the lower respiratory tract and toxins produced during infection are delivered directly to the cell surface. This close association between A. pleuropneumoniae and respiratory epithelial cells may impair the binding of specific antibodies to the Apx toxins, resulting in development of necrosis and hemorrhage (Haesebrouck et al., 2004).</pathogenesis>
+		<disease_name>porcine pleuropneumonia</disease_name>
+		<protective_immunity refs="reference1006">Protection is mediated by antibodies and mucosal immunity (Shin et al., 2007).</protective_immunity>
+		<host_range refs="reference1006">Pigs are the main host, and mice can serve as a model of infection (Shin et al., 2007).</host_range>
+		<introduction refs="reference1419">The bacterium Actinobacillus pleuropneumoniae (App) was previously called Haemophilus pleuropneumoniae and there are at least twelve different strains, some of which produce no disease and are non pathogenic, but others cause very severe disease. Strains 1, 5, 9, 11 and 12 are highly virulent and strains 3 and 6 are very mild. The organism is carried in the tonsils and respiratory tract and the incubation period is very short, from as little as 12 hours through to three days. It is transmitted by droplet infection between one pig and another. The organism may survive in discharges, serum etc. for up to 5 days. Contact with dead stock is therefore important from biosecurity. It dies quickly if dried, but it may persist in water for 20 days or more. App can survive in the lungs and tonsils for long periods of at least 4 months. It is probably airborne for only 5 to 10 metres. Disease is dose dependent i.e. the more bacteria the pig is exposed to the more severe will be the disease. Infection is spread from one pig to another by nose to nose contact. Pigs may be infected with different serotypes simultaneously. PRRS and EP can make the disease worse. In a naïve herd up to 30% of animals may be affected. When App attacks the lungs the toxins produced cause severe damage to the tissues which turn blue to black (necrosis) with extensive pleurisy. The chest cavity rapidly fills up with fluid.
+
+The organism may affect the pig from weaning through to slaughter but usually the age is from 8 to 16 weeks, once maternal antibody has disappeared. Sudden death is often the only sign with blood and froth discharged from the nose. In the live pig a short cough may be heard with signs of severe breathing difficulties and blueing of the ears. Badly affected pigs are severely depressed. Body temperature is often high. Death is due to a combination of heart failure and the toxins produced by the organisms (ThePigSite Pig Health).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine5664">
+		<vaccine_name>A. pleuropneumoniae apfA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference4865">Marcol 52 (Esso)-based adjuvant (Zhou et al., 2013).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1872" gene_id="gene4092">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference4865">Purified recombinant ApfA elicited an elevated humoral immune response and conferred robust protection against challenges with A. pleuropneumoniae serovar 1 strain 4074 and serovar 7 strain WF83 in mice (Zhou et al., 2013).</description>
+		</gene_engineering>
+	</vaccine>
+	<vaccine vaccine_id="vaccine784">
+		<vaccine_name>A. pleuropneumoniae ApxIa and ApxIIa protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011384</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector>Saccharomyces cerevisiae</vector>
+		<route>Oral immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral immunization</route>
+		<antigen refs="">A. pleuropneumoniae ApxIa and ApxIIa</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering243" gene_id="gene360">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1006">The apxIIA gene was cloned from A. pleuropneumoniae serotype 5 isolated from the lungs of Korean pigs with pleuropneumonia. For the oral vaccine, S. cerevisiae expressing ApxIA antigen as well as the ApxIIA antigen were prepared (Shin et al., 2007).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering244" gene_id="gene358">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1006">The apxIA gene was cloned from A. pleuropneumoniae serotype 5 isolated from the lungs of Korean pigs with pleuropneumonia. For the oral vaccine, S. cerevisiae expressing ApxIA antigen as well as the ApxIIA antigen were prepared (Shin et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response544" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1006">Briefly, 15 mice per group were subcutaneously injected with 100 µg of protein extract after emulsifying with complete Freund's adjuvant (Sigma, USA). This was then followed by a boost immunization with the same amount of antigens after emulsifying with incomplete Freund's adjuvant (Sigma, USA) at 2 weeks after the initial immunization. The final immunization was performed in the same manner at 2 weeks after the boost immunization.  All groups were immunized orally through an oral gavage with 4 doses of Saccharomyces cerevisiae expressing either ApxIA (group C) or ApxIIA (group D) alone or both (group E) at 10-day intervals (Shin et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1006">After the challenge, the mice in group E had a significantly lower infectious burden and a higher level of protection than the mice in the other groups (p &lt; 0.05) (Shin et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1006">Mice in each group were challenged by intraperitoneal injection of a field isolate of A. pleuropneumoniae serotype 5 at 1.45 × 10^6 CFU (minimal lethal dose, MLD) in 10 days after their final immunization, and were then monitored every 6 h for up to 72 h (Shin et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine782">
+		<vaccine_name>A. pleuropneumoniae ApxIA protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011356</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector>Saccharomyces cerevisiae [Ref1006:Shin et al., 2007]</vector>
+		<route>Oral immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral immunization</route>
+		<antigen refs="reference1006">ApxIA (Shin et al., 2007)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering241" gene_id="gene358">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1006">The apxIA gene was cloned from A. pleuropneumoniae serotype 5 isolated from the lungs of Korean pigs with pleuropneumonia. For the oral vaccine, S. cerevisiae expressing ApxIA antigen were prepared (Shin et al., 2007)</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response542" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1006">Briefly, 15 mice per group were subcutaneously injected with 100 µg of protein extract after emulsifying with complete Freund's adjuvant (Sigma, USA). This was then followed by a boost immunization with the same amount of antigens after emulsifying with incomplete Freund's adjuvant (Sigma, USA) at 2 weeks after the initial immunization. The final immunization was performed in the same manner at 2 weeks after the boost immunization.  All groups were immunized orally through an oral gavage with 4 doses of Saccharomyces cerevisiae expressing either ApxIA (group C) or ApxIIA (group D) alone or both (group E) at 10-day intervals (Shin et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1006">The immunogenicity of the rApxIA antigen derived from the yeast was confirmed by a high survival rate and an ApxIA-specific IgG antibody response (p &lt;0.01) (Shin et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1006">Mice in each group were challenged by intraperitoneal injection of a field isolate of A. pleuropneumoniae serotype 5 at 1.45 × 106 CFU (minimal lethal dose, MLD) in 10 days after their final immunization, and were then monitored every 6 h for up to 72 h (Shin et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3898">
+		<vaccine_name>A. pleuropneumoniae DNA vaccine pcDNA-apxIA/pcDNA-apxIIA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004544</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1 [Ref1003:Chiang et al., 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1446" gene_id="gene358">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1447" gene_id="gene360">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1540" host_id="host3">
+			<immune_response refs="reference1003">Significant humoral immune responses were induced by this DNA vaccine through intramuscular immunization. The IgG subclass (IgG1 and IgG2a) analysis indicates that divalent DNA vaccine induces both Th1 and Th2 immune responses (Chiang et al., 2009).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1003">Animals immunized with divalent vaccine demonstrated 70% survival after challenge with a dose of 5 × 108 CFU of A. pleuropneumoniae serotype 1 ten days after 2nd boost.  Survival was significantly higher than that of the negative control groups (P &lt; 0.05).  No protective efficacy was observed for pcDNA3.1 vector immunization group and PBS control group and all mice were died within 24 h (Chiang et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response632" gene_id="gene1107">
+			    <description refs="reference1003">Both IgG1 and IgG2a responses were induced by divalent DNA vaccine, with IgG1 slightly higher than IgG2a. The levels of IgG1 and IgG2a were also significant compared with the negative control groups (Chiang et al., 2009).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response633" gene_id="gene1106">
+			    <description refs="reference1003">Both IgG1 and IgG2a responses were induced by divalent DNA vaccine, with IgG1 slightly higher than IgG2a. The levels of IgG1 and IgG2a were also significant compared with the negative control groups (Chiang et al., 2009).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5666">
+		<vaccine_name>A. pleuropneumoniae HbpA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="reference4928">Alhydrogel (Chen et al., 2012).</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1876" gene_id="gene4090">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference4928">he coding sequence of candidate genes were amplified from the genomic DNA of A. pleuropneumoniae JL03. The PCR products were cloned into pET28a and transformed into E. coli DH5α. Positive clones were transformed into E. coli BL21 (DE3) for expression. HbpA induced relatively higher levels of antibody titers compared with the other proteins, reaching 40% protection in mice when challenged with A. pleuropneumoniae JL03(Chen et al., 2012).</description>
+		</gene_engineering>
+	</vaccine>
+	<vaccine vaccine_id="vaccine786">
+		<vaccine_name>A. pleuropneumoniae HS93C-Ampr</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011385</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector>A. pleuropneumoniae serovar 7 strain HS93</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">A. pleuropneumoniae ApxII-activating protein, ApxIIC</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering247" gene_id="gene401">
+			<type>Gene mutation</type>
+			<description refs="reference1040">Site-specific mutagenesis of the apxIIC gene utilized the recombination plasmid pEP-CAmpr. Cesium chloride-purified pEP-CAmpr DNA was isolated from E. coli and linearized with ClaI. Following digestion, the DNA was purified by phenol-chloroform extraction and ethanol precipitated. A total of 3 μg of linearized DNA was electroporated (0.2-cm-diameter cuvettes; 400 Ω; 1.25 kV) into A. pleuropneumoniae HS93 (serovar 7, ApxII) (Prideaux et al., 1999).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response546" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1040">Nine 6-week-old pigs received 109 CFU of the A. pleuropneumoniae vaccine strain in 1 ml of growth medium, via intranasal inoculation on day 0, while nine control pigs received 1 ml of BHI. The vaccine was prepared by inoculating 10 ml of BHI-NAD (10 μg/ml) with a single colony of the vaccine strain and growing with shaking at 37°C until an OD600 of 0.8 was reached. The vaccination schedule was repeated on day 14. On day 28, the nine vaccinated and nine control pigs were divided into groups of six and three (Prideaux et al., 1999).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1040">Pigs vaccinated with live HS93C- Ampr via the intranasal route were protected against a cross-serovar challenge with a virulent serovar 1 strain of A. pleuropneumoniae (Prideaux et al., 1999).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1040">Two groups of six pigs (i.e., vaccinated and unvaccinated) were challenged with 2 × 10^9 A. pleuropneumoniae HS25 (serovar 1) in 2 ml of growth medium via the intranasal route, while the groups of three were given 2 ml of BHI broth in a similar manner. The challenge strain was prepared by inoculating a single colony of HS25 into BHI-NAD (10 μg/ml) and growing until an OD600 of 0.8 was reached. At this time the viable count was 10^9 CFU/ml. At 5 days postchallenge, pigs were euthanized, and the number and severity of lung lesions were recorded (Prideaux et al., 1999).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3284">
+		<vaccine_name>Actinobacillus pleuropneumoniae apxIA mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002766</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering843" gene_id="gene940">
+			<type>Gene mutation</type>
+			<description refs="reference1800">This apxIA mutant is from Actinobacillus pleuropneumoniae (Xu et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1113" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1800">An apxIA mutant is attenuated in pigs (Xu et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1800">An apxIA mutant offered a level of cross-serovar protection against A. pleuropneumoniae infection in pigs (Xu et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response1114" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1800">An apxIA mutant is attenuated in mice (Xu et al., 2006).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1800">An apxIA mutant offered a level of cross-serovar protection against A. pleuropneumoniae infection in mice (Xu et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3112">
+		<vaccine_name>Actinobacillus pleuropneumoniae ApxIC mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002767</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1041">To construct an avirulent mutant strain by inactivation of ApxI toxin, the apxIC gene of A. pleuropneumoniae serovar 10 was inactivated by inserting a chloramphenicol resistance gene cassette into the downstream XhoI site of the apxIC gene for constructing the transfer plasmid. The transfer plasmid was introduced into the electrocompetent A. pleuropneumoniae serovar 10 for homologous recombination by electroporation. The mutant strain was obtained and identified by PCR and Southern blotting (Xu et al., 2007).</preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering618" gene_id="gene402">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response940" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3120">
+		<vaccine_name>Actinobacillus pleuropneumoniae apxIIC and apxIVA double deletion mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1043">Plasmid pENT1 was used to introduce the ΔapxIVA deletion into A. pleuropneumoniae single mutant ΔapxIIC via the single-step transconjugation system. The colonies with the correct PCR profile were confirmed by Southern blot and sequencing assays (Liu et al., 2007).</preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering626" gene_id="gene401">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering627" gene_id="gene405">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response945" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1043">The LD50 data shown that the double mutant ΔapxIICΔapxIVA was attenuated by three-fold, compared with the single mutant HB04C− (Liu et al., 2007).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1043">Two weeks after secondary immunization, all mice were challenged with 10 LD50 of homologous (WF83) (6.0 × 107) and heterologous (1.8 × 106) (S4074) virulent A. pleuropneumonaie by intraperitoneal route. There was no mouse died in groups 1 and 2, which shown a protection efficiency of 100% against homologous challenge (Liu et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3119">
+		<vaccine_name>Actinobacillus pleuropneumoniae apxIIIB and apxIIID double mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1907">An apxIIIBD mutant (1536∆B∆D) was selected and the correct mutation was verified by PCR using three primer pairs. The X3BD-F2 and X3BD-R2 primer pair was designed to produce products of 3720 and 4365 bps from the wild-type 1536 and 1536∆B∆D genomes, respectively (Park et al., 2009).</preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering624" gene_id="gene975">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering625" gene_id="gene977">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response944" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1907">The LD50 of 1536∆B∆D in mice was 6.9 x 10^8 CFU, while that of the wild-type was 4.0 x 10^8 CFU, showing that the mutation of the apxIIIBD genes attenuates the lethality of A. pleuropneumoniae in mice (Park et al., 2009).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1907">To evaluate the ability of the mutant 1536∆B∆D strain to protect mice against lethal challenge, mice were immunized with 1536∆B∆D twice and challenged with a lethal dose of wild-type A. pleuropneumoniae 1536. Eight of the nine mice immunized with 1536∆B∆D survived for more than 72 hr after lethal challenge (89% protection), while all eight of the unimmunized mice died by 72 hr after challenge (Park et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3972">
+		<vaccine_name>Actinobacillus pleuropneumoniae HS93Tox-/pIG-T1K vectored vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004607</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>A mutant form of Actinobacillus pleuropneumoniae serovar strain HS93, known as HS93Tox- which lacks the genes ApxA (structural toxin) and ApxC (post-translational activating protein) [Ref2889:Prideaux et al., 1998].</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference2889">The HS93Tox-/pIG-T1K vector strain, using an Actinobacillus pleuropneumoniae to express the AxpA gene, was shown to protect mice against Actinobacillus pleuropneumoniae challenges (Prideaux et al., 1998). ApxA gene encodes an A. pleuropneumoniae structural toxin (Prideaux et al., 1998).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">Because the toxin has been attenuated, this greatly decreases the potential virulence of the vaccine.</virulence>
+		<preparation refs="reference2889">The HS93Tox- mutant of the serovar 7 strain of Actinobacillus pleuropneumoniae lacks the genes encoding the toxin ApxA and the post-translational activating protein ApxC, but still has genes required for secretion, making it a good vector. A plasmid vector was created to express the ApxA gene inside the HS93Tox- mutant of A. pleuropneumoniae, so that the bacterium acts as a vector for its own natural toxin (Prideaux et al., 1998).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1633" host_id="host3">
+			<immune_response refs="reference2889">The inoculation with HS93Tox-/pIG-T1K induced antibodies specific to the Apx gene, and this response was boosted when the mice were re-inoculated (Prideaux et al., 1998).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0001030</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2889">The mice vaccinated with the HS93Tox-/pIG-T1K strain were protected against both the serovar 7 and serovar 1 challenges, but the mice only inoculated with the HS93Tox- strain not expressing the gene for the AxpA toxin received no protection against the heterologous serovar 1 challenge (Prideaux et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2889">The mice inoculated with HS93Tox-/pIG-T1K strain expressing the toxin gene and the HS93Tox- not expressing the toxin gene were challenged with homologous wild-type serovar 7 and heterologous serovar 1 strains of A. pleuropneumoniae (Prideaux et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3118">
+		<vaccine_name>Actinobacillus pleuropneumoniae ureC and apxIIA double mutant deletion vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>aerosol immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1042">To construct the A. pleuropneumoniae serotype 2 isogenic mutant, 12 clinical isolates were tested initially with respect to their amenability to genetic manipulation via conjugation and cointegration of pBMKUΔ1 (Tonpitak et al., 2002).</preparation>
+		<route refs="">aerosol immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering622" gene_id="gene1037">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering623" gene_id="gene403">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response943" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1042">In all pigs, an immune response could be detected in the detergent extract enzyme-linked immunosorbent assay (ELISA), and only in the wild-type group six of seven pigs showed elevated levels (&gt;10 ELISA units [EU]) in the ApxIIA ELISA 3 weeks after challenge. These results showed that the A. pleuropneumoniae double-mutant strain is highly attenuated and that the group infected with the mutant strain can be discriminated from the wild-type-infected group based on the ApxIIA ELISA (Tonpitak et al., 2002).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1042">A single aerosol application of the attenuated double mutant resulted in protection from clinical disease comparable to that obtained with two applications by using a conventional bacterin vaccine. In addition, immunized pigs were protected significantly from colonization of the lungs (Tonpitak et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4108">
+		<vaccine_name>HS93Tox-/pIG-T1K</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004637</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference2889">HS93Tox-/pIG-T1K, expresses the Apx structural protein in a non-activated form (Prideaux et al., 1998).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1674" gene_id="gene358">
+			<type>Recombinant vector construction</type>
+			<description refs="reference2889">HS93Tox-/pIG-T1K, expresses the Apx structural protein in a non-activated form (Prideaux et al., 1998).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1787" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference2889">Mice were vaccinated with alive strain of HS93Tox-/pIG-T1K (Prideaux et al., 1998).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2889">Live vaccination of mice with HS93Tox-/pIG-T1K offered protection against homologous wild-type serovar 7 challenge, and also heterologous challenge with a serovar 1 strain (Prideaux et al., 1998).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2889">Mice were challenged with a wild-type serovar 7, and a serovar 1 strain (Prideaux et al., 1998).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5668">
+		<vaccine_name>mixture of Salmonella strains delivering ApxIA, ApxIIA, ApxIIIA and OmpA of A. pleuropneumoniae</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference4696">(Hur et al., 2016)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1873" gene_id="gene358">
+			<type>Recombinant vector construction</type>
+			<description refs="reference4696">An attenuated Salmonella Typhimurium was used to express ApxIA (Hur et al., 2016).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1878" gene_id="gene4089">
+			<type>Recombinant vector construction</type>
+			<description refs="reference4696">An attenuated Salmonella Typhimurium was used to express OmpA (Hur et al., 2016).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1879" gene_id="gene360">
+			<type>Recombinant vector construction</type>
+			<description refs="reference4696">An attenuated Salmonella Typhimurium was used to express ApxIIA (Hur et al., 2016).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1880" gene_id="gene4088">
+			<type>Recombinant vector construction</type>
+			<description refs="reference4696">An attenuated Salmonella Typhimurium was used to express ApxIIIA (Hur et al., 2016).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2399" host_id="host3">
+			<immune_response refs="reference4696">The splenic lymphocyte proliferation and the levels of IL-4, IL-6 and IL-12 of the inoculated mice were significantly increased, and the T- and B-cell populations were also elevated. Collectively, the candidate may efficiently induce the Th1- and Th2-type immune responses.(Hur et al., 2016)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine421">
+		<vaccine_name>PleuroStar APP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>PleuroStar APP</brand_name>
+		<manufacturer>Novartis Animal Health</manufacturer>
+		<vo_id>VO_0000889</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference840">Recombinant ApxII, TbpB, CysL, OmlA(1), and OmlA(2) proteins (Van et al., 2001)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine422">
+		<vaccine_name>Porcilis APP</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Porcilis APP</brand_name>
+		<manufacturer>Intervet</manufacturer>
+		<vo_id>VO_0001158</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference841">Extracted ApxI, ApxII, ApxIII, and outer membrane proteins (Chiers et al., 1998).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4289">
+		<vaccine_name>rS.C-APP-ApxI/ApxII</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004785</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3307">The surface-displayed ApxIIA#5 expressing S. cerevisiae and the ApxIA expressing S. cerevisiae (Shin et al., 2013).</preparation>
+		<route refs="">Oral immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1675" gene_id="gene358">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3307">S. cerevisiae expressing either ApxI or ApxII (Shin et al., 2013).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1676" gene_id="gene360">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3307">S. cerevisiae expressing either ApxI or ApxII  (Shin et al., 2013).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1788" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3307">Three groups were designated as the untreated pigs (n = 5, control), the pigs fed with the vector-only S. cerevisiae (n = 5, vector control), and the experimental pigs fed with the ApxIA expressing S. cerevisiae and the surface-displayed ApxIIA#5 expressing S. cerevisiae at a time (n = 10, vaccinated group), respectively. The yeast vaccines were followed by three-time administrations with ApxIA (1.5 × 109 CFU) and ApxIIA (1.5 × 109 CFU) with one week interval (Shin et al., 2013).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3307">The vaccinated pigs showed higher specific IgG- and IgA-related antibody activities than the non-treated control and vector control pigs. Additionally, the induced immune responses were found to protect pigs infected with A. pleuropneumoniae according to the analysis of clinical signs and the gross and microscopic pulmonary lesions (Shin et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3307">The pigs were challenged intranasally one week after final vaccination with a dose (1.5 × 10^9 CFU) of A. pleuropneumoniae serotype 5 Korean isolate from a pig with porcine pleuropneumonia (Shin et al., 2013).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4290">
+		<vaccine_name>rS.C-APP-ApxIIA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004786</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral vaccination</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3308">(Kim et al., 2010) A neutralizing epitope fragment of ApxIIA toxin was expressed and immobilized on the cell surface of Saccharomyces cerevisiae for efficient vaccine development.</preparation>
+		<route refs="">Oral vaccination</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1677" gene_id="gene1037">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3308">A neutralizing epitope fragment of ApxIIA toxin was expressed on the cell surface of Saccharomyces cerevisiae (Kim et al., 2010).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1789" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3308">Oral immunization was preceded by overnight fasting of the mice (water was provided ad libitum). Freshly harvested 2.5 x 10^7 or 2.5 x 10^8 cells were dissolved into 1ml of 0.9% saline and orally administered at 200 µl/mouse through an oral gavage at 10 day intervals, 4 times (Kim et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3308">The mice fed the recombinant epitope-expressing yeast were protected from injection of a lethal dose of A. pleuropneumoniae (Kim et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3308">The immunized mice were injected intraperitoneally with 200 ml of an A. pleuropneumoniae preparation (about 1 x 10^8 CFU) or buffer control 10 days after the final immunization (Kim et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene4092">
+        <gene_name>apfA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>AAO64346</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:331644</xrefs>
+        <taxonomy_id>228399</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>major type IV fimbrial subunit precursor</protein_name>
+        <protein_pi>7.91</protein_pi>
+        <protein_weight>15710.73</protein_weight>
+        <protein_length>259</protein_length>
+        <protein_note>ApfA</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAO64346.1 major type IV fimbrial subunit precursor [Actinobacillus pleuropneumoniae serovar 1 str. 4074]
+MQKLSLIRPLTNAFTLIELMIVIAIIAILATVAIPSYNSYTQKAALSELLAASASYKTDVEICIYNTGDS
+KNCSGGQNGVRKMTELRQAKYLNAITVEGGTITVTGKGNLQEYGYTMTPIHNGSTISWETKCKGEDLSLF
+PANFCASN
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Purified recombinant ApfA elicited an elevated humoral immune response and conferred robust protection against challenges with A. pleuropneumoniae serovar 1 strain 4074 and serovar 7 strain WF83 in mice [Ref4865:Zhou et al., 2013].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene940">
+        <gene_name>apxIA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae L20</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>4850247</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>126208908</ncbi_protein_id>
+        <gene_locus_tag>APL_1444</gene_locus_tag>
+        <gene_refseq>CP000569</gene_refseq>
+        <protein_refseq>YP_001054133</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>416269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1652926</gene_start>
+        <gene_end>1655994</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>RTX-I toxin determinant A</protein_name>
+        <protein_pi>5.34</protein_pi>
+        <protein_weight>104673.05</protein_weight>
+        <protein_length>1022</protein_length>
+        <protein_note>pubmed:8359891</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|126207488:1652926-1655994 Actinobacillus pleuropneumoniae L20, complete genome
+CTTAAGCAGATTGTGTTAAATAATTACTGAAAGCATTCGGTATGCTATTCGGTGAATTGCTGTAAGCTAA
+TGGACCGCCTGCTCCCACTAAAACTTGTCCGTGTTCACCGGTAAGTGCACCAGTAGATGAAATGATTTGT
+TCAATATCTTTTCTGAGTTGAGGAAGTGCATTATATCCTTCTCCATAATACAATTTTTCTTCTAACCCAT
+TAAAGTAATTGATACCTCTTCCAGGAGCTGTCAGTTCAGTCAGATATTGGCTTAAAACATAAGCTCCATC
+TTTATCAACGATTTTTTCAATTTTATTATTTTGTCCTTCTTTACCTTCCTTGAACCAATCTTTAATCGTG
+AGCGCATTCCCATTGTAATCTTCATGGTAATACAGTGTTCCTCCGATTCTTTTATTCACAAGAAGATCAT
+CACCGATTCTGATAAATCCTACATCTTTAAAACTAAGATCCGATAACAATAACGTATCATCATCACCGCC
+TTTCTCAATAATGATATGACGACCGTACTCCTTACTGTAGCGATAAATATCCTTACCTAAACCACCGTAG
+ATTTTGTCATTGCCTACACCACCGTCAAATAAGTTAGTACCATCGCTGCCATACAGAATGTCATTACCCG
+CACCACCTAATAATACGTTGTATTGACCCTCAAAGACCTGCAACTCATCGTCACCATCACCGCCATTAAG
+GAAATTATTACCTTTTCCGCCGATTAATCGGTCGTTTCCGTTACCACCAACAAGATGGTCGTTACCGTCA
+CCGCCATGGATTACATCATTACCGTCGTCTCCGTATAAGATATCGTGGCCGTCATTACCGTAGATTTCAT
+CATCGCCTTTCGCACCATGGAAAATATCGGTAAAGCGACTACCAAAGAATTTGTCTTTACGATTACTACC
+GATAATTTCTTCAACAGAATGTAATTCATCTTTAGCTCTGATACCGTTCCCAAGTTCGAATGGGCTTAAC
+TCATAATCACGATATTCTAATTTTTCACTGCGTTTTCCAACTGAAATATCCTGAGTTTTAACCACTTCTT
+TTAAAACTTTTACATCAGCTTTAAGTTCTTTAGTGACAATATATTCACCGGCTTTCTGTGCACTTTGTCC
+GTCAAATGTTAAGTAACCTGTATCGGTTTTATCGTAATATGCTACATCATGTCCGTTACCCGCATATACG
+ATAGATGAACCGGATGAAAGATATATACGATCATTTTTCTCACCCAAATGAGATTCAATGGTCACTTGAC
+GTTTTTCACCTTTTTTATCTATCGCTAATTGGATAAGATTCGTATAGTCATAAATCGCATTATGTGACTG
+CACACCGGTTACCACCCATTTTTCTTTACCTTTAACGAATAATTCGGTCATATATTCGTATTTACCGGTT
+TGCTTACGCTCACGAATCTCTTCACCTGCGGTAAAAACCGGTGTAATAAATTTCAATAAAGTGGTTTTGT
+TAATTGAAGAAAGGTCGATTTTGCCTTCAAGCGGATCAAACACTTTTTTATCAAAACGATCCGGATCTTT
+CTCTAACAATTTTCCTTCTTCAAAGAAATCGACATAAGCCTTACCGCTTTTCGCATCCGCACCTTTACGC
+GTGATACCGGCAAGTTCCCCGATATTGACATCCCAACGTTGTTGCGTAATAGCAACGACACGCTCTACCG
+AATACTCTTTATTGTATTGTGATAACAATTCAAAGGTATCTTCTAAGAATGCGGAATGGCGGGCGTCATA
+ACCGTTTTCAAAATAGTTTTTACCGTGTTTTTTCTCCCATTCGTCAATCTTATTCGCTAATTTCGTTGCA
+ACTCGTTCGAAGATTGCCTGTTTAGAAGCATCTAAAATACCTGAAATAATACCGGTGATTGCACTAACTA
+AAGCTGCTACCGGCGCACCGACTAATGAGCCGGTTGCAGCAGCCCCAACACCTGCGGAAGCCGCACTTAA
+CACACTGTTAATCGTGGTTAATGCCGCTTCAATCGCACCGGTTTCACGGTAGAATGAAGCTAATAAACTA
+TCACCTTCATAACCGAACTTTTTAAAGCGCTCCGAATATTGTTCAAGCTGTTTCGCACGTTCAAACTTAT
+CCGCAACATTTAAGAACGAAAGCGGGCTAATCGCTAATGCTACGACCGAACCGATTAAACCACCGGTTGC
+CGCAGTTGTGGATAAGCCTGCCGCCACACGTTGCGCAATAATATATTGAGAAACCGCTTTACCGATATTG
+CCTAAGATTTTAGTTGAGATTTCAATACCTGCCGCCGCTTTTGTACCTGCATCGGCATCTTTATTACTTA
+AAATGAATGAAGCCGAAACAACAGATAAGATACCTGATACGGCATCAAACCCAGGTCCTGCAAGGCTTAA
+ATCTGGAAGGTTATTTAACTTACTTGCTAAACCGCTTAAGCGAGTGTTAGATAAGGCATTGCCCAATTTA
+CCTAATTGTTCGGCAAACGCATCCACCGTACCCGTTGCACTTGCAATGTTATCCACTAACTGAGCGGCTA
+GATCCACACCCGCTTTAGCTAATTCCGAACCACTGACGTCCTCACCGTTTCTACGGCGACGAAGCAGGCT
+ATCAAGATCCATACCCGCAATAGCCGTACCTAAGAAACTTTGTAAGGCTGAAAGTGCCGTTTGCGTTTTA
+TTTAAACGTTGTCCTAATGCTTCCGATGAACCGCCGAGCGATTTACTTAATTTTTGGTTCTTATTCAGTA
+ACTTATCAAACTGAGGTGCAAATAATGCGATGCCTCGTTCCGAGAAACCTAATAGTTTTTCCGTTGTACC
+GAATAATTCTTTCGCTAGTGCGGTACCGTTTTTTTCCGAGCGATGTACTTCGATCCCTAAAGCCTCCGCC
+GCTTTCACTAAATCATTAAGACTTGAGCCGGTACTAGCTTGATAATCTTTCGGAATATATAAAATTAATT
+TCTGCCCTGCTTGCTTCACCTGTCCCAAACCATTTTTTAATGCGCCGGCACCTGATTTAGCTGCACTTTT
+TGTATGTTGATTAAGTGAATCAATCAATCCTTTGACTCTATCGAGCTGAGAGTTAGCCA</dna_sequence>
+        <protein_sequence>>gi|126208908|ref|YP_001054133.1| RTX-I toxin determinant A [Actinobacillus pleuropneumoniae L20]
+MANSQLDRVKGLIDSLNQHTKSAAKSGAGALKNGLGQVKQAGQKLILYIPKDYQASTGSSLNDLVKAAEA
+LGIEVHRSEKNGTALAKELFGTTEKLLGFSERGIALFAPQFDKLLNKNQKLSKSLGGSSEALGQRLNKTQ
+TALSALQSFLGTAIAGMDLDSLLRRRRNGEDVSGSELAKAGVDLAAQLVDNIASATGTVDAFAEQLGKLG
+NALSNTRLSGLASKLNNLPDLSLAGPGFDAVSGILSVVSASFILSNKDADAGTKAAAGIEISTKILGNIG
+KAVSQYIIAQRVAAGLSTTAATGGLIGSVVALAISPLSFLNVADKFERAKQLEQYSERFKKFGYEGDSLL
+ASFYRETGAIEAALTTINSVLSAASAGVGAAATGSLVGAPVAALVSAITGIISGILDASKQAIFERVATK
+LANKIDEWEKKHGKNYFENGYDARHSAFLEDTFELLSQYNKEYSVERVVAITQQRWDVNIGELAGITRKG
+ADAKSGKAYVDFFEEGKLLEKDPDRFDKKVFDPLEGKIDLSSINKTTLLKFITPVFTAGEEIRERKQTGK
+YEYMTELFVKGKEKWVVTGVQSHNAIYDYTNLIQLAIDKKGEKRQVTIESHLGEKNDRIYLSSGSSIVYA
+GNGHDVAYYDKTDTGYLTFDGQSAQKAGEYIVTKELKADVKVLKEVVKTQDISVGKRSEKLEYRDYELSP
+FELGNGIRAKDELHSVEEIIGSNRKDKFFGSRFTDIFHGAKGDDEIYGNDGHDILYGDDGNDVIHGGDGN
+DHLVGGNGNDRLIGGKGNNFLNGGDGDDELQVFEGQYNVLLGGAGNDILYGSDGTNLFDGGVGNDKIYGG
+LGKDIYRYSKEYGRHIIIEKGGDDDTLLLSDLSFKDVGFIRIGDDLLVNKRIGGTLYYHEDYNGNALTIK
+DWFKEGKEGQNNKIEKIVDKDGAYVLSQYLTELTAPGRGINYFNGLEEKLYYGEGYNALPQLRKDIEQII
+SSTGALTGEHGQVLVGAGGPLAYSNSPNSIPNAFSNYLTQSA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>The mutant strain, with deletion of apxIA gene, obtained in this study offered a level of cross-serovar protection against A. pleuropneumoniae infection in mice and pigs [Ref1800:Xu et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene358">
+        <gene_name>apxIA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id>VO_0011019</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>312899</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:308152
+CDD:225483
+CDD:311996
+GOA:P55128
+InterPro:IPR001343
+InterPro:IPR003995
+InterPro:IPR011049
+InterPro:IPR013550
+InterPro:IPR018504
+InterPro:IPR018511
+UniProtKB/Swiss-Prot:P55128</xrefs>
+        <taxonomy_id>754346</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi>5.41</protein_pi>
+        <protein_weight>104857.1</protein_weight>
+        <protein_length>1100</protein_length>
+        <protein_note>RTX N-terminal domain; pfam02382</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA51548.1 apxIA [Actinobacillus pleuropneumoniae serovar 9]
+MANSQLDRVKGLIDSLNQHTKSAAKSGAGALKNGLGQVKQAGQKLILYIPKDYQASTGSSLNDLVKAAEA
+LGIEVHRSEKNGTALAKELFGTTEKLLGFSERGIALFAPQFDKLLNKNQKLSKSLGGSSEALGQRLNKTQ
+TALSALQSFLGTAIAGMDLDSLLRRRRNGEDVSGSELAKAGVDLAAQLVDNIASATGTVDAFAEQLGKLG
+NALSNTRLSGLASKLNNLPDLSLAGPGFDAVSGILSVVSASFILSNKDADAGTKAAAGIEISTKILGNIG
+KAVSQYIIAQRVAAGLSTTAATGGLIGSVVALAISPLSFLNVADKFERAKQLEQYSERFKKFGYEGDSLL
+ASFYRETGAIEAALTTINSVLSAASAGVGAAATGSLVGAPVAALVSAITGIISGILDASKQAIFERVATK
+LANKIDEWEKKHGKNYFENGYDARHSAFLEDTFELLSQYNKEYSVERVVAITQQRWDVNIGELAGITRKG
+SDTKSGKAYVDFFEEGKLLEKEPDRFDKKVFDPLEGKIDLSSINKTTLLKFVTPVFTAGEEIRERKQTGK
+YEYMTELFVKGKEKWVVTGVQSHNAIYDYTNLIQLAIDKKGEKRQVTIESHLGEKNDRIYLSSGSSIVYA
+GNGHDVAYYDKTDTGYLTFDGQSAQKAGEYIVTKELKADVKVLKEVVKTQDISVGKRSEKLEYRDYELSP
+FELGNGIRAKDELHSVEEIIGSNRKDKFFGSRFTDIFHGAKGDDEIYGNDGHDILYGDDGNDVIHGGDGN
+DHLVGGNGNDRLIGGKGNNFLNGGDGDDELQVFEGQYNVLLGGAGNDILYGSDGTNLFDGGVGNDKIYGG
+LGKDIYRYSKEYGRHIIIEKGGDDDTLLLSDLSFKDVGFIRIGDDLLVNKRIGGTLYYHEDYNGNALTIK
+DWFKEGKEGQNNKIEKIVDKDGAYVLSQYLTELTAPGRGINYFNGLEEKLYYGEGYNALPQLRKDIEQII
+SSTGAFTGDHGKVSVGSGGPLVYNNSANNVANSLSYSLAQAA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The ApxI antigen is an important factor in the protection against Actinobacillus pleuropneumoniae serotype 5 infection; therefore, the protective immunity in mice following oral immunization with Saccharomyces cerevisiae expressing either ApxIA (group C) or ApxIIA (group D) alone or both (group E) was compared with that in two control groups (group A and B). The immunogenicity of the rApxIA antigen derived from the yeast was confirmed by a high survival rate and an ApxIA-specific IgG antibody response (p &gt; 0.01) [Ref1006:Shin et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene402">
+        <gene_name>ApxIC</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1477456</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:154216</xrefs>
+        <taxonomy_id>715</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>172</protein_length>
+        <protein_note>RTX toxin acyltransferase family; cl01131</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|1477456|gb|AAB17219.1| apxIC [Actinobacillus pleuropneumoniae]
+MSKKINGFEVLGEVAWLWASSPLHRKWPLSLLAINVLPAIESNQYVLLKRDGFPIAFCSWANLNLENEIK
+YLDDVASLVADDWTSGDRRWFIDWIAPFGDSAALYKHMRDNFPNELFRAIRVDPDSRVGKISEFHGGKID
+KKLASKIFQQYHFELMSELKNKQNFKFSLVNS</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>In the intra-peritoneal mouse model, the virulence of the mutant strain decreased at least 100 fold compared with the parent strain. The mutant was evaluated as a potential vaccine using a vaccination-challenge trial.  The death number and lung lesion score in the vaccinated pigs given the serovar 1 challenge were obviously lower than those in the unvaccinated pigs [Ref1041:Xu et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene360">
+        <gene_name>apxIIA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id>VO_0011020</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>52630374</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:280531
+CDD:225483
+CDD:305016
+CDD:285531</xrefs>
+        <taxonomy_id>715</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ApxIIA</protein_name>
+        <protein_pi>5.5</protein_pi>
+        <protein_weight>96615.24</protein_weight>
+        <protein_length>1024</protein_length>
+        <protein_note>biovar: 1</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAU84700.1 ApxIIA [Actinobacillus pleuropneumoniae]
+MSKITLSSLKSSLQQGLKNGKNKLNQAGTTLKNGLTQTGHSLQNGAKKLILYIPQGYDSGQGNGVQDLVK
+AANDLGIEVWREERSNLDIAKTSFDTTQKILGFTDRGIVLFAPQLDNLLKKNPKIGNTLGSASSISQNIG
+KANTVLGGIQSILGSVLSGVNLNELLQNKDPNQLELAKAGLELTNELVGNIASSVQTVDAFAEQISKLGS
+HLQNVKGLGGLSNKLQNLPDLGKASLGLDIISGLLSGASAGLILADKEASTEKKAAAGVEFANQIIGNVT
+KAVSSYILAQRVASGLSSTGPVAALIASTVALAVTPLSFLNVADKFKQADLIKSYSERFQKLGYDGDRLL
+ADFHRETGTIDASVTTINTALAAISGGVGAASAGSLVGAPVALLVAGVTGLITTILEYSKQAMFEHVANK
+VHDRIVEWEKKHNKNYFEQGYDSRHLADLQDNMKFLINLNKELQAERVVAITQQRWDNQIGDLAAISRRT
+DKISSGKAYVDAFEGGQHQSYDSSVQLDNKNGIINISNTNRKTQSVLFRTPLLTPGEENRERIQEGKNSY
+ITKLHIQRVDSWTVTDGDASSSVDFTNVVQRIAVKFDDAGNIIESKDTKIIANLGAGNDNVFVGSSTTVI
+DGGDGHDRVHYSRGEYGALVIDATAETEKGSYSVKRYVGDSKALHETIATHQTNVGNREEKIEYRREDDR
+FHTGYTVTDSLKSVEEIIGSQFNDIFKGSQFDDVFHGGNGVDTIDGNDGDDHLFGGAGDDVIDGGNGNNF
+LVGGTGNDIISGGKDNDIYVHKTGDGNDSITDSGGQDKLAFSDVNLKDLTFKKVDSSLEIINQKGEKVRI
+GNWFLEDDLASTVANYKATNDRKIEEIIGKGGERITSEQVDKLIKEGNNQISAEALSKVVNDYNTSKDRQ
+NVSNSLAKLISPVGSFTSSSDFRNNLGTYVPSSIDVSNNIQLARAA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The levels of local and systemic antibodies specific to the Apx antigens were investigated in mice orally immunized with Apx antigen-expressing yeast.  Specific IgA responses to ApxIA or ApxIIA in the intestines and lungs from mice immunized with yeast expressing Apx antigens were significantly higher than those in the control groups after the second and third immunizations, respectively (p &gt; 0.05).  All mice were monitored for up to 72 h after challenge with the MLD of an A. pleuropneumoniae field isolate. Overall, the final survival rates of the vaccinated groups were higher than those of the control groups at each time point [Ref1006:Shin et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1037">
+        <gene_name>apxIIA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae serotype 2</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>255959000</ncbi_protein_id>
+        <gene_locus_tag>APL_0956</gene_locus_tag>
+        <gene_refseq>CP000569</gene_refseq>
+        <protein_refseq>YP_001053657</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:111291
+CDD:116920</xrefs>
+        <taxonomy_id>715</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>1095617</gene_start>
+        <gene_end>1098487</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>RTX-II toxin determinant A</protein_name>
+        <protein_pi>5.34</protein_pi>
+        <protein_weight>96054.51</protein_weight>
+        <protein_length>956</protein_length>
+        <protein_note>RTX N-terminal domain; pfam02382</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|126207488:1095617-1098487 Actinobacillus pleuropneumoniae L20, complete genome
+ATTAAGCGGCTCTAGCTAATTGAATATTATTCGAGACATCTATTGATGAAGGAACATATGTTCCTAAATT
+ATTCCTAAAGTCTGAGGAAGACGTAAAGCTCCCGACTGAAGAAATCAATTTTGCTAAGCTATTAGATACG
+TTCTGTCTATCTTTACTCGTATTGTAATCATTCACAACTTTGGATAATGCTTCTGCAGAGATTTGATTGT
+TACCCTCCTTAATCAGTTTATCAACTTGTTCTGATGTAATACGTTCTCCTCCTTTACCAATAATTTCCTC
+AATTTTTCGGTCATTCGTAGCTTTATAGTTAGCAACTGTGCTAGCCAAATCATCTTCTAAGAACCAATTC
+CCAATACGAACTTTTTCTCCTTTTTGATTAATGATTTCGAGAGAAGAATCTACTTTCTTAAAGGTGAGGT
+CTTTAAGATTTACATCCGAAAATGCCAGTGTATCTTGTCCGCCAGAGTCTGTAATAGAATCATTTCCATC
+GCCTGTTTTATGGACATATATATCATTATCTTTACCTCCCGAGATAATATCATTACCGGTTCCTCCAACA
+AGGAAATTGTTACCGTTTCCTCCATCGATAACATCATCGCCTGCGCCACCAAATAAATGATCGTCACCAT
+CGTTACCATCAATAGTGTCTACACCATTACCACCATGGAACACATCATCAAATTGGCTTCCTTTGAAAAT
+ATCATTAAATTGTGAACCAATGATCTCTTCAACTGATTTGAGTGAGTCCGTCACAGTATAACCAGTATGA
+AAACGATCATCTTCACGACGATATTCAATTTTTTCTTCACGATTACCAACATTTGTTTGGTGGGTGGCAA
+TTGTTTCATGTAATGCTTTACTGTCTCCGACATAGCGTTTTACTGAATATGAGCCTTTTTCTGTCTCGGC
+TGTAGCATCAATAACTAATGCGCCATATTCTCCTCTACTGTAGTGAACTCGATCATGTCCGTCCCCGCCA
+TCAATAACGGTAGTACTTGACCCAACAAATACATTATCGTTACCAGCACCTAAATTTGCGATAATTTTAG
+TATCTTTAGATTCGATAATGTTACCTGCATCATCAAATTTCACAGCGATTCGTTGTACTACATTAGTGAA
+ATCTACGCTTGAGCTAGCATCACCATCTGTTACAGTCCAACTGTCAACTCTTTGTATATGTAATTTTGTA
+ATATAAGAATTTTTACCTTCCTGAATACGTTCCCGATTCTCTTCACCTGGAGTTAGTAATGGAGTTCTGA
+ATAAAACACTTTGTGTCTTTCTATTTGTATTACTAATATTAATAATACCGTTTTTGTTATCTAGCTGTAC
+GGATGAATCGTAGGACTGGTGTTGCCCCTCCTCAAAAGCATCCACATAAGCTTTTCCACTGGAAATTTTA
+TCCGTTCTACGGCTAATTGCCGCTAGGTCTCCAATTTGGTTATCCCATCTTTGTTGGGTAATAGCTACTA
+CGCGTTCAGCCTGAAGTTCTTTATTTAAATTGATAAGAAACTTCATATTGTCTTGTAAATCAGCTAAATG
+ACGAGAATCATAACCTTGCTCAAAATAGTTTTTATTATGTTTTTTCTCCCATTCAACTATTCTGTCATGA
+ACCTTATTTGCAACATGTTCAAACATGGCTTGTTTAGAATATTCTAGAATAGTTGTAATAAGTCCCGTAA
+CACCAGCAACGAGTAACGCAACTGGAGCTCCGACTAGAGAACCCGCGCTTGCAGCTCCAACTCCACCGGA
+GATAGCTGCTAAAGCAGTGTTAATTGTTGTTACAGAAGCATCAATAGTTCCTGTCTCACGGTGAAAATCA
+GCTAATAAACGATCTCCATCATATCCTAATTTTTGGAAGCGTTCAGAATATGATTTGATTAAATCAGCTT
+GTTTAAACTTATCAGCTACATTTAAGAATGAAAGAGGGCTAACAGCTAGTGCAACTGTAGATGCGATTAA
+TGCAGCGACAGGACCAGTTGAAGACAAACCTGAAGCGACTCGTTGGGCAAGAATGTAAGATGAGACCGCT
+TTTGTTACATTACCTATAATTTGGTTAGCAAATTCTACACCTGCGGCAGCTTTCTTTTCTGTTGAAGCCT
+CTTTATCTGCTAAAATGAGACCTGCAGATGCTCCAGAAAGTAAACCAGAGATAATGTCCAAACCTAAACT
+TGCTTTTCCTAGATCTGGTAGATTTTGTAATTTATTACTCAATCCTCCTAATCCTTTCACATTCTGTAAA
+TGTGAACCTAGTTTAGATATTTGTTCTGCAAATGCATCTACAGTTTGCACCGAGCTAGCAATATTACCAA
+CTAATTCATTAGTCAGTTCTAGCCCTGCTTTTGCAAGTTCTAATTGATTAGGATCTTTATTTTGAAGTAA
+TTCATTCAGATTTACTCCAGATAAAACAGATCCTAAAATAGATTGAATACCACCTAATACAGTATTGGCT
+TTACCTATATTTTGTGAGATGCTAGAAGCACTTCCTAATGTATTGCCAATTTTAGGATTCTTCTTTAATA
+AATTATCTAGCTGAGGTGCAAATAATACAATTCCTCTATCAGTAAAACCTAGAATTTTCTGAGTTGTATC
+AAAGCTAGTTTTTGCAATGTCCAAATTGCTGCGTTCTTCTCGCCATACTTCAATACCTAAATCATTAGCA
+GCTTTAACTAAATCTTGAACTCCATTTCCTTGACCCGAATCATAGCCTTGAGGAATATATAAGATTAATT
+TTTTAGCCCCATTCTGTAGAGAATGACCAGTTTGAGTTAAACCATTCTTCAGTGTTGTACCTGCTTGATT
+TAACTTGTTTTTCCCATTTTTCAATCCTTGTTGTAAGGACGATTTTAATGATGACAAAGTGATTTTTGAC
+A</dna_sequence>
+        <protein_sequence>>gi|255959000|gb|ACU43588.1| RTX-II toxin determinant A [Actinobacillus pleuropneumoniae]
+MSKITLSSLKSSLQQGLKNGKNKLNQAGTTLKNGLTQTGHSLQNGAKKLILYIPQGYDSGQGNGVQDLVK
+AANDLGIEVWREERSNLDIAKTSFDTTQKILGFTDRGIALFAPQLDNLLKKNPKIGNTLGSASSISQNIG
+KANTVLGGIQSILGSVLSGVNLNELLQNKDPNQLELAKAGLELTNELVGNIASSVQTVDAFAEQISKLGS
+HLQNVKGLGGLSNKLQNLPDLGKASLGLDIISGLLSGASAGLILADKEASTEKKAAAGVEFANQIIGNVT
+KAVSSYILAQRVASGLSSTGPVAALIASTVALAVSPLSFLNVADKFKQADLIKSYSERFQKLGYDGDRLL
+ADFHRETGTIDASVTTINTALAAISGGVGAASAGSLVGAPVALLVAGVTGLITTILEYSKQAMFEHVANK
+VHDRIVEWEKKHNKNYFEQGYDSRHLADLQDNMKFLINLNKELQAERVVAITQQRWDNQIGDLAAISRRT
+DKISSGKAYVDAFEEGQHQSYDSSVQLDNKNGIINISNTNRKTQSVLFRTPLLTPGEENRERIQEGKNSY
+ITKLHIQRVDSWTVTDGDASSSVDFTNVVQRIAVKFDDAGNIIESKDTKIIANLGAGNDNVFVGSSTTVI
+DGGDGHDRVHYSRGEYGALVIDATAETEKGSYSVKRYVGDSKALHETIATHQTNVGNREEKIEYRREDDR
+FHTGYTVTDSLKSVEEIIGSQFNDIFKGSQFDDVFHGGNGVDTIDGNDGDDHLFGGAGDDVIDGGNGNNF
+LVGGTGNDIISGGKDNDIYVHKTGDGNDSITDSGGQDKLAFSDVNLKDLTFKKVDSSLEIINQKGEKVRI
+GNWFLEDDLASTVANYKATNDRKIEEIIGKGGERITSEQVDKLIKEGNNQISAEALSKVVNDYNTSKDRQ
+NVSNSLAKLISSVGSFTSSSDFRNNLGTYVPSSIDVSNNIQLARAA</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>Deletion in ureC and apxIIA genes of Actinobacillus pleuropneumoniae serotype 2 prototype provides attenuation and protection in pigs against challenge with the virulent parent strain of A. pleuropneumoniae [Ref1042:Tonpitak et al., 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene401">
+        <gene_name>ApxIIC</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>52630373</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:154216</xrefs>
+        <taxonomy_id>715</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ApxIIC</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>160</protein_length>
+        <protein_note>biovar: 1</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|52630373|gb|AAU84699.1| ApxIIC [Actinobacillus pleuropneumoniae]
+MMLKNDFNVLGQIAWLWANSPMHRNWSVSLLMKNVIPAIENDQYLLLVDDGFPIAYCSWAKLTLESEARY
+VKDTNSLKIDDWNAGDRIWIIDWIAPFGDSSLLYKHMRQRFPYDIGRAIRIYPSKKDTGKIIYLKGGKIT
+KKVAEKTFLQYEQELITALQ</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>In the present study, the gene encoding the ApxII-activating protein, apxIIC, was insertionally inactivated on the chromosome of a serovar 7 strain, HS93.  Pigs vaccinated with live HS93C-Ampr via the intranasal route were protected against a cross-serovar challenge with a virulent serovar 1 strain of A. pleuropneumoniae [Ref1040:Prideaux et al., 1999].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene4088">
+        <gene_name>apxIIIA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>CAA48711</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:308152
+CDD:225483
+CDD:311996
+GOA:P55131
+InterPro:IPR001343
+InterPro:IPR003995
+InterPro:IPR011049
+InterPro:IPR013550
+InterPro:IPR018504
+InterPro:IPR018511
+UniProtKB/Swiss-Prot:P55131</xrefs>
+        <taxonomy_id>715</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>ApxIIIA </protein_name>
+        <protein_pi>5.56</protein_pi>
+        <protein_weight>107581.37</protein_weight>
+        <protein_length>1123</protein_length>
+        <protein_note>RTX N-terminal domain; pfam02382</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CAA48711.1 apxIIIA [Actinobacillus pleuropneumoniae]
+MSTWSSMLADLKKRAEEAKRQAKKGYDVTKNGLQYGVSQAKLQALAAGKAVQKYGNKLVLVIPKEYDGSV
+GNGFFDLVKAAEELGIQVKYVNRNELEVAHKSLGTADQFLGLTERGLTLFAPQLDQFLQKHSKISNVVGS
+STGDAVSKLAKSQTIISGIQSVLGTVLAGINLNEAIISGGSELELAEAGVSLASELVSNIAKGTTTIDAF
+TTQIQNFGKLVENAKGLGGVGRQLQNISGSALSKTGLGLDIISSLLSGVTASFALANKNASTSTKVAAGF
+ELSNQVIGGITKAVSSYILAQRLAAGLSTTGPAAALIASSISLAISPLAFLRVADNFNRSKEIGEFAERF
+KKLGYDGDKLLSEFYHEAGTIDASITTISTALSAIAAGTAAASAGALVGAPITLLVTGITGLISGILEFS
+KQPMLDHVASKIGNKIDEWEKKYGKNYFENGYDARHKAFLEDSFSLLSSFNKQYETERAVLITQQRWDEY
+IGELAGITGKGDKLSSGKAYVDYFQEGKLLEKKPDDFSKVVFDPTKGEIDISNSQTSTLLKFVTPLLTPG
+TESRERTQTGKYEYITKLVVKGKDKWVVNGVKDKGAVYDYTNLIQHAHISSSVARGEEYREVRLVSHLGN
+GNDKVFLAAGSAEIHAGEGHDVVYYDKTDTGLLVIDGTKATEQGRYSVTRELSGATKILREVIKNQKSAV
+GKREETLEYRDYELTQSGNSNLKAHDELHSVEEIIGSNQRDEFKGSKFRDIFHGADGDDLLNGNDGDDIL
+YGDKGNDELRGDNGNDQLYGGEGNDKLLGGNGNNYLSGGDGNDELQVLGNGFNVLRGGKGDDKLYGSSGS
+DLLDGGEGNDYLEGGDGSDFYVYRSTSGNHTIYDQGKSSDLDKLYLSDFSFDRLLVEKVDDNLVLRSNES
+SHNNGVLTIKDWFKEGNKYNHKIEQIVDKNGRKLTAENLGTYFKNAPKADNLLNYATKEDQNESNLSSLK
+TELSKIITNAGNFGVAKQGNTGINTAALNNEVNKIISSANTFATSQLGGSGMGTLPSTNVNSMMLGNLAR
+AA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The splenic lymphocyte proliferation and the levels of IL-4, IL-6 and IL-12 of the inoculated mice were significantly increased, and the T- and B-cell populations were also elevated. Collectively, the candidate may efficiently induce the Th1- and Th2-type immune responses.[Ref4696:Hur et al., 2016]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene975">
+        <gene_name>apxIIIB</gene_name>
+        <strain>Actinobacillus pleuropneumoniae serovar 2</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>470686</ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:30270
+CDD:162558
+CDD:186074
+CDD:73011</xrefs>
+        <taxonomy_id>34063</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>RTX toxin</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>A sub-family of peptidase C39 which contains Cyclolysin and Hemolysin processing peptidases. Peptidase family C39 mostly contains bacteriocin-processing endopeptidases from bacteria. The cysteine peptidases in family C39 cleave the 'double-glycine'...; cd02417</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gb|L12145.1|ACNNON:3943-6078 Actinobacillus pleuropneumoniae (serotype 2) RTX toxin III (apxIII CABD) genes, complete cds
+ATGGAGTCACAAATGCCTTTTAACGAAAAAATAGATTACGGATTACATGCATTGGTAATTCTCGCGCAAT
+ATCACAATGTTGCCGTAAACCCTGAAGAGGTAAAACATAAATTTGATCTTGATGGCAAAGGATTGGATCT
+TGTTGCTTGGTTATTAGCAGCAAAATCATTAGAATTAAAAGTCAAACGAGTAAAAAAGAGTATTGAGCGT
+TTACCATTTATTCATCTTCCTGCTTTAATCTGGCGAGATGATGGTCAACACGTTATTTTGATGAAAATTG
+ACACCCAAACTAACCGTTACCTTATTTTTGACTTAGAAGAACGAAACCCTAAAGTACTAAGTGCGGCTGA
+ATTTCACGAAATTTTTCAAGGTGGTATGATTCTTATTACTTCACGAGCTTCTATTATGGGGCAATTGGCG
+AAGTTTGATTTCACTTGGTTTATCCCCGCAGTAATTAAATACCGTAAAATTTTTGTAGAAACTATTATTG
+TTTCTATTTTTTTGCAGCTTTTTGCACTAATTACTCCCTTATTTTTCCAAGTTGTGATGGATAAAGTTCT
+TGTCCATCGTGGATTTTCTACACTTAATGTTATCACGGTTGCATTATCTGTAGTGGTTATCTTTGAAATT
+GTATTAAGCGGTCTACGGACTTATATATTTTCCCATAGCACTAGCCGAATTGATGTAGAACTTGGTGCAA
+AATTATTTCGTCACTTGTTAGCGTTACCTATTTCTTATTTCGAAAATAGACGTGTAGGTGACACAGTTGC
+TCGAGTACGAGAATTGGATCAAATACGCAATTTTTTAACAGGTCAGGCACTTACCTCTGTATTAGATCTC
+TTATTCTCTTTTATTTTCTTTGCAGTGATGTGGTATTACAGCCCAAAACTAACTATTGTGATTTTACTTT
+CATTACCTTGTTATATCGCATGGTCAATATTTATTAGCCCAATATTACGTCGTCGTCTAGATGAAAAATT
+TGCTCGTAATGCTGATAATCAATCTTTTTTAGTTGAATCTGTTTCTGCAATAGACACGATCAAGGCTCTT
+GCTGTAACACCTCAAATGACAAATATTTGGGATAAACAGTTAGCAAGTTATGTATCAGCAGATTTTAGAG
+TGACAGTATTGGCAACTATTGGACAGCAAGGTGTACAACTTATCCAAAAAACAGTAATGATAATTAATTT
+ATGGTTAGGTGCACATTTAGTAATTTCAGGGGATCTTAGCATTGGACAATTAATTACTTTTAATATGCTT
+TCAGGACAAGTTATTGCACCTGTAGTTCGTTTAGCACAATTGTGGCAAGACTTTCAACAAGTAGGAATTT
+CTATTACACGATTGGGAGATGTCTTAAATTCACCTACAGAAAATTATCAAGGTAAGCTTTCACTACCAGA
+AATCTTTGGGGATATCGCATTTAAACATATTCGCTTTCGCTATAAGCCCGATGCTCCAATCATTTTAGAT
+GATGTAAATTTATCGGTTAAACAGGGGGAAGTTATTGGGATAGTAGGACGTTCAGGTTCAGGTAAAAGTA
+CTCTCACTAAATTATTACAACGTTTTTATATTCCGGAAAATGGCCAAGTATTGATTGATGGTCACGATCT
+TGCGCTTGCTGATCCTAATTGGTTACGTCGTCAAATTGGTGTTGTTTTACAAGATAATGTGTTATTAAAC
+CGTAGTATTCGCGATAATATCGCACTCACTGATCCAAGCATGTCTATGGAACGTGTTATCTATGCGGCAA
+AATTAGCAGGGGCACATGATTTTATTTCTGAATTACGTGAAGGTTACAATACTATTGTAGGAGAGCTTGG
+TGCAGGCTTATCTGGTGGACAACGTCAACGGATTGCTATTGCACGAGCTTTAGTCAATAACCCTAGGATT
+TTGATTTTTGATGAGGCGACAAGTGCATTAGATTATGAATCTGAACATATCATTATGCAAAATATGCAAA
+AAATCTGCCATGGACGGACAGTAATCATTATTGCCCACCGTCTTTCTACAGTAAAAAATGCGGATCGCAT
+TATTGTTATGGAAAAGGGACATATTGTAGAGCAAGGTAAACATAACCAATTACTGGAAAATGAAAATGGA
+CTCTATTATTACCTCAACCAACTACAATCAAATTAA</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An apxIIIB mutant, in combination with an apxIIID mutation, is highly attenuated in pigs and induces significant protection from challenge with wild type A. pleuropneumoniae.  The mutant also was slightly attenuated in mice and induced protection in mice against challenge from the parent strain [Ref1907:Park et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene977">
+        <gene_name>apxIIID</gene_name>
+        <strain>Actinobacillus pleuropneumoniae serovar 2</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>470687</ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:130902</xrefs>
+        <taxonomy_id>34063</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>RTX toxin</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>type I secretion membrane fusion protein, HlyD family; TIGR01843</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gb|L12145.1|ACNNON:6090-7523 Actinobacillus pleuropneumoniae (serotype 2) RTX toxin III (apxIII CABD) genes, complete cds
+ATGAAGTTATGGATTCTAGGACTTGGGGAATTTTTTCAACGTTATCGTAATATTTGGCGTGAAATATGGA
+AAATCCGCAAACAATTAGATACCCCAGCAAGACAAAAAGATGAAAACGAATTTTTGCCTCGGCATTTAGA
+GTTAATTGAGACACCTATTTCAAAAAAGCCACGGCTGATCGCTTATTTGATAATGCTATTTCTATTTTTA
+GCTATTGTAATTTCCATTATTAGTAAAGTAGAAATTGTTGCTAGTGCTACAGGTAAGTTGGTATTTAGTG
+GACATAGTAAAGAAATAAAGCCTATTGAGAATGCTTTAGTAAAAGACATTTTTGTTAAAGATGGACAATT
+TGTTGAAAAAGGACAATTATTATTAAATCTCACCGCACTTGGCTGCGATGCAGACAAACAAAAAACTAAA
+GTATCGTTAGGATTGGAAAGATTAGATGGTTACCGATATAAGTCATTGTTATATAGCATTGAACACAATA
+GATTACCTTTATTGGATTTTAACCAAGCTGATTTTGATTCTGTTCAGGAAGAAGATAAGACTGGCGCACG
+TCATTTAATTACCGAACAATTTGAGACTTGGCAAAAACAAAAATATCAGAAGGAATTAGCGTATCAACGT
+AAACAAGCTGAAAAACAAACAGTATTAGCAAATATCCGTAAATATGAAAGCGCTAGTCGTATTGAAAAGG
+AGAAATTAAGTGATTTAAAAAAATTATATGATGTAAAGTCTATTTCTAAGCATGAGTTGTTAGCACAAGA
+AAATAGATATGTTGAAGCTAGTAATGAATTGTCTGTTTATCAATCTCATCTCAAAGAAGTAGAAAGTGAC
+TTGCTTAAAGCACAAGAAGATTTAAAGCTTGTTACTCAATTATTTAAGAGTGATATTTTGGAAAAACTAC
+AGCAAAATATACAACGCGAAAAGCAGCTCACTTTAGAACTTGAGAAAAATGAACAACGTCAATTAGCCTC
+TATCATTAGGGCGCCAGTATCAGGCACAGTCCAACAATTAAAAACTCATACTAAAGGTGGCGTAGTAACT
+ACTGCAGAAACCTTAATGGTCATTGCTCCTGAGGATGACGTGTTGGAAGTAAGTGCTTTAATTCAAAACA
+AAGATGTTGGTTTTGTTGAAATTGGACAGGAAGCAGTTATTAAAGTGGAAACTTTTCCCTACACAAGATA
+TGGTTATCTCTATGGAAAAGTAAAAACTATTACTCTTGATGCTATTGAGCACCCTCAGCTTGGTTTAGTT
+TTCAATTCTATTATTGAGATTAACAAGAAAACATTAACAGATGGTGATAAAGAAATTCAATTAGGTTCTG
+GAATGAGCGTTATTGCAGAAATTAAAACAGGAGAACGCAGTGTTATCAGTTTCCTACTCAGTCCATTAGA
+AGAATCTATTACTGAAAGTCTAAGAGAACGTTAA</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An apxIIID mutant, in combination with an apxIIIB mutation, is highly attenuated in pigs and induces significant protection from challenge with wild type A. pleuropneumoniae. The mutant also was slightly attenuated in mice and induced protection in mice against challenge from the parent strain [Ref1907:Park et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene405">
+        <gene_name>ApxIVA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>6671152</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:164328
+CDD:116920</xrefs>
+        <taxonomy_id>715</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ApxIVA</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>130</protein_length>
+        <protein_note>Peptidase M10 serralysin C terminal; cl12108</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|6671152|gb|AAF23114.1| ApxIVA [Actinobacillus pleuropneumoniae]
+DWGRNSVIDAGAGNDTVNGGYGDDTLIGGKGNDILKGSYGADTYLFSKGHGQDVIYEYSNSASSTSDIDT
+LKFTDIGLSELWFSRENNDLIIKSLLSEDKVTVQNWYSHQDHKIENIRLSNEQMLVSTQV</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A precisely defined DeltaapxIICDeltaapxIVA double-deletion mutant of A. pleuropneumoniae was constructed based on HB04C(-) by transconjugation and counterselection.  The results demonstrated that the DeltaapxIICDeltaapxIVA double mutant strain was less virulent than HB04C(-). Despite attenuation of virulence, the DeltaapxIICDeltaapxIVA double mutant remains immunogenic and conferred a similar level of protective immunity to pigs against challenge with a lethal dose of a heterologous fully virulent standard serovar 1 strain of A. pleuropneumoniae [Ref1043:Liu et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene4090">
+        <gene_name>hbpA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>ABN75084</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:223818
+CDD:173858</xrefs>
+        <taxonomy_id>416269</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>Heme-binding protein A</protein_name>
+        <protein_pi>6.89</protein_pi>
+        <protein_weight>57811.6</protein_weight>
+        <protein_length>643</protein_length>
+        <protein_note>ABC-type transport system, periplasmic component [Amino acid transport and metabolism]; COG0747</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABN75084.1 Heme-binding protein A [Actinobacillus pleuropneumoniae serovar 5b str. L20]
+MKLANLTKVSAAVLAVLALAACDDKNADGKTTAKPAAEKTFVNCVSRSPQYFSPALAMDGISYNASSQQV
+YNRLVEFKRGSTEIEPALAESWDISEDGLTYTFHLRKGVKFHSNKEFTPSRDFNADDVVFSFNRQLDPNH
+PYHTVSKATYPYFKAMKFPTLLKSVEKVDDHTVKFTLTKRDATFVSSLGMDFTSIYSAEYADAMLKAGKP
+ETIDTTPIGTGPFAFTGYVLDQASRYVAYKDYWKGKADFDRLIFEIVPDATARYAKLQAGQCDLIDFPNA
+TDIEKMKTDPKVQLLSQPGLNIAYVAFNTEKAPFDNVKVRQALNLAVDKKAIIDVVYQGAGIAAKNPLPP
+TIWGYNDSLAESEFNIEKAKQLLAEAGYPNGFETELWVQPVVRASNPNPRRMSEIIQADWAKIGVKAKLV
+TYEWGDYIKRTKAGELTAGTYGWSGDNGDPDNFLSPLFGSANVGNSNYARFNSPELDALLDKALGLSDKA
+ERTKLYEQAQALLREQAPWINVAHSINFAPTSKRVQDYKQSPFGYTYLYGTKLAD
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Three of these proteins (APJL_0126, HbpA and OmpW) were further tested in the natural host (swine) by homologous and heterologous challenges. The results showed that these proteins could induce high titers of antibodies[Ref4928:Chen et al., 2012]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1107">
+        <gene_name>Ighg1</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16017</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC160982</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1106">
+        <gene_name>Ighv1-9</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>668478</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC073561</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>114583568</gene_start>
+        <gene_end>114583861</gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>immunoglobulin heavy variable V1-9</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as Igg2a; Gm16697</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099098:114583568-114583861 Mus musculus strain C57BL/6J chromosome 12, GRCm38 C57BL/6J
+GTCTTGCACAGTAATAGATGGCAGAGTCCTCAGTTGTCAGGCTGCTGAGTTGCATGTAGGCTGTGTTGGA
+GGATGTATCTGCAGTGAATGTGGCCTTGCCCTTGAACTTCTCATTGTAGTTAGTACTACCACTTCCAGGT
+AAAATCTCTCCAATCCACTCAAGGCCATGTCCAGGCCTCTGCTTTACCCACTCTATCCAGTAGCCAGTGA
+ATGTGTAGCCAGTAGCCTTGCAGGAAAGCTTCACTGAGGCCCCAGGCTTCATCAGCTCAGCTCCAGACTG
+CTGCAGCTGAACCT</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene4089">
+        <gene_name>ompA</gene_name>
+        <strain>Actinobacillus pleuropneumoniae</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>ABV82725</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>ATCC:27088
+CDD:332966
+CDD:143586</xrefs>
+        <taxonomy_id>715</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>OmpA</protein_name>
+        <protein_pi>5.45</protein_pi>
+        <protein_weight>26230.02</protein_weight>
+        <protein_length>286</protein_length>
+        <protein_note>Peptidoglycan binding domains similar to the C-terminal domain of outer-membrane protein OmpA; cl28145</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABV82725.1 OmpA [Actinobacillus pleuropneumoniae]
+MQIDFSKLKLQQQESEDSQWLPVSDLMSGLMILFLFIAVSFILNAKRVADNYQDNQEKIYQALQTEFSPK
+LKDWKAKIDKDTLTFIFTDPEVLFETGRSDLNAPFKKILDDFFPRYMKVVDNYKTSISEIRIEGHTSTEW
+DHKSSDDMAYFLNMQLSQDRTRSVLIYLYQLENIAQYRDWIKSNLSAVGLSSSKTIKNTQGIEDKEASKR
+VTFRIITNAEEQLRKLSEIK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>[Ref4696:Hur et al., 2016]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene403">
+        <gene_name>ureC</gene_name>
+        <strain>Actinobacillus pleuropneumoniae serovar 2</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>303253439</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:183894
+CDD:30031</xrefs>
+        <taxonomy_id>754254</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>urease subunit alpha</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>572</protein_length>
+        <protein_note>urease subunit alpha; Reviewed; PRK13207</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|303253439|ref|ZP_07339581.1| urease subunit alpha [Actinobacillus pleuropneumoniae serovar 2 str. 4226]
+MALIIPRSQYVATYGPTVGDKVRLGDTDLWATIEQDFLTKGDECKFGGGKSVRDGMAQSSTATRDNPNVL
+DFALTNVMIIDAKLGIIKADIGIRDGRIVGIGQAGNPDTMDNVTPNMIIGASTEVHNGAHLIATAGGIDT
+HIHWICPQQAQHAIENGITTMIGGGSGPADGTHATTCTPGKFNIERMFQACEALPVNIGFFGKGNCSMLE
+PLKEQVVAGALGLKIHEDWGATPAVIDAALKVADEMDVQVAIHTDTLNESGFLEDTMKAINGRVIHTFHT
+EGAGGGHAPDIIKAAMYPNVLPASTNPTRPFTVNTIDEHLDMLMVCHHLDKRVPEDVAFADSRIRPETIA
+AEDILHDMGVFSIMSSDSQAMGRVGEVVTRTWQTADKMKAQRGALGDEGNDNFRIKRYIAKYTINPAIAH
+GICQYVGSLEVGKLADIVLWKPQFFGVKPEFVMKKGFISFAKMGDPNASIPTPQPVFYRPMFGANAKANT
+ESAVYFVSQASVDANIKAQYGIQKETLAVKGCRDVGKKDLVHNNATPEITVDPERYEVRVDGEHITCEPA
+TKVPLAQRYFLF</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>Deletions were introduced into the ureC and apxIIA genes of an Actinobacillus pleuropneumoniae serotype 2 strain by homologous recombination and counterselection. The double-mutant contains no foreign DNA, is highly attenuated, protects pigs from homologous challenge upon a single aerosol application [Ref1042:Tonpitak et al., 2002].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1007">
+		<reference_name>Byrd et al., 1992</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Byrd W, Harmon BG, Kadis S</authors>
+		<title>Protective efficacy of conjugate vaccines against experimental challenge with porcine Actinobacillus pleuropneumoniae</title>
+		<year>1992</year>
+		<volume>34</volume>
+		<issue>3-4</issue>
+		<pages>307-324</pages>
+		<journal_book_name>Veterinary immunology and immunopathology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4928">
+		<reference_name>Chen et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen X, Xu Z, Li L, Chen H, Zhou R</authors>
+		<title>Identification of conserved surface proteins as novel antigenic vaccine candidates of Actinobacillus pleuropneumoniae</title>
+		<year>2012</year>
+		<volume>50</volume>
+		<issue>6</issue>
+		<pages>978-986</pages>
+		<journal_book_name>Journal of microbiology (Seoul, Korea)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1003">
+		<reference_name>Chiang et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chiang CH, Huang WF, Huang LP, Lin SF, Yang WJ</authors>
+		<title>Immunogenicity and protective efficacy of ApxIA and ApxIIA DNA vaccine against Actinobacillus pleuropneumoniae lethal challenge in murine model</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>34</issue>
+		<pages>4565-4570</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference841">
+		<reference_name>Chiers et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chiers K, van Overbeke I, De Laender P, Ducatelle R, Carel S, Haesebrouck F</authors>
+		<title>Effects of endobronchial challenge with Actinobacillus pleuropneumoniae serotype 9 of pigs vaccinated with inactivated vaccines containing the Apx toxins</title>
+		<year>1998</year>
+		<volume>20</volume>
+		<issue>2</issue>
+		<pages>65-69</pages>
+		<journal_book_name>The Veterinary quarterly</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4695">
+		<reference_name>Chung et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chung JW, K�ster-Sch�ck E, Gibbs BF, Jacques M, Coulton JW</authors>
+		<title>Immunoproteomic analyses of outer membrane antigens of Actinobacillus pleuropneumoniae grown under iron-restricted conditions</title>
+		<year>2012</year>
+		<volume>159</volume>
+		<issue>1-2</issue>
+		<pages>187-194</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1536">
+		<reference_name>Haesebrouck et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Haesebrouck F, Pasmans F, Chiers K, Maes D, Ducatelle R, Decostere A</authors>
+		<title>Efficacy of vaccines against bacterial diseases in swine: what can we expect?</title>
+		<year>2004</year>
+		<volume>100</volume>
+		<issue>3-4</issue>
+		<pages>255-268</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4757">
+		<reference_name>Hu et al., 2015</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hu X, Yan H, Liu K, Hu J, Qi C, Yang J, Liu Y, Zhao J, Liu J</authors>
+		<title>Identification and characterization of a novel stress-responsive outer membrane protein Lip40 from Actinobacillus pleuropneumoniae</title>
+		<year>2015</year>
+		<volume>15</volume>
+		<issue></issue>
+		<pages>106</pages>
+		<journal_book_name>BMC biotechnology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5381">
+		<reference_name>Hur and Lee, 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hur J, Lee JH</authors>
+		<title>Optimization of immune strategy for a construct of Salmonella-delivered ApxIA, ApxIIA, ApxIIIA and OmpA antigens of Actinobacillus pleuropneumoniae for prevention of porcine pleuropneumonia using a murine model</title>
+		<year>2014</year>
+		<volume>38</volume>
+		<issue>1</issue>
+		<pages>87-91</pages>
+		<journal_book_name>Veterinary research communications</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4696">
+		<reference_name>Hur et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hur J, Eo SK, Park SY, Choi Y, Lee JH</authors>
+		<title>Immunological study of an attenuated Salmonella Typhimurium expressing ApxIA, ApxIIA, ApxIIIA and OmpA of Actinobacillus pleuropneumoniae in a mouse model</title>
+		<year>2016</year>
+		<volume>77</volume>
+		<issue>12</issue>
+		<pages>1693-1696</pages>
+		<journal_book_name>The Journal of veterinary medical science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1801">
+		<reference_name>Ingham et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ingham A, Zhang Y, Prideaux C</authors>
+		<title>Attenuation of Actinobacillus pleuropneumoniae by inactivation of aroQ</title>
+		<year>2002</year>
+		<volume>84</volume>
+		<issue>3</issue>
+		<pages>263-273</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3308">
+		<reference_name>Kim et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kim JM, Jung DI, Eom YJ, Park SM, Yoo HS, Jang YS, Yang MS, Kim DH</authors>
+		<title>Surface-displayed expression of a neutralizing epitope of ApxIIA exotoxin in Saccharomyces cerevisiae and oral administration of it for protective immune responses against challenge by Actinobacillus pleuropneumoniae</title>
+		<year>2010</year>
+		<volume>74</volume>
+		<issue>7</issue>
+		<pages>1362-1367</pages>
+		<journal_book_name>Bioscience, biotechnology, and biochemistry</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1005">
+		<reference_name>Lee et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lee KY, Kim DH, Kang TJ, Kim J, Chung GH, Yoo HS, Arntzen CJ, Yang MS, Jang YS</authors>
+		<title>Induction of protective immune responses against the challenge of Actinobacillus pleuropneumoniae by the oral administration of transgenic tobacco plant expressing ApxIIA toxin from the bacteria</title>
+		<year>2006</year>
+		<volume>48</volume>
+		<issue>3</issue>
+		<pages>381-389</pages>
+		<journal_book_name>FEMS immunology and medical microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1004">
+		<reference_name>Li et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Li L, Zhou R, Li T, Kang M, Wan Y, Xu Z, Chen H</authors>
+		<title>Enhanced biofilm formation and reduced virulence of Actinobacillus pleuropneumoniae luxS mutant</title>
+		<year>2008</year>
+		<volume>45</volume>
+		<issue>3</issue>
+		<pages>192-200</pages>
+		<journal_book_name>Microbial pathogenesis</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1043">
+		<reference_name>Liu et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liu J, Chen X, Lin L, Tan C, Chen Y, Guo Y, Jin M, Guo A, Bei W, Chen H</authors>
+		<title>Potential use an Actinobacillus pleuropneumoniae double mutant strain DeltaapxIICDeltaapxIVA as live vaccine that allows serological differentiation between vaccinated and infected animals</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>44</issue>
+		<pages>7696-7705</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4699">
+		<reference_name>Liu et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liu J, Chen Y, Yuan F, Hu L, Bei W, Chen H</authors>
+		<title>Cloning, expression, and characterization of TonB2 from Actinobacillus pleuropneumoniae and potential use as an antigenic vaccine candidate and diagnostic marker</title>
+		<year>2011</year>
+		<volume>75</volume>
+		<issue>3</issue>
+		<pages>183-190</pages>
+		<journal_book_name>Canadian journal of veterinary research = Revue canadienne de recherche veterinaire</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1907">
+		<reference_name>Park et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Park C, Ha Y, Kim S, Chae C, Ryu DY</authors>
+		<title>Construction and characterization of an Actinobacillus pleuropneumoniae serotype 2 mutant lacking the Apx toxin secretion protein genes apxIIIB and apxIIID</title>
+		<year>2009</year>
+		<volume>71</volume>
+		<issue>10</issue>
+		<pages>1317-1323</pages>
+		<journal_book_name>The Journal of veterinary medical science / the Japanese Society of Veterinary Science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2889">
+		<reference_name>Prideaux et al., 1998</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Prideaux CT, Pierce L, Krywult J, Hodgson AL</authors>
+		<title>Protection of mice against challenge with homologous and heterologous serovars of Actinobacillus pleuropneumoniae after live vaccination</title>
+		<year>1998</year>
+		<volume>37</volume>
+		<issue>5</issue>
+		<pages>324-332</pages>
+		<journal_book_name>Current microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1040">
+		<reference_name>Prideaux et al., 1999</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Prideaux CT, Lenghaus C, Krywult J, Hodgson AL</authors>
+		<title>Vaccination and protection of pigs against pleuropneumonia with a vaccine strain of Actinobacillus pleuropneumoniae produced by site-specific mutagenesis of the ApxII operon</title>
+		<year>1999</year>
+		<volume>67</volume>
+		<issue>4</issue>
+		<pages>1962-1966</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4916">
+		<reference_name>Shakarji et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shakarji L, Mikael LG, Srikumar R, Kobisch M, Coulton JW, Jacques M</authors>
+		<title>Fhua and HgbA, outer membrane proteins of Actinobacillus pleuropneumoniae: their role as virulence determinants</title>
+		<year>2006</year>
+		<volume>52</volume>
+		<issue>4</issue>
+		<pages>391-396</pages>
+		<journal_book_name>Canadian journal of microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1006">
+		<reference_name>Shin et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shin SJ, Shin SW, Kang ML, Lee DY, Yang MS, Jang YS, Yoo HS</authors>
+		<title>Enhancement of protective immune responses by oral vaccination with Saccharomyces cerevisiae expressing recombinant Actinobacillus pleuropneumoniae ApxIA or ApxIIA in mice</title>
+		<year>2007</year>
+		<volume>8</volume>
+		<issue>4</issue>
+		<pages>383-392</pages>
+		<journal_book_name>Journal of veterinary science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3307">
+		<reference_name>Shin et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shin MK, Kang ML, Jung MH, Cha SB, Lee WJ, Kim JM, Kim DH, Yoo HS</authors>
+		<title>Induction of protective immune responses against challenge of Actinobacillus pleuropneumoniae by oral administration with Saccharomyces cerevisiae expressing Apx toxins in pigs</title>
+		<year>2013</year>
+		<volume>151</volume>
+		<issue>1-2</issue>
+		<pages>132-139</pages>
+		<journal_book_name>Veterinary immunology and immunopathology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1419">
+		<reference_name>ThePigSite Pig Health</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Actinobacillus Pleuropneumonia (App)</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.thepigsite.com/pighealth/article/309/actinobacillus-pleuropneumonia-app</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1042">
+		<reference_name>Tonpitak et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tonpitak W, Baltes N, Hennig-Pauka I, Gerlach GF</authors>
+		<title>Construction of an Actinobacillus pleuropneumoniae serotype 2 prototype live negative-marker vaccine</title>
+		<year>2002</year>
+		<volume>70</volume>
+		<issue>12</issue>
+		<pages>7120-7125</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4762">
+		<reference_name>van and Frey, 2003</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>van den Bosch H, Frey J</authors>
+		<title>Interference of outer membrane protein PalA with protective immunity against Actinobacillus pleuropneumoniae infections in vaccinated pigs</title>
+		<year>2003</year>
+		<volume>21</volume>
+		<issue>25-26</issue>
+		<pages>3601-3607</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference840">
+		<reference_name>Van et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Van Overbeke I, Chiers K, Ducatelle R, Haesebrouck F</authors>
+		<title>Effect of endobronchial challenge with Actinobacillus pleuropneumoniae serotype 9 of pigs vaccinated with a vaccine containing Apx toxins and transferrin-binding proteins</title>
+		<year>2001</year>
+		<volume>48</volume>
+		<issue>1</issue>
+		<pages>15-20</pages>
+		<journal_book_name>Journal of veterinary medicine. B, Infectious diseases and veterinary public health</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1800">
+		<reference_name>Xu et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xu F, Chen X, Shi A, Yang B, Wang J, Li Y, Guo X, Blackall PJ, Yang H</authors>
+		<title>Characterization and immunogenicity of an apxIA mutant of Actinobacillus pleuropneumoniae</title>
+		<year>2006</year>
+		<volume>118</volume>
+		<issue>3-4</issue>
+		<pages>230-239</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1041">
+		<reference_name>Xu et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xu FZ, Shi AH, Chen XL, Yang B, Wang JL</authors>
+		<title>[Construction and immunogenicity of an attenuated mutant of Actinobacillus pleuropneumoniae by insertional inactivation of apxIC]</title>
+		<year>2007</year>
+		<volume>47</volume>
+		<issue>5</issue>
+		<pages>923-927</pages>
+		<journal_book_name>Wei sheng wu xue bao = Acta microbiologica Sinica</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4824">
+		<reference_name>Zhang et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhang F, Cao S, Zhu Z, Yang Y, Wen X, Chang YF, Huang X, Wu R, Wen Y, Yan Q, Huang Y, Ma X, Zhao Q</authors>
+		<title>Immunoprotective Efficacy of Six &lt;i&gt;In vivo&lt;/i&gt;-Induced Antigens against &lt;i&gt;Actinobacillus pleuropneumoniae&lt;/i&gt; as Potential Vaccine Candidates in Murine Model</title>
+		<year>2016</year>
+		<volume>7</volume>
+		<issue></issue>
+		<pages>1623</pages>
+		<journal_book_name>Frontiers in microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4865">
+		<reference_name>Zhou et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhou Y, Li L, Chen Z, Yuan H, Chen H, Zhou R</authors>
+		<title>Adhesion protein ApfA of Actinobacillus pleuropneumoniae is required for pathogenesis and is a potential target for vaccine development</title>
+		<year>2013</year>
+		<volume>20</volume>
+		<issue>2</issue>
+		<pages>287-294</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

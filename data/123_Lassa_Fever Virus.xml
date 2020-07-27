@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen17">
+		<pathogen_name>Lassa Fever Virus</pathogen_name>
+		<taxon_id>11620</taxon_id>
+		<pathogenesis refs="reference132">Disease is associated with destruction of antigen specific cytotoxic T lymphocytes (CTLs), causing leukopenia, decreased hemoglobin concentration, elevation of liver aminotransferases, and liver lipidosis. Pathogenesis involves initial replication at the site of infection. Lymph node, lung, and other parenchymal organs are important sites of viral growth. Interstitial infiltrates and edema occur during infection, and the macrophage is early and prominently involved. Many epithelial structures contain antigen and nucleic acids, with widespread marginal zone infection and splenic lymphoid follicle necrosis are common findings (Botten et al., 2006).</pathogenesis>
+		<disease_name>Lassa fever</disease_name>
+		<protective_immunity refs="reference132">Detectable neutralizing antibodies are absent during acute Lassa virus infection. Low-titer neutralizing antibodies may appear several weeks to months after the resolution of infection. Treatment of LF patients with immune plasma does not protect against disease. These observations strongly suggest that antibody response is not important, instead, cell-mediated immunity is critical for protection against LASV infection in humans. LASV-specific CD4+ T cells have been found in convalescent patients, and CD8+ T-cell response is the main determinant responsible for providing protection against LASV infection  (Botten et al., 2006).</protective_immunity>
+		<host_range refs="reference116">The natural host is a small African rat, Mastomys natalensis (Fisher-Hoch et al., 2001).  </host_range>
+		<introduction refs="reference116">Lassa fever is a viral haemorrhagic fever caused by an arenavirus. Arenaviruses produce mostly silent, persistent infection in rodents, and their origin is thought to date back to the evolution of different rodent species, perhaps as much as 9 million years ago. Accidental human exposure to the virus is frequent. Lassa fever begins insidiously, after an incubation period of 7–18 days, with fever, weakness, malaise, severe headache, and a very painful sore throat. Up to a third of hospitalized Lassa fever patients progress to a prostrating illness 6–8 days after onset of fever, usually with persistent vomiting and diarrhea. Bleeding is seen in only 15–20% of patients, limited primarily to the mucosal surfaces or occasionally conjunctival haemorrhages or gastrointestinal or vaginal bleeding. Severe pulmonary edema and acute respiratory distress syndrome is common in fatal cases with gross head and neck edema and hypovolemic shock. Lassa fever has considerable long-term sequelae, in that nearly 30% of patients with Lassa fever infection suffer an acute loss of hearing in one or both ears. About half of these patients show a near or complete recovery by 3–4 months after onset, but the other half continue with significant sensorineural deafness, which after about a year will be permanent (Fisher-Hoch et al., 2001).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3565">
+		<vaccine_name>Lassa fever virus recombinant vector vaccine V-LSG encoding the glycoprotein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004378</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>NYBH strains of vaccinia virus  [Ref128:Fisher-Hoch et al., 2000]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1106" gene_id="gene20">
+			<type>Recombinant vector construction</type>
+			<description refs="reference128">Vector NYBH strains of vaccinia virus expressed the uncleaved, full-length glycoprotein (Fisher-Hoch et al., 2000).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1404" host_id="host5">
+			<immune_response refs="reference128">The protection of our animals by Lassa virus glycoprotein expressed in vaccinia virus in the face of a low antibody response supports that antibody alone does not provide protection. Proper folding of LCMV glycoprotein is critical for induction of the humoral response and vaccinia virus-expressed glycoproteins are not posttranslationally processed or transported correctly to the membrane. Thus, the minimal measurable antibody response to glycoprotein after vaccination may be related to improperly folded glycoprotein (Fisher-Hoch et al., 2000).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference128">8 of 9 V-LSG-vaccinated animals survived Lassa virus challenge (Fisher-Hoch et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3567">
+		<vaccine_name>Lassa fever virus recombinant vector vaccine V-LSG/N encoding the glycoprotein and the nucleoprotein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004379</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>NYBH strains of vaccinia virus [Ref128:Fisher-Hoch et al., 2000]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1108" gene_id="gene560">
+			<type>Recombinant vector construction</type>
+			<description refs="reference128">Vector NYBH strains of vaccinia virus  expressed the nucleoprotein (Fisher-Hoch et al., 2000).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1109" gene_id="gene20">
+			<type>Recombinant vector construction</type>
+			<description refs="reference128">Vector NYBH strains of vaccinia virus  expressed the glycoprotein (Fisher-Hoch et al., 2000).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1405" host_id="host5">
+			<immune_response refs="reference128">The protection of our animals by Lassa virus glycoprotein expressed in vaccinia virus in the face of a low antibody response supports that antibody alone does not provide protection. Proper folding of LCMV glycoprotein is critical for induction of the humoral response and vaccinia virus-expressed glycoproteins are not posttranslationally processed or transported correctly to the membrane. Thus, the minimal measurable antibody response to glycoprotein after vaccination may be related to improperly folded glycoprotein (Fisher-Hoch et al., 2000).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference128">9 of 10 monkeys that received the V-LSG/N vaccine survived challenge with Lassa virus (Fisher-Hoch et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3570">
+		<vaccine_name>Lassa fever virus recombinant vector vaccine YFV17D/LASV-GPC encoding the glycoprotein precursor</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004380</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Yellow Fever Vaccine 17D (YFV17D) [Ref137:Bredenbeek et al., 2006]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1110" gene_id="gene1295">
+			<type>Recombinant vector construction</type>
+			<description refs="reference137">Vector Yellow Fever Vaccine 17D (YFV17D) expressed the Lassa virus glycoprotein precursor (LASV-GPC) (Bredenbeek et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1409" host_id="host7">
+			<immune_response refs="reference137">The YFV17D/LAS-GPC vaccination elicited humoral immune responses against YFV17D and LASV antigens. Neutralizing antibodies play the major role in protection against yellow fever (Bredenbeek et al., 2006).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference137">A single subcutaneous injection of the recombinant vaccine protected 13 guinea pigs against fatal Lassa Fever (Bredenbeek et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1035">
+		<vaccine_name>Lassa Virus Nucleoprotein Subunit Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011441</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Vaccinia virus [Ref1163:Morrison et al., 1989].</vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering522" gene_id="gene560">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response790" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference1163">Control animals received either no vaccine or 10^8 PFU of NYBH vaccinia; vaccinated animals received10^8 PFU of V-LSGPC or V-LSN, or a simultaneous injection with both recombinant vaccinia viruses at separate sites, by intradermal injection of 0.1 ml on the back (Morrison et al., 1989).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1163">Ninety-four percent of the animals vaccinated with V-LSN survived a Lassa virus challenge in which only 14% of unvaccinated animals and 39% of animals vaccinated with the New York Board of Health (NYBH) strain of vaccinia virus survived (Morrison et al., 1989).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1163">Animals were challenged with 10^4 PFU of guinea-pig-passaged Lassa virus by intraperitoneal inoculation 3 to 4 weeks postvaccination (Morrison et al., 1989).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine89">
+		<vaccine_name>ML29</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004085</vo_id>
+		<type>Attenuated</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference130">ML29 is a clone that has been isolated from a Mopeia virus (MOPV) and Lassa virus (LASV) reassortant. It contains the L RNA from MOPV and the S RNA segment from LASV (Lukashevich et al., 2005).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference130">Clone ML29 is selected and triple plaque purified. The viruses are grown on Vero E6 cells cultured in Dulbecco's modified minimum Eagle's medium with 2% fetal calf serum, 1% penicillin-streptomycin, and l-glutamine (2 mM) at 37°C in 5% CO2. Cells and virus stocks were free of mycoplasma contamination (Lukashevich et al., 2005).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response102" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">13</host_strain>
+			<vaccination_protocol refs="reference130">Ten animals were inoculated subcutaneously (s.c.) with the ML29 clone, and 10 guinea pigs received the same dose of MOPV. Eight animals were used as negative controls. At day 30 after vaccination, the animals were s.c. challenged with 10^3 PFU of LASV (Josiah) and followed for 70 days. Liver enzymes were measured in plasma. Vaccinated animals were euthanized on day 70 after challenge, and tissues were removed (Lukashevich et al., 2005).                  </vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference130">All strain 13 guinea pigs vaccinated with clone ML29 survived at least 70 days after LASV challenge without either disease signs or histological lesions (Lukashevich et al., 2005).</protection_efficacy>
+			<side_effects refs="reference130">In vaccinated animals, LASV infection did not induce alterations in target tissues. The lungs and livers of vaccinated animals looked essentially like normal tissues. There were also no lesions in other major organs (Lukashevich et al., 2005).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference130">Infection of strain 13 guinea pigs with MOPV or with the ML29 reassortant was not lethal for the animals and did not induce clinical or biochemical signs of the disease. All animals survived after challenge and had no clinical manifestations. All measured parameters were in normal ranges in ML29-vaccinated guinea pigs. In MOPV-vaccinated animals, a transient elevation of AST and AlkPh in plasma was observed at week 3 after challenge (Lukashevich et al., 2005).</description>
+		</host_response>
+		<host_response host_response_id="host_response103" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus macaques</host_strain>
+			<vaccination_protocol refs="reference130">Two adult rhesus macaques were s.c. injected with 10^3 PFU of ML29. Blood samples were taken weekly and submitted to the clinical laboratory for complete blood counts and standard 20-assay chemistry panels. At days 14 and 28, the monkeys were euthanized and total blood and tissues were collected. A portion of each tissue was submerged in MEM with 10% FCS (for plaque titration) and in RNAlater (for RNA isolation). The remaining tissue portions were fixed in 10% neutral formalin for the preparation of standard histological sections and stained with hematoxylin-eosin (Lukashevich et al., 2005).                  </vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference130">This data indicates that ML29 vaccination of rhesus macaques results in a short, inapparent, self-limited infection (Lukashevich et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference130">The ML29-vaccinated animals were afebrile throughout the experiment and had no clinical manifestations. Hematological and chemical parameters were in the normal ranges, as was gross appearance at necropsy. Detailed histological examination of rhesus macaques infected with the ML29 reassortant revealed no tissue lesions. The ML29 virus replicated poorly in monkeys and was not detectable in the plasma and tissues by conventional infectious plaque assay. The only organ from which the virus was recovered was the spleen. RT/PCR with LASV GPC-derived primers was transiently positive with RNA plasma and tissue samples (Lukashevich et al., 2005). </description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine84">
+		<vaccine_name>V-LSG</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004080</vo_id>
+		<type>Vaccina virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference128">V-LSG is a vaccinia viruses expressing the S-segment Lassa glycoprotein (Fisher-Hoch et al., 2000). </description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                                                  </virulence>
+		<preparation refs="reference128">The sequence is derived from the Josiah strain of Lassa virus, isolated from a patient in Sierra Leone (Fisher-Hoch et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response95" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus and Cynomolgus</host_strain>
+			<vaccination_protocol refs="reference128">All animals received a single vaccination consisting of 0.2 ml of vaccine given intradermally and simultaneously at four separate sites (each forearm and the lateral aspect of each thigh) at a dilution which delivered to each animal a total dose of 10^9 PFU. All animals were challenged subcutaneously with 10^3 to 10^4 PFU of the Josiah strain of Lassa virus in 0.5 ml of phosphate-buffered saline within 36 to 700 days (Fisher-Hoch et al., 2000).                                    </vaccination_protocol>
+			<persistence refs="reference128">The latest day on which virus could be recovered from serum was day 14, and that from tissues was day 21. Evidence for persistence elsewhere in tissues or fluids in survivors could not be found by cocultivation of tissues taken up to 112 days following challenge. However, autopsy and biopsy material examined by RT-PCR revealed that viral RNA could be detected at least 112 days after challenge (Fisher-Hoch et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference128">The response to glycoprotein protects these animals from induction of fatal processes leading to disease and death (Fisher-Hoch et al., 2000).</protection_efficacy>
+			<side_effects refs="reference128">Animals showed little or no disturbance of liver function, even in the face of viremia (Fisher-Hoch et al., 2000).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference128">8 of 9 vaccinated animals survived.  This protection against death was significant when compared with the death rate of the controls.  These animals showed significantly diminished mean virus titers compared with those of unvaccinated animals. The one V-LSG-vaccinated animal that died reached maximum viremia on day 8, and the last day on which virus was detected in serum was day 11. The animal the died was the one with the longest vaccine-to-challenge interval.  Survival diminished as the vaccine-to-challenge interval increased.  A trend towards increasing duration of viremia was also observed with increased intervals between vaccination and challenge (Fisher-Hoch et al., 2000).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine86">
+		<vaccine_name>V-LSG + V-LSN</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004082</vo_id>
+		<type>Vaccina virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference128">V-LSG is a vaccinia viruses expressing the S-segment Lassa glycoprotein and V-LSN is a vaccinia viruses expressing the S-segment Lassa nucleoprotein.  V-LSG + V-LSN is a vaccine that includes injections of each V-LSG and V-LSN separately (Fisher-Hoch et al., 2000).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                      </virulence>
+		<preparation refs="reference128">Each sequence is derived from the Josiah strain of Lassa virus, isolated from a patient in Sierra Leone (Fisher-Hoch et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response98" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus and Cynomolgus</host_strain>
+			<vaccination_protocol refs="reference128">All animals received a single vaccination consisting of 0.2 ml of vaccine given intradermally and simultaneously at four separate sites (each forearm and the lateral aspect of each thigh) at a dilution which delivered to each animal a total dose of 10^9 PFU. All animals were challenged subcutaneously with 10^3 to 10^4 PFU of the Josiah strain of Lassa virus in 0.5 ml of phosphate-buffered saline within 36 to 700 days (Fisher-Hoch et al., 2000).                                    </vaccination_protocol>
+			<persistence refs="reference128">The latest day on which virus could be recovered from serum was day 14, and that from tissues was day 21. Evidence for persistence elsewhere in tissues or fluids in survivors could not be found by cocultivation of tissues taken up to 112 days following challenge. However, autopsy and biopsy material examined by RT-PCR revealed that viral RNA could be detected at least 112 days after challenge (Fisher-Hoch et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference128">When used together, V-LSG and V-LSN can provide sufficient means for protection against Lassa fever (Fisher-Hoch et al., 2000).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference128">5 out of 6 of the monkeys survived. This protection against death was significant when compared with the death rate of the controls. These animals showed significantly diminished mean virus titers compared with those of unvaccinated animals. The animal the died was the one with the longest vaccine-to-challenge interval. Survival diminished as the vaccine-to-challenge interval increased. A trend towards increasing duration of viremia was also observed with increased intervals between vaccination and challenge (Fisher-Hoch et al., 2000).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine87">
+		<vaccine_name>V-LSG/N</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004083</vo_id>
+		<type>Vaccina virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference128">V-LSG/N is a vaccinia viruses expressing the full length glycoprotein and nucleoprotein in the same construct (Fisher-Hoch et al., 2000).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                      </virulence>
+		<preparation refs="reference128">V-LSG is a vaccinia viruses expressing the S-segment Lassa glycoprotein (Fisher-Hoch et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response101" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus</host_strain>
+			<vaccination_protocol refs="">Two animals were vaccinated. Each animal received a single vaccination consisting of 0.2 ml of vaccine given intradermally and simultaneously at four separate sites (each forearm and the lateral aspect of each thigh) at a dilution which delivered to each animal a total dose of 10^9 PFU. All animals were challenged subcutaneously with 10^3 to 10^4 PFU of the Josiah strain of Lassa virus in 0.5 ml of phosphate-buffered saline within 36 to 700 days</vaccination_protocol>
+			<persistence refs="reference128">The latest day on which virus could be recovered from serum was day 14, and that from tissues was day 21. Evidence for persistence elsewhere in tissues or fluids in survivors could not be found by cocultivation of tissues taken up to 112 days following challenge. However, autopsy and biopsy material examined by RT-PCR revealed that viral RNA could be detected at least 112 days after challenge (Fisher-Hoch et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference128">The results of this experiment show that V-LSG/N provides effective means of protecting monkeys against the Lassa virus (Fisher-Hoch et al., 2000).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference128">Both of the animals survived when challenged with the Lassa virus.  These animals showed no significant mean virus titers when compared with those of unvaccinated animals (Fisher-Hoch et al., 2000).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine85">
+		<vaccine_name>V-LSG1 + V- LSG2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004081</vo_id>
+		<type>Vaccina virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference128">V-LSG1 + V- LSG2 is a vaccinia viruses expressing the S-segment Lassa single glycoproteins V-LSG1 [containing residues 1 to 296] and V-LSG2 [with a deletion of residues 67 to 234] (Fisher-Hoch et al., 2000).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                      </virulence>
+		<preparation refs="reference128">The sequence is derived from the Josiah strain of Lassa virus, isolated from a patient in Sierra Leone (Fisher-Hoch et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response97" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus</host_strain>
+			<vaccination_protocol refs="reference128">All animals received a single vaccination consisting of 0.2 ml of vaccine given intradermally and simultaneously at four separate sites (each forearm and the lateral aspect of each thigh) at a dilution which delivered to each animal a total dose of 10^9 PFU. Each vaccine was administered in one arm and one leg on the ipsilateral side. All animals were challenged subcutaneously with 10^3 to 10^4 PFU of the Josiah strain of Lassa virus in 0.5 ml of phosphate-buffered saline within 36 to 700 days (Fisher-Hoch et al., 2000).                                    </vaccination_protocol>
+			<persistence refs="reference128">The latest day on which virus could be recovered from serum was day 14, and that from tissues was day 21. Evidence for persistence elsewhere in tissues or fluids in survivors could not be found by cocultivation of tissues taken up to 112 days following challenge. However, autopsy and biopsy material examined by RT-PCR revealed that viral RNA could be detected at least 112 days after challenge (Fisher-Hoch et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference128">Although V-LSG1 and V-LSG2 do not provide sufficient protection by themselves, when used together the can provide protective immunity to primates. This means that both glycoproteins are independently important in Lassa virus protection (Fisher-Hoch et al., 2000).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference128">Both of the monkeys vaccinated with V-LSG1 + V-LSG2 were protected when challenged Lassa virus (Fisher-Hoch et al., 2000).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine90">
+		<vaccine_name>V-LSGPC</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004086</vo_id>
+		<type>Vaccina virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference131">V-LSGPC is a cloned cDNA containing the complete glycoprotein gene of the Josiah strain of Lassa virus was inserted into the thymidine kinase (TK) gene of the New York Board of Health (WYETH) strain of vaccinia virus (Auperin et al., 1988).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference131">The Lassa virus GPC gene was assembled and ligated into the unique SmaI site of the vaccinia virus expression vector pSCl1. The products of this reaction were transfected into competent Escherichia coli MC1061 cells, and a transformant containing the proper orientation of the Lassa GPC gene was identified by restriction enzyme digestion of plasmid DNA and confirmed by nucleotide sequence analysis (Auperin et al., 1988).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering19" gene_id="gene20">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response104" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Hartley</host_strain>
+			<vaccination_protocol refs="">Animals were vaccinated with l0^8 plaque-forming units (PFUs) of V-LSGPC recombinant virus using a single intradermal injection of 0.1 ml on the back. l04 PFUs of guinea of pig-cultured Lassa virus were given by intraperitoneal innoculation 21 days post-vaccination.</vaccination_protocol>
+			<persistence refs="reference131">All surviving animals were completely free of virus in their blood and tissues by 61 days postchallenge, when the experiment was terminated (Auperin et al., 1988).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference131">Vaccination with V-LSGPC effectively limited the replication of Lassa virus in comparison to the unvaccinated animals. The ability to construct recombinant vaccinia viruses that express heterologous genes offers great potential for vaccine development (Auperin et al., 1988).</protection_efficacy>
+			<side_effects refs="reference131">Two to three days after vaccination, vesicles developed at the site of inoculation on each animal. The vesicles arising from V-LSGPC were approximately 2-3 mm. All vesicles scabbed and completely healed by 19 days postvaccination. vaccinated animals developed mild symptoms of Lassa fever following challenge. The animals vaccinated with V-LSGPC virus developed low-grade fevers, which began about 8 days post-challenge and lasted approximately 4 days. The unprotected animals, however, developed significantly higher fevers, which persisted until
+they died (Auperin et al., 1988).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference131">21 days post vaccination the animals were challenged with Lassa virus. All animals that received V-LSGPC recombinant virus survived the lethal Lassa virus challenge (Auperin et al., 1988).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine83">
+		<vaccine_name>V-LSN</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004079</vo_id>
+		<type>Vaccina virus</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference128">V-LSN is a vaccinia viruses expressing the S-segment Lassa nucleoprotein (Fisher-Hoch et al., 2000).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                                                                                                              </virulence>
+		<preparation refs="reference128">The sequence is derived from the Josiah strain of Lassa virus, isolated from a patient in Sierra Leone (Fisher-Hoch et al., 2000).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response94" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Rhesus and Cynomolgus</host_strain>
+			<vaccination_protocol refs="reference128">All animals received a single vaccination consisting of 0.2 ml of vaccine given intradermally and simultaneously at four separate sites (each forearm and the lateral aspect of each thigh) at a dilution which delivered to each animal a total dose of 10^9 PFU. All animals were challenged subcutaneously with 10^3 to 10^4 PFU of the Josiah strain of Lassa virus in 0.5 ml of phosphate-buffered saline within 36 to 700 days (Fisher-Hoch et al., 2000).                                                                                          </vaccination_protocol>
+			<persistence refs="reference128">The latest day on which virus could be recovered from serum was day 14, and that from tissues was day 21. Evidence for persistence elsewhere in tissues or fluids in survivors could not be found by cocultivation of tissues taken up to 112 days following challenge. However, autopsy and biopsy material examined by RT-PCR revealed that viral RNA could be detected at least 112 days after challenge (Fisher-Hoch et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference128">Vaccination using the nucleoprotein may protect primates against a lower challenge dose of Lassa virus, however, the V-LSN vaccine was not significantly protective (Fisher-Hoch et al., 2000).</protection_efficacy>
+			<side_effects refs="reference128">Monkeys had marked lymphopenia and higher mean aspartate aminotransferase values than unvaccinated animals. The V-LSN-vaccinated animals were observed to be sicker and died earlier than unvaccinated animals (Fisher-Hoch et al., 2000).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference128">8 of the 11 vaccinated animals died, which shows that this vaccine was not significantly protective. The V-LSN animals appeared to have a shorter and more acute process than unprotected animals. The median day of death for V-LSN animals was day 11.5, compared with day 13 for the control animals. This phenomenon was related to the challenge dose. Back titration of the challenge inoculum used in the final experiment showed that the titer had dropped from 10^4 to 10^3 PFU/ml. The three V-LSN-vaccinated animals in that experiment that received the lower challenge titer survived. These three animals were rhesus monkeys (Fisher-Hoch et al., 2000). </description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine92">
+		<vaccine_name>VSV[Delta]G/LVGPC</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004087</vo_id>
+		<type>Live Attenuated</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference136">VSV[Delta]G/LVGPC ia a live attenuated recombinant vesicular stomatitis virus expressing the GPC of Lassa virus, strain Josiah. Vaccines based on live attenuated rVSV have been highly effective in animal models and are particularly attractive because they can be administered by the mucosal route (Geisbert et al., 2005).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                      </virulence>
+		<preparation refs="reference136">The recombinant VSV expressing the glycoprotein of Lassa virus, strain Josiah, and Zaire ebolavirus (ZEBOV), strain Mayinga, were generated using the infectious clone for the VSV, Indiana serotype. Briefly, the appropriate open reading frames for the glycoproteins were generated by PCR, cloned into the VSV genomic vectors lacking the VSV glycoprotein gene, sequenced-confirmed, and rescued. The recombinant viruses expressing Lassa virus glycoprotein and ZEBOV glycoprotein were designated VSV[Delta]G/LVGPC (Figure 1A) and VSV[Delta]G/ZEBOVGP, respectively (Geisbert et al., 2005).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering20" gene_id="gene20">
+			<type>Protein</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response108" host_id="host5">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">Cynomolgus macaques</host_strain>
+			<vaccination_protocol refs="reference136">Four cynomolgus macaques, 4–6 y old and weighing between 3 kg and 8 kg, were vaccinated intramuscularly with approximately 2 × 10^7 PFU of VSV[Delta]G/LVGPC, and two with an equivalent dose of VSV[Delta]G/ZEBOGP (controls). The six cynomolgus macaques were challenged intramuscularly 28 d after the single-dose immunization with 1 × 10^4 plaque-forming units of Lassa virus, Josiah strain (Geisbert et al., 2005).</vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference136">The VSV-based vector expressing the Lassa virus GPC mediated complete protection of four of four cynomolgus monkeys from a high-dose lethal challenge of Lassa virus. Protection was associated with the generation of Lassa-specific CD8+ T cell and antibody responses. The primary concern regarding use of the rVSV vaccine platform in humans is related to the fact that this is a replication-competent vaccine, and thus demonstration of safety is of paramount importance (Geisbert et al., 2005).</protection_efficacy>
+			<side_effects refs="reference136">After vaccination, none of the nonhuman primates displayed any signs of clinical symptoms, indicating that the rVSVs were apathogenic for these animals (Geisbert et al., 2005).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference136">After the challenge, the two control animals started to show clinical signs of illness on day 3, when one of the animals had a fever. By day 10, both control animals developed macular rashes and anorexia, and one animal had severe facial edema, which is prognostic for a poor outcome in humans. These control animals succumbed to the Lassa virus challenge and were euthanized on day 11 and day 13. At necropsy, both controls showed lesions and pathological changes consistent with Lassa fever in nonhuman primates. In contrast, none of the vaccinated animals became sick, and all four animals were fully protected against the high Lassa challenge dose. By day 7 after challenge, all six monkeys were viremic. However by day 10, all four of the vaccinated animals had cleared the viremia, while both control animals had high viremias, which was maintained until euthanasia (Geisbert et al., 2005).</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine93">
+		<vaccine_name>YFV17D/LAS-GPC</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004088</vo_id>
+		<type>Live Attenuated</type>
+		<status></status>
+		<vector></vector>
+		<route></route>
+		<location_licensed></location_licensed>
+		<description refs="reference137">YFV17D/LAS-GPC is a Yellow Fever Vaccine 17D (YFV17D) that has been used as a vector for the Lassa virus glycoprotein precursor (LASV-GPC) resulting in construction of YFV17D/LASV-GPC recombinant virus. The virus is replication-competent and processes the LASV-GPC in cell cultures (Bredenbeek et al., 2006).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs="">                      </virulence>
+		<preparation refs="reference137">The YFV17D/LASV-GPC plasmid is constructed in the background of the full-length YFV17D cDNA clone by fusion PCR mutagenesis. The LASV-GPC gene of the AV strain is amplified by RT/PCR and cloned into pcDNA. The nucleotide sequences of PCR-derived DNA fragments and gene fusions are confirmed by sequencing. The recombinant YFV17D/LASV-GPC plasmid is linearized by XhoI and used for in vitro RNA transcription (Bredenbeek et al., 2006).</preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response109" host_id="host7">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">13</host_strain>
+			<vaccination_protocol refs="reference137">Sixteen outbred guinea pigs were subcutaneously inoculated with 1 × 10^5 PFU/0.5 ml of the recombinant YFV17D/LASV-GPC virus and two animals were sacrificed at days 0, 4, 7, 10 and 14 to track the virus distribution in blood and tissues. At day 14, six animals were boosted with the same dose of the recombinant virus and plasma samples were collected on days 8, 15 and 24 after to measure antibody responses against YFV17D and LASV-GPC in IgG ELISA. Antigens were prepared from serum-free virus stocks of YFV17D and MOP/LAS (Lukashevich et al., 2005) by ultracentrifugation on sucrose cushion. Concentrated viruses were suspended in carbonate–bicarbonate buffer, briefly sonicated and used to cover wells of microtitration plates overnight at 4 °C. After blocking, 1:100 dilutions of guinea pig sera were added and incubated for 2 h at room temperature. Challenge experiments were preformed (Bredenbeek et al., 2006).</vaccination_protocol>
+			<persistence refs="">None noted</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference137">80% of animals were protected against the fatal challenge. This study demonstrates the potential to develop an YFV17D-based bivalent vaccine against Lassa Virus (Bredenbeek et al., 2006).</protection_efficacy>
+			<side_effects refs="">None noted</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs="reference137">80% of animals were protected against the fatal challenge. Incomplete protection could be explained by differences in vaccine formulation (GPC + NP vs. GPC) and by GPC sequence differences between AV and Josiah strains of LASV. Blood and tissue samples were collected from vaccinated animals at different time points for hematology, blood chemistry, RNA extraction, plaque assay, virus isolation and ELISA. As expected, the inoculated animals had no clinical manifestations and all standard measurable blood and chemistry parameters were in normal ranges. In plasma, the recombinant virus was not detectable by plaque assay or by biological amplification. Recombinant viral RNA was not detectable by RT/PCR in 140 μl of plasma extracted on days 4, 10, and 21. However, when RNA samples were prepared from 0.5 ml of total blood, an RT/PCR assay gave a strong positive signal on day 4 after YFV17D/ LAS-GPC inoculation. Still, blood samples collected on day 10 and 21 were PCR negative. Viral RNA sequences were only transiently detectable on days 7–14 in spleen and liver. Nucleotide sequence analysis of PCR products confirmed their derivation from YFV17D/LAS-GPC. Taken together, these data confirm that recombinant YF17D/LAS-GPC replicated poorly in tissues of vaccinated guinea pigs. Interestingly, in clinical trials in individuals vaccinated with chimeric YFV17D-based vaccines, viremia levels were even lower than the levels of YFV17D determined to be safe. This suggests that insertion of a foreign gene can affect in vivo viral replication and make recombinant YFV17D-based vaccines even safer than the parental vaccine, YFV17D (Bredenbeek et al., 2006).</description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1295">
+        <gene_name>GPC</gene_name>
+        <strain>Lassa virus strain AV</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>354681511</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279177</xrefs>
+        <taxonomy_id>11620</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>GPC protein</protein_name>
+        <protein_pi>7.81</protein_pi>
+        <protein_weight>54591.5</protein_weight>
+        <protein_length>547</protein_length>
+        <protein_note>Arenavirus glycoprotein; pfam00798</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>CCA30314.1 GPC protein [Lassa mammarenavirus]
+MGQIVTFFQEVPHVIEEVMNIVLIALSILAVLKGLYNIATCGLIGLITFLLLCGRSCSSNLYKGVYELQS
+LDLNMETLNMTMPLSCTKNNSHHYIRVGNDTGLELTLTNTSILNHKFCNLSDAHKKDLYDHALMSIISTF
+HLSIPNFNQYEAMSCDFNGGKISVQYNLSHSYAIDAANHCGTVANGILQTFMRMAWGGSYIALDSGRGNW
+DCIMTSYQYLIIQNTTWENHCQFSRPSPIGYLGLLSQRTRDIYISRRLLGTFTWTLSDSEGNATPGGYCL
+TRWMLIEAELKCFGNTAVAKCNEKHDEEFCDMLRLFDFNKQAISRLKSEAQMSIQLINKAVNALINDQLI
+MKNHLRDIMGIPYCNYSKYWYLNHTITGKTSLPKCWLVSNGSYLNETHFSDDIEQQADNMITEMLQKEYM
+ERQGKTPLGLVDLFVFSTSFYLISIFLRLVKIPTHRHIVGKPCPKPHRLNHMGICSCGLYKQPGVPVRWK
+R
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene560">
+        <gene_name>LASVsSgp1 nucleoprotein</gene_name>
+        <strain>Lassa mammarenavirus</strain>
+        <vo_id>VO_0011151</vo_id>
+        <ncbi_gene_id>956584</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>23343510</ncbi_protein_id>
+        <gene_locus_tag>LASVsSgp1</gene_locus_tag>
+        <gene_refseq>AY628203</gene_refseq>
+        <protein_refseq>NP_694869</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11620</taxonomy_id>
+        <chromosome></chromosome>
+        <segment>segment S</segment>
+        <plasmid></plasmid>
+        <gene_start>100</gene_start>
+        <gene_end>1809</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>nucleoprotein</protein_name>
+        <protein_pi>8.58</protein_pi>
+        <protein_weight>59623.51</protein_weight>
+        <protein_length>569</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_004296.1:100-1809 Lassa virus segment S, complete sequence
+GATGAGTGCCTCAAAGGAAATAAAATCCTTTTTGTGGACACAATCTTTGAGGAGGGAATTATCTGGTTAC
+TGCTCCAACATCAAACTACAGGTGGTGAAAGATGCCCAGGCTCTTTTACATGGACTTGACTTCTCCGAAG
+TCAGTAATGTTCAACGGTTGATGCGCAAGGAGAGAAGGGATGACAATGATTTGAAACGGTTGAGGGACCT
+AAATCAAGCGGTCAACAATCTTGTTGAATTAAAATCAACTCAACAAAAGAGTATACTGAGAGTTGGGACT
+CTAACCTCAGATGACTTATTAATCTTAGCCGCTGATCTAGAGAAGTTAAAGTCAAAGGTGATCAGAACAG
+AAAGGCCATTAAGTGCAGGTGTCTATATGGGCAACCTAAGCTCACAGCAACTTGACCAAAGAAGAGCTCT
+CCTGAATATGATAGGAATGAGTGGTGGTAATCAAGGGGCTCGGGCTGGGAGAGATGGAGTGGTGAGAGTT
+TGGGATGTGAAAAATGCAGAGTTGCTCAATAATCAGTTCGGGACCATGCCAAGTCTGACACTGGCATGTC
+TGACAAAACAGGGGCAGGTTGACTTGAATGATGCAGTACAAGCATTGACAGATTTGGGTTTGATCTACAC
+AGCAAAGTATCCCAACACTTCAGACTTAGACAGGCTGACTCAAAGTCATCCCATCCTAAATATGATTGAC
+ACCAAGAAAAGCTCTTTGAATATCTCAGGTTATAATTTTAGCTTGGGTGCAGCTGTGAAGGCAGGAGCTT
+GCATGCTGGATGGTGGCAATATGTTGGAGACAATCAAGGTGTCACCTCAGACAATGGATGGTATCCTCAA
+ATCCATTTTAAAGGTCAAGAAGGCTCTTGGAATGTTCATTTCAGACACCCCTGGTGAAAGGAATCCTTAT
+GAAAACATACTCTACAAGATTTGTTTGTCAGGAGATGGATGGCCATATATTGCATCAAGAACCTCAATAA
+CAGGAAGGGCCTGGGAAAACACTGTCGTTGATCTGGAATCAGATGGGAAGCCACAGAAAGCTGACAGCAA
+CAATTCCAGTAAATCCCTGCAGTCGGCAGGGTTTACCGCTGGGCTTACCTATTCTCAGCTGATGACCCTC
+AAGGATGCAATGCTGCAACTTGACCCAAATGCTAAGACCTGGATGGACATTGAAGGAAGACCTGAAGATC
+CAGTGGAAATTGCCCTCTATCAACCAAGTTCAGGCTGCTACATACACTTCTTCCGTGAACCTACTGATTT
+AAAGCAGTTCAAGCAGGATGCTAAGTACTCACATGGGATTGATGTCACAGACCTCTTCGCTACACAACCG
+GGCTTGACCAGTGCTGTCATTGATGCACTCCCCCGGAATATGGTCATTACCTGTCAGGGGTCCGATGACA
+TAAGGAAACTCCTTGAATCACAAGGAAGAAAAGACATTAAACTAATTGATATTGCCCTCAGCAAAACTGA
+TTCCAGGAAGTATGAAAATGCAGTCTGGGACCAGTATAAAGACTTATGCCACATGCACACAGGTGTCGTT
+GTTGAAAAGAAGAAAAGAGGCGGTAAAGAGGAAATAACCCCTCACTGTGCACTAATGGACTGCATCATGT
+TTGATGCAGCAGTGTCAGGAGGACTGAACACATCGGTTTTGAGAGCAGTGCTGCCCAGAGATATGGTGTT
+CAGAACATCGACACCTAGAGTCGTTCTGTA
+
+</dna_sequence>
+        <protein_sequence>>NP_694869.1 nucleoprotein [Lassa mammarenavirus]
+MSASKEIKSFLWTQSLRRELSGYCSNIKLQVVKDAQALLHGLDFSEVSNVQRLMRKERRDDNDLKRLRDL
+NQAVNNLVELKSTQQKSILRVGTLTSDDLLILAADLEKLKSKVIRTERPLSAGVYMGNLSSQQLDQRRAL
+LNMIGMSGGNQGARAGRDGVVRVWDVKNAELLNNQFGTMPSLTLACLTKQGQVDLNDAVQALTDLGLIYT
+AKYPNTSDLDRLTQSHPILNMIDTKKSSLNISGYNFSLGAAVKAGACMLDGGNMLETIKVSPQTMDGILK
+SILKVKKALGMFISDTPGERNPYENILYKICLSGDGWPYIASRTSITGRAWENTVVDLESDGKPQKADSN
+NSSKSLQSAGFTAGLTYSQLMTLKDAMLQLDPNAKTWMDIEGRPEDPVEIALYQPSSGCYIHFFREPTDL
+KQFKQDAKYSHGIDVTDLFATQPGLTSAVIDALPRNMVITCQGSDDIRKLLESQGRKDIKLIDIALSKTD
+SRKYENAVWDQYKDLCHMHTGVVVEKKKRGGKEEITPHCALMDCIMFDAAVSGGLNTSVLRAVLPRDMVF
+RTSTPRVVL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Vaccine efficacy trials in guinea pigs indicated that the nucleoprotein is capable of eliciting a protective immune response against a lethal dose of Lassa virus. Ninety-four percent of the animals vaccinated with V-LSN survived a Lassa virus challenge in which only 14% of unvaccinated animals and 39% of animals vaccinated with the New York Board of Health (NYBH) strain of vaccinia virus survived [Ref1163:Morrison et al., 1989].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene20">
+        <gene_name>LASVsSgp2 glycoprotein</gene_name>
+        <strain>Lassa mammarenavirus</strain>
+        <vo_id>VO_0010869</vo_id>
+        <ncbi_gene_id>956585</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>23343511</ncbi_protein_id>
+        <gene_locus_tag>LASVsSgp2</gene_locus_tag>
+        <gene_refseq>AY628203</gene_refseq>
+        <protein_refseq>NP_694870</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>11620</taxonomy_id>
+        <chromosome></chromosome>
+        <segment>segment S</segment>
+        <plasmid></plasmid>
+        <gene_start>1871</gene_start>
+        <gene_end>3346</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>glycoprotein</protein_name>
+        <protein_pi>7.63</protein_pi>
+        <protein_weight>53529.32</protein_weight>
+        <protein_length>491</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_004296.1:1871-3346 Lassa virus segment S, complete sequence
+CTCATCTCTTCCATTTCACAGGCACACCAGGCTGTTTGTAGAGTCCACAGGAACAAATGCCCATATGATT
+CAATCTGTGAGGTTTGGGACACGACTTGCCTACAATATGCCTATGAGTTGGTATTTTGACTAGGTGAAGG
+AAGATGCTAATAAGATAGAAACTTGTACTGAACACAAAGAGGTCAACTAGACCCAATGGTGTCTTCCCCT
+GCCTCTCCATATACTCCTTCTGTAACATCTCAGTGATCATATTGTCAGCTTGTTGTTCAATATCATCAGA
+AAAGTGGGTCTCGTTCAAGTATGAACCATTTGATACAAGCCAACATTTGGGCAGTGATGTTCTCCCAGTA
+GTTGTGTGGTTGAGGTACCAATACTTGCTGTAATTACAGTATGGAATTCCCATGATGTCCCGTAGATGGT
+TCTTCATTATAAGTTGGTCATTTATCAAAGCATTTACTGCTTTGTTGATCAACTGAATGCTCATTTGTGC
+TTCAGCTTTCAACCTTTGAATGGCTTGTTTGTTGAAGTCAAACAGCCTCAGCATGTCACAAAATTCCTCA
+TCATGCTTCTCATTACATTTTGCCACAGCTGTGTTCCCGAAGCATTTTAGTTCAGCCTCAATTAGCATCC
+ACCTGGTCAGACAATATCCCCCTGGTGTGTCTTTACCTTCAGAATCTGACAGTGTCCATGTGAATGTGCC
+TAGCAATCTTCTACTAATATAAATATCTCTAGTCCTTTGTGAGAGGAGCCCGAGATAACCGATGGGAGAT
+GGTCTCGAGAATTGGCAGTGATCTTCCCAGGTTGTATTTTGGATTATCAGATATTGATAACTAGTCATAA
+TACAGTCCCAGTTGCCACGGCCTGAGTCAAGAGCAATGTAGCTCCCACCCCAAGCCATCCTCATAAAAGT
+CTGTAACACACCATTTGCAACAGTACCACAATGGTTGGCTGCATCCCCAGCATAGCTGTGACTCAGGTTG
+TACTGCACACTAATCTTTCCCCCATTAAAATCGCAGCTCATTGCCTCATACTGATTGAAGTTGGGGATGG
+ACAAGTGGAAAGTTGAGATTATGCTCATAAGAGCGTGGTCATAGAGGTTCTTTTTGTGGGCATCAGACAG
+ATTGCAAAATTTGTGATTAATAATGCTCGTGTTGGTCAAGGTCAGTTCTAGTCCTGTCTCATTGCCCACC
+ATTATATAATGATGACTGTTGTTCTTTGTGCAGGAGAGAGGCATGGTCATATTGAGTGTCTCCATGTTTA
+GTTCCAGAGTCTGAAGCTCATAAACCCCTTTATAAAGACTGGTTGTGCAAGACCTACCACACAACAGGAG
+GAAAGTGACCAAACCAACAAGGCCACACGTTGCAAAATTGTACAGACCTTTCAGCACTGCTAGTACAGAC
+AGTGCAATGAGAACAATGTTCATCACCTCTTCTATTACATGAGGCACTTCCTGGAAGAATGTCACTATTT
+GTCCCA
+
+</dna_sequence>
+        <protein_sequence>>NP_694870.1 glycoprotein [Lassa mammarenavirus]
+MGQIVTFFQEVPHVIEEVMNIVLIALSVLAVLKGLYNFATCGLVGLVTFLLLCGRSCTTSLYKGVYELQT
+LELNMETLNMTMPLSCTKNNSHHYIMVGNETGLELTLTNTSIINHKFCNLSDAHKKNLYDHALMSIISTF
+HLSIPNFNQYEAMSCDFNGGKISVQYNLSHSYAGDAANHCGTVANGVLQTFMRMAWGGSYIALDSGRGNW
+DCIMTSYQYLIIQNTTWEDHCQFSRPSPIGYLGLLSQRTRDIYISRRLLGTFTWTLSDSEGKDTPGGYCL
+TRWMLIEAELKCFGNTAVAKCNEKHDEEFCDMLRLFDFNKQAIQRLKAEAQMSIQLINKAVNALINDQLI
+MKNHLRDIMGIPYCNYSKYWYLNHTTTGRTSLPKCWLVSNGSYLNETHFSDDIEQQADNMITEMLQKEYM
+ERQGKTPLGLVDLFVFSTSFYLISIFLHLVKIPTHRHIVGKSCPKPHRLNHMGICSCGLYKQPGVPVKWK
+R
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>HLA-A*0201 mice immunized with either GPC(42-50) from LASVsSgp2 glycoprotein or GPC(60-68) were protected against challenge with a recombinant vaccinia virus that expressed LASV GPC [Ref132:Botten et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference131">
+		<reference_name>Auperin et al., 1988</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Auperin DD, Esposito JJ, Lange JV, Bauer SP, Knight J, Sasso DR, McCormick JB</authors>
+		<title>Construction of a recombinant vaccinia virus expressing the Lassa virus glycoprotein gene and protection of guinea pigs from a lethal Lassa virus infection</title>
+		<year>1988 Feb</year>
+		<volume>9</volume>
+		<issue>2-3</issue>
+		<pages>233-48</pages>
+		<journal_book_name>Virus research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference132">
+		<reference_name>Botten et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Botten J, Alexander J, Pasquetto V, Sidney J, Barrowman P, Ting J, Peters B, Southwood S, Stewart B, Rodriguez-Carreno MP, Mothe B, Whitton JL, Sette A, Buchmeier MJ</authors>
+		<title>Identification of protective Lassa virus epitopes that are restricted by HLA-A2</title>
+		<year>2006 Sep</year>
+		<volume>80</volume>
+		<issue>17</issue>
+		<pages>8351-61</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference137">
+		<reference_name>Bredenbeek et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bredenbeek PJ, Molenkamp R, Spaan WJ, Deubel V, Marianneau P, Salvato MS, Moshkoff D, Zapata J, Tikhonov I, Patterson J, Carrion R, Ticer A, Brasky K, Lukashevich IS</authors>
+		<title>A recombinant Yellow Fever 17D vaccine expressing Lassa virus glycoproteins</title>
+		<year>2006 Feb 20</year>
+		<volume>345</volume>
+		<issue>2</issue>
+		<pages>299-304</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference128">
+		<reference_name>Fisher-Hoch et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fisher-Hoch SP, Hutwagner L, Brown B, McCormick JB</authors>
+		<title>Effective vaccine for lassa fever</title>
+		<year>2000 Aug</year>
+		<volume>74</volume>
+		<issue>15</issue>
+		<pages>6777-83</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference116">
+		<reference_name>Fisher-Hoch et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fisher-Hoch SP, McCormick JB</authors>
+		<title>Towards a human Lassa fever vaccine</title>
+		<year>2001 Sep-Oct</year>
+		<volume>11</volume>
+		<issue>5</issue>
+		<pages>331-41</pages>
+		<journal_book_name>Reviews in medical virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference136">
+		<reference_name>Geisbert et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Geisbert TW, Jones S, Fritz EA, Shurtleff AC, Geisbert JB, Liebscher R, Grolla A, Stroher U, Fernando L, Daddario KM, Guttieri MC, Mothe BR, Larsen T, Hensley LE, Jahrling PB, Feldmann H</authors>
+		<title>Development of a new vaccine for the prevention of Lassa fever</title>
+		<year>2005 Jun</year>
+		<volume>2</volume>
+		<issue>6</issue>
+		<pages>e183</pages>
+		<journal_book_name>PLoS medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference130">
+		<reference_name>Lukashevich et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lukashevich IS, Patterson J, Carrion R, Moshkoff D, Ticer A, Zapata J, Brasky K, Geiger R, Hubbard GB, Bryant J, Salvato MS</authors>
+		<title>A live attenuated vaccine for Lassa fever made by reassortment of Lassa and Mopeia viruses</title>
+		<year>2005 Nov</year>
+		<volume>79</volume>
+		<issue>22</issue>
+		<pages>13934-42</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1163">
+		<reference_name>Morrison et al., 1989</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Morrison HG, Bauer SP, Lange JV, Esposito JJ, McCormick JB, Auperin DD</authors>
+		<title>Protection of guinea pigs from Lassa fever by vaccinia virus recombinants expressing the nucleoprotein or the envelope glycoproteins of Lassa virus</title>
+		<year>1989</year>
+		<volume>171</volume>
+		<issue>1</issue>
+		<pages>179-188</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

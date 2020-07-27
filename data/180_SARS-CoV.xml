@@ -1,0 +1,2304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen129">
+		<pathogen_name>SARS-CoV</pathogen_name>
+		<taxon_id>694009</taxon_id>
+		<pathogenesis refs="reference1407">Infection by different coronaviruses cause in the host alteration in the transcription and translation patterns, in the cell cycle, the cytoskeleton, apoptosis and coagulation pathways, inflammation and immune and stress responses. The balance between genes up- and down-regulated could explain the pathogenesis caused by these viruses (Wiki: SARS).</pathogenesis>
+		<disease_name>Severe Acute Respiratory Syndrome (SARS)</disease_name>
+		<protective_immunity refs="reference1407">Passive immunization has been successful in establishing protection from SARS-CoV suggesting an important role for neutralizing antibodies (Wiki: SARS).</protective_immunity>
+		<host_range refs="reference1541">SARS-CoV has been isolated from humans, civet cats, raccoon dogs, swine and bats, suggesting that several animal species may function as natural reservoirs for future outbreaks. The Chinese horseshoe bat, which is abundant across Southeast Asia, is probably the natural reservoir for SARS-CoV. Ciliated airway epithelium models derived from tracheobronchial airway epithelium of Balb-c mice (MAE), Golden Syrian hamsters (HmAE), and rhesus macaques (RhMAE) have been successfully developed (Sims et al., 2008).</host_range>
+		<introduction refs="reference1407">Severe acute respiratory syndrome (SARS; pronounced /ˈsɑrz/ sarz) is a respiratory disease in humans which is caused by the SARS coronavirus (SARS-CoV). There has been one near pandemic to date, between the months of November 2002 and July 2003, with 8,096 known infected cases and 774 confirmed human deaths (a case-fatality rate of 9.6%) worldwide being listed in the World Health Organization's (WHO) 21 April 2004 concluding report. Within a matter of weeks in early 2003, SARS spread from the Guangdong province of China to rapidly infect individuals in some 37 countries around the world (Wiki: SARS).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine5726">
+		<vaccine_name>ADS-MVA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>live-attenuated modified vaccinia virus Ankara (MVA) [Ref5109:Chen et al., 2005]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5109">Recombinant live-attenuated modified vaccinia virus Ankara (MVA) had full-length SARS-CoV envelope Spike (S) glycoprotein gene was introduced into the deletion III region of the MVA genome.
+(Chen et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5109">S protein(Chen et al., 2005)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1854" gene_id="gene789">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2370" host_id="host39">
+			<immune_response refs="reference5109">testing hosts generated high levels of neutralizing antibodies after 2 vaccinations
+(Chen et al., 2005)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5109">immunized intramuscular injection twice with a 4-week interval. 1 × 10^8 TCID50 for the first immunization and a dose of 3 × 10^8 TCID50 for the second injection. (Chen et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5109">likely protected (Chen et al., 2005)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5109">immunized on days 0 and 28 via intranasal injection before challenged after second immunization on day 28 with 10^5 TCID50 of pathogenic SATS-CoVPUMC01.
+(Chen et al., 2005)</challenge_protocol>
+			<description refs="reference5109">After virus challenge, SARS-CoV shedding detected by RT-PCR was only detected in the nasopharyngeal specimens of one of the four ADS-MVA immunized animals (Rh0413) on day 2 after virus challenge. No virus shedding was detectable on days 4 and 6 postchallenge in these four macaques. SARS-CoV could not be isolated from the lung specimens of ADS-MVA-immunized macaques on day 7 postchallenge. (Chen et al., 2005)</description>
+		</host_response>
+		<host_response host_response_id="host_response2371" host_id="host3">
+			<immune_response refs="">testing hosts generated high levels of neutralizing antibodies (Chen et al., 2005)</immune_response>
+			<host_strain refs="reference5109">Balb/c (Chen et al., 2005)</host_strain>
+			<vaccination_protocol refs="">immunized intramuscular injection twice with a 3-week interval. Two mice were given 2 × 106 TCID50 of the vaccine, and six mice received 2 × 10^7 TCID50.(Chen et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2372" host_id="host6">
+			<immune_response refs="">testing hosts generated high levels of neutralizing antibodies (Chen et al., 2005)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="">immunized intramuscular injection twice with a 3-week interval (Chen et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2422" host_id="host19">
+			<immune_response refs="reference5399">Neutralizing activity was detected in sera along  with  a corresponding immunoglobin G titer collected from all three ferrets 7 days after booster immunization with rMVA-S virus, while the titer declined to undetectable level 14 days after the booster (Weingartl et al., 2004).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5399">Each ferret was  immunized with rMVA-S (ferrets 7 to 9), n day 0 with a dose of 1e8 PFU of the corresponding virus per ferret by intraperitoneal and subcutaneous routes, and a booster immunization was given on day 14 with the same regimen.(Weingartl et al., 2004)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference5399">Ferrets immunized with rMVA-S (particularly ferret 9) developed severe periportal and panlobular mononuclear hepatitis in contrast to only mild periportal mononuclear hepatitis was observed in control ferrets (Weingartl et al., 2004) .</side_effects>
+			<challenge_protocol refs="reference5399">Ferrets were challenged with 1e6 PFU of the SARS-CoV Tor2 isolate by the intranasal route(Weingartl et al., 2004).</challenge_protocol>
+			<description refs="reference5399">Study shows correlation with liver damage but does not definitely proof it is caused as SARS-CoV in ferrets also damage liver.(Weingartl et al., 2004)</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5742">
+		<vaccine_name>Double Inactivated whole SARS-CoV vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5382">Inactivated whole virus by formalin and Ultraviolet radiation, hence Double Inactivated  (DI) Vaccine (Tseng et al., 2012)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5382">whole virus (Tseng et al., 2012)</antigen>
+		<host_response host_response_id="host_response2402" host_id="host3">
+			<immune_response refs="reference5382">Increased titer of neutralizing antibodies and reduced viral titer  (Tseng et al., 2012)</immune_response>
+			<host_strain refs="reference5382">Balb/c and C57BL/6 (Tseng et al., 2012)</host_strain>
+			<vaccination_protocol refs="reference5382">Each mouse received 100 µl injection of each vaccine intramuscularly on days 0 and 28. The injection was done at 1 µg, 0.5 µg, 0.25 µg, 0.125 µg of the vaccine (Tseng et al., 2012)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5382">protected (Tseng et al., 2012)</protection_efficacy>
+			<side_effects refs="reference5382">Eosinophil infiltration in the lung lesions after challenge, type-2 hypersensitivity reaction (Tseng et al., 2012)</side_effects>
+			<challenge_protocol refs="reference5382">On day 56 after first vaccination, each mice was challenged challenged with 106TCID50/60 µl of SARS-CoV intranasally (IN) and euthanized on day 58 (Tseng et al., 2012)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5744">
+		<vaccine_name>Double Inactivated whole SARS-CoV vaccine  + alum</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5382">Inactivated whole virus by formalin and Ultraviolet radiation with alum vaccine (Tseng et al., 2012)</description>
+		<adjuvant refs="reference5382">alum (Tseng et al., 2012)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5382">whole virus(Tseng et al., 2012)</antigen>
+		<host_response host_response_id="host_response2404" host_id="host3">
+			<immune_response refs="reference5382">Increased titer of neutralizing antibodies and reduced viral titer that are higher than without adjuvant, neutrophil + eosinophil infiltration, Th2-type hypersensitivity reaction.  (Tseng et al., 2012)</immune_response>
+			<host_strain refs="reference5382">BALB/c (Tseng et al., 2012)</host_strain>
+			<vaccination_protocol refs="">Each mouse received 100 µl injection of each vaccine intramuscularly on days 0 and 28. The injection was done at 1 µg, 0.5 µg, 0.25 µg, 0.125 µg of the vaccine (Tseng et al., 2012)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5382">protected (Tseng et al., 2012)</protection_efficacy>
+			<side_effects refs="">eosinophil infiltration in the lung lesions after challenge, lower than without adjuvant (Tseng et al., 2012)</side_effects>
+			<challenge_protocol refs="">On day 56 after first vaccination, each mice was challenged challenged with 106TCID50/60 µl of SARS-CoV intranasally (IN) and euthanized on day 58 (Tseng et al., 2012)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5730">
+		<vaccine_name>β-propiolactone-inactivated SARS-CoV vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5106">whole killed (inactivated by beta-propiolactone) SARS-CoV vaccine (See et al., 2006)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference5106">whole virus (See et al., 2006)</antigen>
+		<host_response host_response_id="host_response2369" host_id="host3">
+			<immune_response refs="reference5106">A 19-fold difference (P=0·02) in total SARS-CoV-specific IgG levels  and lung viral titers were reduced by 4 logs to undetectable levels compared with titers observed in the PBS control on day 3 post-challenge, vaccinated animals showed significantly higher levels (P=0·002) of IFN-γ than control animals (See et al., 2006).</immune_response>
+			<host_strain refs="">129S6/SvEv</host_strain>
+			<vaccination_protocol refs="reference5106">Vaccination at 0 weeks and 4 weeks (See et al., 2006)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5106">Vaccination at 0 weeks and 4 weeks challenged by SARS-CoV-Tor2 at week 7 (See et al., 2006)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5729">
+		<vaccine_name>MA-ExoN vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5107">Live-attenuated RNA virus vaccine with  engineered inactivation of SARS-CoV ExoN activity (MA-ExoN) (Graham et al., 2012)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5107">MA-ExoN (Graham et al., 2012)</antigen>
+		<host_response host_response_id="host_response2380" host_id="host3">
+			<immune_response refs="reference5107">generated high levels of neutralizing antibodies  (Graham et al., 2012)</immune_response>
+			<host_strain refs="reference5107">Balb/c(Graham et al., 2012)</host_strain>
+			<vaccination_protocol refs="reference5107">intranasally with varying doses (10^2–10^4 PFU, depending on the experiment) of  SARS-CoV MA-ExoN (Graham et al., 2012)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5107">complete protection (Graham et al., 2012)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5107">intranasally injected 1e2.5 vaccination PFU of vaccine of  SARS-CoV MA-ExoN then given SARS-CoV once recovered (Graham et al., 2012)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5725">
+		<vaccine_name>MVA/S vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>highly attenuated modified vaccinia virus Ankara [Ref5110:Bisht et al., 2004]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5110">Recombinant form of the highly attenuated modified vaccinia virus Ankara (MVA) containing the gene encoding full-length SARS-CoV S (Bisht et al., 2004)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5110">S protein (Bisht et al., 2004)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1856" gene_id="gene789">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2381" host_id="host3">
+			<immune_response refs="reference5110">Antibodies neturalized SARS-CoV in vitro after 2 doses (Bisht et al., 2004)</immune_response>
+			<host_strain refs="reference5110">Balb/c(Bisht et al., 2004)</host_strain>
+			<vaccination_protocol refs="reference5110">Mice were inoculated i.n. or i.m. with 10^7 pfu of MVA/S at time 0 and again at 4 weeks. (Bisht et al., 2004)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5110">little to no replication of SARS-CoV in the respiratory tracts after internasal inoculation(Bisht et al., 2004)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5110">inoculated intranasally or intramuscularly with 7log pfu of MVA at 0 and 4 weeks then challenged with TCID50 of SARS-CoV (Bisht et al., 2004)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5766">
+		<vaccine_name>NDV-BC/S vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Newcastle disease virus Beaudette C strain (NDV-BC) [Ref5413:DiNapoli et al., 2007]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5413">Full-length 1,255-aa SARS-CoV S protein (DiNapoli et al., 2007)</antigen>
+		<host_response host_response_id="host_response2436" host_id="host5">
+			<immune_response refs="reference5413">Induced neutralizing antibodies, Produced S-specific antibodies, Increase in CD8+ T cells creating IFN-γ and TNF-α1 (DiNapoli et al., 2007)</immune_response>
+			<host_strain refs="">African Green Monkey</host_strain>
+			<vaccination_protocol refs="reference5413">Monkeys were vaccinated with 10^7 pfu of the recombinant virus days 0 and 28 (the two-dose groups) or on day 0 only (the one-dose group). (DiNapoli et al., 2007)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5413">Protected (DiNapoli et al., 2007)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5413">28 days after the second dose, they were challenged by the i.n. and i.t. routes with SARS-CoV at a tissue culture 50% infectious dose (TCID50) of 10^6 per site. (DiNapoli et al., 2007)</challenge_protocol>
+			<description refs="reference5413">Exhibited average reductions in viral titer of 13-fold, 276-fold, and 1,102-fold in the nasal turbinate, trachea, and lung, respectively. (DiNapoli et al., 2007)</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5767">
+		<vaccine_name>NDV-VF/S vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Lentogenic LaSota strain modified that cleavage sequence of F protein replaced with NDV-BC.  [Ref5413:DiNapoli et al., 2007]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5413">Full-length 1,255-aa SARS-CoV S protein (DiNapoli et al., 2007)</antigen>
+		<host_response host_response_id="host_response2437" host_id="host5">
+			<immune_response refs="reference5413">Induced neutralizing antibodies, Produced S-specific antubodies, Increase in CD8+ T cells creating IFN-γ and TNF-α1 (DiNapoli et al., 2007)</immune_response>
+			<host_strain refs="">African Green Monkey</host_strain>
+			<vaccination_protocol refs="reference5413">Monkeys were vaccinated with 107 pfu of the recombinant virus days 0 and 28 (the two-dose groups) or on day 0 only (the one-dose group). (DiNapoli et al., 2007)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5413">Protected (DiNapoli et al., 2007)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5413">28 days after the second dose, they were challenged by the i.n. and i.t. routes with SARS-CoV at a tissue culture 50% infectious dose (TCID50) of 10^6 per site. (DiNapoli et al., 2007)</challenge_protocol>
+			<description refs="reference5413">Immunization with NDV-VF/S resulted in a 5-fold and 61-fold reduction in nasal turbinate and tracheal SARS-CoV titers, respectively, compared with the control animals. (DiNapoli et al., 2007)</description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4160">
+		<vaccine_name>RBD-rAAV-SARS-CoV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004678</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3139">Inactivated SARS coronavirus (SARS-CoV) vaccine with adjuvant (Zheng et al., 2008).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1875" host_id="host3">
+			<immune_response refs="reference3139">Induced production of IgG and IgA that exhibited neutralizing activity. Induced a markedly higher level of antigen specific IL-2+ T cells but a slightly lower level of IFN-γ+ T cells in the spleen, IFN-γ-producing CD3+/CD8+ T cells were significantly higher in the splenocytes of RBD-rAAV intranasally versus intramuscularly vaccinated mice.  (Zheng et al., 2008)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3139">Intranasal vaccination with RBD-rAAV (Zheng et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3139">RBD-rAAV vaccination provoked a prolonged antibody response with continually increasing levels of neutralising activity. When compared with the RBD-rAAV prime/boost vaccination, RBD-rAAV prime/RBD-peptide boost induced similar levels of Th1 and neutralising antibody responses that protected vaccinated mice from subsequent SARS-CoV challenges,but stronger Th2 and CTL responses (Zheng et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3139">Mice were challenged with 10^5 TCID50f SARS-CoV strain GZ50 (Zheng et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4161">
+		<vaccine_name>RBD-rAAV-SARS-CoV-version-02</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004679</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference1380">RBD-rAAV prime/RBD-specific T cell peptide boost (Du et al., 2008).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1876" host_id="host3">
+			<immune_response refs="reference3140">Induced high level of IgG Ab response, reaching a peak 3 months post-vaccination, plateaued for 3 months, then decreased. Mucosal IgA Ab peaked 1 month after vaccination, then decreased in the next 5 months. Vaccination induced high levels of Agspecific IL-2+ T cells but slightly lower levels of IFN-γ+ T cells in the spleen. Single dose did not trigger significant IL-2+ and IFN-γ+ T cell response. (Du et al., 2008)</immune_response>
+			<host_strain refs="reference3140">Balb/c (Du et al., 2008)</host_strain>
+			<vaccination_protocol refs="reference1380">Mice were separated into 4 groups (9 mice per group) and primed with RBD-rAAV [intramuscular (i.m.), 2 × 10^11 VP /200 μl)] or RBD-peptides (N50 and N60, 50 μg each) plus CpG ODN (25 μg) [subcutaneous, (s.c.)] or blank AAV, and boosted with RBD-rAAV or RBD-Pep or AAV, respectively (Du et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1380">Compared with the RBD-rAAV prime/boost vaccination, RBD-rAAV prime/RBD-peptide (RBD-Pep) boost induced similar levels of Th1 and neutralizing antibody responses that protected the vaccinated mice from subsequent SARS-CoV challenge, but stronger Th2 and CTL responses. No significant immune responses and protective effects were detected in mice vaccinated with RBD-Pep or blank AAV alone (Du et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1380">Forty days post-vaccination, mice were anaesthetized with isoflurane and i.n. inoculated with 50 μl of SARS-CoV strain GZ50 (5 × 10^5 TCID50)  (Du et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5745">
+		<vaccine_name>rDNA-expressed S protein + alum vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5382">rDNA-expressed ectodomain of the S protein + alum vaccine (Tseng et al., 2012)</description>
+		<adjuvant refs="reference5382">alum(Tseng et al., 2012)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5382">ectodomain of the S protein(Tseng et al., 2012)</antigen>
+		<host_response host_response_id="host_response2405" host_id="host3">
+			<immune_response refs="">Increased titer of neutralizing antibodies and reduced viral titer, higher titer of neutralizing antibodies without adjuvant (Tseng et al., 2012)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="">Each mouse received 100 µl injection of the vaccine intramuscularly on days 0 and 28. This was done at 2 µg, 1 µg, 0.5 µg, 0.5 µg of the vaccine per injection (Tseng et al., 2012)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5382">protected(Tseng et al., 2012)</protection_efficacy>
+			<side_effects refs="">eosinophil infiltration in the lung lesions after challenge, lessened compared to without adjuvant (Tseng et al., 2012)</side_effects>
+			<challenge_protocol refs="">On day 56 after first vaccination, each mice was challenged challenged with 10^6TCID50/60 µl of SARS-CoV intranasally (IN) and euthanized on day 58 (Tseng et al., 2012)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5743">
+		<vaccine_name>rDNA-expressed S protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="">rDNA-expressed ectodomain of the S protein vaccine</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5382">ecto-domain of S protein (Tseng et al., 2012)</antigen>
+		<host_response host_response_id="host_response2403" host_id="host3">
+			<immune_response refs="">Increased titer of neutralizing antibodies and reduced viral titer (Tseng et al., 2012)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="">Each mouse received 100 µl  injection of the vaccine intramuscularly on days 0 and 28. This was done at 2 µg, 1 µg, 0.5 µg, 0.5 µg of the vaccine per injection (Tseng et al., 2012)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5382">protected (Tseng et al., 2012)</protection_efficacy>
+			<side_effects refs="">eosinophil infiltration in the lung lesions after challenge (Tseng et al., 2012)</side_effects>
+			<challenge_protocol refs="">On day 56 after first vaccination, each mice was challenged challenged with 106TCID50/60 µl of SARS-CoV intranasally (IN) and euthanized on day 58 (Tseng et al., 2012)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5734">
+		<vaccine_name>Recombinant spike polypeptide vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5104">intraperitoneal  recombinant spike polypeptide generated by amplify gene encoding amino acids residues 14-667 of S protein that was cloned BamHI and KpnI sites of vector pQE-31 that was generated by  Escherichia coli (Woo et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference5104">S protein (Woo et al., 2005)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1864" gene_id="gene789">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2426" host_id="host3">
+			<immune_response refs="reference5104">No neutralizing antibody production, high IgG levels, lymphocyte proliferation, production of IFN-γ &gt;6000 pg/ml at 48hrs and 72hrs, detectable production of IL-4 at 24hrs (Woo et al., 2005)</immune_response>
+			<host_strain refs="">Balb/c (H-2d)</host_strain>
+			<vaccination_protocol refs="reference5104">50 μg administered via intraperitoneal route on days 0, 14, and 28. (Woo et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5728">
+		<vaccine_name>rMA15-ΔE vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5108">recombinant MA15 virulent mouse-adapted SARS-CoV (MA15) background of E-deleted vaccine candidate (rMA15-ΔE) (Fett et al., 2013)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5108">virulent mouse-adapted SARS-CoV with E-deletion (rMA15-ΔE) (Fett et al., 2013)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1865" gene_id="gene915">
+			<type>Gene mutation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2425" host_id="host3">
+			<immune_response refs="reference5108">Induced neutralizing antibodies, Produced optimal levels of CD4 and CD8 T cells (Fett et al., 2013)</immune_response>
+			<host_strain refs="">Balb/c</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5108">Protected (Fett et al., 2013)</protection_efficacy>
+			<side_effects refs="reference5108">Minor peribronchial and perivascular infiltration in aged (18-month-old) mice (Fett et al., 2013)</side_effects>
+			<challenge_protocol refs="reference5108">Mice were challenged with 10^5 PFU of MA15 at day 21 after immunization.  (Fett et al., 2013)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5762">
+		<vaccine_name>rMV-S + rMV-N vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Mixed vaccine  of two viral vector vaccines</type>
+		<status>Research</status>
+		<vector>Live-attenuated recombinant measles virus (rMV) [Ref5398:Liniger et al., 2008].</vector>
+		<route>Intraperitoneal injection (i.p.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5399">Live attenuated recombinant measles viruses (rMV) expressing a codon-optimised spike glycoprotein (S) of severe acute respiratory syndrome-associated coronavirus (SARS-CoV) (Weingartl et al., 2004).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intraperitoneal injection (i.p.)</route>
+		<antigen refs="reference5398">codon-optimised spike glycoprotein (S), SARS-CoV nucleocapsid protein (N) (Liniger et al., 2008)</antigen>
+		<host_response host_response_id="host_response2423" host_id="host3">
+			<immune_response refs="reference5398">Induction of both humoral neutralizing and cellular responses against SARS-CoV, and neutralizing immunity against MV. (Liniger et al., 2008)</immune_response>
+			<host_strain refs="reference5398">Ifnartm-CD46Ge transgenic mice(Liniger et al., 2008)</host_strain>
+			<vaccination_protocol refs="reference5398">Mice were immunized with 0.5 × 10^4  pfu of each recombinant virus per mouse (Liniger et al., 2008)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4196">
+		<vaccine_name>rMV-SARS-CoV-S/Ssol</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004711</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3236">Live attenuated recombinant measles vaccine (MV) candidates expressing either the membrane-anchored SARS-CoV spike (S) protein or its secreted soluble ectodomain (Ssol) (Escriou et al., 2014).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1673" gene_id="gene789">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3236">A live attenuated recombinant meas(Escriou et al., 2014)s vaccine (MV) candidates expressing either the membrane-anchore SARS-CoV spike (S) protein (Escriou et al., 2014).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1786" host_id="host3">
+			<immune_response refs="reference3236">Production of anti-SARS IgG (specifically IgG2a) after 1 dose, increased by 10-20 fold after second dose. Induced production of neutralizing antibodies, as well as moderate levels of anti-SARS IgA antibodies (Escriou et al., 2014)</immune_response>
+			<host_strain refs="reference3236">CD46-IFNAR (Escriou et al., 2014)</host_strain>
+			<vaccination_protocol refs="reference3236">Mice were immunized with two intraperitoneal (i.p.) injections at 4-week interval of 10^5 TCID50 of MV-S or MV-Ssol recombinant viruses (Escriou et al., 2014).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3236">Recombinant MV expressing the anchored full-length S induced the highest titers of neutralizing antibodies and fully protected immunized animals from intranasal infectious challenge with SARS-CoV (Escriou et al., 2014).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3236">Mice were inoculated intranasally with 105 pfu of SARS-CoV five weeks after the second immunization (Escriou et al., 2014).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine842">
+		<vaccine_name>SARS Subunit Spike Protein with subunit boosting Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011486</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Adeno-associated virus [Ref1380:Du et al., 2008].</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering312" gene_id="gene789">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response601" host_id="host3">
+			<immune_response refs="reference1380">Vaccination increased production (P &lt; 0.05) of IL-4-producting Th2 cells higher than those in RBD-rAAV prime/RBD-rAAV  vaccinated animals, but a lower level (P  &lt; 0.05) of IL-10-secreting Th2 cells that play roles in down-regulation of immune responses, as compared to those of RBD-rAAV prime/RBD-rAAV boost vaccination. RBD-rAAV prime/RBD-pep exhibited similar frequencies of IFN-γ-producing cells (Th1) to RBD-rAAV prime/RBD-rAAV boost vaccinated animals. Increased production of IL-2-secreting cells. Induction of SARS-CoV-specific IgG production. (Du et al., 2008)</immune_response>
+			<host_strain refs="reference1380">BALB/c (Du et al., 2008)</host_strain>
+			<vaccination_protocol refs="reference1380">Mice were Mice were separated into 4 groups (9 mice per group) and primed with RBD-rAAV [intramuscular (i.m.), 2 × 10^11 VP /200 μl)] or RBD-peptides (N50 and N60, 50 μg each) plus CpG ODN (25 μg) [subcutaneous, (s.c.)] or blank AAV, and boosted with RBD-rAAV or RBD-Pep or AAV, respectively (Du et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1380">SARS-CoV viral load in lung tissues was significantly reduced in mice vaccinated with RBD-Pep. Very low level of viral load was detected in lung tissues of RBD-rAAV prime/RBD-Pep boost group, similar to that in lung tissues of RBD-rAAV prime/RBD-rAAV boost group. Vaccination of RBD-rAAV prime/RBD-peptide boost was able to significantly inhibit SARS-CoV infection (Du et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1380">Mice intranasally challenged with SARS-CoV strain GZ50 40 days post-vaccination (Du et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5727">
+		<vaccine_name>SARS-CoV Ad S/N vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>attenuated adenovirus[Ref5106:See et al., 2006]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5106">A combination of two adenovirus-based vectors, one expressing the nucleocapsid (N) and the other expressing the spike (S) protein (See et al., 2006)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5106">S protein, N (See et al., 2006)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1858" gene_id="gene789">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1859" gene_id="gene4289">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2368" host_id="host3">
+			<immune_response refs="reference5106">Quantifiable humoral response with presence of SARS-CoV-specific IgG1 and a significant reduction in level of SARS-CoV RNA in lung titers. Production of IFN-γ. (See et al., 2006)</immune_response>
+			<host_strain refs="reference5106">129S6/SvEv (See et al., 2006)</host_strain>
+			<vaccination_protocol refs="reference5106">Mouse was immunized on day 0 and week 4 (See et al., 2006)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5106">Partially protected (See et al., 2006)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5106">Mouse was immunized on day 0 and week 4 and then challenged with SARS-COV Tor2 at week 7 (See et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5753">
+		<vaccine_name>SARS-CoV CRT-N vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5393">A DNA vaccine encoding CRT linked to a SARS-CoV N (Kim et al., 2004)</description>
+		<adjuvant refs="reference5393">calreticulin (Kim et al., 2004)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs="reference5393">N protein (Kim et al., 2004)</antigen>
+		<host_response host_response_id="host_response2414" host_id="host3">
+			<immune_response refs="reference5393">Significantly increased neutralizing antibody titre to N protein DNA vaccine (Vaccine 5732) and significantly greater count of INF-gamma CD8_ lymphocytes within splenocytes (Kim et al., 2004)</immune_response>
+			<host_strain refs="reference5393">C57BL/6 (Kim et al., 2004)</host_strain>
+			<vaccination_protocol refs="reference5393">DNA-coated gold particles were prepared and delivered to the shaved abdominal regions of mice using a helium-driven gene gun (Bio-Rad) with a discharge pressure of 400 lb/in2. C57BL/6 mice were immunized with 2 μg of the plasmid encoding CRT/N protein. The mice received two boosters with the same dose at a 1-week interval. (Kim et al., 2004)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5393">significantly reduced viral titer load(Kim et al., 2004)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5393">Vaccinated mice challenged with DNA encoding CRT/Na nd challenged these mice with Vac-N or Vac-WT (Recombinant vaccinnia virus expressing SARS N protein or wild-type vaccinia virus, respectively)   intranasally or intravenously 1 week after the last vaccination (Kim et al., 2004)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5737">
+		<vaccine_name>SARS-CoV CTLA4-S DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5104">CTLA4HingeSARS800 DNA from SARS-CoV S protein vaccine (Woo et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5104">S protein(Woo et al., 2005)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1855" gene_id="gene789">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2373" host_id="host3">
+			<immune_response refs="reference5104">Induced neutralizing antibody, high IgG levels, lymphocyte proliferation, production of IFN-γ, production of IL-4 (48hrs)
+ (Woo et al., 2005)</immune_response>
+			<host_strain refs="reference5104">Balb/c (H-2d) (Woo et al., 2005)</host_strain>
+			<vaccination_protocol refs="reference5104">100 μg intramuscular administration of vaccine, then 50 μg intraperitoneal injection at 14 and 28 days (Woo et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3155">
+		<vaccine_name>SARS-CoV E gene mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002993</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering674" gene_id="gene915">
+			<type>Gene mutation</type>
+			<description refs="reference1677">This E gene is from SARS coronavirus (Lamirande et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response979" host_id="host16">
+			<immune_response refs="reference1677">Induced neutralizing antibodies. (Lamirande et al., 2008)</immune_response>
+			<host_strain refs="reference1677">LVG (SYR) (Lamirande et al., 2008)</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1677">An E gene mutant is attenuated in hamsters (Lamirande et al., 2008).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1677">An E gene mutant induces significant protection in hamsters from challenge with wild type SARS (Lamirande et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5731">
+		<vaccine_name>SARS-CoV M protein DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5105">DNA vaccine made from recombinant plasmid containing membrane protein (M) sequence constructed then expressed and purified from E. coli bacteria (Shi et al., 2006)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5105">membrane protein (M) (Shi et al., 2006)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1857" gene_id="gene4290">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2374" host_id="host3">
+			<immune_response refs="reference5105">N-specific IgG (mostly IgG2a) (Shi et al., 2006)</immune_response>
+			<host_strain refs="reference5105">Balb/c (Shi et al., 2006)</host_strain>
+			<vaccination_protocol refs="reference5105">20 μg of vaccine intramuscular injection (Shi et al., 2006)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2375" host_id="host33">
+			<immune_response refs="reference5105">N-specific IgG (mostly IgG2a)  (Shi et al., 2006)</immune_response>
+			<host_strain refs="reference5105">Microtus brandti raddes (Shi et al., 2006)</host_strain>
+			<vaccination_protocol refs="reference5105">100 μg injected three times at an interval of 7 days (Shi et al., 2006)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5733">
+		<vaccine_name>SARS-CoV N + SARS-CoV M DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5105">DNA vaccine made from recombinant plasmids containing membrane protein (M) and nucleocapsid protein (N) sequences constructed then expressed and purified from E. coli bacteria (Shi et al., 2006)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5105">N, membrane protein (M) (Shi et al., 2006)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1860" gene_id="gene4289">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1861" gene_id="gene4290">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2376" host_id="host33">
+			<immune_response refs="reference5105">increased N-specific antibodies compared to Vaccine 5732, increased lymphocyte proliferation specific to N antigen than Vaccine 5732 (Shi et al., 2006)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5105">100 μg injected   (Shi et al., 2006)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5105">6/7 voles protected (Shi et al., 2006)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5105">100 μg injected (Shi et al., 2006)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2377" host_id="host3">
+			<immune_response refs="reference5105">Production of N-specific IgG antibodies (paricularly IgG2a), Lymphocyte proliferation,  Production of IFN-γ, IL-2, IL-4, Increased CD4+ and CD8+ levels (Shi et al., 2006)</immune_response>
+			<host_strain refs="reference5105">Balb/c (Shi et al., 2006)</host_strain>
+			<vaccination_protocol refs="reference5105">20 μg of intramuscular vaccine injection (Shi et al., 2006)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5732">
+		<vaccine_name>SARS-CoV N protein DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5105">DNA vaccine made from recombinant plasmid containing nucleocapsid protein (N) sequence constructed then expressed and purified from E. coli bacteria (Shi et al., 2006)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5105">N (Shi et al., 2006)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1863" gene_id="gene4289">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2415" host_id="host3">
+			<immune_response refs="">Significantly increased neutralizing antibody titer to N protein DNA vaccine and significantl count of INF-gamma CD8_ lymphocytes within splenocytes (Kim et al., 2004)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="">DNA-coated gold particles were prepared and delivered to the shaved abdominal regions of mice using a helium-driven gene gun (Bio-Rad) with a discharge pressure of 400 lb/in2. C57BL/6 mice were immunized with 2 μg of the plasmid encoding N protein. The mice received two boosters with the same dose at a 1-week interval. (Kim et al., 2004)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">reduced viral titer load(Kim et al., 2004)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="">Challenge Protocol: Vaccinated mice challenged with DNA encoding N and challenged these mice with Vac-N or Vac-WT (Recombinant vaccinnia virus expressing SARS N protein or wild-type vaccinia virus, respectively) intranasally or intravenously 1 week after the last vaccination (Kim et al., 2004)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2378" host_id="host3">
+			<immune_response refs="reference5105">Production of N-specific IgG antibodies (paricularly IgG2a), Lymphocyte proliferation,  Production of IFN-γ, IL-2, IL-4, Increased CD4+ and CD8+ levels
+ (Shi et al., 2006)</immune_response>
+			<host_strain refs="reference5105">Balb/c (Shi et al., 2006)</host_strain>
+			<vaccination_protocol refs="">20 μg of vaccine intramuscular injection (Shi et al., 2006)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+		<host_response host_response_id="host_response2379" host_id="host33">
+			<immune_response refs="reference5105">increased N-specific antibodies, increased lymphocye proliferation specific to N antigen (Shi et al., 2006)</immune_response>
+			<host_strain refs="reference5105">Microtus brandti raddes (Shi et al., 2006)</host_strain>
+			<vaccination_protocol refs="reference5105">100 μg injected (Shi et al., 2006)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5105">100 μg injected three times at an interval of 7 days and then challenged with live SARS-CoV (PUMC01) (Shi et al., 2006)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5735">
+		<vaccine_name>SARS-CoV pCI-N DNA from vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5112">A plasmid pCI-N, encoding the full-length N gene of SARS-CoV, was constructed  and expressed in Escherichia coli DH5alpha (Zhao et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5112">S protein (Zhao et al., 2005)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1862" gene_id="gene4289">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2382" host_id="host3">
+			<immune_response refs="reference5112">Anti-N immunoglobulins (specifically IgG2a) and splenocytes proliferative responses against N protein, splenocyte production of IFN-γ, IL-2, IL-4, IL-10, production of N-specific CD8+ T cells,  delayed-type hypersensitivity response
+  (Zhao et al., 2005)</immune_response>
+			<host_strain refs="reference5112">Balb/c(Zhao et al., 2005)</host_strain>
+			<vaccination_protocol refs="reference5112">200 μg of Vaccine 573 in both tibialis anterior muscles three times at 2-week intervals (Zhao et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference5112">Delayed hypersensitivity response  (Zhao et al., 2005)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5750">
+		<vaccine_name>SARS-CoV rVV-SARS-N</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>recombinant vaccinia virus [Ref5384:Zhou et al., 2006]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="">recombinant vaccinia virus expressing the N protein (rVV-SARS-N)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5388">N protein (Zhao et al., 2016)</antigen>
+		<host_response host_response_id="host_response2410" host_id="host3">
+			<immune_response refs="reference5388">Production of N-specific CD4+ T cells, Production of IFN-γ, Production of IL-10, Increased mobilization of CD8+ cells to infected lung. (Zhao et al., 2016)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="">Mice were vaccinated with rVV-SARS-N i.n. and boosted 6–7 weeks later.</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5388">protected (Zhao et al., 2016)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5763">
+		<vaccine_name>SARS-CoV S Baculovirus Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>Baculovirus [Ref5384:Zhou et al., 2006]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5384">recombinant SARS-CoV spike (S) glycoprotein viral vaccine produced in insect cells that is expressed by baculovirus (Zhou et al., 2006)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5384">S protein of SARS-CoV (Zhou et al., 2006)</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5738">
+		<vaccine_name>SARS-CoV Salmonella-CTLA4-S DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5104">oral live-attenuated auxotrophic S. typhimurium aroA strain SL7207 that contained CTLA4HingeSARS800 DNA vaccine (Woo et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral</route>
+		<antigen refs="reference5104">S protein (Woo et al., 2005)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1866" gene_id="gene789">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2385" host_id="host3">
+			<immune_response refs="">Immune Response Description: neutralizing antibody titers of &lt;1:20–1:160,  lymphocyte proliteration, production of IFN-γ, production of IL-4 (48hrs) (Woo et al., 2005)</immune_response>
+			<host_strain refs="reference5104">Balb/ (H-2d) (Woo et al., 2005)</host_strain>
+			<vaccination_protocol refs="">: oral injection of 6e9 live attenuated Salmonella typhimurium that underwent transfection of CTLA4-, then 50 μg spike polypeptide administered via intraperitoneal injection on days 28 and 42. (Woo et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5739">
+		<vaccine_name>SARS-CoV Salmonella-tPA-S DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Oral</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5104">oral live-attenuated auxotrophic S. typhimurium aroA strain SL7207 that contained tPA-optimize800 DNA vaccine (Woo et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Oral</route>
+		<antigen refs="reference5104">S protein (Woo et al., 2005)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1867" gene_id="gene789">
+			<type>Recombinant vector construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2384" host_id="host3">
+			<immune_response refs="reference5104">neutralizing antibody titers of &lt;1:20–1:160, lymphocyte proliteration, production of IFN-γ, production of IL-4 (48hrs) (Woo et al., 2005)</immune_response>
+			<host_strain refs="reference5104">Balb/c (H-2d) (Woo et al., 2005)</host_strain>
+			<vaccination_protocol refs="reference5104">oral injection of  6e9  live attenuated Salmonella typhimurium that underwent transfection of tPA-S (Woo et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5736">
+		<vaccine_name>SARS-CoV tPA-S DNA vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5104">tPA-optimize800 DNA vaccine of SARS-CoV S protein (Woo et al., 2005)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5104">S protein (Woo et al., 2005)</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1868" gene_id="gene789">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response2383" host_id="host3">
+			<immune_response refs="">neutralizing antibody titers of &lt;1:20–1:160, lymphocyte proliteration, production of IFN-γ, production of IL-4 (48hrs) (Woo et al., 2005)</immune_response>
+			<host_strain refs="reference5104">Balb/c (H-2d) (Woo et al., 2005)</host_strain>
+			<vaccination_protocol refs="reference5104">100 μg of intramuscular administration of vaccine then 50 μg intraperitoneal injection of spike polypeptide at 28 and 42 days (Woo et al., 2005)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5747">
+		<vaccine_name>SARS-CoV VLP-MHV + alum vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Virus like particle vaccine</type>
+		<status>Licensed</status>
+		<vector>Nucleocapsid (N), envelope (E) and membrane (M) proteins from mouse hepatitis coronavirus (MHV) (Tseng et al., 2012)</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="">Virus like particle vaccine produced from SARS-CoV spike protein (S) and the Nucleocapsid (N), envelope (E) and membrane (M) proteins from mouse hepatitis coronavirus (MHV) (Tseng et al., 2012)</description>
+		<adjuvant refs="reference5382">alum(Tseng et al., 2012)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5382">SARS-CoV spike protein (S) (Tseng et al., 2012)</antigen>
+		<host_response host_response_id="host_response2407" host_id="host3">
+			<immune_response refs="">Increased titer of neutralizing antibodies and reduced viral titer (Tseng et al., 2012)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference5382">Each mouse received 100 µl injection containing 2 µg of vaccine intramuscularly on days 0 and 28 (Tseng et al., 2012)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">protected (Tseng et al., 2012)</protection_efficacy>
+			<side_effects refs="">eosinophil infiltration in the lung lesions after challenge (Tseng et al., 2012)</side_effects>
+			<challenge_protocol refs="reference5382">On day 56 after first vaccination, each mice was challenged challenged with 10^6TCID50/60 µl of SARS-CoV intranasally (IN) and euthanized on day 58 (Tseng et al., 2012)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5746">
+		<vaccine_name>SARS-CoV VLP-MHV vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Virus like particle vaccine</type>
+		<status>Research</status>
+		<vector>Nucleocapsid (N), envelope (E) and membrane (M) proteins from mouse hepatitis coronavirus (MHV) [Ref5382:Tseng et al., 2012]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5382">Virus like particle vaccine produced from SARS-CoV spike protein (S) and the Nucleocapsid (N), envelope (E) and membrane (M) proteins from mouse hepatitis coronavirus (MHV) (Tseng et al., 2012)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5382">SARS-CoV spike protein (S) (Tseng et al., 2012)</antigen>
+		<host_response host_response_id="host_response2406" host_id="host3">
+			<immune_response refs="reference5382">Induced neutralizing antibody, Neutrophil + eosinophil infiltration, Th2-type hypersensitivity reaction. (Tseng et al., 2012)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference5382">Each mouse received 100 µl  injection containing  2 µg of vaccine  intramuscularly on days 0 and 28 (Tseng et al., 2012)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5382">protected (Tseng et al., 2012)</protection_efficacy>
+			<side_effects refs="">eosinophil infiltration in the lung lesions after challenge (Tseng et al., 2012)</side_effects>
+			<challenge_protocol refs="">On day 56 after first vaccination, each mice was challenged challenged with 106TCID50/60 µl of SARS-CoV intranasally (IN) and euthanized on day 58 (Tseng et al., 2012)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5741">
+		<vaccine_name>UV Inactivated SARS-CoV vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5383">Ultraviolet radiation applied to SARS virus. Vaccine causes eosinophilic immunopathology  to SARS while providing protection (Iwata-Yoshikawa et al., 2014)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5383">whole virus(Iwata-Yoshikawa et al., 2014)</antigen>
+		<host_response host_response_id="host_response2400" host_id="host3">
+			<immune_response refs="reference5383">Induced neutralizing antibodies, Lymphocyte infiltration, Upregulation of  IL-4 and CCL24, CD11b+ cells upregulated genes associated with eosinophil induction  (Iwata-Yoshikawa et al., 2014).</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference5383">10 μg UV-V subcutaneously injected in back and reimmunized 6 to 7 weeks later (Iwata-Yoshikawa et al., 2014)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5383">Most mice survived challenge after weight loss and respiratory disease (Iwata-Yoshikawa et al., 2014)</protection_efficacy>
+			<side_effects refs="">Eosinophil infiltration present in the lungs (Iwata-Yoshikawa et al., 2014)</side_effects>
+			<challenge_protocol refs="reference5383">10 week old BALB/c mice were vaccinated with 10 μg UV-V  and boosted 6 weeks later. Four weeks afterwards, the animals were inoculated in the left nostril with 106.5 TCID50 in 30 μl of F-musX(Iwata-Yoshikawa et al., 2014).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5740">
+		<vaccine_name>UV-Inactivated SARS-CoV + TLR Agonist Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5383">Ultraviolet radiation is used to inactivate SARS-CoV and a Toll-Like Receptor Agonist Adjuvant is added to prevent eosinophilic immunopathology (Iwata-Yoshikawa et al., 2014).</description>
+		<adjuvant refs="reference5383">1 μg lipopolysaccharide (LPS) (Sigma-Aldrich, St. Louis, MO), 2.5 μg poly(I·C) (Invitrogen, San Diego, CA), and 0.1 μg poly(U) (Invitrogen) per immunization (Iwata-Yoshikawa et al., 2014)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference5383">whole virus (Iwata-Yoshikawa et al., 2014)</antigen>
+		<host_response host_response_id="host_response2401" host_id="host3">
+			<immune_response refs="reference5383">Induced neutralizing antibodies (More than in UV-V), Lymphocyte infiltration, High levels of CXCL10 and CXCL1, Production of IFN-β, Upregulation of TNF-α1 (Iwata-Yoshikawa et al., 2014)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="">10 μg of UV-Inactivated SARS-CoV + TLR Agonist Vaccine subcutaneously injected in back and reimmunized 6 to 7 weeks later (Iwata-Yoshikawa et al., 2014)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="">All mice survived challenge (Iwata-Yoshikawa et al., 2014).</protection_efficacy>
+			<side_effects refs="reference5383">Minor eosinophil lung infiltration (Iwata-Yoshikawa et al., 2014)</side_effects>
+			<challenge_protocol refs="">10 week old BALB/c mice were vaccinated with 10 μg UV-V and boosted 6 weeks later. Four weeks afterwards, the animals were inoculated in the left nostril with 106.5 TCID50 in 30 μl of F-musX(Iwata-Yoshikawa et al., 2014)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5770">
+		<vaccine_name>VRC-SRSDNA015-00-VP vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>DNA vaccine</type>
+		<status>Clinical trial</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5416">A single-plasmid DNA vaccine encoding the Spike (S) glycoprotein. (Martin et al., 2008)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="reference5416">S protein (Martin et al., 2008)</antigen>
+		<host_response host_response_id="host_response2440" host_id="host2">
+			<immune_response refs="reference5416">S-specific antibody, neutralizing antibodies present. S-specific CD4+ T cell response was detected in all patients, where on 20% had S-specific CD8+ T cell responses. (Martin et al., 2008)</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference5416">Injections on study days 0, 28, and 56 at a 4 mg dose in the lateral deltoid muscle (Martin et al., 2008)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference5416">Chills, fever, headache, injection site pain, malaise, myalgia, redness, swelling, tenderness (Martin et al., 2008)</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5754">
+		<vaccine_name>VRP-MERS-N vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Viral Like Particle Vaccine</type>
+		<status>Research</status>
+		<vector>Venezuelan equine encephalitis replicons (Zhao et al., 2016)</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="">Venezuelan equine encephalitis replicons bearing epitopes of N protein from MERS(Zhao et al., 2016). Identical to VRP-MERS-N vaccine (Vaccine 5748).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="">N protein (Zhao et al., 2016)</antigen>
+		<host_response host_response_id="host_response2428" host_id="host3">
+			<immune_response refs="reference5388">Reduced viral titre, production of N-specific CD4+ T cells, Production of IFN-γ, Production of CD8+ T cells. (Zhao et al., 2016)</immune_response>
+			<host_strain refs="">Balb/c (H-2d)</host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5388">Mice were challenged 4-6 weeks after boosting (Zhao et al., 2016)</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5749">
+		<vaccine_name>VRP-SARS-N vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id></vo_id>
+		<type>Viral Like Particle Vaccine</type>
+		<status>Licensed</status>
+		<vector>Venezuelan equine encephalitis replicons (VRP) [Ref5388:Zhao et al., 2016]</vector>
+		<route>intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs="reference5388">Venezuelan equine encephalitis replicons (VRP) encoding a SARS-CoV CD4+ T cell epitope vaccinated intranasally.  Does not have same efficacy if vaccinated subcutaneously (Zhao et al., 2016)
+ Identical to VRP-SARS-N vaccine (Vaccine 5755).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intranasal immunization</route>
+		<antigen refs="reference5388">CD4+ T cell epitope in the nucleocapsid (N) protein of SARS-CoV (N353) (Zhao et al., 2016)</antigen>
+		<host_response host_response_id="host_response2409" host_id="host3">
+			<immune_response refs="reference5387">Decreased viral titre, increase in N-specific CD4+ T cells and IFN-γ in lungs, production of IL-10, increased mobilization of CD8+ cells to infected lung. (Zhao et al., 2016)</immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference5388">vaccinated BALB/c mice twice at 6–7 week intervals with VRP-SARS-N at 100 PFU (Zhao et al., 2016)</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference5388">nearly complete protection at 100 pfu, protected at 500 and 1000 pfu doses (Zhao et al., 2016)</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference5112">challenged 6-7 weeks after second vaccination with doses from 100, 500, 1,000 PFU of SARS-CoV (Zhao et al., 2005)</challenge_protocol>
+			<description refs="reference5388">Better results compared to different vaccination routes (Zhao et al., 2016).</description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene915">
+        <gene_name>envelope protein (E) gene of SARS-CoV</gene_name>
+        <strain>Severe acute respiratory syndrome-related coronavirus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1489671</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>29836499</ncbi_protein_id>
+        <gene_locus_tag>sars4</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>NP_828854</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>694009</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>26116</gene_start>
+        <gene_end>26346</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>protein E</protein_name>
+        <protein_pi>6.3</protein_pi>
+        <protein_weight>6972.52</protein_weight>
+        <protein_length>76</protein_length>
+        <protein_note>E. coli expression reported by Shen et al. (2003)</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|30271926:26116-26346 SARS coronavirus, complete genome
+TATGTACTCATTCGTTTCGGAAGAAACAGGTACGTTAATAGTTAATAGCGTACTTCTTTTTCTTGCTTTC
+GTGGTATTCTTGCTAGTCACACTAGCCATCCTTACTGCGCTTCGATTGTGTGCGTACTGCTGCAATATTG
+TTAACGTGAGTTTAGTAAAACCAACGGTTTACGTCTACTCGCGTGTTAAAAATCTGAACTCTTCTGAAGG
+AGTTCCTGATCTTCTGGTCTA</dna_sequence>
+        <protein_sequence>>gi|29836499|ref|NP_828854.1| protein E [Severe acute respiratory syndrome-related coronavirus]
+MYSFVSEETGTLIVNSVLLFLAFVVFLLVTLAILTALRLCAYCCNIVNVSLVKPTVYVYSRVKNLNSSEG
+VPDLLV</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An E mutant is attenuated in hamsters and induces significant protection from challenge with wild type SARS [Ref1677:Lamirande et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene4290">
+        <gene_name>membrane protein (M) gene of SARS-CoV</gene_name>
+        <strain>SARS-CoV</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>ABD75314</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279907</xrefs>
+        <taxonomy_id>347537</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>membrane protein</protein_name>
+        <protein_pi>10.04</protein_pi>
+        <protein_weight>24329.5</protein_weight>
+        <protein_length>279</protein_length>
+        <protein_note>Coronavirus M matrix/glycoprotein; pfam01635</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABD75314.1 membrane protein [Bat SARS CoV Rf1/2004]
+MAENGTISVEELKRLLEQWNLVIGFLFLAWIMLLQFAYSNRNRLLYIIKLVFLWLLWPVTLACFVLAAVY
+RINWVTGGIAIAMACIVGLMWLSYFVASFRLFARTRSMWSFNPETNILLNVPLRGTIVTRPLMESELVIG
+AVIIRGHLRMAGHSLGRCDIKDLPKEITVATSRTLSYYKLGASQRVGTDSGFAAYNRYRIGNYKLNTDHS
+GSNDNIALLVQ</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>[Ref4975:Demurtas et al., 2016]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene4289">
+        <gene_name>nucleocapsid protein (N) gene of SARS-CoV</gene_name>
+        <strain>SARS-CoV</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>AAZ67049</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279305</xrefs>
+        <taxonomy_id>349344</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>nucleocapsid protein</protein_name>
+        <protein_pi>10.79</protein_pi>
+        <protein_weight>45847.78</protein_weight>
+        <protein_length>486</protein_length>
+        <protein_note>Coronavirus nucleocapsid protein; pfam00937</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAZ67049.1 nucleocapsid protein [Bat SARS CoV Rp3/2004]
+MSDNGPQNQRSAPRITFGGPTDSTDNNQDGGRSGARPKQRRPQGLPNNTASWFTALTQHGKEELRFPRGQ
+GVPINTNSGKDDQIGYYRRATRRVRGGDGKMKELSPRWYFYYLGTGPEASLPYGANKEGIVWVATEGALN
+TPKDHIGTRNPNNNAAIVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRGNSRNSTPGSSRGNSPARM
+ASGGGETALALLLLDRLNQLESKVSGRSQQQQGQTVTKKSAAEASKKPRQKRTATKQYNVTQAFGRRGPE
+QTQGNFGDQELIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYHGAIKLDDKDPQFKDNV
+ILLNKHIDAYKIFPPTEPKKDKKKKTDEAQPLPQRQKKQPTVTLLPAADMDDFSRQLQNSMSGASADSTQ
+A
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>[Ref4975:Demurtas et al., 2016]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene789">
+        <gene_name>S protein gene of SARS-CoV</gene_name>
+        <strain>SARS coronavirus</strain>
+        <vo_id>VO_0011320</vo_id>
+        <ncbi_gene_id>1489668</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>29836496</ncbi_protein_id>
+        <gene_locus_tag>sars2</gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>NP_828851</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>227859</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>21491</gene_start>
+        <gene_end>25258</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>E2 glycoprotein precursor</protein_name>
+        <protein_pi>5.6</protein_pi>
+        <protein_weight>130077.89</protein_weight>
+        <protein_length>1255</protein_length>
+        <protein_note>As established by Krokhin et al. (2003), the glycosylated spike protein (as well as the nucleocapsid protein) can be detected in infected cell culture supernatants with antisera from SARS patients.</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_004718.3:21491-25258 SARS coronavirus, complete genome
+CATGTTTATTTTCTTATTATTTCTTACTCTCACTAGTGGTAGTGACCTTGACCGGTGCACCACTTTTGAT
+GATGTTCAAGCTCCTAATTACACTCAACATACTTCATCTATGAGGGGGGTTTACTATCCTGATGAAATTT
+TTAGATCAGACACTCTTTATTTAACTCAGGATTTATTTCTTCCATTTTATTCTAATGTTACAGGGTTTCA
+TACTATTAATCATACGTTTGGCAACCCTGTCATACCTTTTAAGGATGGTATTTATTTTGCTGCCACAGAG
+AAATCAAATGTTGTCCGTGGTTGGGTTTTTGGTTCTACCATGAACAACAAGTCACAGTCGGTGATTATTA
+TTAACAATTCTACTAATGTTGTTATACGAGCATGTAACTTTGAATTGTGTGACAACCCTTTCTTTGCTGT
+TTCTAAACCCATGGGTACACAGACACATACTATGATATTCGATAATGCATTTAATTGCACTTTCGAGTAC
+ATATCTGATGCCTTTTCGCTTGATGTTTCAGAAAAGTCAGGTAATTTTAAACACTTACGAGAGTTTGTGT
+TTAAAAATAAAGATGGGTTTCTCTATGTTTATAAGGGCTATCAACCTATAGATGTAGTTCGTGATCTACC
+TTCTGGTTTTAACACTTTGAAACCTATTTTTAAGTTGCCTCTTGGTATTAACATTACAAATTTTAGAGCC
+ATTCTTACAGCCTTTTCACCTGCTCAAGACATTTGGGGCACGTCAGCTGCAGCCTATTTTGTTGGCTATT
+TAAAGCCAACTACATTTATGCTCAAGTATGATGAAAATGGTACAATCACAGATGCTGTTGATTGTTCTCA
+AAATCCACTTGCTGAACTCAAATGCTCTGTTAAGAGCTTTGAGATTGACAAAGGAATTTACCAGACCTCT
+AATTTCAGGGTTGTTCCCTCAGGAGATGTTGTGAGATTCCCTAATATTACAAACTTGTGTCCTTTTGGAG
+AGGTTTTTAATGCTACTAAATTCCCTTCTGTCTATGCATGGGAGAGAAAAAAAATTTCTAATTGTGTTGC
+TGATTACTCTGTGCTCTACAACTCAACATTTTTTTCAACCTTTAAGTGCTATGGCGTTTCTGCCACTAAG
+TTGAATGATCTTTGCTTCTCCAATGTCTATGCAGATTCTTTTGTAGTCAAGGGAGATGATGTAAGACAAA
+TAGCGCCAGGACAAACTGGTGTTATTGCTGATTATAATTATAAATTGCCAGATGATTTCATGGGTTGTGT
+CCTTGCTTGGAATACTAGGAACATTGATGCTACTTCAACTGGTAATTATAATTATAAATATAGGTATCTT
+AGACATGGCAAGCTTAGGCCCTTTGAGAGAGACATATCTAATGTGCCTTTCTCCCCTGATGGCAAACCTT
+GCACCCCACCTGCTCTTAATTGTTATTGGCCATTAAATGATTATGGTTTTTACACCACTACTGGCATTGG
+CTACCAACCTTACAGAGTTGTAGTACTTTCTTTTGAACTTTTAAATGCACCGGCCACGGTTTGTGGACCA
+AAATTATCCACTGACCTTATTAAGAACCAGTGTGTCAATTTTAATTTTAATGGACTCACTGGTACTGGTG
+TGTTAACTCCTTCTTCAAAGAGATTTCAACCATTTCAACAATTTGGCCGTGATGTTTCTGATTTCACTGA
+TTCCGTTCGAGATCCTAAAACATCTGAAATATTAGACATTTCACCTTGCGCTTTTGGGGGTGTAAGTGTA
+ATTACACCTGGAACAAATGCTTCATCTGAAGTTGCTGTTCTATATCAAGATGTTAACTGCACTGATGTTT
+CTACAGCAATTCATGCAGATCAACTCACACCAGCTTGGCGCATATATTCTACTGGAAACAATGTATTCCA
+GACTCAAGCAGGCTGTCTTATAGGAGCTGAGCATGTCGACACTTCTTATGAGTGCGACATTCCTATTGGA
+GCTGGCATTTGTGCTAGTTACCATACAGTTTCTTTATTACGTAGTACTAGCCAAAAATCTATTGTGGCTT
+ATACTATGTCTTTAGGTGCTGATAGTTCAATTGCTTACTCTAATAACACCATTGCTATACCTACTAACTT
+TTCAATTAGCATTACTACAGAAGTAATGCCTGTTTCTATGGCTAAAACCTCCGTAGATTGTAATATGTAC
+ATCTGCGGAGATTCTACTGAATGTGCTAATTTGCTTCTCCAATATGGTAGCTTTTGCACACAACTAAATC
+GTGCACTCTCAGGTATTGCTGCTGAACAGGATCGCAACACACGTGAAGTGTTCGCTCAAGTCAAACAAAT
+GTACAAAACCCCAACTTTGAAATATTTTGGTGGTTTTAATTTTTCACAAATATTACCTGACCCTCTAAAG
+CCAACTAAGAGGTCTTTTATTGAGGACTTGCTCTTTAATAAGGTGACACTCGCTGATGCTGGCTTCATGA
+AGCAATATGGCGAATGCCTAGGTGATATTAATGCTAGAGATCTCATTTGTGCGCAGAAGTTCAATGGACT
+TACAGTGTTGCCACCTCTGCTCACTGATGATATGATTGCTGCCTACACTGCTGCTCTAGTTAGTGGTACT
+GCCACTGCTGGATGGACATTTGGTGCTGGCGCTGCTCTTCAAATACCTTTTGCTATGCAAATGGCATATA
+GGTTCAATGGCATTGGAGTTACCCAAAATGTTCTCTATGAGAACCAAAAACAAATCGCCAACCAATTTAA
+CAAGGCGATTAGTCAAATTCAAGAATCACTTACAACAACATCAACTGCATTGGGCAAGCTGCAAGACGTT
+GTTAACCAGAATGCTCAAGCATTAAACACACTTGTTAAACAACTTAGCTCTAATTTTGGTGCAATTTCAA
+GTGTGCTAAATGATATCCTTTCGCGACTTGATAAAGTCGAGGCGGAGGTACAAATTGACAGGTTAATTAC
+AGGCAGACTTCAAAGCCTTCAAACCTATGTAACACAACAACTAATCAGGGCTGCTGAAATCAGGGCTTCT
+GCTAATCTTGCTGCTACTAAAATGTCTGAGTGTGTTCTTGGACAATCAAAAAGAGTTGACTTTTGTGGAA
+AGGGCTACCACCTTATGTCCTTCCCACAAGCAGCCCCGCATGGTGTTGTCTTCCTACATGTCACGTATGT
+GCCATCCCAGGAGAGGAACTTCACCACAGCGCCAGCAATTTGTCATGAAGGCAAAGCATACTTCCCTCGT
+GAAGGTGTTTTTGTGTTTAATGGCACTTCTTGGTTTATTACACAGAGGAACTTCTTTTCTCCACAAATAA
+TTACTACAGACAATACATTTGTCTCAGGAAATTGTGATGTCGTTATTGGCATCATTAACAACACAGTTTA
+TGATCCTCTGCAACCTGAGCTTGACTCATTCAAAGAAGAGCTGGACAAGTACTTCAAAAATCATACATCA
+CCAGATGTTGATCTTGGCGACATTTCAGGCATTAACGCTTCTGTCGTCAACATTCAAAAAGAAATTGACC
+GCCTCAATGAGGTCGCTAAAAATTTAAATGAATCACTCATTGACCTTCAAGAATTGGGAAAATATGAGCA
+ATATATTAAATGGCCTTGGTATGTTTGGCTCGGCTTCATTGCTGGACTAATTGCCATCGTCATGGTTACA
+ATCTTGCTTTGTTGCATGACTAGTTGTTGCAGTTGCCTCAAGGGTGCATGCTCTTGTGGTTCTTGCTGCA
+AGTTTGATGAGGATGACTCTGAGCCAGTTCTCAAGGGTGTCAAATTACATTACACATA
+
+</dna_sequence>
+        <protein_sequence>>NP_828851.1 E2 glycoprotein precursor [SARS coronavirus]
+MFIFLLFLTLTSGSDLDRCTTFDDVQAPNYTQHTSSMRGVYYPDEIFRSDTLYLTQDLFLPFYSNVTGFH
+TINHTFGNPVIPFKDGIYFAATEKSNVVRGWVFGSTMNNKSQSVIIINNSTNVVIRACNFELCDNPFFAV
+SKPMGTQTHTMIFDNAFNCTFEYISDAFSLDVSEKSGNFKHLREFVFKNKDGFLYVYKGYQPIDVVRDLP
+SGFNTLKPIFKLPLGINITNFRAILTAFSPAQDIWGTSAAAYFVGYLKPTTFMLKYDENGTITDAVDCSQ
+NPLAELKCSVKSFEIDKGIYQTSNFRVVPSGDVVRFPNITNLCPFGEVFNATKFPSVYAWERKKISNCVA
+DYSVLYNSTFFSTFKCYGVSATKLNDLCFSNVYADSFVVKGDDVRQIAPGQTGVIADYNYKLPDDFMGCV
+LAWNTRNIDATSTGNYNYKYRYLRHGKLRPFERDISNVPFSPDGKPCTPPALNCYWPLNDYGFYTTTGIG
+YQPYRVVVLSFELLNAPATVCGPKLSTDLIKNQCVNFNFNGLTGTGVLTPSSKRFQPFQQFGRDVSDFTD
+SVRDPKTSEILDISPCAFGGVSVITPGTNASSEVAVLYQDVNCTDVSTAIHADQLTPAWRIYSTGNNVFQ
+TQAGCLIGAEHVDTSYECDIPIGAGICASYHTVSLLRSTSQKSIVAYTMSLGADSSIAYSNNTIAIPTNF
+SISITTEVMPVSMAKTSVDCNMYICGDSTECANLLLQYGSFCTQLNRALSGIAAEQDRNTREVFAQVKQM
+YKTPTLKYFGGFNFSQILPDPLKPTKRSFIEDLLFNKVTLADAGFMKQYGECLGDINARDLICAQKFNGL
+TVLPPLLTDDMIAAYTAALVSGTATAGWTFGAGAALQIPFAMQMAYRFNGIGVTQNVLYENQKQIANQFN
+KAISQIQESLTTTSTALGKLQDVVNQNAQALNTLVKQLSSNFGAISSVLNDILSRLDKVEAEVQIDRLIT
+GRLQSLQTYVTQQLIRAAEIRASANLAATKMSECVLGQSKRVDFCGKGYHLMSFPQAAPHGVVFLHVTYV
+PSQERNFTTAPAICHEGKAYFPREGVFVFNGTSWFITQRNFFSPQIITTDNTFVSGNCDVVIGIINNTVY
+DPLQPELDSFKEELDKYFKNHTSPDVDLGDISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQ
+YIKWPWYVWLGFIAGLIAIVMVTILLCCMTSCCSCLKGACSCGSCCKFDEDDSEPVLKGVKLHYT
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>The receptor-binding domain (RBD) of SARS-CoV spike (S) protein is an important target in developing safe and effective SARS vaccines. A previous study has demonstrated that vaccination with adeno-associated virus encoding RBD (RBD-rAAV) induces high titer of neutralizing antibodies. The immune responses and protective effect of the immunization with RBD-rAAV prime/RBD-specific T cell peptide boost were assessed. Compared with the RBD-rAAV prime/boost vaccination, RBD-rAAV prime/RBD-peptide (RBD-Pep) boost induced similar levels of Th1 and neutralizing antibody responses that protected the vaccinated mice from subsequent SARS-CoV challenge, but stronger Th2 and CTL responses. No significant immune responses and protective effects were detected in mice vaccinated with RBD-Pep or blank AAV alone [Ref1380:Du et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference5110">
+		<reference_name>Bisht et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Bisht H, Roberts A, Vogel L, Bukreyev A, Collins PL, Murphy BR, Subbarao K, Moss B</authors>
+		<title>Severe acute respiratory syndrome coronavirus spike protein expressed by attenuated vaccinia virus protectively immunizes mice</title>
+		<year>2004</year>
+		<volume>101</volume>
+		<issue>17</issue>
+		<pages>6641-6646</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5109">
+		<reference_name>Chen et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chen Z, Zhang L, Qin C, Ba L, Yi CE, Zhang F, Wei Q, He T, Yu W, Yu J, Gao H, Tu X, Gettie A, Farzan M, Yuen KY, Ho DD</authors>
+		<title>Recombinant modified vaccinia virus Ankara expressing the spike glycoprotein of severe acute respiratory syndrome coronavirus induces protective neutralizing antibodies primarily targeting the receptor binding region</title>
+		<year>2005</year>
+		<volume>79</volume>
+		<issue>5</issue>
+		<pages>2678-2688</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4975">
+		<reference_name>Demurtas et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Demurtas OC, Massa S, Illiano E, De Martinis D, Chan PK, Di Bonito P, Franconi R</authors>
+		<title>Antigen Production in Plant to Tackle Infectious Diseases Flare Up: The Case of SARS</title>
+		<year>2016</year>
+		<volume>7</volume>
+		<issue></issue>
+		<pages>54</pages>
+		<journal_book_name>Frontiers in plant science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5413">
+		<reference_name>DiNapoli et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>DiNapoli JM, Kotelkin A, Yang L, Elankumaran S, Murphy BR, Samal SK, Collins PL, Bukreyev A</authors>
+		<title>Newcastle disease virus, a host range-restricted virus, as a vaccine vector for intranasal immunization against emerging pathogens</title>
+		<year>2007</year>
+		<volume>104</volume>
+		<issue>23</issue>
+		<pages>9788-9793</pages>
+		<journal_book_name>Proceedings of the National Academy of Sciences of the United States of America</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1887550/</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1380">
+		<reference_name>Du et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Du L, Zhao G, Lin Y, Chan C, He Y, Jiang S, Wu C, Jin DY, Yuen KY, Zhou Y, Zheng BJ</authors>
+		<title>Priming with rAAV encoding RBD of SARS-CoV S protein and boosting with RBD-specific peptides for T cell epitopes elevated humoral and cellular immune responses against SARS-CoV infection</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>13</issue>
+		<pages>1644-1651</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3140">
+		<reference_name>Du et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Du L, Zhao G, Lin Y, Sui H, Chan C, Ma S, He Y, Jiang S, Wu C, Yuen KY, Jin DY, Zhou Y, Zheng BJ</authors>
+		<title>Intranasal vaccination of recombinant adeno-associated virus encoding receptor-binding domain of severe acute respiratory syndrome coronavirus (SARS-CoV) spike protein induces strong mucosal immune responses and provides long-term protection against SARS-CoV infection</title>
+		<year>2008</year>
+		<volume>180</volume>
+		<issue>2</issue>
+		<pages>948-956</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3236">
+		<reference_name>Escriou et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Escriou N, Callendret B, Lorin V, Combredet C, Marianneau P, Février M, Tangy F</authors>
+		<title>Protection from SARS coronavirus conferred by live measles vaccine expressing the spike glycoprotein</title>
+		<year>2014</year>
+		<volume>452-453</volume>
+		<issue></issue>
+		<pages>32-41</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5108">
+		<reference_name>Fett et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Fett C, DeDiego ML, Regla-Nava JA, Enjuanes L, Perlman S</authors>
+		<title>Complete protection against severe acute respiratory syndrome coronavirus-mediated lethal respiratory disease in aged mice by immunization with a mouse-adapted virus lacking E protein</title>
+		<year>2013</year>
+		<volume>87</volume>
+		<issue>12</issue>
+		<pages>6551-6559</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5107">
+		<reference_name>Graham et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Graham RL, Becker MM, Eckerle LD, Bolles M, Denison MR, Baric RS</authors>
+		<title>A live, impaired-fidelity coronavirus vaccine protects in an aged, immunocompromised mouse model of lethal disease</title>
+		<year>2012</year>
+		<volume>18</volume>
+		<issue>12</issue>
+		<pages>1820-1826</pages>
+		<journal_book_name>Nature medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2261">
+		<reference_name>Hu et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Hu H, Lu X, Tao L, Bai B, Zhang Z, Chen Y, Zheng F, Chen J, Chen Z, Wang H</authors>
+		<title>Induction of specific immune responses by severe acute respiratory syndrome coronavirus spike DNA vaccine with or without interleukin-2 immunization using different vaccination routes in mice</title>
+		<year>2007</year>
+		<volume>14</volume>
+		<issue>7</issue>
+		<pages>894-901</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5383">
+		<reference_name>Iwata-Yoshikawa et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Iwata-Yoshikawa N, Uda A, Suzuki T, Tsunetsugu-Yokota Y, Sato Y, Morikawa S, Tashiro M, Sata T, Hasegawa H, Nagata N</authors>
+		<title>Effects of Toll-like receptor stimulation on eosinophilic infiltration in lungs of BALB/c mice immunized with UV-inactivated severe acute respiratory syndrome-related coronavirus vaccine</title>
+		<year>2014</year>
+		<volume>88</volume>
+		<issue>15</issue>
+		<pages>8597-8614</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5393">
+		<reference_name>Kim et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kim TW, Lee JH, Hung CF, Peng S, Roden R, Wang MC, Viscidi R, Tsai YC, He L, Chen PJ, Boyd DA, Wu TC</authors>
+		<title>Generation and characterization of DNA vaccines targeting the nucleocapsid protein of severe acute respiratory syndrome coronavirus</title>
+		<year>2004</year>
+		<volume>78</volume>
+		<issue>9</issue>
+		<pages>4638-4645</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1677">
+		<reference_name>Lamirande et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lamirande EW, DeDiego ML, Roberts A, Jackson JP, Alvarez E, Sheahan T, Shieh WJ, Zaki SR, Baric R, Enjuanes L, Subbarao K</authors>
+		<title>A live attenuated severe acute respiratory syndrome coronavirus is immunogenic and efficacious in golden Syrian hamsters</title>
+		<year>2008</year>
+		<volume>82</volume>
+		<issue>15</issue>
+		<pages>7721-7724</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5398">
+		<reference_name>Liniger et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Liniger M, Zuniga A, Tamin A, Azzouz-Morin TN, Knuchel M, Marty RR, Wiegand M, Weibel S, Kelvin D, Rota PA, Naim HY</authors>
+		<title>Induction of neutralising antibodies and cellular immune responses against SARS coronavirus by recombinant measles viruses</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>17</issue>
+		<pages>2164-2174</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5106">
+		<reference_name>See et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>See RH, Zakhartchouk AN, Petric M, Lawrence DJ, Mok CP, Hogan RJ, Rowe T, Zitzow LA, Karunakaran KP, Hitt MM, Graham FL, Prevec L, Mahony JB, Sharon C, Auperin TC, Rini JM, Tingle AJ, Scheifele DW, Skowronski DM, Patrick DM, Voss TG, Babiuk LA, Gauldie J, Roper RL, Brunham RC, Finlay BB</authors>
+		<title>Comparative evaluation of two severe acute respiratory syndrome (SARS) vaccine candidates in mice challenged with SARS coronavirus</title>
+		<year>2006</year>
+		<volume>87</volume>
+		<issue>Pt 3</issue>
+		<pages>641-650</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2331">
+		<reference_name>Sheets et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sheets RL, Stein J, Manetz TS, Duffy C, Nason M, Andrews C, Kong WP, Nabel GJ, Gomez PL</authors>
+		<title>Biodistribution of DNA plasmid vaccines against HIV-1, Ebola, Severe Acute Respiratory Syndrome, or West Nile virus is similar, without integration, despite differing plasmid backbones or gene inserts</title>
+		<year>2006</year>
+		<volume>91</volume>
+		<issue>2</issue>
+		<pages>610-619</pages>
+		<journal_book_name>Toxicological sciences : an official journal of the Society of Toxicology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5105">
+		<reference_name>Shi et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shi SQ, Peng JP, Li YC, Qin C, Liang GD, Xu L, Yang Y, Wang JL, Sun QH</authors>
+		<title>The expression of membrane protein augments the specific responses induced by SARS-CoV nucleocapsid DNA immunization</title>
+		<year>2006</year>
+		<volume>43</volume>
+		<issue>11</issue>
+		<pages>1791-1798</pages>
+		<journal_book_name>Molecular immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1541">
+		<reference_name>Sims et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sims AC, Burkett SE, Yount B, Pickles RJ</authors>
+		<title>SARS-CoV replication and pathogenesis in an in vitro model of the human conducting airway epithelium</title>
+		<year>2008</year>
+		<volume>133</volume>
+		<issue>1</issue>
+		<pages>33-44</pages>
+		<journal_book_name>Virus research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5382">
+		<reference_name>Tseng et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tseng CT, Sbrana E, Iwata-Yoshikawa N, Newman PC, Garron T, Atmar RL, Peters CJ, Couch RB</authors>
+		<title>Immunization with SARS coronavirus vaccines leads to pulmonary immunopathology on challenge with the SARS virus</title>
+		<year>2012</year>
+		<volume>7</volume>
+		<issue>4</issue>
+		<pages>e35421</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5399">
+		<reference_name>Weingartl et al., 2004</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Weingartl H, Czub M, Czub S, Neufeld J, Marszal P, Gren J, Smith G, Jones S, Proulx R, Deschambault Y, Grudeski E, Andonov A, He R, Li Y, Copps J, Grolla A, Dick D, Berry J, Ganske S, Manning L, Cao J</authors>
+		<title>Immunization with modified vaccinia virus Ankara-based recombinant vaccine against severe acute respiratory syndrome is associated with enhanced hepatitis in ferrets</title>
+		<year>2004</year>
+		<volume>78</volume>
+		<issue>22</issue>
+		<pages>12672-12676</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1407">
+		<reference_name>Wiki: SARS</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Sever Acute Respiratory Syndrome</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5104">
+		<reference_name>Woo et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Woo PC, Lau SK, Tsoi HW, Chen ZW, Wong BH, Zhang L, Chan JK, Wong LP, He W, Ma C, Chan KH, Ho DD, Yuen KY</authors>
+		<title>SARS coronavirus spike polypeptide DNA vaccine priming with recombinant spike polypeptide from Escherichia coli as booster induces high titer of neutralizing antibody against SARS coronavirus</title>
+		<year>2005</year>
+		<volume>23</volume>
+		<issue>42</issue>
+		<pages>4959-4968</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5112">
+		<reference_name>Zhao et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhao P, Cao J, Zhao LJ, Qin ZL, Ke JS, Pan W, Ren H, Yu JG, Qi ZT</authors>
+		<title>Immune responses against SARS-coronavirus nucleocapsid protein induced by DNA vaccine</title>
+		<year>2005</year>
+		<volume>331</volume>
+		<issue>1</issue>
+		<pages>128-135</pages>
+		<journal_book_name>Virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5388">
+		<reference_name>Zhao et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhao J, Zhao J, Mangalam AK, Channappanavar R, Fett C, Meyerholz DK, Agnihothram S, Baric RS, David CS, Perlman S</authors>
+		<title>Airway Memory CD4(+) T Cells Mediate Protective Immunity against Emerging Respiratory Coronaviruses</title>
+		<year>2016</year>
+		<volume>44</volume>
+		<issue>6</issue>
+		<pages>1379-1391</pages>
+		<journal_book_name>Immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3139">
+		<reference_name>Zheng et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zheng BJ, Du LY, Zhao GY, Lin YP, Sui HY, Chan C, Ma S, Guan Y, Yuen KY</authors>
+		<title>Studies of SARS virus vaccines</title>
+		<year>2008</year>
+		<volume>14 Suppl 4</volume>
+		<issue></issue>
+		<pages>39-43</pages>
+		<journal_book_name>Hong Kong medical journal = Xianggang yi xue za zhi / Hong Kong Academy of Medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5384">
+		<reference_name>Zhou et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Zhou Z, Post P, Chubet R, Holtz K, McPherson C, Petric M, Cox M</authors>
+		<title>A recombinant baculovirus-expressed S glycoprotein vaccine elicits high titers of SARS-associated coronavirus (SARS-CoV) neutralizing antibodies in mice</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>17</issue>
+		<pages>3624-3631</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

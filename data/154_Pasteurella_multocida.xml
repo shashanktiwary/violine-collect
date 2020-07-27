@@ -1,0 +1,1248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen161">
+		<pathogen_name>Pasteurella multocida</pathogen_name>
+		<taxon_id>747</taxon_id>
+		<pathogenesis refs="reference1589">In birds, P. multocida is believed to enter through the respiratory tract tissues of the host. P. multocida has been shown to adhere to air sac macrophages. The mode of transfer from the lungs to the bloodstream is poorly understood, but heterophils may play a role in the process (Harper et al., 2006).</pathogenesis>
+		<disease_name>Pasteurellosis, fowl cholera</disease_name>
+		<protective_immunity refs="reference1589">The first systemic host defence used against most invading bacteria involves the innate immune system and includes phagocytosis and bactericidal properties of serum components such as complement. However, P. multocida has mechanisms to evade this system, including the presence of a capsule. Active immunity against P. multocida infection is mainly humoral; vaccination of birds with killed P. multocida stimulates protection against homologous challenge, and opsonization studies in mice have shown that bactericidal antibodies are produced (Harper et al., 2006).</protective_immunity>
+		<host_range refs="reference1589">P. multocida causes can cause disease in fowl, pigs, cattle, rabbits and humans (Harper et al., 2006).</host_range>
+		<introduction refs="reference1588">Pasteurella multocida is a Gram-negative, non-motile coccobacillus that is penicillin-sensitive and belongs to the Pasteurellaceae family. It can cause a zoonotic infection in humans, which typically is a result of bites or scratches from domestic pets. Many mammals and fowl harbor it as part of their normal respiratory microbiota, displaying asymptomatic colonization. P. multocida is the most common cause of infection from animal injuries (pneumonia in cattle and pigs, atrophic rhinitis in pigs and goats, and wound infections after dog/cat-bites.) A high leukocyte and neutrophil count is typically observed, leading to an inflammatory reaction at the infection site (generally a diffuse localized cellulitis). It can also infect other locales, such as the respiratory tract. In more serious cases, a bacteremia can result, causing an osteomyelitis or endocarditis. The bacteria may also cross the blood-brain barrier and cause meningitis (Wiki: P. multocida).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine2155">
+		<vaccine_name>Bovine Rhinotracheitis Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 45H5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0001877</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2159">
+		<vaccine_name>Bovine Rhinotracheitis Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 45H5.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0001878</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2163">
+		<vaccine_name>Bovine Rhinotracheitis Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida-Salmonella Typhimurium Bacterin-Toxoid (USDA: 4109.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0001879</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2189">
+		<vaccine_name>Bovine Rhinotracheitis-Parainfluenza 3 Killed Virus Vaccine-Mannheimia Haemolytica-Pasteurella Multocida Bacterin (USDA: 4265.00)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0001885</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2207">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 43S5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0001905</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2212">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida-Salmonella Typhimurium Bacterin-Toxoid (USDA: 43T5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0001906</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2502">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 45B9.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002006</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2507">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus Modified Live Virus Vaccine-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 45B9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002007</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1336">
+		<vaccine_name>Bovine Rhinotracheitis-Virus Diarrhea-Parainfluenza 3-Respiratory Syncytial Virus-Mannheimia Haemolytica-Pasteurella Multocida Modified Live Virus, Avirulent Live Culture Vaccine (USDA: 11A8.22)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002008</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2544">
+		<vaccine_name>Bovine Virus Diarrhea Killed Virus Vaccine-Haemophilus Somnus-Mannheimia Haemolytica-Pasteurella Multocida Bacterin-Toxoid (USDA: 4C95.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Texas Vet Lab, Inc.</manufacturer>
+		<vo_id>VO_0002024</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1933">
+		<vaccine_name>Mannheimia Haemolytica-Pasteurella Multocida Avirulent Live Culture Vaccine (USDA: 1861.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002029</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3890">
+		<vaccine_name>P. multocida DNA vaccine pcDNA-OMPH + pcDNA-OMPA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004536</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1(+) [Ref2654:Gong et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1437" gene_id="gene1638">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1438" gene_id="gene1637">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1532" host_id="host8">
+			<immune_response refs="reference2654">A significant increase in serum antibody levels was observed in chickens vaccinated with divalent combination.  Additionally, the lymphocyte proliferation (SI value) and the levels of IFN-γ were both higher in chickens immunized with divalent combination than in those vaccinated with monovalent DNA vaccines (P&lt;0.05) (Gong et al., 2013).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2654">The protection provided by divalent combination vaccine was superior to that provided by monovalent DNA vaccines after challenging with the avian P. multocida strain CVCC474 (Gong et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3891">
+		<vaccine_name>P. multocida DNA vaccine pcDNA-OMPH/OMPA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004537</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3.1(+) [Ref2654:Gong et al., 2013]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1439" gene_id="gene1638">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1440" gene_id="gene1637">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1533" host_id="host8">
+			<immune_response refs="reference2654">A significant increase in serum antibody levels was observed in chickens vaccinated with the fusion DNA vaccine.  Additionally, the lymphocyte proliferation (SI value) and the levels of IFN-γ were both higher in chickens immunized with the fusion DNA vaccine than in those vaccinated with monovalent DNA vaccines (P&lt;0.05) (Gong et al., 2013).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2654">Protection provided by the fusion DNA vaccine was superior to that provided by monovalent DNA vaccines after challenging with the avian P. multocida strain CVCC474. The protective efficacy in chickens immunized three times with the fusion DNA vaccine was equivalent to the protective efficacy in chickens vaccinated once with the attenuated live vaccine (Gong et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3040">
+		<vaccine_name>P. multocida rOmpH Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004221</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference1802">100μg of rOmpH (Tan et al., 2010).</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering608" gene_id="gene943">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1802">The P. multocida ompH gene was cloned into E. coli and then extracted and purified to result in rOmpH (Tan et al., 2010).</description>
+		</gene_engineering>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3199">
+		<vaccine_name>Pasteurella multocida aroA mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0002862</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering731" gene_id="gene916">
+			<type>Gene mutation</type>
+			<description refs="reference1721">This aroA mutant is from Pasteurella multocida (Dagleish et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1024" host_id="host12">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference1721">An aroA mutant is highly attenuated in calves (Dagleish et al., 2007).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1721">An aroA mutant induces significant protection in calves from challenge with wild type Pasteurella multocida (Dagleish et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response129" gene_id="gene1169">
+			    <description refs="reference1721">After the second vaccination, serum IgM titers rose.  Groups receiving 10^9 and 10^8 CFU of the mutant had significantly higher titer of IgM than those receiving 10^7 CFU, and all vaccinated groups had significantly higher titers than the unvaccinated challenge control group of calves (Dagleish et al., 2007).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response130" gene_id="gene1170">
+			    <description refs="reference1721">After second vaccination, serum IgG titers rose.  Groups receiving 10^9 and 10^8 CFU of the mutant had significantly higher titer of IgG than those receiving 10^7 CFU, and all vaccinated groups had significantly higher titers than the unvaccinated challenge control group of calves (Dagleish et al., 2007).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2087">
+		<vaccine_name>Pasteurella Multocida Avirulent Live Culture, Avian Isolate Vaccine (USDA: 1871.01)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Biomune Company</manufacturer>
+		<vo_id>VO_0001722</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2088">
+		<vaccine_name>Pasteurella Multocida Avirulent Live Culture, Avian Isolate Vaccine (USDA: 1871.02)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Lohmann Animal Health International, Arko Laboratories Ltd., Biomune Company</manufacturer>
+		<vo_id>VO_0001723</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2089">
+		<vaccine_name>Pasteurella Multocida Avirulent Live Culture, Avian Isolate Vaccine (USDA: 1871.03)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc., Arko Laboratories Ltd., Biomune Company</manufacturer>
+		<vo_id>VO_0001724</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2090">
+		<vaccine_name>Pasteurella Multocida Avirulent Live Culture, Avian Isolate Vaccine (USDA: 1871.04)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001725</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2091">
+		<vaccine_name>Pasteurella Multocida Avirulent Live Culture, Avian Isolate Vaccine (USDA: 1871.05)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0001726</vo_id>
+		<type>Live vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3002">
+		<vaccine_name>Porcine Rotavirus-Transmissible Gastroenteritis Modified Live Virus Vaccine-Bordetella Bronchiseptica-Clostridium Perfringens Type C-Erysipelothrix Rhusiopathiae-Escherichia Coli-Pasteurella Multocida Bacterin-Toxoid (USDA: 49T9.21)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Intervet Inc.</manufacturer>
+		<vo_id>VO_0002319</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene916">
+        <gene_name>aroA</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>581456</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:179423
+CDD:30129
+GOA:Q04570
+InterPro:IPR001986
+InterPro:IPR006264
+InterPro:IPR013792
+InterPro:IPR023193
+UniProtKB/Swiss-Prot:Q04570</xrefs>
+        <taxonomy_id>747</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>441</protein_length>
+        <protein_note>3-phosphoshikimate 1-carboxyvinyltransferase; Provisional</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|581456|emb|CAA78480.1| aroA [Pasteurella multocida]
+MIKDATAITLNPISYIEGEVRLPGSKSLSNRALLLSALAKGKTTLTNLLDSDDVRHMLNALKELGVTYQL
+SEDKSVCEIEGLGRAFEWQSGLALFLGNAGTAMRPLTAALCLSTPNREGKNEIVLTGEPRMKERPIQHLV
+DALCQAGAEIQYLEQEGYPPIAIRNTGLKGGRIQIDGSVSSQFLTALLMAAPMAEADTEIEIIGELVSKP
+YIDITLKMMQTFGVEVENQAYQRFLVKGHQQYQSPHRFLVEGDASSASYFLAAAAIKGKVKVTGVGKNSI
+QGDRLFADVLEKMGAHITWGDDFIQVEKGNLKGIDMDMNHIPDAAMTIATTALFAEGETVIRNIYNWRVK
+ETDRLTAMATELRKVGAEVEEGEDFIRIQPLNLAQFQHAELNIHDHRMAMCFALIALSKTSVTILDPSCT
+AKTFPTFLILFTLNTREVAYR</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>An aroA mutant is highly attenuated in calves and induces significant protection from challenge with wild type P. multocida [Ref1721:Dagleish et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1170">
+        <gene_name>IgG</gene_name>
+        <strain>Bos taurus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>281766</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>116686102</ncbi_protein_id>
+        <gene_locus_tag>BOS_2620</gene_locus_tag>
+        <gene_refseq>GJ060600</gene_refseq>
+        <protein_refseq>NP_001070870</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>9913</taxonomy_id>
+        <chromosome>3</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>7996510</gene_start>
+        <gene_end>8005231</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>transcript variant 2</protein_name>
+        <protein_pi>8.71</protein_pi>
+        <protein_weight>25616</protein_weight>
+        <protein_length>250</protein_length>
+        <protein_note>Also known as CD16; FCGR3; FCGR3@</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|258513364:7996510-8005231 Bos taurus breed Hereford chromosome 3, Bos_taurus_UMD_3.1, whole genome shotgun sequence
+CACTCTAACACACAGCATGTGGCAACTGCTACCACCGGCAGCTCTGCTGCTTCTAGGTAAGTCAGACTCA
+CTTGGCCTGAGAGCAGAGCAAAGATGCCCTGGGCACAGCAGGCATCTCTTCTCAGGCAAGGAATGAGACC
+CTTAACCAAGGACAGACCCCTTCCTATGTCTATAGACCTTGGTTTAGCTCCTAGGACACAGCTTCAGGGG
+TTAGAGATACAGGAAATGGGCATAATCGGGAGGTGAAAGGAGAGGACGTGAGTTCTCCGTCACTTCACTC
+CTCTAGGTCTCAGCTTCTCTGGCTATAAACTGACAAGTATGCACTGGGTAGCCCCTAAGGTCTGTCTCCC
+ATTCTCACTTTCCAATGCTCCTCTCTCAGTCGTTTCATTTCTATCCTTTCCAGAGGACTTGGGTGGAGAT
+AGTTTCCATGGCTTGATTCAGAGATATTCAACCTGTGCCCTTAACTTTGGGGTTTGAACAGGGACCAAGG
+AGGAAGGGTATTGAAAACAGGGATTTGGGCAGACAACAGATTAGGAGGTACAGACGCTGGAAACCAGAAG
+GCAGGCAGTGGGGGAGATACCCACTCTATTCATCTTTGTTGAAGATGTCTTTACCTTGTTTGTTTATTTA
+ATGGCTATACGGGGCCTTCACTGTGGCGCTCAGGCTCTTCATCGCTTTGCGCGGGCTGCCTCTAGTGGCG
+GAGCACAAGCCTCTTGTCGCGGTGGTCTCTCGTCGCGGTGGTCTCTCTTGTTGTGGAGCACAGGCTCTAG
+GGTGCTCAGGCTTCAGTAGTTGTGGCTCATGGGCTCTAGAACATGAGCTCTGGTTGCTCTGCAGTGTGTG
+GGATCTTACTTCTGGCGCCAGGGATTGAACCTGCGTCCCCTTTACTGGCAGGCGGATTCTTACCACCAGG
+GAAGTCCCCACTATCTTTATCCTGATTCTTGGGAACACTGGCCTCTGAGGGCAGAGGTGGGCAGGGGAGT
+TTAAATACCACACTCCAGTCACCCTGTTCTCTGCTGCTGACCAATATTTGTTTTATTCTTTTTTTCTTAC
+AGTTTCAGCTGACACGCAAACTGGTGAGTTTGCTTCATGGTCTTGGACGGATCGAGTGAGGCATGTAAAT
+GTGTAATAGCTGCAGGGCACTGTTAGGAAATGTTCTTTGCACAAGAAACTGTTGACATGGAGTTGATGGT
+GGTGGTGGTGGTGGTTTAGTCGCTAAGTTTTGTCTGACTTGCAACCCCATGGACTATAGCCTTCCAGGCT
+CCTCTGTCCATGGGATTCTCCAGGCAAAATATTGGAGTGGATTGCCATTTCCTTCTCCAGAGGATCTTCC
+CGACCCAGGGATTGAAACCAGGTCTCTTGCATTGCGGGCAGATTCTTGGCAGGGGCAATTCCCCCAATAC
+AGTGGGCTTGGCCCTACCAAGGAGGAGGCTAAGTCTCTCCAAGTCAGTATGCTCAGACTGAGTGCAATGC
+TGCTGCTGCTGCTGCTGCTGCTGCTAAGTCACTTCAGTCGTGTCCGACTCTGTGCGACCCCACAGACGGC
+AGCCCACCAGGCTCCGCCGTCCCTGGGATTCTCCAGGCAAGAACAGTGGAGTGGGTTGCCATTTCCTTCT
+CCAATGCGTGAAAGTAAAGTCGCTCAGTCGTGTCCAACTCTTAGCGACCCCATGGACTGCAGCCTACCAG
+GCTCCTCCATCCATGGGATTTTCCAGGCAAGAGTACTGGAGTGGGTTGTCATTGCGTTCTCCAGACTGAG
+TGCAATACTAAGGCTGAAATGCCAACTCTCAGTTTGCAATGGGTTTTGAGCCTCCTTGGGAATACCAGTA
+TAGAGCCTGCTCACTTCTCTGCCCTTATCTACATTCTCTTAACACTTCAGCAGATCCCTCAAAGGCTGTG
+GTGCTCCTAGACCCTCAGTGGAACCACGTGCTCACGAATGACCGTGTGACTCTGAAGTGCCAGGGAGACT
+ACCCTGTTGAAGACAATTCCACAAAGTGGTGGCACAATGGGACTCTCATCTCAAGCCAGACCCCCAGCTA
+CTTCATCGCAGATGTCAAGGTTCAGGACAGTGGCGAGTACAAGTGTCAGACAGGCCTCTCTGCACCCAGT
+GACCCGGTGAAGCTAGAAGTCCACGTAGGTGAGTAGGAGAAGGGGAAAAAGGAACTGACCAATAAAGGAT
+AAAAAAAAAAAGAGGCCCTGAAAAAAAATAATGTTCCTGGGGATTAAAACTAGGATGAGATGATCTGTAG
+TCTATTGAATTACATCAGTATTGTAGTCCTAGCTCCAAGTAGGCCTTAGATAAAATGTCAAAGCCTGGCA
+TACACTAGGGACAGGGCTGCTGGACTGCACAATTCCAAGAATCTACATTCACATAGAAGATGAATATATA
+CAGCATGAATGGTGTCATCTGAAGGTCAGGGCATGACATCAATGCTCTATAACAGTTATTGAATAAATTA
+ATGAATCCACTTTAGGACCTCAATCTCCTCATTCTCAGACACAATCTCCACATTCTCTAAGCTACCCAAC
+AAGCCACCCCTAATCTAGCATCATATCTATTTCCTCTTCCCATCAACGCTACACTCAAATATACACTTCA
+GCCTAAATTTGGCAATGTGAAATCTCTCCTAATAGAGATAGATACACGTTCAGCCCGCACATTCATCATG
+GAACGAAAGTCTTTGTATCTTAACAAAATCCAGGCATTGGATGCAAGGAGAAGTATGTTGAGGCAGAGAT
+CTCTCCTGGTGTCCCTGAAATCACACCACATAGCCTGGTACCTGCTGTGTCTTGTAAGCTTCACTCTATT
+TGCATGACTGCCCCATCTCCATAATGTATGTGAGTGGAACAAGCCTGGAGGGAAAGGCGGGTTTAATGAA
+GGAGGACCTGCAACAAAATTCCACGGACCTGGGTCTCTGAAGCTGATTTTCTGGGCTCCTACACCTGACT
+GTGTTACTTAGTTGACTTAGTTCTCAGTCTAGCTAGGTGAGAGATGGCCATGCCTGTGTGCCAAGTTGCT
+TCAGTCATATCCGACTCTTTGTGACCCTATGGACTGTAGCCTGCCAGGCTCCTCTGTCCATGGGATTCTC
+CAGGCAAGAATACTGGAGTGGATGGCCATGTCTTCCTCCAGGGGATCTTCCCAACCCAGGGATCTAAGCC
+ACATCTCTTACATCTCGTGCTTTGGCAGGCAGGTTCTTTACCACTAGCACCACCTGGGAATCCCAAGAGA
+TGGCCACCTGTGACCAAATAAAATGGGGAATTACCAACAGGAAGCAAGAGAAACCTCAAGTCTTGGAGTT
+GTTAGTTTGTCTTAAACTTGGCTCTAGAAACTGACTTTAGAAGTCTAATTAGTGTGAACAGTTTTAAACT
+CTGACCAAGAGCATTAAGTTCACCAGGCAAACTCCTGATCCTTCTTTTGGACCCACTTCACTTATCTTCT
+TCTCTGAGAAGCTTTGCTTACTTTCTTCGGGCCGGATTTCTTTGCTCCATTCTCTTTGGTCATGCAGTCC
+TTTGTTCTTAGCCTGTTGTAGCACTTATCACCTGGTATTATAATTATTTCTGAGTATATGTGTTTCTACG
+CCTAGACCACAGGTTCTTTGATGTGTCTCAGTCATCTGGGTGTCCCCAATCTGCATGACATGACATAGTA
+AGTTCTCAATAAGATATTTGTTTAACTAATGTATATATGAACATTCACTGAGTCCATGACACCCTGAATG
+GAATAAGAACGTTCTCCCCTCAAAGAAACCAAACTATATGTGTGTGTGTGTGTGTGTGCGTATATGTGTG
+TATATACAACATAAGTTATGTATATATATGTGTGTGTGTATGTATGTATATATATGATTACATATGTAAC
+CCCTGTTAATATTTAAGCACATGTTCTTTCTTTTTTTATGAGCATACATATGTTTTATATTCTTTTTAAC
+TTAACATTCTCTGATAAATGTTTTCTCATGTCATTTTAAAATTTCTCTGCAGTATCGTTTTAAATTATTC
+AGGCCAACTTCCTCACCATGACTTCAAGTTCTCTGTGTGTGTGAAGTCTGGTTACTTGGCAAGGCAGTTG
+TGAAAAGAGTTGTTTTGATGATTAACTGTTTCCGTCTTAAAGGCTGTGCTCTGTAATGAAATGGTCTTGC
+TAAGACACTGTGGCCCCTGAAATTAGCAGTTACCATCAGCACTACCAAGCATGCTTTTCTTTCCTCTCCC
+TGACTTTTACAAGGAGTTCTCCTTCACAATTTCTGTAGCCACTCCTACGGATACTCAGTAACCTTCTTCC
+TGACTGGTTGCAACAGTCTTCCAACATTCCTAAAACCGTCTATTCCTTCTGAAGTCTACCTTTCCTTGTA
+TTCTAATATGATTCTTACTCTTTGATCTAGAATTTACAATGGCCCCTTATCACCTTCCATAGCAAATCCA
+AGTGTGGACTTTGAGGATGCTGCAGCTTGCTTCTCACCTGCCTCATCACTTAGTCCTTCTGCTCTCACTT
+TATGCTTTGATCATGTGTGTGTCTGTCCCTCTCTCCCATTAGACAAAAGCTCTTGGAGTGACTTGAGTTC
+TCATCCAGAGTCCAGTTGTCTTTTTCCCAAAGAAAGTTACATAAGGACGGCGCCGCCCGGTCTGGAGTTC
+CACTGTCCCCCAGCACCTGGGTGGTGAGCATTCTCTTCAGAAGAGCTTTGTGCTGGGTGCTGAGGCCTCC
+TGGGCCTGTGTTCTCTTTGTGTTTTGCAGGCTGGCTATTGCTCCAGGTCGCTCAACGGGTGGTAAATGTG
+GGAAAGCCCATTCGGCTGAAGTGTCACAGCTGGAAGAAAACTCCTGTAGCAAAGGTCCAGTATTTCCGGA
+ATGGCAGAGGCAAGAAGTATTCTCATGGGAATTCTGACTTCCACATTCCAGAAGCAAAACTTGAACACAG
+TGGTTCCTACTTCTGCAGGGGCATTATCGGGTCTAAAAACGAGTCTTCAGAGTCTGTGCAGATCACTGTT
+CAAGGTAAGACATGTGCGGCACTAAAGGGACCAGAGACCCCTGTGCTGGGAATCTTGCATTCACACTGGG
+GAGATGAGTTGGGAGGAAATTGCTGACAATTCCACAGACTTCTTTACGAGTGTCATTCACTTTGAAACAT
+GACAGCAGGTGCAAAGGCCACATTTCCTTCCTCATAAATATGCCTGTCCTAACTTACCTCATTCAAACCA
+TATCCACACTCTTGTGTATCTCTATCGTGCTGGCCCTTTTTTTGCCTGCTCCTGCTCCCCTTTCTCTTCC
+AAGTCTCAAGTCTTAGCCAAGAGTCTAGCTGGCAGTAACCCCTCACTTTCTCACAGAAAGACCCAGAACC
+TGTGTTCTGGCTCTGCTGCTGATTAACCATATGACTGTGGCCAGTTAGTCTCTTGAACTCAATTTCCACT
+TTTGTAACAAAGACAAGCTGACGTTTATTGGGCATTTTTCAGTGTGCTGGACACTGTGCTGAATGCTTCA
+TTACATGCACTTAATCTGAACACCTGAGAATTAATGCTTTTGAGCTGAGGTGTTGGAAAAGACTCTTGAG
+AGCCCCTTGGACAGCAAGGACAGTCAATCCTAAAGGAAATCAGTCCTGAATATTCATTGGAAGGACTGAT
+GCTGAAGCTGAAACTCCAATCCTTTGGCCACCTGATGAGAAGAACTGACTCATTGGAAAAGACCCTGATG
+CTGGGAAAGATTGAAGCAGAAGAAGAAGGGATGACAGAGGATGAGATGATTGGATGGCCTCACCGACTCA
+ATGGCCATGAGTTTGAGTGAGCTCTGGGAGTTGGTGATGGACAGGGAAGCCTGGCGTGTTGTAGTCCATG
+GGGTCACAAAGAGTCGGACACGACTGAGTGACTGAACTGAACTGATATTGAATTCCACTTTCCAAATCAT
+TTAGAAAACATCTCCAGTTTCTGTAGCACCATCCTCCAGGGTCAGAGATGCCCTGCCATGGTGCTCCTGG
+ACTTCCTAATCTCCCAAAACTTCCACCTGGAATCAGACTGAGATAAAAACCCTGATACTGGGAAAGATTG
+AGGGCAGGAAGAGAAGGGGGCGACAGAGGATGAGATGGTTGGATAGTGTCATTGACTAAACGGACATGAG
+TTTGAGCAAACTCTGAGAGATAGTGGAGGACAGTTAAGCCTGGCATGCTGCAGTCCATGGGGTCACCAAG
+ATTCGACACGACTGAGTGACTGAACAACAATACACTGTAAGCAATTTACATGTAATAATACAGCAATATA
+GACACACATCTTCTGAGATTCTAACAAAACAATGCCATAGTTTGTATAAAAAATAACTTCATCACAATTT
+AAATTGAAAGTAAATACTCTCAAATAGCTAGGAAAAGAGAGAGCAAATAATAAGGAAAATGGGGGCAAAT
+TGCAAACAATTAGTAAATCTAGGTAAAGAATATCTGAGAGTTATTTGTACTTTATTGACATCCATTTTTT
+AAGTTCAAAATTATATCAAAATTAAGATTTTTTAAATTGAGACTAAAAATGCACTCTCATCTTACTACCT
+TATAGGCAACAGCAGAGAATGACTTTAAAACAATCTTAATGGCTAAGAGGTTGAGAAGCAACAAATTCTA
+GCCCTTTCCATTTTGGGTTCTTAGTTACTGAGCCTTGATAAAGAAATATTTTCTGACGATAAATAGGATA
+AGTAGTAGATTTCAACGGCTTACCTTGTGTGTGTGTTGGTTTTTGTTTTTGTTTTTTCATTTTCTTGAGT
+CGGGTGAATACAATGAGTATAATTTTGAGACACAAGAGAAAGTTACTGAATTAAAAAACAGTGTTCTCAC
+AACAACTTAAACTTTGATATCTCTCATTGCTGTTGTACAGTCACTAAGTCATGTCCGACTTTTTGCAGCC
+CCATAGACAGCATGCCAGGCTTCCCTGTCCTTACCTAACTCCCAAGTTTGCTCAAACTCATGTCTATTGA
+GTTAGACATCTCATCCTCTGTCACCTCCTTCTCCTTCGCATCAGGTGGCCAAAGTATTGGAGCTTCAGCT
+TCAGCATCAGTCCTTCCAATGAATATTCAGGGTTGATGATCTCACGCAAAACCCAGCTACAAGTACCTCC
+ATCAAACATGAAAACACTATTGCTCAAGAAGCACTAGAATCCAAAACTGGTAGGAGGAAGCTGTGGCTTT
+CTTCCAGACTCCCCCACATTCAATAGAATCTGTTTCTTAGCAGGTGTCAGAAAGACTTCACAGTGATGAC
+CTCACTGTTTATGCCAATTTTCTGCCTTAACAAATGTCATTTTTTTCTCATCTCTCTGCTCAGCTCCAGA
+AACTTTACAAACTGTCTCGTCATTCTTTCTACCTTGGCACCAGATCACCTTCTGTCTGGTGATGGGAGTC
+CTGTTTGCAGTGGACACGGGACTGTATTTTTCTGTACGGAGACACCTTCAAAGCTCAGAGGAATGGAGGG
+ATGGCAAAGTCACATGGAGCAAGGGCCCTTAGGACAAATGGAGGTAATGAAAGCAGCATCCCCATCCCAT
+GGGGTGATAAAAGCAGCATCTATGAACCTCTTCCTAATTTCACAGCCTTATCATCTCCCAACAGGCATCT
+CTGGGAGCAGCAGGAAAATTACACGTCAGACTCTAGGGATCTGAGGATCCTTCACCCAACTCTGTTTCTT
+CTAGTCTCCTATGGAAAGAAAGTGCCAACCGTGAAGGACCAGTAAATATCTGCATCACCAGAAATAGAAG
+TCTCAGAGCTACGTGGCTGCTTTCTGTATTCCAACCATTCTGTCCCAAGAGAACAACCATACAGACTCTC
+AAAGATCAGCCCTGATGTATGAATATTGTGCTAAAATAAATGGATATGTAAAGAAGAAAATTCATGGTGG
+AGAGGCAGCTGGATGGTGGTCTACATCTTTTGCTGCACGCTGACTGCCTTCAAGGCACCCTGAAACTCCT
+TCTAGATAGTCTGTGGGTACATGTGGGGGTGTAGGGAACAGAGCACAACCATTGAAGAGGGTGGCTGAGA
+AAGAGCAGGGTAGTCCAGGATAGACCAGACAAGACCACCACCTGGGCTGTCTTCCTAGAACATGAACCAT
+GGTGGAGGTAAAAGAAAATCACAGACGTGAGATGGGATTGAGTTTTCCAGGGGAGCCCCTGTCAAAAGGA
+TACAGTGTGAGTCTGTGAGTATACAATGATAAATCCTCTCAATGTCATGAGTAGAAAATGATCCAGGAAG
+GGGGTTAGGGGTTGGAGGATTTGCAAAAGAAAGCACAGAATAAACTCATTGGAAGGAACATTGCTATCCC
+AAATTAAGCCCACTGAACAAAGGTATATCAGTGTCTAAACCGAGAAAGCATTACAAGAAAAAGTCAACCA
+CAACTGCACAGGAAGGAGCTGGCAGGAGATGAGGATGCTTTTAGACTGAGAATTAGAGAGAAGGGGCATA
+TAAAACCAGAATTTTCACTTCAATATCTAATTCAGCTTTATTCACATCACCCTTAAACAAATGTTGGATA
+ACCACTATTAAATGTACTAAACTCTACTGAATTAAATCATGAAACTTTTAAATCCTTCAGCATGTCAATA
+ATAATGGAGTAGAGGTGAAATCAATCACTGCTTCTGGAAGAAAGCTTTAGCTATCTCTCTTTGTGTTTTA
+GAAGCTTTAAACTGAACATTTCTTGATTCCGGTAAGGCATTTTTACAAGATTCTGCATGTTATTGTTAGA
+TAGAAGATGGAAAAACCACGATAATAAAACATGAATGATAGA</dna_sequence>
+        <protein_sequence>>gi|116686102|ref|NP_001070870.1| low affinity immunoglobulin gamma Fc region receptor III isoform 1 precursor [Bos taurus]
+MWQLLPPAALLLLVSADTQTADPSKAVVLLDPQWNHVLTNDRVTLKCQGDYPVEDNSTKWWHNGTLISSQ
+TPSYFIADVKVQDSGEYKCQTGLSAPSDPVKLEVHVGWLLLQVAQRVVNVGKPIRLKCHSWKKTPVAKVQ
+YFRNGRGKKYSHGNSDFHIPEAKLEHSGSYFCRGIIGSKNESSESVQITVQAPETLQTVSSFFLPWHQIT
+FCLVMGVLFAVDTGLYFSVRRHLQSSEEWRDGKVTWSKGP</protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1169">
+        <gene_name>IgM</gene_name>
+        <strain>Bos taurus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>444875</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag>BOS_20600</gene_locus_tag>
+        <gene_refseq>GJ062732</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>9913</taxonomy_id>
+        <chromosome>21</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>71507508</gene_start>
+        <gene_end>71508717</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>IgM</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|258513346:71507508-71508717 Bos taurus breed Hereford chromosome 21, Bos_taurus_UMD_3.1, whole genome shotgun sequence
+AGTGACTTCTGGGAGTGGTGACTCTCATCTGCTCGAAGATGAACCCACTGTGGACCCTCCTCTTTGTGCT
+GTCAGCCCCCAGAGGTGAGTGTCTCTGGGTCAGACATGGGCACGTGGGGAAGCTGCCTCTGAGCCCACGG
+GTCACCGTGCTTCTCTCTCTCCACAGGGGTCCTGTCCCAGGTGCAGCTGCGGGAGTCGGGCCCCAGCCTG
+GTGAAGCCCTCACAGACCCTCTCCCTCACCTGCACGGTCTCTGGATTCTCATTAAGCGATAATAGTGTAG
+GCTGGGTCCGCCAGGCTCCAGGAAAGGCGCTGGAGTGGCTCGGTGTCATATATAGTGGTGGAAGCACAGG
+CTATAACCCAGCCCTGAAATCCCGGCTCAGCATCACCAAGGACAACTCCAAGAGCCAAGTCTCTCTATCA
+CTGAGCAGCGTGACAACTGAGGACACGGCCACATACTACTGTGCAAGAGACACAGTGAGGGGAAGTCAGT
+GTGAGCCCAGACAAAAACCTCCCTGCACAGGGGCCCGTGACCACGAGGGGGCGCTCAGGACTCAGTACAG
+AGCTGAGTCCTGGAGCAGGTACGGAAGAGGCGTTGGGCGGTGGGGGTCCCGGGGGGGATTCTCCTCAGAG
+CTTCTCTTTGCTCCTCCTGCCCAGGAGCTGCAGCATAGACCCATTTCTGTGTTCTGGTATTTCATTGTTG
+TGGTTTATGTTACTCTCAGACAACTGTGTGTATATATATATTTCATTTTATCTTGAAGCAAGGATAGCTT
+TAGGAAAACATACAGTCACACATAATACTCAACAGCTAAATTTTTTCTCCTTCATTTTTATTCCTTCAAG
+GGAACTCAGTAAAACACTTGCTGCTGATACTGCTAAGTCGCTTCAGTTGTGTCCGACTCTGTGTGACCCC
+ATAGATGCCAGCCCATTAGGCCCCACGGTCCCTGGGATTCTCCAGGCAAGAACACTGGAGTGGGTTGCCA
+TTTCGTTCTCCAATGCATGAAAGTGAAAAGTGAAAGTGAAGTCGCTCAGTCCTGTCCAACTCTTCACGAC
+TCCATGGACTGCAGCCTACCAGGCTCCTCCGTCCATGGGATTTTCCAGGCAAGAGTACTGGAGTGGGGTG
+CCATTGCCTCCTCCGTCAGTAAAACCCTTGACTCTCGATAATTTCAAAACTGTTAACTATCCTGAAAGGA
+AACATAAGATATTTAAACAT</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1638">
+        <gene_name>OmpA</gene_name>
+        <strain>Pasteurella multocida strain 95010872</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>49182347</ncbi_nucleotide_id>
+        <ncbi_protein_id>49182348</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAT57676.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:236764
+CDD:279698
+CDD:143586</xrefs>
+        <taxonomy_id>747</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>OmpA</protein_name>
+        <protein_pi>9.2</protein_pi>
+        <protein_weight>34678.17</protein_weight>
+        <protein_length>396</protein_length>
+        <protein_note>outer membrane protein A; Reviewed</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|49182347|gb|AY643794.1| Pasteurella multocida strain 95010872 OmpA gene, complete cds
+ATGAAAAAAACAGCAATTGCATTGACTATCGTTGCACTAGCCGTGGCTTCAGTTGCACAAGCTGCACCAC
+AACCTAACACATTCTATGTAGGTGCTAAAGCAGGTTGGGCATCTTTCCACGATGGTTTAAATCAAGCTAA
+ATATCTTGAAGCTCCTGAGGCTACATTTGGCTTTAAACGTAATAGCGTTACTTATGGCGTGTTTGGTGAA
+TATCAAATCACTGATAATTTTGCAGTAGAGTTAGGCTATGATGATTTTGGTCGTGCGAAGTTACGTATGG
+CTGAAAAAGATCAAAAAGCAAAAGATGCAGCAAAACACACTAACCATGGTGCGCATTTAAGCTTAAAAGC
+AAGCTATCCTGTACTTGATGGTTTAGATATTTATGCGCGTGTTGGAGCAGCATTAATTCGCTCAGATTAT
+AAAGTGTATGATCATTCTGACCCAGCAAAATTACCACAATTTAAGAGAACTCATAGCACCCAAGTTTCTC
+CAGTATTCGCAGGTGGTTTAGAATATGCGTTTATGCCTGAGTTAGCTTTACGTGTTGAATACCAATGGGT
+AAACAATGTAGGTAAAGTTAAAGATGTTCTTGGAGAACGCGTAGATTACAGACCAGATATCGGCTCTGTA
+ACAGCTGGTTTCGGTCAATCTGTTTATGTACCAGAAGTTGTGAGCAAAACATTCACATTAAACTCTGATG
+TGACATTCGGTTTCGATAAAGCTGACTTAAAACCAGCTGCACAAAACGTGTTAGATGGTATCTACGGTGA
+AATCGCCCAGTTAAAATCTGCCTCTGTTGCAGTTGCTGGTTACACAGACCGTTTAGGTTCTGATGCATAC
+AACTTAAAATTATCACAACGTCGTGCTGACACTGTGGCTAACTACTTAGTAGCGAAAGGTGTTGCACAAA
+ACGCTATCAGTGCAACAGGTCATGGTGAAGCGAACCCTGTAACTGGTAACAAATGTGATTCAGTTAAAGG
+TCGTAAAGCACTTATCGCATGTTTAGCTGACGATCGTCGCGTTGAAATCGCTGTTAAAGGTAACAAATAA</dna_sequence>
+        <protein_sequence>>AAT57676.1 OmpA [Pasteurella multocida]
+MKKTAIALTIVALAVASVAQAAPQPNTFYVGAKAGWASFHDGLNQAKYLEAPEATFGFKRNSVTYGVFGE
+YQITDNFAVELGYDDFGRAKLRMAEKDQKAKDAAKHTNHGAHLSLKASYPVLDGLDIYARVGAALIRSDY
+KVYDHSDPAKLPQFKRTHSTQVSPVFAGGLEYAFMPELALRVEYQWVNNVGKVKDVLGERVDYRPDIGSV
+TAGFGQSVYVPEVVSKTFTLNSDVTFGFDKADLKPAAQNVLDGIYGEIAQLKSASVAVAGYTDRLGSDAY
+NLKLSQRRADTVANYLVAKGVAQNAISATGHGEANPVTGNKCDSVKGRKALIACLADDRRVEIAVKGNK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>DNA vaccines with OmpH and OmpA was superior to that provided by monovalent DNA vaccines.[Ref2654:Gong et al., 2013]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene943">
+        <gene_name>ompH</gene_name>
+        <strain>Pasteurella multocida strain X-73</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>2745957</ncbi_nucleotide_id>
+        <ncbi_protein_id>2745958</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>AAC02243.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:225744
+CDD:238208</xrefs>
+        <taxonomy_id>747</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>outer membrane protein</protein_name>
+        <protein_pi>8.3</protein_pi>
+        <protein_weight>35024.16</protein_weight>
+        <protein_length>419</protein_length>
+        <protein_note>OmpH</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|2745957|gb|U50907.1|PMU50907 Pasteurella multocida strain X-73 outer membrane protein (ompH) gene, complete cds
+AAATATAAATAAAATTTGGGTGAAGTGAGAAATAGAGGCATTTACCCGATGTTTTTATCTTTGATTTATA
+CTATTTTTGTTTTTAAATCAATGTGTTATGTTTTAAAAGAAAAGTTCTAAAGGAAATAAAATTTTTAATA
+AATGTGATCTTTTTAACACTTTTTTAACCCTGAAAAAACCGCTGATTTTTTGTAACATGTTGTTTTTAAA
+GGATAAGGTAAAAAAAAAGACAAACCTATTTTGTTTTGACAAGAAAACGGAGCTTTGCTATCTTGCATTT
+GCAAAAATGTGCAGACGACTTATCGTCTGTTAGTCGATTTTAGGTTGATTGAGTGATTGGCAACAATCAT
+TTAATCGAATTATAAAACTCCAAAAACAAGGTAGTGATACTATGAAAAAGACAATCGTAGCATTAGCAGT
+CGCAGCAGTAGCAGCAACTTCAGCAAACGCAGCAACAGTTTACAATCAAGACGGTACCAAAGTTGATGTA
+AACGGTTCTTTACGTTTAATCCTTAAAAAAGAAAAAAATGAGCGCGGTGATTTAGTGGATAACGGTTCAC
+GCGTTTCATTCAAAGCATCTCATGATTTAGGCGAAGGCTTAAGCGCATTAGCTTATACAGAACTTCGTTT
+TAGTAAAAATGTACCCGTGCAAGTAAAAGACCAACAAGGTGAAGTAGTACGTGAGTATGAGGTTGAGAAA
+CTTGGTAACAATGTTCACGTAAAACGTCTTTATGCGGGTTTCGCGTATGAAGGTTTAGGTACATTAACAT
+TCGGTAACCAATTAACTATCGGTGATGATGTTGGTCTATCTGACTATACCTATTTCAACAGTGGTATTAA
+TAACCTCCTTTCTAGCGGTGAAAAAGCAATTAACTTTAAATCTGCAGAATTCAATGGTTTCACATTTGGT
+GGTGCGTATGTCTTCTCTGCTGATGCTGACAAACAAGCATTACGTGATGGTCGCGGTTTCGTTGTAGCAG
+GTTTATACAACAGAAAAATGGGTGATGTTGGTTTTGCATTCGAAGCCGGTTATAGCCAAAAATATGTGAA
+ACAAGAAGTTGAACAGAATCCGCCAGCAGCACAAAAAGTGTTTAAAGATGAAAAAGAGAAAGCTTTCATG
+GTGGGTGCTGAGTTATCATATGCTGGTTTAGCGCTTGGTGTTGACTACGCACAATCTAAAGTGACTAACG
+TAGATGGTAAAAAACGTGCTCTTGAAGTGGGTTTAAATTATGACCTTAACGACAGAGCGAAAGTTTACAC
+AGACTTCATCTGGGAAAAAGAAGGTCCTAAAGGTGATGTTACAAGAAACCGTACTGTCGCTGTAGGTTTT
+GGTTACAAACTTCACAAACAAGTGGAAACTTTTGTTGAAGCAGCTTGGGGTAGAGAGAAAGACTCTGATG
+GTGTAACAACAAAAAACAACGTAGTAGGTACAGGTTTACGCGTACACTTCTAATTTTTGTTAGAATCTGA
+AAAAAGCCAGTGTTAAACACTGGCTTTTTATTGGGTTTTATTTGTTTTACTTACAATAAATTAGGATTTT
+GAAAGTCGTTACGCGGTCATCTTTCTCAAAATAATACATATCAATATGTTGCAAGGAATGGATC</dna_sequence>
+        <protein_sequence>>AAC02243.1 outer membrane protein [Pasteurella multocida]
+MKKTIVALAVAAVAATSANAATVYNQDGTKVDVNGSLRLILKKEKNERGDLVDNGSRVSFKASHDLGEGL
+SALAYTELRFSKNVPVQVKDQQGEVVREYEVEKLGNNVHVKRLYAGFAYEGLGTLTFGNQLTIGDDVGLS
+DYTYFNSGINNLLSSGEKAINFKSAEFNGFTFGGAYVFSADADKQALRDGRGFVVAGLYNRKMGDVGFAF
+EAGYSQKYVKQEVEQNPPAAQKVFKDEKEKAFMVGAELSYAGLALGVDYAQSKVTNVDGKKRALEVGLNY
+DLNDRAKVYTDFIWEKEGPKGDVTRNRTVAVGFGYKLHKQVETFVEAAWGREKDSDGVTTKNNVVGTGLR
+VHF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>rOmpH was used in a mice protection study. Mice immunized and challenged intraperitoneally resulted 100% protection against P. multocida whilst mice immunized subcutaneously and challenged intraperitoneally only resulted 80% protection [Ref1802:Tan et al., 2010].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1637">
+        <gene_name>ompH</gene_name>
+        <strain>Pasteurella multocida strain Pm-17</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id>99083557</ncbi_nucleotide_id>
+        <ncbi_protein_id>99083558</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq>ABF66676.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:225744
+CDD:238208</xrefs>
+        <taxonomy_id>747</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>outer membrane protein</protein_name>
+        <protein_pi>9.15</protein_pi>
+        <protein_weight>34480.88</protein_weight>
+        <protein_length>413</protein_length>
+        <protein_note>Outer membrane protein (porin) [Cell wall/membrane/envelope biogenesis]; COG3203</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|99083557|gb|DQ417897.1| Pasteurella multocida strain Pm-17 outer membrane protein (ompH) gene, complete cds
+ATGAAAAAGACAATCGTAGCATTAGCAGTCGCAGCAGTAGCAGCAACTTCAGCAAACGCAGCAACAGTTT
+ACAATCAAGACGGTACAAAAGTTGATGTAAACGGTTCTGTACGTTTACTTCTTAAAAAAGAAAAAGATAT
+GCGTGGTGATTTAATTGATAACGGTTCACGCGTTTCTTTCAAAGCATCTCATGACTTAGGTGAAGGCTTA
+AGCGTATTAGGTTATGCAGAACTTCGTTTTAGTAAAGATGTGAAAGATAAAGAGGGTAAAGTTAACCAAC
+CAATCGGTAACGAAGTTCATGCTAAACGTCTTTATGCGGGTTTTGCGTATGAAGGTTTAGGTACATTAAC
+TTTTGGTAACCAATTAACAATTGGTGATGATGTTGGTGTGTCTGATTACACTTATTTTAACAGTGGTATC
+AATGGCGTACTTATTACTAGTGGTCAAAAAGCAATTAACTTCAAATCAGCAGAGTTCAACGGTTTCACAT
+TTGGTGGTGCGTATGTGTTCTCAGGCGATGCAAACAAAGATGCATTACGTGATGGTCGCGGTTTCGTAGT
+AGCAGGTTTATACAACAGACAAATCGGTGATGTTGGTTTTGCATTCGAAGCAGGCTATAGCCAAAAATAT
+GTAAAACAGAAAGTTGAACAACCTCAGCCTTTACCTCCTGGTCAAGTAGAGCGTTTCAAAGATGAAAAAG
+AAAAAGCTTTCTTGGTCGGTGCAGAATTATCGTACGCTGGTTTAGCGCTTGGTGTTGACTACGCACAATC
+TAAAGTGACTAACGTAGATGGTAAAAAACGTGCACTTGAAGTGGGTTTAAACTATGACCTTAATGATAAA
+GCGAAAGTTTATACAGACTTCATCTGGGAAAAAGAAGGTCCTAAAGGTGATGTTGAAAGAACTCGCACTG
+TAGCTGTAGGTTTTGGTTACAAACTTCACAAACAAGTTGAAACCTTTGTTGAAGGTGCTTGGGGAAGAAC
+AAAAGATGCAGATGGTAAAACAACAAAAGATAATGTAGTTGGTACAGGTTTACGCGTACACTTCTAA</dna_sequence>
+        <protein_sequence>>ABF66676.1 outer membrane protein [Pasteurella multocida]
+MKKTIVALAVAAVAATSANAATVYNQDGTKVDVNGSVRLLLKKEKDMRGDLIDNGSRVSFKASHDLGEGL
+SVLGYAELRFSKDVKDKEGKVNQPIGNEVHAKRLYAGFAYEGLGTLTFGNQLTIGDDVGVSDYTYFNSGI
+NGVLITSGQKAINFKSAEFNGFTFGGAYVFSGDANKDALRDGRGFVVAGLYNRQIGDVGFAFEAGYSQKY
+VKQKVEQPQPLPPGQVERFKDEKEKAFLVGAELSYAGLALGVDYAQSKVTNVDGKKRALEVGLNYDLNDK
+AKVYTDFIWEKEGPKGDVERTRTVAVGFGYKLHKQVETFVEGAWGRTKDADGKTTKDNVVGTGLRVHF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>DNA vaccines with OmpH and OmpA was superior to that provided by monovalent DNA vaccines.[Ref2654:Gong et al., 2013]</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1721">
+		<reference_name>Dagleish et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Dagleish MP, Hodgson JC, Ataei S, Finucane A, Finlayson J, Sales J, Parton R, Coote JG</authors>
+		<title>Safety and protective efficacy of intramuscular vaccination with a live aroA derivative of Pasteurella multocida B:2 against experimental hemorrhagic septicemia in calves</title>
+		<year>2007</year>
+		<volume>75</volume>
+		<issue>12</issue>
+		<pages>5837-5844</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2654">
+		<reference_name>Gong et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gong Q, Qu N, Niu M, Qin C, Cheng M, Sun X, Zhang A</authors>
+		<title>Immune responses and protective efficacy of a novel DNA vaccine encoding outer membrane protein of avian Pasteurella multocida</title>
+		<year>2013</year>
+		<volume>152</volume>
+		<issue>3-4</issue>
+		<pages>317-324</pages>
+		<journal_book_name>Veterinary immunology and immunopathology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1589">
+		<reference_name>Harper et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Harper M, Boyce JD, Adler B</authors>
+		<title>Pasteurella multocida pathogenesis: 125 years after Pasteur</title>
+		<year>2006</year>
+		<volume>265</volume>
+		<issue>1</issue>
+		<pages>1-10</pages>
+		<journal_book_name>FEMS microbiology letters</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1802">
+		<reference_name>Tan et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tan HY, Nagoor NH, Sekaran SD</authors>
+		<title>Cloning, expression and protective capacity of 37 kDa outer membrane protein gene (ompH) of Pasteurella multocida serotype B:2</title>
+		<year>2010</year>
+		<volume>27</volume>
+		<issue>3</issue>
+		<pages>430-441</pages>
+		<journal_book_name>Tropical biomedicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1588">
+		<reference_name>Wiki: P. multocida</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Pasteurella multocida</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Pasteurella_multocida</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

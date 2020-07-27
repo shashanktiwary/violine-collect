@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen220">
+		<pathogen_name>African Swine Fever Virus</pathogen_name>
+		<taxon_id>10497</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name>African Swine Fever</disease_name>
+		<protective_immunity refs="reference2097">Protective immunity against ASFV is not fully understood. Although ASFV infection induces small proportion of neutralizing antibodies against some virion proteins, this protection is not enough for viral challenge. Cellular immunity also plays an important role in immune protection against ASFV infection, specifically, cell activity of CD8 lymphocytes and natural killer cells (NK). Cross-protection has been also demonstrated by challenging infected animals with homologous isolates (Sanchez-Vizcaino et al., 2012). A safe and effective commercial vaccine does not exist yet.</protective_immunity>
+		<host_range refs="reference2097">Wild pigs, wild boars, domestic pigs, ticks (Sanchez-Vizcaino et al., 2012)</host_range>
+		<introduction refs="reference2097">African swine fever virus (ASFV) was first described by Montgomery in Kenya in 1921. Since then, many African, European and American countries have been affected by the disease. It is a very complex and large enveloped DNA virus with a genome of 170–190 kbp. It is classified as a unique member of the Asfarviridae family, genus Asfivirus.  The virus presents high genetic and antigenic variability, with 22 different genotypes described based on the p72 sequences.  African swine fever is considered a haemorrhagic disease due to the typical haemorrhagic symptoms of the hyperacute and acute forms of the diseases. However, chronic and asymptomatic forms of the disease may also be presented without these characteristic symptoms.  African swine fever clinical signs may vary from a hyperacute form, with 100% mortality from days 4–7 post-infection and typical haemorrhagic symptoms, to a less common asymptomatic and chronic form that can turn animals into carriers (Sanchez-Vizcaino et al., 2012).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine3289">
+		<vaccine_name>African Swine Fever Virus 9GL mutant vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004284</vo_id>
+		<type>Live, attenuated vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering844" gene_id="gene1100">
+			<type>Gene mutation</type>
+			<description refs="reference2098">This 9GL mutant is from African Swine Fever Virus Mal (Lewis et al., 2000).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1116" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs="reference2098">A 9GL mutant is attenuated in swine (Lewis et al., 2000).</persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2098">A 9GL mutant induces significant protection in swine from challenge with wild type ASFV (Lewis et al., 2000).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4129">
+		<vaccine_name>BacMam-sHAPQ</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004655</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1732" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3111">The protective potential of this recombinant vaccine candidate was tested by a homologous sublethal challenge with ASFV following immunization. Four out of six immunized pigs remained viremia-free after ASFV infection, while the other two pigs showed similar viremic titres to control animals (Argilaguet et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1100">
+        <gene_name>9GL</gene_name>
+        <strain>African swine fever virus Mal</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>6759635</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:194250</xrefs>
+        <taxonomy_id>10497</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>Mal-9GL protein</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length>119</protein_length>
+        <protein_note>pathogenic Ornithodoris tick isolate Malawi Lil-20/1 (1983), Chalaswa, Malawi</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>gi|6759635|gb|AAF27970.1|AF081174_1 Mal-9GL protein [African swine fever virus]
+MLHWGPKFWRTLHLYAIFFSDTPGWKEKYEAIQWILNFIESLPCTMCRHHAFSYLTKNPLTLNNSEDFQY
+WTFAFHNNVNKRLNKKIISWSEYKNIYEQSILNTIEYGKTDFIGAWSSL</protein_sequence>
+        <phi_function>Virmugen</phi_function>
+        <phi_annotation>A 9GL mutant of African Swine Fever Virus is attenuated in swine and induces significant protection from challenge with wild type ASFV [Ref2098:Lewis et al., 2000].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2522">
+		<reference_name>Argilaguet et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Argilaguet JM, PÃ©rez-MartÃ­n E, Gallardo C, Salguero FJ, Borrego B, Lacasta A, Accensi F, DÃ­az I, NofrarÃ­as M, Pujols J, Blanco E, PÃ©rez-Filgueira M, Escribano JM, RodrÃ­guez F</authors>
+		<title>Enhancing DNA immunization by targeting ASFV antigens to SLA-II bearing cells</title>
+		<year>2011</year>
+		<volume>29</volume>
+		<issue>33</issue>
+		<pages>5379-5385</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3111">
+		<reference_name>Argilaguet et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Argilaguet JM, Pérez-Martín E, López S, Goethe M, Escribano JM, Giesow K, Keil GM, Rodríguez F</authors>
+		<title>BacMam immunization partially protects pigs against sublethal challenge with African swine fever virus</title>
+		<year>2013</year>
+		<volume>98</volume>
+		<issue>1</issue>
+		<pages>61-65</pages>
+		<journal_book_name>Antiviral research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5012">
+		<reference_name>Burmakina et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Burmakina G, Malogolovkin A, Tulman ER, Zsak L, Delhon G, Diel DG, Shobogorov NM, Morgunov YP, Morgunov SY, Kutish GF, Kolbasov D, Rock DL</authors>
+		<title>African swine fever virus serotype-specific proteins are significant protective antigens for African swine fever</title>
+		<year>2016</year>
+		<volume>97</volume>
+		<issue>7</issue>
+		<pages>1670-1675</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5001">
+		<reference_name>Gim�nez-Lirola et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gim�nez-Lirola LG, Mur L, Rivera B, Mogler M, Sun Y, Lizano S, Goodell C, Harris DL, Rowland RR, Gallardo C, S�nchez-Vizca�no JM, Zimmerman J</authors>
+		<title>Detection of African Swine Fever Virus Antibodies in Serum and Oral Fluid Specimens Using a Recombinant Protein 30 (p30) Dual Matrix Indirect ELISA</title>
+		<year>2016</year>
+		<volume>11</volume>
+		<issue>9</issue>
+		<pages>e0161230</pages>
+		<journal_book_name>PloS one</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5015">
+		<reference_name>Heimerman et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Heimerman ME, Murgia MV, Wu P, Lowe AD, Jia W, Rowland RR</authors>
+		<title>Linear epitopes in African swine fever virus p72 recognized by monoclonal antibodies prepared against baculovirus-expressed antigen</title>
+		<year>2018</year>
+		<volume>30</volume>
+		<issue>3</issue>
+		<pages>406-412</pages>
+		<journal_book_name>Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2098">
+		<reference_name>Lewis et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lewis T, Zsak L, Burrage TG, Lu Z, Kutish GF, Neilan JG, Rock DL</authors>
+		<title>An African swine fever virus ERV1-ALR homologue, 9GL, affects virion maturation and viral growth in macrophages and viral virulence in swine</title>
+		<year>2000</year>
+		<volume>74</volume>
+		<issue>3</issue>
+		<pages>1275-1285</pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5025">
+		<reference_name>Lokhandwala et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lokhandwala S, Waghela SD, Bray J, Martin CL, Sangewar N, Charendoff C, Shetti R, Ashley C, Chen CH, Berghman LR, Mwangi D, Dominowski PJ, Foss DL, Rai S, Vora S, Gabbert L, Burrage TG, Brake D, Neilan J, Mwangi W</authors>
+		<title>Induction of Robust Immune Responses in Swine by Using a Cocktail of Adenovirus-Vectored African Swine Fever Virus Antigens</title>
+		<year>2016</year>
+		<volume>23</volume>
+		<issue>11</issue>
+		<pages>888-900</pages>
+		<journal_book_name>Clinical and vaccine immunology : CVI</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2097">
+		<reference_name>Sanchez-Vizcaino et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sanchez-Vizcaino JM, Mur L, Martinez-Lopez B</authors>
+		<title>African Swine Fever: An Epidemiological Update</title>
+		<year>2012</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name>Transboundary and emerging diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

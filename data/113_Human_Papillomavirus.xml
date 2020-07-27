@@ -1,0 +1,1464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen54">
+		<pathogen_name>Human Papillomavirus</pathogen_name>
+		<taxon_id>10566</taxon_id>
+		<pathogenesis refs="reference1549">HPV infection is limited to the basal cells of stratified epithelium, the only tissue in which they replicate.The virus can not bind to live tissue; instead it infects epithelial tissues through micro-abrasions or other epithelial trauma that exposes segments of the basement membrane.The infectious process is slow, taking 12–24 h for initiation of transcription. It's believed that involved antibodies play a major neutralizing role while the virions still reside on the basement membrane and cell surfaces (Wiki: HPV).</pathogenesis>
+		<disease_name>HPV infection</disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference728 reference729">Human Papilloma Virus (HPV) is a sexually transmitted virus. It is usually found in the genital tract and causes various lesions at the mucosae of both men and women. It is considered as a causative factor of cervical cancer even if all women infected by HPV will not develop the disease (Panagiotis et al., 2008). HPV) infection is the most common sexually transmitted infection in the USA. It has been estimated suggest that more than 80% of sexually active women will have acquired genital HPV by age 50 years (Huang, 2008).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine740">
+		<vaccine_name>Cervarix</vaccine_name>
+		<proper_name>Human Papillomavirus Bivalent (Types 16 and 18) Vaccine, Recombinant</proper_name>
+		<brand_name>Cervarix</brand_name>
+		<manufacturer>GlaxoSmithKline Biologicals</manufacturer>
+		<vo_id>VO_0011559</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">AS04</adjuvant>
+		<storage refs="">Store refrigerated between 2º and 8ºC (36º and 46ºF). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference916">prepared by combining the adsorbed VLPs of each HPV type together with the AS04 adjuvant system in sodium chloride, sodium dihydrogen phosphate dihydrate, and water for Injection (FDA: Cevarix).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine337">
+		<vaccine_name>Gardasil</vaccine_name>
+		<proper_name>Human Papillomavirus Quadrivalent (Types 6, 11, 16, 18) Vaccine, Recombinant</proper_name>
+		<brand_name>Gardasil</brand_name>
+		<manufacturer>Merck &amp; Co., Inc.</manufacturer>
+		<vo_id>VO_0000049</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #0002)</location_licensed>
+		<description refs="reference727 reference729">Indication: Vaccination in females 9 to 26 years of age for prevention of the following diseases caused by Human Papillomavirus (HPV) Types 6, 11, 16, and 18: cervical cancer, and genital warts (condyloma acuminata), and the following precancerous or dysplastic lesions: cervical adenocarcinoma in situ (AIS), cervical intraepithelial neoplasia (CIN) grade 2 and grade 3, vulvar intraepithelial neoplasia (VIN) grade 2 and grade 3, vaginal intraepithelial neoplasia (VaIN) grade 2 and grade 3, cervical intraepithelial neoplasia (CIN) grade 1 (FDA: Gardasil). In June 2006, the US Food and Drug Administration licensed this first vaccine to prevent cervical cancers and other diseases in women. This quadrivalent vaccine protects against HPV-6, HPV-11, HPV-16, and HPV-18, which are responsible for 70% of cervical cancers and 90% of genital warts (Huang, 2008).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">GARDASIL should be refrigerated at 2 to 8 degrees Celcius.  Do not freeze.  Protect from light.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference727">GARDASIL is a non-infectious recombinant quadrivalent vaccine prepared from the purified virus-like particles (VLPs) of the major capsid (L1) protein of HPV Types 6, 11, 16, and 18. The L1 proteins are produced by separate fermentations in recombinant Saccharomyces cerevisiae and self-assembled into VLPs. The fermentation process involves growth of S. cerevisiae on chemically-defined fermentation media which include vitamins, amino acids, mineral salts, and carbohydrates. The VLPs are released from the yeast cells by cell disruption and purified by a series of chemical and physical methods. The purified VLPs are adsorbed on preformed aluminum-containing adjuvant (Amorphous Aluminum Hydroxyphosphate Sulfate). The quadrivalent HPV VLP vaccine is a sterile liquid suspension that is prepared by combining the adsorbed VLPs of each HPV type and additional amounts of the aluminum-containing adjuvant and the final purification buffer. GARDASIL is a sterile suspension for intramuscular administration (FDA: Gardasil).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Virus-like particles (VLPs) of the major capsid (L1) protein of HPV Types 6, 11, 16, and 18.</antigen>
+		<host_response host_response_id="host_response425" host_id="host2">
+			<immune_response refs="reference727">In clinical studies it was discovered that around 99% of girls and women who were immunized with GARDASIL became anti-HPV 6, anti-HPV 11, anti-HPV 16 and anti-HPV 18 seropositive by 1 month after the third and final dose(FDA: Gardasil).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference727">In 5 clinical trials, subjects were administered with GARDASIL or AAHS (Amorphous Aluminum Hydroxyphosphate) control or saline placebo.  The subjects included 5088 girls and women ages 9 to 26 years (FDA: Gardasil).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="">Most common side effect of immunization was headache.  Other side effects include: fever, nausea, dizziness, injection site pain and swelling.</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5546">
+		<vaccine_name>Gardasil 9</vaccine_name>
+		<proper_name>Human Papillomavirus 9-valent Vaccine, Recombinant</proper_name>
+		<brand_name>Gardasil 9</brand_name>
+		<manufacturer>Merck &amp; Co., Inc.</manufacturer>
+		<vo_id></vo_id>
+		<type>Subunit vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA, Canada</location_licensed>
+		<description refs="">9-valent derivative of Gardasil</description>
+		<adjuvant refs="">AAHSA</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3384">
+		<vaccine_name>Human papillomavirus DNA vaccine CRT/E7 DNA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004331</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCDNA3 [Ref2170:Cheng et al., 2001]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering933" gene_id="gene509">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2170">Vector pCDNA3 expressed E7 protein of HPV 16 and 18 (Cheng et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1191" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2170">100% of mice receiving CRT/E7 DNA vaccination remained tumor-free 60 days after TC-1 challenge. In contrast, all of the unvaccinated mice and mice receiving plasmid without insert, CRT, or E7 DNA developed tumors within 15 days after tumor challenge (Cheng et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3388">
+		<vaccine_name>Human papillomavirus DNA vaccine E7IR</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004332</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>APL023 [Ref2173:Brinkman et al., 2007]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering935" gene_id="gene509">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2173">Vector APL023expressed the E7 gene (Brinkman et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1192" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2173">Vaccination with the modified E7IR construct was able to significantly reduce tumor volume and enhance survival in both prophylactic and therapeutic experiments in mice compared to the WT E7 gene.  Vaccination with E7IR also prevented tumor formation; after challenge with tumor cells, by day 33 all naïve and vector vaccinated mice were tumor bearing, 3/5 mice vaccinated with the WT construct were tumor bearing and none of the animals vaccinated with the E7IR construct were tumor bearing. As a result, vaccination with the E7IR construct promoted 100% survival in these mice to 57 days (Brinkman et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3389">
+		<vaccine_name>Human papillomavirus DNA vaccine E7SH DNA</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004333</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCDNA3 [Ref2174:Osen et al., 2001]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering936" gene_id="gene509">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2174">Vector pCDNA3 expressed the E7 oncogene of the human papillomavirus type 16 (HPV 16) (Osen et al., 2001).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1193" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2174">Immunization of C57BL/6 mice with E7SH DNA induced E7-specific CTL and also conveyed protection against E7-positive syngeneic tumor cells.  Mice were challenged with 2 doses of TC-1 cells 100 days apart, and there was no tumor growth in any of the mice up to 80 days post-rechallenge, showing that a single injection of E7SH DNA had induced a long-lasting protective immunity (Osen et al., 2001).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3785">
+		<vaccine_name>Human papillomavirus DNA vaccine hCRTE6E7L2 DNA encoding CRT linked to E6, E7 and L2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004475</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pNGVL4a vector (National Gene Vector lab) [Ref2412:Kim et al., 2008]</vector>
+		<route>Gene gun</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Gene gun</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1319" gene_id="gene511">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2412">Vector pNGVL4a vector (National Gene Vector lab) expressed human calreticulin (CRT) linked to HPV16 early proteins, E6 and E7 and the late protein L2 (hCRTE6E7L2) (Kim et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1320" gene_id="gene509">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2412">Vector pNGVL4a vector (National Gene Vector lab) expressed human calreticulin (CRT) linked to HPV16 early proteins, E6 and E7 and the late protein L2 (hCRTE6E7L2) (Kim et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1321" gene_id="gene510">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference2412">Vector pNGVL4a vector (National Gene Vector lab) expressed human calreticulin (CRT) linked to HPV16 early proteins, E6 and E7 and the late protein L2 (hCRTE6E7L2) (Kim et al., 2008).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering1322" gene_id="gene1386">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2412">Vector pNGVL4a vector (National Gene Vector lab) expressed human calreticulin (CRT) linked to HPV16 early proteins, E6 and E7 and the late protein L2 (hCRTE6E7L2) (Kim et al., 2008).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1212" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2412">Immunization with DNA vaccines expressing hCRTE6E7 and hCRTE6E7L2 induced a higher percentage of tumor-free mice compared to immunization with the other DNA vaccines (Kim et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3383">
+		<vaccine_name>Human papillomavirus DNA vaccine pC16-L1 encoding L1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004330</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCDNA3 [Ref2169:Rocha-Zavaleta et al., 2002]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering931" gene_id="gene512">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2169">Vector pCDNA3 expressed L1 (Rocha-Zavaleta et al., 2002).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1190" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2169">Mice were challenged with a syngeneic melanoma cell line, engineered to express the HPV16-L1 protein, tumours in vaccinated animals showed slower growth rate, correlated directly with a longer survival of mice.  The results suggest that the L1-based DNA vaccine may be useful for the prevention of primary infections by HPV16 (Rocha-Zavaleta et al., 2002).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3380">
+		<vaccine_name>Human papillomavirus DNA vaccine Pe7(pcDNA3-Sig/sE7/LAMP) encoding E7</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004329</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pcDNA3 [Ref2167:Sin, 2009]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering928" gene_id="gene509">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2167">Vector pcDNA3 expressed HPV oncogenic proteins E7 (Sin, 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1189" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2167">Animals immunized with pE7 alone showed almost complete protection from TC-1 tumour challenge. However, animals immunized with pE7 plus pIL-12 displayed a complete loss of antitumour resistance in a manner similar to control groups (Sin, 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine981">
+		<vaccine_name>Human papillomavirus DNA vaccine pNGVL4a-E6/opt</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011480</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pNGVL4a</vector>
+		<route>Intradermal injection (i.d.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intradermal injection (i.d.)</route>
+		<antigen refs="">Human papillomavirus E6</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering465" gene_id="gene511">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1121">To generate pNGVL4a-E6, E6 was isolated from pcDNA3-E6 and cloned into pNGVL4a vector. To generate pNGVL4a-E6/opt, codonoptimized E6 synthesized by GenScript Corporation (Piscataway, NJ) was cloned into EcoRI/BamHI of pNGVL4a vector. The DNA and amino acid sequences of the wild-type E6 gene as well as the codon-optimized E6 were fully sequenced (Lin et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response736" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1121">Gold particles coated with pNGVL4a, pNGVL4a-E6 or pNGVL4a-E6/opt were delivered to the shaved abdominal regions of mice by using a helium-driven gene gun (Bio-Rad Laboratories Inc., Hercules, Calif.) with a discharge pressure of 400 lb/in^2. Mice were immunized with 2 lg of the DNA vaccine and received two boosts with the same dose at 1-week interval. Splenocytes were harvested 1 week after the last vaccination (Lin et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1121">C57BL/6 mice vaccinated with pNGVL4a-E6/opt are able to generate potent protective and therapeutic antitumor effects against challenge with E6-expressing tumor cell line, TC-1 of HPV (Lin et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1121">One week after the last vaccination, mice were challenged with 5 x10^4 TC-1 tumor cells mouse subcutaneously in the right leg and monitored once a week by inspection and palpation (Lin et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3379">
+		<vaccine_name>Human papillomavirus DNA vaccine VlJns-Ll encoding L1</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004328</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>VlJns [Ref2166:Donnelly et al., 1996]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering927" gene_id="gene512">
+			<type>DNA vaccine construction</type>
+			<description refs="reference2166">Vector VlJns expressed the major viral capsid protein L1 (Donnelly et al., 1996).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1188" host_id="host6">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000286</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2166">Immunization with plasmid DNA encoding L1 elicited conformationally specific neutralizing antibodies and provided immunity against papilloma formation upon challenge with CRPV (Donnelly et al., 1996).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine986">
+		<vaccine_name>Human papillomavirus E7 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011395</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Freund's incomplete adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">Human papillomavirus E7</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering470" gene_id="gene509">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1118">An 87-bp DNA fragment coding for the HPV16 E7 peptide38–61 was amplified by PCR from pHPV-16.  The E738–61 24-residue peptide, named E7p, and the E749–57 CTL epitope were synthesized in Bioasia Corporation (Shanghai, China).  E. coli BL21 (DE3) pLysS cells, transformed with E7p/mcIgG-pET21a, were cultured overnight in 6 ml ZB medium. A 300 ml of LB medium was inoculated with the 6 ml ZB bacteria culture. After a 2-h rotation at 30°C and 200 rpm, chimeric protein expression was induced by the addition of IPTG (isopropyl-β-D-thiogalactopyranoside) to a concentration of 1.0 mM. After a 9-h induction period, the cells were harvested by centrifugation at 5000 rpm for 5 min at 4°C (Qin et al., 2005).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response740" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1118">Female C57BL/6 mice (8–12 weeks old) were purchased from the Animal Center of Chinese Academy of Medical Science (Beijing, China) and held under specific pathogen-free conditions. Mice were subcutaneously injected either with 200 μg E7p/mIgG. HCCR, 20 μg E7p, 20 μg E7p plus 180 μg mIgG HCCR or 180 μg mIgG HCCR, respectively. All proteins were dissolved in PBS to achieve similar molar levels of E738–61 peptide in all cases. All four immunogens were mixed with an equal volume of Freund's incomplete adjuvant before vaccination. The total injection volume was 200 μl/mouse. All the mice were boosted with the same dose of immunogen solution using the same adjuvant after 3 weeks (Qin et al., 2005).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1118">Researchers combined the HPV16 E7 peptide(38-61) with a murine IgG heavy chain constant region to construct a chimeric protein compound.  The chimeric vaccine candidate was able to effectively protect mice against the challenge of HPV16-positive tumor cells, and to eradicate HPV16-expressing tumors in mice (Qin et al., 2005).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1118">Female C57BL/6 mice (8–12 weeks old) were used for evaluating the protection ability of the chimeric protein against tumor challenge.  Four groups (n = 5) of C57BL/6 mice were immunized twice on Day 0 and 21 with 200 μg E7p/mIgG HCCR, 20 μg E7p, 20 μg E7p plus 180 μg mIgG HCCR or 180 μg mIgG HCCR, respectively. After a week, all mice in the four groups were challenged with 5 × 10^4 TC-1 tumor cells subcutaneously. Following the TC-1 cells challenge, tumor development in mice was monitored every week until the death of mice (Qin et al., 2005).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine988">
+		<vaccine_name>Human papillomavirus L2 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011397</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">GPI-0100 adjuvant or alum</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">Human papillomavirus L2</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering471" gene_id="gene510">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1119">The L2 genes were subcloned into the pET28a vector (Novagen, San Diego, CA) and the resulting hexahistidine (6His)-tagged recombinant polypeptides expressed in E coli BL21 (Rosetta cells; Novagen). The recombinant L2 polypeptides were affinity purified by binding to a nickel–nitrilotriacetic acid column (Qiagen, Valencia, CA) in 8 M urea (using the QiaExpressionist standard purification protocol for denaturing conditions) and then dialyzed in cassettes (Pierce, Rockland, NJ) against phosphate-buffered saline (PBS, 137 mM NaCl, 12 mM phosphate, 2.7 mM KCl) (Jagu et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response742" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1119">Balb/c mice (n=120, from NCI, Frederick, MD) were vaccinated in groups of five mice three times at 2-week intervals by subcutaneous injection with 10 μg of HPV-16 or HPV-45 L1 VLP, or the adjuvants alum (1.3 mg), or 1018 ISS alone (10 μg/mouse), or 25 μg of recombinant L2-based antigens including 11-200 × 1, 11-200 × 3, 1-88 × 1, 11-88 × 5, 17-36 × 22, or HPV-16 L2 17-36 peptide prepared by chemical synthesis (Sigma Aldrich, St Louis, MO) in the formulations indicated: PBS alone, or alum alone (1.3 mg), or 1018 ISS alone (10 μg/mouse), or 25 μg 11-200 × 3 alone, or formulated with alum (1.3 mg), or with 1018 ISS (10 μg/mouse), or with GPI-0100 (at either 50 or 200 μg/mouse), or with GPI-0100 (50 μg/mouse) + Tween-40 (1 mg/mouse), or with alum and 1018 ISS (10 μg/mouse) (Jagu et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1119">Antibody responses of mice (n = 120) and rabbits (n = 23) to vaccination with HPV-16 amino-terminal L2 polypeptides or multitype L2 fusion proteins were compared.  11-200 x 3 formulated in GPI-0100 adjuvant or alum with 1018 ISS protected mice against HPV-16 challenge (reduction in HPV-16 infection vs phosphate-buffered saline control, P &lt; .001) 4 months after vaccination as well as HPV-16 L1 VLPs (Jagu et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1119">All mice were anesthetized, and a patch of skin on their ventral torso was shaved with an electric razor while taking care not to traumatize the epithelium, before challenge by application of approximately 3 × 10^9 HPV-16 pseudovirion particles (100 ng protein) that encapsidated pYLUC, a plasmid carrying a luciferase gene that would be expressed upon pseudoinfection (http://home.ccr.cancer.gov/lco/) in 10 μL 0.6% carboxymethylcellulose (Sigma Aldrich) to the patch of shaved skin on each mouse (Jagu et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4316">
+		<vaccine_name>LM1-2-E7</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004803</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3330">The E7 fragment was amplified with PCR then cloned into the chromosome of L. monocytogenes (Jia et al., 2012).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1776" gene_id="gene509">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3330">The E7 gene is inserted into the vector of Listeria monocytogenes, strain LM1-2 (Jia et al., 2012).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1895" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference3330">Mice were vaccinated in both a prophylactic (where the mice were immunized and then presented with a pathogenic challenge) and therapeutic (where the mice already had tumors and then were injected with the vaccine vector) setting (Jia et al., 2012).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0000287</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3330">The LM1-2-E7 vaccine vector was shown to elicit protection against TC-1 tumor cells in the prophylactic challenges (Jia et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3330">In the prophylactic assay, &quot;mice were challenged with TC-1 cells on day 4 after the second immunization and were observed for tumor development&quot; and in the mice vaccinated with LM1-2-E7, 87.5% showed no signs of a tumor until after day 50 (Jia et al., 2012).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1386">
+        <gene_name>CRTC</gene_name>
+        <strain>Homo sapiens</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1905911</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:306718</xrefs>
+        <taxonomy_id>9606</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>calreticulin</protein_name>
+        <protein_pi>4.06</protein_pi>
+        <protein_weight>46534.41</protein_weight>
+        <protein_length>464</protein_length>
+        <protein_note>constructed at LLNL from flow-sorted chromosomes from hybrid 5HL2-B, which carries chromosome 19 as its only human chromosome</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB51176.1 calreticulin [Homo sapiens]
+MLLSVPLLLGLLGLAVAEPAVYFKEQFLDGDGWTSRWIESKHKSDFGKFVLSSGKFYGDEEKDKGLQTSQ
+DARFYALSASFEPFSNKGQTLVVQFTVKHEQNIDCGGGYVKLFPNSLDQTDMHGDSEYNIMFGPDICGPG
+TKKVHVIFNYKGKNVLINKDIRCKDDEFTHLYTLIVRPDNTYEVKIDNSQVESGSLEDDWDFLPPKKIKD
+PDASKPEDWDERAKIDDPTDSKPEDWDKPEHIPDPDAKKPEDWDEEMDGEWEPPVIQNPEYKGEWKPRQI
+DNPDYKGTWIHPEIDNPEYSPDPSIYAYDNFGVLGLDLWQVKSGTIFDNFLITNDEAYAEEFGNETWGVT
+KAAEKQMKDKQDEEQRLKEEEEDKKRKEEEEAEDKEDDEDKDEDEEDEEDKEEDEEEDVPGQAKDEL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene511">
+        <gene_name>E6</gene_name>
+        <strain>Human papillomavirus type 16</strain>
+        <vo_id>VO_0011107</vo_id>
+        <ncbi_gene_id>1489078</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9627104</ncbi_protein_id>
+        <gene_locus_tag>HpV16gp1</gene_locus_tag>
+        <gene_refseq>AB663688</gene_refseq>
+        <protein_refseq>NP_041325</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>333760</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>7124</gene_start>
+        <gene_end>7600</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>transforming protein E6</protein_name>
+        <protein_pi>8.97</protein_pi>
+        <protein_weight>18789.29</protein_weight>
+        <protein_length>158</protein_length>
+        <protein_note>E6 ORF from 65 to 559; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001526.4:7124-7600 Human papillomavirus type 16, complete genome
+TATGCACCAAAAGAGAACTGCAATGTTTCAGGACCCACAGGAGCGACCCAGAAAGTTACCACAGTTATGC
+ACAGAGCTGCAAACAACTATACATGATATAATATTAGAATGTGTGTACTGCAAGCAACAGTTACTGCGAC
+GTGAGGTATATGACTTTGCTTTTCGGGATTTATGCATAGTATATAGAGATGGGAATCCATATGCTGTATG
+TGATAAATGTTTAAAGTTTTATTCTAAAATTAGTGAGTATAGACATTATTGTTATAGTTTGTATGGAACA
+ACATTAGAACAGCAATACAACAAACCGTTGTGTGATTTGTTAATTAGGTGTATTAACTGTCAAAAGCCAC
+TGTGTCCTGAAGAAAAGCAAAGACATCTGGACAAAAAGCAAAGATTCCATAATATAAGGGGTCGGTGGAC
+CGGTCGATGTATGTCTTGTTGCAGATCATCAAGAACACGTAGAGAAACCCAGCTGTA
+
+</dna_sequence>
+        <protein_sequence>>NP_041325.1 transforming protein E6 [Human papillomavirus type 16]
+MHQKRTAMFQDPQERPRKLPQLCTELQTTIHDIILECVYCKQQLLRREVYDFAFRDLCIVYRDGNPYAVC
+DKCLKFYSKISEYRHYCYSLYGTTLEQQYNKPLCDLLIRCINCQKPLCPEEKQRHLDKKQRFHNIRGRWT
+GRCMSCCRSSRTRRETQL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>C57BL/6 mice vaccinated with pNGVL4a-E6/opt are able to generate potent protective and therapeutic antitumor effects against challenge with E6-expressing tumor cell line, TC-1 of HPV [Ref1121:Lin et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene509">
+        <gene_name>E7</gene_name>
+        <strain>Human papillomavirus type 16</strain>
+        <vo_id>VO_0011105</vo_id>
+        <ncbi_gene_id>1489079</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>9627105</ncbi_protein_id>
+        <gene_locus_tag>HpV16gp2</gene_locus_tag>
+        <gene_refseq>AB663783</gene_refseq>
+        <protein_refseq>NP_041326</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>333760</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>7603</gene_start>
+        <gene_end>7899</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>transforming protein E7</protein_name>
+        <protein_pi>3.97</protein_pi>
+        <protein_weight>10624.95</protein_weight>
+        <protein_length>98</protein_length>
+        <protein_note>E7 ORF from 544 to 858; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001526.4:7603-7899 Human papillomavirus type 16, complete genome
+CATGCATGGAGATACACCTACATTGCATGAATATATGTTAGATTTGCAACCAGAGACAACTGATCTCTAC
+TGTTATGAGCAATTAAATGACAGCTCAGAGGAGGAGGATGAAATAGATGGTCCAGCTGGACAAGCAGAAC
+CGGACAGAGCCCATTACAATATTGTAACCTTTTGTTGCAAGTGTGACTCTACGCTTCGGTTGTGCGTACA
+AAGCACACACGTAGACATTCGTACTTTGGAAGACCTGTTAATGGGCACACTAGGAATTGTGTGCCCCATC
+TGTTCTCAGAAACCATA
+
+</dna_sequence>
+        <protein_sequence>>NP_041326.1 transforming protein E7 [Human papillomavirus type 16]
+MHGDTPTLHEYMLDLQPETTDLYCYEQLNDSSEEEDEIDGPAGQAEPDRAHYNIVTFCCKCDSTLRLCVQ
+STHVDIRTLEDLLMGTLGIVCPICSQKP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Researchers combined the HPV16 E7 peptide(38-61) with a murine IgG heavy chain constant region to construct a chimeric protein compound.  The chimeric vaccine candidate was able to effectively protect mice against the challenge of HPV16-positive tumor cells, and to eradicate HPV16-expressing tumors in mice [Ref1118:Qin et al., 2005].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene512">
+        <gene_name>L1</gene_name>
+        <strain>Human papillomavirus type 16</strain>
+        <vo_id>VO_0011108</vo_id>
+        <ncbi_gene_id>1489082</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1046490004</ncbi_protein_id>
+        <gene_locus_tag>HpV16gp8</gene_locus_tag>
+        <gene_refseq>K02718</gene_refseq>
+        <protein_refseq>NP_041332</protein_refseq>
+        <pdb_id>2R5H</pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>333760</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>4774</gene_start>
+        <gene_end>6291</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>major capsid protein L1</protein_name>
+        <protein_pi>8.38</protein_pi>
+        <protein_weight>53132.12</protein_weight>
+        <protein_length>505</protein_length>
+        <protein_note>major capsid L1 protein; Two structural proteins are involved in papillomavirus capsid formation, a major (L1) and a minor (L2) protein; L1 forms the pentameric assembly unit of the viral shell while L2 mediates several facets of viral entry including endosomal escape after uncoating</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001526.4:4774-6291 Human papillomavirus type 16, complete genome
+GATGTCTCTTTGGCTGCCTAGTGAGGCCACTGTCTACTTGCCTCCTGTCCCAGTATCTAAGGTTGTAAGC
+ACGGATGAATATGTTGCACGCACAAACATATATTATCATGCAGGAACATCCAGACTACTTGCAGTTGGAC
+ATCCCTATTTTCCTATTAAAAAACCTAACAATAACAAAATATTAGTTCCTAAAGTATCAGGATTACAATA
+CAGGGTATTTAGAATACATTTACCTGACCCCAATAAGTTTGGTTTTCCTGACACCTCATTTTATAATCCA
+GATACACAGCGGCTGGTTTGGGCCTGTGTAGGTGTTGAGGTAGGTCGTGGTCAGCCATTAGGTGTGGGCA
+TTAGTGGCCATCCTTTATTAAATAAATTGGATGACACAGAAAATGCTAGTGCTTATGCAGCAAATGCAGG
+TGTGGATAATAGAGAATGTATATCTATGGATTACAAACAAACACAATTGTGTTTAATTGGTTGCAAACCA
+CCTATAGGGGAACACTGGGGCAAAGGATCCCCATGTACCAATGTTGCAGTAAATCCAGGTGATTGTCCAC
+CATTAGAGTTAATAAACACAGTTATTCAGGATGGTGATATGGTTGATACTGGCTTTGGTGCTATGGACTT
+TACTACATTACAGGCTAACAAAAGTGAAGTTCCACTGGATATTTGTACATCTATTTGCAAATATCCAGAT
+TATATTAAAATGGTGTCAGAACCATATGGCGACAGCTTATTTTTTTATTTACGAAGGGAACAAATGTTTG
+TTAGACATTTATTTAATAGGGCTGGTACTGTTGGTGAAAATGTACCAGACGATTTATACATTAAAGGCTC
+TGGGTCTACTGCAAATTTAGCCAGTTCAAATTATTTTCCTACACCTAGTGGTTCTATGGTTACCTCTGAT
+GCCCAAATATTCAATAAACCTTATTGGTTACAACGAGCACAGGGCCACAATAATGGCATTTGTTGGGGTA
+ACCAACTATTTGTTACTGTTGTTGATACTACACGCAGTACAAATATGTCATTATGTGCTGCCATATCTAC
+TTCAGAAACTACATATAAAAATACTAACTTTAAGGAGTACCTACGACATGGGGAGGAATATGATTTACAG
+TTTATTTTTCAACTGTGCAAAATAACCTTAACTGCAGACGTTATGACATACATACATTCTATGAATTCCA
+CTATTTTGGAGGACTGGAATTTTGGTCTACAACCTCCCCCAGGAGGCACACTAGAAGATACTTATAGGTT
+TGTAACATCCCAGGCAATTGCTTGTCAAAAACATACACCTCCAGCACCTAAAGAAGATCCCCTTAAAAAA
+TACACTTTTTGGGAAGTAAATTTAAAGGAAAAGTTTTCTGCAGACCTAGATCAGTTTCCTTTAGGACGCA
+AATTTTTACTACAAGCAGGATTGAAGGCCAAACCAAAATTTACATTAGGAAAACGAAAAGCTACACCCAC
+CACCTCATCTACCTCTACAACTGCTAAACGCAAAAAACGTAAGCTGTA
+
+</dna_sequence>
+        <protein_sequence>>NP_041332.2 major capsid protein L1 [Human papillomavirus type 16]
+MSLWLPSEATVYLPPVPVSKVVSTDEYVARTNIYYHAGTSRLLAVGHPYFPIKKPNNNKILVPKVSGLQY
+RVFRIHLPDPNKFGFPDTSFYNPDTQRLVWACVGVEVGRGQPLGVGISGHPLLNKLDDTENASAYAANAG
+VDNRECISMDYKQTQLCLIGCKPPIGEHWGKGSPCTNVAVNPGDCPPLELINTVIQDGDMVDTGFGAMDF
+TTLQANKSEVPLDICTSICKYPDYIKMVSEPYGDSLFFYLRREQMFVRHLFNRAGTVGENVPDDLYIKGS
+GSTANLASSNYFPTPSGSMVTSDAQIFNKPYWLQRAQGHNNGICWGNQLFVTVVDTTRSTNMSLCAAIST
+SETTYKNTNFKEYLRHGEEYDLQFIFQLCKITLTADVMTYIHSMNSTILEDWNFGLQPPPGGTLEDTYRF
+VTSQAIACQKHTPPAPKEDPLKKYTFWEVNLKEKFSADLDQFPLGRKFLLQAGLKAKPKFTLGKRKATPT
+TSSTSTTAKRKKRKL
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>rAAV5, -8 and -9 vectors expressing an HPV16 L1/E7 fusion gene were generated and applied intranasally for combined prophylactic and therapeutic vaccination of mice.  Vaccination with the rAAV vectors led to a significant protection of animals against a challenge with different HPV tumour cell lines [Ref1122:Nieto et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene510">
+        <gene_name>L2</gene_name>
+        <strain>Human papillomavirus type 16</strain>
+        <vo_id>VO_0011106</vo_id>
+        <ncbi_gene_id>1489081</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1046490003</ncbi_protein_id>
+        <gene_locus_tag>HpV16gp7</gene_locus_tag>
+        <gene_refseq>K02718</gene_refseq>
+        <protein_refseq>NP_041331</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>333760</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>3372</gene_start>
+        <gene_end>4793</gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>minor capsid protein L2</protein_name>
+        <protein_pi>6.31</protein_pi>
+        <protein_weight>47994.02</protein_weight>
+        <protein_length>473</protein_length>
+        <protein_note>L2 ORF from 4133 to 5656; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_001526.4:3372-4793 Human papillomavirus type 16, complete genome
+AATGCGACACAAACGTTCTGCAAAACGCACAAAACGTGCATCGGCTACCCAACTTTATAAAACATGCAAA
+CAGGCAGGTACATGTCCACCTGACATTATACCTAAGGTTGAAGGCAAAACTATTGCTGATCAAATATTAC
+AATATGGAAGTATGGGTGTATTTTTTGGTGGGTTAGGAATTGGAACAGGGTCGGGTACAGGCGGACGCAC
+TGGGTATATTCCATTGGGAACAAGGCCTCCCACAGCTACAGATACACTTGCTCCTGTAAGACCCCCTTTA
+ACAGTAGATCCTGTGGGCCCTTCTGATCCTTCTATAGTTTCTTTAGTGGAAGAAACTAGTTTTATTGATG
+CTGGTGCACCAACATCTGTACCTTCCATTCCCCCAGATGTATCAGGATTTAGTATTACTACTTCAACTGA
+TACCACACCTGCTATATTAGATATTAATAATACTGTTACTACTGTTACTACACATAATAATCCCACTTTC
+ACTGACCCATCTGTATTGCAGCCTCCAACACCTGCAGAAACTGGAGGGCATTTTACACTTTCATCATCCA
+CTATTAGTACACATAATTATGAAGAAATTCCTATGGATACATTTATTGTTAGCACAAACCCTAACACAGT
+AACTAGTAGCACACCCATACCAGGGTCTCGCCCAGTGGCACGCCTAGGATTATATAGTCGCACAACACAA
+CAGGTTAAAGTTGTAGACCCTGCTTTTGTAACCACTCCCACTAAACTTATTACATATGATAATCCTGCAT
+ATGAAGGTATAGATGTGGATAATACATTATATTTTTCTAGTAATGATAATAGTATTAATATAGCTCCAGA
+TCCTGACTTTTTGGATATAGTTGCTTTACATAGGCCAGCATTAACCTCTAGGCGTACTGGCATTAGGTAC
+AGTAGAATTGGTAATAAACAAACACTACGTACTCGTAGTGGAAAATCTATAGGTGCTAAGGTACATTATT
+ATTATGATTTAAGTACTATTGATCCTGCAGAAGAAATAGAATTACAAACTATAACACCTTCTACATATAC
+TACCACTTCACATGCAGCCTCACCTACTTCTATTAATAATGGATTATATGATATTTATGCAGATGACTTT
+ATTACAGATACTTCTACAACCCCGGTACCATCTGTACCCTCTACATCTTTATCAGGTTATATTCCTGCAA
+ATACAACAATTCCTTTTGGTGGTGCATACAATATTCCTTTAGTATCAGGTCCTGATATACCCATTAATAT
+AACTGACCAAGCTCCTTCATTAATTCCTATAGTTCCAGGGTCTCCACAATATACAATTATTGCTGATGCA
+GGTGACTTTTATTTACATCCTAGTTATTACATGTTACGAAAACGACGTAAACGTTTACCATATTTTTTTT
+CAGATGTCTCTTTGGCTGCCTA
+
+</dna_sequence>
+        <protein_sequence>>NP_041331.2 minor capsid protein L2 [Human papillomavirus type 16]
+MRHKRSAKRTKRASATQLYKTCKQAGTCPPDIIPKVEGKTIADQILQYGSMGVFFGGLGIGTGSGTGGRT
+GYIPLGTRPPTATDTLAPVRPPLTVDPVGPSDPSIVSLVEETSFIDAGAPTSVPSIPPDVSGFSITTSTD
+TTPAILDINNTVTTVTTHNNPTFTDPSVLQPPTPAETGGHFTLSSSTISTHNYEEIPMDTFIVSTNPNTV
+TSSTPIPGSRPVARLGLYSRTTQQVKVVDPAFVTTPTKLITYDNPAYEGIDVDNTLYFSSNDNSINIAPD
+PDFLDIVALHRPALTSRRTGIRYSRIGNKQTLRTRSGKSIGAKVHYYYDLSTIDPAEEIELQTITPSTYT
+TTSHAASPTSINNGLYDIYADDFITDTSTTPVPSVPSTSLSGYIPANTTIPFGGAYNIPLVSGPDIPINI
+TDQAPSLIPIVPGSPQYTIIADAGDFYLHPSYYMLRKRRKRLPYFFSDVSLAA
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Antibody responses of mice (n = 120) and rabbits (n = 23) to vaccination with HPV-16 amino-terminal L2 polypeptides or multitype L2 fusion proteins were compared.  11-200 x 3 formulated in GPI-0100 adjuvant or alum with 1018 ISS protected mice against HPV-16 challenge (reduction in HPV-16 infection vs phosphate-buffered saline control, P &gt; .001) 4 months after vaccination as well as HPV-16 L1 VLPs [Ref1119:Jagu et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference2173">
+		<reference_name>Brinkman et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Brinkman JA, Xu X, Kast WM</authors>
+		<title>The efficacy of a DNA vaccine containing inserted and replicated regions of the E7 gene for treatment of HPV-16 induced tumors</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>17</issue>
+		<pages>3437-3444</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2170">
+		<reference_name>Cheng et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Cheng WF, Hung CF, Chai CY, Hsu KF, He L, Ling M, Wu TC</authors>
+		<title>Tumor-specific immunity and antiangiogenesis generated by a DNA vaccine encoding calreticulin linked to a tumor antigen</title>
+		<year>2001</year>
+		<volume>108</volume>
+		<issue>5</issue>
+		<pages>669-678</pages>
+		<journal_book_name>The Journal of clinical investigation</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2399">
+		<reference_name>Chu et al., 2011</reference_name>
+		<reference_type>website</reference_type>
+		<authors>Christina Chu, Robert Parker, John Sunyecz, Javier Morales</authors>
+		<title>Phase I of Human Papillomavirus (HPV) DNA Plasmid (VGX-3100) + Electroporation for CIN 2 or 3</title>
+		<year>2011</year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.clinicaltrials.gov/ct2/show/NCT00685412?term=vgx&amp;rank=1</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2166">
+		<reference_name>Donnelly et al., 1996</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Donnelly JJ, Martinez D, Jansen KU, Ellis RW, Montgomery DL, Liu MA</authors>
+		<title>Protection against papillomavirus with a polynucleotide vaccine</title>
+		<year>1996</year>
+		<volume>173</volume>
+		<issue>2</issue>
+		<pages>314-320</pages>
+		<journal_book_name>The Journal of infectious diseases</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference916">
+		<reference_name>FDA: Cevarix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Cervarix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm186957.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference727">
+		<reference_name>FDA: Gardasil</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Gardasil information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/Cber/products/gardasil.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2168">
+		<reference_name>Henken et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Henken FE, Oosterhuis K, OhlschlÃ¤ger P, Bosch L, Hooijberg E, Haanen JB, Steenbergen RD</authors>
+		<title>Preclinical safety evaluation of DNA vaccines encoding modified HPV16 E6 and E7</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>28</issue>
+		<pages>4259-4266</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference729">
+		<reference_name>Huang, 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Huang CM</authors>
+		<title>Human papillomavirus and vaccination</title>
+		<year>2008</year>
+		<volume>83</volume>
+		<issue>6</issue>
+		<pages>701-706; quiz 706-706</pages>
+		<journal_book_name>Mayo Clinic proceedings. Mayo Clinic</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1119">
+		<reference_name>Jagu et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jagu S, Karanam B, Gambhira R, Chivukula SV, Chaganti RJ, Lowy DR, Schiller JT, Roden RB</authors>
+		<title>Concatenated multitype L2 fusion proteins as candidate prophylactic pan-human papillomavirus vaccines</title>
+		<year>2009</year>
+		<volume>101</volume>
+		<issue>11</issue>
+		<pages>782-792</pages>
+		<journal_book_name>Journal of the National Cancer Institute</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3330">
+		<reference_name>Jia et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Jia Y, Yin Y, Duan F, Fu H, Hu M, Gao Y, Pan Z, Jiao X</authors>
+		<title>Prophylactic and therapeutic efficacy of an attenuated Listeria monocytogenes-based vaccine delivering HPV16 E7 in a mouse model</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>6</issue>
+		<pages>1335-1342</pages>
+		<journal_book_name>International journal of molecular medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1120">
+		<reference_name>Karanam et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Karanam B, Gambhira R, Peng S, Jagu S, Kim DJ, Ketner GW, Stern PL, Adams RJ, Roden RB</authors>
+		<title>Vaccination with HPV16 L2E6E7 fusion protein in GPI-0100 adjuvant elicits protective humoral and cell-mediated immunity</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>7</issue>
+		<pages>1040-1049</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference5014">
+		<reference_name>Khan et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Khan S, Oosterhuis K, Wunderlich K, Bunnik EM, Bhaggoe M, Boedhoe S, Karia S, Steenbergen RDM, Bosch L, Serroyen J, Janssen S, Schuitemaker H, Vellinga J, Scheper G, Zahn R, Custers J</authors>
+		<title>Development of a replication-deficient adenoviral vector-based vaccine candidate for the interception of HPV16- and HPV18-induced infections and disease</title>
+		<year>2017</year>
+		<volume>141</volume>
+		<issue>2</issue>
+		<pages>393-404</pages>
+		<journal_book_name>International journal of cancer</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2412">
+		<reference_name>Kim et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Kim D, Gambhira R, Karanam B, Monie A, Hung CF, Roden R, Wu TC</authors>
+		<title>Generation and characterization of a preventive and therapeutic HPV DNA vaccine</title>
+		<year>2008</year>
+		<volume>26</volume>
+		<issue>3</issue>
+		<pages>351-360</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2165">
+		<reference_name>Klencke et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Klencke B, Matijevic M, Urban RG, Lathey JL, Hedley ML, Berry M, Thatcher J, Weinberg V, Wilson J, Darragh T, Jay N, Da Costa M, Palefsky JM</authors>
+		<title>Encapsulated plasmid DNA treatment for human papillomavirus 16-associated anal dysplasia: a Phase I study of ZYC101</title>
+		<year>2002</year>
+		<volume>8</volume>
+		<issue>5</issue>
+		<pages>1028-1037</pages>
+		<journal_book_name>Clinical cancer research : an official journal of the American Association for Cancer Research</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1121">
+		<reference_name>Lin et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lin CT, Tsai YC, He L, Calizo R, Chou HH, Chang TC, Soong YK, Hung CF, Lai CH</authors>
+		<title>A DNA vaccine encoding a codon-optimized human papillomavirus type 16 E6 gene enhances CTL response and anti-tumor activity</title>
+		<year>2006</year>
+		<volume>13</volume>
+		<issue>4</issue>
+		<pages>481-488</pages>
+		<journal_book_name>Journal of biomedical science</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1122">
+		<reference_name>Nieto et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Nieto K, Kern A, Leuchs B, Gissmann L, Müller M, Kleinschmidt JA</authors>
+		<title>Combined prophylactic and therapeutic intranasal vaccination against human papillomavirus type-16 using different adeno-associated virus serotype vectors</title>
+		<year>2009</year>
+		<volume>14</volume>
+		<issue>8</issue>
+		<pages>1125-1137</pages>
+		<journal_book_name>Antiviral therapy</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2164">
+		<reference_name>OhlschlÃ¤ger et al., 2011</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>OhlschlÃ¤ger P, Spies E, Alvarez G, Quetting M, Groettrup M</authors>
+		<title>The combination of TLR-9 adjuvantation and electroporation-mediated delivery enhances in vivo antitumor responses after vaccination with HPV-16 E7 encoding DNA</title>
+		<year>2011</year>
+		<volume>128</volume>
+		<issue>2</issue>
+		<pages>473-481</pages>
+		<journal_book_name>International journal of cancer. Journal international du cancer</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2174">
+		<reference_name>Osen et al., 2001</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Osen W, Peiler T, OhlschlÃ¤ger P, Caldeira S, Faath S, Michel N, MÃ¼ller M, Tommasino M, Jochmus I, Gissmann L</authors>
+		<title>A DNA vaccine based on a shuffled E7 oncogene of the human papillomavirus type 16 (HPV 16) induces E7-specific cytotoxic T cells but lacks transforming activity</title>
+		<year>2001</year>
+		<volume>19</volume>
+		<issue>30</issue>
+		<pages>4276-4286</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference728">
+		<reference_name>Panagiotis et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Panagiotis C, Efthimios D, Konstantinos P, George C</authors>
+		<title>Human papilloma virus: diagnostic, treatment and preventive issues</title>
+		<year>2008</year>
+		<volume>47</volume>
+		<issue>1</issue>
+		<pages>35-38</pages>
+		<journal_book_name>Akusherstvo i ginekologiia</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4989">
+		<reference_name>Pouyanfard et al., 2018</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Pouyanfard S, Spagnoli G, Bulli L, Balz K, Yang F, Odenwald C, Seitz H, Mariz FC, Bolchi A, Ottonello S, M�ller M</authors>
+		<title>Minor Capsid Protein L2 Polytope Induces Broad Protection against Oncogenic and Mucosal Human Papillomaviruses</title>
+		<year>2018</year>
+		<volume>92</volume>
+		<issue>4</issue>
+		<pages></pages>
+		<journal_book_name>Journal of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1118">
+		<reference_name>Qin et al., 2005</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Qin Y, Wang XH, Cui HL, Cheung YK, Hu MH, Zhu SG, Xie Y</authors>
+		<title>Human papillomavirus type 16 E7 peptide(38-61) linked with an immunoglobulin G fragment provides protective immunity in mice</title>
+		<year>2005</year>
+		<volume>96</volume>
+		<issue>2</issue>
+		<pages>475-483</pages>
+		<journal_book_name>Gynecologic oncology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2169">
+		<reference_name>Rocha-Zavaleta et al., 2002</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Rocha-Zavaleta L, Alejandre JE, Garcia-Carranca A</authors>
+		<title>Parenteral and oral immunization with a plasmid DNA expressing the human papillomavirus 16-L1 gene induces systemic and mucosal antibodies and cytotoxic T lymphocyte responses</title>
+		<year>2002</year>
+		<volume>66</volume>
+		<issue>1</issue>
+		<pages>86-95</pages>
+		<journal_book_name>Journal of medical virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2167">
+		<reference_name>Sin, 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Sin JI</authors>
+		<title>Suppression of antitumour protective cytotoxic T lymphocyte responses to a human papillomavirus 16 E7 DNA vaccine by coinjection of interleukin-12 complementary DNA: involvement of nitric oxide in immune suppression</title>
+		<year>2009</year>
+		<volume>128</volume>
+		<issue>1 Suppl</issue>
+		<pages>e707-717</pages>
+		<journal_book_name>Immunology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1549">
+		<reference_name>Wiki: HPV</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Human papillomavirus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Human_papillomavirus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

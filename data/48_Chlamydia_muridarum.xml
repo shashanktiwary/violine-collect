@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen113">
+		<pathogen_name>Chlamydia muridarum</pathogen_name>
+		<taxon_id>83560</taxon_id>
+		<pathogenesis refs=""></pathogenesis>
+		<disease_name></disease_name>
+		<protective_immunity refs=""></protective_immunity>
+		<host_range refs="reference1426">C. muridarum naturally infects only members of the family Muridae (which includes both mice and hamsters) (Wiki: Chlamydia muridarum).</host_range>
+		<introduction refs="reference1426">Chlamydia muridarum is an intracellular bacterial species that at one time belonged to Chlamydia trachomatis. However, C. trachomatis naturally only infects humans and C. muridarum naturally infects only members of the family Muridae (includes both mice and hamsters, Alderton, 1996).  Two strains of Chlamydia muridarum, MoPn (originally named Nigg) and SFPD, have been isolated from mice and hamsters. Glycogen production by both strains has been demonstrated, although it is difficult to detect glycogen in MoPn (Moulder et al., 1984). Chlamydia muridarum MoPn binds mAbs recognizing Chlamydia trachomatis MOMP vs4 core epitope (T)LNPT(IA). DNA sequence analysis indicates that these mAbs should recognize SFPD and that Chlamydia trachomatis B-serogroup mAbs specific for the vs4 epitope IAGAG should recognize SFPD (Wiki: Chlamydia muridarum).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine864">
+		<vaccine_name>C. muridarum DNA vaccine encoding TC0439</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011533</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI30</vector>
+		<route>Subcutaneous</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous</route>
+		<antigen refs="">C. muridarum TC0439 adherence factor</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering335" gene_id="gene432">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1057">The C. muridarum genomic expression library was created by ligating fragments of C. muridarum DNA into the novel expression vector, pCI30.  Eighteen recombinant C. muridarum clones were selected for immunizations and these were grown on LB agar.  Cultures were grown for 18 h at 37 °C with shaking at 225 rpm. Following this, 1 mL of the starter culture was used to inoculate 80 mL of selective LB broth and the cultures again incubated for 18 h at 37 °C with vigorous shaking. DNA was then extracted from cell pellets using Roche Genopure Plasmid Midi kits (Roche Diagnostics Australia Pty Ltd.) (McNeilly et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response623" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1057">Mice were anaesthetised via inhalation of 4% isofluorane (Abbott Australasia, NSW, Australia) and the abdominal fur of each mouse was removed with electric clippers. The barrel liner of the Helios gene gun was held directly against the abdominal skin and a DNA/microcarrier shot delivered using a helium pressure of 400 psi. Each animal received two shots with the appropriate DNA/microcarrier preparation, resulting in administration of approximately 2 μg of DNA. Each mouse was immunized three times at 3-week intervals.  Positive control mice received 2.5 mg of medroxyprogesterone acetate (Ralovera) (Kenral Division of Pharmacia Australia Pty Limited, Rydalmere, Australia) subcutaneously 7 days prior to receiving a dose of 5 × 10^4 live C. muridarum elementary bodies (McNeilly et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1057">The groups of female BALB/c mice immunized intra-abdominally with TC0439 showed significant levels of protection when compared to negative control animals (McNeilly et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1057">All animals were challenged intra-vaginally with 5 × 10^4 live C. muridarum elementary bodies, 10 days following the final gene gun immunization, as described for the positive control mice. To assess the level of infection, cervico-vaginal swabs were collected from each animal every 3 days following the intra-vaginal challenge for a period of 3 weeks (McNeilly et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine865">
+		<vaccine_name>C. muridarum DNA vaccine encoding TC0512</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011534</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI30 [Ref1057:McNeilly et al., 2007]</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">C. muridarum TC0512 outer membrane protein, putative</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering336" gene_id="gene430">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1057">The C. muridarum genomic expression library was created by ligating fragments of C. muridarum DNA into the novel expression vector, pCI30. Eighteen recombinant C. muridarum clones were selected for immunizations and these were grown on LB agar. Cultures were grown for 18 h at 37 °C with shaking at 225 rpm. Following this, 1 mL of the starter culture was used to inoculate 80 mL of selective LB broth and the cultures again incubated for 18 h at 37 °C with vigorous shaking. DNA was then extracted from cell pellets using Roche Genopure Plasmid Midi kits (Roche Diagnostics Australia Pty Ltd.) (McNeilly et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response624" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1057">Mice were anaesthetised via inhalation of 4% isofluorane (Abbott Australasia, NSW, Australia) and the abdominal fur of each mouse was removed with electric clippers. The barrel liner of the Helios gene gun was held directly against the abdominal skin and a DNA/microcarrier shot delivered using a helium pressure of 400 psi. Each animal received two shots with the appropriate DNA/microcarrier preparation, resulting in administration of approximately 2 μg of DNA. Each mouse was immunized three times at 3-week intervals.  Positive control mice received 2.5 mg of medroxyprogesterone acetate (Ralovera) (Kenral Division of Pharmacia Australia Pty Limited, Rydalmere, Australia) subcutaneously 7 days prior to receiving a dose of 5 × 10^4 live C. muridarum elementary bodies (McNeilly et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1057">The groups of female BALB/c mice immunized intra-abdominally with TC0512 showed significant levels of protection when compared to negative control animals. At 9 days following challenge TC0512 showed a 73% reduction in the number of recoverable Chlamydia compared with vector only immunized controls (McNeilly et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1057">All animals were challenged intra-vaginally with 5 × 10^4 live C. muridarum elementary bodies, 10 days following the final gene gun immunization, as described for the positive control mice. To assess the level of infection, cervico-vaginal swabs were collected from each animal every 3 days following the intra-vaginal challenge for a period of 3 weeks (McNeilly et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine867">
+		<vaccine_name>C. muridarum DNA vaccine encoding TC0757</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011522</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI30</vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs="">C. muridarum TC0757</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering338" gene_id="gene431">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1057">The C. muridarum genomic expression library was created by ligating fragments of C. muridarum DNA into the novel expression vector, pCI30. Eighteen recombinant C. muridarum clones were selected for immunizations and these were grown on LB agar. Cultures were grown for 18 h at 37 °C with shaking at 225 rpm. Following this, 1 mL of the starter culture was used to inoculate 80 mL of selective LB broth and the cultures again incubated for 18 h at 37 °C with vigorous shaking. DNA was then extracted from cell pellets using Roche Genopure Plasmid Midi kits (Roche Diagnostics Australia Pty Ltd.) (McNeilly et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response626" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1057">Mice were anaesthetised via inhalation of 4% isofluorane (Abbott Australasia, NSW, Australia) and the abdominal fur of each mouse was removed with electric clippers. The barrel liner of the Helios gene gun was held directly against the abdominal skin and a DNA/microcarrier shot delivered using a helium pressure of 400 psi. Each animal received two shots with the appropriate DNA/microcarrier preparation, resulting in administration of approximately 2 μg of DNA. Each mouse was immunized three times at 3-week intervals.  Positive control mice received 2.5 mg of medroxyprogesterone acetate (Ralovera) (Kenral Division of Pharmacia Australia Pty Limited, Rydalmere, Australia) subcutaneously 7 days prior to receiving a dose of 5 × 10^4 live C. muridarum elementary bodies (McNeilly et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1057">The groups of female BALB/c mice immunized intra-abdominally with TC0757 showed significant levels of protection when compared to negative control animals (McNeilly et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1057">All animals were challenged intra-vaginally with 5 × 10^4 live C. muridarum elementary bodies, 10 days following the final gene gun immunization, as described for the positive control mice. To assess the level of infection, cervico-vaginal swabs were collected from each animal every 3 days following the intra-vaginal challenge for a period of 3 weeks (McNeilly et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine869">
+		<vaccine_name>C. muridarum DNA vaccine encoding TC0767/768</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011524</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI30</vector>
+		<route>intra-abdominal injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">intra-abdominal injection</route>
+		<antigen refs="">C. muridarum TC0767/768</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering340" gene_id="gene433">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1057">The C. muridarum genomic expression library was created by ligating fragments of C. muridarum DNA into the novel expression vector, pCI30. Eighteen recombinant C. muridarum clones were selected for immunizations and these were grown on LB agar. Cultures were grown for 18 h at 37 °C with shaking at 225 rpm. Following this, 1 mL of the starter culture was used to inoculate 80 mL of selective LB broth and the cultures again incubated for 18 h at 37 °C with vigorous shaking. DNA was then extracted from cell pellets using Roche Genopure Plasmid Midi kits (Roche Diagnostics Australia Pty Ltd.) (McNeilly et al., 2007).</description>
+		</gene_engineering>
+
+		<gene_engineering gene_engineering_id="gene_engineering341" gene_id="gene434">
+			<type>DNA vaccine construction</type>
+			<description refs="reference1057">The C. muridarum genomic expression library was created by ligating fragments of C. muridarum DNA into the novel expression vector, pCI30. Eighteen recombinant C. muridarum clones were selected for immunizations and these were grown on LB agar. Cultures were grown for 18 h at 37 °C with shaking at 225 rpm. Following this, 1 mL of the starter culture was used to inoculate 80 mL of selective LB broth and the cultures again incubated for 18 h at 37 °C with vigorous shaking. DNA was then extracted from cell pellets using Roche Genopure Plasmid Midi kits (Roche Diagnostics Australia Pty Ltd.) (McNeilly et al., 2007).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response628" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1057">Mice were anaesthetised via inhalation of 4% isofluorane (Abbott Australasia, NSW, Australia) and the abdominal fur of each mouse was removed with electric clippers. The barrel liner of the Helios gene gun was held directly against the abdominal skin and a DNA/microcarrier shot delivered using a helium pressure of 400 psi. Each animal received two shots with the appropriate DNA/microcarrier preparation, resulting in administration of approximately 2 μg of DNA. Each mouse was immunized three times at 3-week intervals.  Positive control mice received 2.5 mg of medroxyprogesterone acetate (Ralovera) (Kenral Division of Pharmacia Australia Pty Limited, Rydalmere, Australia) subcutaneously 7 days prior to receiving a dose of 5 × 10^4 live C. muridarum elementary bodies (McNeilly et al., 2007).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1057">The groups of female BALB/c mice immunized intra-abdominally with TC0767/768 showed significant levels of protection when compared to negative control animals (McNeilly et al., 2007).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1057">All animals were challenged intra-vaginally with 5 × 10^4 live C. muridarum elementary bodies, 10 days following the final gene gun immunization, as described for the positive control mice. To assess the level of infection, cervico-vaginal swabs were collected from each animal every 3 days following the intra-vaginal challenge for a period of 3 weeks (McNeilly et al., 2007).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine854">
+		<vaccine_name>C. muridarum MOMP protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011453</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intranasal immunization</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Cholera toxin and CpG oligodeoxynucleotide</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intranasal immunization</route>
+		<antigen refs="">C. muridarum major outer membrane protein MOMP</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering326" gene_id="gene435">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1061">Recombinant maltose binding protein-MOMP (MBP-MOMP) was cloned into the bacterial expression vector pMAL-c2, and used to transform Escherichia coli (DH5α[pMMM3]).  The MBP-MOMP was purified by passage through a PD-10 column (Amersham Biosciences, NSW, Australia), followed by a Sephadex G-75 column (Sigma–Aldrich) (Skelding et al., 2006).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response614" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1061">Groups of five mice were immunized on days 0, 7, 14, and 35 via either the IN or TCI route. One group of five mice were used as a control, receiving no immunization solution.  Mice immunized intranasally were anaesthetised via inhalation of 4% isofluorane (Abbott Australasia, NSW, Australia), and 10 μl of immunization solution containing 100 μg MOMP, admixed with 10 μg CpG-ODN 1826 (5′-TCC ATG ACG TTC CTG ACG TT-3′) (Geneworks, SA, Australia), and 10 μg cholera toxin (Sigma–Aldrich) was gently pipetted onto each nare (5 μl per nare) (Skelding et al., 2006).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1061">Both intranasal and transcutaneous immunization protected mice against respiratory challenge with Chlamydia (Skelding et al., 2006).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1061">Five days after the final boost, mice were infected intranasally with C. muridarum. Mice were anaesthetised with 4% isoflurane and 10^3 IFUs were gently pipetted onto the nares. Mice were weighed daily for 10 days then sacrificed 10 days post-infection via a sodium pentobarbital overdose (Nembutal, Abbott Australasia). The lungs from the mice were either perfused and fixed for histopathology or collected for determination of C. muridarum levels (Skelding et al., 2006).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response233" gene_id="gene1">
+			    <description refs="reference1061">Both TCI and IN immunization resulted in greatly increased IFN-γ gene expression in stimulated lymph node cells (stimulated with MOMP) as compared to non-immunized mice (Skelding et al., 2006).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response234" gene_id="gene1160">
+			    <description refs="reference1061">Both routes of immunization induced a significant MOMP-specific IgA response in serum with the highest IgA response seen in animals immunized intranasally.  These results were compared 7 days post-immunization to non-immunized control mice (Skelding et al., 2006).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response235" gene_id="gene1161">
+			    <description refs="reference1061">Both routes of immunization (TCI and IN) resulted in levels of MOMP-specific IgG in serum that were significantly higher than that in serum of non-immunized control mice. There was no significant difference between serum IgG levels in animals immunized by either route.  These results were gathered 7 days post-immunization (Skelding et al., 2006).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine857">
+		<vaccine_name>C. muridarum PmpE/F-2 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011456</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Incomplete Freunds Adjuvant (Sigma)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs="">C. muridarum polymorphic membrane protein E/F family protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering328" gene_id="gene438">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1062">The source proteins containing the MHC II binding Chlamydia peptides were cloned, expressed and purified as follows: pmpE/F-2 and gap DNA fragments were generated by PCR using genomic DNA isolated from C. muridarum. The PCR products were purified and cloned into pET32a (Novagen) for pmpE/F-2 and gap after restriction enzyme digestion with BamHI/NotI using standard molecular biology techniques.  Only the first half of the gene (25–575) was cloned into the vector for expression (Yu et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response617" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1062">Mice were vaccinated three times with a 2-week interval, intravenously (i.v.) into the tail veins with 1 × 10^6 DCs transfected with Chlamydia protein PmpE/F-225–575 in 200 μl of PBS. DCs pulsed with live EB or GST protein was used as positive or negative controls respectively (Yu et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1062">PmpE/F-2(25-575) immunized mice exhibited significant resistance to challenge infection. In addition, pmpE/F-2 was able to engender protective immunity against challenge with C. muridarum (Yu et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1062">Two weeks after the final immunization, five to ten mice from each group were intranasally (i.n.) challenged with 2000 IFU of C. muridarum. Weight loss was monitored each or every two days. On 10 day after i.n. challenge, the mice were euthanized and the lungs were collected for Chlamydia titration (Yu et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine859">
+		<vaccine_name>C. muridarum PmpG-1 protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011458</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Incomplete Freunds Adjuvant (Sigma)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs="">C. muridarum polymorphic membrane protein G family protein</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering330" gene_id="gene436">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1062">The source proteins containing the MHC II binding Chlamydia peptides were cloned, expressed and purified as follows: pmpG-1 and gap DNA fragments were generated by PCR using genomic DNA isolated from C. muridarum. The PCR products were purified and cloned into pET32a (Novagen) for pmpG-1 and gap after restriction enzyme digestion with BamHI/NotI using standard molecular biology techniques. Only the first half of the gene (25–500) was cloned into the vector for expression (Yu et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response618" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1062">Mice were vaccinated three times with a 2-week interval, intravenously (i.v.) into the tail veins with 1 × 10^6 DCs transfected with Chlamydia protein PmpG-1 25–500 in 200 μl of PBS. DCs pulsed with live EB or GST protein was used as positive or negative controls respectively (Yu et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1062">Overall, vaccination with DCs transfected with PmpG-1(25-500) exhibited the greatest degree of protective immunity among the four Chlamydia Ags tested (Yu et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1062">Two weeks after the final immunization, five to ten mice from each group were intranasally (i.n.) challenged with 2000 IFU of C. muridarum. Weight loss was monitored each or every two days. On 10 day after i.n. challenge, the mice were euthanized and the lungs were collected for Chlamydia titration (Yu et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine3089">
+		<vaccine_name>C. muridarum PmpG-1, PmpE/F-2, and MOMP Proteins Vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004257</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>subcutaneous injection</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">subcutaneous injection</route>
+		<antigen refs="reference2019">Chlamydia proteins PmpG-1, PmpE/F-2, and MOMP  (Yu et al., 2010).</antigen>
+		<host_response host_response_id="host_response918" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6 and BALB/c</host_strain>
+			<vaccination_protocol refs="reference2019">Mice were vaccinated 3 times subcutaneously with PmpG-1 plus PmpE/F-2 plus MOMP plus AbISCO-100 (G+F+M+AbISCO) (Yu et al., 2010).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference2019">The combination of three Chlamydia proteins formulated with AbISCO exhibited significant protection at day 13 compared to the group with adjuvant alone (Yu et al., 2010).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference2019">Two weeks after the final immunization, the mice in the three animal trials described above were then challenged with live EBs for protection evaluation (Yu et al., 2010).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine861">
+		<vaccine_name>C. muridarum RplF protein vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011437</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intravenous injection (i.v.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">Incomplete Freunds Adjuvant (Sigma)</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intravenous injection (i.v.)</route>
+		<antigen refs="">C. muridarum rplF</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering332" gene_id="gene437">
+			<type>Recombinant protein preparation</type>
+			<description refs="reference1062">The source proteins containing the MHC II binding Chlamydia peptides were cloned, expressed and purified as follows: rplF DNA fragments were generated by PCR using genomic DNA isolated from C. muridarum. The PCR products were purified and cloned into pGEX-6P-3 (GE Healthcare) after restriction enzyme digestion with BamHI/NotI using standard molecular biology techniques (Yu et al., 2009).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response621" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">C57BL/6</host_strain>
+			<vaccination_protocol refs="reference1062">Mice were vaccinated three times with a 2-week interval, intravenously (i.v.) into the tail veins with 1 × 10^6 DCs transfected with Chlamydia protein RplF in 200 μl of PBS. DCs pulsed with live EB or GST protein was used as positive or negative controls respectively (Yu et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1062">RplF was able to engender protective immunity against challenge with C. muridarum (Yu et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1062">Two weeks after the final immunization, five to ten mice from each group were intranasally (i.n.) challenged with 2000 IFU of C. muridarum. Weight loss was monitored each or every two days. On 10 day after i.n. challenge, the mice were euthanized and the lungs were collected for Chlamydia titration (Yu et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine1119">
+		<vaccine_name>C. muridarum Tarp subunit vaccine</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004202</vo_id>
+		<type>Subunit vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs="">CpG-IFA adjuvant</adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">purified C. muridarum Tarp</antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering604" gene_id="gene872">
+			<type>Recombinant protein preparation</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response873" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1623">Mice were immunized intramuscularly with purified C.  muridarum Tarp emulsified in CPG-IFA adjuvant or just adjuvant (as a control). Mice were immunized in the hind legs 3 times with an interval of 3 weeks between the first and second injections and 9 days between the second and third injections (Wang et al., 2009).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1623">Immunization of mice with Tarp induced Th1-dominant immunity that significantly reduced the shedding of live organisms from the lower genital tract and attenuated inflammatory pathologies in the fallopian tube tissues. Tarp, an immunodominant antigen identified by human antisera, can induce protective immunity against chlamydial infection and pathology in mice (Wang et al., 2009).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1623">Thirty days after the third immunization, each mouse was inoculated intravaginally with 1 × 10^4 IFUs of live C. muridarum organisms in 20μl of SPG (sucrose-phosphate-glutamate buffer). Five days prior to infection, each mouse was injected with 2.5mg Depo-provera subcutaneously to synchronize menstrual cycle and increase mouse susceptibility to chlamydial infection (Wang et al., 2009).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<gene gene_id="gene1">
+        <gene_name>Ifng (Interferon gamma)</gene_name>
+        <strain>Mouse</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>15978</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>33468859</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>NM_008337</gene_refseq>
+        <protein_refseq>NP_032363.1</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>MGI:107656; UniProt:P01580</xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|145966741|ref|NM_008337.3| Mus musculus interferon gamma (Ifng), mRNA
+ATAGCTGCCATCGGCTGACCTAGAGAAGACACATCAGCTGATCCTTTGGACCCTCTGACTTGAGACAGAA
+GTTCTGGGCTTCTCCTCCTGCGGCCTAGCTCTGAGACAATGAACGCTACACACTGCATCTTGGCTTTGCA
+GCTCTTCCTCATGGCTGTTTCTGGCTGTTACTGCCACGGCACAGTCATTGAAAGCCTAGAAAGTCTGAAT
+AACTATTTTAACTCAAGTGGCATAGATGTGGAAGAAAAGAGTCTCTTCTTGGATATCTGGAGGAACTGGC
+AAAAGGATGGTGACATGAAAATCCTGCAGAGCCAGATTATCTCTTTCTACCTCAGACTCTTTGAAGTCTT
+GAAAGACAATCAGGCCATCAGCAACAACATAAGCGTCATTGAATCACACCTGATTACTACCTTCTTCAGC
+AACAGCAAGGCGAAAAAGGATGCATTCATGAGTATTGCCAAGTTTGAGGTCAACAACCCACAGGTCCAGC
+GCCAAGCATTCAATGAGCTCATCCGAGTGGTCCACCAGCTGTTGCCGGAATCCAGCCTCAGGAAGCGGAA
+AAGGAGTCGCTGCTGATTCGGGGTGGGGAAGAGATTGTCCCAATAAGAATAATTCTGCCAGCACTATTTG
+AATTTTTAAATCTAAACCTATTTATTAATATTTAAAACTATTTATATGGAGAATCTATTTTAGATGCATC
+AACCAAAGAAGTATTTATAGTAACAACTTATATGTGATAAGAGTGAATTCCTATTAATATATGTGTTATT
+TATAATTTCTGTCTCCTCAACTATTTCTCTTTGACCAATTAATTATTCTTTCTGACTAATTAGCCAAGAC
+TGTGATTGCGGGGTTGTATCTGGGGGTGGGGGACAGCCAAGCGGCTGACTGAACTCAGATTGTAGCTTGT
+ACCTTTACTTCACTGACCAATAAGAAACATTCAGAGCTGCAGTGACCCCGGGAGGTGCTGCTGATGGGAG
+GAGATGTCTACACTCCGGGCCAGCGCTTTAACAGCAGGCCAGACAGCACTCGAATGTGTCAGGTAGTAAC
+AGGCTGTCCCTGAAAGAAAGCAGTGTCTCAAGAGACTTGACACCTGGTGCTTCCCTATACAGCTGAAAAC
+TGTGACTACACCCGAATGACAAATAACTCGCTCATTTATAGTTTATCACTGTCTAATTGCATATGAATAA
+AGTATACCTTTGCAACC</dna_sequence>
+        <protein_sequence>>gi|33468859|ref|NP_032363.1| interferon gamma [Mus musculus]
+MNATHCILALQLFLMAVSGCYCHGTVIESLESLNNYFNSSGIDVEEKSLFLDIWRNWQKDGDMKILQSQI
+ISFYLRLFEVLKDNQAISNNISVIESHLITTFFSNSKAKKDAFMSIAKFEVNNPQVQRQAFNELIRVVHQ
+LLPESSLRKRKRSRC</protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation>IFN-gamma plays a critical role in Th1 type immune response. It is important for protection against infections by various viruses and intracellular bacteria.</phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2>The experimental data demonstrated that three time vaccinations with BCG in BALB/c mice induced strong TB Ag-specific IFN-gamma immune responses in splenocytes  [Ref2101:Wang et al., 2009].</phi_annotation2>
+    </gene>
+	<gene gene_id="gene1160">
+        <gene_name>IgA</gene_name>
+        <strain></strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function></phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1161">
+        <gene_name>IgG</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16059</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AF010213</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>881411</gene_start>
+        <gene_end>914690</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>immunoglobulin heavy chain (V7183 family)</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as IgG; IgH; VI24H; VH7183; B9-scFv; IgVH1(VSG)</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|94393741:881411-914690 Mus musculus strain 129/SvJ chromosome 12 unlocalized genomic contig, MGSCv37 alternate locus group 129/SvJ
+CATGGACTTTGGGCTCAGCTGTGTTTTCCTTGTCCTCATTTTAAGAGGTAATTTGTAGAAATAAGATCCT
+GCCAGTATTGTGTACAGGAGAAATAGAAAAATTTTTCTTTCCTCTATTTTGTTTTGTTTTGTTAGTGACA
+GTTTACAAATAAGCATTCTCTGTTGTGAGGTGCCCAGTGTGAGGTGAAGATGGTGGAGTCTGTGGGAGGC
+TTAGTGCAGCCTGTAGGGTCATTGAAACCCTCCTGTGCAGCCTCTGGATTCATTCTCACTGACTACTGAA
+TGACCTGGATCCTTCAGGCTTCAAAGAAAAGGATGGAGAGGGTGACAATAAAATTTTTCCCACTCACACC
+CACTTGCTGGCCCTGGCGTTCCCCTGTAATGAGGCACATAAAGTTTGCAAAACCAAGGGGCCTCTCTTCT
+CAATGATGGCTGACTAGGACATCTTCTGATACATATGCAGCTAGAGACATGAGCTCCCGGGATACTGGTT
+ACTTCATATTGTTGTTCCCCCACAACAGTTGCAGACCCTTTTATTTCTGTGGGTACTTTCACTAGCTCCT
+CCATTGGGGGCCCTGTGTTCCATCCAATAGCTGACTGTGAGCATCCACTTCTGTAGTTGCTAGGCCCCGG
+CATAGCCTCACAAGAGACAGCTATATCAGGGTCCTTTCAGCAAAATCTTGCTGGTGTATGCAATGGTGTC
+AGAGTTTGGAGTCTGATTATGGGATGGATCCCCAGGTATGGCAAACTCTAGATGGTCCATCCTTTCCCAA
+CAATAATTTTTAATGGTGGAGATAGCACCTACTATCCAGACACAATGAAGGGCCAATTCACTATCTCTAG
+AGATGATGCCAAAAACACACTTTACCTGAAAATAAACAGTCTGAGGTCTGAGTACACAGCCATGTATACA
+TATATTCCTAAGCTTGAGTAAGTGGACTTAAACTGATTCCATCACAACTTGCATGAGATGGATATTCCCC
+AGTGTTAAGACCTGTCACCATCACTGTCAATCAGAAGACAAAGTTTATGCACAACAAAACAAAAAAACCA
+AAAGCAGAGGCCTCCAATTACAAGTAATAGACCCAGACCCACAGTCTCTGAAAACTGACTGTACAGTTGG
+ATCCAGTCTTTTACTTCTTTTCCCTGGATTTTATATTACTGAGGAAATGAGGAAAGCTCTACAATATCTG
+TTCTCCATAGTGCTCAACACCTCCAAGCACAGGTTACCCATATTCATGCCTGCCTTCTGCTACACTTCTT
+GTCTTGTAGACTACTTCAACCTATTTTGTACTCCAGTTAATGAAACTCAAGTCTAGCAGCCTGTCACTGT
+TTATTCTAAAGTATTATGAACAGGTGACCTCCCATCCTTCCCCAACGCAATAATCATATTTAGGAATTTG
+AGGTTTTATGAGATATGATCTCAGGGTAGAGAGAGAAAGCAAACTACATAGAAATATAGACTGACATAAA
+TCAAGACTTGCATAAGCTAGTCCCCAAGTTCCATGTCCCTAAGTGGCAAGGACTATCTTCTGAGCCTAAT
+GAGATGAGATCCAAATCAAACCTCCTGGGTCTTTTTAGATAAACATGTGAGATCAATAGACTAAATGCTT
+TGGCTGGGCTTCCTTGCAATCCAATTCCCAAACAAAAATGGATCTGGCTCCACAGACACCACAAGAATAG
+TCTTAAATAGTTCTTTAAGTAGAATGTCTGATCACTACGAGCCCAATTCCATCCTAAATACTCTTCTGGA
+TTATACATAAATAAAAATTGAACATAGGGCATGGGGCACTGATCTCCCTGTGCTACATGAATGGGGGCTC
+ATTTACTAAATGTTCCCATTTTTCTTTCTAGCGCTGCACAGTGCAAATCCTACAACTTCCTGTTTATCTA
+CAATGTGAACTCCAAACAGTACAAGAAAAAACGTTCCTTATGTTCCTCTCCAGGTTCTCCAACAAGCACA
+GAGCAACCTTCTGTCACCAGGACGGAAAACTGGAAACCTTGCTCACTGCTTCCTTTTATTCCCTCGGGAA
+CCTCCCCCAATGCAAAGCAGCCCTCAGGCAGAGGATAAAAGCTCACACAAAGACGAGAAGCCCCATCCTC
+TTCTCATAGAGCATCCATCAGAGCATGGCTGTCCTGGGGCTGCTTCTCTGCCTGGTGACTTTCCCAAGCT
+GTAAGTGTTTCAGGGTTTCAGAAGAGGGACTAAGACATGTCAGCTAGAAGATGTGTGACTAATGGTGATG
+TTGCTTGTCCCCAGGTGTCCTGTCCCAGGTGCAGCTGAAGGAGTCAGGACCTGGCCTGGTGGCGCCCTCA
+CAGAGCCTGTCCATCACATGCACCGTCTCAGGGTTCTCATTAACTAGCTATGGTGTACACTGGGTTCGCC
+AGCCTCCAGGAAAGGGTCTGGAGTGGCTGGTAGTGATATGGAGTGATGGAAGCACAACCTATAATTCAGC
+TCTCAAATCCAGACTGAGCATCAGCAAGGACAACTCCAAGAGCCAAGTTTTCTTAAAAATGAACAGTCTC
+CAAACTGATGACACAGCCATGTACTACTGTGCCAGAAACACAGTGTGGGAAGTCCAATGTGAGCCTGCAC
+AAATACTTCTCTGCAGGGATGATCACAACCAGCAGGGGGCGCTGATGACCCAAAGGGACTTCCCAGGATC
+TCTTCTGGAATCTAGGGAGTTCTGGCCTGTGTCTATCAGCATGTGTTTCAATGTTAGAGTTGTGAGTTTT
+CCTTCCAGCAACAGAGATATTTTAGAGCCCACTTTTCATGGTCATTCTACTAAATTTGTTCACATAGTGG
+AAAGATTTGTTAAATGATTCTATAGTCTAATAGGGTCAAACAAAAACAAATAATTGAGTTCATATCTACC
+AAAAAAAAAAAAATTCCCTCAAAGTGGACAACTGTGTAGGTGAGGAAAACCAGGGGGATTTGGGAATAGA
+TTATTTCTCTCCCGACTGTGGTGTTAGTCACCTTTCAGCCATTTACTGTATTTAATTCATGTTTAAAGTT
+AATTGTATTCATCTTCCCTAACATGAAGTTTTCAAACACATGTCCACAATTTAATGATGACACAGTTATC
+ATTGTGAATGATAACTCATAAGATCTCTCTCCATATATGAAACACACGATATTCTGTTATTAGCTATAGC
+CAACAAAGTTACATATCATTATTATTACTGAAATAATTCTTCCCATCTAACTGAATAGTTTTCTCACTCG
+ACACTGCCTATGCTGCGATCAGCCTGCTCTAATTTTACCTTTGCTCAGAGCACTGCTTTCTGTTTCATTT
+GATAAGATGGTGCCTGGTTGTCACTGAAAATGTGTCCTCCAGTTTCACAGTGATTAATGTGATTTTCAGT
+ACATTGAGAACAGAGCCACAGCAAAAATGAGATGGAATGTCATCATTTTTACGCCAGGTGCTGCAGAAAT
+AGCTAGGTGGTTAAGAGAGAATATTGAACTTTGAGGGGTTCAGATTAAATTCCTGATACCCACAATGTGC
+ACCTCATAACCACATGTACATATAGAAAACTCAGTATAAATGTGGCCTCCGTGAGCACCACACTACTCCC
+ACAAACACATATACACATAATTAAAAGTAAAGATTTTAGAAAAATGGCTAATCTAATGATAGGAAGTAGT
+CAAAAAGAGAGTTCTTTTGTCATGTACATATGTGTAGCAGACTTAAATGTTAAACATTCAAGAATACATT
+CCTCGATCCACATTAAAATTTTGCAAAGAGTAGCACAGACGGTGGCAATTGCTAAACTTATATCTAGAAA
+CACAATTATGTGTGGTGATATTTAATTACACATTTATACCAGGACATATGACAATATGGAAACCAAACAT
+GTTGTATCCACATGCTCTAAGGAAAACTAAATGGAGTGTGATAAAACCAAAGAAAATGTGAATATGAAAT
+ATTTTTCCAACTCTGCATCTTAAAACGGTTTCTTTCATGTGTCATATCTGCTATGAGGACTTTCTTCTGC
+CCATGTCCAACTCCAGAGCATGCCACAGCAGGAAGACCTACAGGTATTACTTCTCTGCACCCAGGAAAAC
+CACCTCTGTCCTGACCCTGCAGCTCTCAGAAGAGCCCAGACCTTCATTCTCAGGCCCTCATCCAGTAATC
+AGCACTGAATACAGAGCACTCACCATGGACTTTGGGCTCAGCTTGGTTTTCCTTGTCCTTATTTTAAAAG
+GTAATTCATAGAGATAAGATTCTATCTGTTTTGTGTACATGAGAAACAGAAAAATTGTATTGTTTCTCTA
+TTTTGTTTTGTTTTGTTAGTGACAGTTTCTGACTCAAGATTCTCTGTTTGAAGGTACCCAGTGTGAGGTG
+AAGCTGGTGAAGTCTAAGGGGAGGCATAGTGCAGCCTAGAAGGTCCATGATACTCTACTGTGCAGCCTCG
+GATTCACTGTAAGTGACGACTGGTTTGTCCGTGTTTGCCAGGCTCCAAAGAAGGGGCTGCAGTGGGGGAT
+GGGAATAATTTTTCATGGTTGTGGTAGCCCCTCTTATGCAGACACCTTGAAGAAGTGGGTTGGACGTAAC
+ATATTCAGAATCAATATTTAAAGATTCTAATCCTTGAAGATATCACTTTTGACCAAGTATATATGAACCA
+TGTTACTGAGGTTTATGGAGGTTTGAGTATGTTAGGTCCATGGATAGGGAAAATATTAGGGGATTTTAGG
+AGTAACTGAGGCTTGTTGTAGGAAGGACATCACTGTAGGGGTAGGCTCCGTGTTCCTATCTTCAAGCTCT
+ACCCAGTGCAGAATAGAGCCCTCTTCTGCCGGCAAGTGGAAAGAGTTTCTCTTCCTGGCTGCCTTCAATC
+CAAGTTGTAGAATATCAAATCTCCTAACACTATGACTGCGAGCATGCTGACATGCGTCCCACCATAAAAA
+TAGACTGAACCTCTGAAGCTTTAAGCCAGCCTCTAGTAACTGTATTCTTTAATAAGACTGAACTTGGCTA
+TGGTGTCTTTTCACAGTAAAATGGAAACATAGACAAGGTTCTAACTCTCTGTACTAGAGGACCATCTCTA
+TGTCCTTGGTGTTGTATGTAAATTATTGAACAAATACTATAGACAAGTTGTATGGCCAAAAGTCCATCCC
+CTTCAACAATCTACTATCTGGAACCATATAGATTAGATTCCTTTCCTGCACTCATTTCCCTTACTTGCTG
+AGACATTTTGAAGACATGCTCAGAATCCCTGAACTTCCTGCTGAAAAAAAAATACCCCTCCAATTTGAAG
+ACAGTTCTCTTCCAAAATTCATCATAAATACTGATCCACATGTCCAGGCATATCATGTAGTTTTAAAAAA
+CAAACCAATCAATGCTAAAGTGGGTAAGTGCCTACATCATTGGTTTATGTCTGTTCATAACCTGGTATAT
+AGCTAGAGACCAGGACTGCATGTTTCTCCTAGGCCACACCTCTCCCACAAATGCTGGCTCTGCCTCTCCA
+GAATTCCAAGATCATGGATCTCTGGGTCCCCAAGGAACAATAAGTGTGCACTCTTGCCAGCCTGTACACT
+ACTGCACTAGCTTCTCCCCCTGGAGCTTGGTCATTGCTCAATCTTCCCTTTCCAAAGCCTGGCCAAATTC
+CTCCTACCTTTTGTTCTTTCAGTCAGGCCACCTAAGTCATCTTGAATGAAAAACAACACAAAATCTGAAC
+TTAAAATCAACAAATAATACAAGTGCTGCGCACAAAATCAATCATTCTAAACTCATCAACTATTTTATGA
+TGGAAATCTTCCAACATACAAGCTACCACCAGGTCTAAGAATTACTCATCTACATGTTGCTTCCTCTCAC
+TCACAGCCTAACCATAAAAGGGCTGTTTCTTCCTCCCATGTCCCCTCTTTTGCCTTCAGAAGCAGAAGCT
+CCACCTCCTCCTCTTTGCCCAGCAATTGGCTTCTTGTCGTCTTTATTATCATATTAATTACTTAGGGGAA
+AATCCCGTGTAGTGGCTATTCCTGGTTGTCAACTTGACAATATTTGGAATGAACTACAATCCGGAATTGG
+AAGGCTCACCAGTGACCCTTATCTGGAGGCTTGGAGATCCTTATCTGGATCTTGGTTTGAAGATCTTGAG
+CCATAGGGGCTATGGATTCCAGAAGATTGAATCTCCGAGTTTAAGGAACACACCTTTAATCTGGGCTACG
+CCTTTCATCTGGGATTAAAGGTGTGGCGGAACACACCTTTAATCTGGACTACACCTTCTGCTGGAGACAA
+TATAAGGACATTGAAAGAAGGGAGTCTAGCTCTTGCTCTTGCTCCTTCGCCTGCTTGCTGCGTGAGACTG
+AGTAACTGCTAGATCCTTGGACTTCCATTCACAGCTGCGACTGAACAATTGTTGGGAATTGGGCTGCCGA
+CTCTAAGTCATCAATAAATTCCTTTACTATCTAGAGACTATCCATAGTTCTGTGACTCTAGAGAACCCTG
+ACTAATACAGAAGTTGGTACCAGGAGTGGTTCTAGAGTAACAGAAGTACAAGGATGAATCTTTTAAAATA
+CTGGAATTGGCTTGTTGATCCACCAGCACTTTCAACTATTGAAACCTCTCCAGATTCTCTCCCTCCTGGG
+AGCTCAGAGAATTTTGAAGACCCATGGTTGAAACTATATTCCGAACTTAAAGAAGCAAATGCCCTTGATT
+TTCTTAATGAATTAGGTGATTCAGTGCACAAAGCTTTCTACAAGATGGGGAAAAAATTGGAAAATGATTT
+TACTGGCTGGCTGCTCTTAGTATCTGTGGAAAAAATGATGAATGAAAGGAAGGAGTTGTGTGATAAAATC
+GAAAGGCTCCAGACACAAGTAAACGATCTAAAAGTTGCTAAGTGTGTCCTTGAGGAGAATCTTCTCTCTT
+GTAGCAATAGAGCTCAAGTTGCAGAAAATCAAACAGAAACTCTCATTGTAAGGTTGGCTGAACTACAGCG
+AAAATTCAAGTCTCAGCCTCAGAGTGTGTCAACAGTTAAAGTAAGGGCTCTAATTGGCAAAGAATGGGAT
+CCTACAACATGGGACGGGGATGTGTGGGAAGACCATGTTGAAGCTGAGAATTTTGAATCTTCAGATTCTC
+AAGGGTTTGCCCCACCTGAGGAAGTAGTACCCTCAGCCCCACCCCTTGAAATAATGCCTTCCCCACATGA
+GGAAATTAATTTTGCAGAGTCTGATAAACCAGCAATGATTTTCACTACTGATGTTTCTCAAGGCCCACCA
+ATAGTTTCTTCTAGACCTGTAACCAGACTCAAAGCAAAACAGGCTCCTAGAGGGGAGGTAGAAAGTGTAG
+TCCATGAGGAAATTCGCTACACTACTAAGGAGCTTAATGAGTTTGCTAATTCATTCAAGCAGAAACCTGG
+TGAATATGTGTGGGAATGGATTTTAAGGGTGTGGGATAAGGGTGGAAGGAACATAAGACTAGAGCAGGCT
+GAGTTTATTGACATGGGTCCTCTGAGTAGAGATTCTAGGTTTAATACGGAAGCTCGCATAATTAAAAAAG
+GTGTCAAAAGTTTGTTTGAATGGTTGGCTGAGGTGTTTATCAAAAGATGGCCTACTGGAAATGACTTGGA
+GATGCCTGATATTCCGTGGCTTAGTGTTGATGAAGGGATTTTAAGACTTAGGGAAATTGCAATGCTAGAG
+TGGATATATTGTGTAAAGCATAATTGTCCACAATGGGAAGGTCCAGAAGATATGCCTTTCACTAGCTCTA
+TAAGACGCAAATTGGTGAGAGGGGCACCAGCACATTTGAAGGGTTTTGTTCTTTCCCTTTTCCTTGTACC
+AGATCTTAGCATTGGAGATGCTTCTGCTCAATTAGATGAATTAAATTCACTGGGTTTAGTTGGATTCCGA
+GGTAACAAGGGCCAGGTGGCAGCATTGAATCGCCGGAGACAAGGTGATTCTAGTTATTATAATGGACAGC
+GTAGACAAAAGAATGTTTATAATAACATACCCAGCAATGGTCAGCACAGGAGAGGTGAAATTTATAATGG
+CATGACTCGGTTGGACCTTTGGTACTGGCTAACCAATCATGGTGTTTCCAGGAATGAAATACATAGGAAG
+CCTACTGCATATTTGTTTGATCTGTATAAGCAGAAAAATTCTCAAACAAATGAAAGAAAGGCTACATTAG
+ATCATGGTAAACAGCAATCTCGGCCAGTGAATCAATTTCCAGACTTGAGACAGTTTGCAGATCCAGAACC
+CCTTGAATGAAGGGGTGGCCAGGTTCCGCTGAGGAAGGATCTTGATAAGACACCCAAAGGTTTTGCTGTT
+ACCCTTTCTCCAGTTCTTCCCCAGAGGGACCTAAGGCCTTTTACAAGGGTAACTGTACACTGGGGAAAAG
+GAAATAATCAGACTTTTCAGGGTCTGCTGGATACTGGTTCTGAGTTGACACTGATTCCAGGGGATCCCAA
+GAAACATTGTGGCCCTCCAGTTAAAGTAGAGGCTTATGGAGGGCAGGTGATTAATGGAGTTTTGACTGAT
+GTCCGACTCACAATAGGTCCAGTAGGTCCCCAGACACATCCTGTGGTGATTTCCCCAGTTCCAGAATGTA
+TAATTGGGATAGATATACTCAGAAATTGGCAGAATTCTCATATTGGTTCCCTGAACTGTAGAGTGAGGGC
+TATTATGGTTGGAAAGGCCAAATGGAAACCTTTAGAGTTGCCTCTGCCAAAGAAAATAGTGAATCAAAAA
+CAGTATCGTATTCCTGGAGGCATTGCAGAAATTACTGCCACTATCAAGGACTTGAAAGATGCAGGGGTGG
+TGGTTCCCACCACATCTCCGTTTAACTCTCCTATCTGGCCAGTGCAGAAAACAGATGGATCATGGAGAAT
+GACAGTTGATTATCGAAAACTAAATCAGGTAGTAACTCCAATTGCAGCTGCTGTACCAGATGTAGTTTCA
+TTACTTGAGCAAATTAACACATCTCCTGGCACCTGGTATGCGGCTATTGATCTGGCAAATGCCTTCTTCT
+CAGTACCTGTCCATAAGGACCACCAGAAGCAATTTGCTTTCAGTTGGCAAGGCCAACAGTATACTTTCAC
+AGTTTTGCCTCAAGGATATATTAACTCTCCTGCCCTGTGTCATAATTTAGTTAGAAGGGATCTTGATCGT
+TTGGATCTTCCACAAAATATCACATTGGTGCACTATATTGATGACATTATGCTGATTGGACCAAGTGAGC
+AGGAAGTAGCAACCACTTTGGACTCATTGGTAACACATATGCGTATCAGAGGATGGGAAATAAATCCAAC
+CAAAATTCAAGGACCATCTACCTCAGTGAAATTCTTAGGAGTCCAGTGGTGTGGAGCATGCAGAGATATT
+CCTTCTAAGGTGAAAGATAAGTTATTGCACCTGGCCCCTCCTACAACCAAGAAAGAAGCACAACGTTTAG
+TGGGTCTATTTGGATTCTGGAGACAACACATCCCTCACTTGGGTGTGTTACTTAGGCCTATTTACCAAGT
+GACTCGGAAAGCTGCTAGCTTTGTGTGGGGCCTGGAACAGGAGAAGGCCCTTCAACAGGTCCAGGCTGCT
+GTGCAGGCTGCACTACCACTTGGACCATATGACCCAGCAGACCCGATGGTACTTGAGGTGTCTGTGGCTG
+ATAGAGATGCTGTTTGGAGCCTCTGGCAGGCCCCTGTAGGTGAATCACAGAAAAGACCTTTGGGATTTTG
+GAGCAAAGCTCTACCATCATCTGCAGACAACTATTCTCCCTTTGAAAAACAGCTCTTGGCCTGCTATTGG
+GCCTTAGTGGAAACTGAACGTTTGACAATAGGACACCAAGTTACTATGCGACCTGAACTACCCATCATGA
+GCTGGGTACTATCAGACCCTGCAAGTCATAAAGTGGGACGCGCACAGCAGCAGTCTGTTATCAAATGGAA
+GTGGTATATACGTGATCGGGCCAGAGCAGGTCCTGAAGGCACAAGCAAGTTACATGAAGAAGTTGCTCAA
+ATGCCTATGGTTTCTACTCCTGTTACACTGCCATCTGCTGCCAAACATGTGCCTATAGCCTCATGGGGTG
+TTCCCTATGATCGACTGACCGAAGAGGAAAAGACTAGAGCCTGGTTTACTGATGGCTCTGCACGTTATGC
+AGGCACCACCCAGAAGTGGACAGACAGCTGCAGCATTACAACCCCTTTCTGGGACAACCCTGAAAGACAC
+AGGTGAAGGGAAATCTTCACAGTGGGCAGAACTTCGGGCAGTACACATGGTATTACAGTTTGTTTGCAAG
+AAGAAATGGCCAGATGTACGATTATTCACTGACTCATGGGCTGTAGCCAATGGATTGGCTGGATGGTCAG
+GGACTTGGAAAGATCACAATTGGAAAATTGGTGAGAAAGACATCTGGGGAAGAAGTATGTGGATAGATCT
+CTCCAAATGGGCAAAGGATGTGAAGATATTTGTGTCCCATGTAAATGCTCACCAAAAGGTGACTTCAGCT
+GAGGAGGAGTTCAATAATCAAGTGGATAAGATGACCCGTTCTGTGGACAGTCAGCCTCTCTCCCCAGCCA
+TCCCTGTCATTGCTCAATGGGCACATGAACAAAGTGGCCATGGTGGTCGAGATGGAGGTTATGCTTGGGC
+TCAGCAACACGGGCTTCCACTCACCAAGGCTGACCTGGCTACAGCTGCTGCTGATTGCCAGATCTGCCAA
+CAGCAGAAACCAACACTGAGTCCCAGATATGGCACCATTCCTCGAGGTGACCAGCCAGCAACCTGGTGGC
+AGGTTGACTACATTGGACCACTTCCTTCGTGGAAAGGACAGCGTTTTGTTCTTACTGGAGTAGATACTTA
+TTCTGGTTATGGATTTGCCTTTCCTGTACGTAATGCCTCTGCTAAAACCACCATTAACGGACTGACAGAA
+TGCCTTATCTATCGTCATGGTATTCCACACAGTATTGCTTCTGACCAAGGAACTCATTTCACAGCCAGAG
+AAGTACGACAGTGGGCCCACGATCATGGAATTCACTGGTCTTACCACATTCCCCATCATCCTGAAGCAGC
+TGGTCTGATAGAAAGATGGAATGGCCTTCTGAAGACGCAGTTACAGCGCCAATTAGGTGGTAACAGCTTG
+GAAGGCTGGGGTAGAGTTCTTCAGAAGGCAGTATATGCTTTGAATCAGCGCTCGATATATAGTACAGTTT
+CACCCATAGCCAGGATTCATGGGTCCAGGAATCAAGGGGTGGAAAAAGGAATAGTTCCACTTACTATCAC
+TCCTAGTGACCCTCTAGGAAAATTTTTGCTTCCTGTCCCCATAACTCTAGGTTCTGCTGGCTTAGAAGTT
+TTGGCTCCAGAGAGGGGAGTGCTCCTACCAGGAGCTACAACAAACATTCCATTGAACTGGAAGCTCAGAC
+TTCCCCCTGGTCATTTTGGGCTTCTAATGCCCTTAAACCAACAGGCTAAAAAAGGAGTAACAGTGTTAGG
+AGGGGTGATAGATCCAGATTACCATGGGGAAATTGGATTACCTCTTCACAATGGTGGTAAGCAAGATTAT
+GTCTGGAGTGTAGGAGATCCCTTAGGGCGTCTCTTAGTACTACCATGTCCTGTGATTAAAGTCAATGGGA
+AACTACAACAGCCTAATCCAAGCAGGATGACAAAGGACACAGACCCATCAGGAATGAAGGTATGGGTCAA
+TCCTCCAGGAAAAGAGCCAAGACCTGCTGAGGTGCTGACTGAAGGAGAAGGAAATATAGAATGGGTAGTA
+GAGGAAGGTAGTTATAAATACCAATTAAGGCCACGTAACCAGTTGCAGAAACGAGGATTATAAAGTAATA
+TGAATGCCCATTGTAAATTTACTAATGCGTTTGCGATTGTACGAGGGATAGTTATATCATGTTAGGCGTA
+TTTACAAACTTGTTATTGTTTTATGTGAACATGAGATATTATTTGTGTCAAGTTGACAAGGGGTGGATTG
+TAGTGGCTATTCCTGGTTGTCAACTTGACAATATTTGGAATGAACTACAATCCGGAATTGGAAGGCTCAC
+CAGTGACCCTTATCTGGAGGCTTGGAGATCCTTATCTGGATCTTGGTTTGAAGATCTTGAGCCATAGTGG
+CTATGGATTCCAGAAGATTGAATCTCCGAGTTTAAGGAACACACCTTTAATCTGGGCTACGCCTTTCATC
+TGGGATTAAAGGTGTGGCGGAACACACCTTTAATCTGGACTACACCTTCTGCTGGAGACAATATAAGGAC
+ATTGAAAGAAGGGAGTCTAGCTCTTGCTCTTGCTCCTTCGCCTGCTTGCTGCGTGAGACTGAGTAACTAC
+TAGATCCTTGGACTTCCATTCACAGCTGCGACTGAACAATTGTTGGGAATTGGGCTGCCGACTCTAAGTC
+ATCAATAAATTCCTTTACTATCTAGAGACTATCCATAGTTCTGTGACTCTAGAGAACCCTGACTAATACA
+TCCCTACATACAGGAAACTTGATGTATAAGTAAAGAAAATAGTAAATCTAAAAATTTCCTTATCAAATAC
+ATGCAAGAAATCCAAAATACCATGAAAAGACCTGATCTAAAAATAGTAGGAACTGAAGGTGAAGTGTCCC
+AGCTCTGAAAACTAGAAAATGTTTTCAATATTTTTCCTAACAGTGAAGACATGGATCTAATGAGGCCACC
+TCTTATAGCCATGCAAGACTGACAGTGGAGGGATAAGGACACCAATCCACCCACAAAACTTTTGACCCTA
+AATCAGTTTTATCTAAAAGCAATGCAGGGGCACAAATGGAGCAGAGACTGGAGGAATGGTCAAACAATAA
+CCTGTCATATCTGAGACCCACCTAATTGGCATACACCAGTCACTGACATTATTAATAATGTTCCATTATG
+CTTACAGGCATTTCTCTAGCATTACTATTCTTGGAGAGACTTCACACAGCATCTTATTGAAACAGATGCA
+GACACCCAGAACCAAACATTGGATGGAGATTGGGATCCTTAAAGAAGAGTTGGGAGGATAATTGAGAGAC
+CTCAAAGGAATAGCAACCCCATAGAAAGACACGAACAGGGTCAGTAAACCTGGACCCATGGGGTATCTCA
+GAGACTGATCACCAACCAAAAATCACAGAGGGCCTGGATTGATTCCCCTGGCACACATGTAGCAGAGGTC
+TGCCTTGTCCTTCAGTAGGTGAAGATGAGCCTAAGGCTTCAGAGACTTGATATATCAGCATACAGCAACA
+CCCAAGTGTGTCCCACTATCTCAGAGGTGAAGGGGTGGAGATGGGCAGAAGGGTCCTGATAGGGGACAAC
+TGCAAAGAGGCAATATTTGGGACAGAAAGAAAGGAAGAGAGAGGAAGATAAAGAGAGAGATGAAGGAAGG
+AAACAAACAAACCAAGATGAAGAGAGAGAAAAGGGGGAAAATAGCCTTGAATGGTTCAGGGATTCAAAGG
+GACATACCTAAGCATGGTAAAACAATGCACATAATGGCAGCAAGTAGCTAACACTGAATTAAATAGAAAG
+ACACATAAAGCAGTTCTACTAAAGTAAGAGACAGAGTTGCCCAATCTCACCCTATTTATTCAATAATAAT
+GTACTTGAAGTTCTAGCTAGGGCTGTAAGACAACTCAAGGAGATCGGAGGATACAAATTAGAAAGAAAAA
+TTCAAAGAATTGTAATTGGTAGATGATAGGATAATATACATAAATGACCTCAAAATTCTTCCAGAGAACT
+CTGAAAGCTGATAAATACCTTCAGCAAAGTGGCTAGAAACAAAATTACTTCATAGAATTCAGGAGCTATC
+CTTTATAGAAAAGTTAAAGTGGCTGAGAAAGAAATTAGGAAAATCACATTCTTTGCAATAACCAAAAATA
+ATATGAATTAGCTTGGTGTGACTCTAATCTTGCAAGTGAAAGATGTGTGTGACAAGAGCTTCAGGACCCT
+GAAGAAAGAAATCAAAGAACTCAAAGATGCAAAGTACTCTAATGCTCATGGATAGGCAGAATTAACATAA
+TGAAAATGCCAAATTTAACAATTCAATCTACAGATTCAGTGGAATTCCCATTAAATATCCAACCCAATTT
+ATTACATTCTTGAAAAAGCAAATCTCAACTTCATATAGAAAAACAAGAAATTGAGGGTAGCTAACAAAAT
+CCTGAACAATGAAAACACTTCAGGAGAATTCACCATCCCCTACCTCAAGCTGTATTTTAGAGCAATAGTT
+ATTAAAACTGCATGGTATTTGTATAGAAACAGATATGATGATCAATGTAATTGAATTGAATACACTGACA
+TAAAACCACACTGTTATGGACACTTGATTTTTGACAAAGAACCCAATAATCATAATAAAAATCATAATAA
+GAATGCATCCCCCAACAAATGGTCCTGATCTAAATGCAAATAGATTCATATCTATCATCCTGCACGAAAT
+TCAAATCAAAGTGAATTGCAGACTTCGACCTAATACTGGATTAACTAAATCTAAATGAACAAAAAGTAGA
+GAATAGTTTTGAACTCATTGATGCAGGATTCAATTTCCTGAACAGAACCACAATGGCTCAGGCTCTAGGA
+TCATAAATTGGTAGATAGGATCTCATGAAACTGAAAAACTTCTGTAAGGCAAAGGCAATAAAACAAAATG
+GCAACCTACAGATTGGAAAAAAAATAATCTTCAGTATCCCTAAATCCCATTGAAGGCCAATATGCAAAGT
+ATATAAAGAACTCAAGATGTTATCCTCCACAAAACCAAATAAATCAATTAAAAATGAACTACAGAGCTAA
+CAAGAGAATTCTCAACAGAGGAATCACCAATGACTGAGAATCACTTAAAGAAACATTCAATATTTGTAGT
+CACCAGAGAATTGCAAATCAAAACTACCCTGAGATTCTACTTTATACCAATCATAATGGTCAAGATAAAA
+ATTCAAATGACAGCGCATGTTGGTGAGGATGTGTATACTTTTGCATTGCTGGTGAGGAAAACAATCTGGC
+AGCTCCTCAGAAAATTGTAAATAATTCTACCTGAAGATCCAGCCATACCACTCCTGTGCATATACATAAA
+ATGTGCTCCACCATACCACTAGGAGATATGTGCCACTATGCCCATAGCAGCCTTATTTGTTAATAGCCAA
+AAGATGGATACAACCCTGATGTGCCTCAAACAAAGATTGTATATAGAAAATATGGGTTCCCTTACACAAT
+GGTATTCTACTCAGCAATTAAAACGTGAGAACATCATAAAGTTTTCAGGCAAACTGATCAAATGAAAAAG
+TATAATCTTGAGTGAGGTAACAGAACCAAAATGACCTGCATGGGATGTACTCACTGGTAAGTGAATATTA
+GACTAAAAGTATAGAATATCAATGATGAAAGCCACAGACCATAAAGAGTTTAATAAGATGGAAAGCTCAA
+GTACGGATTCTTCAATCCAATATAGAAAGAGGGACAAAATAATCAGGGGAGGCAGAGGGAGAGAGAGACA
+TTTGGTGGAAATGGGAGAAGAAGGGAGAAAGGCAGAAAGGATCAGGCGTTGGGGAACACTGGAAAGCAGC
+CCAGGGGTCCTGGTAAATGGATTAAATATTCAGCTGAATGGAGGTGGGAGGCAGGGGGAAGCTCTGCAAA
+GTCCAAGAGACCTGGGATGTGAGAGGCTCCCCAGATGATAATCTTAGCCTTCATGCCTAACAGTTGTAGA
+TAAACCCTGAAGAGATCACTTCCAATAGATGCAGAGGGCCCTAAGTGGTTGGATGGAGTCCCCCAACTTA
+CCTCAAAATTGTCAATACTCATAGAAATTAGGACAATGAAAATCAAAACACCCTGAGATTGTATCTTATG
+TCTGTCACAATGGTTAAGACCAAAACCTCAAGTGATGGCTTGTGCTGGCAAAGATTCAGAATAGTAAAAG
+TCTCCCCATGGCTTGTGGGAATGCAAACTCTTACAACCTCTTTGGAAGTATATTTGATTGTTACCTGGTA
+TAAAATGGCAAAAAAAAAAAATGGTTGAAGGGGGACTAAAAAAGGAAGAAAGGGGAGAACTATGGGATGC
+GAAACAAGAAAGTTTGTTGCAAAAGAAATATGTTTCCACTGCAAACCCTGAGTCTCAGACAGAAGGGGAC
+CTGGAATTCTTCAGATACAAAGAATCTCTAAACCCTGAGGACATTCTATCACAAATAAGTAAAATTCAGA
+AAATTCTGAGTGCTCCCATCACGGAGATGAATCTGCTATGAACAGCTCATAGGTGTGACCCTCTACAAAA
+GCCATATTATTGAAAAGCCACATTGTGCCCAGACTTTGGAAAGACTGAGCTCATATCCTGAAATACAGTT
+ATGTGTGGTTCTATTTAATTACACATTTACACTAAGAAAACATGGCAGTATGGGAATGAAGCTTGTTCTG
+TACACATTAACAGAGGGAAACTAAACAAAGTATGGTGAATCCCTAACCAAAAGTAAAAAAAAAAAAAGAA
+AGAAAAGAAAATAAAAGTGAAACTACAATATGTTTCAAATGCTGTAACTGAAATCTGGTTTTTTGATGCT
+TATATCTGGTATCATCAGTGACTTCAGATTTAGTCCAACTCCAGAGCATGGTATAGCAGAAAGACATGCA
+AATAAGCCTTCTCTCTGCCCATGAAAAACACCTCGGCCCTGACCCTGCAGCTCTGACAGAGGAGGCCAGT
+CCTGGATTCGATTCCCAGTTCCTCACATTCAGTGATCAGCACTGAACACGGACCCCTCACCATGAACTTG
+GGGCTCAGCTTGATTTTCCTTGTCCTTGTTTTAAAAGGTAATTTATTGAGAAGAGATGACATCTGTTGTA
+TGCTCATGAGACAGAAAAATTGTTTGTTTTGTTAGTGACAGTTTTCCAACCAGTATTCTCTGTTTGCAGG
+TGTCCAGTGTGAAGTGAAGCTGGTGGAGTCTGGGGGAGGCTTAGTGCAGCCTGGAGGGTCCCTGAAACTC
+TCCTGTGCAACCTCTGGATTCACTTTCAGTGACTATTACATGTATTGGGTTCGCCAGACTCCAGAGAAGA
+GGCTGGAGTGGGTCGCATACATTAGTAATGGTGGTGGTAGCACCTATTATCCAGACACTGTAAAGGGCCG
+ATTCACCATCTCCAGAGACAATGCCAAGAACACCCTGTACCTGCAAATGAGCCGTCTGAAGTCTGAGGAC
+ACAGCCATGTATTACTGTGCAAGACACACAATGAGGAAATGTTACTGTGAGCTCAAACTAAAACCTCCTG
+CAGAGCACCCAGGACCAGCAGGGGGCGCAGAGAGCACATGGAGTTCTGATTCACAGAAGAGTTACAGCCT
+GTACAATTAGACCCAATCTTCAACAAACCGTCAAAATATTCGATCCAAAATTGTTCCTGTCTAAAAGTAA
+TTCAAGGACAAAATGGACCAGAGACTGAAGAAATGGCTGACCTGTGACCCTCCCAACTTTGGATCTATCT
+CATAGGCAGGTACCAAACCTTGACATTTGTCACTGACACTGTATTGTGCTTGCAGACAGGAGCATAGCAT
+GGCTGACCTCTAAGAGGCTCTGCAAGCACCTGAATGAGACAGATGTAAATAGAGTGTACAACTGGATTAA
+GTTTGAAGACTGCAATGGAAGAGTTAGAGGAAGGAATGAAAAATCTGAAGGGGATCACAACCCCAGAAGA
+AGACCAACAGTGCCAATTAAACTGGATGCCTGGGAACTCCCAGAGACTAAGCCACAAACCAAGAATCATG
+CAGGCTGGTCTGAGAATCCTGGCACCCAAGTCTCAAGGAACTGCCTTTTCTTGGCTCAGATGGGAGAAGA
+TGAGCCTAAAGCTTTAGACTTGACGCCCCAGGGATGGGCAATACAAAGTTGAGTTTCTTGGGAAAGTGAA
+GAGGATGGTGGGAGGAGGAATAAATCTGGGAAGTGGGACTGGTTGGGGACAACATATTGGTCCTAAATTT
+ATGAAATAATTATCTAATTGATAAAAAGAGTCCTTGGGGTAATGGAGGGCTAGACTCCTCTGTGCCTAGT
+TTGTAACTCTACAGGGATCCTCTTTAAAAGAATAGGGTGCACATAGAGTATATGTGTGTGACACTAATAC
+AGGGGTAAGTGTTTCTGTAAGAACTTTATGAATAAACTTTATTAAAACATCAAAAAGTATAGGTTGTAGC
+AACCCTTGACCTGTACGAATGTTTATAAAACTTTCTATTTTCCTTAATTATATCTGTTTTGCATTTGTTT
+ATTTATTTATTTACTTACTTACTTATTTATGATTTCACTGTGTCTTTCTGTAGTCCTGTATGTGTTTATT
+TGTCTCTTTATTGCTCTGTTTCTGTTTCTTTCTCTCTGTCTAGTATTGTATCTCTCTGTGTCTCTATGTC
+GCCGATTGTGTCTGTGTGTATGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGCATATTGAAA
+TGAGATCTCTTCTTCTATCAGTGTACATAATGACTTTGAAATAAAGTCCATCACTGGGCTTGGATATCAC
+TATCTTGTTAGAATGGTTGCCCAAAGTGTTCCAACCATCACACTGTTTCTACATATAATAGATGGGTTTA
+TTGATTTACTACCAAAACTACCCCATCTTAAGTTATGGATATTAAACACAGATCCTCATGGTGTGTTAAG
+AACTTGAAGCACAGAGCTATATGTACAGCCCACTAAAAATGACTTAAATATAAGATAAACTCTGGCTTGA
+ACAAAACACAGAGCATCACACGAGGCAGAAGTGAATCTCTATGAGGACCAGGATCACATCCCAAAGAACC
+AAAGAACACTTGAGACTGTGGAACCCTAGAGTCAGGGCTGACACTCAGTAAGATTTACTTCATAGAGCAT
+GATGTGGGATTCAAGAAGAAATCAGGCAGGGCCTGTGACCCATGAACCAGATGACTTCCAGTCTCTCCAT
+CATCCTCACACAAACCATAGGCAACAGCTCAGCACTGACTCACCTGTGATGCTGGTGACAAAATGTGTGC
+AAAGCCTCAGAACTGAGACGTGAGGCCAATGTTGCTACCGACACTCAGTGAGCTTCAATTTGCTGCAAAC
+TGCTCCAAAACAACTCAAAGGGTAACTTCTTCTTTTTCTATTTGTACTTGTGATGCCTTGGTAGATATAG
+TTCCCCAATAATTTAATAGGACAAATCATTTTTCCTTTTAACACATTAATCCCCTTTCCTTCCCCCAAGA
+TTCTAAAATTTTTCTTTAACACTGATGTCTGAGAGATATGGCATAATAGATGTTTGTCTTATTCTGAGTT
+GTTCCTTATCAAAAGAAATCAGCTGTGGCACTTTGAACCTAAATATAACAATATTTCACAAAGGCATTCT
+GGGAATATATAGATGGTATTGCTACAAAAGAATAGGAGGATCTATGGCCATACCACCCTTAATGAACCAG
+ATACTATCTAAAAGATTAGGACAGCTGGGCATGTTGGCACAGGCCTTTAATCCCAGCACTAAGGAGGCAG
+AGGCAGGCAGATTTCTGATTCGAGGCCAGACTGGACTACAAAGTGAGTTCCAAGACAACCAGGGCTATAC
+AGAGAAACCCTGTCTCGAAAAAACAAAACAAAACAAAACAAGAGTAGGAGGGTATTAGATGCGAGGTGAT
+GATGGCCATTCAATCAAACCAGAATGTGACCTGAGAAAAGGTCTAAGTTTGTCAGCTTGTCCTGGAGATG
+TGTTGCCTCTGATAAATGCAGAGCTGGAACTGCAATACATTGGATTCCTGTGAGTTACGGAGAAATAAAA
+GGAATAGCCTCTGTTTCCTTTGGTTCATCAAGTTGGCAGTGAGCTAGAAGATGATACTGGGAACCATCAC
+ATGTACTTCTACAGAGTTATTCTACATTCTACAAGTCAGTCTTGCTTGCTTTCGTTTCTGTGAGGAGCTA
+AATACAGAATGTTTTCAATGTCTCATAATGTTCTGTGCACACCCATGGGTGCCTAGCCAAGGATAGAAAC
+TTGTATCTGATAAGGAAAGAGGATGCTGCAGTGGCCACACTCTGAGATCACCTCCTGCCAAATTATACTA
+GAGTGTTTTACATAGTCTTGAAAACACTAGGTCAAATATGTTGTCATCCAGATATGAAAACTCTGTGCAA
+CAATTCAGAAATACAGTGGTCAGGACAACTGGTATGTAACACTTTAGTTCCAGCCCACATTAATCTCACA
+TCTTTTCTGTGGTTTCAATAAAGAGCACACATGTTTGGAACACCATCTCCACTTTGTATGCTTATCCTTA
+TGCATCAAACTTTTCCTGTAATTTCCTACCCCGCACAGGTTCCTGTCTTGATCTCTTTTTCTAATGAACA
+GCAATACAGAAGTGTTGGCCAAATGAACACTTTCACCCCAAGTTGCTTTGCCATTGTGTTTCATCACAGC
+ATTAGTAACTCCCAGTAAGGCTACTGGTTACCCTGCATCTTCTATGTAGATCTTTTGATGAAGTTCCAGG
+CTTGGGGTCTTTATCTGACTGTTATCCTGGTTAATTCATGTCCACCAATAGAATATTGTTCTCATTTTCA
+ATATCATATGAAGTTACCTGTTTATAGGATCTTCCTAAAGCAGAAAACTATATAAAATGTCTGCTTACTT
+TAAGAAAAGTATGTGTCCTTGGAGGTAAATGGAGGAAAGGGTGGAGGATGTTGAGTAATGGAAGACTGGC
+TAATACAGGAAGGTCACAGAATTGAATGATTTTAAAAATTTTAACTCCTCATCAATGAGGTACTTCAAGT
+TGAGGCAGGAGTCCTTGATGCACAGGTGACCCAAAGGCCCCAGCCTCTGTTTCTTGGTCTGCTCCAGTCT
+CCCGGCTCAGCACAGTTCACTGAGTGACAATCTTTAAGATAGTCTTTCAGGATACAGTTATCACAGTTTT
+CAAACTCTCTTCATTGAAACAATATAATGAGTCAGAGTCCAGTGTGCCATTAATAGGCCCTATGCAATAG
+GATTTTACTTCATCTGTGGAAAGAAACCACCATGGCCTCATCAAGGCCTCATTTGATGATTAGTGTAGAA
+AGCGTCCCCAGAGCTTTGCTGGGATGAAAACCCTGGCAAGATGTTTAGGGCACTCTCCATCTGACAGGAC
+AATTCTATCAAGGGTTGCTTCCATATAGAGAGAAATCTCCACATCTGCAGTATTTCCCGATTTATCAACA
+GTTCTTTACCCCGTGTCATATGCATAAAATCTTTTCTCTGTAGAATTTTCAGTACTAAAAACTAACAAGG
+ATGTTGGTCCTGATATCAGACATAATAAATAAATAAACATCAAATTATACCCTAAACATGTGGAGATGGT
+TTTCTGTTATGAATTTATTGGCTCTCTAAAAAGTGTTAATTAAGCCAGGCGTGATGGCACATGCCTTTAA
+TCCCAGCACTTGTGAGGCAGAGGCAGGCGAATTTCTGAGTTTGAGGCCAAACTGATCTACAGAGTGATTT
+CCAGGACAGCCAGGGTTACACAAAAAAACCCTGTCTCCAAAAAGTAACAAAAAGAAAGTGTTAATTAACA
+TCTACACTTTAAGATAATTTGGTGGCAAAGGTTAATAGTCTGAAATACTAGATATGAAAGTATGACACCT
+AAATTGCATGCAGAGAATAAAGCTGAATTCCAATGAGATTCATGCCTTGTGAATCCATTCCAATCTGATC
+TCAATCTTCAAACATGTTTGTGCATAATTTACATCTTAATCAGTTGCTGGAAATTAAAAGGACATAAGCT
+AAACTTAAAACTCTTTCTATTTAATGTGTCAGAATAGAATATGTGCACTGAAGTTTTCATGTGCATAGGA
+TATCATTGTTACAATGATGGTTCAAATACGCACCAGTAGCACAGGTGATGCTTGACATGAAAAAAACTGT
+GACCAGAGCCCAGACGTTGATGTTGGCTGAAAGAGCCTAGTGTCTCACATTTGATCAAGCAAAGTGTTAT
+TCAGAGAAGCAGTGCCAGATTTGGGATCCTTCTTAATGGATCAAGAACATGAGGAAGATTTGGAAGCCAG
+ATTGATGAGATTACTAGAATCCTGGATCTGAACACACAACACACAATAGTAAGTTGAACTTTTCCACGCA
+ATGCTAAAGATAAAGCATCCAGTATCATGTTATACAGGACCAAGGTGAGGATCAGTCTGTGGGTGAAGTA
+CAATGAACTGGAAATTGTTTGGATTTTAAATGTTGGTTTTTAAATTATATATAAAATATATATATATATA
+TATATATATACATATATATATATATATATATATATATATATATATCGGAACCAACATTTAAAATTTGGAT
+TTTAAATGTTGGTTTTTAAATTATATATAAATTATATATATATATATATATATATATATATATATATATA
+TATATATATATATATCGGAACCAACATTTAAATTCCTAATTCTTAAGGACTTCACTTTTGACCAAAAATA
+TTTGAAATGGGTTATTTAGGTCTGTGGTGGTTTGAATATGCATAGCCTATAGGAAGTGGAAGTATGGCCA
+TTTTGTAGTATGTGTAGCCTTGATGGAGGAAGTACATCACTATATGGTGTTGTGAGAGTTGAGATCCTAT
+GTTCAAGTTCTGCCAAAAACAGAAGAGAGTCCCCTCCTGGATATTTGAAACAGATGCAGAGGCCCAAAGC
+CAAACATTGGGTATATCTCAGGGTTTCTTATGGAAAAGTTGGCTGAAGGATTGAAGGCCTTAAAGGGGAT
+AGGAACTTCACAGGAAAACCAACAGATTCATCTAACCTAGACTCTAGGGGTCTTTCAAAGGTTGAGTCAC
+CATACAAAAAGGACACAATGGCTAGACCTAGGTCCCTGATACATATGTAGCAAATGTGCAGCTTAGACTC
+CATGTGGATTCCCCAACGACTAGAGCAGGTATTGTCCCTGAAGTTATTGCTTGTCTGTAGAATACATTTC
+CCAACATAATTGTCTTGTCTGGCCTCAGTAGGAGAGTATGTTCCAATCCTGGAGAGACTTGATATGCCAG
+GATTGAGAGATTAAGGGTCTCCCACCATCTCAAAGTTCATGGGTATGACAGGGGAGGGGCAGTGCAGGTT
+TTCCCCATCTCTGATTTCCAGCATTTGCACCCCCAATATTGAGGGGGAGGTCTAGCAATTGGAGGGGGGA
+CAAACAGTATGAGAAAGCTAACTTTAGTGGTGTTGTCACAGTGTGGGGTATTGTGGGTGGGAGTGGAGAT
+GAATCCTCCTCCTCCTCAGGAGGCTGTAGCAGGTGCTTGCCCTCTTTTGGGACAGTAGAGCTGTGGTCAG
+TACTGGCCTGTTCCTGACAAATTTATTCTGTGCTGTGACCATTTATTCAAGGGAGGAAGATTTAAGACTT
+GCTATGATAACCTGACGAATCTGGACAAACAAGAGACAGGAGGTAACACCTGAGTTACTCTTTTGCTTGC
+TAGTACAGAAGAGCACTATAATCCACAAATTGGGGTCCCACATATTCTTGAGTGGGATCCAAGGTGCCAT
+AATTTCAGCCACATTCCAAAGTCCCTCAAGGTCTGACAGTTTAGTCTTTAGGCTTCTCCTAACCAAATCA
+TATTTGGAGTTCTTTAACATAAAAGGGTAGTTTCCCCATATCACTGCCAGCAAAACAGGTTGAATTTGGA
+CAGACAAGCAAAACTATCACAAACAAGACAGACTATGTGTGCGATCCAAATGTCTTGTGATTAGAGGGGA
+AGTTCTGCAGCTTATTAGGCTGTGTCCTTATGCCCACAAATGTCTTCAGATAGGAAAGGGCCATTGGGTG
+CCAATCCTTAGTTCTTCTGTTTCCTGGGCTGTCAGTTTTTATGTGGAGAAGACATGAACCAAATGCAAAG
+TCATGTATCCTACAAGAACTGACATACACAGACAAACAAGGAATAACAATGAGCTCTCTCATTCACCTAA
+GGGGGTCTTATAACATAGAACAGAAAGGGGCCAACTTAGCAAGAATTGACCAAAAGGTGGTCACCTAGAC
+CACACCACAATGCAGGAAGGATATCAATGAAGGAAGAACAAAGGAAAGGCCAAATCAAGTTTGTTGGCAC
+ATGACATAAAACAGTGCTCAAAAAACAATAGATGCGAGCAAAATGAAGCATTGGAATCATATCGGGGTAC
+ATAGGGGTCACTCTTACCCCTGTTCAAGTGCCAGATGTTGTTTTAGCCTTAGGCTCCCTGAGTTTGTCTT
+TAGGGGAAATGGGTAAGAATACACAAAAATAATGTCACAGAATCTTAGAGGCAGATGAGAAGTCAAAGCA
+GACTCATTTATTGCTATAGAAAAGAATGCCTTTATACCTTCTGTCCATAACACCTCTGCCCATATATGCT
+CATCTCTGTGAGGCAATGGACTACCTGCAGACAGGCTGGTATCCAGTCAAGCTGAGGTCTGAACCACAAT
+GGTCGTAACTCACCTAAAGGACGTGGTAGGCATGACGCGATAGGCGTTCCCTCATGCTCCTGGAACTCCG
+GCCCCTGCCTAAGGTACCACCTCCCACAGCCCCCACAAGAGAAGCATGGTCAGTAGTCATGTAAGCAATG
+GCCCAAGCTTCTGACCTTCAGCCTAAACTCCTCCCCAGTTACCTAGCAACAGTGAAGACCATAAAATGGG
+ATGTTAGGCCCCCACCTCACTCTCTTACTCCTTTGTTCCTTTACCTCTCACTTCTCTCAATTCTCTCTCC
+TCTTCCCTTTCTTTGTCTTCTTCTTTCCTTGTCTCTCTGTCTTTCTCTTTCTCTCTAGCCTTCTCTGCCT
+CTCTCTCTCTCTCTGTCTCTCTGTCTCTCTCTTCTCTCTTTCCCTTGAATTTCTTTTTTTCTTTTTTCTT
+TTTTTGATGAGCACAGTATAAATAGTTTATTGCATTGTTTCTGAATGTGGCTGTATTCTCTATTGTTCTC
+TTTCTTATTTTTTTTCTTTTTTTGGTTGTTTTTGTTTTTATAGTCTCGCACAGAATTCTACATCTACCAA
+ATCCCCATTGTGTACTTTAGTTTTGTCTTGTATTCAAAGGTTCTTTCAGAAAGAATCTTAAAGATGAAAT
+TTGCCTTCCAACTTTTCAAAAATACATATAAAGATAGATGTTACATAGTTCACGGAATAGACACATATAC
+GGAGATGCAGCAATATCTCCTTTGTGCCTCTTGTATATTCATGTTATTTCCTCAACTAAAAATACATAGC
+CACAAAGACATACAATGAGCACTCCACTTAGGAAAATATGGCCATATTTTTTTACATTTTTATGATTTTA
+TGATTAGGTATATTCTTCATTTACATTTCCAATGCTACCCCAAAAGTCCCCCAACCCTTCCCTCACTCCC
+CTTCCCCACTCCCACTTGTTGGCCCTGGAGTTCCCCTGTACTGAGGCATATAAAGTTTGCAAGACCAATG
+GGCCTCTCTTTCCACTGATGGCCCACAAGGTCATCTTCTGATACATATGCAGCTAGATACATATACATAC
+ACGAGCTCCAGGGGGTACTGGTTAGTTCATATTGTTGTTCCACCTATAGGGTTGCAGATCCCTTCAGCTC
+CTTGGGTACTTTCTCTAGCTCCTCCATTGAGGGCCCTGTGATCCATCCAATAGCTGACTGTGAGCATCCA
+CTTCTGTGTTTGCTAGGCCCCATTATAGCCTTGCAAGACAGCTATATCAGGGTCCTTTCAGCAAAATCTT
+GCTAGTGTGTGCAATGGTGTCAGCATTTGGGGGCTGATTATGGCATGGATCCCCGGATATGGCAGTCTCT
+AGATGGTCCATCCTTTCATCTCAGCTCCAATCTTTGTCTCTGTAACTCTTTCCATGGGTGTTTTGTTCCC
+AATTCTAAGAAGGAGCAAAGTGTCCACACATTTGTATTCATTACTCTTGAGTTTCATGTGTTTCCCTTGC
+ATTTCTATAATAAACCATAAGGAGTCTCTGCTCTACCAAGACCCGCTGCACACTCTGGTCAGTGTTGGGA
+ACTTTTCCCCTATTCCCTCTCTCCTATAACTCCGGGGCTACAGGGTGTCTCCTTTGGGTCCCGGTTGGGA
+GCTGTCTCTTCTCAACCCCCTGACTCATGGGTCAGAGGCCTAAATCTCCACCCAAGGCTGTGTGAAAAGC
+ACCGGGTGGTCTCCCCATATCTCCCTGTCCAGAGCACAGGAACTCTGGCCGGACATGGCATATTTTTCCT
+CCCCAACTTCTTCCCCGGCCTCCTCAGGGCTGTCCCTTCATTTTGTTCCCCACACATCTCCACATGGCTG
+CCACCATCCAATTGGCTGCTGAGGTCACACACTCTGTCTTTGTTCTTCTCTGAGTCTCATGCAGGTTTTG
+TGTTAGTAAATGCAAAAGTGCCTGCTGTGCATGCATGAACCATTACAGGCTGCTAGGCAGAACATGCTGA
+CTTGCTCCTGGATTATAAATCCATCACTGTGATAGCAGGACATATCCAGAAGACATTATTTAACAACACT
+CCTCTTCGTGCTCAACCTCTCATGGTCTTTCTACCTCCTCTTTCTTAGTGTTCTCTGAGCCTACATGAAA
+TGTGAACAAACCTGAAAAAAATCTCTGTGTCAAATACATAGTGTGGATTGGGAAGGAAAAACCCTGCACT
+TGTGTGTGGGCAGGGAAATGCTGGTGCTTTAACAGGACAAGTGCGGTGTGGCTAGAGAAAGTGATGAGAA
+GAAGGGAAGCATGAGAACTGGGTGGGTGGATCCCATGTCTACTGAAAATGCTATGTTGATGTCAAGATAT
+TGTGTCTTGTTACAAAAATTCATTGAGTACCTAGGTTATTCTCAGTATATAAAAGGGGAGGAATGAAACT
+AGAATTAAACACACACACACACACACACACACACACACACAAACACACACACACGAGTAGAGAAAAGAAA
+TAGTCATGAGTTGCCTAGTGAATGAAGAGCGGAAAATGGTGCAGTTAATAGGGATCATAGAAAGAACTGG
+GGGATGCACACGAATGGGTTTCCTGTAATTATGTCTTCATAGTAATCTCTGCTCAATAATCAGACAGTGA
+CAATGTATGCCTCATTTACAAGCCCTGATGGCCTCTCAGAGGAAAGCATCTCTCTGAAATGAATAAAGTT
+CAGAAATGTCCTAAGTGTCCCTGTCACAGGAAAGCAGTGTTGGTAACGTTTCCAGGAAGCTCAGTCTTTG
+TCAAATATCCACAACAAGAAGAAGCCATGTCTAGACAGACAACAGACTGGGAAAGACTGAGCTCATGTAT
+GGAAACACAACTATGTGTCATGCTTTTATTTTCACATTATACTGAGGGGATATGACATTATAGAAACACA
+GTTTGTTCTTTGCATATGCTGAGAGAGGAACTAGATGAAGTGTGCTAATTCTTAGCAATAAAAAGATATA
+CAAAGTGGTACTTTACTGTTTCAATTTTTGTAACTGGCATCATTGTCTTTGATATTTTATATCTTCCTTG
+AGCACTGCCTTCTCTCAAGTGTCCAACTTCAGAGTATGCTATAGCAGGAAGACTACCAAATAAGATTAAT
+TTTTTTGTACCCATGAAAAAATTATGTGCCCTGACCCCTGTTCTCTGAAAGAGGAGCCAAGTTCTGGATT
+CCCAGATCCTCATATTCATTGATCAGCAGTGAACACAGATCATTCACCATGGACATGGGGCTCATCTGGA
+TTCTCCTTATTGTTTTTAAAAAAGGATTTCATTGGGAAAAGCTGCCTCATATTTCTATGACCAGGAGAGG
+AAGATACAGCTAGAGACACAAGCCCCACCATGTAAAATCTGTATGGTACTCTCGTTTTCATTTTACAACA
+TTTTGCTTTTGCATTGCAAAGGAGCAATAAGGGTTCAGCAATCAGCACTGTAACTGTACTTTTAAAATTT
+CCACCTCTACCCTCTGTGTCCTCTATCTAGTGATAGAAAGTGAAATAAGCACATAAAGCATGGGACAAGA
+AGAACACACAGAGGAGCAGAGACTGGCTACAAGTGGCAGCCAGCATGGAGCTGGACAGAATTTAAAAAGA
+TAAAGAGAAATGTCATGGCATGAAGCAGTGACTTTTTCTGTTCACAATGCCTGCAAAAACTTTATGGAGC
+CTACTACTGCTGAGATATGCAGGTTTGGTTCCAGAGAGGATTTTCTGTTTTATTTAATTTGCTTTTAAAT
+TTTTCTTCTTTGTATAGTCTGTATTTTTAAAAAGGGGTTGAATGAATACCTAAGCAGTTGGAAAATTTGT
+GAGTAGAAACCGAGGGCCTGAGAAACAAATAAATCAAAATTTTGAAATGGCAAAAGAAAGGGTTCATTCT
+ATTTTCTCTTTTCAGAAAAGGTTGCAAAGTTGGATGTGCAAATGGAGATGTTATGGGTGGACTTGGAACA
+TCTTGGGAAGGAAGGAACCCAGGAAAAGAAAGAATGAAATGGCTCAGCCTCAATGACTGAGCAAGAGAGT
+TAGAGTCACCCACAGGAGAAAAGAAGAAAATAAACAGCACTGGGGTGAATTTGGGTCAGAGAAAACCTTA
+AAATGCCAGAGGACAATGTGATGAAAGAGACCATTTGAAAGAAAGGGTTAACCTCATTCCATCAGTCATG
+CCAGAGTTAGAGAATGGGCAGTCTGGAGTTACAAGATCACGATTAGCCTTCCCAGTATGTATACAGCATA
+TTCCTGATAATGAGATGAAGCAAAGTTTGACAAGGTAAGATTGTATCCTATAGTAATATATAGATCAAAG
+GCATGTTGCAGTAAATCTCCAACAGAAATAAGCCCGGGCAATGAAAACACAACTCAATTAATATGAATAC
+GTGCTGTGCACCTAGACTGGGCAGATCTACCACTCCACTACCATATGAGAGATCCCTTATAACTTGTGGT
+TTCTCCAGGCCAGCTGCTTCTGCTCTACTTTCCTTCCTCCTCCTCCTATGTCATCCTCTCCCTCACTCTT
+TCTCTCCCAAAACTTTCAGCTGCACCTTCCCCTCTTCATCCCCCAATCAGTGGCTCTAGCCTTTATTTAT
+AAATTAAGGTAGGAAGAAGGTTTATAGGAAATTACCTGAGTGTTGACGTGTTGATAACCCCACACAAGAG
+AACAAAATTAATATCAAATATGATTAGCTCCAGGGTTATATGCAACAAAGGCATGATAAAGTGGTCATGA
+TTTCATATGAGATGTACTGGACTCATGTGAAAAAACGTTTAAATACATGGGCTTACTCAAAATATAGACT
+CATACCCCCAAGATGGGAAGAGACTGGTAACATTTGTACTGGAGGCTGGTCTGCTGTGGCAGCCATTAAC
+ACAGTGGAGGGAAGAGCCTCAAAGAGTGAAATAGAGGAAGGGGAACAAATACAGTAAACCACCAGTTACT
+ACTTAAAGGGCAGTGTTCTGATGTCCTAGGGAGGGCACTCCAAAATACCAATGGCCTTATCCTTAAATTT
+ATTGTTTAATGAGCCTACACTGATCTCAGTGGCCCACTACTAAGGAGAAATGACAGGCACTTGAACAGCT
+GATATGAGAACAGCTGGAGGCACAGTATACAGAAGAGTTTACAAGCCTATGGAACTCCCCTGTATTTTTT
+TATGATGAGGAAATCTGAAAAATGTAAAATGTTGAAAGATTTAAGAGCAGTTATTAGAGTAGATCAACCA
+ATGAGTCTCTTGCAGCCTGGAATTCTTTTATCTTGTTTGTAACAACAATCAGGCTCCATAAATTATAAAC
+TATAAAAATTTACTTTATAAATTATAAATATATATATATGTGTGTCTGTAGATAGATAGATAGATAAATA
+GATAGATAGATAGATAGATAGATAGATAGATATATGGATTTGATGGTTGCAGCAAATTCTAATTGGTTCC
+AACAACCCTACTCACATAATACATTCATACAGGTTTGATAGATGGAGCTAAGTTTTAAATAAATTATTTT
+TCTCCCATGGCTTATATATACACCACCAAAATTCTCAAAAATTAAAATGTGATTGTGTTGTATTTTTCTT
+TTACTGAATGACTATAAAAAGTTACAACATTCTCCATAAATTTACATGAAAAAATATTATGTAGTGCAGG
+TAAAGAAAACAAATTGACCCAAGAATGGTGTATATTCATTACTAAGCAACTTTTTAGATTCACAAAGTGT
+GGGTAAACAAGGTAATTTTTTCAATCAGTTTTTTTTAACTGGCAGGCAGCAATTCAGAGTTACAATGAGA
+AGATTAATAATTTTATTGTGTATTTTAAAATAAATCTTACAAAAATATTAATAGAATCACAAATTTATAC
+CTTTGTATAAAAACAATCAGTCATTTCTACTTTAAGAAACAGAACTCACATCTACTCATCAATCATTTTA
+TTAAGTCATATTACAAAGCTGAGTGCTAACATGGGTATAAGAAAACCATAACCTTATTCACCAGCCCAGC
+GTCAAAAAGAAAAAAACCAGTCATATCAGCTGCTGCTTCAAGAGTTCTTGTTCCTTGACATTAACAAAAT
+CCCTAGCTTAACTATTAAATTTTTTTTCAAAACTTCTAATTGATCCCTTAGATAAATGTTTGTGCTAACC
+ATCGGGACACATCCCATGAGTTCTGAAGCAGTGTGTTGTTCTTCATGCATGGCCCTTTTGTAGAGCTGTG
+AGTGTAGGGGAAGAGGGGGGAGAGAGAGCCCGTGTCCAGCCAGAGATCCTGTGCTCTGGGCAGGCAGACA
+CGGGAGGACAACGGAACACTTTTCACTCGGCCTTTGGTGGGCATCTGGCTGTGTGAAGTTACTGACCCCA
+CATGGTGGGGGATGGACAAGGGGCAGCCCCTGGTACCAGGAGCCCCAGGGCTACACTCTCGGCCCCAGAT
+ATACAAGAAGAGGGCAGAGGGAGAGAGGCTCCCACACAGGCGAGAGTCCTTAGTCTGGTCTGTGGCTGGA
+GCAGGGGAATTCCTTCTGATTGGAGATTAGGCACAGCTGATTAGGGGAAAGCCTACCCCATCATCCAAGC
+ACAATGGACTTTGAGGAACAGAGCCAGTCTAAGCTTTTATAGCTTTATGGTAGAAAGGCAGGGAGAAAGG
+AGAGAATGTGGAGAGAGACAGAGAGAGACTGGCCATGGCCAAGAGGAGGGAAGGGGGAAGAGAGAGAAAC
+AGGAAAAGCTAGAAAGTAAGATAAGAGAAAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGCAAAGTG
+GGGCCAAGCAGCCCCTTTTCTAGTGAGCTTGTCATCTCACAGTTGCTAGGTAACTGGGGAGGAGTTTAGT
+CTGAAGGTCAGAAGCTTGGGACCTTGTGTATGTGACTACTAACCACAGCTTCTCCTGTCGGGACTGTGGG
+AGCAGTAACTTTGACAGGAGACAGGGATCCAGGAGACATGAGGGAACACCTTCTGTCCCACATAGGTGGA
+ATCGGTTGTACCAGGGTTCAGAACTCAACTCCACTGGAGACCAGCCTATGTGTGCATAGCCCATTGCCCT
+ACAGCCTTTGACATTCTACAGAGTTCTGAGACTGGTAGAGATACAAAATAGCTAGGATTACACAGAGAAA
+CACTGGCTTGACAATAAAACTTCCAAAACAAATATAAATGAATAAATACACAAATTGGAGCAAGTGAACT
+TGCACTAAATCCATCAAAACTTGCACAGGATGGCTGTCTCCATAATGTTCAGATCTACTTCTATTAATGT
+CATTAAGAAGACAAAGATTATGCACAAAAAGAAACAAAACAAGAAACCCAAAAGGTAAAGGCTCCAATTG
+TAAGTAATAGACCCACAGTCTCTGAGGCCTGACTGTGCAGGTCCTCACCTTTGGTAATCAGCACTGAATG
+CAGACCACTCCTCATGGACTTTGGGCTCAGGTTTGTTTTCCTTGTCCTTATTTTAAAAGGTAATTCATAG
+AAATGAGATCCTGCCAGTATTGTGTACATGAGAAATAGAAAAATTGGTTTTCTTTGCTCTATTTTGTTTT
+GTTTGGTTAATGACAGTTTCCAAATCAGCATTCTTTGCTTTGAGGTGCCCAGTGTGAGGTGAAGCTGGTA
+GGGTCAGGGCAGCCTGGAGGGTCCCTGAAACACTCCTGTGCAGCCTCTGTAGTCACTGTGAGTGACTACT
+GAATGACCTGGGTCCTTCAGGCTCTAAAGAAGGGGCTGGAGAGGGTGGAAATAATTTTTAATGGTGGAGG
+TAGCACCTATTATCCAGACACCATGAAGGGCTGATTCACCATCTACAGAGATGATGCCAGAAACACACTT
+TACCTGAAAATAAACAGTCTGAGGTCTGAGTACACAGCCATGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+TGTGTGTGTGTGTGTGTGTGTGTGAGTGTGTATTCATATATATATATATAGTGTGTATGTATATTCATAT
+ATATATGTATATTCATAAGGTTGAGTAAATGGACTTAAACTGATTCCATCACAACTTCCATGGGATGGAT
+ATTTCCCAGTGTTAAGACCTGTCAACATCACTGTCATTCAGGAGACAATGATTATGCACAACAAAACAAG
+AAACCCAAAAGCAGAGGACTCCAATTACAATAGACCCAGACCCACAGTCTCTGAAGATTGACTGTACAGT
+TCAACCCAGCCCTGTACTTCTCTTCCCTAGAATTTACATTACTGAGTAACTGAGGAAAGCTCTACAATAT
+CTGTTCTCTATAGTGGTCAACACCTCCAAACACAGGTTACCCATATTCATGCCTGCCTTCTGCTACACTT
+CTTGCCATAATGTAGACTACTTCAGCCTATTTTGTACTCCAGTTAACGAAACTCAAGACTAGCTGCATGT
+TAGTCCTTATTCTGAAATATTATGAACAGGTGACCTCCCATCATTCACCAATGCAATAATCATATTTAGG
+AATATGAGGTTTTATGAGATATAAGCACAAGGGAGAGAAAGTAAGAAAACTACATAGATATATAGACTGA
+CATAAATCAAGACTTGCATGAGCTAGTGCCCAAGTACCATGTCCCTAAGTGGCAAGGAGTATCTTTTGAG
+CCTAGTGAGATGAGGTACAAATCGGACTCTTACATCTTTTTAGATAAACATGTGAGATCAATGGACTAAA
+GGCGTGAGCTGGGCTTCCTTGCAATCCATTTTCCATACAAGATAACAATAGATCTGGCTCCACAGACACG
+ATGAGAATAGTCTTAATTAGTTCTTTAAGTAGAATGACTGATCACTAAGAGCCCAATTCCATACTAAATA
+CTCTTCTGGATTATGCACAGATAAAAATTGCACATAGGGCATGGGGCACTGATCTCCCTGCACTACATGA
+ATGGGGGCTCATTTACTAAATGTTCCCATGTTTCTTCCTAGTGCTGCACAGAGCAAATCCTACAACTTCC
+TGCTTGTCTACAATGTAAACTCCAGACAGTACCAGAAAATCATTCCTTATGTTCCTCTCCAGGTGCTTCA
+ACAAGCACAGTGCAAATTTCTGTCACCCTG</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2>Vaximmutor</phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene435">
+        <gene_name>MOMP</gene_name>
+        <strain></strain>
+        <vo_id>VO_0010890</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>1518659</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:279628</xrefs>
+        <taxonomy_id>83560</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>major outer membrane protein</protein_name>
+        <protein_pi>4.86</protein_pi>
+        <protein_weight>39872.84</protein_weight>
+        <protein_length>457</protein_length>
+        <protein_note>mouse pneumonitis; submitted as Chlamydia trachomatis</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>AAB07068.1 major outer membrane protein [Chlamydia muridarum]
+MKKLLKSVLAFAVLGSASSLHALPVGNPAEPSLMIDGILWEGFGGDPCDPCTTWCDAISLRLGYYGDFVF
+DRVLKTDVNKQFEMGAAPTGDADLTTAPTPASRENPAYGKHMQDAEMFTNAAYMALNIWDRFDVFCTLGA
+TSGYLKGNSAAFNLVGLFGRDETAVAADDIPNVSLSQAVVELYTDTAFAWSVGARAALWECGCATLGASF
+QYAQSKPKVEELNVLCNAAEFTINKPKGYVGQEFPLNIKAGTVSATDTKDASIDYHEWQASLALSYRLNM
+FTPYIGVKWSRASFDADTIRIAQPKLETSILKMTTWNPTISGSGIDVDTKITDTLQIVSLQLNKMKSRKS
+CGLAIGTTIVDADKYAVTVETRLIDERAAHVNAQFRF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Female BALB/c mice were immunized with chlamydial major outer membrane protein (MOMP) mixed with cholera toxin and CpG oligodeoxynucleotide adjuvants by either the IN or TCI routes.  Both intranasal and transcutaneous immunization protected mice against respiratory challenge with Chlamydia [Ref1061:Skelding et al., 2006].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene438">
+        <gene_name>PmpE/F-2</gene_name>
+        <strain>Chlamydia muridarum str. Nigg</strain>
+        <vo_id>VO_0010893</vo_id>
+        <ncbi_gene_id>1246432</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>497915819</ncbi_protein_id>
+        <gene_locus_tag>TC_RS01330</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>WP_010229975</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>308276</gene_start>
+        <gene_end>311353</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>autotransporter domain-containing protein</protein_name>
+        <protein_pi>8.26</protein_pi>
+        <protein_weight>107782.38</protein_weight>
+        <protein_length>1025</protein_length>
+        <protein_note>similar to GP:4376753; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:308276-311353 Chlamydia muridarum Nigg, complete genome
+GTTAAAAGACCAGAGCCCCTCCTGCATTCATGTAGTGTGAGACTGTAGAAGTAGCCACCTGCGCTTGATA
+ATTAGCGAATAGTTTAAGATAAGAGAATTTTAGAGAAGATGATCCTCTCCCATAAAAGGAATGCTTAGCT
+AAAGGAGTGTTTGTTGTTTCCCAAGAACCATTGTTTTTGATTAAAACGGTATTAAGAATGGGGCGCTTCC
+AGTAAAGAGTAGGCTGGTATGCTACCTCCATTTCGCAGGATACAGTTGGCCATTTATTCGAAGAATAAAC
+ACCTTTAATTCCTATTGGAGAAACAACAGCTGTATGTGGTTGTTTTAACGAAAATAATCTAGCCAGGTCT
+CCCTGCTCCTGGATAGATGCAGGCTCTGTTCGGGAGATGAGAGCTTGAATGAATGGTGTCAACATAATCG
+ATTGGAAAGGCATACTATCCCGCAGTTCGCAACGTAGAGAGCCCCCCAGAGTCGTAGAGTGAAAGTTCCC
+TTTAGAAAACTTTTTCGTTCCATAGAAGTTATATGTTTTATGAGTACCATAGTTATAAGCAGCTGCTCCA
+ATAAGAGCGATACGATCAAACATAGGTTGTTCAAAACACAGAGCGGAGAGATAATAACGAGAAGAAATTT
+TATTATTGGTACGTTTCTCTTTCATTGTGTCGGAGGATTGGGAAAAGGAAAATAAAAACTTATGTCCGTG
+TGCTCCTGATGCTTGTGAAGATATAGCATATCCTTTCGATGCAGAAGAATATCCGTGATAATCTAAGCGT
+TTCTGCTGTTTGGTGAATAGCGTAGCTGCAGATCCTTGTAAAGCGAACCAAGAGTCATCTGGTAGTAATG
+AACGTAAGTACAGGGTTGTATTTCTTCCAGAAGACACTAAATTATTCGCAATAAGATCCCCTCTACGAGC
+AGGATCTGCTATATATCCGATTGGGGTCCAGCTCACTACTAAGGAGTGTCTAGTGACTGTTACGTCCGTT
+GTAGCAAGAGGAGTTGTTCCTCCTGTAGAAGCTCTAATGGAAGGAATCTTAGCTGTAGTTGTACTGTTGG
+AATCAAAAGTTTCGCTAGTGTTTTTTTGTTCTTGAATAGAATTGTTGGCTGTTTGAGTCTCTGTACTATT
+GGTAAGAGAGACCGTACGGGTGGTTGTCATCCAATTAGATGTCCAGAGTCCTTGGTATCCGTAATGTGGT
+AAAGAATATAGCGAGGTATTGAGAGTGTTTTTCCAATCATTGCTTAACTGCGCATCATTAGTCGTTTCGA
+TATGTAAAATGGGTTGATTTGCTTTTCCTCGGGATAGGTCGCAGCTGTCATAAACTGATTCGTAATTTTC
+ATCTACTAACGAGACAAGACCGGAGAAAAAGATCTTTTGAGTTGCCACGTTCTCTGTGCTTACTGGAGCT
+TGGTTAGAGTTTGTATTCTGTGTCATATCTTGGGGATTAACACGAATACGTGGAGCTGTAGTACCTTGGT
+CATTGAGAAGACCTGGCAAAATGATTCCAAGATGCGTAATAGTGAGAGAAGCGTCTTTCCCTACAGTAAG
+AATAGAATCTTGTCCTAAAGCAAGAAGGCTAGTGCTTTCTTGAGTAAGAGGGCCATTGAAAAATTCAAAC
+TCTGCGCCATTTTCTATGGACATAGTCCCAAACTTCAAGGTAGTGGGGGAGTCTTTAATTTGGTTATGAG
+TTTTACTGGCAATCATGTGAGCTTGTAGATCACTGGATATGTTTTTGTATGAAAACACAACAGCGCCAGA
+GAACTCATCCGAAGGATTGATGGTAACGGTGTGCGGGCTATTTTCAGGGGGTGTATTAGCTTTTTTTAAG
+CCTCCCCATTGAAAAAGATCATAAAAATAGATGCGAGTATCTTTCTTAGCACCAAGAGATAGGGTGATAG
+GGTTATTGTTGGTTGTTCCAGGAATATAAAAAAGTTTTCGCAAACCTGCTGACATTCCGGTAGTTGAAAG
+CTCTGTATTATTGTTGAAGATAATATCCCCAGAGCCAGTATGAATATAGTTCGCAGCTGGGCTTGCAAAT
+AGGTGAAAAGCTCCTCCATACAGAGCCGAATTATTAAGAAAATAGATAGGACCATTTTCTTGAAAATTAA
+GGTTGTTGCAGGAAATAGCTCCTGCTATGTATGAGGCATTATTATTCTCAAAGTAGATAGGGCCTTTATT
+ATTTAGAAGACCAAACTCTCCTCCTGCGCTTATAACTGCTCCATTTCCTTGAGCACTAGTGTTATGCCAT
+CCTAAAGCGCTATTATTTATAAAAATAAGCTTATCCTTATTATCTCTAAAAATACACTGTCCCCCGGTGC
+TGATAGCTCCTCCGTATCCTCCATAGTTGGAATTGAAGACTACCGGACCAGTATTGTGTGAGATTTCGCA
+GGCACCTTGGCAGCCAACAGCTCCTCCTCGAGCAAGAATTGTAGCAAATGTGTTGGGTATGTGATCAGTA
+GTATGGTTATTTTCAAAAGCAACTATTCCGGACGTATTTTTGATAACTAGGTTTTGGATTGTGGATACGG
+CTCCTCCCATATCCCCAGAAGTGTTATTGATAAAATTTAAGCTATGATTATTAATTAGCTCGATGCTTGA
+TCCGTATAAAGCCCCTCCGCGATTCCTTTCGGTTCTTAATGCTACTCCTGTAAATTGAGTTCCAATAGTT
+GTATTATTATAGAACAATATGTTTTGGTTGTTTTTAAAGCTAATAAGGCCTGTAGCATTTATAGCTCCCC
+CTCCTCCCTGATGGGTGCAATAATTGTTACAAAAAAACAAGTCTGCATTGTCAATGGCTGTGAAAGAAGT
+CATAGACTCAACAAAAGCTCCACTAGAGTTTGTAGTGCTTAAACCTCTCGAAAACCATTGATCCTGCGTA
+CAACTTGAAATAGTAAAGTTCCCTCTATAATTAGAAACATTTGCGTAAGTGATGTATTGAGCAGCAATGG
+AGCTAGGCGGAGTAACTATGAATTCAATCTCTCTACCACCAAAAGTCAAGTTCGGAAGTTTGAGTGTATC
+GGTTTCACTGGCCGAAATACAAGATAAAGGAATGAAAACAAGTGAAAGAGGGAGAATTCTGCGAGTCA
+
+</dna_sequence>
+        <protein_sequence>>WP_010229975.1 autotransporter domain-containing protein [Chlamydia muridarum]
+MTRRILPLSLVFIPLSCISASETDTLKLPNLTFGGREIEFIVTPPSSIAAQYITYANVSNYRGNFTISSC
+TQDQWFSRGLSTTNSSGAFVESMTSFTAIDNADLFFCNNYCTHQGGGGAINATGLISFKNNQNILFYNNT
+TIGTQFTGVALRTERNRGGALYGSSIELINNHSLNFINNTSGDMGGAVSTIQNLVIKNTSGIVAFENNHT
+TDHIPNTFATILARGGAVGCQGACEISHNTGPVVFNSNYGGYGGAISTGGQCIFRDNKDKLIFINNSALG
+WHNTSAQGNGAVISAGGEFGLLNNKGPIYFENNNASYIAGAISCNNLNFQENGPIYFLNNSALYGGAFHL
+FASPAANYIHTGSGDIIFNNNTELSTTGMSAGLRKLFYIPGTTNNNPITLSLGAKKDTRIYFYDLFQWGG
+LKKANTPPENSPHTVTINPSDEFSGAVVFSYKNISSDLQAHMIASKTHNQIKDSPTTLKFGTMSIENGAE
+FEFFNGPLTQESTSLLALGQDSILTVGKDASLTITHLGIILPGLLNDQGTTAPRIRVNPQDMTQNTNSNQ
+APVSTENVATQKIFFSGLVSLVDENYESVYDSCDLSRGKANQPILHIETTNDAQLSNDWKNTLNTSLYSL
+PHYGYQGLWTSNWMTTTRTVSLTNSTETQTANNSIQEQKNTSETFDSNSTTTAKIPSIRASTGGTTPLAT
+TDVTVTRHSLVVSWTPIGYIADPARRGDLIANNLVSSGRNTTLYLRSLLPDDSWFALQGSAATLFTKQQK
+RLDYHGYSSASKGYAISSQASGAHGHKFLFSFSQSSDTMKEKRTNNKISSRYYLSALCFEQPMFDRIALI
+GAAAYNYGTHKTYNFYGTKKFSKGNFHSTTLGGSLRCELRDSMPFQSIMLTPFIQALISRTEPASIQEQG
+DLARLFSLKQPHTAVVSPIGIKGVYSSNKWPTVSCEMEVAYQPTLYWKRPILNTVLIKNNGSWETTNTPL
+AKHSFYGRGSSSLKFSYLKLFANYQAQVATSTVSHYMNAGGALVF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice vaccinated with DCs transfected with individual Chlamydia protein PmpG-1(25-500), RplF, or PmpE/F-2(25-575) exhibited significant resistance to challenge infection.  In addition, pmpE/F-2 was able to engender protective immunity against challenge with C. muridarum [Ref1062:Yu et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene436">
+        <gene_name>PmpG-1</gene_name>
+        <strain>Chlamydia muridarum str. Nigg</strain>
+        <vo_id>VO_0010891</vo_id>
+        <ncbi_gene_id>1246433</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>497915821</ncbi_protein_id>
+        <gene_locus_tag>TC_RS01335</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>WP_010229977</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>311528</gene_start>
+        <gene_end>314488</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>Pmp family polymorphic membrane protein autotransporter adhesin</protein_name>
+        <protein_pi>5.8</protein_pi>
+        <protein_weight>98285.26</protein_weight>
+        <protein_length>986</protein_length>
+        <protein_note>similar to GP:4376736; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:311528-314488 Chlamydia muridarum Nigg, complete genome
+GATGCAAACGCCTTTTCATAAGTTCTTTCTTCTAGCAATGCTATCTTACTCTTTATTGCAAGGAGGGCAT
+GCGGCAGATATTTCCATGCCTCCGGGAATTTATGATGGGACAACATTGACGGCGCCATTTCCCTACACTG
+TGATCGGAGATCCCAGAGGGACAAAGGTTACTTCATCGGGATCGCTAGAGTTGAAAAACCTGGACAATTC
+CATTGCGACTTTACCTCTAAGTTGTTTTGGTAATTTGTTGGGGAATTTCACTATTGCAGGAAGAGGGCAT
+TCGTTAGTATTTGAGAATATACGAACATCTACAAATGGGGCGGCATTGAGTAATCATGCTCCTTCTGGAC
+TGTTTGTAATTGAAGCTTTTGATGAACTCTCTCTTTTGAATTGTAATTCATTGGTATCTGTAGTTCCTCA
+AACAGGGGGTACGACTACTTCTGTTCCTTCTAATGGGACGATCTATTCTAGAACAGATCTTGTTCTAAGA
+GATATCAAGAAGGTTTCTTTCTATAGTAACTTAGTTTCTGGAGATGGGGGAGCTATAGATGCACAAAGTT
+TAATGGTTAACGGAATTGAAAAACTTTGTACCTTCCAAGAAAATGTAGCGCAGTCCGATGGGGGAGCGTG
+TCAGGTAACAAAGACCTTCTCTGCTGTGGGCAATAAGGTTCCTTTGTCTTTTTTAGGCAATGTTGCTGGT
+AATAAGGGGGGAGGAGTTGCTGCTGTCAAAGATGGTCAGGGGGCAGGAGGGGCGACTGATCTATCGGTTA
+ATTTTGCCAATAATACTGCTGTAGAATTTGAGGGAAATAGTGCTCGAATAGGTGGAGGGATCTACTCGGA
+CGGAAATATTTCCTTTTTAGGGAATGCAAAGACAGTTTTCCTAAGTAACGTAGCTTCGCCTATTTATGTT
+GACCCTGCTGCTGCAGGAGGACAGCCCCCTGCAGATAAAGATAACTATGGAGATGGAGGAGCCATCTTCT
+GCAAAAATGATACTAACATAGGTGAAGTCTCTTTCAAAGACGAGGGTGTTGTTTTCTTTAGTAAAAATAT
+TGCCGCAGGAAAGGGGGGCGCTATTTATGCTAAGAAACTGACAATTTCTGACTGTGGTCCGGTCCAGTTT
+CTTGGTAATGTCGCGAATGACGGGGGCGCTATTTATCTAGTAGATCAGGGGGAACTTAGTCTATCTGCTG
+ATCGCGGAGATATTATTTTTGATGGAAATTTAAAGAGAATGGCTACGCAAGGCGCTGCCACCGTCCATGA
+TGTAATGGTTGCATCGAATGCTATCTCTATGGCTACAGGGGGGCAAATCACAACATTAAGGGCTAAGGAA
+GGTCGCCGAATTCTTTTTAATGACCCTATTGAAATGGCGAATGGACAACCTGTAATACAAACTCTTACAG
+TAAACGAGGGCGAAGGATATACGGGGGACATTGTTTTTGCTAAAGGTGATAATGTTTTGTACTCAAGTAT
+TGAGCTGAGTCAGGGAAGAATTATTCTCCGAGAGCAAACAAAATTATTGGTTAACTCCCTGACTCAGACT
+GGAGGGAGTGTACATATGGAAGGGGGGAGTACACTAGACTTTGCAGTAACAACGCCACCAGCTGCTAATT
+CGATGGCTCTTACTAATGTACACTTCTCCTTAGCTTCTTTACTAAAAAATAATGGGGTTACAAATCCTCC
+AACGAATCCTCCAGTACAGGTTTCTAGTCCAGCTGTAATTGGTAATACAGCTGCTGGTACTGTTACGATT
+TCTGGTCCGATCTTTTTTGAAGATTTAGATGAAACTGCTTACGATAATAATCAGTGGTTAGGTGCGGATC
+AAACTATTGATGTGCTGCAGTTGCATTTAGGAGCGAATCCTCCGGCTAACGCTCCAACTGATTTGACTTT
+AGGGAACGAAAGTTCTAAATATGGGTATCAAGGAAGTTGGACACTTCAATGGGAACCAGATCCTGCGAAT
+CCTCCACAGAACAATAGCTACATGTTGAAGGCAAGCTGGACTAAAACAGGTTATAATCCTGGTCCGGAGC
+GCGTAGCTTCTCTGGTCTCTAATAGTCTTTGGGGATCCATTTTAGATGTGCGTTCCGCGCATTCTGCGAT
+TCAAGCAAGTATAGATGGACGAGCTTATTGTCGGGGTATTTGGATTTCTGGGATTTCGAACTTTTTCTAT
+CATGATCAGGATGCTTTAGGACAGGGGTATCGTCATATTAGTGGGGGATATTCGATAGGAGCAAACTCTT
+ATTTCGGGTCTTCTATGTTTGGACTTGCTTTTACTGAAACTTTTGGTAGGTCCAAAGATTATGTGGTCTG
+TCGATCTAACGATCACACTTGTGTAGGCTCTGTTTACTTATCCACTAGACAAGCGTTATGCGGATCCTGT
+TTATTTGGAGATGCTTTTGTTCGGGCGAGTTACGGATTTGGAAATCAGCATATGAAGACCTCTTATACAT
+TTGCTGAAGAGAGTAATGTGCGTTGGGATAATAACTGTGTAGTGGGAGAAGTTGGAGCTGGGCTCCCTAT
+CATGCTCGCTGCATCTAAGCTTTATCTAAATGAGTTGCGTCCCTTCGTGCAAGCAGAGTTTGCTTATGCA
+GAGCATGAATCTTTTACAGAGAGAGGGGATCAGGCTAGGGAGTTTAAGAGTGGGCATCTTATGAATCTAT
+CTATTCCAGTTGGGGTGAAGTTTGATCGATGCTCTAGTAAACATCCTAACAAGTATAGTTTTATGGGAGC
+TTATATCTGTGATGCTTACCGGTCCATTTCTGGAACGGAGACAACACTCCTGTCTCATAAAGAGACTTGG
+ACAACAGATGCTTTCCATTTAGCAAGGCATGGAGTTATGGTCAGAGGATCTATGTATGCTTCTTTAACAG
+GTAATATAGAAGTCTATGGCCATGGAAAATATGAATACAGGGATGCCTCTCGAGGGTATGGTTTAAGTAT
+TGGAAGTAAAATCCGATTCTA
+
+</dna_sequence>
+        <protein_sequence>>WP_010229977.1 autotransporter domain-containing protein [Chlamydia muridarum]
+MQTPFHKFFLLAMLSYSLLQGGHAADISMPPGIYDGTTLTAPFPYTVIGDPRGTKVTSSGSLELKNLDNS
+IATLPLSCFGNLLGNFTIAGRGHSLVFENIRTSTNGAALSNHAPSGLFVIEAFDELSLLNCNSLVSVVPQ
+TGGTTTSVPSNGTIYSRTDLVLRDIKKVSFYSNLVSGDGGAIDAQSLMVNGIEKLCTFQENVAQSDGGAC
+QVTKTFSAVGNKVPLSFLGNVAGNKGGGVAAVKDGQGAGGATDLSVNFANNTAVEFEGNSARIGGGIYSD
+GNISFLGNAKTVFLSNVASPIYVDPAAAGGQPPADKDNYGDGGAIFCKNDTNIGEVSFKDEGVVFFSKNI
+AAGKGGAIYAKKLTISDCGPVQFLGNVANDGGAIYLVDQGELSLSADRGDIIFDGNLKRMATQGAATVHD
+VMVASNAISMATGGQITTLRAKEGRRILFNDPIEMANGQPVIQTLTVNEGEGYTGDIVFAKGDNVLYSSI
+ELSQGRIILREQTKLLVNSLTQTGGSVHMEGGSTLDFAVTTPPAANSMALTNVHFSLASLLKNNGVTNPP
+TNPPVQVSSPAVIGNTAAGTVTISGPIFFEDLDETAYDNNQWLGADQTIDVLQLHLGANPPANAPTDLTL
+GNESSKYGYQGSWTLQWEPDPANPPQNNSYMLKASWTKTGYNPGPERVASLVSNSLWGSILDVRSAHSAI
+QASIDGRAYCRGIWISGISNFFYHDQDALGQGYRHISGGYSIGANSYFGSSMFGLAFTETFGRSKDYVVC
+RSNDHTCVGSVYLSTRQALCGSCLFGDAFVRASYGFGNQHMKTSYTFAEESNVRWDNNCVVGEVGAGLPI
+MLAASKLYLNELRPFVQAEFAYAEHESFTERGDQAREFKSGHLMNLSIPVGVKFDRCSSKHPNKYSFMGA
+YICDAYRSISGTETTLLSHKETWTTDAFHLARHGVMVRGSMYASLTGNIEVYGHGKYEYRDASRGYGLSI
+GSKIRF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice vaccinated with DCs transfected with individual Chlamydia protein PmpG-1(25-500), RplF, or PmpE/F-2(25-575) exhibited significant resistance to challenge infection.  Overall, vaccination with DCs transfected with PmpG-1(25-500) exhibited the greatest degree of protective immunity among the four Chlamydia Ags tested [Ref1062:Yu et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene437">
+        <gene_name>RplF</gene_name>
+        <strain>Chlamydia muridarum str. Nigg</strain>
+        <vo_id>VO_0010892</vo_id>
+        <ncbi_gene_id>1246168</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>497917443</ncbi_protein_id>
+        <gene_locus_tag>TC_RS04070</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>WP_010231599</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>941594</gene_start>
+        <gene_end>942145</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>50S ribosomal protein L6</protein_name>
+        <protein_pi>10.64</protein_pi>
+        <protein_weight>18060.75</protein_weight>
+        <protein_length>183</protein_length>
+        <protein_note>ribosomal protein L6 appears to have arisen as a result of an ancient gene duplication as based on structural comparison of the Bacillus stearothermophilus protein; RNA-binding appears to be in the C-terminal domain; mutations in the L6 gene confer resistance to aminoglycoside antibiotics such as gentamicin and these occur in truncations of the C-terminal domain; it has been localized to a region between the base of the L7/L12 stalk and the central protuberance</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:941594-942145 Chlamydia muridarum Nigg, complete genome
+TCTATTTTTTACCAGTTTTCGCTGCTTTTCCAGCCTTACGACGTACATATTCGTTTTCGTAACGAATTCC
+TTTACCTTTGTATGGCTCTGGAGGGCGTTTTGCACGAACACAAGCCGCAAATTCTCCTACCAACTGCTTG
+TTGATACCTTTGATGGAGATCAATGTGTTCTTCTCAACAGAGACTTCCAATCCTGTAGGAATAGGCATTT
+TTGTTGGATGGGAAACCCCTATCGATAAATCTAAGAAGGACCCCTGTACCGAAGCTCTGAATCCAACTCC
+GATCATTTCTAAACGTTTTTCAAATCCAAGGTGGACACCTTTGACCATATTTGCTATCAAAGCCCAATAA
+AGCCCTTGCATACGACCAGGTCTGTCTATAATGTGAGCTGCGGGAGAAACAAACACCTCATTACCTTTAA
+CGGCAATCTCAACTTCTTTAGCCAACACCTGTGTCAAAGACCCTTTAGGACCTTTTACTGAGATTTCATC
+ATTTTGAATAGAGACCTCTACGCCTTGAGGAAGTACAATAGGGTCTCGAGCTTTACGAGACA
+
+</dna_sequence>
+        <protein_sequence>>WP_010231599.1 50S ribosomal protein L6 [Chlamydia muridarum]
+MSRKARDPIVLPQGVEVSIQNDEISVKGPKGSLTQVLAKEVEIAVKGNEVFVSPAAHIIDRPGRMQGLYW
+ALIANMVKGVHLGFEKRLEMIGVGFRASVQGSFLDLSIGVSHPTKMPIPTGLEVSVEKNTLISIKGINKQ
+LVGEFAACVRAKRPPEPYKGKGIRYENEYVRRKAGKAAKTGKK
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Mice vaccinated with DCs transfected with individual Chlamydia protein PmpG-1(25-500), RplF, or PmpE/F-2(25-575) exhibited significant resistance to challenge infection.  In addition, RplF was able to engender protective immunity against challenge with C. muridarum [Ref1062:Yu et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene872">
+        <gene_name>Tarp</gene_name>
+        <strain>Chlamydia muridarum str. Nigg</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>1245826</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>497916366</ncbi_protein_id>
+        <gene_locus_tag>TC_RS02355</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>WP_010230522</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>571045</gene_start>
+        <gene_end>572607</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>peptide ABC transporter substrate-binding protein</protein_name>
+        <protein_pi>9.01</protein_pi>
+        <protein_weight>56833.03</protein_weight>
+        <protein_length>520</protein_length>
+        <protein_note>similar to GB:D00760, SP:P25787,  and PID:220024; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:571045-572607 Chlamydia muridarum Nigg, complete genome
+CATGCGCAAGGTATCAGTGGGAATCTGCTTGCTTATCGCATTAGCAACAGCAATTACCGGCTGCTCCAAA
+TCCTCCTCAAACAAATCAAATCACTCCTCCTCTAATCAAAGCGTATCTGTGAGCATGAAGGACGATCCTC
+GCACGTTTGACCCTCGAGAGGTTAGGCTTCTTTCGGATATTAATTTGATTCACCATCTTTATGAGGGACT
+GGTTCAAGAGACTCCTTCCGGAGAGGTTTTCCCTGCATTAGCAGAAAGTTTCTTCCTATCTGAAGATAAG
+AAAACCTACACTTTCCACCTAAAAAAAGCACTCTGGAGTAATGGAGACCTGATTACTGCTCATGATTTTG
+TACGTTCTTGGAACGATGTTTTGCAAAATCGCATTGCAAGTATCTACTCTTTCGCTTTTTTACCCATTGA
+TTTAAGTAAAGATTGTGGATTCTTCGCTAAGGACAATCATACACTTGTTATCAATTTGCATACCCCTACT
+CCACACTTTCTGAAATTACTTACCCTTCCAGTATTTTATCCTGTGCACCCCGAACATCAAATTCGGAATG
+AAGCAAAAGCTCTTCCAATATCTACAGGGGCTTTTTGTTTAAAAGAGAAAAAAGATCGGCGGTGGCTTAA
+ATTAGAAAAAAATCCCTATTATTATAACAAAGAGCAAGTTGCGATCCAGGAAATCCACATACATGTGATT
+CCTGATCAGCAGACCGCTTCTGCTTTGTTCAAACAAGGAAAATTGGATTGGCAAGGACTTCCTTGGGGAC
+ACAGCATTCCCCAAGAAGCTTTAGCAACAGCAAATAAACGTCGTACTCCTCAATCATTTGATATATCTGG
+CACCTCGTGGCTCACGTTCAACACATCAAAAGTACCCTTCAGCCATCCCAAGTTGCGACAAGCTTTAAGC
+CTTGTTCTAAATAAGGAAGCCTTAGCCTCTCCAACCTTTGTTAAGCCCGCTAAACACCTACTTCCTACAC
+ACCTGCACACTTATCCAGAGCAACCTACTTACAAACAACAAGAAGCCGTCATTTTAGCCAAAACTCTGTT
+ACAAGAAGCATTAACAGATCTTAATATGACTATAAAAGATCTTGAAAAATGCCCTTTGATTTTTTCAGCG
+ACATCTAGCGTCAACTCACAAATGGCCCAAATGATGCGCGATCAATGGCGAAGAATTTTAGGAATAACAT
+TCCCTATTTGCGGGAAAGAGTATGCTTTATTACAAAATGATTTGACCACCAACACTTTTTTTATGTCCAT
+AAACGGTTGGTTTGCAGACTTTTCCGATCCTTTAGCCTTCTTGTCTGTTTTTTCTTCTAAGGGAATCAAA
+CCTTATGCCTTACAAGACCCTCTGTTTGACCAGCTTATTCTCTCTATAGAAACGGAAAAAGATCCTCGAA
+AGCGTATTTCTCTGATTTCCGAAGCTTCTCTATACCTAGAAAAACAAAATATCATAGAACCGCTCTATCA
+CGATGTTTTTCACTATGCCGCAAATAATAAACTTTCTTTTGTTAGATTACATCCCTCAGGTCTTGTCGAT
+ATGCGGTATGCAAAAAACTCTTG
+
+</dna_sequence>
+        <protein_sequence>>WP_010230522.1 peptide ABC transporter substrate-binding protein [Chlamydia muridarum]
+MRKVSVGICLLIALATAITGCSKSSSNKSNHSSSNQSVSVSMKDDPRTFDPREVRLLSDINLIHHLYEGL
+VQETPSGEVFPALAESFFLSEDKKTYTFHLKKALWSNGDLITAHDFVRSWNDVLQNRIASIYSFAFLPID
+LSKDCGFFAKDNHTLVINLHTPTPHFLKLLTLPVFYPVHPEHQIRNEAKALPISTGAFCLKEKKDRRWLK
+LEKNPYYYNKEQVAIQEIHIHVIPDQQTASALFKQGKLDWQGLPWGHSIPQEALATANKRRTPQSFDISG
+TSWLTFNTSKVPFSHPKLRQALSLVLNKEALASPTFVKPAKHLLPTHLHTYPEQPTYKQQEAVILAKTLL
+QEALTDLNMTIKDLEKCPLIFSATSSVNSQMAQMMRDQWRRILGITFPICGKEYALLQNDLTTNTFFMSI
+NGWFADFSDPLAFLSVFSSKGIKPYALQDPLFDQLILSIETEKDPRKRISLISEASLYLEKQNIIEPLYH
+DVFHYAANNKLSFVRLHPSGLVDMRYAKNS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Immunization of mice with Tarp induced Th1-dominant immunity that significantly reduced the shedding of live organisms from the lower genital tract and attenuated inflammatory pathologies in the fallopian tube tissues. Tarp, an immunodominant antigen identified by human antisera, can induce protective immunity against chlamydial infection and pathology in mice [Ref1623:Wang et al., 2009].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene432">
+        <gene_name>TC0439 adherence factor</gene_name>
+        <strain>Chlamydia muridarum str. Nigg</strain>
+        <vo_id>VO_0010887</vo_id>
+        <ncbi_gene_id>1245792</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>497916297</ncbi_protein_id>
+        <gene_locus_tag>TC_RS02190</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>WP_010230453</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>526719</gene_start>
+        <gene_end>536375</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>adherence factor</protein_name>
+        <protein_pi>7.34</protein_pi>
+        <protein_weight>344190.12</protein_weight>
+        <protein_length>3218</protein_length>
+        <protein_note>similar to GP:6013469; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:526719-536375 Chlamydia muridarum Nigg, complete genome
+TATGACTCTTTCGAATACAGCCTCTTCCACAGTTTCACCTAAGTCTACGCAACTTAACCATACTTTATCC
+AATCAAACTCACCCTGTTGCTCAAAGCAATAGGAATATAGATTTCCAAATCTATGATGAACAGATTCATA
+ATAATCATTCTACAGAAGATGTAGTTGCTATAGGACGTCGTATTCAGCAAGAATATGCGAATCTTACCAC
+ATCAAAACAGGTTAATTTCTCGGCATCTCCATCTAACCATACTGGAAACTGGAAGATTTCTTTGCTTTAT
+AATTTATCGATGCTGGTTGCAAATCTATTCCCTACAACTATTCAGCCTGTGCAACCTCAAAAAGTCATCT
+TTAAGAATCAAGACTCTTCTAAGGAAACCCAACTGACCAAATCATCCAAAGTAGTTTCTTCTCGCTCTTC
+TTTAAAAGAGATTTTTTCGAAGAAATCTCCTCCTTTGAGAAAGTCTTTTTCTTCCTCTAAAATTTCTAGA
+GCAATCCCTAGAAGAAAAAAACGATCAAACGATGATCCAGTTCAAGCCACAAATACTTATGATTTGACCG
+CTGAAAATATTCTTGAAAAACTCTCTTTAACACAAGAACAACAAATTAAGCACGATAATCTGATTAGCAA
+TCTCAAAGAAGCAATTAATCGATATAGTGATCTTAATCGGAAAAATTCCCGGAAAGGACAATCCCTTCTT
+GTTAGGCAAGCCAAAATTCTAGATGAAATTCTTTCACAGACTAAATCTACAGAGGAACGAGCTTCCAATT
+CTGTAATGACGACTATTAAGAAGGAATTTACCTCCCACCGCGTACCTGTAGAGAAAAATATTCACGGAAT
+TTGGATTGCAGGTTCACCGCCAGAAGGGACCGATGAATATATTAAATTGTTCCTTCACACTTATCCAGAG
+TTTTCCTTCCTTTTTTGGGTGGATAAAACAGCTTATGGCGCAGCAAAATTCTCTTCTACTCTTAAACGAA
+TTGCTTTTGATGCAGCAGTTAATTCCTTACGAGAGGCTACTCCAGAGCCTGTCAAGCAGTTTGTTCAACG
+TTATGATAAGCTAAAAAAATCATACGATACTTCGCGAGATTTTGATGAAAAACAGCGGTTATCTGAGCAG
+TTAGTTGAGCTATACGATAATTACAATAAATTTAGTAAGGAGATTCAAAGTAACTTTGATGTTTTGCTAT
+TGCATGAAATGATCACTATTCAAGATAGCTTTTTTAACTACTGCCAGCTCAAAGGAGTAGGTGCAATAAC
+AGATGAGACACGTATAGAGTATCTTGAGAAAGTTTTGAAAGTAAAAGAAGAGGATCTATCTCACTATAAA
+GAAACTATCAAACGCAACAAAGAGTCTATTGAAAAACTTGTAAAAGAGATTAATGACTCTACTGGACGGG
+AGAGAGTAGTTATCAAAGACATCCGAGATTTGAAGTCTTTACAAGATCTTACTAATAGCTACAACTATGA
+AACAGAAATGTTACTCCGATGGAATTATGCAGCGGCTACCGACCAGCTTCGTATGTACATGCTTAAAGAA
+TATGGGGGGATTTATACAGACCTAGATATTATGCCACAATACTCTCAGGATGTTTTGCAAAAAATTATGG
+ATGTTGGTGGGAGTAGGTTTTTTGAGCATGATAAGTTACGGCGGACTCTTTCTTTTGCAGCTCTAAAATT
+AGGAAGCGGTAAGCAAACAACTGTTTCCTTTGAAGAGGCTAAAAAAGCTATGACTCTCCCCACATTTACT
+CTTCAGGATAAGAGTCAAATTTCTGAAATTTTTAAATATCTAGAAACGGAAACGCAAGCAAAAAAATCAC
+TTTTCCAACCGATGGATGTTACCGTCGTCCGTGATTTCATGCCTATTTTACAACGTTATCATAAGTGGCA
+AACAGGATGGAATGTTCGGGGATTAAATGGTTTAATGATGGCTCATAAAGATAGTGCTGTTGTCGATGCT
+GTTATTGCTCGCCAGCGAGCGGCCTATGATGAGATGCGTGCACTTCGTCAGAATGTTGTTAGTGGAGAAT
+TTTTTCGTTCTCTTGGAGATCTTGAACATGTAAATCGTGAAAAGAATATCGGCGGCTATTTAGCGAAAAA
+TTATCTTGGGGGCAGTCTTTTTTTCGATTTTCGTCAAGATTCAGTGATTCCAGGAGCTATTAGTACCTTA
+GGAATTTCAGGTCCCGATATCATCATGGATACCATGAGCGATTATTTTACAAATCTTGGACCAGTTGGAG
+AAGATTTTTTATATGAAGGGAAATTAGGAAAAGCAGCTTTCCTTGGAGCTTATCAAGCACAAAAAACTCC
+GAAAGGAGAACTTACCTATGATTGGCTCCATCCTTTATCCATTGGAGCTAATGACGTTACTCCTGCTGAT
+GCAAGCACCTGGTGTGAAACTCGACAGCATTGTGCCGCTGAGCTTCTTTTATCGGACTCTATATCCTCAG
+ACGAACACCCTAAGGGTATTCGTCGAGAAAGAGTAAACCCGAATGATTTCTCTAAATTATGGAGTAAGGA
+AGCTCAGGGAATCCTTTCTAGTGATTTCGCGGATCTTTTACCACGCTTTAACTTACTGATAGAATCATCT
+GCGTTAGATATTCATACTTTATCGGCTCTTGATCGAGATATCCAACACCTTTTTACAAAAGTTCAAAAAG
+ACCCTGTAGCATCTGTAGCTGTATTTTCTTTACAGTTACAATTAGCTGAAATGATTCGTGCGATTCCTTT
+CCCTATACGTAATCAGGTACATATCTTGCCTGAAGCACAAGCACATTTCGAAGCAGATTGGAAGAAAGCA
+ATCCAATTATATCTTCACAGTCATCCCCAAACAGAAGTGGTTATTTGGTACAGTTCTACTCATACTCAAA
+TTGTTTTTGGAAAAGATTTGCTTGCTGTTGCAGAACGAGTTGCAGCAGCAAAATCCTTAATGTCTGATCA
+TGATCCATCACTTATAACCAGTTATCTAAAATATAAAACTCAATCTCATCTTGGGGTGCTTACTGAGTTT
+GATCAAGAAGATTTCTTTGAACTGATGGTAGATATTGCAGAGGAACCAGAGCTTCATAAACAACTATTGA
+AAATAGAAGAACAAGTTAATTCAGGACTCTACTCTCATGTAGAGCATTCTTTAGGAGAGTGGTTAAAATT
+ATCCAAAGAAGAAAGAAAATCAAAGTTTCTTAAGATTTTAAAAGAAACGTTTCAAGAGGAGGAAAGAGAA
+GACTCTCAACAACAACATAAAACATGGTTTGAAGAACTCTATGAGAAAAGACATCAGGAGCGCGTAAAGG
+ATCCAGCAAAAAAAATCCAAGAACTAATCACAGTTTTTCAAGAAAGTCAGCGCGTTCAAGCTCAAGACAT
+AGATACTTATTTTGCTCATAAACCGTTTTATCAAGATCTGATGAAAGATGGTTACGCTTTTGAGGACATT
+TCTGTGATTACGAAGTATCTTTTAGCGAGTGACGGTGTTTCAGGGATTATTACTACTGATCCTATATTTC
+CTCCTCCATCTAAACAGCTAATTGACGCTATGAAACAATCTTTGGGAGAAGATTTTGGTGAGCTACACTA
+TACGTTACAGATGGTCTATGATTGGTTATCTAAAGAGACTAACAGCGTAACTTCTGAACAGGCAAAACAA
+AAATTACCACAGAAACTACATGAAAAACTAGAAGGTTATACAACACATGATTTGCTTATTCCGCCTATTG
+ATGGAAGCGTCAGCGCTTTAGGATTGCGATTTTCCACGGAGGAGGGGAAGGTATCCGATCGCGTTTTAAC
+AAGCATAGCACCTGGAGTTCCTAATTCTGCTAGCTATGCTATGACTAGTTATTTGTATGGTTTGTTCTTA
+ATTACGAAAGATATCCAAAGTGGTCGATTAACCCATGAAATACTAAAAGAGAGATTACAAACCTATGGAG
+GCGCCTATTTTATCAATGAATCAAAAATTGATGTGCTACTTGCTTTATCCCGGAAAAAAGCTCAGATATC
+CCTAATAGACGCCCATAAGGCTCTTACAGGTTTTTCTTCTTTTAGCGAAGCATCTCTGGCTTTACTTACA
+GGAAGGATGCCCGGAACAAGCAGAGTTCTATCAAGAGAAGTAGAGTTTGGACGACCTTCAGCTATCGTTA
+TGGAAGGAGCAACAGCTATTCGTGCTCAGAGTTACGATGCTGTTGGATTAAGGAAAGATTTTTTCTTGTT
+ACCTCATACAGTTCCTTCCATACAGTCTATTGTTGAGCAAGCGAAATATACAGTATTATCCTGGCCAGAA
+TTTTATGAAAATCATGCGGATAAATGGAACGATCTTGCTAATCGTTTTGGAGCTGAGGACCTTAGTGTTC
+ATCCGCAAACATTTTTATATGACACAGAAGGTCGCTGTATGGGGCTTGCTTTACTGTATATGTTAGCAGA
+TGACTCTGTATCCTACAGATTATTACAACAAAATCTGATGACTTTAGCTTCGTTATTTGATGAGCAAAAC
+AGAAGAAATATCCCTTTAACTCCAGCTGATCAGAAATTTTTAAATAAGGGGCTTTCTTTAATTGAGTGGT
+TACAGTTCAAAGGAAATCAACAACTTCAAACAGAGGGATTTTTCCATACCTTAGACTGGGATATCCCTCA
+ATTAATGAAGCACTTTGCTTCTTCAACTGTAAAAAGTTGGTTAATTACTACGCCTGCGCATAGTCTTGTT
+CTTTCTTTAATGGGGAATTTTTTTAGAGTAACAGATCCAAACTATGGCCATACAGACTTTCCTTCATTAG
+AAGCTGCTATTACTTTTTTAGAAAGGATGGTTCAAGTATCCCCAGCTGTTTTGGAGCGTTATGGATTTGA
+TAAGGAAAAGTCTGTAACTAGCCAACTCAAAGTCCACTCTTTAGAGACTTCAGAATTGCAAAATGCAGTT
+TTTGCTTCCTCAGATCTTGGCTTTACTAGTCGCTATTTTACGACAACGTTAGAAGAGATGACCGTCAGAG
+GCCCTATTACGATGAATCAACGTCACACGGATTGGGCCACTCTTTATAAGATTGGGGGGACTGTTCAAGG
+TAAACGTATTGATAGTAGAACACGGGAATCGGATTTAAATTTTTTAAAAATTAATGGGGATATTCTAGAG
+GAATTTTTAACAAGAACTGTTCTAGATAGTGACTTGGTGGAGTTAATACAATCTCTGCTCAAAACACATG
+GCCTTGAGCCAGGCACTACCCTTATTAGTCCAAGTTCTATTGTAGAGACCGCAATAGACCACGTCTCGCT
+ATTACAAGCGGTGAAAACAAAAACCTCTCGAATGCACACTATTTTACAAAGCCTAGGAGAAAGAATTTTT
+AAATTGTTTAAAAATTCTGGGGTACAAGACTCAGACAAAATTTCTATAGACAGAGTCCAACTAGTTGATG
+AATCTGATAGCGCAACGATAGACTTCACAGTGATTAAAGATAAACAGCGTTCTCAGAAAAAAAGTATTAC
+TGTTGGCATAGAAAGTTTAGCTGGATCCTTTAGAAAATTTAGCGCATCGATGCACGAAGTTATTGGAACT
+GGAGTGCTTGATTTAGACTTAGGAATGACTGTCGTCTCTTTAGTTCAGTATGTCCGTTTAGTAGAAGCAG
+GACAAGGAAAAGATGCTTTAGCAGTTGCTAATTTAGTGATGAATCTTAAAATAGCTCTCGAGGTCTCTAT
+AGGGAATGTAATTCAGGCTCTGGGTAAAAAACTGCTCACTCAGGAGGGGCTTAATACTTTCCGTTTAGAA
+ACAGAATTAGCTCGTCAACTACACAAAGTGGGAGCACGAGTTGGAGGAACTGTTGGTAAGACGTTAACCA
+GAGTAGCGCATGTATTAGAACTCCCCATATTAGAAAGTGCAATTGGAACATGGAACCTCTATAATAGTGT
+GAACGAGTTATTACATGCTGATTCTTGGAGTGACCAGGTTGCTGCTAGAGTACAAGTAGCTTTTGATTCA
+ATCTCTTTAGGAATCACTATAGCTTCGGTTGTTTCTCCAGCACTTATGATGGCAGCAGGCCCCATTGCTG
+CCATAGGGATGGGGGCAGCATCCATTGCTCGTAATGTTGCCAGAAAAGAAGAGCGGCACTCTCAATGGCT
+CAAGTACAAGAGTTTTCTTGATAATGGATCAAAACATACAGTTGCCGCATTCCCTCATAAAGGGCTTATA
+GATTTATCTGAGAATTTAGTACTTGGGAACATTGTGCTGAATTTAAGGGTTTACCCACCTCTGCTTACAG
+GCGATCGCTCTTATAATGCAAATCGGTGGTTTGGGAATAAGCCTGGATGGTCTGATTGGCAAGTTCGAGA
+AAGATTAGGTTATGCCTATCGAAGCAGTCCATCTTATGCGTTAGCCAGAGGACACGCTAATAGTTTTTGG
+CCACTATCTATGCCTAGTATTGATAAAGGTGTATATCGCACAGTAATTCTAGGATATGGCATTCAATATA
+AAGCGGTTACAGAAGTTGTCTACTTGTCTAATGAAATGGTTTGGAGAGAAGCTGTGATGCAGTTTGACTC
+TCGATACTATGTAGAGCCATTAACAGCGGAAAAGGAGTGTGCAACAGTACTAGCAGGAGATACGCCACTA
+TCAGTGATTCCTGTACGTTTATTAGAAGAGGAGTCTCTGGAACGCGAGAAGAACGCGGCTTCTTATAAGA
+ACTATCAGATCATTATTGAGGGAGGGAAAGGAGGACTTACTGTACAGATAGGAGGAGCAGGTTATTACAA
+GTTAACAGCACAGCCAGGAAAAGGGAATATCCTCTCTTTCCGAGCAATACCTGGATATCTTTCTGTAACG
+TTTGATCTTAGCCGATTGGAACAAGAGGTGCCTCTCACCAAACAAAATGGAACAGCCTTAAAGATACTTA
+AAGTACGTCAAACTGGGTTTGATACTATTGTTGGATCTTCAGGAGGTAGTGATAATTTAACAGGCAATCA
+CAATACAAAATTTTATCTAAGCACCGGAGGAGGACATGTCACCTCAGGATCCGGTAAGAACTGGTATAAC
+ATTCCATCTTTAACACGTAGCCTTGGTTTTGATTTTACTTCTAATGCTATAGAGCATAAGGCTTCTGTAG
+AGATGCTTTTAGCAGATTTCTCTCCTGCTAATAATTTAAGTTTAATAGTTGAACGATTTGCAAATGTTAG
+CATTCATGTTTTTAATTATAGCAATAAAACAGCCCCTTATACTGTGAATTTGAAAGACGGGGTGTCTTTA
+CAAGCTTCTAAGCAAGGCTTTAGCGGTAGTTTATTAGAGGTGGCTTCCTTTGATCAAACGCTATGGCAAA
+AGAGCTATCCAGAAGATAGAGGATTTGTAGAAGATATTTTATCTTGGTTATTAAAACTGCAATGGTCGTT
+AGCTTCTCGAGTAAGGATCTTTTTACAGGGAGGCACAGCACAATACGAAACAACGCAGAAAAGTCTTATT
+TATAGACCTGATCCACACTCAAGTATATCTATTCAGGCTACAGATTCTTATAATACACAAGTTTATGGTA
+ACGTTGGCTGTTCTTATATTCTATTCTCTTCACCAGGTGTGACCGCCAAAACACTCGATATTTTGTTATT
+CGAAGATTCGGGGTTACCACAAATTATTGACTTAAGCACACTTGTTCCAACTTCTATCCAAGGGTTCCTC
+TATCCAGGAGGGTTTATAAACTTTCAAGTCTCTTCTGCAAGATATGCATTTCCTTTTTCTGTCAGTTGGA
+GAAGGCATCATTACACTTTCCCTGCTCAAACGATTATTCAAGTTCTACCTCGCTTGCGGTTTGAACTAGG
+GGATTGGTTTACAATTTTGCAAAAGAGTGTAGGAAAATGGGTAACATTGTACCAACACGACATGATTATC
+CCTGAACGTATTGAAGGTGTTTTAAGTCTAAATAACACAGCGACATTAATGTCACACCACAATCAAACAA
+CCCATATGCTTGGAGTAGAAAACAGGGGAGATTTGAGTCTAAAAGTTTTAGGAATACTCCAATCTGGTCA
+AATTAAAGGATCTAAATCGGAAAATAGCGCGAGTGGTCATTTTTCTAAATTGTTATCTGTCCCAGCACAT
+ACGATCAAAAATCTTTCGTTTAAAGAGGAAGAGGGAACTAAGAGTAAAAATATTTTATTCTACAGTGTGC
+TGGAGGAAACATTCCTTAAAGCTACAGATAAACCTTTAACTATTATTAAACGTGATAAATGGTCTCTGTA
+TGATGAAATCCAAGTATTTGCAACAACTCTTAATCTGCAAAATTTCTTGCGTTATCATATTTCGGAAGAG
+ACTCCAATGTTATCTAGACTGCTCATGTATGCGCAGAAACGCGTTTCCATCCAAAATAGAGATCTCGCAT
+TGAAATTTTTCTATGTTCGAGAGCGAAGTGGTATTGGTGCAATTAGATTGGTATTCAAGAACTTTTTCGA
+AGAGAGCTTGCAGGGGATATTACATGGAACCTTAGAGCGAGAAGTTAAACCTATGCTAGCTGAAAATCCA
+AATACACTAATTCATTCATCGTATCGGAATCATTTAGAACTCATCCTAGGGGAGGAAACCTTAGATCTCG
+CAATTATCGTTCAAGAGTTTAGCTCTTCAAAAAATATTGTTGAGTTGCAAAAAGATCTAGCAACCCATCG
+GCTTATTTATCCTCAAGGAAAAGAAGCCTTGTCTCTTGCAATCTATACCCATACTTTCAGTAAAGAGAGC
+TTAGTCACATCTAAACAACGAAGCGAAGGGTTAAAATTCATCGATCCATCAATGCAGGAATATCGTTTAC
+CTGAGACAACGATTCTCGAAAACTCTTATTATTTAGACCCTTCCACAGGAGATTTGTATTTAACAAAGAT
+AATTGCGCAACCTTCACAAAGTAGAGCATTTCTTATCAAATTTAAAAAATACAAACGCCACTGGCTAGAT
+TTCCAAAAATTAGTTCTTTCTGGATCTCATTTAGAACTTATCGCATCTACTGGAACAGCTTTAACATTTG
+TAGGCCCCGAATTACGGCATTTAGAGATTGACTTCCCAGGCGCGTTAAATGGGACTATTGCCAAAGAACA
+CATCTCATCTCGGGCAAGTATTGTAATCCCAACAAACAATCAGGTGACACACTATGACCCAAGAATAGCG
+AAGCAGCATTATAGCTCTATCAATTATATGCTGTGGGATCTGCGTGATCGTGCGACACTATCTAAGCGAG
+CAAAAACTTTAGATAGCTATTTGTTAGAAGTTTGTATGAACTTAGACTCTTCTAATCCAACGTGGAATAT
+TCCAAATGATGTGTTGAACTACGCGGTAGGATATTATCGAACAATCCTTCCTAGCTGGGTAAAAAATAAA
+ATCCGTGTAGGTTCCTTAATTAAAGTAGAAGCTGATACTGCAAAAACTTTGAGTTTCTCACTAATTACGA
+CACAAAATGATCTATTCCAACCTGTAGTGGATAAAGGATTCTATATTTACTACAGCGTTTCGAAACTAGC
+CAATCATGTTAAACTGCGAAATGTTACTGGAGATATGTTGCTTGATATCGATAAGGAAACCACATTTATT
+GTTCGAGGAGTAGATGAATCTGATTATGATAAGAAACAAATCTATGTTGTTTTAGATCTGACAACAGAAG
+AAGAACGTAAATTGCGAACGGATAAGAACATCATTATTATTCCTGGAGGAGAACGATTGAACCGATG
+
+</dna_sequence>
+        <protein_sequence>>WP_010230453.1 LifA/Efa1-related large cytotoxin [Chlamydia muridarum]
+MTLSNTASSTVSPKSTQLNHTLSNQTHPVAQSNRNIDFQIYDEQIHNNHSTEDVVAIGRRIQQEYANLTT
+SKQVNFSASPSNHTGNWKISLLYNLSMLVANLFPTTIQPVQPQKVIFKNQDSSKETQLTKSSKVVSSRSS
+LKEIFSKKSPPLRKSFSSSKISRAIPRRKKRSNDDPVQATNTYDLTAENILEKLSLTQEQQIKHDNLISN
+LKEAINRYSDLNRKNSRKGQSLLVRQAKILDEILSQTKSTEERASNSVMTTIKKEFTSHRVPVEKNIHGI
+WIAGSPPEGTDEYIKLFLHTYPEFSFLFWVDKTAYGAAKFSSTLKRIAFDAAVNSLREATPEPVKQFVQR
+YDKLKKSYDTSRDFDEKQRLSEQLVELYDNYNKFSKEIQSNFDVLLLHEMITIQDSFFNYCQLKGVGAIT
+DETRIEYLEKVLKVKEEDLSHYKETIKRNKESIEKLVKEINDSTGRERVVIKDIRDLKSLQDLTNSYNYE
+TEMLLRWNYAAATDQLRMYMLKEYGGIYTDLDIMPQYSQDVLQKIMDVGGSRFFEHDKLRRTLSFAALKL
+GSGKQTTVSFEEAKKAMTLPTFTLQDKSQISEIFKYLETETQAKKSLFQPMDVTVVRDFMPILQRYHKWQ
+TGWNVRGLNGLMMAHKDSAVVDAVIARQRAAYDEMRALRQNVVSGEFFRSLGDLEHVNREKNIGGYLAKN
+YLGGSLFFDFRQDSVIPGAISTLGISGPDIIMDTMSDYFTNLGPVGEDFLYEGKLGKAAFLGAYQAQKTP
+KGELTYDWLHPLSIGANDVTPADASTWCETRQHCAAELLLSDSISSDEHPKGIRRERVNPNDFSKLWSKE
+AQGILSSDFADLLPRFNLLIESSALDIHTLSALDRDIQHLFTKVQKDPVASVAVFSLQLQLAEMIRAIPF
+PIRNQVHILPEAQAHFEADWKKAIQLYLHSHPQTEVVIWYSSTHTQIVFGKDLLAVAERVAAAKSLMSDH
+DPSLITSYLKYKTQSHLGVLTEFDQEDFFELMVDIAEEPELHKQLLKIEEQVNSGLYSHVEHSLGEWLKL
+SKEERKSKFLKILKETFQEEEREDSQQQHKTWFEELYEKRHQERVKDPAKKIQELITVFQESQRVQAQDI
+DTYFAHKPFYQDLMKDGYAFEDISVITKYLLASDGVSGIITTDPIFPPPSKQLIDAMKQSLGEDFGELHY
+TLQMVYDWLSKETNSVTSEQAKQKLPQKLHEKLEGYTTHDLLIPPIDGSVSALGLRFSTEEGKVSDRVLT
+SIAPGVPNSASYAMTSYLYGLFLITKDIQSGRLTHEILKERLQTYGGAYFINESKIDVLLALSRKKAQIS
+LIDAHKALTGFSSFSEASLALLTGRMPGTSRVLSREVEFGRPSAIVMEGATAIRAQSYDAVGLRKDFFLL
+PHTVPSIQSIVEQAKYTVLSWPEFYENHADKWNDLANRFGAEDLSVHPQTFLYDTEGRCMGLALLYMLAD
+DSVSYRLLQQNLMTLASLFDEQNRRNIPLTPADQKFLNKGLSLIEWLQFKGNQQLQTEGFFHTLDWDIPQ
+LMKHFASSTVKSWLITTPAHSLVLSLMGNFFRVTDPNYGHTDFPSLEAAITFLERMVQVSPAVLERYGFD
+KEKSVTSQLKVHSLETSELQNAVFASSDLGFTSRYFTTTLEEMTVRGPITMNQRHTDWATLYKIGGTVQG
+KRIDSRTRESDLNFLKINGDILEEFLTRTVLDSDLVELIQSLLKTHGLEPGTTLISPSSIVETAIDHVSL
+LQAVKTKTSRMHTILQSLGERIFKLFKNSGVQDSDKISIDRVQLVDESDSATIDFTVIKDKQRSQKKSIT
+VGIESLAGSFRKFSASMHEVIGTGVLDLDLGMTVVSLVQYVRLVEAGQGKDALAVANLVMNLKIALEVSI
+GNVIQALGKKLLTQEGLNTFRLETELARQLHKVGARVGGTVGKTLTRVAHVLELPILESAIGTWNLYNSV
+NELLHADSWSDQVAARVQVAFDSISLGITIASVVSPALMMAAGPIAAIGMGAASIARNVARKEERHSQWL
+KYKSFLDNGSKHTVAAFPHKGLIDLSENLVLGNIVLNLRVYPPLLTGDRSYNANRWFGNKPGWSDWQVRE
+RLGYAYRSSPSYALARGHANSFWPLSMPSIDKGVYRTVILGYGIQYKAVTEVVYLSNEMVWREAVMQFDS
+RYYVEPLTAEKECATVLAGDTPLSVIPVRLLEEESLEREKNAASYKNYQIIIEGGKGGLTVQIGGAGYYK
+LTAQPGKGNILSFRAIPGYLSVTFDLSRLEQEVPLTKQNGTALKILKVRQTGFDTIVGSSGGSDNLTGNH
+NTKFYLSTGGGHVTSGSGKNWYNIPSLTRSLGFDFTSNAIEHKASVEMLLADFSPANNLSLIVERFANVS
+IHVFNYSNKTAPYTVNLKDGVSLQASKQGFSGSLLEVASFDQTLWQKSYPEDRGFVEDILSWLLKLQWSL
+ASRVRIFLQGGTAQYETTQKSLIYRPDPHSSISIQATDSYNTQVYGNVGCSYILFSSPGVTAKTLDILLF
+EDSGLPQIIDLSTLVPTSIQGFLYPGGFINFQVSSARYAFPFSVSWRRHHYTFPAQTIIQVLPRLRFELG
+DWFTILQKSVGKWVTLYQHDMIIPERIEGVLSLNNTATLMSHHNQTTHMLGVENRGDLSLKVLGILQSGQ
+IKGSKSENSASGHFSKLLSVPAHTIKNLSFKEEEGTKSKNILFYSVLEETFLKATDKPLTIIKRDKWSLY
+DEIQVFATTLNLQNFLRYHISEETPMLSRLLMYAQKRVSIQNRDLALKFFYVRERSGIGAIRLVFKNFFE
+ESLQGILHGTLEREVKPMLAENPNTLIHSSYRNHLELILGEETLDLAIIVQEFSSSKNIVELQKDLATHR
+LIYPQGKEALSLAIYTHTFSKESLVTSKQRSEGLKFIDPSMQEYRLPETTILENSYYLDPSTGDLYLTKI
+IAQPSQSRAFLIKFKKYKRHWLDFQKLVLSGSHLELIASTGTALTFVGPELRHLEIDFPGALNGTIAKEH
+ISSRASIVIPTNNQVTHYDPRIAKQHYSSINYMLWDLRDRATLSKRAKTLDSYLLEVCMNLDSSNPTWNI
+PNDVLNYAVGYYRTILPSWVKNKIRVGSLIKVEADTAKTLSFSLITTQNDLFQPVVDKGFYIYYSVSKLA
+NHVKLRNVTGDMLLDIDKETTFIVRGVDESDYDKKQIYVVLDLTTEEERKLRTDKNIIIIPGGERLNR
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Following vaginal challenge with live Chlamydia, the groups of female BALB/c mice immunized intra-abdominally with TC0439 showed significant levels of protection when compared to negative control animals [Ref1057:McNeilly et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene430">
+        <gene_name>TC0512 outer membrane protein, putative</gene_name>
+        <strain>Chlamydia muridarum str. Nigg</strain>
+        <vo_id>VO_0010885</vo_id>
+        <ncbi_gene_id>1245872</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>497916494</ncbi_protein_id>
+        <gene_locus_tag>TC_RS02600</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>WP_010230650</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>618235</gene_start>
+        <gene_end>620613</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>outer membrane protein assembly factor BamA</protein_name>
+        <protein_pi>9.51</protein_pi>
+        <protein_weight>84655.32</protein_weight>
+        <protein_length>792</protein_length>
+        <protein_note>similar to GB:X75201,  and PID:435005; identified by sequence similarity; putative</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:618235-620613 Chlamydia muridarum Nigg, complete genome
+AATGCTTGGAATACGAAAAAAAACGATTCTGCAACTCGCTATTTTACTGTTGCTCCCCTTTTCACAAAAC
+GCCTTTGGAACATCTCCTGAAGGACGTATGGTGGTACAATCCATCACTATTGAGACTCGAGGAGAAAATG
+CTCAAAATAAGCGGGCTATTCCCAAAATAAAGACAAAGCAAGGGACGCTGTTCTCTCAAACTGATTTTGA
+CGAAGATCTAAGAACTCTCTCGAAAGATTTCGACCGCATTGATCCTATTGTAGAGTTTCGCAATGGGCAA
+GCTGTTATTTCCCTTATTCTGACAGCAAAACCCGTTATCCGACACATTAACATCTCAGGGAATGAAGCAA
+TTCCTACTCATAAAATTTTAAAAACCCTAGAGCTTTATAAAAACGATCTTTTTGATCGAGAGGTTTTTTT
+CAAAAATTTTGATGCTTTAAGAACCCTTTACTTAAAACGCGGATACTACGATTCTCAATTGTCCTATTCT
+CACGATCATAATGAGCAAGAAGGTTATATTGATATCTCAATCCAAATTAAAGAAGGGCCCTACGGACGGA
+TAAAAAAATTAACAATTTCAGGTATTACTCGTACAGAAGCCTCTGATTTGGGAGACATAGTTTTAACCAA
+ACAGTACTCTACAACAACAAGTTGGTTCACTGGAGCAGGGGTATACCATCCAGACATGGTGGACCAGGAT
+CTCTTTGCCATAACAAACTATTTTCAAAATAAAGGTTATGCAGACGCAAAAGTCACAAAAGAAGTCTCCA
+CAGATGCTAAAGGAAACCTCTCTCTTGTTATCAACGTAGATAAAGGGCCCCTGTATACTTTAGGTCACGT
+ACATATAGAAGGTTTCACAGCTTTATCCAAGCGGTTACTTGATAAACAACTGTTAGTGGGCCCCAATTCC
+TTATATTGCCCAGAAAAAGTTTGGGCTGGAGCTCAAAAAATCCGTAATGCCTACGCTAGATACGGATATG
+TAAATACCAATGTAGACGTATCTTTTGCTGTTCATCCAACGCTCCCAGTTTATGATGTTACTTACAGGGT
+TAGCGAAGGAGCTCCTTACAAAATCGGACTAATCAAAATCAAAGGGAACACACACACCAAACATGACGTA
+ATTTTACATGAGACAAGTCTGTTCCCTGGAGATACTTTTGATAGATTAAAACTAGAAGATACGGAAACTC
+GATTACGTAACACAGGCTACTTTAAAAGTGTGAGTGTCTACACGGTACGCTCACAATTAGATCCTTTGGA
+CTCAAATAACCTTTATAGAGACGTTTTCATTGAAGTCAAAGAAACCGAAACAGGTAACCTAGGACTGTTC
+TTAGGATTCAGTTCTATAGACCATCTGTTCGGAGGAGCAGAAATTTCAGAAAGCAATTTTGATTTATTTG
+GCGCCCGACACTTATTCAAAAAAGGGTTTAAATCCTTAAGAGGTGGTGGGGAATATCTTTTCTTAAAAGC
+CAATTTAGGAGACAAAGTTACTGATTATACTGTTAAATGGACAAAACCTCATTTCTTAAACACCCCATGG
+ATCCTAGGAGTAGAATTAGATAAATCTATTAATAAGGCTTTATCAAAAGATTATTCCGTTGATACCTATG
+GAGGAAACATCAGCACGACATACATTCTTAACGACAAACTGAAATATGGGATGTATTACCGCGGGAGCCA
+AACGAGCCTAAGTTTAAGAAAAAAAACAGAAAATCCTAACAAACCTGGACCAGATCTAGATAGTAACAAG
+GGATTTGTTTCCGCGGCAGGGCTTAACGTTCTTTACGATTCTATTGACAATCCTAGAAAACCTACTATGG
+GTATTCGGAGCTCTTTGAACTTTGAGTTGTCTGGATTAGGAGGAACCTATCAGTTTACAAAATTAACAGC
+CAGCGGCTCTATCTATCGCCTGCTAACTAAAAAAGGTGTTTTGAAAATTCGTGGAGAAGCTAAGTTTATT
+AAACCTTTCGGTACAACCACAGCCCAAGGAATTCCTGTTAGTGAGCGCTTCTTCTTAGGAGGAGAATCTA
+CCGTTCGTGGATATAAACCATTTATTATTGGGCCTAAATTTTCTCCAACAGAGCCTCAAGGGGGCTTATC
+TTCCTTATTGCTAACAGAAGAGTTTCAATATCCTCTAATTTCTCAACCCAGCATCAATGCATTCGTTTTT
+CTAGATTCGGGCTTTATTGGCACGGAAGAGTACACTATTCGACTCAAAAATCTCTGTAGCAGTGCCGGAT
+TTGGGTTGCGTTTTGATATGATGAATAACGTGCCCATTATGTTAGGTTGGGGTTGGCCTTTCCGCCCAAC
+AGAAATTCTTAATAATGAAAAAATTGATGTATCTCAAAGATTCTTCTTCGCTTTGGGAGGAGTGTTCTA
+
+</dna_sequence>
+        <protein_sequence>>WP_010230650.1 outer membrane protein assembly factor BamA [Chlamydia muridarum]
+MLGIRKKTILQLAILLLLPFSQNAFGTSPEGRMVVQSITIETRGENAQNKRAIPKIKTKQGTLFSQTDFD
+EDLRTLSKDFDRIDPIVEFRNGQAVISLILTAKPVIRHINISGNEAIPTHKILKTLELYKNDLFDREVFF
+KNFDALRTLYLKRGYYDSQLSYSHDHNEQEGYIDISIQIKEGPYGRIKKLTISGITRTEASDLGDIVLTK
+QYSTTTSWFTGAGVYHPDMVDQDLFAITNYFQNKGYADAKVTKEVSTDAKGNLSLVINVDKGPLYTLGHV
+HIEGFTALSKRLLDKQLLVGPNSLYCPEKVWAGAQKIRNAYARYGYVNTNVDVSFAVHPTLPVYDVTYRV
+SEGAPYKIGLIKIKGNTHTKHDVILHETSLFPGDTFDRLKLEDTETRLRNTGYFKSVSVYTVRSQLDPLD
+SNNLYRDVFIEVKETETGNLGLFLGFSSIDHLFGGAEISESNFDLFGARHLFKKGFKSLRGGGEYLFLKA
+NLGDKVTDYTVKWTKPHFLNTPWILGVELDKSINKALSKDYSVDTYGGNISTTYILNDKLKYGMYYRGSQ
+TSLSLRKKTENPNKPGPDLDSNKGFVSAAGLNVLYDSIDNPRKPTMGIRSSLNFELSGLGGTYQFTKLTA
+SGSIYRLLTKKGVLKIRGEAKFIKPFGTTTAQGIPVSERFFLGGESTVRGYKPFIIGPKFSPTEPQGGLS
+SLLLTEEFQYPLISQPSINAFVFLDSGFIGTEEYTIRLKNLCSSAGFGLRFDMMNNVPIMLGWGWPFRPT
+EILNNEKIDVSQRFFFALGGVF
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Following vaginal challenge with live Chlamydia, the groups of female BALB/c mice immunized intra-abdominally with TC0512 showed significant levels of protection when compared to negative control animals.  At 9 days following challenge TC0512 showed a 73% reduction in the number of recoverable Chlamydia compared with vector only immunized controls  [Ref1057:McNeilly et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene431">
+        <gene_name>TC0757 hypothetical protein</gene_name>
+        <strain>Chlamydia muridarum str. Nigg</strain>
+        <vo_id>VO_0010886</vo_id>
+        <ncbi_gene_id>1246122</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>497917305</ncbi_protein_id>
+        <gene_locus_tag>TC_RS03850</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>WP_010231461</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>898853</gene_start>
+        <gene_end>899647</gene_end>
+        <gene_strand>+</gene_strand>
+        <protein_name>hypothetical protein</protein_name>
+        <protein_pi>5.02</protein_pi>
+        <protein_weight>27979.63</protein_weight>
+        <protein_length>264</protein_length>
+        <protein_note>identified by match to TIGR protein family HMM TIGR01607</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:898853-899647 Chlamydia muridarum Nigg, complete genome
+CATGCGCTGTTCTGCTTATTGCTCTGCTTCGTCCTATCATCTACACGTTCTTTTTCATCTTTTAAAGGCA
+CGCTACCCTTCTGTCTTATCCCGAGAATACGTGCTCATTTCCTCTGAAGAGCTGAATGAAAGCGACAAAG
+CCGCTGTCTTTTTCCCATTTGGAGTTAGTGTGTTTTGGGGATGGGAAGAAGCTGAAGAACTTCAAGTGAT
+CCAAGCTATCACCTCAGCATCAGTGGATCCTCTCCCTAACCCAGAAATTGATAGTTATGACTTCCATTAT
+GGAGAGAAACTACAGATCCGTCGCGATAGACTTGTTCTCACCAACTCTAATTTAAACACAAAACTTGCTA
+TTTCCTTTGGGTTAGCCCAATCTATCAAACTTACCGTCTTTGAAGAAACGATTTACAAAACAGTTGAAAA
+CTCTAAATCTTTGCCTCAAGAACTTGCCTCTAAAGGGAAAATTTCTCTATCCCGTAAAACGATCGCAAAA
+AAGATTGGAGAGCTTTTCCTGGATAAAGCTTCCGTAAACCTACACTCTGACATTCTCGATGAGCCCGACT
+TTTTCTGGGAACATCCAGAAACCCAACCTTTTTATATTGATGTGTTGACCTGCCTAGATGTAAACGCGCG
+AGTAAATGTATTAAATCACAGACTTGCTATCCTAGGAGATGTTCTCGAGATTTTAAATGACCAACTTAAT
+CATCAGCATTCTTCAGCTCTAGAGTGGACCGTGATCTGGTTAATTGCACTAGAGGTATTGGTCACCTTAC
+TTAAAGACGTATTCAACATCATCTA
+
+</dna_sequence>
+        <protein_sequence>>WP_010231461.1 RMD1 family protein [Chlamydia muridarum]
+MRCSAYCSASSYHLHVLFHLLKARYPSVLSREYVLISSEELNESDKAAVFFPFGVSVFWGWEEAEELQVI
+QAITSASVDPLPNPEIDSYDFHYGEKLQIRRDRLVLTNSNLNTKLAISFGLAQSIKLTVFEETIYKTVEN
+SKSLPQELASKGKISLSRKTIAKKIGELFLDKASVNLHSDILDEPDFFWEHPETQPFYIDVLTCLDVNAR
+VNVLNHRLAILGDVLEILNDQLNHQHSSALEWTVIWLIALEVLVTLLKDVFNII
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Following vaginal challenge with live Chlamydia, the groups of female BALB/c mice immunized intra-abdominally with TC0757 showed significant levels of protection when compared to negative control animals [Ref1057:McNeilly et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene433">
+        <gene_name>TC0767 hypothetical protein</gene_name>
+        <strain>Chlamydia muridarum str. Nigg</strain>
+        <vo_id>VO_0010888</vo_id>
+        <ncbi_gene_id>1246132</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>497917334</ncbi_protein_id>
+        <gene_locus_tag>TC_RS03895</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>WP_010231490</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>910619</gene_start>
+        <gene_end>911350</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>polysaccharide deacetylase</protein_name>
+        <protein_pi>9.14</protein_pi>
+        <protein_weight>26828.18</protein_weight>
+        <protein_length>243</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:910619-911350 Chlamydia muridarum Nigg, complete genome
+ATTAATGCAAAATAAGGAATCGTTTTAATTGGCGGAAAGAGAGCTGATAAAGAGATGGGATCCCTCGACT
+ATCTAAAGCCATATCAATACGAGGAATGCTATGCTGTGATTGCATCGAGTAAAAAAAACTCGCAGCATCC
+CCTAACACAAAAGAATAGCGGTAAACCTCCTGAACAAAATGTTGACTCACCAAATCACTTTTTCCAAAAG
+GATAAAAAAAGACTTCCACAGGAGCCTGTATAGCCTCTTCTAGTAAAATTTTAGACAATGAAATTTCAGT
+ATGTAAATAAGGAGGGGAGTTTTTAAGGTTTCTAATAGCAAACCCTGAAGAGGCAAATCGAATAATCGAA
+CTTTGAGCCATATGACAAAGTTCTTTAACCGAACAAAAGGGCTGATAATAAGAAAATATTTCGTCTTGAA
+AAGCTAGAAAATCCGATGGCGAAATTCGCATATCAATGGGAAGATTTTCACTTTCTAAACGGGATACGTA
+TCTCCAAGCAACTCCAACAACCGCAGGAATCTGGAATTTCTGAAGAAAAGGAAAGACATGCTTGTAAAAA
+TCAACAGAAGCATAATCGAATGTCAGTATGATTGCTTTCCTATTAGGGAGAGGATCTCCGGGCAGAATAA
+ACGAATAATGCTGCTTGAGAGAGTGCAAAAAATCTAAAAACGATCTGAGGGCATAAGGAAACTTAGAAAA
+AGCAACCTGTCGATAGGCTAAGACGCGGAGCA
+
+</dna_sequence>
+        <protein_sequence>>WP_010231490.1 polysaccharide deacetylase family protein [Chlamydia muridarum]
+MLRVLAYRQVAFSKFPYALRSFLDFLHSLKQHYSFILPGDPLPNRKAIILTFDYASVDFYKHVFPFLQKF
+QIPAVVGVAWRYVSRLESENLPIDMRISPSDFLAFQDEIFSYYQPFCSVKELCHMAQSSIIRFASSGFAI
+RNLKNSPPYLHTEISLSKILLEEAIQAPVEVFFYPFGKSDLVSQHFVQEVYRYSFVLGDAASFFYSMQSQ
+HSIPRIDMALDSRGIPSLYQLSFRQLKRFLILH
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Following vaginal challenge with live Chlamydia, the groups of female BALB/c mice immunized intra-abdominally with TC0767/768 showed significant levels of protection when compared to negative control animals [Ref1057:McNeilly et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene434">
+        <gene_name>TC0768 hypothetical protein</gene_name>
+        <strain>Chlamydia muridarum Nigg</strain>
+        <vo_id>VO_0010889</vo_id>
+        <ncbi_gene_id>1246133</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>15835382</ncbi_protein_id>
+        <gene_locus_tag>TC_0768</gene_locus_tag>
+        <gene_refseq>AE002160</gene_refseq>
+        <protein_refseq>NP_297141</protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>243161</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>911335</gene_start>
+        <gene_end>911496</gene_end>
+        <gene_strand>-</gene_strand>
+        <protein_name>hypothetical protein</protein_name>
+        <protein_pi>3.69</protein_pi>
+        <protein_weight>5224.4</protein_weight>
+        <protein_length>53</protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>NC_002620.2:911335-911496 Chlamydia muridarum Nigg, complete genome
+GCTAAGACGCGGAGCATGGATCAACTGAAGGAATTGCAAAAGGGTCCTCTGGATAAATGACTACCTGTCC
+GGAAATGATCGTTAGATTACGCTCTTTTCCCTCAGGAGTAAGCTCTGCTGTTTCCGTAGAACAGACTTCA
+GAAGTAGGTAAGGAGATCGGCA
+
+</dna_sequence>
+        <protein_sequence>>NP_297141.1 hypothetical protein TC_0768 [Chlamydia muridarum str. Nigg]
+MPISLPTSEVCSTETAELTPEGKERNLTIISGQVVIYPEDPFAIPSVDPCSAS
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>Following vaginal challenge with live Chlamydia, the groups of female BALB/c mice immunized intra-abdominally with TC0767/768 showed significant levels of protection when compared to negative control animals [Ref1057:McNeilly et al., 2007].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference1058">
+		<reference_name>Faludi et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Faludi I, Burian K, Csanadi A, Miczak A, Lu X, Kakkar VV, Gonczol E, Endresz V</authors>
+		<title>Adjuvant modulation of the immune response of mice against the LcrE protein of Chlamydophila pneumoniae</title>
+		<year>2009</year>
+		<volume>299</volume>
+		<issue>7</issue>
+		<pages>520-528</pages>
+		<journal_book_name>International journal of medical microbiology : IJMM</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1057">
+		<reference_name>McNeilly et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>McNeilly CL, Beagley KW, Moore RJ, Haring V, Timms P, Hafner LM</authors>
+		<title>Expression library immunization confers partial protection against Chlamydia muridarum genital infection</title>
+		<year>2007</year>
+		<volume>25</volume>
+		<issue>14</issue>
+		<pages>2643-2655</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4875">
+		<reference_name>Mosolyg� et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mosolyg� T, Szab� AM, Balogh EP, Faludi I, Vir�k DP, Endr�sz V, Samu A, Kren�cs T, Buri�n K</authors>
+		<title>Protection promoted by pGP3 or pGP4 against Chlamydia muridarum is mediated by CD4(+) cells in C57BL/6N mice</title>
+		<year>2014</year>
+		<volume>32</volume>
+		<issue>40</issue>
+		<pages>5228-5233</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1061">
+		<reference_name>Skelding et al., 2006</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Skelding KA, Hickey DK, Horvat JC, Bao S, Roberts KG, Finnie JM, Hansbro PM, Beagley KW</authors>
+		<title>Comparison of intranasal and transcutaneous immunization for induction of protective immunity against Chlamydia muridarum respiratory tract infection</title>
+		<year>2006</year>
+		<volume>24</volume>
+		<issue>3</issue>
+		<pages>355-366</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4681">
+		<reference_name>Tifrea et al., 2016</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Tifrea DF, Barta ML, Pal S, Hefty PS, de la Maza LM</authors>
+		<title>Computational modeling of TC0583 as a putative component of the Chlamydia muridarum V-type ATP synthase complex and assessment of its protective capabilities as a vaccine antigen</title>
+		<year>2016</year>
+		<volume>18</volume>
+		<issue>4</issue>
+		<pages>245-253</pages>
+		<journal_book_name>Microbes and infection</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1623">
+		<reference_name>Wang et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang J, Chen L, Chen F, Zhang X, Zhang Y, Baseman J, Perdue S, Yeh IT, Shain R, Holland M, Bailey R, Mabey D, Yu P, Zhong G</authors>
+		<title>A chlamydial type III-secreted effector protein (Tarp) is predominantly recognized by antibodies from humans infected with Chlamydia trachomatis and induces protective immunity against upper genital tract pathologies in mice</title>
+		<year>2009</year>
+		<volume>27</volume>
+		<issue>22</issue>
+		<pages>2967-2980</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1426">
+		<reference_name>Wiki:  Chlamydia muridarum</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Chlamydia muridarum</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Chlamydia_muridarum</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1062">
+		<reference_name>Yu et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu H, Jiang X, Shen C, Karunakaran KP, Brunham RC</authors>
+		<title>Novel Chlamydia muridarum T cell antigens induce protective immunity against lung and genital tract infection in murine models</title>
+		<year>2009</year>
+		<volume>182</volume>
+		<issue>3</issue>
+		<pages>1602-1608</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4942">
+		<reference_name>Yu et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu H, Jiang X, Shen C, Karunakaran KP, Brunham RC</authors>
+		<title>Novel Chlamydia muridarum T cell antigens induce protective immunity against lung and genital tract infection in murine models</title>
+		<year>2009</year>
+		<volume>182</volume>
+		<issue>3</issue>
+		<pages>1602-1608</pages>
+		<journal_book_name>Journal of immunology (Baltimore, Md. : 1950)</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference2019">
+		<reference_name>Yu et al., 2010</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu H, Jiang X, Shen C, Karunakaran KP, Jiang J, Rosin NL, Brunham RC</authors>
+		<title>Chlamydia muridarum T-cell antigens formulated with the adjuvant DDA/TDB induce immunity against infection that correlates with a high frequency of gamma interferon (IFN-gamma)/tumor necrosis factor alpha and IFN-gamma/interleukin-17 double-positive CD4+ T cells</title>
+		<year>2010</year>
+		<volume>78</volume>
+		<issue>5</issue>
+		<pages>2272-2282</pages>
+		<journal_book_name>Infection and immunity</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4734">
+		<reference_name>Yu et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Yu H, Karunakaran KP, Jiang X, Brunham RC</authors>
+		<title>Evaluation of a multisubunit recombinant polymorphic membrane protein and major outer membrane protein T cell vaccine against Chlamydia muridarum genital infection in three strains of mice</title>
+		<year>2014</year>
+		<volume>32</volume>
+		<issue>36</issue>
+		<pages>4672-4680</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

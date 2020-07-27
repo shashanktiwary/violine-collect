@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen64">
+		<pathogen_name>Porcine circovirus 2</pathogen_name>
+		<taxon_id>85708</taxon_id>
+		<pathogenesis refs="reference1542">PCV2 binds to heparin sulfate and chondroitin sulfate, which are glycosaminoglycans (GAGs), as a 1st step of attachment. However, as PCV2 is found in cells that lack GAGs, it is thought that another coreceptor is also used for viral entry. The hallmark lesion of PCV2 infection is lymphoid depletion with histiocytic replacement. In affected lymph organs, dendritic cells, and macrophages that replace the lymphocytes contain large amounts of PCV2 virus. There is no viral degradation in these cells, and because dendritic cells are highly mobile, it is thought that dendritic mobility may be a method of viral dissemination in tissues. It is still unknown how PCV2 causes a reduction in lymphocytes. Hypotheses include induced apoptosis, decreased lymphocyte production in the bone marrow, or reduced lymphocyte proliferation in secondary lymphoid tissue (Gillespie et al., 2009).</pathogenesis>
+		<disease_name>Postweaning multisystemic wasting syndrome</disease_name>
+		<protective_immunity refs="reference1542">Because most breeding age sows are seropositive for PCV2, most piglets are born with maternal antibodies against PCV2. In weaned piglets, the mean half life of antibodies is 19 days. Antibody levels will wane at 4–6 weeks in pigs with initially low levels of antibody, at 6–10 weeks with moderate antibody levels, and by 8.5–13.5 weeks in pigs with high antibody levels. Piglets do not typically demonstrate clinical signs of disease before 4 weeks of age, suggesting that maternally derived antibodies are protective. Experimental studies found that maternal antibody protection is dependent on the level of maternal antibodies present. High levels of maternal antibodies are more protective than low levels, but do not completely prevent infection, whereas low levels of antibodies did not provide any protection against infection (Gillespie et al., 2009).</protective_immunity>
+		<host_range refs=""></host_range>
+		<introduction refs="reference1445">Porcine Circovirus (PCV) is a single stranded DNA virus (class II), that is non-enveloped with an un-segmented circular genome. The viral capsid is icosahedral and approximately 17 nm in diameter. PCV is a member of the virus family Circoviridae. PCV are the smallest viruses replicating autonomously in eukaryotic cells. They replicate in the nucleus of infected cells, utilising the host polymerase for genome amplification.  There are 2 strains: Type 1 PCV and Type 2 PCV. It is still unclear whether type 2 PCV (first isolated in 1997) actually causes PMWS, as infection with the virus alone causes no clinical signs, it appears to work synergistically with parvovirus, perhaps with parvovirus activating a latent form of circovirus or weakening the immune system enough for PCV to take hold. PCV1 and PCV2 show a high degree of sequence identity and a similar genomic organisation; nevertheless, the basis of the distinct pathogenicity has not yet been unravelled (Wiki: Porcine circovirus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine4243">
+		<vaccine_name>BV-GD-ORF2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004754</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3272">B aculovirus was used to develop a novel candidate vaccine for a preventive or therapeutic strategy to control PCV2 infections (Ye et al., 2013).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+		<host_response host_response_id="host_response1854" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3272">BALB/c mice were immunized intramuscularly with this baculovirus (Ye et al., 2013).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3272">The vaccination of mice with recombinant baculovirus BV-GD-ORF2 successfully induced robust Cap-protein-specific humoral and cellular immune responses (Ye et al., 2013).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine982">
+		<vaccine_name>PCV2 DNA Vaccine encoding ORF2 Protein</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0011481</vo_id>
+		<type>DNA vaccine</type>
+		<status>Research</status>
+		<vector>pCI-neo [Ref1247:Shen et al., 2008]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering466" gene_id="gene659">
+			<type>DNA vaccine construction</type>
+			<description refs=""></description>
+		</gene_engineering>
+		<host_response host_response_id="host_response737" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs="">BALB/c</host_strain>
+			<vaccination_protocol refs="reference1247">The mice in the vaccine groups were injected intramuscularly in the quadriceps with 100 µg pORF2 plasmid  prepared in 100 µl PBS as follows. The mice in the pORF2  group received vaccination with pORF2 plasmid, three times every 2 weeks, whilst those in the pORF2/Cap or Cap/pORF2 group were primed with pORF2 plasmid (or Cap protein) and boosted with doses of Cap protein (or pORF2 plasmid) twice every 2 weeks (Shen et al., 2008).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference1247">Following virus challenge, real-time PCR and histopathological analysis confirmed that only low viral DNA loads and mild microscopic lesions appeared in pORF2-immunized mice (Shen et al., 2008).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference1247">At 16 weeks p.i., the mice were challenged intraperitoneally with 0.2 ml PCV2 inoculum (105.75 TCID50 1/ml) (Shen et al., 2008).</challenge_protocol>
+			<description refs=""></description>
+              <host_gene_response host_gene_response_id="host_gene_response282" gene_id="gene1107">
+			    <description refs="reference1247">Serum IgG1 was significantly higher in mice immunized with PCV2 DNA vaccine encoding ORF2 protein than control mice, vaccinated with the pCI-neo vector and crude lysate of E. coli strain BL21 transformed with pGEX-4T-1 were used as substitutes for pORF2 plasmid and Cap protein, respectively.  The up regulation began 4 weeks after immunization (Shen et al., 2008).</description>
+			  </host_gene_response>
+              <host_gene_response host_gene_response_id="host_gene_response283" gene_id="gene1106">
+			    <description refs="reference1247">Serum IgG2a was significantly higher in mice immunized with PCV2 DNA vaccine encoding ORF2 protein than control mice, vaccinated with the pCI-neo vector and crude lysate of E. coli strain BL21 transformed with pGEX-4T-1 were used as substitutes for pORF2 plasmid and Cap protein, respectively. The up regulation began 4 weeks after immunization (Shen et al., 2008).</description>
+			  </host_gene_response>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine387">
+		<vaccine_name>Porcilis-PCV2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Porcilis-PCV2</brand_name>
+		<manufacturer>Intervet</manufacturer>
+		<vo_id>VO_0000201</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference812">Inactivated baculovirus expressed PCV2 ORF2 protein; adjuvanted (Wang et al., 2007).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2097">
+		<vaccine_name>Porcine Circovirus Type 1 - Type 2 Chimera, Killed Virus Vaccine (USDA: 19K5.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Wyeth</manufacturer>
+		<vo_id>VO_0002195</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2096">
+		<vaccine_name>Porcine Circovirus Type 2, Killed Baculovirus Vector Vaccine (USDA: 19K5.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc., Intervet Inc.</manufacturer>
+		<vo_id></vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2977">
+		<vaccine_name>Porcine Circovirus Type 2, Killed Baculovirus Vector Vaccine- Mycoplasma Hyopneumoniae Bacterin (USDA: 49K5.R1)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002316</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2095">
+		<vaccine_name>Porcine Circovirus Type 2, Killed Virus Vaccine (USDA: 19K5.20)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Merial, Inc.</manufacturer>
+		<vo_id>VO_0001798</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine2985">
+		<vaccine_name>Porcine Reproductive &amp; Respiratory Syndrome-Circovirus Reproductive &amp; Respiratory Form, Type 2, Modifed Live Virus,Killed Baculovirus Vector Vaccine-Mycoplasma Hyopneumoniae Bacterin (USDA: 49K9.R0)</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer>Boehringer Ingelheim Vetmedica, Inc.</manufacturer>
+		<vo_id>VO_0002317</vo_id>
+		<type>Live, attenuated vaccine; Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4184">
+		<vaccine_name>PrV-PCV2-ORF2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004699</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3221">PCV2 ORF2 gene was inserted into vector pG to produce the recombinant PRV vector pGO (Chao et al., 2014).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+
+		<gene_engineering gene_engineering_id="gene_engineering1761" gene_id="gene659">
+			<type>Recombinant vector construction</type>
+			<description refs="reference3221">PCV2 ORF2 gene was inserted into vector pG to produce the recombinant PRV vector pGO; the genome of PRV attenuated vaccine and the transfer plasmid pGO were transfected by using Lipofectamine 2000 Reagent into swine testis cells for homologous recombination to obtain the recombinant PRV (Chao et al., 2014).</description>
+		</gene_engineering>
+		<host_response host_response_id="host_response1853" host_id="host3">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3221">Six week odl mice were  immunized two intramuscular immunizations 4 weeks apart (Chao et al., 2014).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3221">Challenge experiments show that the recombinant virus and PCV2 inactivated vaccine could both protect the mice against PCV2 challenge, suggesting that the recombinant virus can be an excellent potential vaccine (Chao et al., 2014).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3221">Mice were then challenged with the virulent PCV2 NY strain at 8 weeks after the first immunization (Chao et al., 2014).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine4083">
+		<vaccine_name>rSPV-PCV2-cap</vaccine_name>
+		<proper_name>recombinant swinepox virus expressing PCV2 capsid protein</proper_name>
+		<brand_name></brand_name>
+		<manufacturer></manufacturer>
+		<vo_id>VO_0004619</vo_id>
+		<type>Recombinant vector vaccine</type>
+		<status>Research</status>
+		<vector>[Ref3090:Lin et al., 2012]</vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference3090">Recombinant swinepox virus expressing capsid protein (rSPV-cap) (Lin et al., 2012).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">PCV2 capsid</antigen>
+		<host_response host_response_id="host_response1852" host_id="host15">
+			<immune_response refs=""></immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs="reference3090">Pigs were immunized with rSPV-cap, wild type SPV (wtSPV; negative control), or PBS (challenge control) (Lin et al., 2012).</vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs="">VO_0003057</immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs="reference3090">After inoculation with PCV2, pigs in the rSPV-cap immunized group showed significantly higher average daily weight gain (ADG) and shorter fever duration compared with the wtSPV treated group. The results suggested that the recombinant rSPV-cap provided pigs with significant protection from PCV2-associated disease (Lin et al., 2012).</protection_efficacy>
+			<side_effects refs=""></side_effects>
+			<challenge_protocol refs="reference3090">Vaccinated pigs were challenged with PCV2 (Lin et al., 2012).</challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine388">
+		<vaccine_name>Suvaxyn PCV2</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Suvaxyn PCV2</brand_name>
+		<manufacturer>Fort Dodge</manufacturer>
+		<vo_id>VO_0000203</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed></location_licensed>
+		<description refs="reference813">Inactivated PCV1-2 chimera; adjuvanted (Ferrari et al., 2000)</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs=""></storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<gene gene_id="gene1107">
+        <gene_name>Ighg1</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>16017</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC160982</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id></taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand></gene_strand>
+        <protein_name></protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note></protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene1106">
+        <gene_name>Ighv1-9</gene_name>
+        <strain>Mus musculus</strain>
+        <vo_id></vo_id>
+        <ncbi_gene_id>668478</ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id></ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq>AC073561</gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs></xrefs>
+        <taxonomy_id>10090</taxonomy_id>
+        <chromosome>12</chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start>114583568</gene_start>
+        <gene_end>114583861</gene_end>
+        <gene_strand></gene_strand>
+        <protein_name>immunoglobulin heavy variable V1-9</protein_name>
+        <protein_pi></protein_pi>
+        <protein_weight></protein_weight>
+        <protein_length></protein_length>
+        <protein_note>Also known as Igg2a; Gm16697</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence>>gi|372099098:114583568-114583861 Mus musculus strain C57BL/6J chromosome 12, GRCm38 C57BL/6J
+GTCTTGCACAGTAATAGATGGCAGAGTCCTCAGTTGTCAGGCTGCTGAGTTGCATGTAGGCTGTGTTGGA
+GGATGTATCTGCAGTGAATGTGGCCTTGCCCTTGAACTTCTCATTGTAGTTAGTACTACCACTTCCAGGT
+AAAATCTCTCCAATCCACTCAAGGCCATGTCCAGGCCTCTGCTTTACCCACTCTATCCAGTAGCCAGTGA
+ATGTGTAGCCAGTAGCCTTGCAGGAAAGCTTCACTGAGGCCCCAGGCTTCATCAGCTCAGCTCCAGACTG
+CTGCAGCTGAACCT</dna_sequence>
+        <protein_sequence></protein_sequence>
+        <phi_function>Vaximmutor</phi_function>
+        <phi_annotation></phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<gene gene_id="gene659">
+        <gene_name>ORF2</gene_name>
+        <strain>Porcine circovirus type 2</strain>
+        <vo_id>VO_0011243</vo_id>
+        <ncbi_gene_id></ncbi_gene_id>
+        <ncbi_nucleotide_id></ncbi_nucleotide_id>
+        <ncbi_protein_id>78217439</ncbi_protein_id>
+        <gene_locus_tag></gene_locus_tag>
+        <gene_refseq></gene_refseq>
+        <protein_refseq></protein_refseq>
+        <pdb_id></pdb_id>
+        <xrefs>CDD:280582</xrefs>
+        <taxonomy_id>85708</taxonomy_id>
+        <chromosome></chromosome>
+        <segment></segment>
+        <plasmid></plasmid>
+        <gene_start></gene_start>
+        <gene_end></gene_end>
+        <gene_strand>?</gene_strand>
+        <protein_name>ORF2</protein_name>
+        <protein_pi>11.34</protein_pi>
+        <protein_weight>26948.82</protein_weight>
+        <protein_length>278</protein_length>
+        <protein_note>Circovirus capsid protein; pfam02443</protein_note>
+        <protein_annotation></protein_annotation>
+        <dna_sequence></dna_sequence>
+        <protein_sequence>>ABB36795.1 ORF2 [Porcine circovirus 2]
+MAYPRRRYRRRRHRPRSHLGQILRRRLWLLHPRHRYRWRRKNGIFNTRLSRTFGYTIKRTTVKTPSWAVD
+MMRFNINDFLPPGGGSNPRSVPFEYYRIRKVKVEFWPCSPITQGDRGVGSSAVILDDNFVTKATALTYDP
+YVNYSSRHTITQPFSYHSRYFTPKPVLDSTIDYFQPNNKRNQLWLRLQTAGNVDHVGLGTAFENSIYDQE
+YNIRVTMYVQFREFNLKDPPLKP
+
+</protein_sequence>
+        <phi_function>Protective antigen</phi_function>
+        <phi_annotation>An open reading frame 2 plasmid (pORF2) and the capsid protein (Cap) of PCV2 were used as DNA and subunit vaccines, respectively. In FCM analysis, although pORF2 and Cap alone showed comparable efficacy in eliciting lymphoproliferative responses and Cap-specific CD4(+) T cells, pORF2 was superior to the Cap protein in triggering CD8(+) T cells. Following virus challenge, real-time PCR and histopathological analysis confirmed that only low viral DNA loads and mild microscopic lesions appeared in pORF2-immunized mice [Ref1247:Shen et al., 2008].</phi_annotation>
+        <phi_function2></phi_function2>
+        <phi_annotation2></phi_annotation2>
+    </gene>
+	<reference reference_id="reference3221">
+		<reference_name>Chao et al., 2014</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Chao A, Fu P, Guo X, Gao X, Cui B, Chen H</authors>
+		<title>[Immune efficacy in mice by recombinant pseudorabies virus PGO expressing ORF2 gene of porcine circovirus type 2]</title>
+		<year>2014</year>
+		<volume>54</volume>
+		<issue>2</issue>
+		<pages>211-217</pages>
+		<journal_book_name>Wei sheng wu xue bao = Acta microbiologica Sinica</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4959">
+		<reference_name>Ding et al., 2017</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ding P, Zhang T, Li Y, Teng M, Sun Y, Liu X, Chai S, Zhou E, Jin Q, Zhang G</authors>
+		<title>Nanoparticle orientationally displayed antigen epitopes improve neutralizing antibody level in a model of porcine circovirus type 2</title>
+		<year>2017</year>
+		<volume>12</volume>
+		<issue></issue>
+		<pages>5239-5254</pages>
+		<journal_book_name>International journal of nanomedicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference813">
+		<reference_name>Ferrari et al., 2000</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ferrari M, Brack A, Romanelli MG, Mettenleiter TC, Corradi A, Dal Mas N, Losio MN, Silini R, Pinoni C, Pratelli A</authors>
+		<title>A study of the ability of a TK-negative and gI/gE-negative pseudorabies virus (PRV) mutant inoculated by different routes to protect pigs against PRV infection</title>
+		<year>2000</year>
+		<volume>47</volume>
+		<issue>10</issue>
+		<pages>753-762</pages>
+		<journal_book_name>Journal of veterinary medicine. B, Infectious diseases and veterinary public health</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1542">
+		<reference_name>Gillespie et al., 2009</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Gillespie J, Opriessnig T, Meng XJ, Pelzer K, Buechner-Maxwell V</authors>
+		<title>Porcine circovirus type 2 and porcine circovirus-associated disease</title>
+		<year>2009</year>
+		<volume>23</volume>
+		<issue>6</issue>
+		<pages>1151-1163</pages>
+		<journal_book_name>Journal of veterinary internal medicine / American College of Veterinary Internal Medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3090">
+		<reference_name>Lin et al., 2012</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Lin HX, Ma Z, Fan HJ, Lu CP</authors>
+		<title>Construction and immunogenicity of recombinant swinepox virus expressing capsid protein of PCV2</title>
+		<year>2012</year>
+		<volume>30</volume>
+		<issue>44</issue>
+		<pages>6307-6313</pages>
+		<journal_book_name>Vaccine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1247">
+		<reference_name>Shen et al., 2008</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Shen HG, Zhou JY, Huang ZY, Guo JQ, Xing G, He JL, Yan Y, Gong LY</authors>
+		<title>Protective immunity against porcine circovirus 2 by vaccination with ORF2-based DNA and subunit vaccines in mice</title>
+		<year>2008</year>
+		<volume>89</volume>
+		<issue>Pt 8</issue>
+		<pages>1857-1865</pages>
+		<journal_book_name>The Journal of general virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference812">
+		<reference_name>Wang et al., 2007</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Wang X, Jiang P, Li Y, Jiang W, Dong X</authors>
+		<title>Protection of pigs against post-weaning multisystemic wasting syndrome by a recombinant adenovirus expressing the capsid protein of porcine circovirus type 2</title>
+		<year>2007</year>
+		<volume>121</volume>
+		<issue>3-4</issue>
+		<pages>215-224</pages>
+		<journal_book_name>Veterinary microbiology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1445">
+		<reference_name>Wiki:  Porcine circovirus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Porcine circovirus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Porcine_circovirus</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3091">
+		<reference_name>Xu et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Xu J, Yang D, Huang D, Xu J, Liu S, Lin H, Zhu H, Liu B, Lu C</authors>
+		<title>Protection of guinea pigs by vaccination with a recombinant swinepox virus co-expressing HA1 genes of swine H1N1 and H3N2 influenza viruses</title>
+		<year>2013</year>
+		<volume>158</volume>
+		<issue>3</issue>
+		<pages>629-637</pages>
+		<journal_book_name>Archives of virology</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference3272">
+		<reference_name>Ye et al., 2013</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Ye Y, Cheng X, Zhang J, Tong T, Lin W, Liao M, Fan H</authors>
+		<title>Induction of robust immunity response in mice by dual-expression-system-based recombinant baculovirus expressing the capsid protein of porcine circovirus type 2</title>
+		<year>2013</year>
+		<volume>10</volume>
+		<issue></issue>
+		<pages>316</pages>
+		<journal_book_name>Virology journal</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+

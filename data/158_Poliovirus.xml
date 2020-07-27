@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VIOLIN>
+	<pathogen pathogen_id="pathogen55">
+		<pathogen_name>Poliovirus</pathogen_name>
+		<taxon_id>138953</taxon_id>
+		<pathogenesis refs="reference732">Poliovirus is an enterovirus. Infection occurs via the fecal-oral route. Poliovirus infects human cells by binding to an immunoglobulin-like receptor, CD155 (or called poliovirus receptor (PVR)) on the cell surface. Poliomyelitis is a disease of the central nervous system. Paralytic disease occurs when the virus enters the central nervous system and replicates in motor neurons (Wiki: Poliovirus).</pathogenesis>
+		<disease_name>Polio</disease_name>
+		<protective_immunity refs="reference732">Antibodies to poliovirus are able to block replication and spread of poliovirus (Wiki: Poliovirus).</protective_immunity>
+		<host_range refs="reference732">The primary determinant of infection for any virus is its ability to enter a cell and produce additional infectious particles. CD155 is found only on the cells of humans, higher primates, and Old World monkeys. However, poliovirus is strictly a human pathogen, and does not naturally infect any other species. Chimpanzees and Old World monkeys can only be experimentally infected (Wiki: Poliovirus).</host_range>
+		<introduction refs="reference732">Poliovirus is the causative agent of poliomyelitis. It is a human enterovirus and member of the family of Picornaviridae. Poliovirus is composed of a RNA genome and a protein capsid. There are three serotypes of poliovirus, PV1, PV2 , and PV3; each with a slightly different capsid protein. Poliovirus was first isolated in 1909 by Karl Landsteiner and Erwin Popper.Poliomyelitis is a disease of the central nervous system (Wiki: Poliovirus).</introduction>
+	</pathogen>
+
+	<host host_id="host55">
+		<common_name>Baboon</common_name>
+		<scientific_name>Papio cynocephalus</scientific_name>
+		<taxon_id>9556</taxon_id>
+    </host>
+	<host host_id="host43">
+		<common_name>Bank vole</common_name>
+		<scientific_name>Clethrionomys glareolus</scientific_name>
+		<taxon_id>447135</taxon_id>
+    </host>
+	<host host_id="host31">
+		<common_name>Bear</common_name>
+		<scientific_name>Ursus americanus</scientific_name>
+		<taxon_id>9643</taxon_id>
+    </host>
+	<host host_id="host51">
+		<common_name>Birds</common_name>
+		<scientific_name>Passeroidea</scientific_name>
+		<taxon_id>175121</taxon_id>
+    </host>
+	<host host_id="host35">
+		<common_name>Brown Trout</common_name>
+		<scientific_name>Salmo trutta</scientific_name>
+		<taxon_id>8032</taxon_id>
+    </host>
+	<host host_id="host30">
+		<common_name>Buffalo</common_name>
+		<scientific_name>Bison bison</scientific_name>
+		<taxon_id>9901</taxon_id>
+    </host>
+	<host host_id="host53">
+		<common_name>Carnivores</common_name>
+		<scientific_name>Vulpes</scientific_name>
+		<taxon_id>9625</taxon_id>
+    </host>
+	<host host_id="host37">
+		<common_name>Cat</common_name>
+		<scientific_name>Felis catus</scientific_name>
+		<taxon_id>9685</taxon_id>
+    </host>
+	<host host_id="host52">
+		<common_name>Catfishes</common_name>
+		<scientific_name>Siluriformes</scientific_name>
+		<taxon_id>7995</taxon_id>
+    </host>
+	<host host_id="host12">
+		<common_name>Cattle</common_name>
+		<scientific_name>Bos taurus</scientific_name>
+		<taxon_id>9913</taxon_id>
+    </host>
+	<host host_id="host8">
+		<common_name>Chicken</common_name>
+		<scientific_name>Gallus gallus</scientific_name>
+		<taxon_id>9031</taxon_id>
+    </host>
+	<host host_id="host42">
+		<common_name>Chimpanzee</common_name>
+		<scientific_name>Pan troglodytes</scientific_name>
+		<taxon_id>9598</taxon_id>
+    </host>
+	<host host_id="host26">
+		<common_name>chinchillas</common_name>
+		<scientific_name>Chinchillidae</scientific_name>
+		<taxon_id>10150</taxon_id>
+    </host>
+	<host host_id="host24">
+		<common_name>Copper Pheasant</common_name>
+		<scientific_name>Syrmaticus soemmerringii</scientific_name>
+		<taxon_id>9067</taxon_id>
+    </host>
+	<host host_id="host29">
+		<common_name>Deer</common_name>
+		<scientific_name>Cervus elaphus</scientific_name>
+		<taxon_id>9860</taxon_id>
+    </host>
+	<host host_id="host32">
+		<common_name>Deer mouse</common_name>
+		<scientific_name>Peromyscus maniculatus</scientific_name>
+		<taxon_id>10042</taxon_id>
+    </host>
+	<host host_id="host36">
+		<common_name>Dog</common_name>
+		<scientific_name>Canis familiaris</scientific_name>
+		<taxon_id>9615</taxon_id>
+    </host>
+	<host host_id="host9">
+		<common_name>Ducks</common_name>
+		<scientific_name>Anas</scientific_name>
+		<taxon_id>8835</taxon_id>
+    </host>
+	<host host_id="host19">
+		<common_name>Ferret</common_name>
+		<scientific_name>Mustela putorius furo</scientific_name>
+		<taxon_id>9669</taxon_id>
+    </host>
+	<host host_id="host48">
+		<common_name>Fish</common_name>
+		<scientific_name>Hyperotreti</scientific_name>
+		<taxon_id>117565</taxon_id>
+    </host>
+	<host host_id="host41">
+		<common_name>Gerbil</common_name>
+		<scientific_name>Gerbillina</scientific_name>
+		<taxon_id>10045</taxon_id>
+    </host>
+	<host host_id="host13">
+		<common_name>Goat</common_name>
+		<scientific_name>Capra hircus</scientific_name>
+		<taxon_id>9925</taxon_id>
+    </host>
+	<host host_id="host47">
+		<common_name>Gray wolf</common_name>
+		<scientific_name>Canis lupus</scientific_name>
+		<taxon_id>9612</taxon_id>
+    </host>
+	<host host_id="host7">
+		<common_name>Guinea pig</common_name>
+		<scientific_name>Cavia porcellus</scientific_name>
+		<taxon_id>10141</taxon_id>
+    </host>
+	<host host_id="host16">
+		<common_name>Hamster</common_name>
+		<scientific_name>Mesocricetus auratus</scientific_name>
+		<taxon_id>10036</taxon_id>
+    </host>
+	<host host_id="host18">
+		<common_name>Horse</common_name>
+		<scientific_name>Equus caballus</scientific_name>
+		<taxon_id>9796</taxon_id>
+    </host>
+	<host host_id="host2">
+		<common_name>Human</common_name>
+		<scientific_name>Homo sapiens</scientific_name>
+		<taxon_id>9606</taxon_id>
+    </host>
+	<host host_id="host39">
+		<common_name>Macaque</common_name>
+		<scientific_name>Macaca fascicularis</scientific_name>
+		<taxon_id>9541</taxon_id>
+    </host>
+	<host host_id="host40">
+		<common_name>Mongolian Gerbil</common_name>
+		<scientific_name>Meriones unguiculatus</scientific_name>
+		<taxon_id>10047</taxon_id>
+    </host>
+	<host host_id="host5">
+		<common_name>Monkey</common_name>
+		<scientific_name>Platyrrhini</scientific_name>
+		<taxon_id>9479</taxon_id>
+    </host>
+	<host host_id="host3">
+		<common_name>Mouse</common_name>
+		<scientific_name>Mus musculus</scientific_name>
+		<taxon_id>10090</taxon_id>
+    </host>
+	<host host_id="host59">
+		<common_name>None</common_name>
+		<scientific_name>None</scientific_name>
+		<taxon_id></taxon_id>
+    </host>
+	<host host_id="host50">
+		<common_name>Parrot</common_name>
+		<scientific_name>Psittacidae</scientific_name>
+		<taxon_id>9224</taxon_id>
+    </host>
+	<host host_id="host15">
+		<common_name>Pig</common_name>
+		<scientific_name>Sus scrofa</scientific_name>
+		<taxon_id>9823</taxon_id>
+    </host>
+	<host host_id="host6">
+		<common_name>Rabbit</common_name>
+		<scientific_name>Oryctolagus cuniculus</scientific_name>
+		<taxon_id>9986</taxon_id>
+    </host>
+	<host host_id="host45">
+		<common_name>Rainbow trout</common_name>
+		<scientific_name>Oncorhynchus mykiss</scientific_name>
+		<taxon_id>8022</taxon_id>
+    </host>
+	<host host_id="host4">
+		<common_name>Rat</common_name>
+		<scientific_name>Rattus</scientific_name>
+		<taxon_id>10114</taxon_id>
+    </host>
+	<host host_id="host34">
+		<common_name>Raven</common_name>
+		<scientific_name>Corvus corax</scientific_name>
+		<taxon_id>56781</taxon_id>
+    </host>
+	<host host_id="host54">
+		<common_name>sei whale</common_name>
+		<scientific_name>Balaenoptera borealis</scientific_name>
+		<taxon_id>9768</taxon_id>
+    </host>
+	<host host_id="host17">
+		<common_name>Sheep</common_name>
+		<scientific_name>Ovis aries</scientific_name>
+		<taxon_id>9940</taxon_id>
+    </host>
+	<host host_id="host28">
+		<common_name>Squirrel</common_name>
+		<scientific_name>Spermophilus richardsonii</scientific_name>
+		<taxon_id>37591</taxon_id>
+    </host>
+	<host host_id="host44">
+		<common_name>Tree shrew</common_name>
+		<scientific_name>Tupaiidae</scientific_name>
+		<taxon_id>9393</taxon_id>
+    </host>
+	<host host_id="host49">
+		<common_name>Trouts, salmons &amp; chars</common_name>
+		<scientific_name>Salmoninae</scientific_name>
+		<taxon_id>504568</taxon_id>
+    </host>
+	<host host_id="host38">
+		<common_name>Turkey</common_name>
+		<scientific_name>Meleagris gallopavo</scientific_name>
+		<taxon_id>9103</taxon_id>
+    </host>
+	<host host_id="host33">
+		<common_name>Vole</common_name>
+		<scientific_name>Microtus ochrogaster</scientific_name>
+		<taxon_id>79684</taxon_id>
+    </host>
+	<host host_id="host27">
+		<common_name>Water buffalo</common_name>
+		<scientific_name>Bubalus bubalis</scientific_name>
+		<taxon_id>391902</taxon_id>
+    </host>
+	<vaccine vaccine_id="vaccine5549">
+		<vaccine_name>Adacel-Polio</vaccine_name>
+		<proper_name>Tetanus Toxoid, Reduced Diphtheria Toxoid and Acellular Pertussis Vaccine Adsorbed Combined with Inactivated Poliomyelitis Vaccine</proper_name>
+		<brand_name>Adacel-Polio</brand_name>
+		<manufacturer>Sanofi Pasteur SA</manufacturer>
+		<vo_id></vo_id>
+		<type>Toxoid vaccine + Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="reference4067">ADACEL®-POLIO is a sterile, uniform, cloudy, white suspension of tetanus and diphtheria toxoids and acellular pertussis vaccine adsorbed separately on aluminum phosphate and combined with inactivated poliomyelitis vaccine (vero cell origin) types 1, 2 and 3, and suspended in water for injection. Acellular pertussis vaccine is composed of five purified pertussis antigens (PT, FHA, PRN and FIM). (Product Monograph: Adacel-Polio)</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5550">
+		<vaccine_name>Boostrix-Polio</vaccine_name>
+		<proper_name>Combined diphtheria, tetanus, acellular pertussis (adsorbed) and inactivated poliomyelitis vaccine</proper_name>
+		<brand_name>Boostrix-Polio</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id></vo_id>
+		<type>Toxoid vaccine + Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="reference4069">BOOSTRIX®-POLIO (combined diphtheria, tetanus, acellular pertussis and inactivated poliomyetitis) vaccine contains diphtheria toxoid, tetanus toxoid, three purified pertussis antigens [pertussis toxoid (PT), filamentous haemagglutinin (FHA) and pertactin (69 kDalton outer membrane protein)] adsorbed onto aluminum salts and inactivated polio virus types 1, 2 and 3. (GSK: Boostrix-Polio)</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine565">
+		<vaccine_name>DT Polio Adsorbed</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>DT Polio Adsorbed</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010709</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Td POLIO ADSORBED [Tetanus and Diphtheria Toxoids Adsorbed and Inactivated Poliomyelitis Vaccine] produced by Sanofi Pasteur Limited, is a sterile, cloudy, white, uniform suspension of tetanus and diphtheria toxoids adsorbed on aluminum phosphate and suspended in phosphate buffered saline solution and combined with Inactivated Poliomyelitis Vaccine for intramuscular injection only. Therefore, this vaccine contains proteins  and killed virus. The other component in the vaccine includes formaldehyde.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine573">
+		<vaccine_name>Imovax Polio</vaccine_name>
+		<proper_name>Inactivated Poliomyelitis Vaccine (Vero Cell Origin)</proper_name>
+		<brand_name>Imovax Polio</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010716</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Killed virus. Other components: Bovine serum, Formaldehyde Polysorbate 80.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="">Store at 2° to 8° C (35° to 46° F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine574">
+		<vaccine_name>Inactived Poliomyelitis Vaccine – IPV</vaccine_name>
+		<proper_name></proper_name>
+		<brand_name>Inactived Poliomyelitis Vaccine – IPV</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010718</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Subcutaneous injection</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Killed virus. Other components: Bovine serum, Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="reference923">Store at 2-8°C (36-46°F) (SP: IPV).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Subcutaneous injection</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine595">
+		<vaccine_name>Infanrix -IPV/Hib</vaccine_name>
+		<proper_name>Diphtheria, tetanus, pertussis (acellular component), poliomyelitis (inactivated) and Haemophilus type b conjugate vaccine (adsorbed)</proper_name>
+		<brand_name>Infanrix -IPV/Hib</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010722</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus + conjugate. Other components: Formaldehyde Polysorbate 80, Lactose.</description>
+		<adjuvant refs="">Aluminum Hydroxide</adjuvant>
+		<storage refs="">Store in a refrigerator (2°C – 8°C).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine582">
+		<vaccine_name>Infanrix-hexa</vaccine_name>
+		<proper_name>Combined diphtheria and tetanus toxoids, acellular pertussis, hepatitis B (recombinant), inactivated poliomyelitis and adsorbed conjugated Haemophilus influenzae type b vaccine</proper_name>
+		<brand_name>Infanrix-hexa</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010719</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed viruses + conjugate. Other components: Yeast protein Formaldehyde, Lactose, Polysorbate 20 and 80.</description>
+		<adjuvant refs="">Aluminum phosphate and aluminum hydroxide</adjuvant>
+		<storage refs="">Should be stored at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine591">
+		<vaccine_name>Infanrix-IPV</vaccine_name>
+		<proper_name>Diphtheria, tetanus, pertussis (acellular, component) and poliomyelitis (inactivated) vaccine (adsorbed)</proper_name>
+		<brand_name>Infanrix-IPV</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0010721</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store in a refrigerator (2°C - 8°C).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine338">
+		<vaccine_name>IPOL</vaccine_name>
+		<proper_name>Poliovirus Vaccine Inactivated (Monkey Kidney Cell)</proper_name>
+		<brand_name>IPOL</brand_name>
+		<manufacturer>Sanofi Pasteur, SA</manufacturer>
+		<vo_id>VO_0000054</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1724)</location_licensed>
+		<description refs="reference730">All children should receive four doses of inactivated poliovirus vaccine (IPV) at ages 2, 4, 6 to 18 months and 4 to 6 years (FDA: IPOL).</description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="reference730">2°C to 8°C (35°F to 46°F). The vaccine must not be frozen (FDA: IPOL).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="">IPOL is a sterile inactivated vaccine suspension of three types of poliovirus: Type 1 (Mahoney), Type 2 (MEF-1), and Type 3 (Saukett). Each of the three strains of poliovirus is individually grown in vero cells, a continuous line of monkey kidney cells cultivated on microcarriers. After clarification and filtration, viral suspensions are concentrated by ultrafiltration, and purified by liquid chromatography. After re-equilibration of the purified viral suspension, the monovalent viral suspensions are inactivated at +37°C for at least 12 days with 1:4000 formalin. Each dose (0.5 mL) of trivalent vaccine is formulated to contain 40 D antigen units of Type 1, 8 D antigen units.</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Three types of poliovirus: Type 1 (Mahoney), Type 2 (MEF-1), and Type 3 (Saukett).</antigen>
+		<host_response host_response_id="host_response445" host_id="host2">
+			<immune_response refs="reference730">In most clinical studies performed with this vaccine, the seroconversion rates have always been between 80% and 100% (FDA: IPOL).</immune_response>
+			<host_strain refs=""></host_strain>
+			<vaccination_protocol refs=""></vaccination_protocol>
+			<persistence refs=""></persistence>
+			<immune_response_type refs=""></immune_response_type>
+			<immune_response_type refs=""></immune_response_type>
+			<protection_efficacy refs=""></protection_efficacy>
+			<side_effects refs="reference730">The most common side effects reported include injection site reactions, fever, irritability and fatigue (FDA: IPOL).</side_effects>
+			<challenge_protocol refs=""></challenge_protocol>
+			<description refs=""></description>
+		</host_response>
+	</vaccine>
+	<vaccine vaccine_id="vaccine5551">
+		<vaccine_name>KINRIX</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed and Inactivated Poliovirus Vaccine</proper_name>
+		<brand_name>KINRIX</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0000067</vo_id>
+		<type>Toxoid vaccine + Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA</location_licensed>
+		<description refs="reference4076">KINRIX (Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed and Inactivated Poliovirus Vaccine) is a noninfectious, sterile vaccine for intramuscular administration. Each 0.5-mL dose is formulated to contain 25 Lf of diphtheria toxoid, 10 Lf of tetanus toxoid, 25 mcg of inactivated pertussis toxin (PT), 25 mcg of filamentous hemagglutinin (FHA), 8 mcg of pertactin (69 kiloDalton outer membrane protein), 40 D-antigen Units (DU) of Type 1 poliovirus
+183 (Mahoney), 8 DU of Type 2 poliovirus (MEF-1), and 32 DU of Type 3 poliovirus (Saukett). The diphtheria, tetanus, and pertussis components of KINRIX are the same as those in INFANRIX and PEDIARIX and the poliovirus component is the same as that in PEDIARIX. (FDA: KINRIX)</description>
+		<adjuvant refs="">Aluminum hydroxide</adjuvant>
+		<storage refs="">Store refrigerated between 2° and 8°C (36° and 46°F), do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs="">Each 0.5-mL dose is formulated to contain 25 Lf of diphtheria toxoid, 10 Lf of tetanus toxoid, 25 mcg of inactivated pertussin toxin (PT), 25 mcg of filamentous hemagglutinin (FHA), 8 mcg of pertactin (69 kiloDalton outer membrane protein), 40 D-antigen Units (DU) of Type 1 poliovirus (Mahoney), 8 DU of Type 2 poliovirus (MEF-1), and 32 DU of Type 3 poliovirus (Saukett).</antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine607">
+		<vaccine_name>Pediacel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed Combined with Inactivated Poliomyelitis Vaccine and Haemophilus b Conjugate Vaccine (Tetanus Protein – Conjugate)</proper_name>
+		<brand_name>Pediacel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010730</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins, killed virus + conjugate. Other components: Bovine serum Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine611">
+		<vaccine_name>Pediarix</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Hepatitis B (Recombinant) and Inactivated Poliovirus Vaccine Combined</proper_name>
+		<brand_name>Pediarix</brand_name>
+		<manufacturer>GlaxoSmithKline</manufacturer>
+		<vo_id>VO_0000082</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1617), Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Yeast protein Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum Hydroxide</adjuvant>
+		<storage refs="">The vaccine should be refrigerated between 2º and 8ºC (36º and 46ºF). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine613">
+		<vaccine_name>Pentacel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus and Haemophilus b Conjugate (Tetanus Toxoid Conjugate) Vaccine</proper_name>
+		<brand_name>Pentacel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0000084</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>USA (License #1726), Canada</location_licensed>
+		<description refs="reference938">It consists of a Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed and Inactivated Poliovirus (DTaP-IPV) component and an ActHIB® vaccine component. Pentacel vaccine is indicated for active immunization against diphtheria, tetanus, pertussis, poliomyelitis and invasive disease due to Haemophilus influenzae type b (FDA: Pentacel).</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs="reference938">Corynebacterium diphtheriae is grown in modified Mueller’s growth medium. After purification by ammonium sulfate fractionation, the diphtheria toxin is detoxified with formaldehyde and diafiltered (FDA: Pentacel).</preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine339">
+		<vaccine_name>Poliovax</vaccine_name>
+		<proper_name>Poliovirus Vaccine Inactivated (Human Diploid Cell)</proper_name>
+		<brand_name>Poliovax</brand_name>
+		<manufacturer>Sanofi Pasteur, Ltd</manufacturer>
+		<vo_id>VO_0000089</vo_id>
+		<type>Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route></route>
+		<location_licensed>USA</location_licensed>
+		<description refs=""></description>
+		<adjuvant refs=""></adjuvant>
+		<storage refs="reference775">The vaccine should be refrigerated between 35 and 46 degrees F (2-8 degrees C). Do not freeze (Poliovax).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs=""></route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine626">
+		<vaccine_name>Quadracel</vaccine_name>
+		<proper_name>Diphtheria and Tetanus Toxoids and Acellular Pertussis Vaccine Adsorbed   Combined with Inactivated Poliomyelitis Vaccine</proper_name>
+		<brand_name>Quadracel</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0010736</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Bovine albumin Formaldehyde, Glutaraldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2 to 8C (35 to 46F). Do not freeze.</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<vaccine vaccine_id="vaccine630">
+		<vaccine_name>Td Polio Adsorbed</vaccine_name>
+		<proper_name>Tetanus and Diphtheria Toxoids Adsorbed and Inactivated Poliomyelitis Vaccine</proper_name>
+		<brand_name>Td Polio Adsorbed</brand_name>
+		<manufacturer>Sanofi Pasteur Ltd</manufacturer>
+		<vo_id>VO_0011482</vo_id>
+		<type>Subunit vaccine + Inactivated or "killed" vaccine</type>
+		<status>Licensed</status>
+		<vector></vector>
+		<route>Intramuscular injection (i.m.)</route>
+		<location_licensed>Canada</location_licensed>
+		<description refs="">Products: Proteins + killed virus. Other components: Bovine albumin Formaldehyde, Polysorbate 80.</description>
+		<adjuvant refs="">Aluminum phosphate</adjuvant>
+		<storage refs="">Store at 2° to 8°C (35° to 46°F).</storage>
+		<virulence refs=""></virulence>
+		<preparation refs=""></preparation>
+		<route refs="">Intramuscular injection (i.m.)</route>
+		<antigen refs=""></antigen>
+	</vaccine>
+	<reference reference_id="reference730">
+		<reference_name>FDA: IPOL</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: IPOL vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm180053.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4076">
+		<reference_name>FDA: KINRIX</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: KINRIX vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM241453.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference731">
+		<reference_name>FDA: licensed vaccines</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: licensed vaccines</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/Cber/vaccine/licvacc.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference935">
+		<reference_name>FDA: Pediarix</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Pediarix</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm146759.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference938">
+		<reference_name>FDA: Pentacel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Pentacel</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.fda.gov/BiologicsBloodVaccines/Vaccines/ApprovedProducts/ucm172502.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4077">
+		<reference_name>FDA: Quadracel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>FDA: Quadracel vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.fda.gov/downloads/BiologicsBloodVaccines/Vaccines/ApprovedProducts/UCM439903.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4069">
+		<reference_name>GSK: Boostrix-Polio</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Boostrix-Polio vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://ca.gsk.com/media/589683/boostrix-polio.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4084">
+		<reference_name>GSK: Infanrix-hexa</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-hexa vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/537989/infanrix-hexa.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4074">
+		<reference_name>GSK: Infanrix-IPV</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-IPV vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/590851/infanrix-ipv.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4079">
+		<reference_name>GSK: Infanrix-IPV/Hib</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>GSK: Infanrix-IPV/Hib vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://ca.gsk.com/media/590970/infanrix-ipv-hib.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference1248">
+		<reference_name>Mahon et al., 1995</reference_name>
+		<reference_type>journal</reference_type>
+		<authors>Mahon BP, Katrak K, Nomoto A, Macadam AJ, Minor PD, Mills KH</authors>
+		<title>Poliovirus-specific CD4+ Th1 clones with both cytotoxic and helper activity mediate protective humoral immunity against a lethal poliovirus infection in transgenic mice expressing the human poliovirus receptor</title>
+		<year>1995</year>
+		<volume>181</volume>
+		<issue>4</issue>
+		<pages>1285-1292</pages>
+		<journal_book_name>The Journal of experimental medicine</journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url></url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference775">
+		<reference_name>Poliovax</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Medicinenet.com: Poliovax</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://www.medicinenet.com/poliovirus_vaccine-injection/article.htm</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4067">
+		<reference_name>Product Monograph: Adacel-Polio</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Adacel-Polio vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/document.cfm?file=adacel-polio_e.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference4082">
+		<reference_name>Product Monograph: Pediacel</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Product Monograph: Pediacel vaccine information</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/document.cfm?file=Pediacel_E.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference923">
+		<reference_name>SP: IPV</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>SP: Inactived Poliomyelitis Vaccine – IPV</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>https://www.vaccineshoppecanada.com/secure/pdfs/ca/ipv_E.pdf</url>
+		<file_name></file_name>
+	</reference>
+	<reference reference_id="reference732">
+		<reference_name>Wiki: Poliovirus</reference_name>
+		<reference_type>website</reference_type>
+		<authors></authors>
+		<title>Wiki: Poliovirus</title>
+		<year></year>
+		<volume></volume>
+		<issue></issue>
+		<pages></pages>
+		<journal_book_name></journal_book_name>
+		<publisher></publisher>
+		<publisher_location></publisher_location>
+		<book_editors></book_editors>
+		<isbn></isbn>
+		<university></university>
+		<university_location></university_location>
+		<degree></degree>
+		<url>http://en.wikipedia.org/wiki/Poliovirus</url>
+		<file_name></file_name>
+	</reference>
+</VIOLIN>
+
+
